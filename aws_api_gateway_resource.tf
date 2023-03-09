@@ -1,3 +1,5 @@
+// villager
+
 // villager is the defintion for the villager resource under the Animal Crossing REST API.
 resource "aws_api_gateway_resource" "villager" {
   depends_on  = [aws_api_gateway_rest_api.animal_crossing]
