@@ -3,6 +3,7 @@ resource "aws_api_gateway_method" "villager_get" {
   api_key_required     = false
   authorization        = "NONE"
   authorization_scopes = []
+  depends_on           = [aws_api_gateway_resource.villager]
   http_method          = "GET"
   request_models       = { "application/json" = "Error" }
   request_parameters   = { "method.request.path.proxy" = true }
