@@ -39,6 +39,7 @@ resource "aws_api_gateway_integration" "villager_options" {
 }
 
 
+// villager_post is the HTTP POST integration handler.
 resource "aws_api_gateway_integration" "villager_post" {
   depends_on              = [aws_lambda_function.villager_post]
   http_method             = aws_api_gateway_method.villager_post.http_method

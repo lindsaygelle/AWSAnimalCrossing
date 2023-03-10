@@ -5,13 +5,13 @@ locals {
 }
 
 locals {
-  villager = "${local.lambda}/villager"
+  lambda_villager = "${local.lambda}/villager"
 }
 
 // villager_post is the file content for villager_post Lambda handler.
 data "archive_file" "villager_post" {
-  output_path = "${local.villager}/post/lambda.zip"
-  source_file = "${local.villager}/post/lambda.py"
+  output_path = "${local.lambda_villager}/post/lambda.zip"
+  source_file = "${local.lambda_villager}/post/lambda.py"
   type        = "zip"
 }
 
