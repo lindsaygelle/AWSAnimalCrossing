@@ -19,6 +19,7 @@ resource "aws_api_gateway_rest_api" "animal_crossing" {
   name                     = var.app
 
   tags = {
-    app = var.app
+    app     = var.app
+    service = "api-gateway"
   }
 }
