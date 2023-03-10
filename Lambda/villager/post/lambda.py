@@ -1,2 +1,2 @@
-def lambda_handler(content):
+def lambda_handler(event: str, context: dict):
     pass

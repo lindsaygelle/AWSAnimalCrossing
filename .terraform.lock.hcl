@@ -1,6 +1,7 @@
 # This file is maintained automatically by "terraform init".
 # Manual edits may be lost in future updates.
 
+<<<<<<< HEAD
 provider "registry.terraform.io/hashicorp/archive" {
   version = "2.3.0"
   hashes = [
@@ -20,6 +21,8 @@ provider "registry.terraform.io/hashicorp/archive" {
   ]
 }
 
+=======
+>>>>>>> b4837de4bc6b1b2c8b999486314f3a236da32bce
 provider "registry.terraform.io/hashicorp/aws" {
   version     = "4.57.1"
   constraints = "~> 4.16"
