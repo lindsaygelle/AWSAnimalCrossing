@@ -7,7 +7,6 @@ data "aws_iam_policy_document" "animal_crossing_lambda_assume_role" {
     principals {
       identifiers = ["lambda.amazonaws.com"]
       type        = "Service"
-
     }
   }
 }
