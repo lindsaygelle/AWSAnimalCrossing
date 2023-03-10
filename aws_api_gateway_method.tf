@@ -25,3 +25,16 @@ resource "aws_api_gateway_method" "villager_options" {
   resource_id          = aws_api_gateway_resource.villager.id
   rest_api_id          = aws_api_gateway_rest_api.animal_crossing.id
 }
+
+// villager_post is the HTTP POST method handler.
+resource "aws_api_gateway_method" "villager_post" {
+  api_key_required     = false
+  authorization        = "NONE"
+  authorization_scopes = []
+  depends_on           = [aws_api_gateway_resource.villager]
+  http_method          = "POST"
+  request_models       = { "application/json" = "Error" }
+  request_parameters   = { "method.request.path.proxy" = true }
+  resource_id          = aws_api_gateway_resource.villager.id
+  rest_api_id          = aws_api_gateway_rest_api.animal_crossing.id
+}
