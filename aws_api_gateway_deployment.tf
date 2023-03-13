@@ -1,7 +1,10 @@
 // development is the bootstrap configuration for Animal Crossing REST API.
-/*
 resource "aws_api_gateway_deployment" "development" {
-  depends_on = [aws_api_gateway_rest_api.animal_crossing]
+  depends_on = [
+    aws_api_gateway_integration.villager_get,
+    aws_api_gateway_integration.villager_get_detail,
+    aws_api_gateway_integration.villager_post
+  ]
 
   lifecycle {
     create_before_destroy = true
@@ -14,4 +17,3 @@ resource "aws_api_gateway_deployment" "development" {
     redeployment = sha1(jsonencode(aws_api_gateway_rest_api.animal_crossing.body))
   }
 }
-*/
