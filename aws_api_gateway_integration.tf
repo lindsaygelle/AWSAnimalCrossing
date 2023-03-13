@@ -29,13 +29,14 @@ resource "aws_api_gateway_integration" "villager_get" {
 resource "aws_api_gateway_integration" "villager_get_detail" {
   depends_on              = [aws_api_gateway_method.villager_get_detail, aws_lambda_function.villager_get_detail]
   http_method             = aws_api_gateway_method.villager_get_detail.http_method
-  integration_http_method = aws_api_gateway_method.villager_get_detail.http_method
+  integration_http_method = "POST"
   resource_id             = aws_api_gateway_resource.villager_detail.id
   request_parameters      = { "integration.request.path.id" = "method.request.path.id" }
   rest_api_id             = aws_api_gateway_rest_api.animal_crossing.id
   type                    = "AWS_PROXY"
   uri                     = aws_lambda_function.villager_get_detail.invoke_arn
 }
+
 
 // villager_options is the HTTP OPTIONS integration handler for */villager*/*.
 // OPTIONS http*://*/villager/*
@@ -57,7 +58,7 @@ resource "aws_api_gateway_integration" "villager_options" {
 resource "aws_api_gateway_integration" "villager_post" {
   depends_on              = [aws_api_gateway_method.villager_post, aws_lambda_function.villager_post]
   http_method             = aws_api_gateway_method.villager_post.http_method
-  integration_http_method = aws_api_gateway_method.villager_post.http_method
+  integration_http_method = "POST"
   resource_id             = aws_api_gateway_resource.villager.id
   rest_api_id             = aws_api_gateway_rest_api.animal_crossing.id
   type                    = "AWS_PROXY"
