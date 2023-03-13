@@ -1,4 +1,5 @@
 // development is the bootstrap configuration for Animal Crossing REST API.
+/*
 resource "aws_api_gateway_deployment" "development" {
   depends_on = [aws_api_gateway_rest_api.animal_crossing]
 
@@ -13,3 +14,4 @@ resource "aws_api_gateway_deployment" "development" {
     redeployment = sha1(jsonencode(aws_api_gateway_rest_api.animal_crossing.body))
   }
 }
+*/
