@@ -1,4 +1,5 @@
 // development is the development stage for the Animal Crossing REST API.
+/*
 resource "aws_api_gateway_stage" "development" {
   cache_cluster_enabled = false
   description           = "Development environment for ${aws_api_gateway_rest_api.animal_crossing.name}"
@@ -16,3 +17,4 @@ resource "aws_api_gateway_stage" "development" {
     stage                  = "development"
   }
 }
+*/

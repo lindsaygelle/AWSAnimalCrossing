@@ -9,6 +9,7 @@ locals {
 // villager
 
 // villager_get_200 is the HTTP GET integration response handler for HTTP STATUS 200.
+// GET http*://*/villager/{id}
 resource "aws_api_gateway_integration_response" "villager_get_200" {
   depends_on  = [aws_api_gateway_method_response.villager_get_200]
   http_method = aws_api_gateway_integration.villager_get.http_method
@@ -18,6 +19,7 @@ resource "aws_api_gateway_integration_response" "villager_get_200" {
 }
 
 // villager_options_200 is the HTTP OPTIONS integration response handler for HTTP STATUS 200.
+// OPTIONS http*://*/villager/*
 resource "aws_api_gateway_integration_response" "villager_options_200" {
   depends_on  = [aws_api_gateway_method_response.villager_options_200]
   http_method = aws_api_gateway_integration.villager_options.http_method

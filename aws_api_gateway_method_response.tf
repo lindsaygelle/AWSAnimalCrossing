@@ -1,6 +1,7 @@
 // villager
 
 // villager_get_200 is the HTTP GET 200 response status handler.
+// GET http*://*/villager/
 resource "aws_api_gateway_method_response" "villager_get_200" {
   depends_on  = [aws_api_gateway_integration.villager_get]
   http_method = aws_api_gateway_integration.villager_get.http_method
@@ -10,6 +11,7 @@ resource "aws_api_gateway_method_response" "villager_get_200" {
 }
 
 // villager_options_200 is the HTTP OPTIONS 200 response status handler.
+// OPTIONS http*://*/villager/*
 resource "aws_api_gateway_method_response" "villager_options_200" {
   depends_on  = [aws_api_gateway_integration.villager_options]
   http_method = aws_api_gateway_integration.villager_options.http_method

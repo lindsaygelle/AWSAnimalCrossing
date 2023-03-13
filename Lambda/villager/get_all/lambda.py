@@ -1,2 +1,7 @@
 def handle_lambda(event: str, context: dict) -> dict:
-    return {}
+    return {
+        "body": [
+            {
+                "name": "Mock"}
+        ],
+        "statusCode": 200}

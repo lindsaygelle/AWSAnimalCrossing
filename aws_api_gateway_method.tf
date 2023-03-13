@@ -1,7 +1,7 @@
 // villager
 
-// villager_get is the HTTP GET method handler.
-// */villager/
+// villager_get is the HTTP GET integration for */villager.
+// GET */villager/
 resource "aws_api_gateway_method" "villager_get" {
   api_key_required     = false
   authorization        = "NONE"
@@ -9,27 +9,26 @@ resource "aws_api_gateway_method" "villager_get" {
   depends_on           = [aws_api_gateway_resource.villager]
   http_method          = "GET"
   request_models       = { "application/json" = "Error" }
-  request_parameters   = { "method.request.path.proxy" = true }
   resource_id          = aws_api_gateway_resource.villager.id
   rest_api_id          = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// villager_get_detail is the HTTP GET method handler for villager/{id}.
-// */villager/{id}*
+// villager_get_detail is the HTTP GET integration for */villager/{id}.
+// GET */villager/{id}
 resource "aws_api_gateway_method" "villager_get_detail" {
   api_key_required     = false
   authorization        = "NONE"
   authorization_scopes = []
   depends_on           = [aws_api_gateway_resource.villager_detail]
   http_method          = "GET"
-  request_models       = { "application/json" = "Error" }
-  request_parameters   = { "method.request.path.proxy" = true }
+  request_models       = { "application/json" = aws_api_gateway_model.villager_get_detail.name }
+  request_parameters   = { "method.request.path.id" = true }
   resource_id          = aws_api_gateway_resource.villager_detail.id
   rest_api_id          = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// villager_options is the HTTP OPTIONS method handler.
-// */villager/
+// villager_options is the HTTP OPTIONS integration for */villager/*.
+// OPTIONS */villager/*
 resource "aws_api_gateway_method" "villager_options" {
   api_key_required     = false
   authorization        = "NONE"
@@ -42,8 +41,8 @@ resource "aws_api_gateway_method" "villager_options" {
   rest_api_id          = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// villager_post is the HTTP POST method handler.
-// */villager/
+// villager_post is the HTTP POST integration for */villager.
+// POST */villager
 resource "aws_api_gateway_method" "villager_post" {
   api_key_required     = false
   authorization        = "NONE"
