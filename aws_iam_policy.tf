@@ -5,10 +5,10 @@ resource "aws_iam_policy" "animal_crossing_lambda_rds_basic_access" {
   policy     = data.aws_iam_policy_document.animal_crossing_lambda_rds_basic_access.json
 
   tags = {
-    "app"     = var.app
+    "app"                  = var.app
     "integration"          = "api-gateway"
     "intergration_service" = "api-gateway-rest-api"
-    "scope"   = "minor"
-    "service" = "rds"
+    "scope"                = "minor"
+    "service"              = "rds"
   }
 }
