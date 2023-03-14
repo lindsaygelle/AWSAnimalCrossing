@@ -42,6 +42,7 @@ resource "aws_lambda_function" "villager_get_detail" {
     }
   }
 
+
   tags = {
     "app"                  = var.app
     "endpoint"             = lower("${aws_api_gateway_rest_api.animal_crossing.name}-${aws_api_gateway_resource.villager.path_part}-id")
@@ -61,6 +62,17 @@ resource "aws_lambda_function" "villager_post" {
   role             = aws_iam_role.animal_crossing_lambda_assume_role.arn
   runtime          = local.lambda_runtime
   source_code_hash = filebase64sha256(data.archive_file.villager_post.output_path)
+
+  environment {
+    variables = {
+      RDS_HOST     = aws_db_instance.animal_crossing.address
+      RDS_PORT     = aws_db_instance.animal_crossing.port
+      RDS_DB_NAME  = local.db_engine
+      RDS_USERNAME = local.db_name
+      RDS_PASSWORD = aws_db_instance.animal_crossing.password
+    }
+  }
+
 
   tags = {
     "app"                  = var.app
