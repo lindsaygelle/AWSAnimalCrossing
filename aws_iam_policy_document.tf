@@ -14,7 +14,7 @@ data "aws_iam_policy_document" "animal_crossing_lambda_assume_role" {
 // animal_crossing_lambda_rds_basic_access is the AWS policy document for giving Lambda RDS data permissions.
 data "aws_iam_policy_document" "animal_crossing_lambda_rds_basic_access" {
   depends_on = [aws_db_instance.animal_crossing]
-  
+
   statement {
     actions = [
       "rds-data:ExecuteStatement",
@@ -27,5 +27,16 @@ data "aws_iam_policy_document" "animal_crossing_lambda_rds_basic_access" {
     effect    = "Allow"
     resources = [aws_db_instance.animal_crossing.arn]
     sid       = "${replace(title(var.app), "-", "")}LambdaRDSData"
+  }
+}
+
+data "aws_iam_policy_document" "animal_crossing_lambda_ec2" {
+  statement {
+    actions = [
+      "ec2:*"
+    ]
+    effect    = "Allow"
+    resources = ["*"]
+    sid       = "${replace(title(var.app), "-", "")}EC2"
   }
 }

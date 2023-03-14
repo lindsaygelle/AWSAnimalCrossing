@@ -23,6 +23,7 @@ resource "aws_api_gateway_rest_api" "animal_crossing" {
     "app"                  = var.app
     "integration"          = "api-gateway"
     "intergration_service" = "api-gateway-rest-api"
+    "region"               = var.aws_region
     "service"              = "api-gateway"
   }
 }
