@@ -20,6 +20,7 @@ resource "aws_db_instance" "animal_crossing" {
   monitoring_interval          = 0
   password                     = "postgres"
   performance_insights_enabled = false
+  port                         = 5432
   publicly_accessible          = false
   skip_final_snapshot          = true
   username                     = local.db_name
