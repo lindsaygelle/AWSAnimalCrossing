@@ -14,6 +14,6 @@ resource "aws_db_subnet_group" "animal_crossing" {
   tags = {
     "app"    = var.app
     "region" = var.aws_region
-    "vpc"    = aws_vpc.animal_crossing.name
+    "vpc"    = aws_vpc.animal_crossing.tags["Name"]
   }
 }

@@ -8,6 +8,7 @@ resource "aws_subnet" "private1" {
     "app"         = var.app
     "region"      = var.aws_region
     "region_name" = "a"
+    "vpc"         = aws_vpc.animal_crossing.tags["Name"]
     "Name"        = "${var.app}-${var.aws_region}a"
   }
 }
@@ -21,6 +22,7 @@ resource "aws_subnet" "private2" {
     "app"         = var.app
     "region"      = var.aws_region
     "region_name" = "b"
+    "vpc"         = aws_vpc.animal_crossing.tags["Name"]
     "Name"        = "${var.app}-${var.aws_region}b"
   }
 }

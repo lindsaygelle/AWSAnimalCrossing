@@ -34,15 +34,11 @@ resource "aws_lambda_function" "villager_get_detail" {
 
   environment {
     variables = {
-      RDS_HOST     = aws_db_instance.animal_crossing.address
-      RDS_PORT     = aws_db_instance.animal_crossing.port
-      RDS_DB_NAME  = local.db_engine
-      RDS_USERNAME = local.db_name
-      RDS_PASSWORD = aws_db_instance.animal_crossing.password
+      DB_PROXY_ENDPOINT = aws_db_proxy.rds.endpoint
+      DB_SECRET_ARN     = aws_secretsmanager_secret_version.rds.arn
     }
   }
-
-
+  
   tags = {
     "app"                  = var.app
     "endpoint"             = lower("${aws_api_gateway_rest_api.animal_crossing.name}-${aws_api_gateway_resource.villager.path_part}-id")
@@ -65,14 +61,10 @@ resource "aws_lambda_function" "villager_post" {
 
   environment {
     variables = {
-      RDS_HOST     = aws_db_instance.animal_crossing.address
-      RDS_PORT     = aws_db_instance.animal_crossing.port
-      RDS_DB_NAME  = local.db_engine
-      RDS_USERNAME = local.db_name
-      RDS_PASSWORD = aws_db_instance.animal_crossing.password
+      DB_PROXY_ENDPOINT = aws_db_proxy.rds.endpoint
+      DB_SECRET_ARN     = aws_secretsmanager_secret_version.rds.arn
     }
   }
-
 
   tags = {
     "app"                  = var.app
