@@ -33,3 +33,9 @@ resource "aws_iam_role_policy_attachment" "animal_crossing_lambda_kms" {
   policy_arn = aws_iam_policy.animal_crossing_lambda_kms.arn
   role       = aws_iam_role.animal_crossing_lambda_assume_role.name
 }
+
+resource "aws_iam_role_policy_attachment" "animal_crossing_lambda_ec2" {
+  depends_on = [aws_iam_policy.animal_crossing_lambda_ec2]
+  policy_arn = aws_iam_policy.animal_crossing_lambda_ec2.arn
+  role       = aws_iam_role.animal_crossing_lambda_assume_role.name
+}

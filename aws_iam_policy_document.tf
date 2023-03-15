@@ -40,7 +40,6 @@ data "aws_iam_policy_document" "animal_crossing_lambda_rds_data" {
   }
 }
 
-
 data "aws_iam_policy_document" "animal_crossing_lambda_ec2" {
   statement {
     actions = [
