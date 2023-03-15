@@ -1,73 +1,71 @@
-resource "aws_iam_policy" "animal_crossing_lambda_rds" {
-  depends_on = [data.aws_iam_policy_document.animal_crossing_lambda_rds]
-  name       = "${var.app}-lambda-rds"
-  policy     = data.aws_iam_policy_document.animal_crossing_lambda_rds.json
+resource "aws_iam_policy" "rds" {
+  depends_on = [data.aws_iam_policy_document.rds]
+  name       = "${var.app}-rds"
+  policy     = data.aws_iam_policy_document.rds.json
 
   tags = {
     "app"     = var.app
+    "region"  = var.aws_region
     "service" = "rds"
   }
 }
 
-
-resource "aws_iam_policy" "animal_crossing_lambda_rds_data" {
-  depends_on = [data.aws_iam_policy_document.animal_crossing_lambda_rds_data]
-  name       = "${var.app}-lambda-rds-data"
-  policy     = data.aws_iam_policy_document.animal_crossing_lambda_rds_data.json
+resource "aws_iam_policy" "rds_data" {
+  depends_on = [data.aws_iam_policy_document.rds_data]
+  name       = "${var.app}-rds-data"
+  policy     = data.aws_iam_policy_document.rds_data.json
 
   tags = {
     "app"     = var.app
+    "region"  = var.aws_region
     "service" = "rds-data"
   }
 }
 
-
-resource "aws_iam_policy" "animal_crossing_lambda_ec2" {
-  depends_on = [data.aws_iam_policy_document.animal_crossing_lambda_ec2]
-  name       = "${var.app}-lambda-ec2"
-  policy     = data.aws_iam_policy_document.animal_crossing_lambda_ec2.json
+resource "aws_iam_policy" "ec2" {
+  depends_on = [data.aws_iam_policy_document.ec2]
+  name       = "${var.app}-ec2"
+  policy     = data.aws_iam_policy_document.ec2.json
 
   tags = {
     "app"     = var.app
+    "region"  = var.aws_region
     "service" = "ec2"
   }
 }
 
-
-resource "aws_iam_policy" "animal_crossing_lambda_secrets_manager" {
-  depends_on = [data.aws_iam_policy_document.animal_crossing_lambda_secrets_manager]
-  name       = "${var.app}-lambda-secrets-manager"
-  policy     = data.aws_iam_policy_document.animal_crossing_lambda_secrets_manager.json
+resource "aws_iam_policy" "s3" {
+  depends_on = [data.aws_iam_policy_document.s3]
+  name       = "${var.app}-s3"
+  policy     = data.aws_iam_policy_document.s3.json
 
   tags = {
     "app"     = var.app
+    "region"  = var.aws_region
+    "service" = "s3"
+  }
+}
+
+resource "aws_iam_policy" "secrets_manager" {
+  depends_on = [data.aws_iam_policy_document.secrets_manager]
+  name       = "${var.app}-secrets-manager"
+  policy     = data.aws_iam_policy_document.secrets_manager.json
+
+  tags = {
+    "app"     = var.app
+    "region"  = var.aws_region
     "service" = "secrets-manager"
   }
 }
 
-
-resource "aws_iam_policy" "animal_crossing_lambda_kms" {
-  depends_on = [data.aws_iam_policy_document.animal_crossing_lambda_kms]
-  name       = "${var.app}-lambda-kms"
-  policy     = data.aws_iam_policy_document.animal_crossing_lambda_kms.json
+resource "aws_iam_policy" "kms" {
+  depends_on = [data.aws_iam_policy_document.kms]
+  name       = "${var.app}-kms"
+  policy     = data.aws_iam_policy_document.kms.json
 
   tags = {
     "app"     = var.app
+    "region"  = var.aws_region
     "service" = "kms"
-  }
-}
-
-// animal_crossing_lambda_rds_basic_access is the IAM policy for accessing RDS when executing as Lambda.
-resource "aws_iam_policy" "animal_crossing_lambda_ec2" {
-  depends_on = [data.aws_iam_policy_document.animal_crossing_lambda_ec2]
-  name       = "${var.app}-lambda-ec2"
-  policy     = data.aws_iam_policy_document.animal_crossing_lambda_ec2.json
-
-  tags = {
-    "app"                  = var.app
-    "integration"          = "api-gateway"
-    "intergration_service" = "api-gateway-rest-api"
-    "scope"                = "minor"
-    "service"              = "ec2"
   }
 }

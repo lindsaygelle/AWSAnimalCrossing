@@ -28,7 +28,7 @@ resource "aws_lambda_function" "villager_get_detail" {
   filename         = data.archive_file.villager_get.output_path
   function_name    = lower("${aws_api_gateway_rest_api.animal_crossing.name}-${aws_api_gateway_resource.villager.path_part}-detail-${aws_api_gateway_method.villager_get.http_method}")
   handler          = local.lambda_handler
-  role             = aws_iam_role.animal_crossing_lambda_assume_role.arn
+  role             = aws_iam_role.animal_crossing.arn
   runtime          = local.lambda_runtime
   source_code_hash = filebase64sha256(data.archive_file.villager_get.output_path)
 
@@ -38,7 +38,7 @@ resource "aws_lambda_function" "villager_get_detail" {
       DB_SECRET_ARN     = aws_secretsmanager_secret_version.rds.arn
     }
   }
-  
+
   tags = {
     "app"                  = var.app
     "endpoint"             = lower("${aws_api_gateway_rest_api.animal_crossing.name}-${aws_api_gateway_resource.villager.path_part}-id")
@@ -55,7 +55,7 @@ resource "aws_lambda_function" "villager_post" {
   filename         = data.archive_file.villager_post.output_path
   function_name    = lower("${aws_api_gateway_rest_api.animal_crossing.name}-${aws_api_gateway_resource.villager.path_part}-${aws_api_gateway_method.villager_post.http_method}")
   handler          = local.lambda_handler
-  role             = aws_iam_role.animal_crossing_lambda_assume_role.arn
+  role             = aws_iam_role.animal_crossing.arn
   runtime          = local.lambda_runtime
   source_code_hash = filebase64sha256(data.archive_file.villager_post.output_path)
 

@@ -1,4 +1,8 @@
-data "aws_iam_policy_document" "animal_crossing_lambda_assume_role" {
+// assume role
+// need to break these up!
+// need more roles :)
+
+data "aws_iam_policy_document" "assume_role" {
   statement {
     actions = ["sts:AssumeRole"]
     effect  = "Allow"
@@ -7,10 +11,24 @@ data "aws_iam_policy_document" "animal_crossing_lambda_assume_role" {
       identifiers = ["lambda.amazonaws.com"]
       type        = "Service"
     }
+    sid = "${replace(title(var.app), "-", "")}LambdaAssumeRole"
+  }
+
+  statement {
+    actions = ["sts:AssumeRole"]
+    effect  = "Allow"
+
+    principals {
+      type        = "Service"
+      identifiers = ["codebuild.amazonaws.com"]
+    }
+    sid = "${replace(title(var.app), "-", "")}CodebuildAssumeRole"
   }
 }
 
-data "aws_iam_policy_document" "animal_crossing_lambda_rds" {
+// policies
+
+data "aws_iam_policy_document" "rds" {
   statement {
     actions = [
       "rds-db:connect"
@@ -22,7 +40,7 @@ data "aws_iam_policy_document" "animal_crossing_lambda_rds" {
 }
 
 
-data "aws_iam_policy_document" "animal_crossing_lambda_rds_data" {
+data "aws_iam_policy_document" "rds_data" {
   depends_on = [aws_db_instance.animal_crossing]
 
   statement {
@@ -40,7 +58,7 @@ data "aws_iam_policy_document" "animal_crossing_lambda_rds_data" {
   }
 }
 
-data "aws_iam_policy_document" "animal_crossing_lambda_ec2" {
+data "aws_iam_policy_document" "ec2" {
   statement {
     actions = [
       "ec2:*"
@@ -51,7 +69,44 @@ data "aws_iam_policy_document" "animal_crossing_lambda_ec2" {
   }
 }
 
-data "aws_iam_policy_document" "animal_crossing_lambda_secrets_manager" {
+data "aws_iam_policy_document" "s3" {
+  statement {
+    actions = [
+      "s3:*"
+    ]
+
+    effect = "Allow"
+
+    resources = [
+      "${aws_s3_bucket.s3.arn}",
+      "${aws_s3_bucket.s3.arn}/*"
+    ]
+
+    sid = "${replace(title(var.app), "-", "")}S3"
+  }
+}
+
+
+data "aws_iam_policy_document" "s3_bucket" {
+  statement {
+    principals {
+      type        = "AWS"
+      identifiers = [aws_iam_role.animal_crossing.arn]
+    }
+
+    actions = [
+      "s3:GetObject",
+      "s3:ListBucket",
+    ]
+
+    resources = [
+      aws_s3_bucket.s3.arn,
+      "${aws_s3_bucket.s3.arn}/*",
+    ]
+  }
+}
+
+data "aws_iam_policy_document" "secrets_manager" {
   statement {
     actions = [
       "secretsmanager:GetSecretValue"
@@ -62,7 +117,7 @@ data "aws_iam_policy_document" "animal_crossing_lambda_secrets_manager" {
   }
 }
 
-data "aws_iam_policy_document" "animal_crossing_lambda_kms" {
+data "aws_iam_policy_document" "kms" {
   statement {
     actions = [
       "kms:Decrypt"
@@ -72,4 +127,3 @@ data "aws_iam_policy_document" "animal_crossing_lambda_kms" {
     sid       = "${replace(title(var.app), "-", "")}KMS"
   }
 }
-

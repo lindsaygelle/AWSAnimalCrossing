@@ -2,7 +2,7 @@ resource "aws_db_proxy" "rds" {
   debug_logging  = false
   engine_family  = "POSTGRESQL"
   name           = "${var.app}-lambda-rds-proxy"
-  role_arn       = aws_iam_role.animal_crossing_lambda_assume_role.arn
+  role_arn       = aws_iam_role.animal_crossing.arn
   vpc_subnet_ids = aws_db_subnet_group.animal_crossing.subnet_ids
 
   auth {

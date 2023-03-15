@@ -1,0 +1,12 @@
+version: 0.2
+
+phases:
+  install:
+    commands:
+      - echo "install"
+  build:
+    commands:
+      - echo "build"
+  artfiacts:
+    files:
+      - psycopg2.zip
