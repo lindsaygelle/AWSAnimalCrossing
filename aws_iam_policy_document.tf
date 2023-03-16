@@ -28,6 +28,24 @@ data "aws_iam_policy_document" "assume_role" {
 
 // policies
 
+// need to make another role to use this
+data "aws_iam_policy_document" "codebuild" {
+  statement {
+    actions = [
+      "codebuild:CreateReportGroup",
+      "codebuild:CreateReport",
+      "codebuild:UpdateReport",
+      "codebuild:BatchPutTestCases",
+      "codebuild:BatchPutCodeCoverages"
+    ]
+    effect    = "Allow"
+    resources = [aws_codebuild_project.psycopg2.arn]
+    sid       = "${replace(title(var.app), "-", "")}Codebuild"
+  }
+}
+
+
+
 data "aws_iam_policy_document" "rds" {
   statement {
     actions = [
@@ -58,16 +76,6 @@ data "aws_iam_policy_document" "rds_data" {
   }
 }
 
-data "aws_iam_policy_document" "ec2" {
-  statement {
-    actions = [
-      "ec2:*"
-    ]
-    effect    = "Allow"
-    resources = ["*"]
-    sid       = "${replace(title(var.app), "-", "")}EC2"
-  }
-}
 
 data "aws_iam_policy_document" "s3" {
   statement {

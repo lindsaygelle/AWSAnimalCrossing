@@ -1,3 +1,15 @@
+resource "aws_iam_policy" "codebuild" {
+  depends_on = [data.aws_iam_policy_document.codebuild]
+  name       = "${var.app}-codebuild"
+  policy     = data.aws_iam_policy_document.codebuild.json
+
+  tags = {
+    "app"     = var.app
+    "region"  = var.aws_region
+    "service" = "codebuild"
+  }
+}
+
 resource "aws_iam_policy" "rds" {
   depends_on = [data.aws_iam_policy_document.rds]
   name       = "${var.app}-rds"
@@ -22,17 +34,6 @@ resource "aws_iam_policy" "rds_data" {
   }
 }
 
-resource "aws_iam_policy" "ec2" {
-  depends_on = [data.aws_iam_policy_document.ec2]
-  name       = "${var.app}-ec2"
-  policy     = data.aws_iam_policy_document.ec2.json
-
-  tags = {
-    "app"     = var.app
-    "region"  = var.aws_region
-    "service" = "ec2"
-  }
-}
 
 resource "aws_iam_policy" "s3" {
   depends_on = [data.aws_iam_policy_document.s3]

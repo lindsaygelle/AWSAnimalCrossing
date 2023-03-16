@@ -1,4 +1,4 @@
-// aws_api_gateway_integration is a default integration. 
+// aws_api_gateway_integration is a default integration.aws_iam_policy_document.assume_role
 data "template_file" "aws_api_gateway_integration" {
   template = <<EOF
     {

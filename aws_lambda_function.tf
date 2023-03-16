@@ -10,8 +10,8 @@ locals {
 
 // villager_get_detail is the file content for villager_get_detail Lambda handler.
 data "archive_file" "villager_get" {
-  output_path = "${local.lambda_villager}/get/lambda.zip"
-  source_file = "${local.lambda_villager}/get/lambda.py"
+  output_path = "${local.lambda_villager}/get_detail/lambda.zip"
+  source_file = "${local.lambda_villager}/get_detail/lambda.py"
   type        = "zip"
 }
 

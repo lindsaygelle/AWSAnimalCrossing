@@ -1,7 +1,7 @@
 // animal_crossing is the definition for the aws_api_gateway_rest_api resource used to create the Animal Crossing REST API.
 resource "aws_api_gateway_rest_api" "animal_crossing" {
   depends_on  = [aws_iam_role.animal_crossing]
-  description = "${title(replace(var.app, "-", " "))} ApiGateway REST API"
+  description = "ApiGateway for ${title(replace(var.app, "-", " "))} applications"
 
   endpoint_configuration {
     types = ["REGIONAL"]

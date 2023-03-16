@@ -1,12 +1,13 @@
 version: 0.2
 
 phases:
-  install:
-    commands:
-      - echo "install"
   build:
     commands:
-      - echo "build"
-  artfiacts:
-    files:
-      - psycopg2.zip
+      - mkdir -p ./python
+      - pip install psycopg2 --target ./python
+      - pip freeze > requirements.txt
+artifacts:
+  discard-paths: no
+  files:
+    - '**/*'
+  type: zip

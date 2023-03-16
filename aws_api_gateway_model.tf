@@ -13,7 +13,7 @@ resource "aws_api_gateway_model" "villager_get_detail" {
   depends_on   = [aws_api_gateway_resource.villager]
   name         = "${title(aws_api_gateway_resource.villager.path_part)}GETDetail"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = file("${local.api_gateway_villager}/get/schema.json")
+  schema       = file("${local.api_gateway_villager}/get_detail/schema.json")
 }
 
 // villager_post is the REST API request model for /villager.
