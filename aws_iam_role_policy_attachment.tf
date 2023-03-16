@@ -4,9 +4,9 @@ resource "aws_iam_role_policy_attachment" "lambda" {
   role       = aws_iam_role.animal_crossing.name
 }
 
-resource "aws_iam_role_policy_attachment" "ec2" {
-  depends_on = [aws_iam_policy.ec2]
-  policy_arn = aws_iam_policy.ec2.arn
+resource "aws_iam_role_policy_attachment" "codebuild" {
+  depends_on = [aws_iam_policy.codebuild]
+  policy_arn = aws_iam_policy.codebuild.arn
   role       = aws_iam_role.animal_crossing.name
 }
 
