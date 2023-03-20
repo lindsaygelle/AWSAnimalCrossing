@@ -1,0 +1,6 @@
+[submodule "ApiGateway"]
+	path = ApiGateway
+	url = https://github.com/lindsaygelle/AWSAnimalCrossingApiGateway.git
+[submodule "ApiGatewayLambda"]
+	path = ApiGatewayLambda
+	url = https://github.com/lindsaygelle/AWSAnimalCrossingApiGatewayLambda.git
