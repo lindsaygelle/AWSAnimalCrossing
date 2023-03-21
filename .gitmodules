@@ -4,3 +4,9 @@
 [submodule "ApiGatewayLambda"]
 	path = ApiGatewayLambda
 	url = https://github.com/lindsaygelle/AWSAnimalCrossingApiGatewayLambda.git
+[submodule "RDS"]
+	path = RDS
+	url = https://github.com/lindsaygelle/AWSAnimalCrossingRDS.git
+[submodule "VPC"]
+	path = VPC
+	url = https://github.com/lindsaygelle/AWSAnimalCrossingVPC.git
