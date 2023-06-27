@@ -134,7 +134,7 @@ class Response(TypedDict):
     statusCode: int
 
 
-def handle(event: Event, context: Context) -> Response:
+def handler(event: Event, context: Context) -> Response:
     """`handle` is the AWS Lambda function handler.
     It processes events from AWS API Gateway."""
     logger.info("function_name=%s function_status=%s", context.function_name, "started")
@@ -145,6 +145,9 @@ def handle(event: Event, context: Context) -> Response:
         statusCode=STATUS_OK,
     )
     logger.info(
-        "function_name=%s function_status=%s", context.function_name, "finished"
+        "function_name=%s function_status=%s response_status=%d",
+        context.function_name,
+        "finished",
+        response["statusCode"],
     )
     return response

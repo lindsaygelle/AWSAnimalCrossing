@@ -1,2 +1,0 @@
-## Directory
-[Directory](./DIRECTORY.md)
