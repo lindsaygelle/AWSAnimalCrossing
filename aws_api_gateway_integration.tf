@@ -34,6 +34,24 @@ resource "aws_api_gateway_integration" "achievement_PATCH" {
   uri                     = aws_lambda_function.achievement_PATCH.invoke_arn
 }
 
+// achievement
+// animal_crossing/achievement POST
+resource "aws_api_gateway_integration" "achievement_POST" {
+ credentials             = aws_iam_role.api_gateway.arn
+  http_method             = aws_api_gateway_method.achievement_POST.http_method
+  integration_http_method = "POST"
+  passthrough_behavior    = "WHEN_NO_TEMPLATES"
+  resource_id             = aws_api_gateway_method.achievement_POST.resource_id
+  rest_api_id             = aws_api_gateway_method.achievement_POST.rest_api_id
+  type                    = "AWS"
+  uri                     = "arn:aws:apigateway:${var.region}:states:action/StartExecution"
+  request_templates = {
+    "application/json" = templatefile("./src/achievement/api_gateway/integration/mapping_template/POST/model_collection.vtl", {
+        state_machine_arn = aws_sfn_state_machine.achievement_POST.arn
+    })
+  }
+}
+
 // card
 // animal_crossing/card DELETE
 resource "aws_api_gateway_integration" "card_DELETE" {
@@ -68,6 +86,24 @@ resource "aws_api_gateway_integration" "card_PATCH" {
   rest_api_id             = aws_api_gateway_method.card_PATCH.rest_api_id
   type                    = "AWS_PROXY"
   uri                     = aws_lambda_function.card_PATCH.invoke_arn
+}
+
+// card
+// animal_crossing/card POST
+resource "aws_api_gateway_integration" "card_POST" {
+ credentials             = aws_iam_role.api_gateway.arn
+  http_method             = aws_api_gateway_method.card_POST.http_method
+  integration_http_method = "POST"
+  passthrough_behavior    = "WHEN_NO_TEMPLATES"
+  resource_id             = aws_api_gateway_method.card_POST.resource_id
+  rest_api_id             = aws_api_gateway_method.card_POST.rest_api_id
+  type                    = "AWS"
+  uri                     = "arn:aws:apigateway:${var.region}:states:action/StartExecution"
+  request_templates = {
+    "application/json" = templatefile("./src/card/api_gateway/integration/mapping_template/POST/model_collection.vtl", {
+        state_machine_arn = aws_sfn_state_machine.card_POST.arn
+    })
+  }
 }
 
 // clothing_accessory
@@ -106,6 +142,24 @@ resource "aws_api_gateway_integration" "clothing_accessory_PATCH" {
   uri                     = aws_lambda_function.clothing_accessory_PATCH.invoke_arn
 }
 
+// clothing_accessory
+// animal_crossing/clothing_accessory POST
+resource "aws_api_gateway_integration" "clothing_accessory_POST" {
+ credentials             = aws_iam_role.api_gateway.arn
+  http_method             = aws_api_gateway_method.clothing_accessory_POST.http_method
+  integration_http_method = "POST"
+  passthrough_behavior    = "WHEN_NO_TEMPLATES"
+  resource_id             = aws_api_gateway_method.clothing_accessory_POST.resource_id
+  rest_api_id             = aws_api_gateway_method.clothing_accessory_POST.rest_api_id
+  type                    = "AWS"
+  uri                     = "arn:aws:apigateway:${var.region}:states:action/StartExecution"
+  request_templates = {
+    "application/json" = templatefile("./src/clothing_accessory/api_gateway/integration/mapping_template/POST/model_collection.vtl", {
+        state_machine_arn = aws_sfn_state_machine.clothing_accessory_POST.arn
+    })
+  }
+}
+
 // clothing_bag
 // animal_crossing/clothing_bag DELETE
 resource "aws_api_gateway_integration" "clothing_bag_DELETE" {
@@ -140,6 +194,24 @@ resource "aws_api_gateway_integration" "clothing_bag_PATCH" {
   rest_api_id             = aws_api_gateway_method.clothing_bag_PATCH.rest_api_id
   type                    = "AWS_PROXY"
   uri                     = aws_lambda_function.clothing_bag_PATCH.invoke_arn
+}
+
+// clothing_bag
+// animal_crossing/clothing_bag POST
+resource "aws_api_gateway_integration" "clothing_bag_POST" {
+ credentials             = aws_iam_role.api_gateway.arn
+  http_method             = aws_api_gateway_method.clothing_bag_POST.http_method
+  integration_http_method = "POST"
+  passthrough_behavior    = "WHEN_NO_TEMPLATES"
+  resource_id             = aws_api_gateway_method.clothing_bag_POST.resource_id
+  rest_api_id             = aws_api_gateway_method.clothing_bag_POST.rest_api_id
+  type                    = "AWS"
+  uri                     = "arn:aws:apigateway:${var.region}:states:action/StartExecution"
+  request_templates = {
+    "application/json" = templatefile("./src/clothing_bag/api_gateway/integration/mapping_template/POST/model_collection.vtl", {
+        state_machine_arn = aws_sfn_state_machine.clothing_bag_POST.arn
+    })
+  }
 }
 
 // clothing_bottom
@@ -178,6 +250,24 @@ resource "aws_api_gateway_integration" "clothing_bottom_PATCH" {
   uri                     = aws_lambda_function.clothing_bottom_PATCH.invoke_arn
 }
 
+// clothing_bottom
+// animal_crossing/clothing_bottom POST
+resource "aws_api_gateway_integration" "clothing_bottom_POST" {
+ credentials             = aws_iam_role.api_gateway.arn
+  http_method             = aws_api_gateway_method.clothing_bottom_POST.http_method
+  integration_http_method = "POST"
+  passthrough_behavior    = "WHEN_NO_TEMPLATES"
+  resource_id             = aws_api_gateway_method.clothing_bottom_POST.resource_id
+  rest_api_id             = aws_api_gateway_method.clothing_bottom_POST.rest_api_id
+  type                    = "AWS"
+  uri                     = "arn:aws:apigateway:${var.region}:states:action/StartExecution"
+  request_templates = {
+    "application/json" = templatefile("./src/clothing_bottom/api_gateway/integration/mapping_template/POST/model_collection.vtl", {
+        state_machine_arn = aws_sfn_state_machine.clothing_bottom_POST.arn
+    })
+  }
+}
+
 // clothing_dress_up
 // animal_crossing/clothing_dress_up DELETE
 resource "aws_api_gateway_integration" "clothing_dress_up_DELETE" {
@@ -212,6 +302,24 @@ resource "aws_api_gateway_integration" "clothing_dress_up_PATCH" {
   rest_api_id             = aws_api_gateway_method.clothing_dress_up_PATCH.rest_api_id
   type                    = "AWS_PROXY"
   uri                     = aws_lambda_function.clothing_dress_up_PATCH.invoke_arn
+}
+
+// clothing_dress_up
+// animal_crossing/clothing_dress_up POST
+resource "aws_api_gateway_integration" "clothing_dress_up_POST" {
+ credentials             = aws_iam_role.api_gateway.arn
+  http_method             = aws_api_gateway_method.clothing_dress_up_POST.http_method
+  integration_http_method = "POST"
+  passthrough_behavior    = "WHEN_NO_TEMPLATES"
+  resource_id             = aws_api_gateway_method.clothing_dress_up_POST.resource_id
+  rest_api_id             = aws_api_gateway_method.clothing_dress_up_POST.rest_api_id
+  type                    = "AWS"
+  uri                     = "arn:aws:apigateway:${var.region}:states:action/StartExecution"
+  request_templates = {
+    "application/json" = templatefile("./src/clothing_dress_up/api_gateway/integration/mapping_template/POST/model_collection.vtl", {
+        state_machine_arn = aws_sfn_state_machine.clothing_dress_up_POST.arn
+    })
+  }
 }
 
 // clothing_headwear
@@ -250,6 +358,24 @@ resource "aws_api_gateway_integration" "clothing_headwear_PATCH" {
   uri                     = aws_lambda_function.clothing_headwear_PATCH.invoke_arn
 }
 
+// clothing_headwear
+// animal_crossing/clothing_headwear POST
+resource "aws_api_gateway_integration" "clothing_headwear_POST" {
+ credentials             = aws_iam_role.api_gateway.arn
+  http_method             = aws_api_gateway_method.clothing_headwear_POST.http_method
+  integration_http_method = "POST"
+  passthrough_behavior    = "WHEN_NO_TEMPLATES"
+  resource_id             = aws_api_gateway_method.clothing_headwear_POST.resource_id
+  rest_api_id             = aws_api_gateway_method.clothing_headwear_POST.rest_api_id
+  type                    = "AWS"
+  uri                     = "arn:aws:apigateway:${var.region}:states:action/StartExecution"
+  request_templates = {
+    "application/json" = templatefile("./src/clothing_headwear/api_gateway/integration/mapping_template/POST/model_collection.vtl", {
+        state_machine_arn = aws_sfn_state_machine.clothing_headwear_POST.arn
+    })
+  }
+}
+
 // clothing_other
 // animal_crossing/clothing_other DELETE
 resource "aws_api_gateway_integration" "clothing_other_DELETE" {
@@ -284,6 +410,24 @@ resource "aws_api_gateway_integration" "clothing_other_PATCH" {
   rest_api_id             = aws_api_gateway_method.clothing_other_PATCH.rest_api_id
   type                    = "AWS_PROXY"
   uri                     = aws_lambda_function.clothing_other_PATCH.invoke_arn
+}
+
+// clothing_other
+// animal_crossing/clothing_other POST
+resource "aws_api_gateway_integration" "clothing_other_POST" {
+ credentials             = aws_iam_role.api_gateway.arn
+  http_method             = aws_api_gateway_method.clothing_other_POST.http_method
+  integration_http_method = "POST"
+  passthrough_behavior    = "WHEN_NO_TEMPLATES"
+  resource_id             = aws_api_gateway_method.clothing_other_POST.resource_id
+  rest_api_id             = aws_api_gateway_method.clothing_other_POST.rest_api_id
+  type                    = "AWS"
+  uri                     = "arn:aws:apigateway:${var.region}:states:action/StartExecution"
+  request_templates = {
+    "application/json" = templatefile("./src/clothing_other/api_gateway/integration/mapping_template/POST/model_collection.vtl", {
+        state_machine_arn = aws_sfn_state_machine.clothing_other_POST.arn
+    })
+  }
 }
 
 // clothing_shoe
@@ -322,6 +466,24 @@ resource "aws_api_gateway_integration" "clothing_shoe_PATCH" {
   uri                     = aws_lambda_function.clothing_shoe_PATCH.invoke_arn
 }
 
+// clothing_shoe
+// animal_crossing/clothing_shoe POST
+resource "aws_api_gateway_integration" "clothing_shoe_POST" {
+ credentials             = aws_iam_role.api_gateway.arn
+  http_method             = aws_api_gateway_method.clothing_shoe_POST.http_method
+  integration_http_method = "POST"
+  passthrough_behavior    = "WHEN_NO_TEMPLATES"
+  resource_id             = aws_api_gateway_method.clothing_shoe_POST.resource_id
+  rest_api_id             = aws_api_gateway_method.clothing_shoe_POST.rest_api_id
+  type                    = "AWS"
+  uri                     = "arn:aws:apigateway:${var.region}:states:action/StartExecution"
+  request_templates = {
+    "application/json" = templatefile("./src/clothing_shoe/api_gateway/integration/mapping_template/POST/model_collection.vtl", {
+        state_machine_arn = aws_sfn_state_machine.clothing_shoe_POST.arn
+    })
+  }
+}
+
 // clothing_sock
 // animal_crossing/clothing_sock DELETE
 resource "aws_api_gateway_integration" "clothing_sock_DELETE" {
@@ -356,6 +518,24 @@ resource "aws_api_gateway_integration" "clothing_sock_PATCH" {
   rest_api_id             = aws_api_gateway_method.clothing_sock_PATCH.rest_api_id
   type                    = "AWS_PROXY"
   uri                     = aws_lambda_function.clothing_sock_PATCH.invoke_arn
+}
+
+// clothing_sock
+// animal_crossing/clothing_sock POST
+resource "aws_api_gateway_integration" "clothing_sock_POST" {
+ credentials             = aws_iam_role.api_gateway.arn
+  http_method             = aws_api_gateway_method.clothing_sock_POST.http_method
+  integration_http_method = "POST"
+  passthrough_behavior    = "WHEN_NO_TEMPLATES"
+  resource_id             = aws_api_gateway_method.clothing_sock_POST.resource_id
+  rest_api_id             = aws_api_gateway_method.clothing_sock_POST.rest_api_id
+  type                    = "AWS"
+  uri                     = "arn:aws:apigateway:${var.region}:states:action/StartExecution"
+  request_templates = {
+    "application/json" = templatefile("./src/clothing_sock/api_gateway/integration/mapping_template/POST/model_collection.vtl", {
+        state_machine_arn = aws_sfn_state_machine.clothing_sock_POST.arn
+    })
+  }
 }
 
 // clothing_top
@@ -394,6 +574,24 @@ resource "aws_api_gateway_integration" "clothing_top_PATCH" {
   uri                     = aws_lambda_function.clothing_top_PATCH.invoke_arn
 }
 
+// clothing_top
+// animal_crossing/clothing_top POST
+resource "aws_api_gateway_integration" "clothing_top_POST" {
+ credentials             = aws_iam_role.api_gateway.arn
+  http_method             = aws_api_gateway_method.clothing_top_POST.http_method
+  integration_http_method = "POST"
+  passthrough_behavior    = "WHEN_NO_TEMPLATES"
+  resource_id             = aws_api_gateway_method.clothing_top_POST.resource_id
+  rest_api_id             = aws_api_gateway_method.clothing_top_POST.rest_api_id
+  type                    = "AWS"
+  uri                     = "arn:aws:apigateway:${var.region}:states:action/StartExecution"
+  request_templates = {
+    "application/json" = templatefile("./src/clothing_top/api_gateway/integration/mapping_template/POST/model_collection.vtl", {
+        state_machine_arn = aws_sfn_state_machine.clothing_top_POST.arn
+    })
+  }
+}
+
 // clothing_umbrella
 // animal_crossing/clothing_umbrella DELETE
 resource "aws_api_gateway_integration" "clothing_umbrella_DELETE" {
@@ -428,6 +626,24 @@ resource "aws_api_gateway_integration" "clothing_umbrella_PATCH" {
   rest_api_id             = aws_api_gateway_method.clothing_umbrella_PATCH.rest_api_id
   type                    = "AWS_PROXY"
   uri                     = aws_lambda_function.clothing_umbrella_PATCH.invoke_arn
+}
+
+// clothing_umbrella
+// animal_crossing/clothing_umbrella POST
+resource "aws_api_gateway_integration" "clothing_umbrella_POST" {
+ credentials             = aws_iam_role.api_gateway.arn
+  http_method             = aws_api_gateway_method.clothing_umbrella_POST.http_method
+  integration_http_method = "POST"
+  passthrough_behavior    = "WHEN_NO_TEMPLATES"
+  resource_id             = aws_api_gateway_method.clothing_umbrella_POST.resource_id
+  rest_api_id             = aws_api_gateway_method.clothing_umbrella_POST.rest_api_id
+  type                    = "AWS"
+  uri                     = "arn:aws:apigateway:${var.region}:states:action/StartExecution"
+  request_templates = {
+    "application/json" = templatefile("./src/clothing_umbrella/api_gateway/integration/mapping_template/POST/model_collection.vtl", {
+        state_machine_arn = aws_sfn_state_machine.clothing_umbrella_POST.arn
+    })
+  }
 }
 
 // construction
@@ -466,6 +682,24 @@ resource "aws_api_gateway_integration" "construction_PATCH" {
   uri                     = aws_lambda_function.construction_PATCH.invoke_arn
 }
 
+// construction
+// animal_crossing/construction POST
+resource "aws_api_gateway_integration" "construction_POST" {
+ credentials             = aws_iam_role.api_gateway.arn
+  http_method             = aws_api_gateway_method.construction_POST.http_method
+  integration_http_method = "POST"
+  passthrough_behavior    = "WHEN_NO_TEMPLATES"
+  resource_id             = aws_api_gateway_method.construction_POST.resource_id
+  rest_api_id             = aws_api_gateway_method.construction_POST.rest_api_id
+  type                    = "AWS"
+  uri                     = "arn:aws:apigateway:${var.region}:states:action/StartExecution"
+  request_templates = {
+    "application/json" = templatefile("./src/construction/api_gateway/integration/mapping_template/POST/model_collection.vtl", {
+        state_machine_arn = aws_sfn_state_machine.construction_POST.arn
+    })
+  }
+}
+
 // creature_fish
 // animal_crossing/creature_fish DELETE
 resource "aws_api_gateway_integration" "creature_fish_DELETE" {
@@ -500,6 +734,24 @@ resource "aws_api_gateway_integration" "creature_fish_PATCH" {
   rest_api_id             = aws_api_gateway_method.creature_fish_PATCH.rest_api_id
   type                    = "AWS_PROXY"
   uri                     = aws_lambda_function.creature_fish_PATCH.invoke_arn
+}
+
+// creature_fish
+// animal_crossing/creature_fish POST
+resource "aws_api_gateway_integration" "creature_fish_POST" {
+ credentials             = aws_iam_role.api_gateway.arn
+  http_method             = aws_api_gateway_method.creature_fish_POST.http_method
+  integration_http_method = "POST"
+  passthrough_behavior    = "WHEN_NO_TEMPLATES"
+  resource_id             = aws_api_gateway_method.creature_fish_POST.resource_id
+  rest_api_id             = aws_api_gateway_method.creature_fish_POST.rest_api_id
+  type                    = "AWS"
+  uri                     = "arn:aws:apigateway:${var.region}:states:action/StartExecution"
+  request_templates = {
+    "application/json" = templatefile("./src/creature_fish/api_gateway/integration/mapping_template/POST/model_collection.vtl", {
+        state_machine_arn = aws_sfn_state_machine.creature_fish_POST.arn
+    })
+  }
 }
 
 // creature_insect
@@ -538,6 +790,24 @@ resource "aws_api_gateway_integration" "creature_insect_PATCH" {
   uri                     = aws_lambda_function.creature_insect_PATCH.invoke_arn
 }
 
+// creature_insect
+// animal_crossing/creature_insect POST
+resource "aws_api_gateway_integration" "creature_insect_POST" {
+ credentials             = aws_iam_role.api_gateway.arn
+  http_method             = aws_api_gateway_method.creature_insect_POST.http_method
+  integration_http_method = "POST"
+  passthrough_behavior    = "WHEN_NO_TEMPLATES"
+  resource_id             = aws_api_gateway_method.creature_insect_POST.resource_id
+  rest_api_id             = aws_api_gateway_method.creature_insect_POST.rest_api_id
+  type                    = "AWS"
+  uri                     = "arn:aws:apigateway:${var.region}:states:action/StartExecution"
+  request_templates = {
+    "application/json" = templatefile("./src/creature_insect/api_gateway/integration/mapping_template/POST/model_collection.vtl", {
+        state_machine_arn = aws_sfn_state_machine.creature_insect_POST.arn
+    })
+  }
+}
+
 // creature_sea
 // animal_crossing/creature_sea DELETE
 resource "aws_api_gateway_integration" "creature_sea_DELETE" {
@@ -572,6 +842,24 @@ resource "aws_api_gateway_integration" "creature_sea_PATCH" {
   rest_api_id             = aws_api_gateway_method.creature_sea_PATCH.rest_api_id
   type                    = "AWS_PROXY"
   uri                     = aws_lambda_function.creature_sea_PATCH.invoke_arn
+}
+
+// creature_sea
+// animal_crossing/creature_sea POST
+resource "aws_api_gateway_integration" "creature_sea_POST" {
+ credentials             = aws_iam_role.api_gateway.arn
+  http_method             = aws_api_gateway_method.creature_sea_POST.http_method
+  integration_http_method = "POST"
+  passthrough_behavior    = "WHEN_NO_TEMPLATES"
+  resource_id             = aws_api_gateway_method.creature_sea_POST.resource_id
+  rest_api_id             = aws_api_gateway_method.creature_sea_POST.rest_api_id
+  type                    = "AWS"
+  uri                     = "arn:aws:apigateway:${var.region}:states:action/StartExecution"
+  request_templates = {
+    "application/json" = templatefile("./src/creature_sea/api_gateway/integration/mapping_template/POST/model_collection.vtl", {
+        state_machine_arn = aws_sfn_state_machine.creature_sea_POST.arn
+    })
+  }
 }
 
 // furniture_artwork
@@ -610,6 +898,24 @@ resource "aws_api_gateway_integration" "furniture_artwork_PATCH" {
   uri                     = aws_lambda_function.furniture_artwork_PATCH.invoke_arn
 }
 
+// furniture_artwork
+// animal_crossing/furniture_artwork POST
+resource "aws_api_gateway_integration" "furniture_artwork_POST" {
+ credentials             = aws_iam_role.api_gateway.arn
+  http_method             = aws_api_gateway_method.furniture_artwork_POST.http_method
+  integration_http_method = "POST"
+  passthrough_behavior    = "WHEN_NO_TEMPLATES"
+  resource_id             = aws_api_gateway_method.furniture_artwork_POST.resource_id
+  rest_api_id             = aws_api_gateway_method.furniture_artwork_POST.rest_api_id
+  type                    = "AWS"
+  uri                     = "arn:aws:apigateway:${var.region}:states:action/StartExecution"
+  request_templates = {
+    "application/json" = templatefile("./src/furniture_artwork/api_gateway/integration/mapping_template/POST/model_collection.vtl", {
+        state_machine_arn = aws_sfn_state_machine.furniture_artwork_POST.arn
+    })
+  }
+}
+
 // furniture_ceiling
 // animal_crossing/furniture_ceiling DELETE
 resource "aws_api_gateway_integration" "furniture_ceiling_DELETE" {
@@ -644,6 +950,24 @@ resource "aws_api_gateway_integration" "furniture_ceiling_PATCH" {
   rest_api_id             = aws_api_gateway_method.furniture_ceiling_PATCH.rest_api_id
   type                    = "AWS_PROXY"
   uri                     = aws_lambda_function.furniture_ceiling_PATCH.invoke_arn
+}
+
+// furniture_ceiling
+// animal_crossing/furniture_ceiling POST
+resource "aws_api_gateway_integration" "furniture_ceiling_POST" {
+ credentials             = aws_iam_role.api_gateway.arn
+  http_method             = aws_api_gateway_method.furniture_ceiling_POST.http_method
+  integration_http_method = "POST"
+  passthrough_behavior    = "WHEN_NO_TEMPLATES"
+  resource_id             = aws_api_gateway_method.furniture_ceiling_POST.resource_id
+  rest_api_id             = aws_api_gateway_method.furniture_ceiling_POST.rest_api_id
+  type                    = "AWS"
+  uri                     = "arn:aws:apigateway:${var.region}:states:action/StartExecution"
+  request_templates = {
+    "application/json" = templatefile("./src/furniture_ceiling/api_gateway/integration/mapping_template/POST/model_collection.vtl", {
+        state_machine_arn = aws_sfn_state_machine.furniture_ceiling_POST.arn
+    })
+  }
 }
 
 // furniture_fencing
@@ -682,6 +1006,24 @@ resource "aws_api_gateway_integration" "furniture_fencing_PATCH" {
   uri                     = aws_lambda_function.furniture_fencing_PATCH.invoke_arn
 }
 
+// furniture_fencing
+// animal_crossing/furniture_fencing POST
+resource "aws_api_gateway_integration" "furniture_fencing_POST" {
+ credentials             = aws_iam_role.api_gateway.arn
+  http_method             = aws_api_gateway_method.furniture_fencing_POST.http_method
+  integration_http_method = "POST"
+  passthrough_behavior    = "WHEN_NO_TEMPLATES"
+  resource_id             = aws_api_gateway_method.furniture_fencing_POST.resource_id
+  rest_api_id             = aws_api_gateway_method.furniture_fencing_POST.rest_api_id
+  type                    = "AWS"
+  uri                     = "arn:aws:apigateway:${var.region}:states:action/StartExecution"
+  request_templates = {
+    "application/json" = templatefile("./src/furniture_fencing/api_gateway/integration/mapping_template/POST/model_collection.vtl", {
+        state_machine_arn = aws_sfn_state_machine.furniture_fencing_POST.arn
+    })
+  }
+}
+
 // furniture_floor
 // animal_crossing/furniture_floor DELETE
 resource "aws_api_gateway_integration" "furniture_floor_DELETE" {
@@ -716,6 +1058,24 @@ resource "aws_api_gateway_integration" "furniture_floor_PATCH" {
   rest_api_id             = aws_api_gateway_method.furniture_floor_PATCH.rest_api_id
   type                    = "AWS_PROXY"
   uri                     = aws_lambda_function.furniture_floor_PATCH.invoke_arn
+}
+
+// furniture_floor
+// animal_crossing/furniture_floor POST
+resource "aws_api_gateway_integration" "furniture_floor_POST" {
+ credentials             = aws_iam_role.api_gateway.arn
+  http_method             = aws_api_gateway_method.furniture_floor_POST.http_method
+  integration_http_method = "POST"
+  passthrough_behavior    = "WHEN_NO_TEMPLATES"
+  resource_id             = aws_api_gateway_method.furniture_floor_POST.resource_id
+  rest_api_id             = aws_api_gateway_method.furniture_floor_POST.rest_api_id
+  type                    = "AWS"
+  uri                     = "arn:aws:apigateway:${var.region}:states:action/StartExecution"
+  request_templates = {
+    "application/json" = templatefile("./src/furniture_floor/api_gateway/integration/mapping_template/POST/model_collection.vtl", {
+        state_machine_arn = aws_sfn_state_machine.furniture_floor_POST.arn
+    })
+  }
 }
 
 // furniture_fossil
@@ -754,6 +1114,24 @@ resource "aws_api_gateway_integration" "furniture_fossil_PATCH" {
   uri                     = aws_lambda_function.furniture_fossil_PATCH.invoke_arn
 }
 
+// furniture_fossil
+// animal_crossing/furniture_fossil POST
+resource "aws_api_gateway_integration" "furniture_fossil_POST" {
+ credentials             = aws_iam_role.api_gateway.arn
+  http_method             = aws_api_gateway_method.furniture_fossil_POST.http_method
+  integration_http_method = "POST"
+  passthrough_behavior    = "WHEN_NO_TEMPLATES"
+  resource_id             = aws_api_gateway_method.furniture_fossil_POST.resource_id
+  rest_api_id             = aws_api_gateway_method.furniture_fossil_POST.rest_api_id
+  type                    = "AWS"
+  uri                     = "arn:aws:apigateway:${var.region}:states:action/StartExecution"
+  request_templates = {
+    "application/json" = templatefile("./src/furniture_fossil/api_gateway/integration/mapping_template/POST/model_collection.vtl", {
+        state_machine_arn = aws_sfn_state_machine.furniture_fossil_POST.arn
+    })
+  }
+}
+
 // furniture_gyroid
 // animal_crossing/furniture_gyroid DELETE
 resource "aws_api_gateway_integration" "furniture_gyroid_DELETE" {
@@ -788,6 +1166,24 @@ resource "aws_api_gateway_integration" "furniture_gyroid_PATCH" {
   rest_api_id             = aws_api_gateway_method.furniture_gyroid_PATCH.rest_api_id
   type                    = "AWS_PROXY"
   uri                     = aws_lambda_function.furniture_gyroid_PATCH.invoke_arn
+}
+
+// furniture_gyroid
+// animal_crossing/furniture_gyroid POST
+resource "aws_api_gateway_integration" "furniture_gyroid_POST" {
+ credentials             = aws_iam_role.api_gateway.arn
+  http_method             = aws_api_gateway_method.furniture_gyroid_POST.http_method
+  integration_http_method = "POST"
+  passthrough_behavior    = "WHEN_NO_TEMPLATES"
+  resource_id             = aws_api_gateway_method.furniture_gyroid_POST.resource_id
+  rest_api_id             = aws_api_gateway_method.furniture_gyroid_POST.rest_api_id
+  type                    = "AWS"
+  uri                     = "arn:aws:apigateway:${var.region}:states:action/StartExecution"
+  request_templates = {
+    "application/json" = templatefile("./src/furniture_gyroid/api_gateway/integration/mapping_template/POST/model_collection.vtl", {
+        state_machine_arn = aws_sfn_state_machine.furniture_gyroid_POST.arn
+    })
+  }
 }
 
 // furniture_housewear
@@ -826,6 +1222,24 @@ resource "aws_api_gateway_integration" "furniture_housewear_PATCH" {
   uri                     = aws_lambda_function.furniture_housewear_PATCH.invoke_arn
 }
 
+// furniture_housewear
+// animal_crossing/furniture_housewear POST
+resource "aws_api_gateway_integration" "furniture_housewear_POST" {
+ credentials             = aws_iam_role.api_gateway.arn
+  http_method             = aws_api_gateway_method.furniture_housewear_POST.http_method
+  integration_http_method = "POST"
+  passthrough_behavior    = "WHEN_NO_TEMPLATES"
+  resource_id             = aws_api_gateway_method.furniture_housewear_POST.resource_id
+  rest_api_id             = aws_api_gateway_method.furniture_housewear_POST.rest_api_id
+  type                    = "AWS"
+  uri                     = "arn:aws:apigateway:${var.region}:states:action/StartExecution"
+  request_templates = {
+    "application/json" = templatefile("./src/furniture_housewear/api_gateway/integration/mapping_template/POST/model_collection.vtl", {
+        state_machine_arn = aws_sfn_state_machine.furniture_housewear_POST.arn
+    })
+  }
+}
+
 // furniture_interior_structure
 // animal_crossing/furniture_interior_structure DELETE
 resource "aws_api_gateway_integration" "furniture_interior_structure_DELETE" {
@@ -860,6 +1274,24 @@ resource "aws_api_gateway_integration" "furniture_interior_structure_PATCH" {
   rest_api_id             = aws_api_gateway_method.furniture_interior_structure_PATCH.rest_api_id
   type                    = "AWS_PROXY"
   uri                     = aws_lambda_function.furniture_interior_structure_PATCH.invoke_arn
+}
+
+// furniture_interior_structure
+// animal_crossing/furniture_interior_structure POST
+resource "aws_api_gateway_integration" "furniture_interior_structure_POST" {
+ credentials             = aws_iam_role.api_gateway.arn
+  http_method             = aws_api_gateway_method.furniture_interior_structure_POST.http_method
+  integration_http_method = "POST"
+  passthrough_behavior    = "WHEN_NO_TEMPLATES"
+  resource_id             = aws_api_gateway_method.furniture_interior_structure_POST.resource_id
+  rest_api_id             = aws_api_gateway_method.furniture_interior_structure_POST.rest_api_id
+  type                    = "AWS"
+  uri                     = "arn:aws:apigateway:${var.region}:states:action/StartExecution"
+  request_templates = {
+    "application/json" = templatefile("./src/furniture_interior_structure/api_gateway/integration/mapping_template/POST/model_collection.vtl", {
+        state_machine_arn = aws_sfn_state_machine.furniture_interior_structure_POST.arn
+    })
+  }
 }
 
 // furniture_miscellaneous
@@ -898,6 +1330,24 @@ resource "aws_api_gateway_integration" "furniture_miscellaneous_PATCH" {
   uri                     = aws_lambda_function.furniture_miscellaneous_PATCH.invoke_arn
 }
 
+// furniture_miscellaneous
+// animal_crossing/furniture_miscellaneous POST
+resource "aws_api_gateway_integration" "furniture_miscellaneous_POST" {
+ credentials             = aws_iam_role.api_gateway.arn
+  http_method             = aws_api_gateway_method.furniture_miscellaneous_POST.http_method
+  integration_http_method = "POST"
+  passthrough_behavior    = "WHEN_NO_TEMPLATES"
+  resource_id             = aws_api_gateway_method.furniture_miscellaneous_POST.resource_id
+  rest_api_id             = aws_api_gateway_method.furniture_miscellaneous_POST.rest_api_id
+  type                    = "AWS"
+  uri                     = "arn:aws:apigateway:${var.region}:states:action/StartExecution"
+  request_templates = {
+    "application/json" = templatefile("./src/furniture_miscellaneous/api_gateway/integration/mapping_template/POST/model_collection.vtl", {
+        state_machine_arn = aws_sfn_state_machine.furniture_miscellaneous_POST.arn
+    })
+  }
+}
+
 // furniture_mounted
 // animal_crossing/furniture_mounted DELETE
 resource "aws_api_gateway_integration" "furniture_mounted_DELETE" {
@@ -932,6 +1382,24 @@ resource "aws_api_gateway_integration" "furniture_mounted_PATCH" {
   rest_api_id             = aws_api_gateway_method.furniture_mounted_PATCH.rest_api_id
   type                    = "AWS_PROXY"
   uri                     = aws_lambda_function.furniture_mounted_PATCH.invoke_arn
+}
+
+// furniture_mounted
+// animal_crossing/furniture_mounted POST
+resource "aws_api_gateway_integration" "furniture_mounted_POST" {
+ credentials             = aws_iam_role.api_gateway.arn
+  http_method             = aws_api_gateway_method.furniture_mounted_POST.http_method
+  integration_http_method = "POST"
+  passthrough_behavior    = "WHEN_NO_TEMPLATES"
+  resource_id             = aws_api_gateway_method.furniture_mounted_POST.resource_id
+  rest_api_id             = aws_api_gateway_method.furniture_mounted_POST.rest_api_id
+  type                    = "AWS"
+  uri                     = "arn:aws:apigateway:${var.region}:states:action/StartExecution"
+  request_templates = {
+    "application/json" = templatefile("./src/furniture_mounted/api_gateway/integration/mapping_template/POST/model_collection.vtl", {
+        state_machine_arn = aws_sfn_state_machine.furniture_mounted_POST.arn
+    })
+  }
 }
 
 // furniture_music
@@ -970,6 +1438,24 @@ resource "aws_api_gateway_integration" "furniture_music_PATCH" {
   uri                     = aws_lambda_function.furniture_music_PATCH.invoke_arn
 }
 
+// furniture_music
+// animal_crossing/furniture_music POST
+resource "aws_api_gateway_integration" "furniture_music_POST" {
+ credentials             = aws_iam_role.api_gateway.arn
+  http_method             = aws_api_gateway_method.furniture_music_POST.http_method
+  integration_http_method = "POST"
+  passthrough_behavior    = "WHEN_NO_TEMPLATES"
+  resource_id             = aws_api_gateway_method.furniture_music_POST.resource_id
+  rest_api_id             = aws_api_gateway_method.furniture_music_POST.rest_api_id
+  type                    = "AWS"
+  uri                     = "arn:aws:apigateway:${var.region}:states:action/StartExecution"
+  request_templates = {
+    "application/json" = templatefile("./src/furniture_music/api_gateway/integration/mapping_template/POST/model_collection.vtl", {
+        state_machine_arn = aws_sfn_state_machine.furniture_music_POST.arn
+    })
+  }
+}
+
 // furniture_photo
 // animal_crossing/furniture_photo DELETE
 resource "aws_api_gateway_integration" "furniture_photo_DELETE" {
@@ -1004,6 +1490,24 @@ resource "aws_api_gateway_integration" "furniture_photo_PATCH" {
   rest_api_id             = aws_api_gateway_method.furniture_photo_PATCH.rest_api_id
   type                    = "AWS_PROXY"
   uri                     = aws_lambda_function.furniture_photo_PATCH.invoke_arn
+}
+
+// furniture_photo
+// animal_crossing/furniture_photo POST
+resource "aws_api_gateway_integration" "furniture_photo_POST" {
+ credentials             = aws_iam_role.api_gateway.arn
+  http_method             = aws_api_gateway_method.furniture_photo_POST.http_method
+  integration_http_method = "POST"
+  passthrough_behavior    = "WHEN_NO_TEMPLATES"
+  resource_id             = aws_api_gateway_method.furniture_photo_POST.resource_id
+  rest_api_id             = aws_api_gateway_method.furniture_photo_POST.rest_api_id
+  type                    = "AWS"
+  uri                     = "arn:aws:apigateway:${var.region}:states:action/StartExecution"
+  request_templates = {
+    "application/json" = templatefile("./src/furniture_photo/api_gateway/integration/mapping_template/POST/model_collection.vtl", {
+        state_machine_arn = aws_sfn_state_machine.furniture_photo_POST.arn
+    })
+  }
 }
 
 // furniture_poster
@@ -1042,6 +1546,24 @@ resource "aws_api_gateway_integration" "furniture_poster_PATCH" {
   uri                     = aws_lambda_function.furniture_poster_PATCH.invoke_arn
 }
 
+// furniture_poster
+// animal_crossing/furniture_poster POST
+resource "aws_api_gateway_integration" "furniture_poster_POST" {
+ credentials             = aws_iam_role.api_gateway.arn
+  http_method             = aws_api_gateway_method.furniture_poster_POST.http_method
+  integration_http_method = "POST"
+  passthrough_behavior    = "WHEN_NO_TEMPLATES"
+  resource_id             = aws_api_gateway_method.furniture_poster_POST.resource_id
+  rest_api_id             = aws_api_gateway_method.furniture_poster_POST.rest_api_id
+  type                    = "AWS"
+  uri                     = "arn:aws:apigateway:${var.region}:states:action/StartExecution"
+  request_templates = {
+    "application/json" = templatefile("./src/furniture_poster/api_gateway/integration/mapping_template/POST/model_collection.vtl", {
+        state_machine_arn = aws_sfn_state_machine.furniture_poster_POST.arn
+    })
+  }
+}
+
 // furniture_rug
 // animal_crossing/furniture_rug DELETE
 resource "aws_api_gateway_integration" "furniture_rug_DELETE" {
@@ -1076,6 +1598,24 @@ resource "aws_api_gateway_integration" "furniture_rug_PATCH" {
   rest_api_id             = aws_api_gateway_method.furniture_rug_PATCH.rest_api_id
   type                    = "AWS_PROXY"
   uri                     = aws_lambda_function.furniture_rug_PATCH.invoke_arn
+}
+
+// furniture_rug
+// animal_crossing/furniture_rug POST
+resource "aws_api_gateway_integration" "furniture_rug_POST" {
+ credentials             = aws_iam_role.api_gateway.arn
+  http_method             = aws_api_gateway_method.furniture_rug_POST.http_method
+  integration_http_method = "POST"
+  passthrough_behavior    = "WHEN_NO_TEMPLATES"
+  resource_id             = aws_api_gateway_method.furniture_rug_POST.resource_id
+  rest_api_id             = aws_api_gateway_method.furniture_rug_POST.rest_api_id
+  type                    = "AWS"
+  uri                     = "arn:aws:apigateway:${var.region}:states:action/StartExecution"
+  request_templates = {
+    "application/json" = templatefile("./src/furniture_rug/api_gateway/integration/mapping_template/POST/model_collection.vtl", {
+        state_machine_arn = aws_sfn_state_machine.furniture_rug_POST.arn
+    })
+  }
 }
 
 // furniture_wall_mounted
@@ -1114,6 +1654,24 @@ resource "aws_api_gateway_integration" "furniture_wall_mounted_PATCH" {
   uri                     = aws_lambda_function.furniture_wall_mounted_PATCH.invoke_arn
 }
 
+// furniture_wall_mounted
+// animal_crossing/furniture_wall_mounted POST
+resource "aws_api_gateway_integration" "furniture_wall_mounted_POST" {
+ credentials             = aws_iam_role.api_gateway.arn
+  http_method             = aws_api_gateway_method.furniture_wall_mounted_POST.http_method
+  integration_http_method = "POST"
+  passthrough_behavior    = "WHEN_NO_TEMPLATES"
+  resource_id             = aws_api_gateway_method.furniture_wall_mounted_POST.resource_id
+  rest_api_id             = aws_api_gateway_method.furniture_wall_mounted_POST.rest_api_id
+  type                    = "AWS"
+  uri                     = "arn:aws:apigateway:${var.region}:states:action/StartExecution"
+  request_templates = {
+    "application/json" = templatefile("./src/furniture_wall_mounted/api_gateway/integration/mapping_template/POST/model_collection.vtl", {
+        state_machine_arn = aws_sfn_state_machine.furniture_wall_mounted_POST.arn
+    })
+  }
+}
+
 // furniture_wallpaper
 // animal_crossing/furniture_wallpaper DELETE
 resource "aws_api_gateway_integration" "furniture_wallpaper_DELETE" {
@@ -1148,6 +1706,24 @@ resource "aws_api_gateway_integration" "furniture_wallpaper_PATCH" {
   rest_api_id             = aws_api_gateway_method.furniture_wallpaper_PATCH.rest_api_id
   type                    = "AWS_PROXY"
   uri                     = aws_lambda_function.furniture_wallpaper_PATCH.invoke_arn
+}
+
+// furniture_wallpaper
+// animal_crossing/furniture_wallpaper POST
+resource "aws_api_gateway_integration" "furniture_wallpaper_POST" {
+ credentials             = aws_iam_role.api_gateway.arn
+  http_method             = aws_api_gateway_method.furniture_wallpaper_POST.http_method
+  integration_http_method = "POST"
+  passthrough_behavior    = "WHEN_NO_TEMPLATES"
+  resource_id             = aws_api_gateway_method.furniture_wallpaper_POST.resource_id
+  rest_api_id             = aws_api_gateway_method.furniture_wallpaper_POST.rest_api_id
+  type                    = "AWS"
+  uri                     = "arn:aws:apigateway:${var.region}:states:action/StartExecution"
+  request_templates = {
+    "application/json" = templatefile("./src/furniture_wallpaper/api_gateway/integration/mapping_template/POST/model_collection.vtl", {
+        state_machine_arn = aws_sfn_state_machine.furniture_wallpaper_POST.arn
+    })
+  }
 }
 
 // item
@@ -1186,6 +1762,24 @@ resource "aws_api_gateway_integration" "item_PATCH" {
   uri                     = aws_lambda_function.item_PATCH.invoke_arn
 }
 
+// item
+// animal_crossing/item POST
+resource "aws_api_gateway_integration" "item_POST" {
+ credentials             = aws_iam_role.api_gateway.arn
+  http_method             = aws_api_gateway_method.item_POST.http_method
+  integration_http_method = "POST"
+  passthrough_behavior    = "WHEN_NO_TEMPLATES"
+  resource_id             = aws_api_gateway_method.item_POST.resource_id
+  rest_api_id             = aws_api_gateway_method.item_POST.rest_api_id
+  type                    = "AWS"
+  uri                     = "arn:aws:apigateway:${var.region}:states:action/StartExecution"
+  request_templates = {
+    "application/json" = templatefile("./src/item/api_gateway/integration/mapping_template/POST/model_collection.vtl", {
+        state_machine_arn = aws_sfn_state_machine.item_POST.arn
+    })
+  }
+}
+
 // item_other
 // animal_crossing/item_other DELETE
 resource "aws_api_gateway_integration" "item_other_DELETE" {
@@ -1220,6 +1814,24 @@ resource "aws_api_gateway_integration" "item_other_PATCH" {
   rest_api_id             = aws_api_gateway_method.item_other_PATCH.rest_api_id
   type                    = "AWS_PROXY"
   uri                     = aws_lambda_function.item_other_PATCH.invoke_arn
+}
+
+// item_other
+// animal_crossing/item_other POST
+resource "aws_api_gateway_integration" "item_other_POST" {
+ credentials             = aws_iam_role.api_gateway.arn
+  http_method             = aws_api_gateway_method.item_other_POST.http_method
+  integration_http_method = "POST"
+  passthrough_behavior    = "WHEN_NO_TEMPLATES"
+  resource_id             = aws_api_gateway_method.item_other_POST.resource_id
+  rest_api_id             = aws_api_gateway_method.item_other_POST.rest_api_id
+  type                    = "AWS"
+  uri                     = "arn:aws:apigateway:${var.region}:states:action/StartExecution"
+  request_templates = {
+    "application/json" = templatefile("./src/item_other/api_gateway/integration/mapping_template/POST/model_collection.vtl", {
+        state_machine_arn = aws_sfn_state_machine.item_other_POST.arn
+    })
+  }
 }
 
 // occasion
@@ -1258,6 +1870,24 @@ resource "aws_api_gateway_integration" "occasion_PATCH" {
   uri                     = aws_lambda_function.occasion_PATCH.invoke_arn
 }
 
+// occasion
+// animal_crossing/occasion POST
+resource "aws_api_gateway_integration" "occasion_POST" {
+ credentials             = aws_iam_role.api_gateway.arn
+  http_method             = aws_api_gateway_method.occasion_POST.http_method
+  integration_http_method = "POST"
+  passthrough_behavior    = "WHEN_NO_TEMPLATES"
+  resource_id             = aws_api_gateway_method.occasion_POST.resource_id
+  rest_api_id             = aws_api_gateway_method.occasion_POST.rest_api_id
+  type                    = "AWS"
+  uri                     = "arn:aws:apigateway:${var.region}:states:action/StartExecution"
+  request_templates = {
+    "application/json" = templatefile("./src/occasion/api_gateway/integration/mapping_template/POST/model_collection.vtl", {
+        state_machine_arn = aws_sfn_state_machine.occasion_POST.arn
+    })
+  }
+}
+
 // paradise_planning
 // animal_crossing/paradise_planning DELETE
 resource "aws_api_gateway_integration" "paradise_planning_DELETE" {
@@ -1292,6 +1922,24 @@ resource "aws_api_gateway_integration" "paradise_planning_PATCH" {
   rest_api_id             = aws_api_gateway_method.paradise_planning_PATCH.rest_api_id
   type                    = "AWS_PROXY"
   uri                     = aws_lambda_function.paradise_planning_PATCH.invoke_arn
+}
+
+// paradise_planning
+// animal_crossing/paradise_planning POST
+resource "aws_api_gateway_integration" "paradise_planning_POST" {
+ credentials             = aws_iam_role.api_gateway.arn
+  http_method             = aws_api_gateway_method.paradise_planning_POST.http_method
+  integration_http_method = "POST"
+  passthrough_behavior    = "WHEN_NO_TEMPLATES"
+  resource_id             = aws_api_gateway_method.paradise_planning_POST.resource_id
+  rest_api_id             = aws_api_gateway_method.paradise_planning_POST.rest_api_id
+  type                    = "AWS"
+  uri                     = "arn:aws:apigateway:${var.region}:states:action/StartExecution"
+  request_templates = {
+    "application/json" = templatefile("./src/paradise_planning/api_gateway/integration/mapping_template/POST/model_collection.vtl", {
+        state_machine_arn = aws_sfn_state_machine.paradise_planning_POST.arn
+    })
+  }
 }
 
 // reaction
@@ -1330,6 +1978,24 @@ resource "aws_api_gateway_integration" "reaction_PATCH" {
   uri                     = aws_lambda_function.reaction_PATCH.invoke_arn
 }
 
+// reaction
+// animal_crossing/reaction POST
+resource "aws_api_gateway_integration" "reaction_POST" {
+ credentials             = aws_iam_role.api_gateway.arn
+  http_method             = aws_api_gateway_method.reaction_POST.http_method
+  integration_http_method = "POST"
+  passthrough_behavior    = "WHEN_NO_TEMPLATES"
+  resource_id             = aws_api_gateway_method.reaction_POST.resource_id
+  rest_api_id             = aws_api_gateway_method.reaction_POST.rest_api_id
+  type                    = "AWS"
+  uri                     = "arn:aws:apigateway:${var.region}:states:action/StartExecution"
+  request_templates = {
+    "application/json" = templatefile("./src/reaction/api_gateway/integration/mapping_template/POST/model_collection.vtl", {
+        state_machine_arn = aws_sfn_state_machine.reaction_POST.arn
+    })
+  }
+}
+
 // recipe
 // animal_crossing/recipe DELETE
 resource "aws_api_gateway_integration" "recipe_DELETE" {
@@ -1364,6 +2030,24 @@ resource "aws_api_gateway_integration" "recipe_PATCH" {
   rest_api_id             = aws_api_gateway_method.recipe_PATCH.rest_api_id
   type                    = "AWS_PROXY"
   uri                     = aws_lambda_function.recipe_PATCH.invoke_arn
+}
+
+// recipe
+// animal_crossing/recipe POST
+resource "aws_api_gateway_integration" "recipe_POST" {
+ credentials             = aws_iam_role.api_gateway.arn
+  http_method             = aws_api_gateway_method.recipe_POST.http_method
+  integration_http_method = "POST"
+  passthrough_behavior    = "WHEN_NO_TEMPLATES"
+  resource_id             = aws_api_gateway_method.recipe_POST.resource_id
+  rest_api_id             = aws_api_gateway_method.recipe_POST.rest_api_id
+  type                    = "AWS"
+  uri                     = "arn:aws:apigateway:${var.region}:states:action/StartExecution"
+  request_templates = {
+    "application/json" = templatefile("./src/recipe/api_gateway/integration/mapping_template/POST/model_collection.vtl", {
+        state_machine_arn = aws_sfn_state_machine.recipe_POST.arn
+    })
+  }
 }
 
 // villager
@@ -1402,6 +2086,24 @@ resource "aws_api_gateway_integration" "villager_PATCH" {
   uri                     = aws_lambda_function.villager_PATCH.invoke_arn
 }
 
+// villager
+// animal_crossing/villager POST
+resource "aws_api_gateway_integration" "villager_POST" {
+ credentials             = aws_iam_role.api_gateway.arn
+  http_method             = aws_api_gateway_method.villager_POST.http_method
+  integration_http_method = "POST"
+  passthrough_behavior    = "WHEN_NO_TEMPLATES"
+  resource_id             = aws_api_gateway_method.villager_POST.resource_id
+  rest_api_id             = aws_api_gateway_method.villager_POST.rest_api_id
+  type                    = "AWS"
+  uri                     = "arn:aws:apigateway:${var.region}:states:action/StartExecution"
+  request_templates = {
+    "application/json" = templatefile("./src/villager/api_gateway/integration/mapping_template/POST/model_collection.vtl", {
+        state_machine_arn = aws_sfn_state_machine.villager_POST.arn
+    })
+  }
+}
+
 // villager_special
 // animal_crossing/villager_special DELETE
 resource "aws_api_gateway_integration" "villager_special_DELETE" {
@@ -1436,4 +2138,22 @@ resource "aws_api_gateway_integration" "villager_special_PATCH" {
   rest_api_id             = aws_api_gateway_method.villager_special_PATCH.rest_api_id
   type                    = "AWS_PROXY"
   uri                     = aws_lambda_function.villager_special_PATCH.invoke_arn
+}
+
+// villager_special
+// animal_crossing/villager_special POST
+resource "aws_api_gateway_integration" "villager_special_POST" {
+ credentials             = aws_iam_role.api_gateway.arn
+  http_method             = aws_api_gateway_method.villager_special_POST.http_method
+  integration_http_method = "POST"
+  passthrough_behavior    = "WHEN_NO_TEMPLATES"
+  resource_id             = aws_api_gateway_method.villager_special_POST.resource_id
+  rest_api_id             = aws_api_gateway_method.villager_special_POST.rest_api_id
+  type                    = "AWS"
+  uri                     = "arn:aws:apigateway:${var.region}:states:action/StartExecution"
+  request_templates = {
+    "application/json" = templatefile("./src/villager_special/api_gateway/integration/mapping_template/POST/model_collection.vtl", {
+        state_machine_arn = aws_sfn_state_machine.villager_special_POST.arn
+    })
+  }
 }
