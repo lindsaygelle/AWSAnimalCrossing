@@ -1,0 +1,10 @@
+{
+    "StartAt": "Start",
+    "States": {
+        "Start": {
+            "End": true,
+            "Result": "FurnitureRug",
+            "Type": "Pass"
+        }
+    }
+}
