@@ -7,6 +7,9 @@ resource "aws_api_gateway_method" "achievement_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.achievement.id
   rest_api_id          = aws_api_gateway_resource.achievement.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.achievement_DELETE.name
+  }
 }
 
 // achievement
@@ -18,6 +21,9 @@ resource "aws_api_gateway_method" "achievement_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.achievement.id
   rest_api_id          = aws_api_gateway_resource.achievement.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.achievement_GET.name
+  }
 }
 
 // achievement
@@ -29,6 +35,9 @@ resource "aws_api_gateway_method" "achievement_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.achievement.id
   rest_api_id          = aws_api_gateway_resource.achievement.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.achievement_PATCH.name
+  }
 }
 
 // achievement
@@ -40,6 +49,9 @@ resource "aws_api_gateway_method" "achievement_POST" {
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.achievement.id
   rest_api_id          = aws_api_gateway_resource.achievement.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.achievement_POST.name
+  }
 }
 
 // achievement
@@ -51,6 +63,9 @@ resource "aws_api_gateway_method" "achievement_id_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.achievement_id.id
   rest_api_id          = aws_api_gateway_resource.achievement_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.achievement_id_DELETE.name
+  }
 }
 
 // achievement
@@ -62,6 +77,9 @@ resource "aws_api_gateway_method" "achievement_id_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.achievement_id.id
   rest_api_id          = aws_api_gateway_resource.achievement_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.achievement_id_GET.name
+  }
 }
 
 // achievement
@@ -73,6 +91,9 @@ resource "aws_api_gateway_method" "achievement_id_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.achievement_id.id
   rest_api_id          = aws_api_gateway_resource.achievement_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.achievement_id_PATCH.name
+  }
 }
 
 // card
@@ -84,6 +105,9 @@ resource "aws_api_gateway_method" "card_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.card.id
   rest_api_id          = aws_api_gateway_resource.card.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.card_DELETE.name
+  }
 }
 
 // card
@@ -95,6 +119,9 @@ resource "aws_api_gateway_method" "card_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.card.id
   rest_api_id          = aws_api_gateway_resource.card.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.card_GET.name
+  }
 }
 
 // card
@@ -106,6 +133,9 @@ resource "aws_api_gateway_method" "card_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.card.id
   rest_api_id          = aws_api_gateway_resource.card.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.card_PATCH.name
+  }
 }
 
 // card
@@ -117,6 +147,9 @@ resource "aws_api_gateway_method" "card_POST" {
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.card.id
   rest_api_id          = aws_api_gateway_resource.card.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.card_POST.name
+  }
 }
 
 // card
@@ -128,6 +161,9 @@ resource "aws_api_gateway_method" "card_id_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.card_id.id
   rest_api_id          = aws_api_gateway_resource.card_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.card_id_DELETE.name
+  }
 }
 
 // card
@@ -139,6 +175,9 @@ resource "aws_api_gateway_method" "card_id_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.card_id.id
   rest_api_id          = aws_api_gateway_resource.card_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.card_id_GET.name
+  }
 }
 
 // card
@@ -150,6 +189,9 @@ resource "aws_api_gateway_method" "card_id_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.card_id.id
   rest_api_id          = aws_api_gateway_resource.card_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.card_id_PATCH.name
+  }
 }
 
 // clothing_accessory
@@ -161,6 +203,9 @@ resource "aws_api_gateway_method" "clothing_accessory_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.clothing_accessory.id
   rest_api_id          = aws_api_gateway_resource.clothing_accessory.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_accessory_DELETE.name
+  }
 }
 
 // clothing_accessory
@@ -172,6 +217,9 @@ resource "aws_api_gateway_method" "clothing_accessory_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.clothing_accessory.id
   rest_api_id          = aws_api_gateway_resource.clothing_accessory.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_accessory_GET.name
+  }
 }
 
 // clothing_accessory
@@ -183,6 +231,9 @@ resource "aws_api_gateway_method" "clothing_accessory_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.clothing_accessory.id
   rest_api_id          = aws_api_gateway_resource.clothing_accessory.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_accessory_PATCH.name
+  }
 }
 
 // clothing_accessory
@@ -194,6 +245,9 @@ resource "aws_api_gateway_method" "clothing_accessory_POST" {
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.clothing_accessory.id
   rest_api_id          = aws_api_gateway_resource.clothing_accessory.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_accessory_POST.name
+  }
 }
 
 // clothing_accessory
@@ -205,6 +259,9 @@ resource "aws_api_gateway_method" "clothing_accessory_id_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.clothing_accessory_id.id
   rest_api_id          = aws_api_gateway_resource.clothing_accessory_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_accessory_id_DELETE.name
+  }
 }
 
 // clothing_accessory
@@ -216,6 +273,9 @@ resource "aws_api_gateway_method" "clothing_accessory_id_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.clothing_accessory_id.id
   rest_api_id          = aws_api_gateway_resource.clothing_accessory_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_accessory_id_GET.name
+  }
 }
 
 // clothing_accessory
@@ -227,6 +287,9 @@ resource "aws_api_gateway_method" "clothing_accessory_id_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.clothing_accessory_id.id
   rest_api_id          = aws_api_gateway_resource.clothing_accessory_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_accessory_id_PATCH.name
+  }
 }
 
 // clothing_bag
@@ -238,6 +301,9 @@ resource "aws_api_gateway_method" "clothing_bag_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.clothing_bag.id
   rest_api_id          = aws_api_gateway_resource.clothing_bag.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_bag_DELETE.name
+  }
 }
 
 // clothing_bag
@@ -249,6 +315,9 @@ resource "aws_api_gateway_method" "clothing_bag_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.clothing_bag.id
   rest_api_id          = aws_api_gateway_resource.clothing_bag.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_bag_GET.name
+  }
 }
 
 // clothing_bag
@@ -260,6 +329,9 @@ resource "aws_api_gateway_method" "clothing_bag_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.clothing_bag.id
   rest_api_id          = aws_api_gateway_resource.clothing_bag.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_bag_PATCH.name
+  }
 }
 
 // clothing_bag
@@ -271,6 +343,9 @@ resource "aws_api_gateway_method" "clothing_bag_POST" {
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.clothing_bag.id
   rest_api_id          = aws_api_gateway_resource.clothing_bag.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_bag_POST.name
+  }
 }
 
 // clothing_bag
@@ -282,6 +357,9 @@ resource "aws_api_gateway_method" "clothing_bag_id_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.clothing_bag_id.id
   rest_api_id          = aws_api_gateway_resource.clothing_bag_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_bag_id_DELETE.name
+  }
 }
 
 // clothing_bag
@@ -293,6 +371,9 @@ resource "aws_api_gateway_method" "clothing_bag_id_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.clothing_bag_id.id
   rest_api_id          = aws_api_gateway_resource.clothing_bag_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_bag_id_GET.name
+  }
 }
 
 // clothing_bag
@@ -304,6 +385,9 @@ resource "aws_api_gateway_method" "clothing_bag_id_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.clothing_bag_id.id
   rest_api_id          = aws_api_gateway_resource.clothing_bag_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_bag_id_PATCH.name
+  }
 }
 
 // clothing_bottom
@@ -315,6 +399,9 @@ resource "aws_api_gateway_method" "clothing_bottom_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.clothing_bottom.id
   rest_api_id          = aws_api_gateway_resource.clothing_bottom.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_bottom_DELETE.name
+  }
 }
 
 // clothing_bottom
@@ -326,6 +413,9 @@ resource "aws_api_gateway_method" "clothing_bottom_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.clothing_bottom.id
   rest_api_id          = aws_api_gateway_resource.clothing_bottom.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_bottom_GET.name
+  }
 }
 
 // clothing_bottom
@@ -337,6 +427,9 @@ resource "aws_api_gateway_method" "clothing_bottom_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.clothing_bottom.id
   rest_api_id          = aws_api_gateway_resource.clothing_bottom.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_bottom_PATCH.name
+  }
 }
 
 // clothing_bottom
@@ -348,6 +441,9 @@ resource "aws_api_gateway_method" "clothing_bottom_POST" {
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.clothing_bottom.id
   rest_api_id          = aws_api_gateway_resource.clothing_bottom.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_bottom_POST.name
+  }
 }
 
 // clothing_bottom
@@ -359,6 +455,9 @@ resource "aws_api_gateway_method" "clothing_bottom_id_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.clothing_bottom_id.id
   rest_api_id          = aws_api_gateway_resource.clothing_bottom_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_bottom_id_DELETE.name
+  }
 }
 
 // clothing_bottom
@@ -370,6 +469,9 @@ resource "aws_api_gateway_method" "clothing_bottom_id_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.clothing_bottom_id.id
   rest_api_id          = aws_api_gateway_resource.clothing_bottom_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_bottom_id_GET.name
+  }
 }
 
 // clothing_bottom
@@ -381,6 +483,9 @@ resource "aws_api_gateway_method" "clothing_bottom_id_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.clothing_bottom_id.id
   rest_api_id          = aws_api_gateway_resource.clothing_bottom_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_bottom_id_PATCH.name
+  }
 }
 
 // clothing_dress_up
@@ -392,6 +497,9 @@ resource "aws_api_gateway_method" "clothing_dress_up_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.clothing_dress_up.id
   rest_api_id          = aws_api_gateway_resource.clothing_dress_up.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_dress_up_DELETE.name
+  }
 }
 
 // clothing_dress_up
@@ -403,6 +511,9 @@ resource "aws_api_gateway_method" "clothing_dress_up_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.clothing_dress_up.id
   rest_api_id          = aws_api_gateway_resource.clothing_dress_up.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_dress_up_GET.name
+  }
 }
 
 // clothing_dress_up
@@ -414,6 +525,9 @@ resource "aws_api_gateway_method" "clothing_dress_up_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.clothing_dress_up.id
   rest_api_id          = aws_api_gateway_resource.clothing_dress_up.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_dress_up_PATCH.name
+  }
 }
 
 // clothing_dress_up
@@ -425,6 +539,9 @@ resource "aws_api_gateway_method" "clothing_dress_up_POST" {
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.clothing_dress_up.id
   rest_api_id          = aws_api_gateway_resource.clothing_dress_up.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_dress_up_POST.name
+  }
 }
 
 // clothing_dress_up
@@ -436,6 +553,9 @@ resource "aws_api_gateway_method" "clothing_dress_up_id_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.clothing_dress_up_id.id
   rest_api_id          = aws_api_gateway_resource.clothing_dress_up_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_dress_up_id_DELETE.name
+  }
 }
 
 // clothing_dress_up
@@ -447,6 +567,9 @@ resource "aws_api_gateway_method" "clothing_dress_up_id_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.clothing_dress_up_id.id
   rest_api_id          = aws_api_gateway_resource.clothing_dress_up_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_dress_up_id_GET.name
+  }
 }
 
 // clothing_dress_up
@@ -458,6 +581,9 @@ resource "aws_api_gateway_method" "clothing_dress_up_id_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.clothing_dress_up_id.id
   rest_api_id          = aws_api_gateway_resource.clothing_dress_up_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_dress_up_id_PATCH.name
+  }
 }
 
 // clothing_headwear
@@ -469,6 +595,9 @@ resource "aws_api_gateway_method" "clothing_headwear_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.clothing_headwear.id
   rest_api_id          = aws_api_gateway_resource.clothing_headwear.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_headwear_DELETE.name
+  }
 }
 
 // clothing_headwear
@@ -480,6 +609,9 @@ resource "aws_api_gateway_method" "clothing_headwear_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.clothing_headwear.id
   rest_api_id          = aws_api_gateway_resource.clothing_headwear.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_headwear_GET.name
+  }
 }
 
 // clothing_headwear
@@ -491,6 +623,9 @@ resource "aws_api_gateway_method" "clothing_headwear_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.clothing_headwear.id
   rest_api_id          = aws_api_gateway_resource.clothing_headwear.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_headwear_PATCH.name
+  }
 }
 
 // clothing_headwear
@@ -502,6 +637,9 @@ resource "aws_api_gateway_method" "clothing_headwear_POST" {
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.clothing_headwear.id
   rest_api_id          = aws_api_gateway_resource.clothing_headwear.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_headwear_POST.name
+  }
 }
 
 // clothing_headwear
@@ -513,6 +651,9 @@ resource "aws_api_gateway_method" "clothing_headwear_id_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.clothing_headwear_id.id
   rest_api_id          = aws_api_gateway_resource.clothing_headwear_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_headwear_id_DELETE.name
+  }
 }
 
 // clothing_headwear
@@ -524,6 +665,9 @@ resource "aws_api_gateway_method" "clothing_headwear_id_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.clothing_headwear_id.id
   rest_api_id          = aws_api_gateway_resource.clothing_headwear_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_headwear_id_GET.name
+  }
 }
 
 // clothing_headwear
@@ -535,6 +679,9 @@ resource "aws_api_gateway_method" "clothing_headwear_id_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.clothing_headwear_id.id
   rest_api_id          = aws_api_gateway_resource.clothing_headwear_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_headwear_id_PATCH.name
+  }
 }
 
 // clothing_other
@@ -546,6 +693,9 @@ resource "aws_api_gateway_method" "clothing_other_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.clothing_other.id
   rest_api_id          = aws_api_gateway_resource.clothing_other.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_other_DELETE.name
+  }
 }
 
 // clothing_other
@@ -557,6 +707,9 @@ resource "aws_api_gateway_method" "clothing_other_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.clothing_other.id
   rest_api_id          = aws_api_gateway_resource.clothing_other.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_other_GET.name
+  }
 }
 
 // clothing_other
@@ -568,6 +721,9 @@ resource "aws_api_gateway_method" "clothing_other_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.clothing_other.id
   rest_api_id          = aws_api_gateway_resource.clothing_other.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_other_PATCH.name
+  }
 }
 
 // clothing_other
@@ -579,6 +735,9 @@ resource "aws_api_gateway_method" "clothing_other_POST" {
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.clothing_other.id
   rest_api_id          = aws_api_gateway_resource.clothing_other.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_other_POST.name
+  }
 }
 
 // clothing_other
@@ -590,6 +749,9 @@ resource "aws_api_gateway_method" "clothing_other_id_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.clothing_other_id.id
   rest_api_id          = aws_api_gateway_resource.clothing_other_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_other_id_DELETE.name
+  }
 }
 
 // clothing_other
@@ -601,6 +763,9 @@ resource "aws_api_gateway_method" "clothing_other_id_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.clothing_other_id.id
   rest_api_id          = aws_api_gateway_resource.clothing_other_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_other_id_GET.name
+  }
 }
 
 // clothing_other
@@ -612,6 +777,9 @@ resource "aws_api_gateway_method" "clothing_other_id_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.clothing_other_id.id
   rest_api_id          = aws_api_gateway_resource.clothing_other_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_other_id_PATCH.name
+  }
 }
 
 // clothing_shoe
@@ -623,6 +791,9 @@ resource "aws_api_gateway_method" "clothing_shoe_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.clothing_shoe.id
   rest_api_id          = aws_api_gateway_resource.clothing_shoe.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_shoe_DELETE.name
+  }
 }
 
 // clothing_shoe
@@ -634,6 +805,9 @@ resource "aws_api_gateway_method" "clothing_shoe_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.clothing_shoe.id
   rest_api_id          = aws_api_gateway_resource.clothing_shoe.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_shoe_GET.name
+  }
 }
 
 // clothing_shoe
@@ -645,6 +819,9 @@ resource "aws_api_gateway_method" "clothing_shoe_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.clothing_shoe.id
   rest_api_id          = aws_api_gateway_resource.clothing_shoe.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_shoe_PATCH.name
+  }
 }
 
 // clothing_shoe
@@ -656,6 +833,9 @@ resource "aws_api_gateway_method" "clothing_shoe_POST" {
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.clothing_shoe.id
   rest_api_id          = aws_api_gateway_resource.clothing_shoe.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_shoe_POST.name
+  }
 }
 
 // clothing_shoe
@@ -667,6 +847,9 @@ resource "aws_api_gateway_method" "clothing_shoe_id_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.clothing_shoe_id.id
   rest_api_id          = aws_api_gateway_resource.clothing_shoe_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_shoe_id_DELETE.name
+  }
 }
 
 // clothing_shoe
@@ -678,6 +861,9 @@ resource "aws_api_gateway_method" "clothing_shoe_id_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.clothing_shoe_id.id
   rest_api_id          = aws_api_gateway_resource.clothing_shoe_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_shoe_id_GET.name
+  }
 }
 
 // clothing_shoe
@@ -689,6 +875,9 @@ resource "aws_api_gateway_method" "clothing_shoe_id_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.clothing_shoe_id.id
   rest_api_id          = aws_api_gateway_resource.clothing_shoe_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_shoe_id_PATCH.name
+  }
 }
 
 // clothing_sock
@@ -700,6 +889,9 @@ resource "aws_api_gateway_method" "clothing_sock_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.clothing_sock.id
   rest_api_id          = aws_api_gateway_resource.clothing_sock.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_sock_DELETE.name
+  }
 }
 
 // clothing_sock
@@ -711,6 +903,9 @@ resource "aws_api_gateway_method" "clothing_sock_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.clothing_sock.id
   rest_api_id          = aws_api_gateway_resource.clothing_sock.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_sock_GET.name
+  }
 }
 
 // clothing_sock
@@ -722,6 +917,9 @@ resource "aws_api_gateway_method" "clothing_sock_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.clothing_sock.id
   rest_api_id          = aws_api_gateway_resource.clothing_sock.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_sock_PATCH.name
+  }
 }
 
 // clothing_sock
@@ -733,6 +931,9 @@ resource "aws_api_gateway_method" "clothing_sock_POST" {
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.clothing_sock.id
   rest_api_id          = aws_api_gateway_resource.clothing_sock.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_sock_POST.name
+  }
 }
 
 // clothing_sock
@@ -744,6 +945,9 @@ resource "aws_api_gateway_method" "clothing_sock_id_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.clothing_sock_id.id
   rest_api_id          = aws_api_gateway_resource.clothing_sock_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_sock_id_DELETE.name
+  }
 }
 
 // clothing_sock
@@ -755,6 +959,9 @@ resource "aws_api_gateway_method" "clothing_sock_id_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.clothing_sock_id.id
   rest_api_id          = aws_api_gateway_resource.clothing_sock_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_sock_id_GET.name
+  }
 }
 
 // clothing_sock
@@ -766,6 +973,9 @@ resource "aws_api_gateway_method" "clothing_sock_id_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.clothing_sock_id.id
   rest_api_id          = aws_api_gateway_resource.clothing_sock_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_sock_id_PATCH.name
+  }
 }
 
 // clothing_top
@@ -777,6 +987,9 @@ resource "aws_api_gateway_method" "clothing_top_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.clothing_top.id
   rest_api_id          = aws_api_gateway_resource.clothing_top.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_top_DELETE.name
+  }
 }
 
 // clothing_top
@@ -788,6 +1001,9 @@ resource "aws_api_gateway_method" "clothing_top_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.clothing_top.id
   rest_api_id          = aws_api_gateway_resource.clothing_top.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_top_GET.name
+  }
 }
 
 // clothing_top
@@ -799,6 +1015,9 @@ resource "aws_api_gateway_method" "clothing_top_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.clothing_top.id
   rest_api_id          = aws_api_gateway_resource.clothing_top.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_top_PATCH.name
+  }
 }
 
 // clothing_top
@@ -810,6 +1029,9 @@ resource "aws_api_gateway_method" "clothing_top_POST" {
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.clothing_top.id
   rest_api_id          = aws_api_gateway_resource.clothing_top.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_top_POST.name
+  }
 }
 
 // clothing_top
@@ -821,6 +1043,9 @@ resource "aws_api_gateway_method" "clothing_top_id_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.clothing_top_id.id
   rest_api_id          = aws_api_gateway_resource.clothing_top_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_top_id_DELETE.name
+  }
 }
 
 // clothing_top
@@ -832,6 +1057,9 @@ resource "aws_api_gateway_method" "clothing_top_id_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.clothing_top_id.id
   rest_api_id          = aws_api_gateway_resource.clothing_top_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_top_id_GET.name
+  }
 }
 
 // clothing_top
@@ -843,6 +1071,9 @@ resource "aws_api_gateway_method" "clothing_top_id_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.clothing_top_id.id
   rest_api_id          = aws_api_gateway_resource.clothing_top_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_top_id_PATCH.name
+  }
 }
 
 // clothing_umbrella
@@ -854,6 +1085,9 @@ resource "aws_api_gateway_method" "clothing_umbrella_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.clothing_umbrella.id
   rest_api_id          = aws_api_gateway_resource.clothing_umbrella.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_umbrella_DELETE.name
+  }
 }
 
 // clothing_umbrella
@@ -865,6 +1099,9 @@ resource "aws_api_gateway_method" "clothing_umbrella_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.clothing_umbrella.id
   rest_api_id          = aws_api_gateway_resource.clothing_umbrella.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_umbrella_GET.name
+  }
 }
 
 // clothing_umbrella
@@ -876,6 +1113,9 @@ resource "aws_api_gateway_method" "clothing_umbrella_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.clothing_umbrella.id
   rest_api_id          = aws_api_gateway_resource.clothing_umbrella.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_umbrella_PATCH.name
+  }
 }
 
 // clothing_umbrella
@@ -887,6 +1127,9 @@ resource "aws_api_gateway_method" "clothing_umbrella_POST" {
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.clothing_umbrella.id
   rest_api_id          = aws_api_gateway_resource.clothing_umbrella.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_umbrella_POST.name
+  }
 }
 
 // clothing_umbrella
@@ -898,6 +1141,9 @@ resource "aws_api_gateway_method" "clothing_umbrella_id_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.clothing_umbrella_id.id
   rest_api_id          = aws_api_gateway_resource.clothing_umbrella_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_umbrella_id_DELETE.name
+  }
 }
 
 // clothing_umbrella
@@ -909,6 +1155,9 @@ resource "aws_api_gateway_method" "clothing_umbrella_id_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.clothing_umbrella_id.id
   rest_api_id          = aws_api_gateway_resource.clothing_umbrella_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_umbrella_id_GET.name
+  }
 }
 
 // clothing_umbrella
@@ -920,6 +1169,9 @@ resource "aws_api_gateway_method" "clothing_umbrella_id_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.clothing_umbrella_id.id
   rest_api_id          = aws_api_gateway_resource.clothing_umbrella_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.clothing_umbrella_id_PATCH.name
+  }
 }
 
 // construction
@@ -931,6 +1183,9 @@ resource "aws_api_gateway_method" "construction_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.construction.id
   rest_api_id          = aws_api_gateway_resource.construction.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.construction_DELETE.name
+  }
 }
 
 // construction
@@ -942,6 +1197,9 @@ resource "aws_api_gateway_method" "construction_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.construction.id
   rest_api_id          = aws_api_gateway_resource.construction.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.construction_GET.name
+  }
 }
 
 // construction
@@ -953,6 +1211,9 @@ resource "aws_api_gateway_method" "construction_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.construction.id
   rest_api_id          = aws_api_gateway_resource.construction.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.construction_PATCH.name
+  }
 }
 
 // construction
@@ -964,6 +1225,9 @@ resource "aws_api_gateway_method" "construction_POST" {
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.construction.id
   rest_api_id          = aws_api_gateway_resource.construction.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.construction_POST.name
+  }
 }
 
 // construction
@@ -975,6 +1239,9 @@ resource "aws_api_gateway_method" "construction_id_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.construction_id.id
   rest_api_id          = aws_api_gateway_resource.construction_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.construction_id_DELETE.name
+  }
 }
 
 // construction
@@ -986,6 +1253,9 @@ resource "aws_api_gateway_method" "construction_id_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.construction_id.id
   rest_api_id          = aws_api_gateway_resource.construction_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.construction_id_GET.name
+  }
 }
 
 // construction
@@ -997,6 +1267,9 @@ resource "aws_api_gateway_method" "construction_id_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.construction_id.id
   rest_api_id          = aws_api_gateway_resource.construction_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.construction_id_PATCH.name
+  }
 }
 
 // creature_fish
@@ -1008,6 +1281,9 @@ resource "aws_api_gateway_method" "creature_fish_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.creature_fish.id
   rest_api_id          = aws_api_gateway_resource.creature_fish.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.creature_fish_DELETE.name
+  }
 }
 
 // creature_fish
@@ -1019,6 +1295,9 @@ resource "aws_api_gateway_method" "creature_fish_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.creature_fish.id
   rest_api_id          = aws_api_gateway_resource.creature_fish.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.creature_fish_GET.name
+  }
 }
 
 // creature_fish
@@ -1030,6 +1309,9 @@ resource "aws_api_gateway_method" "creature_fish_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.creature_fish.id
   rest_api_id          = aws_api_gateway_resource.creature_fish.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.creature_fish_PATCH.name
+  }
 }
 
 // creature_fish
@@ -1041,6 +1323,9 @@ resource "aws_api_gateway_method" "creature_fish_POST" {
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.creature_fish.id
   rest_api_id          = aws_api_gateway_resource.creature_fish.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.creature_fish_POST.name
+  }
 }
 
 // creature_fish
@@ -1052,6 +1337,9 @@ resource "aws_api_gateway_method" "creature_fish_id_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.creature_fish_id.id
   rest_api_id          = aws_api_gateway_resource.creature_fish_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.creature_fish_id_DELETE.name
+  }
 }
 
 // creature_fish
@@ -1063,6 +1351,9 @@ resource "aws_api_gateway_method" "creature_fish_id_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.creature_fish_id.id
   rest_api_id          = aws_api_gateway_resource.creature_fish_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.creature_fish_id_GET.name
+  }
 }
 
 // creature_fish
@@ -1074,6 +1365,9 @@ resource "aws_api_gateway_method" "creature_fish_id_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.creature_fish_id.id
   rest_api_id          = aws_api_gateway_resource.creature_fish_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.creature_fish_id_PATCH.name
+  }
 }
 
 // creature_insect
@@ -1085,6 +1379,9 @@ resource "aws_api_gateway_method" "creature_insect_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.creature_insect.id
   rest_api_id          = aws_api_gateway_resource.creature_insect.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.creature_insect_DELETE.name
+  }
 }
 
 // creature_insect
@@ -1096,6 +1393,9 @@ resource "aws_api_gateway_method" "creature_insect_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.creature_insect.id
   rest_api_id          = aws_api_gateway_resource.creature_insect.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.creature_insect_GET.name
+  }
 }
 
 // creature_insect
@@ -1107,6 +1407,9 @@ resource "aws_api_gateway_method" "creature_insect_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.creature_insect.id
   rest_api_id          = aws_api_gateway_resource.creature_insect.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.creature_insect_PATCH.name
+  }
 }
 
 // creature_insect
@@ -1118,6 +1421,9 @@ resource "aws_api_gateway_method" "creature_insect_POST" {
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.creature_insect.id
   rest_api_id          = aws_api_gateway_resource.creature_insect.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.creature_insect_POST.name
+  }
 }
 
 // creature_insect
@@ -1129,6 +1435,9 @@ resource "aws_api_gateway_method" "creature_insect_id_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.creature_insect_id.id
   rest_api_id          = aws_api_gateway_resource.creature_insect_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.creature_insect_id_DELETE.name
+  }
 }
 
 // creature_insect
@@ -1140,6 +1449,9 @@ resource "aws_api_gateway_method" "creature_insect_id_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.creature_insect_id.id
   rest_api_id          = aws_api_gateway_resource.creature_insect_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.creature_insect_id_GET.name
+  }
 }
 
 // creature_insect
@@ -1151,6 +1463,9 @@ resource "aws_api_gateway_method" "creature_insect_id_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.creature_insect_id.id
   rest_api_id          = aws_api_gateway_resource.creature_insect_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.creature_insect_id_PATCH.name
+  }
 }
 
 // creature_sea
@@ -1162,6 +1477,9 @@ resource "aws_api_gateway_method" "creature_sea_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.creature_sea.id
   rest_api_id          = aws_api_gateway_resource.creature_sea.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.creature_sea_DELETE.name
+  }
 }
 
 // creature_sea
@@ -1173,6 +1491,9 @@ resource "aws_api_gateway_method" "creature_sea_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.creature_sea.id
   rest_api_id          = aws_api_gateway_resource.creature_sea.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.creature_sea_GET.name
+  }
 }
 
 // creature_sea
@@ -1184,6 +1505,9 @@ resource "aws_api_gateway_method" "creature_sea_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.creature_sea.id
   rest_api_id          = aws_api_gateway_resource.creature_sea.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.creature_sea_PATCH.name
+  }
 }
 
 // creature_sea
@@ -1195,6 +1519,9 @@ resource "aws_api_gateway_method" "creature_sea_POST" {
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.creature_sea.id
   rest_api_id          = aws_api_gateway_resource.creature_sea.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.creature_sea_POST.name
+  }
 }
 
 // creature_sea
@@ -1206,6 +1533,9 @@ resource "aws_api_gateway_method" "creature_sea_id_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.creature_sea_id.id
   rest_api_id          = aws_api_gateway_resource.creature_sea_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.creature_sea_id_DELETE.name
+  }
 }
 
 // creature_sea
@@ -1217,6 +1547,9 @@ resource "aws_api_gateway_method" "creature_sea_id_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.creature_sea_id.id
   rest_api_id          = aws_api_gateway_resource.creature_sea_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.creature_sea_id_GET.name
+  }
 }
 
 // creature_sea
@@ -1228,6 +1561,9 @@ resource "aws_api_gateway_method" "creature_sea_id_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.creature_sea_id.id
   rest_api_id          = aws_api_gateway_resource.creature_sea_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.creature_sea_id_PATCH.name
+  }
 }
 
 // furniture_artwork
@@ -1239,6 +1575,9 @@ resource "aws_api_gateway_method" "furniture_artwork_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.furniture_artwork.id
   rest_api_id          = aws_api_gateway_resource.furniture_artwork.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_artwork_DELETE.name
+  }
 }
 
 // furniture_artwork
@@ -1250,6 +1589,9 @@ resource "aws_api_gateway_method" "furniture_artwork_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.furniture_artwork.id
   rest_api_id          = aws_api_gateway_resource.furniture_artwork.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_artwork_GET.name
+  }
 }
 
 // furniture_artwork
@@ -1261,6 +1603,9 @@ resource "aws_api_gateway_method" "furniture_artwork_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.furniture_artwork.id
   rest_api_id          = aws_api_gateway_resource.furniture_artwork.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_artwork_PATCH.name
+  }
 }
 
 // furniture_artwork
@@ -1272,6 +1617,9 @@ resource "aws_api_gateway_method" "furniture_artwork_POST" {
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.furniture_artwork.id
   rest_api_id          = aws_api_gateway_resource.furniture_artwork.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_artwork_POST.name
+  }
 }
 
 // furniture_artwork
@@ -1283,6 +1631,9 @@ resource "aws_api_gateway_method" "furniture_artwork_id_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.furniture_artwork_id.id
   rest_api_id          = aws_api_gateway_resource.furniture_artwork_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_artwork_id_DELETE.name
+  }
 }
 
 // furniture_artwork
@@ -1294,6 +1645,9 @@ resource "aws_api_gateway_method" "furniture_artwork_id_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.furniture_artwork_id.id
   rest_api_id          = aws_api_gateway_resource.furniture_artwork_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_artwork_id_GET.name
+  }
 }
 
 // furniture_artwork
@@ -1305,6 +1659,9 @@ resource "aws_api_gateway_method" "furniture_artwork_id_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.furniture_artwork_id.id
   rest_api_id          = aws_api_gateway_resource.furniture_artwork_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_artwork_id_PATCH.name
+  }
 }
 
 // furniture_ceiling
@@ -1316,6 +1673,9 @@ resource "aws_api_gateway_method" "furniture_ceiling_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.furniture_ceiling.id
   rest_api_id          = aws_api_gateway_resource.furniture_ceiling.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_ceiling_DELETE.name
+  }
 }
 
 // furniture_ceiling
@@ -1327,6 +1687,9 @@ resource "aws_api_gateway_method" "furniture_ceiling_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.furniture_ceiling.id
   rest_api_id          = aws_api_gateway_resource.furniture_ceiling.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_ceiling_GET.name
+  }
 }
 
 // furniture_ceiling
@@ -1338,6 +1701,9 @@ resource "aws_api_gateway_method" "furniture_ceiling_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.furniture_ceiling.id
   rest_api_id          = aws_api_gateway_resource.furniture_ceiling.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_ceiling_PATCH.name
+  }
 }
 
 // furniture_ceiling
@@ -1349,6 +1715,9 @@ resource "aws_api_gateway_method" "furniture_ceiling_POST" {
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.furniture_ceiling.id
   rest_api_id          = aws_api_gateway_resource.furniture_ceiling.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_ceiling_POST.name
+  }
 }
 
 // furniture_ceiling
@@ -1360,6 +1729,9 @@ resource "aws_api_gateway_method" "furniture_ceiling_id_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.furniture_ceiling_id.id
   rest_api_id          = aws_api_gateway_resource.furniture_ceiling_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_ceiling_id_DELETE.name
+  }
 }
 
 // furniture_ceiling
@@ -1371,6 +1743,9 @@ resource "aws_api_gateway_method" "furniture_ceiling_id_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.furniture_ceiling_id.id
   rest_api_id          = aws_api_gateway_resource.furniture_ceiling_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_ceiling_id_GET.name
+  }
 }
 
 // furniture_ceiling
@@ -1382,6 +1757,9 @@ resource "aws_api_gateway_method" "furniture_ceiling_id_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.furniture_ceiling_id.id
   rest_api_id          = aws_api_gateway_resource.furniture_ceiling_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_ceiling_id_PATCH.name
+  }
 }
 
 // furniture_fencing
@@ -1393,6 +1771,9 @@ resource "aws_api_gateway_method" "furniture_fencing_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.furniture_fencing.id
   rest_api_id          = aws_api_gateway_resource.furniture_fencing.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_fencing_DELETE.name
+  }
 }
 
 // furniture_fencing
@@ -1404,6 +1785,9 @@ resource "aws_api_gateway_method" "furniture_fencing_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.furniture_fencing.id
   rest_api_id          = aws_api_gateway_resource.furniture_fencing.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_fencing_GET.name
+  }
 }
 
 // furniture_fencing
@@ -1415,6 +1799,9 @@ resource "aws_api_gateway_method" "furniture_fencing_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.furniture_fencing.id
   rest_api_id          = aws_api_gateway_resource.furniture_fencing.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_fencing_PATCH.name
+  }
 }
 
 // furniture_fencing
@@ -1426,6 +1813,9 @@ resource "aws_api_gateway_method" "furniture_fencing_POST" {
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.furniture_fencing.id
   rest_api_id          = aws_api_gateway_resource.furniture_fencing.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_fencing_POST.name
+  }
 }
 
 // furniture_fencing
@@ -1437,6 +1827,9 @@ resource "aws_api_gateway_method" "furniture_fencing_id_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.furniture_fencing_id.id
   rest_api_id          = aws_api_gateway_resource.furniture_fencing_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_fencing_id_DELETE.name
+  }
 }
 
 // furniture_fencing
@@ -1448,6 +1841,9 @@ resource "aws_api_gateway_method" "furniture_fencing_id_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.furniture_fencing_id.id
   rest_api_id          = aws_api_gateway_resource.furniture_fencing_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_fencing_id_GET.name
+  }
 }
 
 // furniture_fencing
@@ -1459,6 +1855,9 @@ resource "aws_api_gateway_method" "furniture_fencing_id_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.furniture_fencing_id.id
   rest_api_id          = aws_api_gateway_resource.furniture_fencing_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_fencing_id_PATCH.name
+  }
 }
 
 // furniture_floor
@@ -1470,6 +1869,9 @@ resource "aws_api_gateway_method" "furniture_floor_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.furniture_floor.id
   rest_api_id          = aws_api_gateway_resource.furniture_floor.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_floor_DELETE.name
+  }
 }
 
 // furniture_floor
@@ -1481,6 +1883,9 @@ resource "aws_api_gateway_method" "furniture_floor_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.furniture_floor.id
   rest_api_id          = aws_api_gateway_resource.furniture_floor.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_floor_GET.name
+  }
 }
 
 // furniture_floor
@@ -1492,6 +1897,9 @@ resource "aws_api_gateway_method" "furniture_floor_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.furniture_floor.id
   rest_api_id          = aws_api_gateway_resource.furniture_floor.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_floor_PATCH.name
+  }
 }
 
 // furniture_floor
@@ -1503,6 +1911,9 @@ resource "aws_api_gateway_method" "furniture_floor_POST" {
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.furniture_floor.id
   rest_api_id          = aws_api_gateway_resource.furniture_floor.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_floor_POST.name
+  }
 }
 
 // furniture_floor
@@ -1514,6 +1925,9 @@ resource "aws_api_gateway_method" "furniture_floor_id_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.furniture_floor_id.id
   rest_api_id          = aws_api_gateway_resource.furniture_floor_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_floor_id_DELETE.name
+  }
 }
 
 // furniture_floor
@@ -1525,6 +1939,9 @@ resource "aws_api_gateway_method" "furniture_floor_id_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.furniture_floor_id.id
   rest_api_id          = aws_api_gateway_resource.furniture_floor_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_floor_id_GET.name
+  }
 }
 
 // furniture_floor
@@ -1536,6 +1953,9 @@ resource "aws_api_gateway_method" "furniture_floor_id_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.furniture_floor_id.id
   rest_api_id          = aws_api_gateway_resource.furniture_floor_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_floor_id_PATCH.name
+  }
 }
 
 // furniture_fossil
@@ -1547,6 +1967,9 @@ resource "aws_api_gateway_method" "furniture_fossil_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.furniture_fossil.id
   rest_api_id          = aws_api_gateway_resource.furniture_fossil.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_fossil_DELETE.name
+  }
 }
 
 // furniture_fossil
@@ -1558,6 +1981,9 @@ resource "aws_api_gateway_method" "furniture_fossil_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.furniture_fossil.id
   rest_api_id          = aws_api_gateway_resource.furniture_fossil.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_fossil_GET.name
+  }
 }
 
 // furniture_fossil
@@ -1569,6 +1995,9 @@ resource "aws_api_gateway_method" "furniture_fossil_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.furniture_fossil.id
   rest_api_id          = aws_api_gateway_resource.furniture_fossil.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_fossil_PATCH.name
+  }
 }
 
 // furniture_fossil
@@ -1580,6 +2009,9 @@ resource "aws_api_gateway_method" "furniture_fossil_POST" {
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.furniture_fossil.id
   rest_api_id          = aws_api_gateway_resource.furniture_fossil.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_fossil_POST.name
+  }
 }
 
 // furniture_fossil
@@ -1591,6 +2023,9 @@ resource "aws_api_gateway_method" "furniture_fossil_id_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.furniture_fossil_id.id
   rest_api_id          = aws_api_gateway_resource.furniture_fossil_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_fossil_id_DELETE.name
+  }
 }
 
 // furniture_fossil
@@ -1602,6 +2037,9 @@ resource "aws_api_gateway_method" "furniture_fossil_id_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.furniture_fossil_id.id
   rest_api_id          = aws_api_gateway_resource.furniture_fossil_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_fossil_id_GET.name
+  }
 }
 
 // furniture_fossil
@@ -1613,6 +2051,9 @@ resource "aws_api_gateway_method" "furniture_fossil_id_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.furniture_fossil_id.id
   rest_api_id          = aws_api_gateway_resource.furniture_fossil_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_fossil_id_PATCH.name
+  }
 }
 
 // furniture_gyroid
@@ -1624,6 +2065,9 @@ resource "aws_api_gateway_method" "furniture_gyroid_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.furniture_gyroid.id
   rest_api_id          = aws_api_gateway_resource.furniture_gyroid.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_gyroid_DELETE.name
+  }
 }
 
 // furniture_gyroid
@@ -1635,6 +2079,9 @@ resource "aws_api_gateway_method" "furniture_gyroid_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.furniture_gyroid.id
   rest_api_id          = aws_api_gateway_resource.furniture_gyroid.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_gyroid_GET.name
+  }
 }
 
 // furniture_gyroid
@@ -1646,6 +2093,9 @@ resource "aws_api_gateway_method" "furniture_gyroid_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.furniture_gyroid.id
   rest_api_id          = aws_api_gateway_resource.furniture_gyroid.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_gyroid_PATCH.name
+  }
 }
 
 // furniture_gyroid
@@ -1657,6 +2107,9 @@ resource "aws_api_gateway_method" "furniture_gyroid_POST" {
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.furniture_gyroid.id
   rest_api_id          = aws_api_gateway_resource.furniture_gyroid.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_gyroid_POST.name
+  }
 }
 
 // furniture_gyroid
@@ -1668,6 +2121,9 @@ resource "aws_api_gateway_method" "furniture_gyroid_id_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.furniture_gyroid_id.id
   rest_api_id          = aws_api_gateway_resource.furniture_gyroid_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_gyroid_id_DELETE.name
+  }
 }
 
 // furniture_gyroid
@@ -1679,6 +2135,9 @@ resource "aws_api_gateway_method" "furniture_gyroid_id_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.furniture_gyroid_id.id
   rest_api_id          = aws_api_gateway_resource.furniture_gyroid_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_gyroid_id_GET.name
+  }
 }
 
 // furniture_gyroid
@@ -1690,6 +2149,9 @@ resource "aws_api_gateway_method" "furniture_gyroid_id_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.furniture_gyroid_id.id
   rest_api_id          = aws_api_gateway_resource.furniture_gyroid_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_gyroid_id_PATCH.name
+  }
 }
 
 // furniture_housewear
@@ -1701,6 +2163,9 @@ resource "aws_api_gateway_method" "furniture_housewear_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.furniture_housewear.id
   rest_api_id          = aws_api_gateway_resource.furniture_housewear.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_housewear_DELETE.name
+  }
 }
 
 // furniture_housewear
@@ -1712,6 +2177,9 @@ resource "aws_api_gateway_method" "furniture_housewear_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.furniture_housewear.id
   rest_api_id          = aws_api_gateway_resource.furniture_housewear.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_housewear_GET.name
+  }
 }
 
 // furniture_housewear
@@ -1723,6 +2191,9 @@ resource "aws_api_gateway_method" "furniture_housewear_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.furniture_housewear.id
   rest_api_id          = aws_api_gateway_resource.furniture_housewear.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_housewear_PATCH.name
+  }
 }
 
 // furniture_housewear
@@ -1734,6 +2205,9 @@ resource "aws_api_gateway_method" "furniture_housewear_POST" {
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.furniture_housewear.id
   rest_api_id          = aws_api_gateway_resource.furniture_housewear.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_housewear_POST.name
+  }
 }
 
 // furniture_housewear
@@ -1745,6 +2219,9 @@ resource "aws_api_gateway_method" "furniture_housewear_id_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.furniture_housewear_id.id
   rest_api_id          = aws_api_gateway_resource.furniture_housewear_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_housewear_id_DELETE.name
+  }
 }
 
 // furniture_housewear
@@ -1756,6 +2233,9 @@ resource "aws_api_gateway_method" "furniture_housewear_id_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.furniture_housewear_id.id
   rest_api_id          = aws_api_gateway_resource.furniture_housewear_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_housewear_id_GET.name
+  }
 }
 
 // furniture_housewear
@@ -1767,6 +2247,9 @@ resource "aws_api_gateway_method" "furniture_housewear_id_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.furniture_housewear_id.id
   rest_api_id          = aws_api_gateway_resource.furniture_housewear_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_housewear_id_PATCH.name
+  }
 }
 
 // furniture_interior_structure
@@ -1778,6 +2261,9 @@ resource "aws_api_gateway_method" "furniture_interior_structure_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.furniture_interior_structure.id
   rest_api_id          = aws_api_gateway_resource.furniture_interior_structure.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_interior_structure_DELETE.name
+  }
 }
 
 // furniture_interior_structure
@@ -1789,6 +2275,9 @@ resource "aws_api_gateway_method" "furniture_interior_structure_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.furniture_interior_structure.id
   rest_api_id          = aws_api_gateway_resource.furniture_interior_structure.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_interior_structure_GET.name
+  }
 }
 
 // furniture_interior_structure
@@ -1800,6 +2289,9 @@ resource "aws_api_gateway_method" "furniture_interior_structure_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.furniture_interior_structure.id
   rest_api_id          = aws_api_gateway_resource.furniture_interior_structure.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_interior_structure_PATCH.name
+  }
 }
 
 // furniture_interior_structure
@@ -1811,6 +2303,9 @@ resource "aws_api_gateway_method" "furniture_interior_structure_POST" {
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.furniture_interior_structure.id
   rest_api_id          = aws_api_gateway_resource.furniture_interior_structure.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_interior_structure_POST.name
+  }
 }
 
 // furniture_interior_structure
@@ -1822,6 +2317,9 @@ resource "aws_api_gateway_method" "furniture_interior_structure_id_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.furniture_interior_structure_id.id
   rest_api_id          = aws_api_gateway_resource.furniture_interior_structure_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_interior_structure_id_DELETE.name
+  }
 }
 
 // furniture_interior_structure
@@ -1833,6 +2331,9 @@ resource "aws_api_gateway_method" "furniture_interior_structure_id_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.furniture_interior_structure_id.id
   rest_api_id          = aws_api_gateway_resource.furniture_interior_structure_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_interior_structure_id_GET.name
+  }
 }
 
 // furniture_interior_structure
@@ -1844,6 +2345,9 @@ resource "aws_api_gateway_method" "furniture_interior_structure_id_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.furniture_interior_structure_id.id
   rest_api_id          = aws_api_gateway_resource.furniture_interior_structure_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_interior_structure_id_PATCH.name
+  }
 }
 
 // furniture_miscellaneous
@@ -1855,6 +2359,9 @@ resource "aws_api_gateway_method" "furniture_miscellaneous_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.furniture_miscellaneous.id
   rest_api_id          = aws_api_gateway_resource.furniture_miscellaneous.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_miscellaneous_DELETE.name
+  }
 }
 
 // furniture_miscellaneous
@@ -1866,6 +2373,9 @@ resource "aws_api_gateway_method" "furniture_miscellaneous_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.furniture_miscellaneous.id
   rest_api_id          = aws_api_gateway_resource.furniture_miscellaneous.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_miscellaneous_GET.name
+  }
 }
 
 // furniture_miscellaneous
@@ -1877,6 +2387,9 @@ resource "aws_api_gateway_method" "furniture_miscellaneous_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.furniture_miscellaneous.id
   rest_api_id          = aws_api_gateway_resource.furniture_miscellaneous.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_miscellaneous_PATCH.name
+  }
 }
 
 // furniture_miscellaneous
@@ -1888,6 +2401,9 @@ resource "aws_api_gateway_method" "furniture_miscellaneous_POST" {
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.furniture_miscellaneous.id
   rest_api_id          = aws_api_gateway_resource.furniture_miscellaneous.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_miscellaneous_POST.name
+  }
 }
 
 // furniture_miscellaneous
@@ -1899,6 +2415,9 @@ resource "aws_api_gateway_method" "furniture_miscellaneous_id_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.furniture_miscellaneous_id.id
   rest_api_id          = aws_api_gateway_resource.furniture_miscellaneous_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_miscellaneous_id_DELETE.name
+  }
 }
 
 // furniture_miscellaneous
@@ -1910,6 +2429,9 @@ resource "aws_api_gateway_method" "furniture_miscellaneous_id_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.furniture_miscellaneous_id.id
   rest_api_id          = aws_api_gateway_resource.furniture_miscellaneous_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_miscellaneous_id_GET.name
+  }
 }
 
 // furniture_miscellaneous
@@ -1921,6 +2443,9 @@ resource "aws_api_gateway_method" "furniture_miscellaneous_id_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.furniture_miscellaneous_id.id
   rest_api_id          = aws_api_gateway_resource.furniture_miscellaneous_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_miscellaneous_id_PATCH.name
+  }
 }
 
 // furniture_mounted
@@ -1932,6 +2457,9 @@ resource "aws_api_gateway_method" "furniture_mounted_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.furniture_mounted.id
   rest_api_id          = aws_api_gateway_resource.furniture_mounted.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_mounted_DELETE.name
+  }
 }
 
 // furniture_mounted
@@ -1943,6 +2471,9 @@ resource "aws_api_gateway_method" "furniture_mounted_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.furniture_mounted.id
   rest_api_id          = aws_api_gateway_resource.furniture_mounted.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_mounted_GET.name
+  }
 }
 
 // furniture_mounted
@@ -1954,6 +2485,9 @@ resource "aws_api_gateway_method" "furniture_mounted_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.furniture_mounted.id
   rest_api_id          = aws_api_gateway_resource.furniture_mounted.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_mounted_PATCH.name
+  }
 }
 
 // furniture_mounted
@@ -1965,6 +2499,9 @@ resource "aws_api_gateway_method" "furniture_mounted_POST" {
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.furniture_mounted.id
   rest_api_id          = aws_api_gateway_resource.furniture_mounted.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_mounted_POST.name
+  }
 }
 
 // furniture_mounted
@@ -1976,6 +2513,9 @@ resource "aws_api_gateway_method" "furniture_mounted_id_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.furniture_mounted_id.id
   rest_api_id          = aws_api_gateway_resource.furniture_mounted_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_mounted_id_DELETE.name
+  }
 }
 
 // furniture_mounted
@@ -1987,6 +2527,9 @@ resource "aws_api_gateway_method" "furniture_mounted_id_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.furniture_mounted_id.id
   rest_api_id          = aws_api_gateway_resource.furniture_mounted_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_mounted_id_GET.name
+  }
 }
 
 // furniture_mounted
@@ -1998,6 +2541,9 @@ resource "aws_api_gateway_method" "furniture_mounted_id_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.furniture_mounted_id.id
   rest_api_id          = aws_api_gateway_resource.furniture_mounted_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_mounted_id_PATCH.name
+  }
 }
 
 // furniture_music
@@ -2009,6 +2555,9 @@ resource "aws_api_gateway_method" "furniture_music_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.furniture_music.id
   rest_api_id          = aws_api_gateway_resource.furniture_music.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_music_DELETE.name
+  }
 }
 
 // furniture_music
@@ -2020,6 +2569,9 @@ resource "aws_api_gateway_method" "furniture_music_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.furniture_music.id
   rest_api_id          = aws_api_gateway_resource.furniture_music.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_music_GET.name
+  }
 }
 
 // furniture_music
@@ -2031,6 +2583,9 @@ resource "aws_api_gateway_method" "furniture_music_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.furniture_music.id
   rest_api_id          = aws_api_gateway_resource.furniture_music.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_music_PATCH.name
+  }
 }
 
 // furniture_music
@@ -2042,6 +2597,9 @@ resource "aws_api_gateway_method" "furniture_music_POST" {
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.furniture_music.id
   rest_api_id          = aws_api_gateway_resource.furniture_music.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_music_POST.name
+  }
 }
 
 // furniture_music
@@ -2053,6 +2611,9 @@ resource "aws_api_gateway_method" "furniture_music_id_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.furniture_music_id.id
   rest_api_id          = aws_api_gateway_resource.furniture_music_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_music_id_DELETE.name
+  }
 }
 
 // furniture_music
@@ -2064,6 +2625,9 @@ resource "aws_api_gateway_method" "furniture_music_id_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.furniture_music_id.id
   rest_api_id          = aws_api_gateway_resource.furniture_music_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_music_id_GET.name
+  }
 }
 
 // furniture_music
@@ -2075,6 +2639,9 @@ resource "aws_api_gateway_method" "furniture_music_id_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.furniture_music_id.id
   rest_api_id          = aws_api_gateway_resource.furniture_music_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_music_id_PATCH.name
+  }
 }
 
 // furniture_photo
@@ -2086,6 +2653,9 @@ resource "aws_api_gateway_method" "furniture_photo_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.furniture_photo.id
   rest_api_id          = aws_api_gateway_resource.furniture_photo.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_photo_DELETE.name
+  }
 }
 
 // furniture_photo
@@ -2097,6 +2667,9 @@ resource "aws_api_gateway_method" "furniture_photo_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.furniture_photo.id
   rest_api_id          = aws_api_gateway_resource.furniture_photo.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_photo_GET.name
+  }
 }
 
 // furniture_photo
@@ -2108,6 +2681,9 @@ resource "aws_api_gateway_method" "furniture_photo_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.furniture_photo.id
   rest_api_id          = aws_api_gateway_resource.furniture_photo.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_photo_PATCH.name
+  }
 }
 
 // furniture_photo
@@ -2119,6 +2695,9 @@ resource "aws_api_gateway_method" "furniture_photo_POST" {
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.furniture_photo.id
   rest_api_id          = aws_api_gateway_resource.furniture_photo.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_photo_POST.name
+  }
 }
 
 // furniture_photo
@@ -2130,6 +2709,9 @@ resource "aws_api_gateway_method" "furniture_photo_id_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.furniture_photo_id.id
   rest_api_id          = aws_api_gateway_resource.furniture_photo_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_photo_id_DELETE.name
+  }
 }
 
 // furniture_photo
@@ -2141,6 +2723,9 @@ resource "aws_api_gateway_method" "furniture_photo_id_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.furniture_photo_id.id
   rest_api_id          = aws_api_gateway_resource.furniture_photo_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_photo_id_GET.name
+  }
 }
 
 // furniture_photo
@@ -2152,6 +2737,9 @@ resource "aws_api_gateway_method" "furniture_photo_id_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.furniture_photo_id.id
   rest_api_id          = aws_api_gateway_resource.furniture_photo_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_photo_id_PATCH.name
+  }
 }
 
 // furniture_poster
@@ -2163,6 +2751,9 @@ resource "aws_api_gateway_method" "furniture_poster_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.furniture_poster.id
   rest_api_id          = aws_api_gateway_resource.furniture_poster.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_poster_DELETE.name
+  }
 }
 
 // furniture_poster
@@ -2174,6 +2765,9 @@ resource "aws_api_gateway_method" "furniture_poster_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.furniture_poster.id
   rest_api_id          = aws_api_gateway_resource.furniture_poster.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_poster_GET.name
+  }
 }
 
 // furniture_poster
@@ -2185,6 +2779,9 @@ resource "aws_api_gateway_method" "furniture_poster_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.furniture_poster.id
   rest_api_id          = aws_api_gateway_resource.furniture_poster.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_poster_PATCH.name
+  }
 }
 
 // furniture_poster
@@ -2196,6 +2793,9 @@ resource "aws_api_gateway_method" "furniture_poster_POST" {
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.furniture_poster.id
   rest_api_id          = aws_api_gateway_resource.furniture_poster.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_poster_POST.name
+  }
 }
 
 // furniture_poster
@@ -2207,6 +2807,9 @@ resource "aws_api_gateway_method" "furniture_poster_id_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.furniture_poster_id.id
   rest_api_id          = aws_api_gateway_resource.furniture_poster_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_poster_id_DELETE.name
+  }
 }
 
 // furniture_poster
@@ -2218,6 +2821,9 @@ resource "aws_api_gateway_method" "furniture_poster_id_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.furniture_poster_id.id
   rest_api_id          = aws_api_gateway_resource.furniture_poster_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_poster_id_GET.name
+  }
 }
 
 // furniture_poster
@@ -2229,6 +2835,9 @@ resource "aws_api_gateway_method" "furniture_poster_id_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.furniture_poster_id.id
   rest_api_id          = aws_api_gateway_resource.furniture_poster_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_poster_id_PATCH.name
+  }
 }
 
 // furniture_rug
@@ -2240,6 +2849,9 @@ resource "aws_api_gateway_method" "furniture_rug_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.furniture_rug.id
   rest_api_id          = aws_api_gateway_resource.furniture_rug.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_rug_DELETE.name
+  }
 }
 
 // furniture_rug
@@ -2251,6 +2863,9 @@ resource "aws_api_gateway_method" "furniture_rug_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.furniture_rug.id
   rest_api_id          = aws_api_gateway_resource.furniture_rug.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_rug_GET.name
+  }
 }
 
 // furniture_rug
@@ -2262,6 +2877,9 @@ resource "aws_api_gateway_method" "furniture_rug_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.furniture_rug.id
   rest_api_id          = aws_api_gateway_resource.furniture_rug.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_rug_PATCH.name
+  }
 }
 
 // furniture_rug
@@ -2273,6 +2891,9 @@ resource "aws_api_gateway_method" "furniture_rug_POST" {
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.furniture_rug.id
   rest_api_id          = aws_api_gateway_resource.furniture_rug.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_rug_POST.name
+  }
 }
 
 // furniture_rug
@@ -2284,6 +2905,9 @@ resource "aws_api_gateway_method" "furniture_rug_id_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.furniture_rug_id.id
   rest_api_id          = aws_api_gateway_resource.furniture_rug_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_rug_id_DELETE.name
+  }
 }
 
 // furniture_rug
@@ -2295,6 +2919,9 @@ resource "aws_api_gateway_method" "furniture_rug_id_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.furniture_rug_id.id
   rest_api_id          = aws_api_gateway_resource.furniture_rug_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_rug_id_GET.name
+  }
 }
 
 // furniture_rug
@@ -2306,6 +2933,9 @@ resource "aws_api_gateway_method" "furniture_rug_id_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.furniture_rug_id.id
   rest_api_id          = aws_api_gateway_resource.furniture_rug_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_rug_id_PATCH.name
+  }
 }
 
 // furniture_wall_mounted
@@ -2317,6 +2947,9 @@ resource "aws_api_gateway_method" "furniture_wall_mounted_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.furniture_wall_mounted.id
   rest_api_id          = aws_api_gateway_resource.furniture_wall_mounted.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_wall_mounted_DELETE.name
+  }
 }
 
 // furniture_wall_mounted
@@ -2328,6 +2961,9 @@ resource "aws_api_gateway_method" "furniture_wall_mounted_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.furniture_wall_mounted.id
   rest_api_id          = aws_api_gateway_resource.furniture_wall_mounted.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_wall_mounted_GET.name
+  }
 }
 
 // furniture_wall_mounted
@@ -2339,6 +2975,9 @@ resource "aws_api_gateway_method" "furniture_wall_mounted_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.furniture_wall_mounted.id
   rest_api_id          = aws_api_gateway_resource.furniture_wall_mounted.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_wall_mounted_PATCH.name
+  }
 }
 
 // furniture_wall_mounted
@@ -2350,6 +2989,9 @@ resource "aws_api_gateway_method" "furniture_wall_mounted_POST" {
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.furniture_wall_mounted.id
   rest_api_id          = aws_api_gateway_resource.furniture_wall_mounted.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_wall_mounted_POST.name
+  }
 }
 
 // furniture_wall_mounted
@@ -2361,6 +3003,9 @@ resource "aws_api_gateway_method" "furniture_wall_mounted_id_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.furniture_wall_mounted_id.id
   rest_api_id          = aws_api_gateway_resource.furniture_wall_mounted_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_wall_mounted_id_DELETE.name
+  }
 }
 
 // furniture_wall_mounted
@@ -2372,6 +3017,9 @@ resource "aws_api_gateway_method" "furniture_wall_mounted_id_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.furniture_wall_mounted_id.id
   rest_api_id          = aws_api_gateway_resource.furniture_wall_mounted_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_wall_mounted_id_GET.name
+  }
 }
 
 // furniture_wall_mounted
@@ -2383,6 +3031,9 @@ resource "aws_api_gateway_method" "furniture_wall_mounted_id_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.furniture_wall_mounted_id.id
   rest_api_id          = aws_api_gateway_resource.furniture_wall_mounted_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_wall_mounted_id_PATCH.name
+  }
 }
 
 // furniture_wallpaper
@@ -2394,6 +3045,9 @@ resource "aws_api_gateway_method" "furniture_wallpaper_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.furniture_wallpaper.id
   rest_api_id          = aws_api_gateway_resource.furniture_wallpaper.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_wallpaper_DELETE.name
+  }
 }
 
 // furniture_wallpaper
@@ -2405,6 +3059,9 @@ resource "aws_api_gateway_method" "furniture_wallpaper_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.furniture_wallpaper.id
   rest_api_id          = aws_api_gateway_resource.furniture_wallpaper.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_wallpaper_GET.name
+  }
 }
 
 // furniture_wallpaper
@@ -2416,6 +3073,9 @@ resource "aws_api_gateway_method" "furniture_wallpaper_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.furniture_wallpaper.id
   rest_api_id          = aws_api_gateway_resource.furniture_wallpaper.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_wallpaper_PATCH.name
+  }
 }
 
 // furniture_wallpaper
@@ -2427,6 +3087,9 @@ resource "aws_api_gateway_method" "furniture_wallpaper_POST" {
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.furniture_wallpaper.id
   rest_api_id          = aws_api_gateway_resource.furniture_wallpaper.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_wallpaper_POST.name
+  }
 }
 
 // furniture_wallpaper
@@ -2438,6 +3101,9 @@ resource "aws_api_gateway_method" "furniture_wallpaper_id_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.furniture_wallpaper_id.id
   rest_api_id          = aws_api_gateway_resource.furniture_wallpaper_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_wallpaper_id_DELETE.name
+  }
 }
 
 // furniture_wallpaper
@@ -2449,6 +3115,9 @@ resource "aws_api_gateway_method" "furniture_wallpaper_id_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.furniture_wallpaper_id.id
   rest_api_id          = aws_api_gateway_resource.furniture_wallpaper_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_wallpaper_id_GET.name
+  }
 }
 
 // furniture_wallpaper
@@ -2460,6 +3129,9 @@ resource "aws_api_gateway_method" "furniture_wallpaper_id_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.furniture_wallpaper_id.id
   rest_api_id          = aws_api_gateway_resource.furniture_wallpaper_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.furniture_wallpaper_id_PATCH.name
+  }
 }
 
 // item
@@ -2471,6 +3143,9 @@ resource "aws_api_gateway_method" "item_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.item.id
   rest_api_id          = aws_api_gateway_resource.item.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.item_DELETE.name
+  }
 }
 
 // item
@@ -2482,6 +3157,9 @@ resource "aws_api_gateway_method" "item_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.item.id
   rest_api_id          = aws_api_gateway_resource.item.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.item_GET.name
+  }
 }
 
 // item
@@ -2493,6 +3171,9 @@ resource "aws_api_gateway_method" "item_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.item.id
   rest_api_id          = aws_api_gateway_resource.item.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.item_PATCH.name
+  }
 }
 
 // item
@@ -2504,6 +3185,9 @@ resource "aws_api_gateway_method" "item_POST" {
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.item.id
   rest_api_id          = aws_api_gateway_resource.item.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.item_POST.name
+  }
 }
 
 // item
@@ -2515,6 +3199,9 @@ resource "aws_api_gateway_method" "item_id_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.item_id.id
   rest_api_id          = aws_api_gateway_resource.item_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.item_id_DELETE.name
+  }
 }
 
 // item
@@ -2526,6 +3213,9 @@ resource "aws_api_gateway_method" "item_id_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.item_id.id
   rest_api_id          = aws_api_gateway_resource.item_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.item_id_GET.name
+  }
 }
 
 // item
@@ -2537,6 +3227,9 @@ resource "aws_api_gateway_method" "item_id_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.item_id.id
   rest_api_id          = aws_api_gateway_resource.item_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.item_id_PATCH.name
+  }
 }
 
 // item_other
@@ -2548,6 +3241,9 @@ resource "aws_api_gateway_method" "item_other_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.item_other.id
   rest_api_id          = aws_api_gateway_resource.item_other.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.item_other_DELETE.name
+  }
 }
 
 // item_other
@@ -2559,6 +3255,9 @@ resource "aws_api_gateway_method" "item_other_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.item_other.id
   rest_api_id          = aws_api_gateway_resource.item_other.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.item_other_GET.name
+  }
 }
 
 // item_other
@@ -2570,6 +3269,9 @@ resource "aws_api_gateway_method" "item_other_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.item_other.id
   rest_api_id          = aws_api_gateway_resource.item_other.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.item_other_PATCH.name
+  }
 }
 
 // item_other
@@ -2581,6 +3283,9 @@ resource "aws_api_gateway_method" "item_other_POST" {
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.item_other.id
   rest_api_id          = aws_api_gateway_resource.item_other.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.item_other_POST.name
+  }
 }
 
 // item_other
@@ -2592,6 +3297,9 @@ resource "aws_api_gateway_method" "item_other_id_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.item_other_id.id
   rest_api_id          = aws_api_gateway_resource.item_other_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.item_other_id_DELETE.name
+  }
 }
 
 // item_other
@@ -2603,6 +3311,9 @@ resource "aws_api_gateway_method" "item_other_id_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.item_other_id.id
   rest_api_id          = aws_api_gateway_resource.item_other_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.item_other_id_GET.name
+  }
 }
 
 // item_other
@@ -2614,6 +3325,9 @@ resource "aws_api_gateway_method" "item_other_id_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.item_other_id.id
   rest_api_id          = aws_api_gateway_resource.item_other_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.item_other_id_PATCH.name
+  }
 }
 
 // occasion
@@ -2625,6 +3339,9 @@ resource "aws_api_gateway_method" "occasion_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.occasion.id
   rest_api_id          = aws_api_gateway_resource.occasion.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.occasion_DELETE.name
+  }
 }
 
 // occasion
@@ -2636,6 +3353,9 @@ resource "aws_api_gateway_method" "occasion_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.occasion.id
   rest_api_id          = aws_api_gateway_resource.occasion.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.occasion_GET.name
+  }
 }
 
 // occasion
@@ -2647,6 +3367,9 @@ resource "aws_api_gateway_method" "occasion_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.occasion.id
   rest_api_id          = aws_api_gateway_resource.occasion.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.occasion_PATCH.name
+  }
 }
 
 // occasion
@@ -2658,6 +3381,9 @@ resource "aws_api_gateway_method" "occasion_POST" {
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.occasion.id
   rest_api_id          = aws_api_gateway_resource.occasion.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.occasion_POST.name
+  }
 }
 
 // occasion
@@ -2669,6 +3395,9 @@ resource "aws_api_gateway_method" "occasion_id_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.occasion_id.id
   rest_api_id          = aws_api_gateway_resource.occasion_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.occasion_id_DELETE.name
+  }
 }
 
 // occasion
@@ -2680,6 +3409,9 @@ resource "aws_api_gateway_method" "occasion_id_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.occasion_id.id
   rest_api_id          = aws_api_gateway_resource.occasion_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.occasion_id_GET.name
+  }
 }
 
 // occasion
@@ -2691,6 +3423,9 @@ resource "aws_api_gateway_method" "occasion_id_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.occasion_id.id
   rest_api_id          = aws_api_gateway_resource.occasion_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.occasion_id_PATCH.name
+  }
 }
 
 // paradise_planning
@@ -2702,6 +3437,9 @@ resource "aws_api_gateway_method" "paradise_planning_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.paradise_planning.id
   rest_api_id          = aws_api_gateway_resource.paradise_planning.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.paradise_planning_DELETE.name
+  }
 }
 
 // paradise_planning
@@ -2713,6 +3451,9 @@ resource "aws_api_gateway_method" "paradise_planning_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.paradise_planning.id
   rest_api_id          = aws_api_gateway_resource.paradise_planning.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.paradise_planning_GET.name
+  }
 }
 
 // paradise_planning
@@ -2724,6 +3465,9 @@ resource "aws_api_gateway_method" "paradise_planning_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.paradise_planning.id
   rest_api_id          = aws_api_gateway_resource.paradise_planning.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.paradise_planning_PATCH.name
+  }
 }
 
 // paradise_planning
@@ -2735,6 +3479,9 @@ resource "aws_api_gateway_method" "paradise_planning_POST" {
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.paradise_planning.id
   rest_api_id          = aws_api_gateway_resource.paradise_planning.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.paradise_planning_POST.name
+  }
 }
 
 // paradise_planning
@@ -2746,6 +3493,9 @@ resource "aws_api_gateway_method" "paradise_planning_id_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.paradise_planning_id.id
   rest_api_id          = aws_api_gateway_resource.paradise_planning_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.paradise_planning_id_DELETE.name
+  }
 }
 
 // paradise_planning
@@ -2757,6 +3507,9 @@ resource "aws_api_gateway_method" "paradise_planning_id_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.paradise_planning_id.id
   rest_api_id          = aws_api_gateway_resource.paradise_planning_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.paradise_planning_id_GET.name
+  }
 }
 
 // paradise_planning
@@ -2768,6 +3521,9 @@ resource "aws_api_gateway_method" "paradise_planning_id_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.paradise_planning_id.id
   rest_api_id          = aws_api_gateway_resource.paradise_planning_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.paradise_planning_id_PATCH.name
+  }
 }
 
 // reaction
@@ -2779,6 +3535,9 @@ resource "aws_api_gateway_method" "reaction_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.reaction.id
   rest_api_id          = aws_api_gateway_resource.reaction.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.reaction_DELETE.name
+  }
 }
 
 // reaction
@@ -2790,6 +3549,9 @@ resource "aws_api_gateway_method" "reaction_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.reaction.id
   rest_api_id          = aws_api_gateway_resource.reaction.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.reaction_GET.name
+  }
 }
 
 // reaction
@@ -2801,6 +3563,9 @@ resource "aws_api_gateway_method" "reaction_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.reaction.id
   rest_api_id          = aws_api_gateway_resource.reaction.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.reaction_PATCH.name
+  }
 }
 
 // reaction
@@ -2812,6 +3577,9 @@ resource "aws_api_gateway_method" "reaction_POST" {
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.reaction.id
   rest_api_id          = aws_api_gateway_resource.reaction.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.reaction_POST.name
+  }
 }
 
 // reaction
@@ -2823,6 +3591,9 @@ resource "aws_api_gateway_method" "reaction_id_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.reaction_id.id
   rest_api_id          = aws_api_gateway_resource.reaction_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.reaction_id_DELETE.name
+  }
 }
 
 // reaction
@@ -2834,6 +3605,9 @@ resource "aws_api_gateway_method" "reaction_id_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.reaction_id.id
   rest_api_id          = aws_api_gateway_resource.reaction_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.reaction_id_GET.name
+  }
 }
 
 // reaction
@@ -2845,6 +3619,9 @@ resource "aws_api_gateway_method" "reaction_id_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.reaction_id.id
   rest_api_id          = aws_api_gateway_resource.reaction_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.reaction_id_PATCH.name
+  }
 }
 
 // recipe
@@ -2856,6 +3633,9 @@ resource "aws_api_gateway_method" "recipe_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.recipe.id
   rest_api_id          = aws_api_gateway_resource.recipe.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.recipe_DELETE.name
+  }
 }
 
 // recipe
@@ -2867,6 +3647,9 @@ resource "aws_api_gateway_method" "recipe_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.recipe.id
   rest_api_id          = aws_api_gateway_resource.recipe.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.recipe_GET.name
+  }
 }
 
 // recipe
@@ -2878,6 +3661,9 @@ resource "aws_api_gateway_method" "recipe_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.recipe.id
   rest_api_id          = aws_api_gateway_resource.recipe.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.recipe_PATCH.name
+  }
 }
 
 // recipe
@@ -2889,6 +3675,9 @@ resource "aws_api_gateway_method" "recipe_POST" {
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.recipe.id
   rest_api_id          = aws_api_gateway_resource.recipe.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.recipe_POST.name
+  }
 }
 
 // recipe
@@ -2900,6 +3689,9 @@ resource "aws_api_gateway_method" "recipe_id_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.recipe_id.id
   rest_api_id          = aws_api_gateway_resource.recipe_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.recipe_id_DELETE.name
+  }
 }
 
 // recipe
@@ -2911,6 +3703,9 @@ resource "aws_api_gateway_method" "recipe_id_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.recipe_id.id
   rest_api_id          = aws_api_gateway_resource.recipe_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.recipe_id_GET.name
+  }
 }
 
 // recipe
@@ -2922,6 +3717,9 @@ resource "aws_api_gateway_method" "recipe_id_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.recipe_id.id
   rest_api_id          = aws_api_gateway_resource.recipe_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.recipe_id_PATCH.name
+  }
 }
 
 // villager
@@ -2933,6 +3731,9 @@ resource "aws_api_gateway_method" "villager_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.villager.id
   rest_api_id          = aws_api_gateway_resource.villager.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.villager_DELETE.name
+  }
 }
 
 // villager
@@ -2944,6 +3745,9 @@ resource "aws_api_gateway_method" "villager_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.villager.id
   rest_api_id          = aws_api_gateway_resource.villager.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.villager_GET.name
+  }
 }
 
 // villager
@@ -2955,6 +3759,9 @@ resource "aws_api_gateway_method" "villager_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.villager.id
   rest_api_id          = aws_api_gateway_resource.villager.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.villager_PATCH.name
+  }
 }
 
 // villager
@@ -2966,6 +3773,9 @@ resource "aws_api_gateway_method" "villager_POST" {
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.villager.id
   rest_api_id          = aws_api_gateway_resource.villager.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.villager_POST.name
+  }
 }
 
 // villager
@@ -2977,6 +3787,9 @@ resource "aws_api_gateway_method" "villager_id_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.villager_id.id
   rest_api_id          = aws_api_gateway_resource.villager_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.villager_id_DELETE.name
+  }
 }
 
 // villager
@@ -2988,6 +3801,9 @@ resource "aws_api_gateway_method" "villager_id_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.villager_id.id
   rest_api_id          = aws_api_gateway_resource.villager_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.villager_id_GET.name
+  }
 }
 
 // villager
@@ -2999,6 +3815,9 @@ resource "aws_api_gateway_method" "villager_id_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.villager_id.id
   rest_api_id          = aws_api_gateway_resource.villager_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.villager_id_PATCH.name
+  }
 }
 
 // villager_special
@@ -3010,6 +3829,9 @@ resource "aws_api_gateway_method" "villager_special_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.villager_special.id
   rest_api_id          = aws_api_gateway_resource.villager_special.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.villager_special_DELETE.name
+  }
 }
 
 // villager_special
@@ -3021,6 +3843,9 @@ resource "aws_api_gateway_method" "villager_special_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.villager_special.id
   rest_api_id          = aws_api_gateway_resource.villager_special.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.villager_special_GET.name
+  }
 }
 
 // villager_special
@@ -3032,6 +3857,9 @@ resource "aws_api_gateway_method" "villager_special_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.villager_special.id
   rest_api_id          = aws_api_gateway_resource.villager_special.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.villager_special_PATCH.name
+  }
 }
 
 // villager_special
@@ -3043,6 +3871,9 @@ resource "aws_api_gateway_method" "villager_special_POST" {
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.villager_special.id
   rest_api_id          = aws_api_gateway_resource.villager_special.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.villager_special_POST.name
+  }
 }
 
 // villager_special
@@ -3054,6 +3885,9 @@ resource "aws_api_gateway_method" "villager_special_id_DELETE" {
   http_method          = "DELETE"
   resource_id          = aws_api_gateway_resource.villager_special_id.id
   rest_api_id          = aws_api_gateway_resource.villager_special_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.villager_special_id_DELETE.name
+  }
 }
 
 // villager_special
@@ -3065,6 +3899,9 @@ resource "aws_api_gateway_method" "villager_special_id_GET" {
   http_method          = "GET"
   resource_id          = aws_api_gateway_resource.villager_special_id.id
   rest_api_id          = aws_api_gateway_resource.villager_special_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.villager_special_id_GET.name
+  }
 }
 
 // villager_special
@@ -3076,4 +3913,7 @@ resource "aws_api_gateway_method" "villager_special_id_PATCH" {
   http_method          = "PATCH"
   resource_id          = aws_api_gateway_resource.villager_special_id.id
   rest_api_id          = aws_api_gateway_resource.villager_special_id.rest_api_id
+  request_models = {
+    "application/json" = aws_api_gateway_model.villager_special_id_PATCH.name
+  }
 }
