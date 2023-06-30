@@ -1,0 +1,209 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "properties": {
+        "buy_price": {
+            "maxLength": 7000,
+            "minLength": 200,
+            "type": [
+                "null",
+                "number"
+            ]
+        },
+        "ceiling_name": {
+            "maxLength": 5,
+            "minLength": 4,
+            "type": [
+                "string"
+            ]
+        },
+        "color_1": {
+            "maxLength": 8,
+            "minLength": 3,
+            "type": [
+                "string"
+            ]
+        },
+        "color_2": {
+            "maxLength": 8,
+            "minLength": 3,
+            "type": [
+                "string"
+            ]
+        },
+        "curtain_color": {
+            "maxLength": 15,
+            "minLength": 4,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "curtain_name": {
+            "maxLength": 14,
+            "minLength": 8,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "exchange_currency": {
+            "maxLength": 14,
+            "minLength": 4,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "exchange_price": {
+            "maxLength": 2700,
+            "minLength": 12,
+            "type": [
+                "null",
+                "number"
+            ]
+        },
+        "filename": {
+            "maxLength": 27,
+            "minLength": 14,
+            "type": [
+                "string"
+            ]
+        },
+        "hha_concept_1": {
+            "maxLength": 13,
+            "minLength": 3,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "hha_concept_2": {
+            "maxLength": 17,
+            "minLength": 3,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "hha_points": {
+            "maxLength": 573,
+            "minLength": 103,
+            "type": [
+                "number"
+            ]
+        },
+        "hha_series": {
+            "maxLength": 23,
+            "minLength": 4,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "image": {
+            "type": [
+                "null"
+            ]
+        },
+        "internal_id": {
+            "maxLength": 14896,
+            "minLength": 4795,
+            "type": [
+                "number"
+            ]
+        },
+        "is_animated": {
+            "type": [
+                "boolean"
+            ]
+        },
+        "is_crafted": {
+            "type": [
+                "boolean"
+            ]
+        },
+        "is_unlocked": {
+            "type": [
+                "boolean"
+            ]
+        },
+        "name": {
+            "maxLength": 27,
+            "minLength": 8,
+            "type": [
+                "string"
+            ]
+        },
+        "pane_name": {
+            "maxLength": 6,
+            "minLength": 5,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "sell_price": {
+            "maxLength": 44000,
+            "minLength": 50,
+            "type": [
+                "number"
+            ]
+        },
+        "unique_entry_id": {
+            "maxLength": 17,
+            "minLength": 17,
+            "type": [
+                "string"
+            ]
+        },
+        "version_added": {
+            "maxLength": 5,
+            "minLength": 5,
+            "type": [
+                "string"
+            ]
+        },
+        "vfx_name": {
+            "maxLength": 8,
+            "minLength": 6,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "window_color": {
+            "maxLength": 12,
+            "minLength": 4,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "window_name": {
+            "maxLength": 12,
+            "minLength": 4,
+            "type": [
+                "null",
+                "string"
+            ]
+        }
+    },
+    "required": [
+        "ceiling_name",
+        "color_1",
+        "color_2",
+        "filename",
+        "hha_points",
+        "image",
+        "internal_id",
+        "is_animated",
+        "is_crafted",
+        "is_unlocked",
+        "name",
+        "sell_price",
+        "unique_entry_id",
+        "version_added"
+    ],
+    "title": "FurnitureWallpaper",
+    "type": "object"
+}

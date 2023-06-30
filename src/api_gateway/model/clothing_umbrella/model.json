@@ -1,0 +1,137 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "properties": {
+        "buy_price": {
+            "maxLength": 1670,
+            "minLength": 650,
+            "type": [
+                "null",
+                "number"
+            ]
+        },
+        "color_1": {
+            "maxLength": 8,
+            "minLength": 3,
+            "type": [
+                "string"
+            ]
+        },
+        "color_2": {
+            "maxLength": 8,
+            "minLength": 3,
+            "type": [
+                "string"
+            ]
+        },
+        "exchange_currency": {
+            "maxLength": 10,
+            "minLength": 4,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "exchange_price": {
+            "maxLength": 1800,
+            "minLength": 700,
+            "type": [
+                "null",
+                "number"
+            ]
+        },
+        "filename": {
+            "maxLength": 22,
+            "minLength": 12,
+            "type": [
+                "string"
+            ]
+        },
+        "gender": {
+            "maxLength": 4,
+            "minLength": 4,
+            "type": [
+                "string"
+            ]
+        },
+        "hha_points": {
+            "maxLength": 501,
+            "minLength": 3,
+            "type": [
+                "number"
+            ]
+        },
+        "image_storage": {
+            "type": [
+                "null"
+            ]
+        },
+        "internal_id": {
+            "maxLength": 14464,
+            "minLength": 5861,
+            "type": [
+                "number"
+            ]
+        },
+        "is_crafted": {
+            "type": [
+                "boolean"
+            ]
+        },
+        "is_equipment": {
+            "type": [
+                "boolean"
+            ]
+        },
+        "is_unlocked": {
+            "type": [
+                "boolean"
+            ]
+        },
+        "name": {
+            "maxLength": 26,
+            "minLength": 12,
+            "type": [
+                "string"
+            ]
+        },
+        "sell_price": {
+            "maxLength": 3500,
+            "minLength": 80,
+            "type": [
+                "number"
+            ]
+        },
+        "unique_entry_id": {
+            "maxLength": 17,
+            "minLength": 17,
+            "type": [
+                "string"
+            ]
+        },
+        "version_added": {
+            "maxLength": 5,
+            "minLength": 5,
+            "type": [
+                "string"
+            ]
+        }
+    },
+    "required": [
+        "color_1",
+        "color_2",
+        "filename",
+        "gender",
+        "hha_points",
+        "image_storage",
+        "internal_id",
+        "is_crafted",
+        "is_equipment",
+        "is_unlocked",
+        "name",
+        "sell_price",
+        "unique_entry_id",
+        "version_added"
+    ],
+    "title": "ClothingUmbrella",
+    "type": "object"
+}

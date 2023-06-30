@@ -1,0 +1,57 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "properties": {
+        "filename": {
+            "maxLength": 5,
+            "minLength": 5,
+            "type": [
+                "string"
+            ]
+        },
+        "name": {
+            "maxLength": 10,
+            "minLength": 2,
+            "type": [
+                "string"
+            ]
+        },
+        "song_name": {
+            "maxLength": 16,
+            "minLength": 7,
+            "type": [
+                "string"
+            ]
+        },
+        "title": {
+            "maxLength": 31,
+            "minLength": 8,
+            "type": [
+                "string"
+            ]
+        },
+        "unique_entry_id": {
+            "maxLength": 17,
+            "minLength": 17,
+            "type": [
+                "string"
+            ]
+        },
+        "villager_thought": {
+            "maxLength": 66,
+            "minLength": 40,
+            "type": [
+                "string"
+            ]
+        }
+    },
+    "required": [
+        "filename",
+        "name",
+        "song_name",
+        "title",
+        "unique_entry_id",
+        "villager_thought"
+    ],
+    "title": "ParadisePlanning",
+    "type": "object"
+}

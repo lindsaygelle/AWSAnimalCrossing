@@ -1,0 +1,101 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "properties": {
+        "buy_price": {
+            "maxLength": 1000,
+            "minLength": 1000,
+            "type": [
+                "number"
+            ]
+        },
+        "color_1": {
+            "maxLength": 8,
+            "minLength": 3,
+            "type": [
+                "string"
+            ]
+        },
+        "color_2": {
+            "maxLength": 8,
+            "minLength": 3,
+            "type": [
+                "string"
+            ]
+        },
+        "filename": {
+            "maxLength": 19,
+            "minLength": 14,
+            "type": [
+                "string"
+            ]
+        },
+        "hha_points": {
+            "maxLength": 251,
+            "minLength": 251,
+            "type": [
+                "number"
+            ]
+        },
+        "image": {
+            "type": [
+                "null"
+            ]
+        },
+        "internal_id": {
+            "maxLength": 14869,
+            "minLength": 10312,
+            "type": [
+                "number"
+            ]
+        },
+        "is_unlocked": {
+            "type": [
+                "boolean"
+            ]
+        },
+        "name": {
+            "maxLength": 22,
+            "minLength": 11,
+            "type": [
+                "string"
+            ]
+        },
+        "sell_price": {
+            "maxLength": 250,
+            "minLength": 250,
+            "type": [
+                "number"
+            ]
+        },
+        "unique_entry_id": {
+            "maxLength": 17,
+            "minLength": 17,
+            "type": [
+                "string"
+            ]
+        },
+        "version_added": {
+            "maxLength": 5,
+            "minLength": 5,
+            "type": [
+                "string"
+            ]
+        }
+    },
+    "required": [
+        "buy_price",
+        "color_1",
+        "color_2",
+        "filename",
+        "hha_points",
+        "image",
+        "internal_id",
+        "is_unlocked",
+        "name",
+        "sell_price",
+        "unique_entry_id",
+        "version_added"
+    ],
+    "title": "FurniturePoster",
+    "type": "object"
+}

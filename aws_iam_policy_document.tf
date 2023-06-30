@@ -22,6 +22,21 @@ data "aws_iam_policy_document" "lambda_assume_role" {
   }
 }
 
+data "aws_iam_policy_document" "lambda_policy_s3_get_object" {
+  statement {
+    actions = [
+      "s3:Get*",
+      "s3:ListBucket",
+    ]
+    effect = "Allow"
+    resources = [
+      "${aws_s3_bucket.s3.arn}",
+      "${aws_s3_bucket.s3.arn}/*"
+    ]
+    sid = "AnimalCrossingLambdaS3GetObject"
+  }
+}
+
 data "aws_iam_policy_document" "lambda_policy_s3_put_object" {
   statement {
     actions = [

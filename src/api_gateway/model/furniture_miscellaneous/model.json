@@ -1,0 +1,267 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "properties": {
+        "body_title": {
+            "maxLength": 19,
+            "minLength": 3,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "buy_price": {
+            "maxLength": 140000,
+            "minLength": 120,
+            "type": [
+                "null",
+                "number"
+            ]
+        },
+        "can_customize_body": {
+            "type": [
+                "boolean"
+            ]
+        },
+        "color_1": {
+            "maxLength": 8,
+            "minLength": 3,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "color_2": {
+            "maxLength": 8,
+            "minLength": 3,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "cyrus_customize_price": {
+            "maxLength": 24000,
+            "minLength": 1000,
+            "type": [
+                "null",
+                "number"
+            ]
+        },
+        "exchange_currency": {
+            "maxLength": 14,
+            "minLength": 4,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "exchange_price": {
+            "maxLength": 126000,
+            "minLength": 4,
+            "type": [
+                "null",
+                "number"
+            ]
+        },
+        "filename": {
+            "maxLength": 37,
+            "minLength": 7,
+            "type": [
+                "string"
+            ]
+        },
+        "food_power": {
+            "maxLength": 5,
+            "minLength": 1,
+            "type": [
+                "null",
+                "number"
+            ]
+        },
+        "hha_category": {
+            "maxLength": 17,
+            "minLength": 2,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "hha_collection": {
+            "maxLength": 8,
+            "minLength": 3,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "hha_concept_1": {
+            "maxLength": 17,
+            "minLength": 3,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "hha_concept_2": {
+            "maxLength": 17,
+            "minLength": 3,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "hha_points": {
+            "maxLength": 777,
+            "minLength": 0,
+            "type": [
+                "number"
+            ]
+        },
+        "hha_series": {
+            "maxLength": 23,
+            "minLength": 4,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "image": {
+            "type": [
+                "null"
+            ]
+        },
+        "internal_id": {
+            "maxLength": 14821,
+            "minLength": 88,
+            "type": [
+                "number"
+            ]
+        },
+        "is_crafted": {
+            "type": [
+                "boolean"
+            ]
+        },
+        "is_interactive": {
+            "type": [
+                "boolean"
+            ]
+        },
+        "is_outdoors": {
+            "type": [
+                "boolean"
+            ]
+        },
+        "is_surface": {
+            "type": [
+                "boolean"
+            ]
+        },
+        "is_unlocked": {
+            "type": [
+                "boolean"
+            ]
+        },
+        "kit_cost": {
+            "maxLength": 30,
+            "minLength": 1,
+            "type": [
+                "null",
+                "number"
+            ]
+        },
+        "kit_name": {
+            "maxLength": 15,
+            "minLength": 6,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "lighting_name": {
+            "maxLength": 11,
+            "minLength": 6,
+            "type": [
+                "string"
+            ]
+        },
+        "name": {
+            "maxLength": 27,
+            "minLength": 3,
+            "type": [
+                "string"
+            ]
+        },
+        "sell_price": {
+            "maxLength": 148500,
+            "minLength": 10,
+            "type": [
+                "number"
+            ]
+        },
+        "speaker_name": {
+            "maxLength": 19,
+            "minLength": 5,
+            "type": [
+                "string"
+            ]
+        },
+        "stack_size": {
+            "maxLength": 10,
+            "minLength": 1,
+            "type": [
+                "number"
+            ]
+        },
+        "unique_entry_id": {
+            "maxLength": 17,
+            "minLength": 17,
+            "type": [
+                "string"
+            ]
+        },
+        "variant_id": {
+            "maxLength": 3,
+            "minLength": 3,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "variant_name": {
+            "maxLength": 27,
+            "minLength": 3,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "version_added": {
+            "maxLength": 6,
+            "minLength": 5,
+            "type": [
+                "string"
+            ]
+        }
+    },
+    "required": [
+        "can_customize_body",
+        "filename",
+        "hha_points",
+        "image",
+        "internal_id",
+        "is_crafted",
+        "is_interactive",
+        "is_outdoors",
+        "is_surface",
+        "is_unlocked",
+        "lighting_name",
+        "name",
+        "sell_price",
+        "speaker_name",
+        "stack_size",
+        "unique_entry_id",
+        "version_added"
+    ],
+    "title": "FurnitureMiscellaneous",
+    "type": "object"
+}
