@@ -1,40 +1,14 @@
 resource "aws_iam_role" "api_gateway" {
-  name = "AnimalCrossingApiGatewayAssumeRole"
-
-  assume_role_policy = jsonencode({
-    Version = "2012-10-17"
-    Statement = [
-      {
-        Action = "sts:AssumeRole"
-        Effect = "Allow"
-        Principal = {
-          Service = "states.amazonaws.com"
-        }
-      },
-      {
-        Action = "sts:AssumeRole"
-        Effect = "Allow"
-        Principal = {
-          Service = "apigateway.amazonaws.com"
-        }
-      }
-    ]
-  })
+  assume_role_policy = data.aws_iam_policy_document.api_gateway_assume_role.json
+  name               = "AnimalCrossingApiGateway"
 }
 
-resource "aws_iam_role" "lambda_role" {
-  name = "AnimalCrossingApiGatewayLambdaRole"
+resource "aws_iam_role" "lambda_s3_get_object" {
+  assume_role_policy = data.aws_iam_policy_document.lambda_assume_role.json
+  name               = "AnimalCrossingLambdaS3GetObject"
+}
 
-  assume_role_policy = jsonencode({
-    Version = "2012-10-17"
-    Statement = [
-      {
-        Action = "sts:AssumeRole"
-        Effect = "Allow"
-        Principal = {
-          Service = "lambda.amazonaws.com"
-        }
-      }
-    ]
-  })
+resource "aws_iam_role" "lambda_s3_put_object" {
+  assume_role_policy = data.aws_iam_policy_document.lambda_assume_role.json
+  name               = "AnimalCrossingLambdaS3PutObject"
 }

@@ -1,0 +1,137 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "properties": {
+        "color_1": {
+            "maxLength": 6,
+            "minLength": 3,
+            "type": [
+                "string"
+            ]
+        },
+        "color_2": {
+            "maxLength": 6,
+            "minLength": 4,
+            "type": [
+                "string"
+            ]
+        },
+        "description": {
+            "maxLength": 603,
+            "minLength": 257,
+            "type": [
+                "string"
+            ]
+        },
+        "filename_critterpedia": {
+            "maxLength": 31,
+            "minLength": 8,
+            "type": [
+                "string"
+            ]
+        },
+        "filename_furniture": {
+            "maxLength": 34,
+            "minLength": 11,
+            "type": [
+                "string"
+            ]
+        },
+        "filename_icon": {
+            "maxLength": 5,
+            "minLength": 4,
+            "type": [
+                "string"
+            ]
+        },
+        "hha_category": {
+            "maxLength": 3,
+            "minLength": 3,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "hha_points": {
+            "maxLength": 64,
+            "minLength": 64,
+            "type": [
+                "number"
+            ]
+        },
+        "image_critterpedia": {
+            "type": [
+                "null"
+            ]
+        },
+        "image_furniture": {
+            "type": [
+                "null"
+            ]
+        },
+        "image_icon": {
+            "type": [
+                "null"
+            ]
+        },
+        "internal_id": {
+            "maxLength": 5339,
+            "minLength": 582,
+            "type": [
+                "number"
+            ]
+        },
+        "is_surface": {
+            "type": [
+                "boolean"
+            ]
+        },
+        "name": {
+            "maxLength": 26,
+            "minLength": 3,
+            "type": [
+                "string"
+            ]
+        },
+        "saying": {
+            "maxLength": 149,
+            "minLength": 36,
+            "type": [
+                "string"
+            ]
+        },
+        "sell_price": {
+            "maxLength": 12000,
+            "minLength": 10,
+            "type": [
+                "number"
+            ]
+        },
+        "unique_entry_id": {
+            "maxLength": 17,
+            "minLength": 17,
+            "type": [
+                "string"
+            ]
+        }
+    },
+    "required": [
+        "filename_furniture",
+        "name",
+        "filename_icon",
+        "hha_points",
+        "color_1",
+        "image_critterpedia",
+        "sell_price",
+        "filename_critterpedia",
+        "image_icon",
+        "is_surface",
+        "saying",
+        "image_furniture",
+        "color_2",
+        "unique_entry_id",
+        "description",
+        "internal_id"
+    ],
+    "title": "CreatureInsect",
+    "type": "object"
+}

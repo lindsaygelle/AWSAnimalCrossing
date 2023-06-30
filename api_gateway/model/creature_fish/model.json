@@ -1,0 +1,145 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "properties": {
+        "color_1": {
+            "maxLength": 6,
+            "minLength": 3,
+            "type": [
+                "string"
+            ]
+        },
+        "color_2": {
+            "maxLength": 6,
+            "minLength": 3,
+            "type": [
+                "string"
+            ]
+        },
+        "description": {
+            "maxLength": 588,
+            "minLength": 249,
+            "type": [
+                "string"
+            ]
+        },
+        "filename_critterpedia": {
+            "maxLength": 19,
+            "minLength": 6,
+            "type": [
+                "string"
+            ]
+        },
+        "filename_furniture": {
+            "maxLength": 22,
+            "minLength": 9,
+            "type": [
+                "string"
+            ]
+        },
+        "filename_icon": {
+            "maxLength": 6,
+            "minLength": 5,
+            "type": [
+                "string"
+            ]
+        },
+        "hha_category": {
+            "maxLength": 3,
+            "minLength": 3,
+            "type": [
+                "string"
+            ]
+        },
+        "hha_points": {
+            "maxLength": 71,
+            "minLength": 71,
+            "type": [
+                "number"
+            ]
+        },
+        "image_critterpedia": {
+            "type": [
+                "null"
+            ]
+        },
+        "image_furniture": {
+            "type": [
+                "null"
+            ]
+        },
+        "image_icon": {
+            "type": [
+                "null"
+            ]
+        },
+        "internal_id": {
+            "maxLength": 5254,
+            "minLength": 328,
+            "type": [
+                "number"
+            ]
+        },
+        "is_surface": {
+            "type": [
+                "boolean"
+            ]
+        },
+        "lighting_name": {
+            "maxLength": 11,
+            "minLength": 8,
+            "type": [
+                "string"
+            ]
+        },
+        "name": {
+            "maxLength": 19,
+            "minLength": 3,
+            "type": [
+                "string"
+            ]
+        },
+        "saying": {
+            "maxLength": 132,
+            "minLength": 24,
+            "type": [
+                "string"
+            ]
+        },
+        "sell_price": {
+            "maxLength": 15000,
+            "minLength": 100,
+            "type": [
+                "number"
+            ]
+        },
+        "unique_entry_id": {
+            "maxLength": 17,
+            "minLength": 17,
+            "type": [
+                "string"
+            ]
+        }
+    },
+    "required": [
+        "filename_furniture",
+        "name",
+        "filename_icon",
+        "hha_points",
+        "lighting_name",
+        "color_1",
+        "image_critterpedia",
+        "sell_price",
+        "hha_category",
+        "filename_critterpedia",
+        "image_icon",
+        "is_surface",
+        "saying",
+        "image_furniture",
+        "color_2",
+        "unique_entry_id",
+        "description",
+        "internal_id"
+    ],
+    "title": "CreatureFish",
+    "type": "object"
+}
