@@ -1,4559 +1,4407 @@
-// achievement
-// animal_crossing/achievement DELETE MODEL
-resource "aws_api_gateway_documentation_part" "achievement_DELETE_model" {
+
+resource "aws_api_gateway_documentation_part" "achievement" {
   location {
-    name   = "AchievementDelete"
-    type   = "MODEL"
+    path = "achievement"
+    type = "RESOURCE"
   }
-  properties  = file("./src/achievement/api_gateway/documentation_part/method/request_body/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/resource/achievement/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// achievement
-// animal_crossing/achievement GET MODEL
-resource "aws_api_gateway_documentation_part" "achievement_GET_model" {
-  location {
-    name   = "AchievementGet"
-    type   = "MODEL"
-  }
-  properties  = file("./src/achievement/api_gateway/documentation_part/method/request_body/GET/model_collection.json")
-  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
-}
-
-// achievement
-// animal_crossing/achievement METHOD
-resource "aws_api_gateway_documentation_part" "achievement_DELETE" {
-  location {
-    method = "DELETE"
-    path   = "/achievement"
-    type   = "METHOD"
-  }
-  properties  = file("./src/achievement/api_gateway/documentation_part/method/request/DELETE/model_collection.json")
-  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
-}
-
-// achievement
-// animal_crossing/achievement METHOD
 resource "aws_api_gateway_documentation_part" "achievement_GET" {
   location {
     method = "GET"
     path   = "/achievement"
     type   = "METHOD"
   }
-  properties  = file("./src/achievement/api_gateway/documentation_part/method/request/GET/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/achievement/get/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// achievement
-// animal_crossing/achievement METHOD
-resource "aws_api_gateway_documentation_part" "achievement_PATCH" {
+resource "aws_api_gateway_documentation_part" "achievement_GET_200" {
   location {
-    method = "PATCH"
-    path   = "/achievement"
-    type   = "METHOD"
+    method      = "GET"
+    path        = "/achievement"
+    status_code = "200"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/achievement/api_gateway/documentation_part/method/request/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/achievement/get/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// achievement
-// animal_crossing/achievement METHOD
+resource "aws_api_gateway_documentation_part" "achievement_GET_request_body" {
+  location {
+    method = "GET"
+    path   = "/achievement"
+    type   = "REQUEST_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/request_body/achievement/get/documentation.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
+resource "aws_api_gateway_documentation_part" "achievement_GET_response_body_200" {
+  location {
+    method      = "GET"
+    path        = "/achievement"
+    status_code = "200"
+    type        = "RESPONSE_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/response_body/achievement/get/200.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
 resource "aws_api_gateway_documentation_part" "achievement_POST" {
   location {
     method = "POST"
     path   = "/achievement"
     type   = "METHOD"
   }
-  properties  = file("./src/achievement/api_gateway/documentation_part/method/request/POST/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/achievement/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// achievement
-// animal_crossing/achievement PATCH MODEL
-resource "aws_api_gateway_documentation_part" "achievement_PATCH_model" {
+resource "aws_api_gateway_documentation_part" "achievement_POST_201" {
   location {
-    name   = "AchievementPatch"
-    type   = "MODEL"
+    method      = "POST"
+    path        = "/achievement"
+    status_code = "201"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/achievement/api_gateway/documentation_part/method/request_body/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/achievement/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// achievement
-// animal_crossing/achievement POST MODEL
-resource "aws_api_gateway_documentation_part" "achievement_POST_model" {
+resource "aws_api_gateway_documentation_part" "achievement_POST_request_body" {
   location {
-    name   = "AchievementPost"
-    type   = "MODEL"
-  }
-  properties  = file("./src/achievement/api_gateway/documentation_part/method/request_body/POST/model_collection.json")
-  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
-}
-
-// achievement
-// animal_crossing/achievement RESOURCE
-resource "aws_api_gateway_documentation_part" "achievement" {
-  location {
+    method = "POST"
     path   = "/achievement"
-    type   = "RESOURCE"
+    type   = "REQUEST_BODY"
   }
-  properties  = file("./src/achievement/api_gateway/documentation_part/resource/resources.json")
+  properties  = file("./src/api_gateway/documentation_part/request_body/achievement/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// achievement
-// animal_crossing/achievement/{id} RESOURCE
-resource "aws_api_gateway_documentation_part" "achievement_id" {
+resource "aws_api_gateway_documentation_part" "achievement_POST_response_body_201" {
   location {
-    path   = "/achievement/{id}"
-    type   = "RESOURCE"
+    method      = "POST"
+    path        = "/achievement"
+    status_code = "201"
+    type        = "RESPONSE_BODY"
   }
-  properties  = file("./src/achievement/api_gateway/documentation_part/resource/resource.json")
+  properties  = file("./src/api_gateway/documentation_part/response_body/achievement/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// card
-// animal_crossing/card DELETE MODEL
-resource "aws_api_gateway_documentation_part" "card_DELETE_model" {
+resource "aws_api_gateway_documentation_part" "achievement_model" {
   location {
-    name   = "CardDelete"
-    type   = "MODEL"
+    name = "Achievement"
+    type = "MODEL"
   }
-  properties  = file("./src/card/api_gateway/documentation_part/method/request_body/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/model/achievement/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// card
-// animal_crossing/card GET MODEL
-resource "aws_api_gateway_documentation_part" "card_GET_model" {
+resource "aws_api_gateway_documentation_part" "achievement_model_collection" {
   location {
-    name   = "CardGet"
-    type   = "MODEL"
+    name = "AchievementCollection"
+    type = "MODEL"
   }
-  properties  = file("./src/card/api_gateway/documentation_part/method/request_body/GET/model_collection.json")
+  properties  = templatefile("./src/api_gateway/documentation_part/model/achievement/documentation_collection.json", {
+    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  })
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// card
-// animal_crossing/card METHOD
-resource "aws_api_gateway_documentation_part" "card_DELETE" {
+resource "aws_api_gateway_documentation_part" "card" {
   location {
-    method = "DELETE"
-    path   = "/card"
-    type   = "METHOD"
+    path = "card"
+    type = "RESOURCE"
   }
-  properties  = file("./src/card/api_gateway/documentation_part/method/request/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/resource/card/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// card
-// animal_crossing/card METHOD
 resource "aws_api_gateway_documentation_part" "card_GET" {
   location {
     method = "GET"
     path   = "/card"
     type   = "METHOD"
   }
-  properties  = file("./src/card/api_gateway/documentation_part/method/request/GET/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/card/get/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// card
-// animal_crossing/card METHOD
-resource "aws_api_gateway_documentation_part" "card_PATCH" {
+resource "aws_api_gateway_documentation_part" "card_GET_200" {
   location {
-    method = "PATCH"
-    path   = "/card"
-    type   = "METHOD"
+    method      = "GET"
+    path        = "/card"
+    status_code = "200"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/card/api_gateway/documentation_part/method/request/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/card/get/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// card
-// animal_crossing/card METHOD
+resource "aws_api_gateway_documentation_part" "card_GET_request_body" {
+  location {
+    method = "GET"
+    path   = "/card"
+    type   = "REQUEST_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/request_body/card/get/documentation.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
+resource "aws_api_gateway_documentation_part" "card_GET_response_body_200" {
+  location {
+    method      = "GET"
+    path        = "/card"
+    status_code = "200"
+    type        = "RESPONSE_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/response_body/card/get/200.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
 resource "aws_api_gateway_documentation_part" "card_POST" {
   location {
     method = "POST"
     path   = "/card"
     type   = "METHOD"
   }
-  properties  = file("./src/card/api_gateway/documentation_part/method/request/POST/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/card/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// card
-// animal_crossing/card PATCH MODEL
-resource "aws_api_gateway_documentation_part" "card_PATCH_model" {
+resource "aws_api_gateway_documentation_part" "card_POST_201" {
   location {
-    name   = "CardPatch"
-    type   = "MODEL"
+    method      = "POST"
+    path        = "/card"
+    status_code = "201"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/card/api_gateway/documentation_part/method/request_body/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/card/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// card
-// animal_crossing/card POST MODEL
-resource "aws_api_gateway_documentation_part" "card_POST_model" {
+resource "aws_api_gateway_documentation_part" "card_POST_request_body" {
   location {
-    name   = "CardPost"
-    type   = "MODEL"
-  }
-  properties  = file("./src/card/api_gateway/documentation_part/method/request_body/POST/model_collection.json")
-  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
-}
-
-// card
-// animal_crossing/card RESOURCE
-resource "aws_api_gateway_documentation_part" "card" {
-  location {
+    method = "POST"
     path   = "/card"
-    type   = "RESOURCE"
+    type   = "REQUEST_BODY"
   }
-  properties  = file("./src/card/api_gateway/documentation_part/resource/resources.json")
+  properties  = file("./src/api_gateway/documentation_part/request_body/card/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// card
-// animal_crossing/card/{id} RESOURCE
-resource "aws_api_gateway_documentation_part" "card_id" {
+resource "aws_api_gateway_documentation_part" "card_POST_response_body_201" {
   location {
-    path   = "/card/{id}"
-    type   = "RESOURCE"
+    method      = "POST"
+    path        = "/card"
+    status_code = "201"
+    type        = "RESPONSE_BODY"
   }
-  properties  = file("./src/card/api_gateway/documentation_part/resource/resource.json")
+  properties  = file("./src/api_gateway/documentation_part/response_body/card/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_accessory
-// animal_crossing/clothing_accessory DELETE MODEL
-resource "aws_api_gateway_documentation_part" "clothing_accessory_DELETE_model" {
+resource "aws_api_gateway_documentation_part" "card_model" {
   location {
-    name   = "ClothingAccessoryDelete"
-    type   = "MODEL"
+    name = "Card"
+    type = "MODEL"
   }
-  properties  = file("./src/clothing_accessory/api_gateway/documentation_part/method/request_body/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/model/card/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_accessory
-// animal_crossing/clothing_accessory GET MODEL
-resource "aws_api_gateway_documentation_part" "clothing_accessory_GET_model" {
+resource "aws_api_gateway_documentation_part" "card_model_collection" {
   location {
-    name   = "ClothingAccessoryGet"
-    type   = "MODEL"
+    name = "CardCollection"
+    type = "MODEL"
   }
-  properties  = file("./src/clothing_accessory/api_gateway/documentation_part/method/request_body/GET/model_collection.json")
+  properties  = templatefile("./src/api_gateway/documentation_part/model/card/documentation_collection.json", {
+    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  })
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_accessory
-// animal_crossing/clothing_accessory METHOD
-resource "aws_api_gateway_documentation_part" "clothing_accessory_DELETE" {
+resource "aws_api_gateway_documentation_part" "clothing_accessory" {
   location {
-    method = "DELETE"
-    path   = "/clothing_accessory"
-    type   = "METHOD"
+    path = "clothing_accessory"
+    type = "RESOURCE"
   }
-  properties  = file("./src/clothing_accessory/api_gateway/documentation_part/method/request/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/resource/clothing_accessory/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_accessory
-// animal_crossing/clothing_accessory METHOD
 resource "aws_api_gateway_documentation_part" "clothing_accessory_GET" {
   location {
     method = "GET"
     path   = "/clothing_accessory"
     type   = "METHOD"
   }
-  properties  = file("./src/clothing_accessory/api_gateway/documentation_part/method/request/GET/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/clothing_accessory/get/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_accessory
-// animal_crossing/clothing_accessory METHOD
-resource "aws_api_gateway_documentation_part" "clothing_accessory_PATCH" {
+resource "aws_api_gateway_documentation_part" "clothing_accessory_GET_200" {
   location {
-    method = "PATCH"
-    path   = "/clothing_accessory"
-    type   = "METHOD"
+    method      = "GET"
+    path        = "/clothing_accessory"
+    status_code = "200"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/clothing_accessory/api_gateway/documentation_part/method/request/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/clothing_accessory/get/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_accessory
-// animal_crossing/clothing_accessory METHOD
+resource "aws_api_gateway_documentation_part" "clothing_accessory_GET_request_body" {
+  location {
+    method = "GET"
+    path   = "/clothing_accessory"
+    type   = "REQUEST_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/request_body/clothing_accessory/get/documentation.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
+resource "aws_api_gateway_documentation_part" "clothing_accessory_GET_response_body_200" {
+  location {
+    method      = "GET"
+    path        = "/clothing_accessory"
+    status_code = "200"
+    type        = "RESPONSE_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/response_body/clothing_accessory/get/200.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
 resource "aws_api_gateway_documentation_part" "clothing_accessory_POST" {
   location {
     method = "POST"
     path   = "/clothing_accessory"
     type   = "METHOD"
   }
-  properties  = file("./src/clothing_accessory/api_gateway/documentation_part/method/request/POST/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/clothing_accessory/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_accessory
-// animal_crossing/clothing_accessory PATCH MODEL
-resource "aws_api_gateway_documentation_part" "clothing_accessory_PATCH_model" {
+resource "aws_api_gateway_documentation_part" "clothing_accessory_POST_201" {
   location {
-    name   = "ClothingAccessoryPatch"
-    type   = "MODEL"
+    method      = "POST"
+    path        = "/clothing_accessory"
+    status_code = "201"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/clothing_accessory/api_gateway/documentation_part/method/request_body/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/clothing_accessory/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_accessory
-// animal_crossing/clothing_accessory POST MODEL
-resource "aws_api_gateway_documentation_part" "clothing_accessory_POST_model" {
+resource "aws_api_gateway_documentation_part" "clothing_accessory_POST_request_body" {
   location {
-    name   = "ClothingAccessoryPost"
-    type   = "MODEL"
-  }
-  properties  = file("./src/clothing_accessory/api_gateway/documentation_part/method/request_body/POST/model_collection.json")
-  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
-}
-
-// clothing_accessory
-// animal_crossing/clothing_accessory RESOURCE
-resource "aws_api_gateway_documentation_part" "clothing_accessory" {
-  location {
+    method = "POST"
     path   = "/clothing_accessory"
-    type   = "RESOURCE"
+    type   = "REQUEST_BODY"
   }
-  properties  = file("./src/clothing_accessory/api_gateway/documentation_part/resource/resources.json")
+  properties  = file("./src/api_gateway/documentation_part/request_body/clothing_accessory/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_accessory
-// animal_crossing/clothing_accessory/{id} RESOURCE
-resource "aws_api_gateway_documentation_part" "clothing_accessory_id" {
+resource "aws_api_gateway_documentation_part" "clothing_accessory_POST_response_body_201" {
   location {
-    path   = "/clothing_accessory/{id}"
-    type   = "RESOURCE"
+    method      = "POST"
+    path        = "/clothing_accessory"
+    status_code = "201"
+    type        = "RESPONSE_BODY"
   }
-  properties  = file("./src/clothing_accessory/api_gateway/documentation_part/resource/resource.json")
+  properties  = file("./src/api_gateway/documentation_part/response_body/clothing_accessory/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_bag
-// animal_crossing/clothing_bag DELETE MODEL
-resource "aws_api_gateway_documentation_part" "clothing_bag_DELETE_model" {
+resource "aws_api_gateway_documentation_part" "clothing_accessory_model" {
   location {
-    name   = "ClothingBagDelete"
-    type   = "MODEL"
+    name = "ClothingAccessory"
+    type = "MODEL"
   }
-  properties  = file("./src/clothing_bag/api_gateway/documentation_part/method/request_body/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/model/clothing_accessory/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_bag
-// animal_crossing/clothing_bag GET MODEL
-resource "aws_api_gateway_documentation_part" "clothing_bag_GET_model" {
+resource "aws_api_gateway_documentation_part" "clothing_accessory_model_collection" {
   location {
-    name   = "ClothingBagGet"
-    type   = "MODEL"
+    name = "ClothingAccessoryCollection"
+    type = "MODEL"
   }
-  properties  = file("./src/clothing_bag/api_gateway/documentation_part/method/request_body/GET/model_collection.json")
+  properties  = templatefile("./src/api_gateway/documentation_part/model/clothing_accessory/documentation_collection.json", {
+    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  })
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_bag
-// animal_crossing/clothing_bag METHOD
-resource "aws_api_gateway_documentation_part" "clothing_bag_DELETE" {
+resource "aws_api_gateway_documentation_part" "clothing_bag" {
   location {
-    method = "DELETE"
-    path   = "/clothing_bag"
-    type   = "METHOD"
+    path = "clothing_bag"
+    type = "RESOURCE"
   }
-  properties  = file("./src/clothing_bag/api_gateway/documentation_part/method/request/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/resource/clothing_bag/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_bag
-// animal_crossing/clothing_bag METHOD
 resource "aws_api_gateway_documentation_part" "clothing_bag_GET" {
   location {
     method = "GET"
     path   = "/clothing_bag"
     type   = "METHOD"
   }
-  properties  = file("./src/clothing_bag/api_gateway/documentation_part/method/request/GET/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/clothing_bag/get/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_bag
-// animal_crossing/clothing_bag METHOD
-resource "aws_api_gateway_documentation_part" "clothing_bag_PATCH" {
+resource "aws_api_gateway_documentation_part" "clothing_bag_GET_200" {
   location {
-    method = "PATCH"
-    path   = "/clothing_bag"
-    type   = "METHOD"
+    method      = "GET"
+    path        = "/clothing_bag"
+    status_code = "200"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/clothing_bag/api_gateway/documentation_part/method/request/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/clothing_bag/get/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_bag
-// animal_crossing/clothing_bag METHOD
+resource "aws_api_gateway_documentation_part" "clothing_bag_GET_request_body" {
+  location {
+    method = "GET"
+    path   = "/clothing_bag"
+    type   = "REQUEST_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/request_body/clothing_bag/get/documentation.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
+resource "aws_api_gateway_documentation_part" "clothing_bag_GET_response_body_200" {
+  location {
+    method      = "GET"
+    path        = "/clothing_bag"
+    status_code = "200"
+    type        = "RESPONSE_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/response_body/clothing_bag/get/200.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
 resource "aws_api_gateway_documentation_part" "clothing_bag_POST" {
   location {
     method = "POST"
     path   = "/clothing_bag"
     type   = "METHOD"
   }
-  properties  = file("./src/clothing_bag/api_gateway/documentation_part/method/request/POST/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/clothing_bag/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_bag
-// animal_crossing/clothing_bag PATCH MODEL
-resource "aws_api_gateway_documentation_part" "clothing_bag_PATCH_model" {
+resource "aws_api_gateway_documentation_part" "clothing_bag_POST_201" {
   location {
-    name   = "ClothingBagPatch"
-    type   = "MODEL"
+    method      = "POST"
+    path        = "/clothing_bag"
+    status_code = "201"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/clothing_bag/api_gateway/documentation_part/method/request_body/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/clothing_bag/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_bag
-// animal_crossing/clothing_bag POST MODEL
-resource "aws_api_gateway_documentation_part" "clothing_bag_POST_model" {
+resource "aws_api_gateway_documentation_part" "clothing_bag_POST_request_body" {
   location {
-    name   = "ClothingBagPost"
-    type   = "MODEL"
-  }
-  properties  = file("./src/clothing_bag/api_gateway/documentation_part/method/request_body/POST/model_collection.json")
-  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
-}
-
-// clothing_bag
-// animal_crossing/clothing_bag RESOURCE
-resource "aws_api_gateway_documentation_part" "clothing_bag" {
-  location {
+    method = "POST"
     path   = "/clothing_bag"
-    type   = "RESOURCE"
+    type   = "REQUEST_BODY"
   }
-  properties  = file("./src/clothing_bag/api_gateway/documentation_part/resource/resources.json")
+  properties  = file("./src/api_gateway/documentation_part/request_body/clothing_bag/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_bag
-// animal_crossing/clothing_bag/{id} RESOURCE
-resource "aws_api_gateway_documentation_part" "clothing_bag_id" {
+resource "aws_api_gateway_documentation_part" "clothing_bag_POST_response_body_201" {
   location {
-    path   = "/clothing_bag/{id}"
-    type   = "RESOURCE"
+    method      = "POST"
+    path        = "/clothing_bag"
+    status_code = "201"
+    type        = "RESPONSE_BODY"
   }
-  properties  = file("./src/clothing_bag/api_gateway/documentation_part/resource/resource.json")
+  properties  = file("./src/api_gateway/documentation_part/response_body/clothing_bag/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_bottom
-// animal_crossing/clothing_bottom DELETE MODEL
-resource "aws_api_gateway_documentation_part" "clothing_bottom_DELETE_model" {
+resource "aws_api_gateway_documentation_part" "clothing_bag_model" {
   location {
-    name   = "ClothingBottomDelete"
-    type   = "MODEL"
+    name = "ClothingBag"
+    type = "MODEL"
   }
-  properties  = file("./src/clothing_bottom/api_gateway/documentation_part/method/request_body/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/model/clothing_bag/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_bottom
-// animal_crossing/clothing_bottom GET MODEL
-resource "aws_api_gateway_documentation_part" "clothing_bottom_GET_model" {
+resource "aws_api_gateway_documentation_part" "clothing_bag_model_collection" {
   location {
-    name   = "ClothingBottomGet"
-    type   = "MODEL"
+    name = "ClothingBagCollection"
+    type = "MODEL"
   }
-  properties  = file("./src/clothing_bottom/api_gateway/documentation_part/method/request_body/GET/model_collection.json")
+  properties  = templatefile("./src/api_gateway/documentation_part/model/clothing_bag/documentation_collection.json", {
+    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  })
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_bottom
-// animal_crossing/clothing_bottom METHOD
-resource "aws_api_gateway_documentation_part" "clothing_bottom_DELETE" {
+resource "aws_api_gateway_documentation_part" "clothing_bottom" {
   location {
-    method = "DELETE"
-    path   = "/clothing_bottom"
-    type   = "METHOD"
+    path = "clothing_bottom"
+    type = "RESOURCE"
   }
-  properties  = file("./src/clothing_bottom/api_gateway/documentation_part/method/request/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/resource/clothing_bottom/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_bottom
-// animal_crossing/clothing_bottom METHOD
 resource "aws_api_gateway_documentation_part" "clothing_bottom_GET" {
   location {
     method = "GET"
     path   = "/clothing_bottom"
     type   = "METHOD"
   }
-  properties  = file("./src/clothing_bottom/api_gateway/documentation_part/method/request/GET/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/clothing_bottom/get/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_bottom
-// animal_crossing/clothing_bottom METHOD
-resource "aws_api_gateway_documentation_part" "clothing_bottom_PATCH" {
+resource "aws_api_gateway_documentation_part" "clothing_bottom_GET_200" {
   location {
-    method = "PATCH"
-    path   = "/clothing_bottom"
-    type   = "METHOD"
+    method      = "GET"
+    path        = "/clothing_bottom"
+    status_code = "200"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/clothing_bottom/api_gateway/documentation_part/method/request/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/clothing_bottom/get/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_bottom
-// animal_crossing/clothing_bottom METHOD
+resource "aws_api_gateway_documentation_part" "clothing_bottom_GET_request_body" {
+  location {
+    method = "GET"
+    path   = "/clothing_bottom"
+    type   = "REQUEST_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/request_body/clothing_bottom/get/documentation.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
+resource "aws_api_gateway_documentation_part" "clothing_bottom_GET_response_body_200" {
+  location {
+    method      = "GET"
+    path        = "/clothing_bottom"
+    status_code = "200"
+    type        = "RESPONSE_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/response_body/clothing_bottom/get/200.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
 resource "aws_api_gateway_documentation_part" "clothing_bottom_POST" {
   location {
     method = "POST"
     path   = "/clothing_bottom"
     type   = "METHOD"
   }
-  properties  = file("./src/clothing_bottom/api_gateway/documentation_part/method/request/POST/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/clothing_bottom/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_bottom
-// animal_crossing/clothing_bottom PATCH MODEL
-resource "aws_api_gateway_documentation_part" "clothing_bottom_PATCH_model" {
+resource "aws_api_gateway_documentation_part" "clothing_bottom_POST_201" {
   location {
-    name   = "ClothingBottomPatch"
-    type   = "MODEL"
+    method      = "POST"
+    path        = "/clothing_bottom"
+    status_code = "201"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/clothing_bottom/api_gateway/documentation_part/method/request_body/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/clothing_bottom/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_bottom
-// animal_crossing/clothing_bottom POST MODEL
-resource "aws_api_gateway_documentation_part" "clothing_bottom_POST_model" {
+resource "aws_api_gateway_documentation_part" "clothing_bottom_POST_request_body" {
   location {
-    name   = "ClothingBottomPost"
-    type   = "MODEL"
-  }
-  properties  = file("./src/clothing_bottom/api_gateway/documentation_part/method/request_body/POST/model_collection.json")
-  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
-}
-
-// clothing_bottom
-// animal_crossing/clothing_bottom RESOURCE
-resource "aws_api_gateway_documentation_part" "clothing_bottom" {
-  location {
+    method = "POST"
     path   = "/clothing_bottom"
-    type   = "RESOURCE"
+    type   = "REQUEST_BODY"
   }
-  properties  = file("./src/clothing_bottom/api_gateway/documentation_part/resource/resources.json")
+  properties  = file("./src/api_gateway/documentation_part/request_body/clothing_bottom/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_bottom
-// animal_crossing/clothing_bottom/{id} RESOURCE
-resource "aws_api_gateway_documentation_part" "clothing_bottom_id" {
+resource "aws_api_gateway_documentation_part" "clothing_bottom_POST_response_body_201" {
   location {
-    path   = "/clothing_bottom/{id}"
-    type   = "RESOURCE"
+    method      = "POST"
+    path        = "/clothing_bottom"
+    status_code = "201"
+    type        = "RESPONSE_BODY"
   }
-  properties  = file("./src/clothing_bottom/api_gateway/documentation_part/resource/resource.json")
+  properties  = file("./src/api_gateway/documentation_part/response_body/clothing_bottom/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_dress_up
-// animal_crossing/clothing_dress_up DELETE MODEL
-resource "aws_api_gateway_documentation_part" "clothing_dress_up_DELETE_model" {
+resource "aws_api_gateway_documentation_part" "clothing_bottom_model" {
   location {
-    name   = "ClothingDressUpDelete"
-    type   = "MODEL"
+    name = "ClothingBottom"
+    type = "MODEL"
   }
-  properties  = file("./src/clothing_dress_up/api_gateway/documentation_part/method/request_body/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/model/clothing_bottom/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_dress_up
-// animal_crossing/clothing_dress_up GET MODEL
-resource "aws_api_gateway_documentation_part" "clothing_dress_up_GET_model" {
+resource "aws_api_gateway_documentation_part" "clothing_bottom_model_collection" {
   location {
-    name   = "ClothingDressUpGet"
-    type   = "MODEL"
+    name = "ClothingBottomCollection"
+    type = "MODEL"
   }
-  properties  = file("./src/clothing_dress_up/api_gateway/documentation_part/method/request_body/GET/model_collection.json")
+  properties  = templatefile("./src/api_gateway/documentation_part/model/clothing_bottom/documentation_collection.json", {
+    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  })
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_dress_up
-// animal_crossing/clothing_dress_up METHOD
-resource "aws_api_gateway_documentation_part" "clothing_dress_up_DELETE" {
+resource "aws_api_gateway_documentation_part" "clothing_dress_up" {
   location {
-    method = "DELETE"
-    path   = "/clothing_dress_up"
-    type   = "METHOD"
+    path = "clothing_dress_up"
+    type = "RESOURCE"
   }
-  properties  = file("./src/clothing_dress_up/api_gateway/documentation_part/method/request/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/resource/clothing_dress_up/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_dress_up
-// animal_crossing/clothing_dress_up METHOD
 resource "aws_api_gateway_documentation_part" "clothing_dress_up_GET" {
   location {
     method = "GET"
     path   = "/clothing_dress_up"
     type   = "METHOD"
   }
-  properties  = file("./src/clothing_dress_up/api_gateway/documentation_part/method/request/GET/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/clothing_dress_up/get/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_dress_up
-// animal_crossing/clothing_dress_up METHOD
-resource "aws_api_gateway_documentation_part" "clothing_dress_up_PATCH" {
+resource "aws_api_gateway_documentation_part" "clothing_dress_up_GET_200" {
   location {
-    method = "PATCH"
-    path   = "/clothing_dress_up"
-    type   = "METHOD"
+    method      = "GET"
+    path        = "/clothing_dress_up"
+    status_code = "200"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/clothing_dress_up/api_gateway/documentation_part/method/request/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/clothing_dress_up/get/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_dress_up
-// animal_crossing/clothing_dress_up METHOD
+resource "aws_api_gateway_documentation_part" "clothing_dress_up_GET_request_body" {
+  location {
+    method = "GET"
+    path   = "/clothing_dress_up"
+    type   = "REQUEST_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/request_body/clothing_dress_up/get/documentation.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
+resource "aws_api_gateway_documentation_part" "clothing_dress_up_GET_response_body_200" {
+  location {
+    method      = "GET"
+    path        = "/clothing_dress_up"
+    status_code = "200"
+    type        = "RESPONSE_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/response_body/clothing_dress_up/get/200.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
 resource "aws_api_gateway_documentation_part" "clothing_dress_up_POST" {
   location {
     method = "POST"
     path   = "/clothing_dress_up"
     type   = "METHOD"
   }
-  properties  = file("./src/clothing_dress_up/api_gateway/documentation_part/method/request/POST/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/clothing_dress_up/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_dress_up
-// animal_crossing/clothing_dress_up PATCH MODEL
-resource "aws_api_gateway_documentation_part" "clothing_dress_up_PATCH_model" {
+resource "aws_api_gateway_documentation_part" "clothing_dress_up_POST_201" {
   location {
-    name   = "ClothingDressUpPatch"
-    type   = "MODEL"
+    method      = "POST"
+    path        = "/clothing_dress_up"
+    status_code = "201"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/clothing_dress_up/api_gateway/documentation_part/method/request_body/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/clothing_dress_up/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_dress_up
-// animal_crossing/clothing_dress_up POST MODEL
-resource "aws_api_gateway_documentation_part" "clothing_dress_up_POST_model" {
+resource "aws_api_gateway_documentation_part" "clothing_dress_up_POST_request_body" {
   location {
-    name   = "ClothingDressUpPost"
-    type   = "MODEL"
-  }
-  properties  = file("./src/clothing_dress_up/api_gateway/documentation_part/method/request_body/POST/model_collection.json")
-  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
-}
-
-// clothing_dress_up
-// animal_crossing/clothing_dress_up RESOURCE
-resource "aws_api_gateway_documentation_part" "clothing_dress_up" {
-  location {
+    method = "POST"
     path   = "/clothing_dress_up"
-    type   = "RESOURCE"
+    type   = "REQUEST_BODY"
   }
-  properties  = file("./src/clothing_dress_up/api_gateway/documentation_part/resource/resources.json")
+  properties  = file("./src/api_gateway/documentation_part/request_body/clothing_dress_up/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_dress_up
-// animal_crossing/clothing_dress_up/{id} RESOURCE
-resource "aws_api_gateway_documentation_part" "clothing_dress_up_id" {
+resource "aws_api_gateway_documentation_part" "clothing_dress_up_POST_response_body_201" {
   location {
-    path   = "/clothing_dress_up/{id}"
-    type   = "RESOURCE"
+    method      = "POST"
+    path        = "/clothing_dress_up"
+    status_code = "201"
+    type        = "RESPONSE_BODY"
   }
-  properties  = file("./src/clothing_dress_up/api_gateway/documentation_part/resource/resource.json")
+  properties  = file("./src/api_gateway/documentation_part/response_body/clothing_dress_up/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_headwear
-// animal_crossing/clothing_headwear DELETE MODEL
-resource "aws_api_gateway_documentation_part" "clothing_headwear_DELETE_model" {
+resource "aws_api_gateway_documentation_part" "clothing_dress_up_model" {
   location {
-    name   = "ClothingHeadwearDelete"
-    type   = "MODEL"
+    name = "ClothingDressUp"
+    type = "MODEL"
   }
-  properties  = file("./src/clothing_headwear/api_gateway/documentation_part/method/request_body/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/model/clothing_dress_up/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_headwear
-// animal_crossing/clothing_headwear GET MODEL
-resource "aws_api_gateway_documentation_part" "clothing_headwear_GET_model" {
+resource "aws_api_gateway_documentation_part" "clothing_dress_up_model_collection" {
   location {
-    name   = "ClothingHeadwearGet"
-    type   = "MODEL"
+    name = "ClothingDressUpCollection"
+    type = "MODEL"
   }
-  properties  = file("./src/clothing_headwear/api_gateway/documentation_part/method/request_body/GET/model_collection.json")
+  properties  = templatefile("./src/api_gateway/documentation_part/model/clothing_dress_up/documentation_collection.json", {
+    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  })
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_headwear
-// animal_crossing/clothing_headwear METHOD
-resource "aws_api_gateway_documentation_part" "clothing_headwear_DELETE" {
+resource "aws_api_gateway_documentation_part" "clothing_headwear" {
   location {
-    method = "DELETE"
-    path   = "/clothing_headwear"
-    type   = "METHOD"
+    path = "clothing_headwear"
+    type = "RESOURCE"
   }
-  properties  = file("./src/clothing_headwear/api_gateway/documentation_part/method/request/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/resource/clothing_headwear/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_headwear
-// animal_crossing/clothing_headwear METHOD
 resource "aws_api_gateway_documentation_part" "clothing_headwear_GET" {
   location {
     method = "GET"
     path   = "/clothing_headwear"
     type   = "METHOD"
   }
-  properties  = file("./src/clothing_headwear/api_gateway/documentation_part/method/request/GET/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/clothing_headwear/get/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_headwear
-// animal_crossing/clothing_headwear METHOD
-resource "aws_api_gateway_documentation_part" "clothing_headwear_PATCH" {
+resource "aws_api_gateway_documentation_part" "clothing_headwear_GET_200" {
   location {
-    method = "PATCH"
-    path   = "/clothing_headwear"
-    type   = "METHOD"
+    method      = "GET"
+    path        = "/clothing_headwear"
+    status_code = "200"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/clothing_headwear/api_gateway/documentation_part/method/request/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/clothing_headwear/get/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_headwear
-// animal_crossing/clothing_headwear METHOD
+resource "aws_api_gateway_documentation_part" "clothing_headwear_GET_request_body" {
+  location {
+    method = "GET"
+    path   = "/clothing_headwear"
+    type   = "REQUEST_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/request_body/clothing_headwear/get/documentation.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
+resource "aws_api_gateway_documentation_part" "clothing_headwear_GET_response_body_200" {
+  location {
+    method      = "GET"
+    path        = "/clothing_headwear"
+    status_code = "200"
+    type        = "RESPONSE_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/response_body/clothing_headwear/get/200.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
 resource "aws_api_gateway_documentation_part" "clothing_headwear_POST" {
   location {
     method = "POST"
     path   = "/clothing_headwear"
     type   = "METHOD"
   }
-  properties  = file("./src/clothing_headwear/api_gateway/documentation_part/method/request/POST/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/clothing_headwear/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_headwear
-// animal_crossing/clothing_headwear PATCH MODEL
-resource "aws_api_gateway_documentation_part" "clothing_headwear_PATCH_model" {
+resource "aws_api_gateway_documentation_part" "clothing_headwear_POST_201" {
   location {
-    name   = "ClothingHeadwearPatch"
-    type   = "MODEL"
+    method      = "POST"
+    path        = "/clothing_headwear"
+    status_code = "201"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/clothing_headwear/api_gateway/documentation_part/method/request_body/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/clothing_headwear/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_headwear
-// animal_crossing/clothing_headwear POST MODEL
-resource "aws_api_gateway_documentation_part" "clothing_headwear_POST_model" {
+resource "aws_api_gateway_documentation_part" "clothing_headwear_POST_request_body" {
   location {
-    name   = "ClothingHeadwearPost"
-    type   = "MODEL"
-  }
-  properties  = file("./src/clothing_headwear/api_gateway/documentation_part/method/request_body/POST/model_collection.json")
-  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
-}
-
-// clothing_headwear
-// animal_crossing/clothing_headwear RESOURCE
-resource "aws_api_gateway_documentation_part" "clothing_headwear" {
-  location {
+    method = "POST"
     path   = "/clothing_headwear"
-    type   = "RESOURCE"
+    type   = "REQUEST_BODY"
   }
-  properties  = file("./src/clothing_headwear/api_gateway/documentation_part/resource/resources.json")
+  properties  = file("./src/api_gateway/documentation_part/request_body/clothing_headwear/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_headwear
-// animal_crossing/clothing_headwear/{id} RESOURCE
-resource "aws_api_gateway_documentation_part" "clothing_headwear_id" {
+resource "aws_api_gateway_documentation_part" "clothing_headwear_POST_response_body_201" {
   location {
-    path   = "/clothing_headwear/{id}"
-    type   = "RESOURCE"
+    method      = "POST"
+    path        = "/clothing_headwear"
+    status_code = "201"
+    type        = "RESPONSE_BODY"
   }
-  properties  = file("./src/clothing_headwear/api_gateway/documentation_part/resource/resource.json")
+  properties  = file("./src/api_gateway/documentation_part/response_body/clothing_headwear/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_other
-// animal_crossing/clothing_other DELETE MODEL
-resource "aws_api_gateway_documentation_part" "clothing_other_DELETE_model" {
+resource "aws_api_gateway_documentation_part" "clothing_headwear_model" {
   location {
-    name   = "ClothingOtherDelete"
-    type   = "MODEL"
+    name = "ClothingHeadwear"
+    type = "MODEL"
   }
-  properties  = file("./src/clothing_other/api_gateway/documentation_part/method/request_body/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/model/clothing_headwear/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_other
-// animal_crossing/clothing_other GET MODEL
-resource "aws_api_gateway_documentation_part" "clothing_other_GET_model" {
+resource "aws_api_gateway_documentation_part" "clothing_headwear_model_collection" {
   location {
-    name   = "ClothingOtherGet"
-    type   = "MODEL"
+    name = "ClothingHeadwearCollection"
+    type = "MODEL"
   }
-  properties  = file("./src/clothing_other/api_gateway/documentation_part/method/request_body/GET/model_collection.json")
+  properties  = templatefile("./src/api_gateway/documentation_part/model/clothing_headwear/documentation_collection.json", {
+    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  })
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_other
-// animal_crossing/clothing_other METHOD
-resource "aws_api_gateway_documentation_part" "clothing_other_DELETE" {
+resource "aws_api_gateway_documentation_part" "clothing_other" {
   location {
-    method = "DELETE"
-    path   = "/clothing_other"
-    type   = "METHOD"
+    path = "clothing_other"
+    type = "RESOURCE"
   }
-  properties  = file("./src/clothing_other/api_gateway/documentation_part/method/request/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/resource/clothing_other/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_other
-// animal_crossing/clothing_other METHOD
 resource "aws_api_gateway_documentation_part" "clothing_other_GET" {
   location {
     method = "GET"
     path   = "/clothing_other"
     type   = "METHOD"
   }
-  properties  = file("./src/clothing_other/api_gateway/documentation_part/method/request/GET/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/clothing_other/get/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_other
-// animal_crossing/clothing_other METHOD
-resource "aws_api_gateway_documentation_part" "clothing_other_PATCH" {
+resource "aws_api_gateway_documentation_part" "clothing_other_GET_200" {
   location {
-    method = "PATCH"
-    path   = "/clothing_other"
-    type   = "METHOD"
+    method      = "GET"
+    path        = "/clothing_other"
+    status_code = "200"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/clothing_other/api_gateway/documentation_part/method/request/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/clothing_other/get/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_other
-// animal_crossing/clothing_other METHOD
+resource "aws_api_gateway_documentation_part" "clothing_other_GET_request_body" {
+  location {
+    method = "GET"
+    path   = "/clothing_other"
+    type   = "REQUEST_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/request_body/clothing_other/get/documentation.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
+resource "aws_api_gateway_documentation_part" "clothing_other_GET_response_body_200" {
+  location {
+    method      = "GET"
+    path        = "/clothing_other"
+    status_code = "200"
+    type        = "RESPONSE_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/response_body/clothing_other/get/200.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
 resource "aws_api_gateway_documentation_part" "clothing_other_POST" {
   location {
     method = "POST"
     path   = "/clothing_other"
     type   = "METHOD"
   }
-  properties  = file("./src/clothing_other/api_gateway/documentation_part/method/request/POST/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/clothing_other/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_other
-// animal_crossing/clothing_other PATCH MODEL
-resource "aws_api_gateway_documentation_part" "clothing_other_PATCH_model" {
+resource "aws_api_gateway_documentation_part" "clothing_other_POST_201" {
   location {
-    name   = "ClothingOtherPatch"
-    type   = "MODEL"
+    method      = "POST"
+    path        = "/clothing_other"
+    status_code = "201"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/clothing_other/api_gateway/documentation_part/method/request_body/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/clothing_other/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_other
-// animal_crossing/clothing_other POST MODEL
-resource "aws_api_gateway_documentation_part" "clothing_other_POST_model" {
+resource "aws_api_gateway_documentation_part" "clothing_other_POST_request_body" {
   location {
-    name   = "ClothingOtherPost"
-    type   = "MODEL"
-  }
-  properties  = file("./src/clothing_other/api_gateway/documentation_part/method/request_body/POST/model_collection.json")
-  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
-}
-
-// clothing_other
-// animal_crossing/clothing_other RESOURCE
-resource "aws_api_gateway_documentation_part" "clothing_other" {
-  location {
+    method = "POST"
     path   = "/clothing_other"
-    type   = "RESOURCE"
+    type   = "REQUEST_BODY"
   }
-  properties  = file("./src/clothing_other/api_gateway/documentation_part/resource/resources.json")
+  properties  = file("./src/api_gateway/documentation_part/request_body/clothing_other/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_other
-// animal_crossing/clothing_other/{id} RESOURCE
-resource "aws_api_gateway_documentation_part" "clothing_other_id" {
+resource "aws_api_gateway_documentation_part" "clothing_other_POST_response_body_201" {
   location {
-    path   = "/clothing_other/{id}"
-    type   = "RESOURCE"
+    method      = "POST"
+    path        = "/clothing_other"
+    status_code = "201"
+    type        = "RESPONSE_BODY"
   }
-  properties  = file("./src/clothing_other/api_gateway/documentation_part/resource/resource.json")
+  properties  = file("./src/api_gateway/documentation_part/response_body/clothing_other/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_shoe
-// animal_crossing/clothing_shoe DELETE MODEL
-resource "aws_api_gateway_documentation_part" "clothing_shoe_DELETE_model" {
+resource "aws_api_gateway_documentation_part" "clothing_other_model" {
   location {
-    name   = "ClothingShoeDelete"
-    type   = "MODEL"
+    name = "ClothingOther"
+    type = "MODEL"
   }
-  properties  = file("./src/clothing_shoe/api_gateway/documentation_part/method/request_body/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/model/clothing_other/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_shoe
-// animal_crossing/clothing_shoe GET MODEL
-resource "aws_api_gateway_documentation_part" "clothing_shoe_GET_model" {
+resource "aws_api_gateway_documentation_part" "clothing_other_model_collection" {
   location {
-    name   = "ClothingShoeGet"
-    type   = "MODEL"
+    name = "ClothingOtherCollection"
+    type = "MODEL"
   }
-  properties  = file("./src/clothing_shoe/api_gateway/documentation_part/method/request_body/GET/model_collection.json")
+  properties  = templatefile("./src/api_gateway/documentation_part/model/clothing_other/documentation_collection.json", {
+    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  })
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_shoe
-// animal_crossing/clothing_shoe METHOD
-resource "aws_api_gateway_documentation_part" "clothing_shoe_DELETE" {
+resource "aws_api_gateway_documentation_part" "clothing_shoe" {
   location {
-    method = "DELETE"
-    path   = "/clothing_shoe"
-    type   = "METHOD"
+    path = "clothing_shoe"
+    type = "RESOURCE"
   }
-  properties  = file("./src/clothing_shoe/api_gateway/documentation_part/method/request/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/resource/clothing_shoe/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_shoe
-// animal_crossing/clothing_shoe METHOD
 resource "aws_api_gateway_documentation_part" "clothing_shoe_GET" {
   location {
     method = "GET"
     path   = "/clothing_shoe"
     type   = "METHOD"
   }
-  properties  = file("./src/clothing_shoe/api_gateway/documentation_part/method/request/GET/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/clothing_shoe/get/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_shoe
-// animal_crossing/clothing_shoe METHOD
-resource "aws_api_gateway_documentation_part" "clothing_shoe_PATCH" {
+resource "aws_api_gateway_documentation_part" "clothing_shoe_GET_200" {
   location {
-    method = "PATCH"
-    path   = "/clothing_shoe"
-    type   = "METHOD"
+    method      = "GET"
+    path        = "/clothing_shoe"
+    status_code = "200"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/clothing_shoe/api_gateway/documentation_part/method/request/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/clothing_shoe/get/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_shoe
-// animal_crossing/clothing_shoe METHOD
+resource "aws_api_gateway_documentation_part" "clothing_shoe_GET_request_body" {
+  location {
+    method = "GET"
+    path   = "/clothing_shoe"
+    type   = "REQUEST_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/request_body/clothing_shoe/get/documentation.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
+resource "aws_api_gateway_documentation_part" "clothing_shoe_GET_response_body_200" {
+  location {
+    method      = "GET"
+    path        = "/clothing_shoe"
+    status_code = "200"
+    type        = "RESPONSE_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/response_body/clothing_shoe/get/200.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
 resource "aws_api_gateway_documentation_part" "clothing_shoe_POST" {
   location {
     method = "POST"
     path   = "/clothing_shoe"
     type   = "METHOD"
   }
-  properties  = file("./src/clothing_shoe/api_gateway/documentation_part/method/request/POST/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/clothing_shoe/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_shoe
-// animal_crossing/clothing_shoe PATCH MODEL
-resource "aws_api_gateway_documentation_part" "clothing_shoe_PATCH_model" {
+resource "aws_api_gateway_documentation_part" "clothing_shoe_POST_201" {
   location {
-    name   = "ClothingShoePatch"
-    type   = "MODEL"
+    method      = "POST"
+    path        = "/clothing_shoe"
+    status_code = "201"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/clothing_shoe/api_gateway/documentation_part/method/request_body/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/clothing_shoe/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_shoe
-// animal_crossing/clothing_shoe POST MODEL
-resource "aws_api_gateway_documentation_part" "clothing_shoe_POST_model" {
+resource "aws_api_gateway_documentation_part" "clothing_shoe_POST_request_body" {
   location {
-    name   = "ClothingShoePost"
-    type   = "MODEL"
-  }
-  properties  = file("./src/clothing_shoe/api_gateway/documentation_part/method/request_body/POST/model_collection.json")
-  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
-}
-
-// clothing_shoe
-// animal_crossing/clothing_shoe RESOURCE
-resource "aws_api_gateway_documentation_part" "clothing_shoe" {
-  location {
+    method = "POST"
     path   = "/clothing_shoe"
-    type   = "RESOURCE"
+    type   = "REQUEST_BODY"
   }
-  properties  = file("./src/clothing_shoe/api_gateway/documentation_part/resource/resources.json")
+  properties  = file("./src/api_gateway/documentation_part/request_body/clothing_shoe/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_shoe
-// animal_crossing/clothing_shoe/{id} RESOURCE
-resource "aws_api_gateway_documentation_part" "clothing_shoe_id" {
+resource "aws_api_gateway_documentation_part" "clothing_shoe_POST_response_body_201" {
   location {
-    path   = "/clothing_shoe/{id}"
-    type   = "RESOURCE"
+    method      = "POST"
+    path        = "/clothing_shoe"
+    status_code = "201"
+    type        = "RESPONSE_BODY"
   }
-  properties  = file("./src/clothing_shoe/api_gateway/documentation_part/resource/resource.json")
+  properties  = file("./src/api_gateway/documentation_part/response_body/clothing_shoe/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_sock
-// animal_crossing/clothing_sock DELETE MODEL
-resource "aws_api_gateway_documentation_part" "clothing_sock_DELETE_model" {
+resource "aws_api_gateway_documentation_part" "clothing_shoe_model" {
   location {
-    name   = "ClothingSockDelete"
-    type   = "MODEL"
+    name = "ClothingShoe"
+    type = "MODEL"
   }
-  properties  = file("./src/clothing_sock/api_gateway/documentation_part/method/request_body/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/model/clothing_shoe/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_sock
-// animal_crossing/clothing_sock GET MODEL
-resource "aws_api_gateway_documentation_part" "clothing_sock_GET_model" {
+resource "aws_api_gateway_documentation_part" "clothing_shoe_model_collection" {
   location {
-    name   = "ClothingSockGet"
-    type   = "MODEL"
+    name = "ClothingShoeCollection"
+    type = "MODEL"
   }
-  properties  = file("./src/clothing_sock/api_gateway/documentation_part/method/request_body/GET/model_collection.json")
+  properties  = templatefile("./src/api_gateway/documentation_part/model/clothing_shoe/documentation_collection.json", {
+    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  })
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_sock
-// animal_crossing/clothing_sock METHOD
-resource "aws_api_gateway_documentation_part" "clothing_sock_DELETE" {
+resource "aws_api_gateway_documentation_part" "clothing_sock" {
   location {
-    method = "DELETE"
-    path   = "/clothing_sock"
-    type   = "METHOD"
+    path = "clothing_sock"
+    type = "RESOURCE"
   }
-  properties  = file("./src/clothing_sock/api_gateway/documentation_part/method/request/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/resource/clothing_sock/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_sock
-// animal_crossing/clothing_sock METHOD
 resource "aws_api_gateway_documentation_part" "clothing_sock_GET" {
   location {
     method = "GET"
     path   = "/clothing_sock"
     type   = "METHOD"
   }
-  properties  = file("./src/clothing_sock/api_gateway/documentation_part/method/request/GET/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/clothing_sock/get/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_sock
-// animal_crossing/clothing_sock METHOD
-resource "aws_api_gateway_documentation_part" "clothing_sock_PATCH" {
+resource "aws_api_gateway_documentation_part" "clothing_sock_GET_200" {
   location {
-    method = "PATCH"
-    path   = "/clothing_sock"
-    type   = "METHOD"
+    method      = "GET"
+    path        = "/clothing_sock"
+    status_code = "200"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/clothing_sock/api_gateway/documentation_part/method/request/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/clothing_sock/get/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_sock
-// animal_crossing/clothing_sock METHOD
+resource "aws_api_gateway_documentation_part" "clothing_sock_GET_request_body" {
+  location {
+    method = "GET"
+    path   = "/clothing_sock"
+    type   = "REQUEST_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/request_body/clothing_sock/get/documentation.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
+resource "aws_api_gateway_documentation_part" "clothing_sock_GET_response_body_200" {
+  location {
+    method      = "GET"
+    path        = "/clothing_sock"
+    status_code = "200"
+    type        = "RESPONSE_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/response_body/clothing_sock/get/200.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
 resource "aws_api_gateway_documentation_part" "clothing_sock_POST" {
   location {
     method = "POST"
     path   = "/clothing_sock"
     type   = "METHOD"
   }
-  properties  = file("./src/clothing_sock/api_gateway/documentation_part/method/request/POST/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/clothing_sock/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_sock
-// animal_crossing/clothing_sock PATCH MODEL
-resource "aws_api_gateway_documentation_part" "clothing_sock_PATCH_model" {
+resource "aws_api_gateway_documentation_part" "clothing_sock_POST_201" {
   location {
-    name   = "ClothingSockPatch"
-    type   = "MODEL"
+    method      = "POST"
+    path        = "/clothing_sock"
+    status_code = "201"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/clothing_sock/api_gateway/documentation_part/method/request_body/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/clothing_sock/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_sock
-// animal_crossing/clothing_sock POST MODEL
-resource "aws_api_gateway_documentation_part" "clothing_sock_POST_model" {
+resource "aws_api_gateway_documentation_part" "clothing_sock_POST_request_body" {
   location {
-    name   = "ClothingSockPost"
-    type   = "MODEL"
-  }
-  properties  = file("./src/clothing_sock/api_gateway/documentation_part/method/request_body/POST/model_collection.json")
-  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
-}
-
-// clothing_sock
-// animal_crossing/clothing_sock RESOURCE
-resource "aws_api_gateway_documentation_part" "clothing_sock" {
-  location {
+    method = "POST"
     path   = "/clothing_sock"
-    type   = "RESOURCE"
+    type   = "REQUEST_BODY"
   }
-  properties  = file("./src/clothing_sock/api_gateway/documentation_part/resource/resources.json")
+  properties  = file("./src/api_gateway/documentation_part/request_body/clothing_sock/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_sock
-// animal_crossing/clothing_sock/{id} RESOURCE
-resource "aws_api_gateway_documentation_part" "clothing_sock_id" {
+resource "aws_api_gateway_documentation_part" "clothing_sock_POST_response_body_201" {
   location {
-    path   = "/clothing_sock/{id}"
-    type   = "RESOURCE"
+    method      = "POST"
+    path        = "/clothing_sock"
+    status_code = "201"
+    type        = "RESPONSE_BODY"
   }
-  properties  = file("./src/clothing_sock/api_gateway/documentation_part/resource/resource.json")
+  properties  = file("./src/api_gateway/documentation_part/response_body/clothing_sock/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_top
-// animal_crossing/clothing_top DELETE MODEL
-resource "aws_api_gateway_documentation_part" "clothing_top_DELETE_model" {
+resource "aws_api_gateway_documentation_part" "clothing_sock_model" {
   location {
-    name   = "ClothingTopDelete"
-    type   = "MODEL"
+    name = "ClothingSock"
+    type = "MODEL"
   }
-  properties  = file("./src/clothing_top/api_gateway/documentation_part/method/request_body/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/model/clothing_sock/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_top
-// animal_crossing/clothing_top GET MODEL
-resource "aws_api_gateway_documentation_part" "clothing_top_GET_model" {
+resource "aws_api_gateway_documentation_part" "clothing_sock_model_collection" {
   location {
-    name   = "ClothingTopGet"
-    type   = "MODEL"
+    name = "ClothingSockCollection"
+    type = "MODEL"
   }
-  properties  = file("./src/clothing_top/api_gateway/documentation_part/method/request_body/GET/model_collection.json")
+  properties  = templatefile("./src/api_gateway/documentation_part/model/clothing_sock/documentation_collection.json", {
+    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  })
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_top
-// animal_crossing/clothing_top METHOD
-resource "aws_api_gateway_documentation_part" "clothing_top_DELETE" {
+resource "aws_api_gateway_documentation_part" "clothing_top" {
   location {
-    method = "DELETE"
-    path   = "/clothing_top"
-    type   = "METHOD"
+    path = "clothing_top"
+    type = "RESOURCE"
   }
-  properties  = file("./src/clothing_top/api_gateway/documentation_part/method/request/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/resource/clothing_top/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_top
-// animal_crossing/clothing_top METHOD
 resource "aws_api_gateway_documentation_part" "clothing_top_GET" {
   location {
     method = "GET"
     path   = "/clothing_top"
     type   = "METHOD"
   }
-  properties  = file("./src/clothing_top/api_gateway/documentation_part/method/request/GET/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/clothing_top/get/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_top
-// animal_crossing/clothing_top METHOD
-resource "aws_api_gateway_documentation_part" "clothing_top_PATCH" {
+resource "aws_api_gateway_documentation_part" "clothing_top_GET_200" {
   location {
-    method = "PATCH"
-    path   = "/clothing_top"
-    type   = "METHOD"
+    method      = "GET"
+    path        = "/clothing_top"
+    status_code = "200"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/clothing_top/api_gateway/documentation_part/method/request/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/clothing_top/get/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_top
-// animal_crossing/clothing_top METHOD
+resource "aws_api_gateway_documentation_part" "clothing_top_GET_request_body" {
+  location {
+    method = "GET"
+    path   = "/clothing_top"
+    type   = "REQUEST_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/request_body/clothing_top/get/documentation.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
+resource "aws_api_gateway_documentation_part" "clothing_top_GET_response_body_200" {
+  location {
+    method      = "GET"
+    path        = "/clothing_top"
+    status_code = "200"
+    type        = "RESPONSE_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/response_body/clothing_top/get/200.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
 resource "aws_api_gateway_documentation_part" "clothing_top_POST" {
   location {
     method = "POST"
     path   = "/clothing_top"
     type   = "METHOD"
   }
-  properties  = file("./src/clothing_top/api_gateway/documentation_part/method/request/POST/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/clothing_top/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_top
-// animal_crossing/clothing_top PATCH MODEL
-resource "aws_api_gateway_documentation_part" "clothing_top_PATCH_model" {
+resource "aws_api_gateway_documentation_part" "clothing_top_POST_201" {
   location {
-    name   = "ClothingTopPatch"
-    type   = "MODEL"
+    method      = "POST"
+    path        = "/clothing_top"
+    status_code = "201"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/clothing_top/api_gateway/documentation_part/method/request_body/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/clothing_top/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_top
-// animal_crossing/clothing_top POST MODEL
-resource "aws_api_gateway_documentation_part" "clothing_top_POST_model" {
+resource "aws_api_gateway_documentation_part" "clothing_top_POST_request_body" {
   location {
-    name   = "ClothingTopPost"
-    type   = "MODEL"
-  }
-  properties  = file("./src/clothing_top/api_gateway/documentation_part/method/request_body/POST/model_collection.json")
-  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
-}
-
-// clothing_top
-// animal_crossing/clothing_top RESOURCE
-resource "aws_api_gateway_documentation_part" "clothing_top" {
-  location {
+    method = "POST"
     path   = "/clothing_top"
-    type   = "RESOURCE"
+    type   = "REQUEST_BODY"
   }
-  properties  = file("./src/clothing_top/api_gateway/documentation_part/resource/resources.json")
+  properties  = file("./src/api_gateway/documentation_part/request_body/clothing_top/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_top
-// animal_crossing/clothing_top/{id} RESOURCE
-resource "aws_api_gateway_documentation_part" "clothing_top_id" {
+resource "aws_api_gateway_documentation_part" "clothing_top_POST_response_body_201" {
   location {
-    path   = "/clothing_top/{id}"
-    type   = "RESOURCE"
+    method      = "POST"
+    path        = "/clothing_top"
+    status_code = "201"
+    type        = "RESPONSE_BODY"
   }
-  properties  = file("./src/clothing_top/api_gateway/documentation_part/resource/resource.json")
+  properties  = file("./src/api_gateway/documentation_part/response_body/clothing_top/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_umbrella
-// animal_crossing/clothing_umbrella DELETE MODEL
-resource "aws_api_gateway_documentation_part" "clothing_umbrella_DELETE_model" {
+resource "aws_api_gateway_documentation_part" "clothing_top_model" {
   location {
-    name   = "ClothingUmbrellaDelete"
-    type   = "MODEL"
+    name = "ClothingTop"
+    type = "MODEL"
   }
-  properties  = file("./src/clothing_umbrella/api_gateway/documentation_part/method/request_body/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/model/clothing_top/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_umbrella
-// animal_crossing/clothing_umbrella GET MODEL
-resource "aws_api_gateway_documentation_part" "clothing_umbrella_GET_model" {
+resource "aws_api_gateway_documentation_part" "clothing_top_model_collection" {
   location {
-    name   = "ClothingUmbrellaGet"
-    type   = "MODEL"
+    name = "ClothingTopCollection"
+    type = "MODEL"
   }
-  properties  = file("./src/clothing_umbrella/api_gateway/documentation_part/method/request_body/GET/model_collection.json")
+  properties  = templatefile("./src/api_gateway/documentation_part/model/clothing_top/documentation_collection.json", {
+    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  })
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_umbrella
-// animal_crossing/clothing_umbrella METHOD
-resource "aws_api_gateway_documentation_part" "clothing_umbrella_DELETE" {
+resource "aws_api_gateway_documentation_part" "clothing_umbrella" {
   location {
-    method = "DELETE"
-    path   = "/clothing_umbrella"
-    type   = "METHOD"
+    path = "clothing_umbrella"
+    type = "RESOURCE"
   }
-  properties  = file("./src/clothing_umbrella/api_gateway/documentation_part/method/request/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/resource/clothing_umbrella/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_umbrella
-// animal_crossing/clothing_umbrella METHOD
 resource "aws_api_gateway_documentation_part" "clothing_umbrella_GET" {
   location {
     method = "GET"
     path   = "/clothing_umbrella"
     type   = "METHOD"
   }
-  properties  = file("./src/clothing_umbrella/api_gateway/documentation_part/method/request/GET/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/clothing_umbrella/get/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_umbrella
-// animal_crossing/clothing_umbrella METHOD
-resource "aws_api_gateway_documentation_part" "clothing_umbrella_PATCH" {
+resource "aws_api_gateway_documentation_part" "clothing_umbrella_GET_200" {
   location {
-    method = "PATCH"
-    path   = "/clothing_umbrella"
-    type   = "METHOD"
+    method      = "GET"
+    path        = "/clothing_umbrella"
+    status_code = "200"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/clothing_umbrella/api_gateway/documentation_part/method/request/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/clothing_umbrella/get/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_umbrella
-// animal_crossing/clothing_umbrella METHOD
+resource "aws_api_gateway_documentation_part" "clothing_umbrella_GET_request_body" {
+  location {
+    method = "GET"
+    path   = "/clothing_umbrella"
+    type   = "REQUEST_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/request_body/clothing_umbrella/get/documentation.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
+resource "aws_api_gateway_documentation_part" "clothing_umbrella_GET_response_body_200" {
+  location {
+    method      = "GET"
+    path        = "/clothing_umbrella"
+    status_code = "200"
+    type        = "RESPONSE_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/response_body/clothing_umbrella/get/200.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
 resource "aws_api_gateway_documentation_part" "clothing_umbrella_POST" {
   location {
     method = "POST"
     path   = "/clothing_umbrella"
     type   = "METHOD"
   }
-  properties  = file("./src/clothing_umbrella/api_gateway/documentation_part/method/request/POST/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/clothing_umbrella/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_umbrella
-// animal_crossing/clothing_umbrella PATCH MODEL
-resource "aws_api_gateway_documentation_part" "clothing_umbrella_PATCH_model" {
+resource "aws_api_gateway_documentation_part" "clothing_umbrella_POST_201" {
   location {
-    name   = "ClothingUmbrellaPatch"
-    type   = "MODEL"
+    method      = "POST"
+    path        = "/clothing_umbrella"
+    status_code = "201"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/clothing_umbrella/api_gateway/documentation_part/method/request_body/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/clothing_umbrella/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_umbrella
-// animal_crossing/clothing_umbrella POST MODEL
-resource "aws_api_gateway_documentation_part" "clothing_umbrella_POST_model" {
+resource "aws_api_gateway_documentation_part" "clothing_umbrella_POST_request_body" {
   location {
-    name   = "ClothingUmbrellaPost"
-    type   = "MODEL"
-  }
-  properties  = file("./src/clothing_umbrella/api_gateway/documentation_part/method/request_body/POST/model_collection.json")
-  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
-}
-
-// clothing_umbrella
-// animal_crossing/clothing_umbrella RESOURCE
-resource "aws_api_gateway_documentation_part" "clothing_umbrella" {
-  location {
+    method = "POST"
     path   = "/clothing_umbrella"
-    type   = "RESOURCE"
+    type   = "REQUEST_BODY"
   }
-  properties  = file("./src/clothing_umbrella/api_gateway/documentation_part/resource/resources.json")
+  properties  = file("./src/api_gateway/documentation_part/request_body/clothing_umbrella/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// clothing_umbrella
-// animal_crossing/clothing_umbrella/{id} RESOURCE
-resource "aws_api_gateway_documentation_part" "clothing_umbrella_id" {
+resource "aws_api_gateway_documentation_part" "clothing_umbrella_POST_response_body_201" {
   location {
-    path   = "/clothing_umbrella/{id}"
-    type   = "RESOURCE"
+    method      = "POST"
+    path        = "/clothing_umbrella"
+    status_code = "201"
+    type        = "RESPONSE_BODY"
   }
-  properties  = file("./src/clothing_umbrella/api_gateway/documentation_part/resource/resource.json")
+  properties  = file("./src/api_gateway/documentation_part/response_body/clothing_umbrella/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// construction
-// animal_crossing/construction DELETE MODEL
-resource "aws_api_gateway_documentation_part" "construction_DELETE_model" {
+resource "aws_api_gateway_documentation_part" "clothing_umbrella_model" {
   location {
-    name   = "ConstructionDelete"
-    type   = "MODEL"
+    name = "ClothingUmbrella"
+    type = "MODEL"
   }
-  properties  = file("./src/construction/api_gateway/documentation_part/method/request_body/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/model/clothing_umbrella/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// construction
-// animal_crossing/construction GET MODEL
-resource "aws_api_gateway_documentation_part" "construction_GET_model" {
+resource "aws_api_gateway_documentation_part" "clothing_umbrella_model_collection" {
   location {
-    name   = "ConstructionGet"
-    type   = "MODEL"
+    name = "ClothingUmbrellaCollection"
+    type = "MODEL"
   }
-  properties  = file("./src/construction/api_gateway/documentation_part/method/request_body/GET/model_collection.json")
+  properties  = templatefile("./src/api_gateway/documentation_part/model/clothing_umbrella/documentation_collection.json", {
+    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  })
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// construction
-// animal_crossing/construction METHOD
-resource "aws_api_gateway_documentation_part" "construction_DELETE" {
+resource "aws_api_gateway_documentation_part" "construction" {
   location {
-    method = "DELETE"
-    path   = "/construction"
-    type   = "METHOD"
+    path = "construction"
+    type = "RESOURCE"
   }
-  properties  = file("./src/construction/api_gateway/documentation_part/method/request/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/resource/construction/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// construction
-// animal_crossing/construction METHOD
 resource "aws_api_gateway_documentation_part" "construction_GET" {
   location {
     method = "GET"
     path   = "/construction"
     type   = "METHOD"
   }
-  properties  = file("./src/construction/api_gateway/documentation_part/method/request/GET/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/construction/get/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// construction
-// animal_crossing/construction METHOD
-resource "aws_api_gateway_documentation_part" "construction_PATCH" {
+resource "aws_api_gateway_documentation_part" "construction_GET_200" {
   location {
-    method = "PATCH"
-    path   = "/construction"
-    type   = "METHOD"
+    method      = "GET"
+    path        = "/construction"
+    status_code = "200"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/construction/api_gateway/documentation_part/method/request/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/construction/get/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// construction
-// animal_crossing/construction METHOD
+resource "aws_api_gateway_documentation_part" "construction_GET_request_body" {
+  location {
+    method = "GET"
+    path   = "/construction"
+    type   = "REQUEST_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/request_body/construction/get/documentation.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
+resource "aws_api_gateway_documentation_part" "construction_GET_response_body_200" {
+  location {
+    method      = "GET"
+    path        = "/construction"
+    status_code = "200"
+    type        = "RESPONSE_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/response_body/construction/get/200.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
 resource "aws_api_gateway_documentation_part" "construction_POST" {
   location {
     method = "POST"
     path   = "/construction"
     type   = "METHOD"
   }
-  properties  = file("./src/construction/api_gateway/documentation_part/method/request/POST/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/construction/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// construction
-// animal_crossing/construction PATCH MODEL
-resource "aws_api_gateway_documentation_part" "construction_PATCH_model" {
+resource "aws_api_gateway_documentation_part" "construction_POST_201" {
   location {
-    name   = "ConstructionPatch"
-    type   = "MODEL"
+    method      = "POST"
+    path        = "/construction"
+    status_code = "201"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/construction/api_gateway/documentation_part/method/request_body/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/construction/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// construction
-// animal_crossing/construction POST MODEL
-resource "aws_api_gateway_documentation_part" "construction_POST_model" {
+resource "aws_api_gateway_documentation_part" "construction_POST_request_body" {
   location {
-    name   = "ConstructionPost"
-    type   = "MODEL"
-  }
-  properties  = file("./src/construction/api_gateway/documentation_part/method/request_body/POST/model_collection.json")
-  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
-}
-
-// construction
-// animal_crossing/construction RESOURCE
-resource "aws_api_gateway_documentation_part" "construction" {
-  location {
+    method = "POST"
     path   = "/construction"
-    type   = "RESOURCE"
+    type   = "REQUEST_BODY"
   }
-  properties  = file("./src/construction/api_gateway/documentation_part/resource/resources.json")
+  properties  = file("./src/api_gateway/documentation_part/request_body/construction/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// construction
-// animal_crossing/construction/{id} RESOURCE
-resource "aws_api_gateway_documentation_part" "construction_id" {
+resource "aws_api_gateway_documentation_part" "construction_POST_response_body_201" {
   location {
-    path   = "/construction/{id}"
-    type   = "RESOURCE"
+    method      = "POST"
+    path        = "/construction"
+    status_code = "201"
+    type        = "RESPONSE_BODY"
   }
-  properties  = file("./src/construction/api_gateway/documentation_part/resource/resource.json")
+  properties  = file("./src/api_gateway/documentation_part/response_body/construction/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// creature_fish
-// animal_crossing/creature_fish DELETE MODEL
-resource "aws_api_gateway_documentation_part" "creature_fish_DELETE_model" {
+resource "aws_api_gateway_documentation_part" "construction_model" {
   location {
-    name   = "CreatureFishDelete"
-    type   = "MODEL"
+    name = "Construction"
+    type = "MODEL"
   }
-  properties  = file("./src/creature_fish/api_gateway/documentation_part/method/request_body/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/model/construction/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// creature_fish
-// animal_crossing/creature_fish GET MODEL
-resource "aws_api_gateway_documentation_part" "creature_fish_GET_model" {
+resource "aws_api_gateway_documentation_part" "construction_model_collection" {
   location {
-    name   = "CreatureFishGet"
-    type   = "MODEL"
+    name = "ConstructionCollection"
+    type = "MODEL"
   }
-  properties  = file("./src/creature_fish/api_gateway/documentation_part/method/request_body/GET/model_collection.json")
+  properties  = templatefile("./src/api_gateway/documentation_part/model/construction/documentation_collection.json", {
+    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  })
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// creature_fish
-// animal_crossing/creature_fish METHOD
-resource "aws_api_gateway_documentation_part" "creature_fish_DELETE" {
+resource "aws_api_gateway_documentation_part" "creature_fish" {
   location {
-    method = "DELETE"
-    path   = "/creature_fish"
-    type   = "METHOD"
+    path = "creature_fish"
+    type = "RESOURCE"
   }
-  properties  = file("./src/creature_fish/api_gateway/documentation_part/method/request/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/resource/creature_fish/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// creature_fish
-// animal_crossing/creature_fish METHOD
 resource "aws_api_gateway_documentation_part" "creature_fish_GET" {
   location {
     method = "GET"
     path   = "/creature_fish"
     type   = "METHOD"
   }
-  properties  = file("./src/creature_fish/api_gateway/documentation_part/method/request/GET/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/creature_fish/get/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// creature_fish
-// animal_crossing/creature_fish METHOD
-resource "aws_api_gateway_documentation_part" "creature_fish_PATCH" {
+resource "aws_api_gateway_documentation_part" "creature_fish_GET_200" {
   location {
-    method = "PATCH"
-    path   = "/creature_fish"
-    type   = "METHOD"
+    method      = "GET"
+    path        = "/creature_fish"
+    status_code = "200"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/creature_fish/api_gateway/documentation_part/method/request/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/creature_fish/get/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// creature_fish
-// animal_crossing/creature_fish METHOD
+resource "aws_api_gateway_documentation_part" "creature_fish_GET_request_body" {
+  location {
+    method = "GET"
+    path   = "/creature_fish"
+    type   = "REQUEST_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/request_body/creature_fish/get/documentation.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
+resource "aws_api_gateway_documentation_part" "creature_fish_GET_response_body_200" {
+  location {
+    method      = "GET"
+    path        = "/creature_fish"
+    status_code = "200"
+    type        = "RESPONSE_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/response_body/creature_fish/get/200.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
 resource "aws_api_gateway_documentation_part" "creature_fish_POST" {
   location {
     method = "POST"
     path   = "/creature_fish"
     type   = "METHOD"
   }
-  properties  = file("./src/creature_fish/api_gateway/documentation_part/method/request/POST/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/creature_fish/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// creature_fish
-// animal_crossing/creature_fish PATCH MODEL
-resource "aws_api_gateway_documentation_part" "creature_fish_PATCH_model" {
+resource "aws_api_gateway_documentation_part" "creature_fish_POST_201" {
   location {
-    name   = "CreatureFishPatch"
-    type   = "MODEL"
+    method      = "POST"
+    path        = "/creature_fish"
+    status_code = "201"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/creature_fish/api_gateway/documentation_part/method/request_body/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/creature_fish/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// creature_fish
-// animal_crossing/creature_fish POST MODEL
-resource "aws_api_gateway_documentation_part" "creature_fish_POST_model" {
+resource "aws_api_gateway_documentation_part" "creature_fish_POST_request_body" {
   location {
-    name   = "CreatureFishPost"
-    type   = "MODEL"
-  }
-  properties  = file("./src/creature_fish/api_gateway/documentation_part/method/request_body/POST/model_collection.json")
-  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
-}
-
-// creature_fish
-// animal_crossing/creature_fish RESOURCE
-resource "aws_api_gateway_documentation_part" "creature_fish" {
-  location {
+    method = "POST"
     path   = "/creature_fish"
-    type   = "RESOURCE"
+    type   = "REQUEST_BODY"
   }
-  properties  = file("./src/creature_fish/api_gateway/documentation_part/resource/resources.json")
+  properties  = file("./src/api_gateway/documentation_part/request_body/creature_fish/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// creature_fish
-// animal_crossing/creature_fish/{id} RESOURCE
-resource "aws_api_gateway_documentation_part" "creature_fish_id" {
+resource "aws_api_gateway_documentation_part" "creature_fish_POST_response_body_201" {
   location {
-    path   = "/creature_fish/{id}"
-    type   = "RESOURCE"
+    method      = "POST"
+    path        = "/creature_fish"
+    status_code = "201"
+    type        = "RESPONSE_BODY"
   }
-  properties  = file("./src/creature_fish/api_gateway/documentation_part/resource/resource.json")
+  properties  = file("./src/api_gateway/documentation_part/response_body/creature_fish/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// creature_insect
-// animal_crossing/creature_insect DELETE MODEL
-resource "aws_api_gateway_documentation_part" "creature_insect_DELETE_model" {
+resource "aws_api_gateway_documentation_part" "creature_fish_model" {
   location {
-    name   = "CreatureInsectDelete"
-    type   = "MODEL"
+    name = "CreatureFish"
+    type = "MODEL"
   }
-  properties  = file("./src/creature_insect/api_gateway/documentation_part/method/request_body/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/model/creature_fish/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// creature_insect
-// animal_crossing/creature_insect GET MODEL
-resource "aws_api_gateway_documentation_part" "creature_insect_GET_model" {
+resource "aws_api_gateway_documentation_part" "creature_fish_model_collection" {
   location {
-    name   = "CreatureInsectGet"
-    type   = "MODEL"
+    name = "CreatureFishCollection"
+    type = "MODEL"
   }
-  properties  = file("./src/creature_insect/api_gateway/documentation_part/method/request_body/GET/model_collection.json")
+  properties  = templatefile("./src/api_gateway/documentation_part/model/creature_fish/documentation_collection.json", {
+    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  })
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// creature_insect
-// animal_crossing/creature_insect METHOD
-resource "aws_api_gateway_documentation_part" "creature_insect_DELETE" {
+resource "aws_api_gateway_documentation_part" "creature_insect" {
   location {
-    method = "DELETE"
-    path   = "/creature_insect"
-    type   = "METHOD"
+    path = "creature_insect"
+    type = "RESOURCE"
   }
-  properties  = file("./src/creature_insect/api_gateway/documentation_part/method/request/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/resource/creature_insect/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// creature_insect
-// animal_crossing/creature_insect METHOD
 resource "aws_api_gateway_documentation_part" "creature_insect_GET" {
   location {
     method = "GET"
     path   = "/creature_insect"
     type   = "METHOD"
   }
-  properties  = file("./src/creature_insect/api_gateway/documentation_part/method/request/GET/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/creature_insect/get/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// creature_insect
-// animal_crossing/creature_insect METHOD
-resource "aws_api_gateway_documentation_part" "creature_insect_PATCH" {
+resource "aws_api_gateway_documentation_part" "creature_insect_GET_200" {
   location {
-    method = "PATCH"
-    path   = "/creature_insect"
-    type   = "METHOD"
+    method      = "GET"
+    path        = "/creature_insect"
+    status_code = "200"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/creature_insect/api_gateway/documentation_part/method/request/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/creature_insect/get/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// creature_insect
-// animal_crossing/creature_insect METHOD
+resource "aws_api_gateway_documentation_part" "creature_insect_GET_request_body" {
+  location {
+    method = "GET"
+    path   = "/creature_insect"
+    type   = "REQUEST_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/request_body/creature_insect/get/documentation.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
+resource "aws_api_gateway_documentation_part" "creature_insect_GET_response_body_200" {
+  location {
+    method      = "GET"
+    path        = "/creature_insect"
+    status_code = "200"
+    type        = "RESPONSE_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/response_body/creature_insect/get/200.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
 resource "aws_api_gateway_documentation_part" "creature_insect_POST" {
   location {
     method = "POST"
     path   = "/creature_insect"
     type   = "METHOD"
   }
-  properties  = file("./src/creature_insect/api_gateway/documentation_part/method/request/POST/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/creature_insect/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// creature_insect
-// animal_crossing/creature_insect PATCH MODEL
-resource "aws_api_gateway_documentation_part" "creature_insect_PATCH_model" {
+resource "aws_api_gateway_documentation_part" "creature_insect_POST_201" {
   location {
-    name   = "CreatureInsectPatch"
-    type   = "MODEL"
+    method      = "POST"
+    path        = "/creature_insect"
+    status_code = "201"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/creature_insect/api_gateway/documentation_part/method/request_body/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/creature_insect/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// creature_insect
-// animal_crossing/creature_insect POST MODEL
-resource "aws_api_gateway_documentation_part" "creature_insect_POST_model" {
+resource "aws_api_gateway_documentation_part" "creature_insect_POST_request_body" {
   location {
-    name   = "CreatureInsectPost"
-    type   = "MODEL"
-  }
-  properties  = file("./src/creature_insect/api_gateway/documentation_part/method/request_body/POST/model_collection.json")
-  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
-}
-
-// creature_insect
-// animal_crossing/creature_insect RESOURCE
-resource "aws_api_gateway_documentation_part" "creature_insect" {
-  location {
+    method = "POST"
     path   = "/creature_insect"
-    type   = "RESOURCE"
+    type   = "REQUEST_BODY"
   }
-  properties  = file("./src/creature_insect/api_gateway/documentation_part/resource/resources.json")
+  properties  = file("./src/api_gateway/documentation_part/request_body/creature_insect/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// creature_insect
-// animal_crossing/creature_insect/{id} RESOURCE
-resource "aws_api_gateway_documentation_part" "creature_insect_id" {
+resource "aws_api_gateway_documentation_part" "creature_insect_POST_response_body_201" {
   location {
-    path   = "/creature_insect/{id}"
-    type   = "RESOURCE"
+    method      = "POST"
+    path        = "/creature_insect"
+    status_code = "201"
+    type        = "RESPONSE_BODY"
   }
-  properties  = file("./src/creature_insect/api_gateway/documentation_part/resource/resource.json")
+  properties  = file("./src/api_gateway/documentation_part/response_body/creature_insect/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// creature_sea
-// animal_crossing/creature_sea DELETE MODEL
-resource "aws_api_gateway_documentation_part" "creature_sea_DELETE_model" {
+resource "aws_api_gateway_documentation_part" "creature_insect_model" {
   location {
-    name   = "CreatureSeaDelete"
-    type   = "MODEL"
+    name = "CreatureInsect"
+    type = "MODEL"
   }
-  properties  = file("./src/creature_sea/api_gateway/documentation_part/method/request_body/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/model/creature_insect/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// creature_sea
-// animal_crossing/creature_sea GET MODEL
-resource "aws_api_gateway_documentation_part" "creature_sea_GET_model" {
+resource "aws_api_gateway_documentation_part" "creature_insect_model_collection" {
   location {
-    name   = "CreatureSeaGet"
-    type   = "MODEL"
+    name = "CreatureInsectCollection"
+    type = "MODEL"
   }
-  properties  = file("./src/creature_sea/api_gateway/documentation_part/method/request_body/GET/model_collection.json")
+  properties  = templatefile("./src/api_gateway/documentation_part/model/creature_insect/documentation_collection.json", {
+    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  })
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// creature_sea
-// animal_crossing/creature_sea METHOD
-resource "aws_api_gateway_documentation_part" "creature_sea_DELETE" {
+resource "aws_api_gateway_documentation_part" "creature_sea" {
   location {
-    method = "DELETE"
-    path   = "/creature_sea"
-    type   = "METHOD"
+    path = "creature_sea"
+    type = "RESOURCE"
   }
-  properties  = file("./src/creature_sea/api_gateway/documentation_part/method/request/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/resource/creature_sea/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// creature_sea
-// animal_crossing/creature_sea METHOD
 resource "aws_api_gateway_documentation_part" "creature_sea_GET" {
   location {
     method = "GET"
     path   = "/creature_sea"
     type   = "METHOD"
   }
-  properties  = file("./src/creature_sea/api_gateway/documentation_part/method/request/GET/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/creature_sea/get/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// creature_sea
-// animal_crossing/creature_sea METHOD
-resource "aws_api_gateway_documentation_part" "creature_sea_PATCH" {
+resource "aws_api_gateway_documentation_part" "creature_sea_GET_200" {
   location {
-    method = "PATCH"
-    path   = "/creature_sea"
-    type   = "METHOD"
+    method      = "GET"
+    path        = "/creature_sea"
+    status_code = "200"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/creature_sea/api_gateway/documentation_part/method/request/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/creature_sea/get/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// creature_sea
-// animal_crossing/creature_sea METHOD
+resource "aws_api_gateway_documentation_part" "creature_sea_GET_request_body" {
+  location {
+    method = "GET"
+    path   = "/creature_sea"
+    type   = "REQUEST_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/request_body/creature_sea/get/documentation.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
+resource "aws_api_gateway_documentation_part" "creature_sea_GET_response_body_200" {
+  location {
+    method      = "GET"
+    path        = "/creature_sea"
+    status_code = "200"
+    type        = "RESPONSE_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/response_body/creature_sea/get/200.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
 resource "aws_api_gateway_documentation_part" "creature_sea_POST" {
   location {
     method = "POST"
     path   = "/creature_sea"
     type   = "METHOD"
   }
-  properties  = file("./src/creature_sea/api_gateway/documentation_part/method/request/POST/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/creature_sea/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// creature_sea
-// animal_crossing/creature_sea PATCH MODEL
-resource "aws_api_gateway_documentation_part" "creature_sea_PATCH_model" {
+resource "aws_api_gateway_documentation_part" "creature_sea_POST_201" {
   location {
-    name   = "CreatureSeaPatch"
-    type   = "MODEL"
+    method      = "POST"
+    path        = "/creature_sea"
+    status_code = "201"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/creature_sea/api_gateway/documentation_part/method/request_body/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/creature_sea/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// creature_sea
-// animal_crossing/creature_sea POST MODEL
-resource "aws_api_gateway_documentation_part" "creature_sea_POST_model" {
+resource "aws_api_gateway_documentation_part" "creature_sea_POST_request_body" {
   location {
-    name   = "CreatureSeaPost"
-    type   = "MODEL"
-  }
-  properties  = file("./src/creature_sea/api_gateway/documentation_part/method/request_body/POST/model_collection.json")
-  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
-}
-
-// creature_sea
-// animal_crossing/creature_sea RESOURCE
-resource "aws_api_gateway_documentation_part" "creature_sea" {
-  location {
+    method = "POST"
     path   = "/creature_sea"
-    type   = "RESOURCE"
+    type   = "REQUEST_BODY"
   }
-  properties  = file("./src/creature_sea/api_gateway/documentation_part/resource/resources.json")
+  properties  = file("./src/api_gateway/documentation_part/request_body/creature_sea/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// creature_sea
-// animal_crossing/creature_sea/{id} RESOURCE
-resource "aws_api_gateway_documentation_part" "creature_sea_id" {
+resource "aws_api_gateway_documentation_part" "creature_sea_POST_response_body_201" {
   location {
-    path   = "/creature_sea/{id}"
-    type   = "RESOURCE"
+    method      = "POST"
+    path        = "/creature_sea"
+    status_code = "201"
+    type        = "RESPONSE_BODY"
   }
-  properties  = file("./src/creature_sea/api_gateway/documentation_part/resource/resource.json")
+  properties  = file("./src/api_gateway/documentation_part/response_body/creature_sea/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_artwork
-// animal_crossing/furniture_artwork DELETE MODEL
-resource "aws_api_gateway_documentation_part" "furniture_artwork_DELETE_model" {
+resource "aws_api_gateway_documentation_part" "creature_sea_model" {
   location {
-    name   = "FurnitureArtworkDelete"
-    type   = "MODEL"
+    name = "CreatureSea"
+    type = "MODEL"
   }
-  properties  = file("./src/furniture_artwork/api_gateway/documentation_part/method/request_body/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/model/creature_sea/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_artwork
-// animal_crossing/furniture_artwork GET MODEL
-resource "aws_api_gateway_documentation_part" "furniture_artwork_GET_model" {
+resource "aws_api_gateway_documentation_part" "creature_sea_model_collection" {
   location {
-    name   = "FurnitureArtworkGet"
-    type   = "MODEL"
+    name = "CreatureSeaCollection"
+    type = "MODEL"
   }
-  properties  = file("./src/furniture_artwork/api_gateway/documentation_part/method/request_body/GET/model_collection.json")
+  properties  = templatefile("./src/api_gateway/documentation_part/model/creature_sea/documentation_collection.json", {
+    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  })
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_artwork
-// animal_crossing/furniture_artwork METHOD
-resource "aws_api_gateway_documentation_part" "furniture_artwork_DELETE" {
+resource "aws_api_gateway_documentation_part" "furniture_artwork" {
   location {
-    method = "DELETE"
-    path   = "/furniture_artwork"
-    type   = "METHOD"
+    path = "furniture_artwork"
+    type = "RESOURCE"
   }
-  properties  = file("./src/furniture_artwork/api_gateway/documentation_part/method/request/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/resource/furniture_artwork/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_artwork
-// animal_crossing/furniture_artwork METHOD
 resource "aws_api_gateway_documentation_part" "furniture_artwork_GET" {
   location {
     method = "GET"
     path   = "/furniture_artwork"
     type   = "METHOD"
   }
-  properties  = file("./src/furniture_artwork/api_gateway/documentation_part/method/request/GET/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/furniture_artwork/get/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_artwork
-// animal_crossing/furniture_artwork METHOD
-resource "aws_api_gateway_documentation_part" "furniture_artwork_PATCH" {
+resource "aws_api_gateway_documentation_part" "furniture_artwork_GET_200" {
   location {
-    method = "PATCH"
-    path   = "/furniture_artwork"
-    type   = "METHOD"
+    method      = "GET"
+    path        = "/furniture_artwork"
+    status_code = "200"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/furniture_artwork/api_gateway/documentation_part/method/request/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/furniture_artwork/get/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_artwork
-// animal_crossing/furniture_artwork METHOD
+resource "aws_api_gateway_documentation_part" "furniture_artwork_GET_request_body" {
+  location {
+    method = "GET"
+    path   = "/furniture_artwork"
+    type   = "REQUEST_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/request_body/furniture_artwork/get/documentation.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
+resource "aws_api_gateway_documentation_part" "furniture_artwork_GET_response_body_200" {
+  location {
+    method      = "GET"
+    path        = "/furniture_artwork"
+    status_code = "200"
+    type        = "RESPONSE_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/response_body/furniture_artwork/get/200.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
 resource "aws_api_gateway_documentation_part" "furniture_artwork_POST" {
   location {
     method = "POST"
     path   = "/furniture_artwork"
     type   = "METHOD"
   }
-  properties  = file("./src/furniture_artwork/api_gateway/documentation_part/method/request/POST/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/furniture_artwork/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_artwork
-// animal_crossing/furniture_artwork PATCH MODEL
-resource "aws_api_gateway_documentation_part" "furniture_artwork_PATCH_model" {
+resource "aws_api_gateway_documentation_part" "furniture_artwork_POST_201" {
   location {
-    name   = "FurnitureArtworkPatch"
-    type   = "MODEL"
+    method      = "POST"
+    path        = "/furniture_artwork"
+    status_code = "201"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/furniture_artwork/api_gateway/documentation_part/method/request_body/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/furniture_artwork/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_artwork
-// animal_crossing/furniture_artwork POST MODEL
-resource "aws_api_gateway_documentation_part" "furniture_artwork_POST_model" {
+resource "aws_api_gateway_documentation_part" "furniture_artwork_POST_request_body" {
   location {
-    name   = "FurnitureArtworkPost"
-    type   = "MODEL"
-  }
-  properties  = file("./src/furniture_artwork/api_gateway/documentation_part/method/request_body/POST/model_collection.json")
-  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
-}
-
-// furniture_artwork
-// animal_crossing/furniture_artwork RESOURCE
-resource "aws_api_gateway_documentation_part" "furniture_artwork" {
-  location {
+    method = "POST"
     path   = "/furniture_artwork"
-    type   = "RESOURCE"
+    type   = "REQUEST_BODY"
   }
-  properties  = file("./src/furniture_artwork/api_gateway/documentation_part/resource/resources.json")
+  properties  = file("./src/api_gateway/documentation_part/request_body/furniture_artwork/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_artwork
-// animal_crossing/furniture_artwork/{id} RESOURCE
-resource "aws_api_gateway_documentation_part" "furniture_artwork_id" {
+resource "aws_api_gateway_documentation_part" "furniture_artwork_POST_response_body_201" {
   location {
-    path   = "/furniture_artwork/{id}"
-    type   = "RESOURCE"
+    method      = "POST"
+    path        = "/furniture_artwork"
+    status_code = "201"
+    type        = "RESPONSE_BODY"
   }
-  properties  = file("./src/furniture_artwork/api_gateway/documentation_part/resource/resource.json")
+  properties  = file("./src/api_gateway/documentation_part/response_body/furniture_artwork/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_ceiling
-// animal_crossing/furniture_ceiling DELETE MODEL
-resource "aws_api_gateway_documentation_part" "furniture_ceiling_DELETE_model" {
+resource "aws_api_gateway_documentation_part" "furniture_artwork_model" {
   location {
-    name   = "FurnitureCeilingDelete"
-    type   = "MODEL"
+    name = "FurnitureArtwork"
+    type = "MODEL"
   }
-  properties  = file("./src/furniture_ceiling/api_gateway/documentation_part/method/request_body/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/model/furniture_artwork/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_ceiling
-// animal_crossing/furniture_ceiling GET MODEL
-resource "aws_api_gateway_documentation_part" "furniture_ceiling_GET_model" {
+resource "aws_api_gateway_documentation_part" "furniture_artwork_model_collection" {
   location {
-    name   = "FurnitureCeilingGet"
-    type   = "MODEL"
+    name = "FurnitureArtworkCollection"
+    type = "MODEL"
   }
-  properties  = file("./src/furniture_ceiling/api_gateway/documentation_part/method/request_body/GET/model_collection.json")
+  properties  = templatefile("./src/api_gateway/documentation_part/model/furniture_artwork/documentation_collection.json", {
+    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  })
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_ceiling
-// animal_crossing/furniture_ceiling METHOD
-resource "aws_api_gateway_documentation_part" "furniture_ceiling_DELETE" {
+resource "aws_api_gateway_documentation_part" "furniture_ceiling" {
   location {
-    method = "DELETE"
-    path   = "/furniture_ceiling"
-    type   = "METHOD"
+    path = "furniture_ceiling"
+    type = "RESOURCE"
   }
-  properties  = file("./src/furniture_ceiling/api_gateway/documentation_part/method/request/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/resource/furniture_ceiling/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_ceiling
-// animal_crossing/furniture_ceiling METHOD
 resource "aws_api_gateway_documentation_part" "furniture_ceiling_GET" {
   location {
     method = "GET"
     path   = "/furniture_ceiling"
     type   = "METHOD"
   }
-  properties  = file("./src/furniture_ceiling/api_gateway/documentation_part/method/request/GET/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/furniture_ceiling/get/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_ceiling
-// animal_crossing/furniture_ceiling METHOD
-resource "aws_api_gateway_documentation_part" "furniture_ceiling_PATCH" {
+resource "aws_api_gateway_documentation_part" "furniture_ceiling_GET_200" {
   location {
-    method = "PATCH"
-    path   = "/furniture_ceiling"
-    type   = "METHOD"
+    method      = "GET"
+    path        = "/furniture_ceiling"
+    status_code = "200"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/furniture_ceiling/api_gateway/documentation_part/method/request/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/furniture_ceiling/get/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_ceiling
-// animal_crossing/furniture_ceiling METHOD
+resource "aws_api_gateway_documentation_part" "furniture_ceiling_GET_request_body" {
+  location {
+    method = "GET"
+    path   = "/furniture_ceiling"
+    type   = "REQUEST_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/request_body/furniture_ceiling/get/documentation.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
+resource "aws_api_gateway_documentation_part" "furniture_ceiling_GET_response_body_200" {
+  location {
+    method      = "GET"
+    path        = "/furniture_ceiling"
+    status_code = "200"
+    type        = "RESPONSE_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/response_body/furniture_ceiling/get/200.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
 resource "aws_api_gateway_documentation_part" "furniture_ceiling_POST" {
   location {
     method = "POST"
     path   = "/furniture_ceiling"
     type   = "METHOD"
   }
-  properties  = file("./src/furniture_ceiling/api_gateway/documentation_part/method/request/POST/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/furniture_ceiling/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_ceiling
-// animal_crossing/furniture_ceiling PATCH MODEL
-resource "aws_api_gateway_documentation_part" "furniture_ceiling_PATCH_model" {
+resource "aws_api_gateway_documentation_part" "furniture_ceiling_POST_201" {
   location {
-    name   = "FurnitureCeilingPatch"
-    type   = "MODEL"
+    method      = "POST"
+    path        = "/furniture_ceiling"
+    status_code = "201"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/furniture_ceiling/api_gateway/documentation_part/method/request_body/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/furniture_ceiling/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_ceiling
-// animal_crossing/furniture_ceiling POST MODEL
-resource "aws_api_gateway_documentation_part" "furniture_ceiling_POST_model" {
+resource "aws_api_gateway_documentation_part" "furniture_ceiling_POST_request_body" {
   location {
-    name   = "FurnitureCeilingPost"
-    type   = "MODEL"
-  }
-  properties  = file("./src/furniture_ceiling/api_gateway/documentation_part/method/request_body/POST/model_collection.json")
-  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
-}
-
-// furniture_ceiling
-// animal_crossing/furniture_ceiling RESOURCE
-resource "aws_api_gateway_documentation_part" "furniture_ceiling" {
-  location {
+    method = "POST"
     path   = "/furniture_ceiling"
-    type   = "RESOURCE"
+    type   = "REQUEST_BODY"
   }
-  properties  = file("./src/furniture_ceiling/api_gateway/documentation_part/resource/resources.json")
+  properties  = file("./src/api_gateway/documentation_part/request_body/furniture_ceiling/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_ceiling
-// animal_crossing/furniture_ceiling/{id} RESOURCE
-resource "aws_api_gateway_documentation_part" "furniture_ceiling_id" {
+resource "aws_api_gateway_documentation_part" "furniture_ceiling_POST_response_body_201" {
   location {
-    path   = "/furniture_ceiling/{id}"
-    type   = "RESOURCE"
+    method      = "POST"
+    path        = "/furniture_ceiling"
+    status_code = "201"
+    type        = "RESPONSE_BODY"
   }
-  properties  = file("./src/furniture_ceiling/api_gateway/documentation_part/resource/resource.json")
+  properties  = file("./src/api_gateway/documentation_part/response_body/furniture_ceiling/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_fencing
-// animal_crossing/furniture_fencing DELETE MODEL
-resource "aws_api_gateway_documentation_part" "furniture_fencing_DELETE_model" {
+resource "aws_api_gateway_documentation_part" "furniture_ceiling_model" {
   location {
-    name   = "FurnitureFencingDelete"
-    type   = "MODEL"
+    name = "FurnitureCeiling"
+    type = "MODEL"
   }
-  properties  = file("./src/furniture_fencing/api_gateway/documentation_part/method/request_body/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/model/furniture_ceiling/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_fencing
-// animal_crossing/furniture_fencing GET MODEL
-resource "aws_api_gateway_documentation_part" "furniture_fencing_GET_model" {
+resource "aws_api_gateway_documentation_part" "furniture_ceiling_model_collection" {
   location {
-    name   = "FurnitureFencingGet"
-    type   = "MODEL"
+    name = "FurnitureCeilingCollection"
+    type = "MODEL"
   }
-  properties  = file("./src/furniture_fencing/api_gateway/documentation_part/method/request_body/GET/model_collection.json")
+  properties  = templatefile("./src/api_gateway/documentation_part/model/furniture_ceiling/documentation_collection.json", {
+    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  })
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_fencing
-// animal_crossing/furniture_fencing METHOD
-resource "aws_api_gateway_documentation_part" "furniture_fencing_DELETE" {
+resource "aws_api_gateway_documentation_part" "furniture_fencing" {
   location {
-    method = "DELETE"
-    path   = "/furniture_fencing"
-    type   = "METHOD"
+    path = "furniture_fencing"
+    type = "RESOURCE"
   }
-  properties  = file("./src/furniture_fencing/api_gateway/documentation_part/method/request/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/resource/furniture_fencing/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_fencing
-// animal_crossing/furniture_fencing METHOD
 resource "aws_api_gateway_documentation_part" "furniture_fencing_GET" {
   location {
     method = "GET"
     path   = "/furniture_fencing"
     type   = "METHOD"
   }
-  properties  = file("./src/furniture_fencing/api_gateway/documentation_part/method/request/GET/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/furniture_fencing/get/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_fencing
-// animal_crossing/furniture_fencing METHOD
-resource "aws_api_gateway_documentation_part" "furniture_fencing_PATCH" {
+resource "aws_api_gateway_documentation_part" "furniture_fencing_GET_200" {
   location {
-    method = "PATCH"
-    path   = "/furniture_fencing"
-    type   = "METHOD"
+    method      = "GET"
+    path        = "/furniture_fencing"
+    status_code = "200"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/furniture_fencing/api_gateway/documentation_part/method/request/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/furniture_fencing/get/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_fencing
-// animal_crossing/furniture_fencing METHOD
+resource "aws_api_gateway_documentation_part" "furniture_fencing_GET_request_body" {
+  location {
+    method = "GET"
+    path   = "/furniture_fencing"
+    type   = "REQUEST_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/request_body/furniture_fencing/get/documentation.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
+resource "aws_api_gateway_documentation_part" "furniture_fencing_GET_response_body_200" {
+  location {
+    method      = "GET"
+    path        = "/furniture_fencing"
+    status_code = "200"
+    type        = "RESPONSE_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/response_body/furniture_fencing/get/200.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
 resource "aws_api_gateway_documentation_part" "furniture_fencing_POST" {
   location {
     method = "POST"
     path   = "/furniture_fencing"
     type   = "METHOD"
   }
-  properties  = file("./src/furniture_fencing/api_gateway/documentation_part/method/request/POST/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/furniture_fencing/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_fencing
-// animal_crossing/furniture_fencing PATCH MODEL
-resource "aws_api_gateway_documentation_part" "furniture_fencing_PATCH_model" {
+resource "aws_api_gateway_documentation_part" "furniture_fencing_POST_201" {
   location {
-    name   = "FurnitureFencingPatch"
-    type   = "MODEL"
+    method      = "POST"
+    path        = "/furniture_fencing"
+    status_code = "201"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/furniture_fencing/api_gateway/documentation_part/method/request_body/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/furniture_fencing/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_fencing
-// animal_crossing/furniture_fencing POST MODEL
-resource "aws_api_gateway_documentation_part" "furniture_fencing_POST_model" {
+resource "aws_api_gateway_documentation_part" "furniture_fencing_POST_request_body" {
   location {
-    name   = "FurnitureFencingPost"
-    type   = "MODEL"
-  }
-  properties  = file("./src/furniture_fencing/api_gateway/documentation_part/method/request_body/POST/model_collection.json")
-  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
-}
-
-// furniture_fencing
-// animal_crossing/furniture_fencing RESOURCE
-resource "aws_api_gateway_documentation_part" "furniture_fencing" {
-  location {
+    method = "POST"
     path   = "/furniture_fencing"
-    type   = "RESOURCE"
+    type   = "REQUEST_BODY"
   }
-  properties  = file("./src/furniture_fencing/api_gateway/documentation_part/resource/resources.json")
+  properties  = file("./src/api_gateway/documentation_part/request_body/furniture_fencing/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_fencing
-// animal_crossing/furniture_fencing/{id} RESOURCE
-resource "aws_api_gateway_documentation_part" "furniture_fencing_id" {
+resource "aws_api_gateway_documentation_part" "furniture_fencing_POST_response_body_201" {
   location {
-    path   = "/furniture_fencing/{id}"
-    type   = "RESOURCE"
+    method      = "POST"
+    path        = "/furniture_fencing"
+    status_code = "201"
+    type        = "RESPONSE_BODY"
   }
-  properties  = file("./src/furniture_fencing/api_gateway/documentation_part/resource/resource.json")
+  properties  = file("./src/api_gateway/documentation_part/response_body/furniture_fencing/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_floor
-// animal_crossing/furniture_floor DELETE MODEL
-resource "aws_api_gateway_documentation_part" "furniture_floor_DELETE_model" {
+resource "aws_api_gateway_documentation_part" "furniture_fencing_model" {
   location {
-    name   = "FurnitureFloorDelete"
-    type   = "MODEL"
+    name = "FurnitureFencing"
+    type = "MODEL"
   }
-  properties  = file("./src/furniture_floor/api_gateway/documentation_part/method/request_body/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/model/furniture_fencing/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_floor
-// animal_crossing/furniture_floor GET MODEL
-resource "aws_api_gateway_documentation_part" "furniture_floor_GET_model" {
+resource "aws_api_gateway_documentation_part" "furniture_fencing_model_collection" {
   location {
-    name   = "FurnitureFloorGet"
-    type   = "MODEL"
+    name = "FurnitureFencingCollection"
+    type = "MODEL"
   }
-  properties  = file("./src/furniture_floor/api_gateway/documentation_part/method/request_body/GET/model_collection.json")
+  properties  = templatefile("./src/api_gateway/documentation_part/model/furniture_fencing/documentation_collection.json", {
+    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  })
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_floor
-// animal_crossing/furniture_floor METHOD
-resource "aws_api_gateway_documentation_part" "furniture_floor_DELETE" {
+resource "aws_api_gateway_documentation_part" "furniture_floor" {
   location {
-    method = "DELETE"
-    path   = "/furniture_floor"
-    type   = "METHOD"
+    path = "furniture_floor"
+    type = "RESOURCE"
   }
-  properties  = file("./src/furniture_floor/api_gateway/documentation_part/method/request/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/resource/furniture_floor/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_floor
-// animal_crossing/furniture_floor METHOD
 resource "aws_api_gateway_documentation_part" "furniture_floor_GET" {
   location {
     method = "GET"
     path   = "/furniture_floor"
     type   = "METHOD"
   }
-  properties  = file("./src/furniture_floor/api_gateway/documentation_part/method/request/GET/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/furniture_floor/get/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_floor
-// animal_crossing/furniture_floor METHOD
-resource "aws_api_gateway_documentation_part" "furniture_floor_PATCH" {
+resource "aws_api_gateway_documentation_part" "furniture_floor_GET_200" {
   location {
-    method = "PATCH"
-    path   = "/furniture_floor"
-    type   = "METHOD"
+    method      = "GET"
+    path        = "/furniture_floor"
+    status_code = "200"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/furniture_floor/api_gateway/documentation_part/method/request/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/furniture_floor/get/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_floor
-// animal_crossing/furniture_floor METHOD
+resource "aws_api_gateway_documentation_part" "furniture_floor_GET_request_body" {
+  location {
+    method = "GET"
+    path   = "/furniture_floor"
+    type   = "REQUEST_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/request_body/furniture_floor/get/documentation.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
+resource "aws_api_gateway_documentation_part" "furniture_floor_GET_response_body_200" {
+  location {
+    method      = "GET"
+    path        = "/furniture_floor"
+    status_code = "200"
+    type        = "RESPONSE_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/response_body/furniture_floor/get/200.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
 resource "aws_api_gateway_documentation_part" "furniture_floor_POST" {
   location {
     method = "POST"
     path   = "/furniture_floor"
     type   = "METHOD"
   }
-  properties  = file("./src/furniture_floor/api_gateway/documentation_part/method/request/POST/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/furniture_floor/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_floor
-// animal_crossing/furniture_floor PATCH MODEL
-resource "aws_api_gateway_documentation_part" "furniture_floor_PATCH_model" {
+resource "aws_api_gateway_documentation_part" "furniture_floor_POST_201" {
   location {
-    name   = "FurnitureFloorPatch"
-    type   = "MODEL"
+    method      = "POST"
+    path        = "/furniture_floor"
+    status_code = "201"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/furniture_floor/api_gateway/documentation_part/method/request_body/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/furniture_floor/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_floor
-// animal_crossing/furniture_floor POST MODEL
-resource "aws_api_gateway_documentation_part" "furniture_floor_POST_model" {
+resource "aws_api_gateway_documentation_part" "furniture_floor_POST_request_body" {
   location {
-    name   = "FurnitureFloorPost"
-    type   = "MODEL"
-  }
-  properties  = file("./src/furniture_floor/api_gateway/documentation_part/method/request_body/POST/model_collection.json")
-  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
-}
-
-// furniture_floor
-// animal_crossing/furniture_floor RESOURCE
-resource "aws_api_gateway_documentation_part" "furniture_floor" {
-  location {
+    method = "POST"
     path   = "/furniture_floor"
-    type   = "RESOURCE"
+    type   = "REQUEST_BODY"
   }
-  properties  = file("./src/furniture_floor/api_gateway/documentation_part/resource/resources.json")
+  properties  = file("./src/api_gateway/documentation_part/request_body/furniture_floor/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_floor
-// animal_crossing/furniture_floor/{id} RESOURCE
-resource "aws_api_gateway_documentation_part" "furniture_floor_id" {
+resource "aws_api_gateway_documentation_part" "furniture_floor_POST_response_body_201" {
   location {
-    path   = "/furniture_floor/{id}"
-    type   = "RESOURCE"
+    method      = "POST"
+    path        = "/furniture_floor"
+    status_code = "201"
+    type        = "RESPONSE_BODY"
   }
-  properties  = file("./src/furniture_floor/api_gateway/documentation_part/resource/resource.json")
+  properties  = file("./src/api_gateway/documentation_part/response_body/furniture_floor/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_fossil
-// animal_crossing/furniture_fossil DELETE MODEL
-resource "aws_api_gateway_documentation_part" "furniture_fossil_DELETE_model" {
+resource "aws_api_gateway_documentation_part" "furniture_floor_model" {
   location {
-    name   = "FurnitureFossilDelete"
-    type   = "MODEL"
+    name = "FurnitureFloor"
+    type = "MODEL"
   }
-  properties  = file("./src/furniture_fossil/api_gateway/documentation_part/method/request_body/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/model/furniture_floor/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_fossil
-// animal_crossing/furniture_fossil GET MODEL
-resource "aws_api_gateway_documentation_part" "furniture_fossil_GET_model" {
+resource "aws_api_gateway_documentation_part" "furniture_floor_model_collection" {
   location {
-    name   = "FurnitureFossilGet"
-    type   = "MODEL"
+    name = "FurnitureFloorCollection"
+    type = "MODEL"
   }
-  properties  = file("./src/furniture_fossil/api_gateway/documentation_part/method/request_body/GET/model_collection.json")
+  properties  = templatefile("./src/api_gateway/documentation_part/model/furniture_floor/documentation_collection.json", {
+    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  })
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_fossil
-// animal_crossing/furniture_fossil METHOD
-resource "aws_api_gateway_documentation_part" "furniture_fossil_DELETE" {
+resource "aws_api_gateway_documentation_part" "furniture_fossil" {
   location {
-    method = "DELETE"
-    path   = "/furniture_fossil"
-    type   = "METHOD"
+    path = "furniture_fossil"
+    type = "RESOURCE"
   }
-  properties  = file("./src/furniture_fossil/api_gateway/documentation_part/method/request/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/resource/furniture_fossil/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_fossil
-// animal_crossing/furniture_fossil METHOD
 resource "aws_api_gateway_documentation_part" "furniture_fossil_GET" {
   location {
     method = "GET"
     path   = "/furniture_fossil"
     type   = "METHOD"
   }
-  properties  = file("./src/furniture_fossil/api_gateway/documentation_part/method/request/GET/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/furniture_fossil/get/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_fossil
-// animal_crossing/furniture_fossil METHOD
-resource "aws_api_gateway_documentation_part" "furniture_fossil_PATCH" {
+resource "aws_api_gateway_documentation_part" "furniture_fossil_GET_200" {
   location {
-    method = "PATCH"
-    path   = "/furniture_fossil"
-    type   = "METHOD"
+    method      = "GET"
+    path        = "/furniture_fossil"
+    status_code = "200"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/furniture_fossil/api_gateway/documentation_part/method/request/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/furniture_fossil/get/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_fossil
-// animal_crossing/furniture_fossil METHOD
+resource "aws_api_gateway_documentation_part" "furniture_fossil_GET_request_body" {
+  location {
+    method = "GET"
+    path   = "/furniture_fossil"
+    type   = "REQUEST_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/request_body/furniture_fossil/get/documentation.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
+resource "aws_api_gateway_documentation_part" "furniture_fossil_GET_response_body_200" {
+  location {
+    method      = "GET"
+    path        = "/furniture_fossil"
+    status_code = "200"
+    type        = "RESPONSE_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/response_body/furniture_fossil/get/200.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
 resource "aws_api_gateway_documentation_part" "furniture_fossil_POST" {
   location {
     method = "POST"
     path   = "/furniture_fossil"
     type   = "METHOD"
   }
-  properties  = file("./src/furniture_fossil/api_gateway/documentation_part/method/request/POST/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/furniture_fossil/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_fossil
-// animal_crossing/furniture_fossil PATCH MODEL
-resource "aws_api_gateway_documentation_part" "furniture_fossil_PATCH_model" {
+resource "aws_api_gateway_documentation_part" "furniture_fossil_POST_201" {
   location {
-    name   = "FurnitureFossilPatch"
-    type   = "MODEL"
+    method      = "POST"
+    path        = "/furniture_fossil"
+    status_code = "201"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/furniture_fossil/api_gateway/documentation_part/method/request_body/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/furniture_fossil/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_fossil
-// animal_crossing/furniture_fossil POST MODEL
-resource "aws_api_gateway_documentation_part" "furniture_fossil_POST_model" {
+resource "aws_api_gateway_documentation_part" "furniture_fossil_POST_request_body" {
   location {
-    name   = "FurnitureFossilPost"
-    type   = "MODEL"
-  }
-  properties  = file("./src/furniture_fossil/api_gateway/documentation_part/method/request_body/POST/model_collection.json")
-  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
-}
-
-// furniture_fossil
-// animal_crossing/furniture_fossil RESOURCE
-resource "aws_api_gateway_documentation_part" "furniture_fossil" {
-  location {
+    method = "POST"
     path   = "/furniture_fossil"
-    type   = "RESOURCE"
+    type   = "REQUEST_BODY"
   }
-  properties  = file("./src/furniture_fossil/api_gateway/documentation_part/resource/resources.json")
+  properties  = file("./src/api_gateway/documentation_part/request_body/furniture_fossil/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_fossil
-// animal_crossing/furniture_fossil/{id} RESOURCE
-resource "aws_api_gateway_documentation_part" "furniture_fossil_id" {
+resource "aws_api_gateway_documentation_part" "furniture_fossil_POST_response_body_201" {
   location {
-    path   = "/furniture_fossil/{id}"
-    type   = "RESOURCE"
+    method      = "POST"
+    path        = "/furniture_fossil"
+    status_code = "201"
+    type        = "RESPONSE_BODY"
   }
-  properties  = file("./src/furniture_fossil/api_gateway/documentation_part/resource/resource.json")
+  properties  = file("./src/api_gateway/documentation_part/response_body/furniture_fossil/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_gyroid
-// animal_crossing/furniture_gyroid DELETE MODEL
-resource "aws_api_gateway_documentation_part" "furniture_gyroid_DELETE_model" {
+resource "aws_api_gateway_documentation_part" "furniture_fossil_model" {
   location {
-    name   = "FurnitureGyroidDelete"
-    type   = "MODEL"
+    name = "FurnitureFossil"
+    type = "MODEL"
   }
-  properties  = file("./src/furniture_gyroid/api_gateway/documentation_part/method/request_body/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/model/furniture_fossil/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_gyroid
-// animal_crossing/furniture_gyroid GET MODEL
-resource "aws_api_gateway_documentation_part" "furniture_gyroid_GET_model" {
+resource "aws_api_gateway_documentation_part" "furniture_fossil_model_collection" {
   location {
-    name   = "FurnitureGyroidGet"
-    type   = "MODEL"
+    name = "FurnitureFossilCollection"
+    type = "MODEL"
   }
-  properties  = file("./src/furniture_gyroid/api_gateway/documentation_part/method/request_body/GET/model_collection.json")
+  properties  = templatefile("./src/api_gateway/documentation_part/model/furniture_fossil/documentation_collection.json", {
+    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  })
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_gyroid
-// animal_crossing/furniture_gyroid METHOD
-resource "aws_api_gateway_documentation_part" "furniture_gyroid_DELETE" {
+resource "aws_api_gateway_documentation_part" "furniture_gyroid" {
   location {
-    method = "DELETE"
-    path   = "/furniture_gyroid"
-    type   = "METHOD"
+    path = "furniture_gyroid"
+    type = "RESOURCE"
   }
-  properties  = file("./src/furniture_gyroid/api_gateway/documentation_part/method/request/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/resource/furniture_gyroid/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_gyroid
-// animal_crossing/furniture_gyroid METHOD
 resource "aws_api_gateway_documentation_part" "furniture_gyroid_GET" {
   location {
     method = "GET"
     path   = "/furniture_gyroid"
     type   = "METHOD"
   }
-  properties  = file("./src/furniture_gyroid/api_gateway/documentation_part/method/request/GET/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/furniture_gyroid/get/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_gyroid
-// animal_crossing/furniture_gyroid METHOD
-resource "aws_api_gateway_documentation_part" "furniture_gyroid_PATCH" {
+resource "aws_api_gateway_documentation_part" "furniture_gyroid_GET_200" {
   location {
-    method = "PATCH"
-    path   = "/furniture_gyroid"
-    type   = "METHOD"
+    method      = "GET"
+    path        = "/furniture_gyroid"
+    status_code = "200"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/furniture_gyroid/api_gateway/documentation_part/method/request/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/furniture_gyroid/get/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_gyroid
-// animal_crossing/furniture_gyroid METHOD
+resource "aws_api_gateway_documentation_part" "furniture_gyroid_GET_request_body" {
+  location {
+    method = "GET"
+    path   = "/furniture_gyroid"
+    type   = "REQUEST_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/request_body/furniture_gyroid/get/documentation.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
+resource "aws_api_gateway_documentation_part" "furniture_gyroid_GET_response_body_200" {
+  location {
+    method      = "GET"
+    path        = "/furniture_gyroid"
+    status_code = "200"
+    type        = "RESPONSE_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/response_body/furniture_gyroid/get/200.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
 resource "aws_api_gateway_documentation_part" "furniture_gyroid_POST" {
   location {
     method = "POST"
     path   = "/furniture_gyroid"
     type   = "METHOD"
   }
-  properties  = file("./src/furniture_gyroid/api_gateway/documentation_part/method/request/POST/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/furniture_gyroid/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_gyroid
-// animal_crossing/furniture_gyroid PATCH MODEL
-resource "aws_api_gateway_documentation_part" "furniture_gyroid_PATCH_model" {
+resource "aws_api_gateway_documentation_part" "furniture_gyroid_POST_201" {
   location {
-    name   = "FurnitureGyroidPatch"
-    type   = "MODEL"
+    method      = "POST"
+    path        = "/furniture_gyroid"
+    status_code = "201"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/furniture_gyroid/api_gateway/documentation_part/method/request_body/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/furniture_gyroid/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_gyroid
-// animal_crossing/furniture_gyroid POST MODEL
-resource "aws_api_gateway_documentation_part" "furniture_gyroid_POST_model" {
+resource "aws_api_gateway_documentation_part" "furniture_gyroid_POST_request_body" {
   location {
-    name   = "FurnitureGyroidPost"
-    type   = "MODEL"
-  }
-  properties  = file("./src/furniture_gyroid/api_gateway/documentation_part/method/request_body/POST/model_collection.json")
-  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
-}
-
-// furniture_gyroid
-// animal_crossing/furniture_gyroid RESOURCE
-resource "aws_api_gateway_documentation_part" "furniture_gyroid" {
-  location {
+    method = "POST"
     path   = "/furniture_gyroid"
-    type   = "RESOURCE"
+    type   = "REQUEST_BODY"
   }
-  properties  = file("./src/furniture_gyroid/api_gateway/documentation_part/resource/resources.json")
+  properties  = file("./src/api_gateway/documentation_part/request_body/furniture_gyroid/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_gyroid
-// animal_crossing/furniture_gyroid/{id} RESOURCE
-resource "aws_api_gateway_documentation_part" "furniture_gyroid_id" {
+resource "aws_api_gateway_documentation_part" "furniture_gyroid_POST_response_body_201" {
   location {
-    path   = "/furniture_gyroid/{id}"
-    type   = "RESOURCE"
+    method      = "POST"
+    path        = "/furniture_gyroid"
+    status_code = "201"
+    type        = "RESPONSE_BODY"
   }
-  properties  = file("./src/furniture_gyroid/api_gateway/documentation_part/resource/resource.json")
+  properties  = file("./src/api_gateway/documentation_part/response_body/furniture_gyroid/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_housewear
-// animal_crossing/furniture_housewear DELETE MODEL
-resource "aws_api_gateway_documentation_part" "furniture_housewear_DELETE_model" {
+resource "aws_api_gateway_documentation_part" "furniture_gyroid_model" {
   location {
-    name   = "FurnitureHousewearDelete"
-    type   = "MODEL"
+    name = "FurnitureGyroid"
+    type = "MODEL"
   }
-  properties  = file("./src/furniture_housewear/api_gateway/documentation_part/method/request_body/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/model/furniture_gyroid/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_housewear
-// animal_crossing/furniture_housewear GET MODEL
-resource "aws_api_gateway_documentation_part" "furniture_housewear_GET_model" {
+resource "aws_api_gateway_documentation_part" "furniture_gyroid_model_collection" {
   location {
-    name   = "FurnitureHousewearGet"
-    type   = "MODEL"
+    name = "FurnitureGyroidCollection"
+    type = "MODEL"
   }
-  properties  = file("./src/furniture_housewear/api_gateway/documentation_part/method/request_body/GET/model_collection.json")
+  properties  = templatefile("./src/api_gateway/documentation_part/model/furniture_gyroid/documentation_collection.json", {
+    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  })
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_housewear
-// animal_crossing/furniture_housewear METHOD
-resource "aws_api_gateway_documentation_part" "furniture_housewear_DELETE" {
+resource "aws_api_gateway_documentation_part" "furniture_housewear" {
   location {
-    method = "DELETE"
-    path   = "/furniture_housewear"
-    type   = "METHOD"
+    path = "furniture_housewear"
+    type = "RESOURCE"
   }
-  properties  = file("./src/furniture_housewear/api_gateway/documentation_part/method/request/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/resource/furniture_housewear/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_housewear
-// animal_crossing/furniture_housewear METHOD
 resource "aws_api_gateway_documentation_part" "furniture_housewear_GET" {
   location {
     method = "GET"
     path   = "/furniture_housewear"
     type   = "METHOD"
   }
-  properties  = file("./src/furniture_housewear/api_gateway/documentation_part/method/request/GET/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/furniture_housewear/get/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_housewear
-// animal_crossing/furniture_housewear METHOD
-resource "aws_api_gateway_documentation_part" "furniture_housewear_PATCH" {
+resource "aws_api_gateway_documentation_part" "furniture_housewear_GET_200" {
   location {
-    method = "PATCH"
-    path   = "/furniture_housewear"
-    type   = "METHOD"
+    method      = "GET"
+    path        = "/furniture_housewear"
+    status_code = "200"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/furniture_housewear/api_gateway/documentation_part/method/request/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/furniture_housewear/get/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_housewear
-// animal_crossing/furniture_housewear METHOD
+resource "aws_api_gateway_documentation_part" "furniture_housewear_GET_request_body" {
+  location {
+    method = "GET"
+    path   = "/furniture_housewear"
+    type   = "REQUEST_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/request_body/furniture_housewear/get/documentation.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
+resource "aws_api_gateway_documentation_part" "furniture_housewear_GET_response_body_200" {
+  location {
+    method      = "GET"
+    path        = "/furniture_housewear"
+    status_code = "200"
+    type        = "RESPONSE_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/response_body/furniture_housewear/get/200.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
 resource "aws_api_gateway_documentation_part" "furniture_housewear_POST" {
   location {
     method = "POST"
     path   = "/furniture_housewear"
     type   = "METHOD"
   }
-  properties  = file("./src/furniture_housewear/api_gateway/documentation_part/method/request/POST/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/furniture_housewear/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_housewear
-// animal_crossing/furniture_housewear PATCH MODEL
-resource "aws_api_gateway_documentation_part" "furniture_housewear_PATCH_model" {
+resource "aws_api_gateway_documentation_part" "furniture_housewear_POST_201" {
   location {
-    name   = "FurnitureHousewearPatch"
-    type   = "MODEL"
+    method      = "POST"
+    path        = "/furniture_housewear"
+    status_code = "201"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/furniture_housewear/api_gateway/documentation_part/method/request_body/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/furniture_housewear/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_housewear
-// animal_crossing/furniture_housewear POST MODEL
-resource "aws_api_gateway_documentation_part" "furniture_housewear_POST_model" {
+resource "aws_api_gateway_documentation_part" "furniture_housewear_POST_request_body" {
   location {
-    name   = "FurnitureHousewearPost"
-    type   = "MODEL"
-  }
-  properties  = file("./src/furniture_housewear/api_gateway/documentation_part/method/request_body/POST/model_collection.json")
-  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
-}
-
-// furniture_housewear
-// animal_crossing/furniture_housewear RESOURCE
-resource "aws_api_gateway_documentation_part" "furniture_housewear" {
-  location {
+    method = "POST"
     path   = "/furniture_housewear"
-    type   = "RESOURCE"
+    type   = "REQUEST_BODY"
   }
-  properties  = file("./src/furniture_housewear/api_gateway/documentation_part/resource/resources.json")
+  properties  = file("./src/api_gateway/documentation_part/request_body/furniture_housewear/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_housewear
-// animal_crossing/furniture_housewear/{id} RESOURCE
-resource "aws_api_gateway_documentation_part" "furniture_housewear_id" {
+resource "aws_api_gateway_documentation_part" "furniture_housewear_POST_response_body_201" {
   location {
-    path   = "/furniture_housewear/{id}"
-    type   = "RESOURCE"
+    method      = "POST"
+    path        = "/furniture_housewear"
+    status_code = "201"
+    type        = "RESPONSE_BODY"
   }
-  properties  = file("./src/furniture_housewear/api_gateway/documentation_part/resource/resource.json")
+  properties  = file("./src/api_gateway/documentation_part/response_body/furniture_housewear/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_interior_structure
-// animal_crossing/furniture_interior_structure DELETE MODEL
-resource "aws_api_gateway_documentation_part" "furniture_interior_structure_DELETE_model" {
+resource "aws_api_gateway_documentation_part" "furniture_housewear_model" {
   location {
-    name   = "FurnitureInteriorStructureDelete"
-    type   = "MODEL"
+    name = "FurnitureHousewear"
+    type = "MODEL"
   }
-  properties  = file("./src/furniture_interior_structure/api_gateway/documentation_part/method/request_body/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/model/furniture_housewear/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_interior_structure
-// animal_crossing/furniture_interior_structure GET MODEL
-resource "aws_api_gateway_documentation_part" "furniture_interior_structure_GET_model" {
+resource "aws_api_gateway_documentation_part" "furniture_housewear_model_collection" {
   location {
-    name   = "FurnitureInteriorStructureGet"
-    type   = "MODEL"
+    name = "FurnitureHousewearCollection"
+    type = "MODEL"
   }
-  properties  = file("./src/furniture_interior_structure/api_gateway/documentation_part/method/request_body/GET/model_collection.json")
+  properties  = templatefile("./src/api_gateway/documentation_part/model/furniture_housewear/documentation_collection.json", {
+    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  })
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_interior_structure
-// animal_crossing/furniture_interior_structure METHOD
-resource "aws_api_gateway_documentation_part" "furniture_interior_structure_DELETE" {
+resource "aws_api_gateway_documentation_part" "furniture_interior_structure" {
   location {
-    method = "DELETE"
-    path   = "/furniture_interior_structure"
-    type   = "METHOD"
+    path = "furniture_interior_structure"
+    type = "RESOURCE"
   }
-  properties  = file("./src/furniture_interior_structure/api_gateway/documentation_part/method/request/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/resource/furniture_interior_structure/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_interior_structure
-// animal_crossing/furniture_interior_structure METHOD
 resource "aws_api_gateway_documentation_part" "furniture_interior_structure_GET" {
   location {
     method = "GET"
     path   = "/furniture_interior_structure"
     type   = "METHOD"
   }
-  properties  = file("./src/furniture_interior_structure/api_gateway/documentation_part/method/request/GET/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/furniture_interior_structure/get/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_interior_structure
-// animal_crossing/furniture_interior_structure METHOD
-resource "aws_api_gateway_documentation_part" "furniture_interior_structure_PATCH" {
+resource "aws_api_gateway_documentation_part" "furniture_interior_structure_GET_200" {
   location {
-    method = "PATCH"
-    path   = "/furniture_interior_structure"
-    type   = "METHOD"
+    method      = "GET"
+    path        = "/furniture_interior_structure"
+    status_code = "200"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/furniture_interior_structure/api_gateway/documentation_part/method/request/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/furniture_interior_structure/get/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_interior_structure
-// animal_crossing/furniture_interior_structure METHOD
+resource "aws_api_gateway_documentation_part" "furniture_interior_structure_GET_request_body" {
+  location {
+    method = "GET"
+    path   = "/furniture_interior_structure"
+    type   = "REQUEST_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/request_body/furniture_interior_structure/get/documentation.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
+resource "aws_api_gateway_documentation_part" "furniture_interior_structure_GET_response_body_200" {
+  location {
+    method      = "GET"
+    path        = "/furniture_interior_structure"
+    status_code = "200"
+    type        = "RESPONSE_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/response_body/furniture_interior_structure/get/200.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
 resource "aws_api_gateway_documentation_part" "furniture_interior_structure_POST" {
   location {
     method = "POST"
     path   = "/furniture_interior_structure"
     type   = "METHOD"
   }
-  properties  = file("./src/furniture_interior_structure/api_gateway/documentation_part/method/request/POST/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/furniture_interior_structure/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_interior_structure
-// animal_crossing/furniture_interior_structure PATCH MODEL
-resource "aws_api_gateway_documentation_part" "furniture_interior_structure_PATCH_model" {
+resource "aws_api_gateway_documentation_part" "furniture_interior_structure_POST_201" {
   location {
-    name   = "FurnitureInteriorStructurePatch"
-    type   = "MODEL"
+    method      = "POST"
+    path        = "/furniture_interior_structure"
+    status_code = "201"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/furniture_interior_structure/api_gateway/documentation_part/method/request_body/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/furniture_interior_structure/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_interior_structure
-// animal_crossing/furniture_interior_structure POST MODEL
-resource "aws_api_gateway_documentation_part" "furniture_interior_structure_POST_model" {
+resource "aws_api_gateway_documentation_part" "furniture_interior_structure_POST_request_body" {
   location {
-    name   = "FurnitureInteriorStructurePost"
-    type   = "MODEL"
-  }
-  properties  = file("./src/furniture_interior_structure/api_gateway/documentation_part/method/request_body/POST/model_collection.json")
-  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
-}
-
-// furniture_interior_structure
-// animal_crossing/furniture_interior_structure RESOURCE
-resource "aws_api_gateway_documentation_part" "furniture_interior_structure" {
-  location {
+    method = "POST"
     path   = "/furniture_interior_structure"
-    type   = "RESOURCE"
+    type   = "REQUEST_BODY"
   }
-  properties  = file("./src/furniture_interior_structure/api_gateway/documentation_part/resource/resources.json")
+  properties  = file("./src/api_gateway/documentation_part/request_body/furniture_interior_structure/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_interior_structure
-// animal_crossing/furniture_interior_structure/{id} RESOURCE
-resource "aws_api_gateway_documentation_part" "furniture_interior_structure_id" {
+resource "aws_api_gateway_documentation_part" "furniture_interior_structure_POST_response_body_201" {
   location {
-    path   = "/furniture_interior_structure/{id}"
-    type   = "RESOURCE"
+    method      = "POST"
+    path        = "/furniture_interior_structure"
+    status_code = "201"
+    type        = "RESPONSE_BODY"
   }
-  properties  = file("./src/furniture_interior_structure/api_gateway/documentation_part/resource/resource.json")
+  properties  = file("./src/api_gateway/documentation_part/response_body/furniture_interior_structure/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_miscellaneous
-// animal_crossing/furniture_miscellaneous DELETE MODEL
-resource "aws_api_gateway_documentation_part" "furniture_miscellaneous_DELETE_model" {
+resource "aws_api_gateway_documentation_part" "furniture_interior_structure_model" {
   location {
-    name   = "FurnitureMiscellaneousDelete"
-    type   = "MODEL"
+    name = "FurnitureInteriorStructure"
+    type = "MODEL"
   }
-  properties  = file("./src/furniture_miscellaneous/api_gateway/documentation_part/method/request_body/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/model/furniture_interior_structure/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_miscellaneous
-// animal_crossing/furniture_miscellaneous GET MODEL
-resource "aws_api_gateway_documentation_part" "furniture_miscellaneous_GET_model" {
+resource "aws_api_gateway_documentation_part" "furniture_interior_structure_model_collection" {
   location {
-    name   = "FurnitureMiscellaneousGet"
-    type   = "MODEL"
+    name = "FurnitureInteriorStructureCollection"
+    type = "MODEL"
   }
-  properties  = file("./src/furniture_miscellaneous/api_gateway/documentation_part/method/request_body/GET/model_collection.json")
+  properties  = templatefile("./src/api_gateway/documentation_part/model/furniture_interior_structure/documentation_collection.json", {
+    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  })
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_miscellaneous
-// animal_crossing/furniture_miscellaneous METHOD
-resource "aws_api_gateway_documentation_part" "furniture_miscellaneous_DELETE" {
+resource "aws_api_gateway_documentation_part" "furniture_miscellaneous" {
   location {
-    method = "DELETE"
-    path   = "/furniture_miscellaneous"
-    type   = "METHOD"
+    path = "furniture_miscellaneous"
+    type = "RESOURCE"
   }
-  properties  = file("./src/furniture_miscellaneous/api_gateway/documentation_part/method/request/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/resource/furniture_miscellaneous/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_miscellaneous
-// animal_crossing/furniture_miscellaneous METHOD
 resource "aws_api_gateway_documentation_part" "furniture_miscellaneous_GET" {
   location {
     method = "GET"
     path   = "/furniture_miscellaneous"
     type   = "METHOD"
   }
-  properties  = file("./src/furniture_miscellaneous/api_gateway/documentation_part/method/request/GET/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/furniture_miscellaneous/get/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_miscellaneous
-// animal_crossing/furniture_miscellaneous METHOD
-resource "aws_api_gateway_documentation_part" "furniture_miscellaneous_PATCH" {
+resource "aws_api_gateway_documentation_part" "furniture_miscellaneous_GET_200" {
   location {
-    method = "PATCH"
-    path   = "/furniture_miscellaneous"
-    type   = "METHOD"
+    method      = "GET"
+    path        = "/furniture_miscellaneous"
+    status_code = "200"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/furniture_miscellaneous/api_gateway/documentation_part/method/request/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/furniture_miscellaneous/get/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_miscellaneous
-// animal_crossing/furniture_miscellaneous METHOD
+resource "aws_api_gateway_documentation_part" "furniture_miscellaneous_GET_request_body" {
+  location {
+    method = "GET"
+    path   = "/furniture_miscellaneous"
+    type   = "REQUEST_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/request_body/furniture_miscellaneous/get/documentation.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
+resource "aws_api_gateway_documentation_part" "furniture_miscellaneous_GET_response_body_200" {
+  location {
+    method      = "GET"
+    path        = "/furniture_miscellaneous"
+    status_code = "200"
+    type        = "RESPONSE_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/response_body/furniture_miscellaneous/get/200.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
 resource "aws_api_gateway_documentation_part" "furniture_miscellaneous_POST" {
   location {
     method = "POST"
     path   = "/furniture_miscellaneous"
     type   = "METHOD"
   }
-  properties  = file("./src/furniture_miscellaneous/api_gateway/documentation_part/method/request/POST/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/furniture_miscellaneous/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_miscellaneous
-// animal_crossing/furniture_miscellaneous PATCH MODEL
-resource "aws_api_gateway_documentation_part" "furniture_miscellaneous_PATCH_model" {
+resource "aws_api_gateway_documentation_part" "furniture_miscellaneous_POST_201" {
   location {
-    name   = "FurnitureMiscellaneousPatch"
-    type   = "MODEL"
+    method      = "POST"
+    path        = "/furniture_miscellaneous"
+    status_code = "201"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/furniture_miscellaneous/api_gateway/documentation_part/method/request_body/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/furniture_miscellaneous/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_miscellaneous
-// animal_crossing/furniture_miscellaneous POST MODEL
-resource "aws_api_gateway_documentation_part" "furniture_miscellaneous_POST_model" {
-  location {
-    name   = "FurnitureMiscellaneousPost"
-    type   = "MODEL"
-  }
-  properties  = file("./src/furniture_miscellaneous/api_gateway/documentation_part/method/request_body/POST/model_collection.json")
-  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
-}
-
-// furniture_miscellaneous
-// animal_crossing/furniture_miscellaneous RESOURCE
-resource "aws_api_gateway_documentation_part" "furniture_miscellaneous" {
-  location {
-    path   = "/furniture_miscellaneous"
-    type   = "RESOURCE"
-  }
-  properties  = file("./src/furniture_miscellaneous/api_gateway/documentation_part/resource/resources.json")
-  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
-}
-
-// furniture_miscellaneous
-// animal_crossing/furniture_miscellaneous/{id} RESOURCE
-resource "aws_api_gateway_documentation_part" "furniture_miscellaneous_id" {
-  location {
-    path   = "/furniture_miscellaneous/{id}"
-    type   = "RESOURCE"
-  }
-  properties  = file("./src/furniture_miscellaneous/api_gateway/documentation_part/resource/resource.json")
-  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
-}
-
-// furniture_mounted
-// animal_crossing/furniture_mounted DELETE MODEL
-resource "aws_api_gateway_documentation_part" "furniture_mounted_DELETE_model" {
-  location {
-    name   = "FurnitureMountedDelete"
-    type   = "MODEL"
-  }
-  properties  = file("./src/furniture_mounted/api_gateway/documentation_part/method/request_body/DELETE/model_collection.json")
-  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
-}
-
-// furniture_mounted
-// animal_crossing/furniture_mounted GET MODEL
-resource "aws_api_gateway_documentation_part" "furniture_mounted_GET_model" {
-  location {
-    name   = "FurnitureMountedGet"
-    type   = "MODEL"
-  }
-  properties  = file("./src/furniture_mounted/api_gateway/documentation_part/method/request_body/GET/model_collection.json")
-  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
-}
-
-// furniture_mounted
-// animal_crossing/furniture_mounted METHOD
-resource "aws_api_gateway_documentation_part" "furniture_mounted_DELETE" {
-  location {
-    method = "DELETE"
-    path   = "/furniture_mounted"
-    type   = "METHOD"
-  }
-  properties  = file("./src/furniture_mounted/api_gateway/documentation_part/method/request/DELETE/model_collection.json")
-  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
-}
-
-// furniture_mounted
-// animal_crossing/furniture_mounted METHOD
-resource "aws_api_gateway_documentation_part" "furniture_mounted_GET" {
-  location {
-    method = "GET"
-    path   = "/furniture_mounted"
-    type   = "METHOD"
-  }
-  properties  = file("./src/furniture_mounted/api_gateway/documentation_part/method/request/GET/model_collection.json")
-  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
-}
-
-// furniture_mounted
-// animal_crossing/furniture_mounted METHOD
-resource "aws_api_gateway_documentation_part" "furniture_mounted_PATCH" {
-  location {
-    method = "PATCH"
-    path   = "/furniture_mounted"
-    type   = "METHOD"
-  }
-  properties  = file("./src/furniture_mounted/api_gateway/documentation_part/method/request/PATCH/model_collection.json")
-  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
-}
-
-// furniture_mounted
-// animal_crossing/furniture_mounted METHOD
-resource "aws_api_gateway_documentation_part" "furniture_mounted_POST" {
+resource "aws_api_gateway_documentation_part" "furniture_miscellaneous_POST_request_body" {
   location {
     method = "POST"
-    path   = "/furniture_mounted"
-    type   = "METHOD"
+    path   = "/furniture_miscellaneous"
+    type   = "REQUEST_BODY"
   }
-  properties  = file("./src/furniture_mounted/api_gateway/documentation_part/method/request/POST/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/request_body/furniture_miscellaneous/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_mounted
-// animal_crossing/furniture_mounted PATCH MODEL
-resource "aws_api_gateway_documentation_part" "furniture_mounted_PATCH_model" {
+resource "aws_api_gateway_documentation_part" "furniture_miscellaneous_POST_response_body_201" {
   location {
-    name   = "FurnitureMountedPatch"
-    type   = "MODEL"
+    method      = "POST"
+    path        = "/furniture_miscellaneous"
+    status_code = "201"
+    type        = "RESPONSE_BODY"
   }
-  properties  = file("./src/furniture_mounted/api_gateway/documentation_part/method/request_body/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response_body/furniture_miscellaneous/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_mounted
-// animal_crossing/furniture_mounted POST MODEL
-resource "aws_api_gateway_documentation_part" "furniture_mounted_POST_model" {
+resource "aws_api_gateway_documentation_part" "furniture_miscellaneous_model" {
   location {
-    name   = "FurnitureMountedPost"
-    type   = "MODEL"
+    name = "FurnitureMiscellaneous"
+    type = "MODEL"
   }
-  properties  = file("./src/furniture_mounted/api_gateway/documentation_part/method/request_body/POST/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/model/furniture_miscellaneous/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_mounted
-// animal_crossing/furniture_mounted RESOURCE
-resource "aws_api_gateway_documentation_part" "furniture_mounted" {
+resource "aws_api_gateway_documentation_part" "furniture_miscellaneous_model_collection" {
   location {
-    path   = "/furniture_mounted"
-    type   = "RESOURCE"
+    name = "FurnitureMiscellaneousCollection"
+    type = "MODEL"
   }
-  properties  = file("./src/furniture_mounted/api_gateway/documentation_part/resource/resources.json")
+  properties  = templatefile("./src/api_gateway/documentation_part/model/furniture_miscellaneous/documentation_collection.json", {
+    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  })
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_mounted
-// animal_crossing/furniture_mounted/{id} RESOURCE
-resource "aws_api_gateway_documentation_part" "furniture_mounted_id" {
+resource "aws_api_gateway_documentation_part" "furniture_music" {
   location {
-    path   = "/furniture_mounted/{id}"
-    type   = "RESOURCE"
+    path = "furniture_music"
+    type = "RESOURCE"
   }
-  properties  = file("./src/furniture_mounted/api_gateway/documentation_part/resource/resource.json")
+  properties  = file("./src/api_gateway/documentation_part/resource/furniture_music/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_music
-// animal_crossing/furniture_music DELETE MODEL
-resource "aws_api_gateway_documentation_part" "furniture_music_DELETE_model" {
-  location {
-    name   = "FurnitureMusicDelete"
-    type   = "MODEL"
-  }
-  properties  = file("./src/furniture_music/api_gateway/documentation_part/method/request_body/DELETE/model_collection.json")
-  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
-}
-
-// furniture_music
-// animal_crossing/furniture_music GET MODEL
-resource "aws_api_gateway_documentation_part" "furniture_music_GET_model" {
-  location {
-    name   = "FurnitureMusicGet"
-    type   = "MODEL"
-  }
-  properties  = file("./src/furniture_music/api_gateway/documentation_part/method/request_body/GET/model_collection.json")
-  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
-}
-
-// furniture_music
-// animal_crossing/furniture_music METHOD
-resource "aws_api_gateway_documentation_part" "furniture_music_DELETE" {
-  location {
-    method = "DELETE"
-    path   = "/furniture_music"
-    type   = "METHOD"
-  }
-  properties  = file("./src/furniture_music/api_gateway/documentation_part/method/request/DELETE/model_collection.json")
-  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
-}
-
-// furniture_music
-// animal_crossing/furniture_music METHOD
 resource "aws_api_gateway_documentation_part" "furniture_music_GET" {
   location {
     method = "GET"
     path   = "/furniture_music"
     type   = "METHOD"
   }
-  properties  = file("./src/furniture_music/api_gateway/documentation_part/method/request/GET/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/furniture_music/get/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_music
-// animal_crossing/furniture_music METHOD
-resource "aws_api_gateway_documentation_part" "furniture_music_PATCH" {
+resource "aws_api_gateway_documentation_part" "furniture_music_GET_200" {
   location {
-    method = "PATCH"
-    path   = "/furniture_music"
-    type   = "METHOD"
+    method      = "GET"
+    path        = "/furniture_music"
+    status_code = "200"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/furniture_music/api_gateway/documentation_part/method/request/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/furniture_music/get/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_music
-// animal_crossing/furniture_music METHOD
+resource "aws_api_gateway_documentation_part" "furniture_music_GET_request_body" {
+  location {
+    method = "GET"
+    path   = "/furniture_music"
+    type   = "REQUEST_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/request_body/furniture_music/get/documentation.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
+resource "aws_api_gateway_documentation_part" "furniture_music_GET_response_body_200" {
+  location {
+    method      = "GET"
+    path        = "/furniture_music"
+    status_code = "200"
+    type        = "RESPONSE_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/response_body/furniture_music/get/200.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
 resource "aws_api_gateway_documentation_part" "furniture_music_POST" {
   location {
     method = "POST"
     path   = "/furniture_music"
     type   = "METHOD"
   }
-  properties  = file("./src/furniture_music/api_gateway/documentation_part/method/request/POST/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/furniture_music/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_music
-// animal_crossing/furniture_music PATCH MODEL
-resource "aws_api_gateway_documentation_part" "furniture_music_PATCH_model" {
+resource "aws_api_gateway_documentation_part" "furniture_music_POST_201" {
   location {
-    name   = "FurnitureMusicPatch"
-    type   = "MODEL"
+    method      = "POST"
+    path        = "/furniture_music"
+    status_code = "201"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/furniture_music/api_gateway/documentation_part/method/request_body/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/furniture_music/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_music
-// animal_crossing/furniture_music POST MODEL
-resource "aws_api_gateway_documentation_part" "furniture_music_POST_model" {
+resource "aws_api_gateway_documentation_part" "furniture_music_POST_request_body" {
   location {
-    name   = "FurnitureMusicPost"
-    type   = "MODEL"
-  }
-  properties  = file("./src/furniture_music/api_gateway/documentation_part/method/request_body/POST/model_collection.json")
-  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
-}
-
-// furniture_music
-// animal_crossing/furniture_music RESOURCE
-resource "aws_api_gateway_documentation_part" "furniture_music" {
-  location {
+    method = "POST"
     path   = "/furniture_music"
-    type   = "RESOURCE"
+    type   = "REQUEST_BODY"
   }
-  properties  = file("./src/furniture_music/api_gateway/documentation_part/resource/resources.json")
+  properties  = file("./src/api_gateway/documentation_part/request_body/furniture_music/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_music
-// animal_crossing/furniture_music/{id} RESOURCE
-resource "aws_api_gateway_documentation_part" "furniture_music_id" {
+resource "aws_api_gateway_documentation_part" "furniture_music_POST_response_body_201" {
   location {
-    path   = "/furniture_music/{id}"
-    type   = "RESOURCE"
+    method      = "POST"
+    path        = "/furniture_music"
+    status_code = "201"
+    type        = "RESPONSE_BODY"
   }
-  properties  = file("./src/furniture_music/api_gateway/documentation_part/resource/resource.json")
+  properties  = file("./src/api_gateway/documentation_part/response_body/furniture_music/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_photo
-// animal_crossing/furniture_photo DELETE MODEL
-resource "aws_api_gateway_documentation_part" "furniture_photo_DELETE_model" {
+resource "aws_api_gateway_documentation_part" "furniture_music_model" {
   location {
-    name   = "FurniturePhotoDelete"
-    type   = "MODEL"
+    name = "FurnitureMusic"
+    type = "MODEL"
   }
-  properties  = file("./src/furniture_photo/api_gateway/documentation_part/method/request_body/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/model/furniture_music/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_photo
-// animal_crossing/furniture_photo GET MODEL
-resource "aws_api_gateway_documentation_part" "furniture_photo_GET_model" {
+resource "aws_api_gateway_documentation_part" "furniture_music_model_collection" {
   location {
-    name   = "FurniturePhotoGet"
-    type   = "MODEL"
+    name = "FurnitureMusicCollection"
+    type = "MODEL"
   }
-  properties  = file("./src/furniture_photo/api_gateway/documentation_part/method/request_body/GET/model_collection.json")
+  properties  = templatefile("./src/api_gateway/documentation_part/model/furniture_music/documentation_collection.json", {
+    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  })
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_photo
-// animal_crossing/furniture_photo METHOD
-resource "aws_api_gateway_documentation_part" "furniture_photo_DELETE" {
+resource "aws_api_gateway_documentation_part" "furniture_photo" {
   location {
-    method = "DELETE"
-    path   = "/furniture_photo"
-    type   = "METHOD"
+    path = "furniture_photo"
+    type = "RESOURCE"
   }
-  properties  = file("./src/furniture_photo/api_gateway/documentation_part/method/request/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/resource/furniture_photo/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_photo
-// animal_crossing/furniture_photo METHOD
 resource "aws_api_gateway_documentation_part" "furniture_photo_GET" {
   location {
     method = "GET"
     path   = "/furniture_photo"
     type   = "METHOD"
   }
-  properties  = file("./src/furniture_photo/api_gateway/documentation_part/method/request/GET/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/furniture_photo/get/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_photo
-// animal_crossing/furniture_photo METHOD
-resource "aws_api_gateway_documentation_part" "furniture_photo_PATCH" {
+resource "aws_api_gateway_documentation_part" "furniture_photo_GET_200" {
   location {
-    method = "PATCH"
-    path   = "/furniture_photo"
-    type   = "METHOD"
+    method      = "GET"
+    path        = "/furniture_photo"
+    status_code = "200"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/furniture_photo/api_gateway/documentation_part/method/request/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/furniture_photo/get/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_photo
-// animal_crossing/furniture_photo METHOD
+resource "aws_api_gateway_documentation_part" "furniture_photo_GET_request_body" {
+  location {
+    method = "GET"
+    path   = "/furniture_photo"
+    type   = "REQUEST_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/request_body/furniture_photo/get/documentation.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
+resource "aws_api_gateway_documentation_part" "furniture_photo_GET_response_body_200" {
+  location {
+    method      = "GET"
+    path        = "/furniture_photo"
+    status_code = "200"
+    type        = "RESPONSE_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/response_body/furniture_photo/get/200.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
 resource "aws_api_gateway_documentation_part" "furniture_photo_POST" {
   location {
     method = "POST"
     path   = "/furniture_photo"
     type   = "METHOD"
   }
-  properties  = file("./src/furniture_photo/api_gateway/documentation_part/method/request/POST/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/furniture_photo/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_photo
-// animal_crossing/furniture_photo PATCH MODEL
-resource "aws_api_gateway_documentation_part" "furniture_photo_PATCH_model" {
+resource "aws_api_gateway_documentation_part" "furniture_photo_POST_201" {
   location {
-    name   = "FurniturePhotoPatch"
-    type   = "MODEL"
+    method      = "POST"
+    path        = "/furniture_photo"
+    status_code = "201"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/furniture_photo/api_gateway/documentation_part/method/request_body/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/furniture_photo/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_photo
-// animal_crossing/furniture_photo POST MODEL
-resource "aws_api_gateway_documentation_part" "furniture_photo_POST_model" {
+resource "aws_api_gateway_documentation_part" "furniture_photo_POST_request_body" {
   location {
-    name   = "FurniturePhotoPost"
-    type   = "MODEL"
-  }
-  properties  = file("./src/furniture_photo/api_gateway/documentation_part/method/request_body/POST/model_collection.json")
-  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
-}
-
-// furniture_photo
-// animal_crossing/furniture_photo RESOURCE
-resource "aws_api_gateway_documentation_part" "furniture_photo" {
-  location {
+    method = "POST"
     path   = "/furniture_photo"
-    type   = "RESOURCE"
+    type   = "REQUEST_BODY"
   }
-  properties  = file("./src/furniture_photo/api_gateway/documentation_part/resource/resources.json")
+  properties  = file("./src/api_gateway/documentation_part/request_body/furniture_photo/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_photo
-// animal_crossing/furniture_photo/{id} RESOURCE
-resource "aws_api_gateway_documentation_part" "furniture_photo_id" {
+resource "aws_api_gateway_documentation_part" "furniture_photo_POST_response_body_201" {
   location {
-    path   = "/furniture_photo/{id}"
-    type   = "RESOURCE"
+    method      = "POST"
+    path        = "/furniture_photo"
+    status_code = "201"
+    type        = "RESPONSE_BODY"
   }
-  properties  = file("./src/furniture_photo/api_gateway/documentation_part/resource/resource.json")
+  properties  = file("./src/api_gateway/documentation_part/response_body/furniture_photo/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_poster
-// animal_crossing/furniture_poster DELETE MODEL
-resource "aws_api_gateway_documentation_part" "furniture_poster_DELETE_model" {
+resource "aws_api_gateway_documentation_part" "furniture_photo_model" {
   location {
-    name   = "FurniturePosterDelete"
-    type   = "MODEL"
+    name = "FurniturePhoto"
+    type = "MODEL"
   }
-  properties  = file("./src/furniture_poster/api_gateway/documentation_part/method/request_body/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/model/furniture_photo/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_poster
-// animal_crossing/furniture_poster GET MODEL
-resource "aws_api_gateway_documentation_part" "furniture_poster_GET_model" {
+resource "aws_api_gateway_documentation_part" "furniture_photo_model_collection" {
   location {
-    name   = "FurniturePosterGet"
-    type   = "MODEL"
+    name = "FurniturePhotoCollection"
+    type = "MODEL"
   }
-  properties  = file("./src/furniture_poster/api_gateway/documentation_part/method/request_body/GET/model_collection.json")
+  properties  = templatefile("./src/api_gateway/documentation_part/model/furniture_photo/documentation_collection.json", {
+    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  })
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_poster
-// animal_crossing/furniture_poster METHOD
-resource "aws_api_gateway_documentation_part" "furniture_poster_DELETE" {
+resource "aws_api_gateway_documentation_part" "furniture_poster" {
   location {
-    method = "DELETE"
-    path   = "/furniture_poster"
-    type   = "METHOD"
+    path = "furniture_poster"
+    type = "RESOURCE"
   }
-  properties  = file("./src/furniture_poster/api_gateway/documentation_part/method/request/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/resource/furniture_poster/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_poster
-// animal_crossing/furniture_poster METHOD
 resource "aws_api_gateway_documentation_part" "furniture_poster_GET" {
   location {
     method = "GET"
     path   = "/furniture_poster"
     type   = "METHOD"
   }
-  properties  = file("./src/furniture_poster/api_gateway/documentation_part/method/request/GET/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/furniture_poster/get/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_poster
-// animal_crossing/furniture_poster METHOD
-resource "aws_api_gateway_documentation_part" "furniture_poster_PATCH" {
+resource "aws_api_gateway_documentation_part" "furniture_poster_GET_200" {
   location {
-    method = "PATCH"
-    path   = "/furniture_poster"
-    type   = "METHOD"
+    method      = "GET"
+    path        = "/furniture_poster"
+    status_code = "200"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/furniture_poster/api_gateway/documentation_part/method/request/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/furniture_poster/get/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_poster
-// animal_crossing/furniture_poster METHOD
+resource "aws_api_gateway_documentation_part" "furniture_poster_GET_request_body" {
+  location {
+    method = "GET"
+    path   = "/furniture_poster"
+    type   = "REQUEST_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/request_body/furniture_poster/get/documentation.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
+resource "aws_api_gateway_documentation_part" "furniture_poster_GET_response_body_200" {
+  location {
+    method      = "GET"
+    path        = "/furniture_poster"
+    status_code = "200"
+    type        = "RESPONSE_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/response_body/furniture_poster/get/200.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
 resource "aws_api_gateway_documentation_part" "furniture_poster_POST" {
   location {
     method = "POST"
     path   = "/furniture_poster"
     type   = "METHOD"
   }
-  properties  = file("./src/furniture_poster/api_gateway/documentation_part/method/request/POST/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/furniture_poster/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_poster
-// animal_crossing/furniture_poster PATCH MODEL
-resource "aws_api_gateway_documentation_part" "furniture_poster_PATCH_model" {
+resource "aws_api_gateway_documentation_part" "furniture_poster_POST_201" {
   location {
-    name   = "FurniturePosterPatch"
-    type   = "MODEL"
+    method      = "POST"
+    path        = "/furniture_poster"
+    status_code = "201"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/furniture_poster/api_gateway/documentation_part/method/request_body/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/furniture_poster/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_poster
-// animal_crossing/furniture_poster POST MODEL
-resource "aws_api_gateway_documentation_part" "furniture_poster_POST_model" {
+resource "aws_api_gateway_documentation_part" "furniture_poster_POST_request_body" {
   location {
-    name   = "FurniturePosterPost"
-    type   = "MODEL"
-  }
-  properties  = file("./src/furniture_poster/api_gateway/documentation_part/method/request_body/POST/model_collection.json")
-  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
-}
-
-// furniture_poster
-// animal_crossing/furniture_poster RESOURCE
-resource "aws_api_gateway_documentation_part" "furniture_poster" {
-  location {
+    method = "POST"
     path   = "/furniture_poster"
-    type   = "RESOURCE"
+    type   = "REQUEST_BODY"
   }
-  properties  = file("./src/furniture_poster/api_gateway/documentation_part/resource/resources.json")
+  properties  = file("./src/api_gateway/documentation_part/request_body/furniture_poster/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_poster
-// animal_crossing/furniture_poster/{id} RESOURCE
-resource "aws_api_gateway_documentation_part" "furniture_poster_id" {
+resource "aws_api_gateway_documentation_part" "furniture_poster_POST_response_body_201" {
   location {
-    path   = "/furniture_poster/{id}"
-    type   = "RESOURCE"
+    method      = "POST"
+    path        = "/furniture_poster"
+    status_code = "201"
+    type        = "RESPONSE_BODY"
   }
-  properties  = file("./src/furniture_poster/api_gateway/documentation_part/resource/resource.json")
+  properties  = file("./src/api_gateway/documentation_part/response_body/furniture_poster/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_rug
-// animal_crossing/furniture_rug DELETE MODEL
-resource "aws_api_gateway_documentation_part" "furniture_rug_DELETE_model" {
+resource "aws_api_gateway_documentation_part" "furniture_poster_model" {
   location {
-    name   = "FurnitureRugDelete"
-    type   = "MODEL"
+    name = "FurniturePoster"
+    type = "MODEL"
   }
-  properties  = file("./src/furniture_rug/api_gateway/documentation_part/method/request_body/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/model/furniture_poster/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_rug
-// animal_crossing/furniture_rug GET MODEL
-resource "aws_api_gateway_documentation_part" "furniture_rug_GET_model" {
+resource "aws_api_gateway_documentation_part" "furniture_poster_model_collection" {
   location {
-    name   = "FurnitureRugGet"
-    type   = "MODEL"
+    name = "FurniturePosterCollection"
+    type = "MODEL"
   }
-  properties  = file("./src/furniture_rug/api_gateway/documentation_part/method/request_body/GET/model_collection.json")
+  properties  = templatefile("./src/api_gateway/documentation_part/model/furniture_poster/documentation_collection.json", {
+    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  })
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_rug
-// animal_crossing/furniture_rug METHOD
-resource "aws_api_gateway_documentation_part" "furniture_rug_DELETE" {
+resource "aws_api_gateway_documentation_part" "furniture_rug" {
   location {
-    method = "DELETE"
-    path   = "/furniture_rug"
-    type   = "METHOD"
+    path = "furniture_rug"
+    type = "RESOURCE"
   }
-  properties  = file("./src/furniture_rug/api_gateway/documentation_part/method/request/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/resource/furniture_rug/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_rug
-// animal_crossing/furniture_rug METHOD
 resource "aws_api_gateway_documentation_part" "furniture_rug_GET" {
   location {
     method = "GET"
     path   = "/furniture_rug"
     type   = "METHOD"
   }
-  properties  = file("./src/furniture_rug/api_gateway/documentation_part/method/request/GET/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/furniture_rug/get/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_rug
-// animal_crossing/furniture_rug METHOD
-resource "aws_api_gateway_documentation_part" "furniture_rug_PATCH" {
+resource "aws_api_gateway_documentation_part" "furniture_rug_GET_200" {
   location {
-    method = "PATCH"
-    path   = "/furniture_rug"
-    type   = "METHOD"
+    method      = "GET"
+    path        = "/furniture_rug"
+    status_code = "200"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/furniture_rug/api_gateway/documentation_part/method/request/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/furniture_rug/get/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_rug
-// animal_crossing/furniture_rug METHOD
+resource "aws_api_gateway_documentation_part" "furniture_rug_GET_request_body" {
+  location {
+    method = "GET"
+    path   = "/furniture_rug"
+    type   = "REQUEST_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/request_body/furniture_rug/get/documentation.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
+resource "aws_api_gateway_documentation_part" "furniture_rug_GET_response_body_200" {
+  location {
+    method      = "GET"
+    path        = "/furniture_rug"
+    status_code = "200"
+    type        = "RESPONSE_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/response_body/furniture_rug/get/200.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
 resource "aws_api_gateway_documentation_part" "furniture_rug_POST" {
   location {
     method = "POST"
     path   = "/furniture_rug"
     type   = "METHOD"
   }
-  properties  = file("./src/furniture_rug/api_gateway/documentation_part/method/request/POST/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/furniture_rug/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_rug
-// animal_crossing/furniture_rug PATCH MODEL
-resource "aws_api_gateway_documentation_part" "furniture_rug_PATCH_model" {
+resource "aws_api_gateway_documentation_part" "furniture_rug_POST_201" {
   location {
-    name   = "FurnitureRugPatch"
-    type   = "MODEL"
+    method      = "POST"
+    path        = "/furniture_rug"
+    status_code = "201"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/furniture_rug/api_gateway/documentation_part/method/request_body/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/furniture_rug/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_rug
-// animal_crossing/furniture_rug POST MODEL
-resource "aws_api_gateway_documentation_part" "furniture_rug_POST_model" {
+resource "aws_api_gateway_documentation_part" "furniture_rug_POST_request_body" {
   location {
-    name   = "FurnitureRugPost"
-    type   = "MODEL"
-  }
-  properties  = file("./src/furniture_rug/api_gateway/documentation_part/method/request_body/POST/model_collection.json")
-  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
-}
-
-// furniture_rug
-// animal_crossing/furniture_rug RESOURCE
-resource "aws_api_gateway_documentation_part" "furniture_rug" {
-  location {
+    method = "POST"
     path   = "/furniture_rug"
-    type   = "RESOURCE"
+    type   = "REQUEST_BODY"
   }
-  properties  = file("./src/furniture_rug/api_gateway/documentation_part/resource/resources.json")
+  properties  = file("./src/api_gateway/documentation_part/request_body/furniture_rug/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_rug
-// animal_crossing/furniture_rug/{id} RESOURCE
-resource "aws_api_gateway_documentation_part" "furniture_rug_id" {
+resource "aws_api_gateway_documentation_part" "furniture_rug_POST_response_body_201" {
   location {
-    path   = "/furniture_rug/{id}"
-    type   = "RESOURCE"
+    method      = "POST"
+    path        = "/furniture_rug"
+    status_code = "201"
+    type        = "RESPONSE_BODY"
   }
-  properties  = file("./src/furniture_rug/api_gateway/documentation_part/resource/resource.json")
+  properties  = file("./src/api_gateway/documentation_part/response_body/furniture_rug/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_wall_mounted
-// animal_crossing/furniture_wall_mounted DELETE MODEL
-resource "aws_api_gateway_documentation_part" "furniture_wall_mounted_DELETE_model" {
+resource "aws_api_gateway_documentation_part" "furniture_rug_model" {
   location {
-    name   = "FurnitureWallMountedDelete"
-    type   = "MODEL"
+    name = "FurnitureRug"
+    type = "MODEL"
   }
-  properties  = file("./src/furniture_wall_mounted/api_gateway/documentation_part/method/request_body/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/model/furniture_rug/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_wall_mounted
-// animal_crossing/furniture_wall_mounted GET MODEL
-resource "aws_api_gateway_documentation_part" "furniture_wall_mounted_GET_model" {
+resource "aws_api_gateway_documentation_part" "furniture_rug_model_collection" {
   location {
-    name   = "FurnitureWallMountedGet"
-    type   = "MODEL"
+    name = "FurnitureRugCollection"
+    type = "MODEL"
   }
-  properties  = file("./src/furniture_wall_mounted/api_gateway/documentation_part/method/request_body/GET/model_collection.json")
+  properties  = templatefile("./src/api_gateway/documentation_part/model/furniture_rug/documentation_collection.json", {
+    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  })
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_wall_mounted
-// animal_crossing/furniture_wall_mounted METHOD
-resource "aws_api_gateway_documentation_part" "furniture_wall_mounted_DELETE" {
+resource "aws_api_gateway_documentation_part" "furniture_wall_mounted" {
   location {
-    method = "DELETE"
-    path   = "/furniture_wall_mounted"
-    type   = "METHOD"
+    path = "furniture_wall_mounted"
+    type = "RESOURCE"
   }
-  properties  = file("./src/furniture_wall_mounted/api_gateway/documentation_part/method/request/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/resource/furniture_wall_mounted/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_wall_mounted
-// animal_crossing/furniture_wall_mounted METHOD
 resource "aws_api_gateway_documentation_part" "furniture_wall_mounted_GET" {
   location {
     method = "GET"
     path   = "/furniture_wall_mounted"
     type   = "METHOD"
   }
-  properties  = file("./src/furniture_wall_mounted/api_gateway/documentation_part/method/request/GET/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/furniture_wall_mounted/get/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_wall_mounted
-// animal_crossing/furniture_wall_mounted METHOD
-resource "aws_api_gateway_documentation_part" "furniture_wall_mounted_PATCH" {
+resource "aws_api_gateway_documentation_part" "furniture_wall_mounted_GET_200" {
   location {
-    method = "PATCH"
-    path   = "/furniture_wall_mounted"
-    type   = "METHOD"
+    method      = "GET"
+    path        = "/furniture_wall_mounted"
+    status_code = "200"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/furniture_wall_mounted/api_gateway/documentation_part/method/request/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/furniture_wall_mounted/get/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_wall_mounted
-// animal_crossing/furniture_wall_mounted METHOD
+resource "aws_api_gateway_documentation_part" "furniture_wall_mounted_GET_request_body" {
+  location {
+    method = "GET"
+    path   = "/furniture_wall_mounted"
+    type   = "REQUEST_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/request_body/furniture_wall_mounted/get/documentation.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
+resource "aws_api_gateway_documentation_part" "furniture_wall_mounted_GET_response_body_200" {
+  location {
+    method      = "GET"
+    path        = "/furniture_wall_mounted"
+    status_code = "200"
+    type        = "RESPONSE_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/response_body/furniture_wall_mounted/get/200.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
 resource "aws_api_gateway_documentation_part" "furniture_wall_mounted_POST" {
   location {
     method = "POST"
     path   = "/furniture_wall_mounted"
     type   = "METHOD"
   }
-  properties  = file("./src/furniture_wall_mounted/api_gateway/documentation_part/method/request/POST/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/furniture_wall_mounted/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_wall_mounted
-// animal_crossing/furniture_wall_mounted PATCH MODEL
-resource "aws_api_gateway_documentation_part" "furniture_wall_mounted_PATCH_model" {
+resource "aws_api_gateway_documentation_part" "furniture_wall_mounted_POST_201" {
   location {
-    name   = "FurnitureWallMountedPatch"
-    type   = "MODEL"
+    method      = "POST"
+    path        = "/furniture_wall_mounted"
+    status_code = "201"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/furniture_wall_mounted/api_gateway/documentation_part/method/request_body/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/furniture_wall_mounted/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_wall_mounted
-// animal_crossing/furniture_wall_mounted POST MODEL
-resource "aws_api_gateway_documentation_part" "furniture_wall_mounted_POST_model" {
+resource "aws_api_gateway_documentation_part" "furniture_wall_mounted_POST_request_body" {
   location {
-    name   = "FurnitureWallMountedPost"
-    type   = "MODEL"
-  }
-  properties  = file("./src/furniture_wall_mounted/api_gateway/documentation_part/method/request_body/POST/model_collection.json")
-  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
-}
-
-// furniture_wall_mounted
-// animal_crossing/furniture_wall_mounted RESOURCE
-resource "aws_api_gateway_documentation_part" "furniture_wall_mounted" {
-  location {
+    method = "POST"
     path   = "/furniture_wall_mounted"
-    type   = "RESOURCE"
+    type   = "REQUEST_BODY"
   }
-  properties  = file("./src/furniture_wall_mounted/api_gateway/documentation_part/resource/resources.json")
+  properties  = file("./src/api_gateway/documentation_part/request_body/furniture_wall_mounted/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_wall_mounted
-// animal_crossing/furniture_wall_mounted/{id} RESOURCE
-resource "aws_api_gateway_documentation_part" "furniture_wall_mounted_id" {
+resource "aws_api_gateway_documentation_part" "furniture_wall_mounted_POST_response_body_201" {
   location {
-    path   = "/furniture_wall_mounted/{id}"
-    type   = "RESOURCE"
+    method      = "POST"
+    path        = "/furniture_wall_mounted"
+    status_code = "201"
+    type        = "RESPONSE_BODY"
   }
-  properties  = file("./src/furniture_wall_mounted/api_gateway/documentation_part/resource/resource.json")
+  properties  = file("./src/api_gateway/documentation_part/response_body/furniture_wall_mounted/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_wallpaper
-// animal_crossing/furniture_wallpaper DELETE MODEL
-resource "aws_api_gateway_documentation_part" "furniture_wallpaper_DELETE_model" {
+resource "aws_api_gateway_documentation_part" "furniture_wall_mounted_model" {
   location {
-    name   = "FurnitureWallpaperDelete"
-    type   = "MODEL"
+    name = "FurnitureWallMounted"
+    type = "MODEL"
   }
-  properties  = file("./src/furniture_wallpaper/api_gateway/documentation_part/method/request_body/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/model/furniture_wall_mounted/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_wallpaper
-// animal_crossing/furniture_wallpaper GET MODEL
-resource "aws_api_gateway_documentation_part" "furniture_wallpaper_GET_model" {
+resource "aws_api_gateway_documentation_part" "furniture_wall_mounted_model_collection" {
   location {
-    name   = "FurnitureWallpaperGet"
-    type   = "MODEL"
+    name = "FurnitureWallMountedCollection"
+    type = "MODEL"
   }
-  properties  = file("./src/furniture_wallpaper/api_gateway/documentation_part/method/request_body/GET/model_collection.json")
+  properties  = templatefile("./src/api_gateway/documentation_part/model/furniture_wall_mounted/documentation_collection.json", {
+    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  })
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_wallpaper
-// animal_crossing/furniture_wallpaper METHOD
-resource "aws_api_gateway_documentation_part" "furniture_wallpaper_DELETE" {
+resource "aws_api_gateway_documentation_part" "furniture_wallpaper" {
   location {
-    method = "DELETE"
-    path   = "/furniture_wallpaper"
-    type   = "METHOD"
+    path = "furniture_wallpaper"
+    type = "RESOURCE"
   }
-  properties  = file("./src/furniture_wallpaper/api_gateway/documentation_part/method/request/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/resource/furniture_wallpaper/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_wallpaper
-// animal_crossing/furniture_wallpaper METHOD
 resource "aws_api_gateway_documentation_part" "furniture_wallpaper_GET" {
   location {
     method = "GET"
     path   = "/furniture_wallpaper"
     type   = "METHOD"
   }
-  properties  = file("./src/furniture_wallpaper/api_gateway/documentation_part/method/request/GET/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/furniture_wallpaper/get/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_wallpaper
-// animal_crossing/furniture_wallpaper METHOD
-resource "aws_api_gateway_documentation_part" "furniture_wallpaper_PATCH" {
+resource "aws_api_gateway_documentation_part" "furniture_wallpaper_GET_200" {
   location {
-    method = "PATCH"
-    path   = "/furniture_wallpaper"
-    type   = "METHOD"
+    method      = "GET"
+    path        = "/furniture_wallpaper"
+    status_code = "200"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/furniture_wallpaper/api_gateway/documentation_part/method/request/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/furniture_wallpaper/get/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_wallpaper
-// animal_crossing/furniture_wallpaper METHOD
+resource "aws_api_gateway_documentation_part" "furniture_wallpaper_GET_request_body" {
+  location {
+    method = "GET"
+    path   = "/furniture_wallpaper"
+    type   = "REQUEST_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/request_body/furniture_wallpaper/get/documentation.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
+resource "aws_api_gateway_documentation_part" "furniture_wallpaper_GET_response_body_200" {
+  location {
+    method      = "GET"
+    path        = "/furniture_wallpaper"
+    status_code = "200"
+    type        = "RESPONSE_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/response_body/furniture_wallpaper/get/200.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
 resource "aws_api_gateway_documentation_part" "furniture_wallpaper_POST" {
   location {
     method = "POST"
     path   = "/furniture_wallpaper"
     type   = "METHOD"
   }
-  properties  = file("./src/furniture_wallpaper/api_gateway/documentation_part/method/request/POST/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/furniture_wallpaper/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_wallpaper
-// animal_crossing/furniture_wallpaper PATCH MODEL
-resource "aws_api_gateway_documentation_part" "furniture_wallpaper_PATCH_model" {
+resource "aws_api_gateway_documentation_part" "furniture_wallpaper_POST_201" {
   location {
-    name   = "FurnitureWallpaperPatch"
-    type   = "MODEL"
+    method      = "POST"
+    path        = "/furniture_wallpaper"
+    status_code = "201"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/furniture_wallpaper/api_gateway/documentation_part/method/request_body/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/furniture_wallpaper/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_wallpaper
-// animal_crossing/furniture_wallpaper POST MODEL
-resource "aws_api_gateway_documentation_part" "furniture_wallpaper_POST_model" {
+resource "aws_api_gateway_documentation_part" "furniture_wallpaper_POST_request_body" {
   location {
-    name   = "FurnitureWallpaperPost"
-    type   = "MODEL"
-  }
-  properties  = file("./src/furniture_wallpaper/api_gateway/documentation_part/method/request_body/POST/model_collection.json")
-  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
-}
-
-// furniture_wallpaper
-// animal_crossing/furniture_wallpaper RESOURCE
-resource "aws_api_gateway_documentation_part" "furniture_wallpaper" {
-  location {
+    method = "POST"
     path   = "/furniture_wallpaper"
-    type   = "RESOURCE"
+    type   = "REQUEST_BODY"
   }
-  properties  = file("./src/furniture_wallpaper/api_gateway/documentation_part/resource/resources.json")
+  properties  = file("./src/api_gateway/documentation_part/request_body/furniture_wallpaper/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// furniture_wallpaper
-// animal_crossing/furniture_wallpaper/{id} RESOURCE
-resource "aws_api_gateway_documentation_part" "furniture_wallpaper_id" {
+resource "aws_api_gateway_documentation_part" "furniture_wallpaper_POST_response_body_201" {
   location {
-    path   = "/furniture_wallpaper/{id}"
-    type   = "RESOURCE"
+    method      = "POST"
+    path        = "/furniture_wallpaper"
+    status_code = "201"
+    type        = "RESPONSE_BODY"
   }
-  properties  = file("./src/furniture_wallpaper/api_gateway/documentation_part/resource/resource.json")
+  properties  = file("./src/api_gateway/documentation_part/response_body/furniture_wallpaper/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// item
-// animal_crossing/item DELETE MODEL
-resource "aws_api_gateway_documentation_part" "item_DELETE_model" {
+resource "aws_api_gateway_documentation_part" "furniture_wallpaper_model" {
   location {
-    name   = "ItemDelete"
-    type   = "MODEL"
+    name = "FurnitureWallpaper"
+    type = "MODEL"
   }
-  properties  = file("./src/item/api_gateway/documentation_part/method/request_body/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/model/furniture_wallpaper/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// item
-// animal_crossing/item GET MODEL
-resource "aws_api_gateway_documentation_part" "item_GET_model" {
+resource "aws_api_gateway_documentation_part" "furniture_wallpaper_model_collection" {
   location {
-    name   = "ItemGet"
-    type   = "MODEL"
+    name = "FurnitureWallpaperCollection"
+    type = "MODEL"
   }
-  properties  = file("./src/item/api_gateway/documentation_part/method/request_body/GET/model_collection.json")
+  properties  = templatefile("./src/api_gateway/documentation_part/model/furniture_wallpaper/documentation_collection.json", {
+    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  })
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// item
-// animal_crossing/item METHOD
-resource "aws_api_gateway_documentation_part" "item_DELETE" {
+resource "aws_api_gateway_documentation_part" "item" {
   location {
-    method = "DELETE"
-    path   = "/item"
-    type   = "METHOD"
+    path = "item"
+    type = "RESOURCE"
   }
-  properties  = file("./src/item/api_gateway/documentation_part/method/request/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/resource/item/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// item
-// animal_crossing/item METHOD
 resource "aws_api_gateway_documentation_part" "item_GET" {
   location {
     method = "GET"
     path   = "/item"
     type   = "METHOD"
   }
-  properties  = file("./src/item/api_gateway/documentation_part/method/request/GET/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/item/get/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// item
-// animal_crossing/item METHOD
-resource "aws_api_gateway_documentation_part" "item_PATCH" {
+resource "aws_api_gateway_documentation_part" "item_GET_200" {
   location {
-    method = "PATCH"
-    path   = "/item"
-    type   = "METHOD"
+    method      = "GET"
+    path        = "/item"
+    status_code = "200"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/item/api_gateway/documentation_part/method/request/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/item/get/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// item
-// animal_crossing/item METHOD
+resource "aws_api_gateway_documentation_part" "item_GET_request_body" {
+  location {
+    method = "GET"
+    path   = "/item"
+    type   = "REQUEST_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/request_body/item/get/documentation.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
+resource "aws_api_gateway_documentation_part" "item_GET_response_body_200" {
+  location {
+    method      = "GET"
+    path        = "/item"
+    status_code = "200"
+    type        = "RESPONSE_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/response_body/item/get/200.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
 resource "aws_api_gateway_documentation_part" "item_POST" {
   location {
     method = "POST"
     path   = "/item"
     type   = "METHOD"
   }
-  properties  = file("./src/item/api_gateway/documentation_part/method/request/POST/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/item/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// item
-// animal_crossing/item PATCH MODEL
-resource "aws_api_gateway_documentation_part" "item_PATCH_model" {
+resource "aws_api_gateway_documentation_part" "item_POST_201" {
   location {
-    name   = "ItemPatch"
-    type   = "MODEL"
+    method      = "POST"
+    path        = "/item"
+    status_code = "201"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/item/api_gateway/documentation_part/method/request_body/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/item/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// item
-// animal_crossing/item POST MODEL
-resource "aws_api_gateway_documentation_part" "item_POST_model" {
+resource "aws_api_gateway_documentation_part" "item_POST_request_body" {
   location {
-    name   = "ItemPost"
-    type   = "MODEL"
-  }
-  properties  = file("./src/item/api_gateway/documentation_part/method/request_body/POST/model_collection.json")
-  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
-}
-
-// item
-// animal_crossing/item RESOURCE
-resource "aws_api_gateway_documentation_part" "item" {
-  location {
+    method = "POST"
     path   = "/item"
-    type   = "RESOURCE"
+    type   = "REQUEST_BODY"
   }
-  properties  = file("./src/item/api_gateway/documentation_part/resource/resources.json")
+  properties  = file("./src/api_gateway/documentation_part/request_body/item/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// item
-// animal_crossing/item/{id} RESOURCE
-resource "aws_api_gateway_documentation_part" "item_id" {
+resource "aws_api_gateway_documentation_part" "item_POST_response_body_201" {
   location {
-    path   = "/item/{id}"
-    type   = "RESOURCE"
+    method      = "POST"
+    path        = "/item"
+    status_code = "201"
+    type        = "RESPONSE_BODY"
   }
-  properties  = file("./src/item/api_gateway/documentation_part/resource/resource.json")
+  properties  = file("./src/api_gateway/documentation_part/response_body/item/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// item_other
-// animal_crossing/item_other DELETE MODEL
-resource "aws_api_gateway_documentation_part" "item_other_DELETE_model" {
+resource "aws_api_gateway_documentation_part" "item_model" {
   location {
-    name   = "ItemOtherDelete"
-    type   = "MODEL"
+    name = "Item"
+    type = "MODEL"
   }
-  properties  = file("./src/item_other/api_gateway/documentation_part/method/request_body/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/model/item/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// item_other
-// animal_crossing/item_other GET MODEL
-resource "aws_api_gateway_documentation_part" "item_other_GET_model" {
+resource "aws_api_gateway_documentation_part" "item_model_collection" {
   location {
-    name   = "ItemOtherGet"
-    type   = "MODEL"
+    name = "ItemCollection"
+    type = "MODEL"
   }
-  properties  = file("./src/item_other/api_gateway/documentation_part/method/request_body/GET/model_collection.json")
+  properties  = templatefile("./src/api_gateway/documentation_part/model/item/documentation_collection.json", {
+    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  })
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// item_other
-// animal_crossing/item_other METHOD
-resource "aws_api_gateway_documentation_part" "item_other_DELETE" {
+resource "aws_api_gateway_documentation_part" "item_other" {
   location {
-    method = "DELETE"
-    path   = "/item_other"
-    type   = "METHOD"
+    path = "item_other"
+    type = "RESOURCE"
   }
-  properties  = file("./src/item_other/api_gateway/documentation_part/method/request/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/resource/item_other/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// item_other
-// animal_crossing/item_other METHOD
 resource "aws_api_gateway_documentation_part" "item_other_GET" {
   location {
     method = "GET"
     path   = "/item_other"
     type   = "METHOD"
   }
-  properties  = file("./src/item_other/api_gateway/documentation_part/method/request/GET/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/item_other/get/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// item_other
-// animal_crossing/item_other METHOD
-resource "aws_api_gateway_documentation_part" "item_other_PATCH" {
+resource "aws_api_gateway_documentation_part" "item_other_GET_200" {
   location {
-    method = "PATCH"
-    path   = "/item_other"
-    type   = "METHOD"
+    method      = "GET"
+    path        = "/item_other"
+    status_code = "200"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/item_other/api_gateway/documentation_part/method/request/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/item_other/get/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// item_other
-// animal_crossing/item_other METHOD
+resource "aws_api_gateway_documentation_part" "item_other_GET_request_body" {
+  location {
+    method = "GET"
+    path   = "/item_other"
+    type   = "REQUEST_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/request_body/item_other/get/documentation.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
+resource "aws_api_gateway_documentation_part" "item_other_GET_response_body_200" {
+  location {
+    method      = "GET"
+    path        = "/item_other"
+    status_code = "200"
+    type        = "RESPONSE_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/response_body/item_other/get/200.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
 resource "aws_api_gateway_documentation_part" "item_other_POST" {
   location {
     method = "POST"
     path   = "/item_other"
     type   = "METHOD"
   }
-  properties  = file("./src/item_other/api_gateway/documentation_part/method/request/POST/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/item_other/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// item_other
-// animal_crossing/item_other PATCH MODEL
-resource "aws_api_gateway_documentation_part" "item_other_PATCH_model" {
+resource "aws_api_gateway_documentation_part" "item_other_POST_201" {
   location {
-    name   = "ItemOtherPatch"
-    type   = "MODEL"
+    method      = "POST"
+    path        = "/item_other"
+    status_code = "201"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/item_other/api_gateway/documentation_part/method/request_body/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/item_other/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// item_other
-// animal_crossing/item_other POST MODEL
-resource "aws_api_gateway_documentation_part" "item_other_POST_model" {
+resource "aws_api_gateway_documentation_part" "item_other_POST_request_body" {
   location {
-    name   = "ItemOtherPost"
-    type   = "MODEL"
-  }
-  properties  = file("./src/item_other/api_gateway/documentation_part/method/request_body/POST/model_collection.json")
-  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
-}
-
-// item_other
-// animal_crossing/item_other RESOURCE
-resource "aws_api_gateway_documentation_part" "item_other" {
-  location {
+    method = "POST"
     path   = "/item_other"
-    type   = "RESOURCE"
+    type   = "REQUEST_BODY"
   }
-  properties  = file("./src/item_other/api_gateway/documentation_part/resource/resources.json")
+  properties  = file("./src/api_gateway/documentation_part/request_body/item_other/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// item_other
-// animal_crossing/item_other/{id} RESOURCE
-resource "aws_api_gateway_documentation_part" "item_other_id" {
+resource "aws_api_gateway_documentation_part" "item_other_POST_response_body_201" {
   location {
-    path   = "/item_other/{id}"
-    type   = "RESOURCE"
+    method      = "POST"
+    path        = "/item_other"
+    status_code = "201"
+    type        = "RESPONSE_BODY"
   }
-  properties  = file("./src/item_other/api_gateway/documentation_part/resource/resource.json")
+  properties  = file("./src/api_gateway/documentation_part/response_body/item_other/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// occasion
-// animal_crossing/occasion DELETE MODEL
-resource "aws_api_gateway_documentation_part" "occasion_DELETE_model" {
+resource "aws_api_gateway_documentation_part" "item_other_model" {
   location {
-    name   = "OccasionDelete"
-    type   = "MODEL"
+    name = "ItemOther"
+    type = "MODEL"
   }
-  properties  = file("./src/occasion/api_gateway/documentation_part/method/request_body/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/model/item_other/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// occasion
-// animal_crossing/occasion GET MODEL
-resource "aws_api_gateway_documentation_part" "occasion_GET_model" {
+resource "aws_api_gateway_documentation_part" "item_other_model_collection" {
   location {
-    name   = "OccasionGet"
-    type   = "MODEL"
+    name = "ItemOtherCollection"
+    type = "MODEL"
   }
-  properties  = file("./src/occasion/api_gateway/documentation_part/method/request_body/GET/model_collection.json")
+  properties  = templatefile("./src/api_gateway/documentation_part/model/item_other/documentation_collection.json", {
+    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  })
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// occasion
-// animal_crossing/occasion METHOD
-resource "aws_api_gateway_documentation_part" "occasion_DELETE" {
+resource "aws_api_gateway_documentation_part" "occasion" {
   location {
-    method = "DELETE"
-    path   = "/occasion"
-    type   = "METHOD"
+    path = "occasion"
+    type = "RESOURCE"
   }
-  properties  = file("./src/occasion/api_gateway/documentation_part/method/request/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/resource/occasion/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// occasion
-// animal_crossing/occasion METHOD
 resource "aws_api_gateway_documentation_part" "occasion_GET" {
   location {
     method = "GET"
     path   = "/occasion"
     type   = "METHOD"
   }
-  properties  = file("./src/occasion/api_gateway/documentation_part/method/request/GET/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/occasion/get/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// occasion
-// animal_crossing/occasion METHOD
-resource "aws_api_gateway_documentation_part" "occasion_PATCH" {
+resource "aws_api_gateway_documentation_part" "occasion_GET_200" {
   location {
-    method = "PATCH"
-    path   = "/occasion"
-    type   = "METHOD"
+    method      = "GET"
+    path        = "/occasion"
+    status_code = "200"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/occasion/api_gateway/documentation_part/method/request/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/occasion/get/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// occasion
-// animal_crossing/occasion METHOD
+resource "aws_api_gateway_documentation_part" "occasion_GET_request_body" {
+  location {
+    method = "GET"
+    path   = "/occasion"
+    type   = "REQUEST_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/request_body/occasion/get/documentation.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
+resource "aws_api_gateway_documentation_part" "occasion_GET_response_body_200" {
+  location {
+    method      = "GET"
+    path        = "/occasion"
+    status_code = "200"
+    type        = "RESPONSE_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/response_body/occasion/get/200.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
 resource "aws_api_gateway_documentation_part" "occasion_POST" {
   location {
     method = "POST"
     path   = "/occasion"
     type   = "METHOD"
   }
-  properties  = file("./src/occasion/api_gateway/documentation_part/method/request/POST/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/occasion/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// occasion
-// animal_crossing/occasion PATCH MODEL
-resource "aws_api_gateway_documentation_part" "occasion_PATCH_model" {
+resource "aws_api_gateway_documentation_part" "occasion_POST_201" {
   location {
-    name   = "OccasionPatch"
-    type   = "MODEL"
+    method      = "POST"
+    path        = "/occasion"
+    status_code = "201"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/occasion/api_gateway/documentation_part/method/request_body/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/occasion/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// occasion
-// animal_crossing/occasion POST MODEL
-resource "aws_api_gateway_documentation_part" "occasion_POST_model" {
+resource "aws_api_gateway_documentation_part" "occasion_POST_request_body" {
   location {
-    name   = "OccasionPost"
-    type   = "MODEL"
-  }
-  properties  = file("./src/occasion/api_gateway/documentation_part/method/request_body/POST/model_collection.json")
-  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
-}
-
-// occasion
-// animal_crossing/occasion RESOURCE
-resource "aws_api_gateway_documentation_part" "occasion" {
-  location {
+    method = "POST"
     path   = "/occasion"
-    type   = "RESOURCE"
+    type   = "REQUEST_BODY"
   }
-  properties  = file("./src/occasion/api_gateway/documentation_part/resource/resources.json")
+  properties  = file("./src/api_gateway/documentation_part/request_body/occasion/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// occasion
-// animal_crossing/occasion/{id} RESOURCE
-resource "aws_api_gateway_documentation_part" "occasion_id" {
+resource "aws_api_gateway_documentation_part" "occasion_POST_response_body_201" {
   location {
-    path   = "/occasion/{id}"
-    type   = "RESOURCE"
+    method      = "POST"
+    path        = "/occasion"
+    status_code = "201"
+    type        = "RESPONSE_BODY"
   }
-  properties  = file("./src/occasion/api_gateway/documentation_part/resource/resource.json")
+  properties  = file("./src/api_gateway/documentation_part/response_body/occasion/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// paradise_planning
-// animal_crossing/paradise_planning DELETE MODEL
-resource "aws_api_gateway_documentation_part" "paradise_planning_DELETE_model" {
+resource "aws_api_gateway_documentation_part" "occasion_model" {
   location {
-    name   = "ParadisePlanningDelete"
-    type   = "MODEL"
+    name = "Occasion"
+    type = "MODEL"
   }
-  properties  = file("./src/paradise_planning/api_gateway/documentation_part/method/request_body/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/model/occasion/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// paradise_planning
-// animal_crossing/paradise_planning GET MODEL
-resource "aws_api_gateway_documentation_part" "paradise_planning_GET_model" {
+resource "aws_api_gateway_documentation_part" "occasion_model_collection" {
   location {
-    name   = "ParadisePlanningGet"
-    type   = "MODEL"
+    name = "OccasionCollection"
+    type = "MODEL"
   }
-  properties  = file("./src/paradise_planning/api_gateway/documentation_part/method/request_body/GET/model_collection.json")
+  properties  = templatefile("./src/api_gateway/documentation_part/model/occasion/documentation_collection.json", {
+    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  })
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// paradise_planning
-// animal_crossing/paradise_planning METHOD
-resource "aws_api_gateway_documentation_part" "paradise_planning_DELETE" {
+resource "aws_api_gateway_documentation_part" "paradise_planning" {
   location {
-    method = "DELETE"
-    path   = "/paradise_planning"
-    type   = "METHOD"
+    path = "paradise_planning"
+    type = "RESOURCE"
   }
-  properties  = file("./src/paradise_planning/api_gateway/documentation_part/method/request/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/resource/paradise_planning/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// paradise_planning
-// animal_crossing/paradise_planning METHOD
 resource "aws_api_gateway_documentation_part" "paradise_planning_GET" {
   location {
     method = "GET"
     path   = "/paradise_planning"
     type   = "METHOD"
   }
-  properties  = file("./src/paradise_planning/api_gateway/documentation_part/method/request/GET/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/paradise_planning/get/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// paradise_planning
-// animal_crossing/paradise_planning METHOD
-resource "aws_api_gateway_documentation_part" "paradise_planning_PATCH" {
+resource "aws_api_gateway_documentation_part" "paradise_planning_GET_200" {
   location {
-    method = "PATCH"
-    path   = "/paradise_planning"
-    type   = "METHOD"
+    method      = "GET"
+    path        = "/paradise_planning"
+    status_code = "200"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/paradise_planning/api_gateway/documentation_part/method/request/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/paradise_planning/get/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// paradise_planning
-// animal_crossing/paradise_planning METHOD
+resource "aws_api_gateway_documentation_part" "paradise_planning_GET_request_body" {
+  location {
+    method = "GET"
+    path   = "/paradise_planning"
+    type   = "REQUEST_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/request_body/paradise_planning/get/documentation.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
+resource "aws_api_gateway_documentation_part" "paradise_planning_GET_response_body_200" {
+  location {
+    method      = "GET"
+    path        = "/paradise_planning"
+    status_code = "200"
+    type        = "RESPONSE_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/response_body/paradise_planning/get/200.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
 resource "aws_api_gateway_documentation_part" "paradise_planning_POST" {
   location {
     method = "POST"
     path   = "/paradise_planning"
     type   = "METHOD"
   }
-  properties  = file("./src/paradise_planning/api_gateway/documentation_part/method/request/POST/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/paradise_planning/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// paradise_planning
-// animal_crossing/paradise_planning PATCH MODEL
-resource "aws_api_gateway_documentation_part" "paradise_planning_PATCH_model" {
+resource "aws_api_gateway_documentation_part" "paradise_planning_POST_201" {
   location {
-    name   = "ParadisePlanningPatch"
-    type   = "MODEL"
+    method      = "POST"
+    path        = "/paradise_planning"
+    status_code = "201"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/paradise_planning/api_gateway/documentation_part/method/request_body/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/paradise_planning/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// paradise_planning
-// animal_crossing/paradise_planning POST MODEL
-resource "aws_api_gateway_documentation_part" "paradise_planning_POST_model" {
+resource "aws_api_gateway_documentation_part" "paradise_planning_POST_request_body" {
   location {
-    name   = "ParadisePlanningPost"
-    type   = "MODEL"
-  }
-  properties  = file("./src/paradise_planning/api_gateway/documentation_part/method/request_body/POST/model_collection.json")
-  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
-}
-
-// paradise_planning
-// animal_crossing/paradise_planning RESOURCE
-resource "aws_api_gateway_documentation_part" "paradise_planning" {
-  location {
+    method = "POST"
     path   = "/paradise_planning"
-    type   = "RESOURCE"
+    type   = "REQUEST_BODY"
   }
-  properties  = file("./src/paradise_planning/api_gateway/documentation_part/resource/resources.json")
+  properties  = file("./src/api_gateway/documentation_part/request_body/paradise_planning/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// paradise_planning
-// animal_crossing/paradise_planning/{id} RESOURCE
-resource "aws_api_gateway_documentation_part" "paradise_planning_id" {
+resource "aws_api_gateway_documentation_part" "paradise_planning_POST_response_body_201" {
   location {
-    path   = "/paradise_planning/{id}"
-    type   = "RESOURCE"
+    method      = "POST"
+    path        = "/paradise_planning"
+    status_code = "201"
+    type        = "RESPONSE_BODY"
   }
-  properties  = file("./src/paradise_planning/api_gateway/documentation_part/resource/resource.json")
+  properties  = file("./src/api_gateway/documentation_part/response_body/paradise_planning/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// reaction
-// animal_crossing/reaction DELETE MODEL
-resource "aws_api_gateway_documentation_part" "reaction_DELETE_model" {
+resource "aws_api_gateway_documentation_part" "paradise_planning_model" {
   location {
-    name   = "ReactionDelete"
-    type   = "MODEL"
+    name = "ParadisePlanning"
+    type = "MODEL"
   }
-  properties  = file("./src/reaction/api_gateway/documentation_part/method/request_body/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/model/paradise_planning/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// reaction
-// animal_crossing/reaction GET MODEL
-resource "aws_api_gateway_documentation_part" "reaction_GET_model" {
+resource "aws_api_gateway_documentation_part" "paradise_planning_model_collection" {
   location {
-    name   = "ReactionGet"
-    type   = "MODEL"
+    name = "ParadisePlanningCollection"
+    type = "MODEL"
   }
-  properties  = file("./src/reaction/api_gateway/documentation_part/method/request_body/GET/model_collection.json")
+  properties  = templatefile("./src/api_gateway/documentation_part/model/paradise_planning/documentation_collection.json", {
+    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  })
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// reaction
-// animal_crossing/reaction METHOD
-resource "aws_api_gateway_documentation_part" "reaction_DELETE" {
+resource "aws_api_gateway_documentation_part" "reaction" {
   location {
-    method = "DELETE"
-    path   = "/reaction"
-    type   = "METHOD"
+    path = "reaction"
+    type = "RESOURCE"
   }
-  properties  = file("./src/reaction/api_gateway/documentation_part/method/request/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/resource/reaction/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// reaction
-// animal_crossing/reaction METHOD
 resource "aws_api_gateway_documentation_part" "reaction_GET" {
   location {
     method = "GET"
     path   = "/reaction"
     type   = "METHOD"
   }
-  properties  = file("./src/reaction/api_gateway/documentation_part/method/request/GET/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/reaction/get/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// reaction
-// animal_crossing/reaction METHOD
-resource "aws_api_gateway_documentation_part" "reaction_PATCH" {
+resource "aws_api_gateway_documentation_part" "reaction_GET_200" {
   location {
-    method = "PATCH"
-    path   = "/reaction"
-    type   = "METHOD"
+    method      = "GET"
+    path        = "/reaction"
+    status_code = "200"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/reaction/api_gateway/documentation_part/method/request/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/reaction/get/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// reaction
-// animal_crossing/reaction METHOD
+resource "aws_api_gateway_documentation_part" "reaction_GET_request_body" {
+  location {
+    method = "GET"
+    path   = "/reaction"
+    type   = "REQUEST_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/request_body/reaction/get/documentation.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
+resource "aws_api_gateway_documentation_part" "reaction_GET_response_body_200" {
+  location {
+    method      = "GET"
+    path        = "/reaction"
+    status_code = "200"
+    type        = "RESPONSE_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/response_body/reaction/get/200.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
 resource "aws_api_gateway_documentation_part" "reaction_POST" {
   location {
     method = "POST"
     path   = "/reaction"
     type   = "METHOD"
   }
-  properties  = file("./src/reaction/api_gateway/documentation_part/method/request/POST/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/reaction/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// reaction
-// animal_crossing/reaction PATCH MODEL
-resource "aws_api_gateway_documentation_part" "reaction_PATCH_model" {
+resource "aws_api_gateway_documentation_part" "reaction_POST_201" {
   location {
-    name   = "ReactionPatch"
-    type   = "MODEL"
+    method      = "POST"
+    path        = "/reaction"
+    status_code = "201"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/reaction/api_gateway/documentation_part/method/request_body/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/reaction/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// reaction
-// animal_crossing/reaction POST MODEL
-resource "aws_api_gateway_documentation_part" "reaction_POST_model" {
+resource "aws_api_gateway_documentation_part" "reaction_POST_request_body" {
   location {
-    name   = "ReactionPost"
-    type   = "MODEL"
-  }
-  properties  = file("./src/reaction/api_gateway/documentation_part/method/request_body/POST/model_collection.json")
-  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
-}
-
-// reaction
-// animal_crossing/reaction RESOURCE
-resource "aws_api_gateway_documentation_part" "reaction" {
-  location {
+    method = "POST"
     path   = "/reaction"
-    type   = "RESOURCE"
+    type   = "REQUEST_BODY"
   }
-  properties  = file("./src/reaction/api_gateway/documentation_part/resource/resources.json")
+  properties  = file("./src/api_gateway/documentation_part/request_body/reaction/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// reaction
-// animal_crossing/reaction/{id} RESOURCE
-resource "aws_api_gateway_documentation_part" "reaction_id" {
+resource "aws_api_gateway_documentation_part" "reaction_POST_response_body_201" {
   location {
-    path   = "/reaction/{id}"
-    type   = "RESOURCE"
+    method      = "POST"
+    path        = "/reaction"
+    status_code = "201"
+    type        = "RESPONSE_BODY"
   }
-  properties  = file("./src/reaction/api_gateway/documentation_part/resource/resource.json")
+  properties  = file("./src/api_gateway/documentation_part/response_body/reaction/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// recipe
-// animal_crossing/recipe DELETE MODEL
-resource "aws_api_gateway_documentation_part" "recipe_DELETE_model" {
+resource "aws_api_gateway_documentation_part" "reaction_model" {
   location {
-    name   = "RecipeDelete"
-    type   = "MODEL"
+    name = "Reaction"
+    type = "MODEL"
   }
-  properties  = file("./src/recipe/api_gateway/documentation_part/method/request_body/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/model/reaction/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// recipe
-// animal_crossing/recipe GET MODEL
-resource "aws_api_gateway_documentation_part" "recipe_GET_model" {
+resource "aws_api_gateway_documentation_part" "reaction_model_collection" {
   location {
-    name   = "RecipeGet"
-    type   = "MODEL"
+    name = "ReactionCollection"
+    type = "MODEL"
   }
-  properties  = file("./src/recipe/api_gateway/documentation_part/method/request_body/GET/model_collection.json")
+  properties  = templatefile("./src/api_gateway/documentation_part/model/reaction/documentation_collection.json", {
+    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  })
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// recipe
-// animal_crossing/recipe METHOD
-resource "aws_api_gateway_documentation_part" "recipe_DELETE" {
+resource "aws_api_gateway_documentation_part" "recipe" {
   location {
-    method = "DELETE"
-    path   = "/recipe"
-    type   = "METHOD"
+    path = "recipe"
+    type = "RESOURCE"
   }
-  properties  = file("./src/recipe/api_gateway/documentation_part/method/request/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/resource/recipe/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// recipe
-// animal_crossing/recipe METHOD
 resource "aws_api_gateway_documentation_part" "recipe_GET" {
   location {
     method = "GET"
     path   = "/recipe"
     type   = "METHOD"
   }
-  properties  = file("./src/recipe/api_gateway/documentation_part/method/request/GET/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/recipe/get/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// recipe
-// animal_crossing/recipe METHOD
-resource "aws_api_gateway_documentation_part" "recipe_PATCH" {
+resource "aws_api_gateway_documentation_part" "recipe_GET_200" {
   location {
-    method = "PATCH"
-    path   = "/recipe"
-    type   = "METHOD"
+    method      = "GET"
+    path        = "/recipe"
+    status_code = "200"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/recipe/api_gateway/documentation_part/method/request/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/recipe/get/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// recipe
-// animal_crossing/recipe METHOD
+resource "aws_api_gateway_documentation_part" "recipe_GET_request_body" {
+  location {
+    method = "GET"
+    path   = "/recipe"
+    type   = "REQUEST_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/request_body/recipe/get/documentation.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
+resource "aws_api_gateway_documentation_part" "recipe_GET_response_body_200" {
+  location {
+    method      = "GET"
+    path        = "/recipe"
+    status_code = "200"
+    type        = "RESPONSE_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/response_body/recipe/get/200.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
 resource "aws_api_gateway_documentation_part" "recipe_POST" {
   location {
     method = "POST"
     path   = "/recipe"
     type   = "METHOD"
   }
-  properties  = file("./src/recipe/api_gateway/documentation_part/method/request/POST/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/recipe/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// recipe
-// animal_crossing/recipe PATCH MODEL
-resource "aws_api_gateway_documentation_part" "recipe_PATCH_model" {
+resource "aws_api_gateway_documentation_part" "recipe_POST_201" {
   location {
-    name   = "RecipePatch"
-    type   = "MODEL"
+    method      = "POST"
+    path        = "/recipe"
+    status_code = "201"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/recipe/api_gateway/documentation_part/method/request_body/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/recipe/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// recipe
-// animal_crossing/recipe POST MODEL
-resource "aws_api_gateway_documentation_part" "recipe_POST_model" {
+resource "aws_api_gateway_documentation_part" "recipe_POST_request_body" {
   location {
-    name   = "RecipePost"
-    type   = "MODEL"
-  }
-  properties  = file("./src/recipe/api_gateway/documentation_part/method/request_body/POST/model_collection.json")
-  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
-}
-
-// recipe
-// animal_crossing/recipe RESOURCE
-resource "aws_api_gateway_documentation_part" "recipe" {
-  location {
+    method = "POST"
     path   = "/recipe"
-    type   = "RESOURCE"
+    type   = "REQUEST_BODY"
   }
-  properties  = file("./src/recipe/api_gateway/documentation_part/resource/resources.json")
+  properties  = file("./src/api_gateway/documentation_part/request_body/recipe/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// recipe
-// animal_crossing/recipe/{id} RESOURCE
-resource "aws_api_gateway_documentation_part" "recipe_id" {
+resource "aws_api_gateway_documentation_part" "recipe_POST_response_body_201" {
   location {
-    path   = "/recipe/{id}"
-    type   = "RESOURCE"
+    method      = "POST"
+    path        = "/recipe"
+    status_code = "201"
+    type        = "RESPONSE_BODY"
   }
-  properties  = file("./src/recipe/api_gateway/documentation_part/resource/resource.json")
+  properties  = file("./src/api_gateway/documentation_part/response_body/recipe/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// villager
-// animal_crossing/villager DELETE MODEL
-resource "aws_api_gateway_documentation_part" "villager_DELETE_model" {
+resource "aws_api_gateway_documentation_part" "recipe_model" {
   location {
-    name   = "VillagerDelete"
-    type   = "MODEL"
+    name = "Recipe"
+    type = "MODEL"
   }
-  properties  = file("./src/villager/api_gateway/documentation_part/method/request_body/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/model/recipe/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// villager
-// animal_crossing/villager GET MODEL
-resource "aws_api_gateway_documentation_part" "villager_GET_model" {
+resource "aws_api_gateway_documentation_part" "recipe_model_collection" {
   location {
-    name   = "VillagerGet"
-    type   = "MODEL"
+    name = "RecipeCollection"
+    type = "MODEL"
   }
-  properties  = file("./src/villager/api_gateway/documentation_part/method/request_body/GET/model_collection.json")
+  properties  = templatefile("./src/api_gateway/documentation_part/model/recipe/documentation_collection.json", {
+    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  })
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// villager
-// animal_crossing/villager METHOD
-resource "aws_api_gateway_documentation_part" "villager_DELETE" {
+resource "aws_api_gateway_documentation_part" "villager" {
   location {
-    method = "DELETE"
-    path   = "/villager"
-    type   = "METHOD"
+    path = "villager"
+    type = "RESOURCE"
   }
-  properties  = file("./src/villager/api_gateway/documentation_part/method/request/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/resource/villager/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// villager
-// animal_crossing/villager METHOD
 resource "aws_api_gateway_documentation_part" "villager_GET" {
   location {
     method = "GET"
     path   = "/villager"
     type   = "METHOD"
   }
-  properties  = file("./src/villager/api_gateway/documentation_part/method/request/GET/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/villager/get/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// villager
-// animal_crossing/villager METHOD
-resource "aws_api_gateway_documentation_part" "villager_PATCH" {
+resource "aws_api_gateway_documentation_part" "villager_GET_200" {
   location {
-    method = "PATCH"
-    path   = "/villager"
-    type   = "METHOD"
+    method      = "GET"
+    path        = "/villager"
+    status_code = "200"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/villager/api_gateway/documentation_part/method/request/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/villager/get/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// villager
-// animal_crossing/villager METHOD
+resource "aws_api_gateway_documentation_part" "villager_GET_request_body" {
+  location {
+    method = "GET"
+    path   = "/villager"
+    type   = "REQUEST_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/request_body/villager/get/documentation.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
+resource "aws_api_gateway_documentation_part" "villager_GET_response_body_200" {
+  location {
+    method      = "GET"
+    path        = "/villager"
+    status_code = "200"
+    type        = "RESPONSE_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/response_body/villager/get/200.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
 resource "aws_api_gateway_documentation_part" "villager_POST" {
   location {
     method = "POST"
     path   = "/villager"
     type   = "METHOD"
   }
-  properties  = file("./src/villager/api_gateway/documentation_part/method/request/POST/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/villager/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// villager
-// animal_crossing/villager PATCH MODEL
-resource "aws_api_gateway_documentation_part" "villager_PATCH_model" {
+resource "aws_api_gateway_documentation_part" "villager_POST_201" {
   location {
-    name   = "VillagerPatch"
-    type   = "MODEL"
+    method      = "POST"
+    path        = "/villager"
+    status_code = "201"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/villager/api_gateway/documentation_part/method/request_body/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/villager/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// villager
-// animal_crossing/villager POST MODEL
-resource "aws_api_gateway_documentation_part" "villager_POST_model" {
+resource "aws_api_gateway_documentation_part" "villager_POST_request_body" {
   location {
-    name   = "VillagerPost"
-    type   = "MODEL"
-  }
-  properties  = file("./src/villager/api_gateway/documentation_part/method/request_body/POST/model_collection.json")
-  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
-}
-
-// villager
-// animal_crossing/villager RESOURCE
-resource "aws_api_gateway_documentation_part" "villager" {
-  location {
+    method = "POST"
     path   = "/villager"
-    type   = "RESOURCE"
+    type   = "REQUEST_BODY"
   }
-  properties  = file("./src/villager/api_gateway/documentation_part/resource/resources.json")
+  properties  = file("./src/api_gateway/documentation_part/request_body/villager/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// villager
-// animal_crossing/villager/{id} RESOURCE
-resource "aws_api_gateway_documentation_part" "villager_id" {
+resource "aws_api_gateway_documentation_part" "villager_POST_response_body_201" {
   location {
-    path   = "/villager/{id}"
-    type   = "RESOURCE"
+    method      = "POST"
+    path        = "/villager"
+    status_code = "201"
+    type        = "RESPONSE_BODY"
   }
-  properties  = file("./src/villager/api_gateway/documentation_part/resource/resource.json")
+  properties  = file("./src/api_gateway/documentation_part/response_body/villager/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// villager_special
-// animal_crossing/villager_special DELETE MODEL
-resource "aws_api_gateway_documentation_part" "villager_special_DELETE_model" {
+resource "aws_api_gateway_documentation_part" "villager_model" {
   location {
-    name   = "VillagerSpecialDelete"
-    type   = "MODEL"
+    name = "Villager"
+    type = "MODEL"
   }
-  properties  = file("./src/villager_special/api_gateway/documentation_part/method/request_body/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/model/villager/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// villager_special
-// animal_crossing/villager_special GET MODEL
-resource "aws_api_gateway_documentation_part" "villager_special_GET_model" {
+resource "aws_api_gateway_documentation_part" "villager_model_collection" {
   location {
-    name   = "VillagerSpecialGet"
-    type   = "MODEL"
+    name = "VillagerCollection"
+    type = "MODEL"
   }
-  properties  = file("./src/villager_special/api_gateway/documentation_part/method/request_body/GET/model_collection.json")
+  properties  = templatefile("./src/api_gateway/documentation_part/model/villager/documentation_collection.json", {
+    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  })
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// villager_special
-// animal_crossing/villager_special METHOD
-resource "aws_api_gateway_documentation_part" "villager_special_DELETE" {
+resource "aws_api_gateway_documentation_part" "villager_special" {
   location {
-    method = "DELETE"
-    path   = "/villager_special"
-    type   = "METHOD"
+    path = "villager_special"
+    type = "RESOURCE"
   }
-  properties  = file("./src/villager_special/api_gateway/documentation_part/method/request/DELETE/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/resource/villager_special/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// villager_special
-// animal_crossing/villager_special METHOD
 resource "aws_api_gateway_documentation_part" "villager_special_GET" {
   location {
     method = "GET"
     path   = "/villager_special"
     type   = "METHOD"
   }
-  properties  = file("./src/villager_special/api_gateway/documentation_part/method/request/GET/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/villager_special/get/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// villager_special
-// animal_crossing/villager_special METHOD
-resource "aws_api_gateway_documentation_part" "villager_special_PATCH" {
+resource "aws_api_gateway_documentation_part" "villager_special_GET_200" {
   location {
-    method = "PATCH"
-    path   = "/villager_special"
-    type   = "METHOD"
+    method      = "GET"
+    path        = "/villager_special"
+    status_code = "200"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/villager_special/api_gateway/documentation_part/method/request/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/villager_special/get/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// villager_special
-// animal_crossing/villager_special METHOD
+resource "aws_api_gateway_documentation_part" "villager_special_GET_request_body" {
+  location {
+    method = "GET"
+    path   = "/villager_special"
+    type   = "REQUEST_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/request_body/villager_special/get/documentation.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
+resource "aws_api_gateway_documentation_part" "villager_special_GET_response_body_200" {
+  location {
+    method      = "GET"
+    path        = "/villager_special"
+    status_code = "200"
+    type        = "RESPONSE_BODY"
+  }
+  properties  = file("./src/api_gateway/documentation_part/response_body/villager_special/get/200.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
 resource "aws_api_gateway_documentation_part" "villager_special_POST" {
   location {
     method = "POST"
     path   = "/villager_special"
     type   = "METHOD"
   }
-  properties  = file("./src/villager_special/api_gateway/documentation_part/method/request/POST/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/method/villager_special/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// villager_special
-// animal_crossing/villager_special PATCH MODEL
-resource "aws_api_gateway_documentation_part" "villager_special_PATCH_model" {
+resource "aws_api_gateway_documentation_part" "villager_special_POST_201" {
   location {
-    name   = "VillagerSpecialPatch"
-    type   = "MODEL"
+    method      = "POST"
+    path        = "/villager_special"
+    status_code = "201"
+    type        = "RESPONSE"
   }
-  properties  = file("./src/villager_special/api_gateway/documentation_part/method/request_body/PATCH/model_collection.json")
+  properties  = file("./src/api_gateway/documentation_part/response/villager_special/post/201.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// villager_special
-// animal_crossing/villager_special POST MODEL
-resource "aws_api_gateway_documentation_part" "villager_special_POST_model" {
+resource "aws_api_gateway_documentation_part" "villager_special_POST_request_body" {
   location {
-    name   = "VillagerSpecialPost"
-    type   = "MODEL"
-  }
-  properties  = file("./src/villager_special/api_gateway/documentation_part/method/request_body/POST/model_collection.json")
-  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
-}
-
-// villager_special
-// animal_crossing/villager_special RESOURCE
-resource "aws_api_gateway_documentation_part" "villager_special" {
-  location {
+    method = "POST"
     path   = "/villager_special"
-    type   = "RESOURCE"
+    type   = "REQUEST_BODY"
   }
-  properties  = file("./src/villager_special/api_gateway/documentation_part/resource/resources.json")
+  properties  = file("./src/api_gateway/documentation_part/request_body/villager_special/post/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
-// villager_special
-// animal_crossing/villager_special/{id} RESOURCE
-resource "aws_api_gateway_documentation_part" "villager_special_id" {
+resource "aws_api_gateway_documentation_part" "villager_special_POST_response_body_201" {
   location {
-    path   = "/villager_special/{id}"
-    type   = "RESOURCE"
+    method      = "POST"
+    path        = "/villager_special"
+    status_code = "201"
+    type        = "RESPONSE_BODY"
   }
-  properties  = file("./src/villager_special/api_gateway/documentation_part/resource/resource.json")
+  properties  = file("./src/api_gateway/documentation_part/response_body/villager_special/post/201.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
+resource "aws_api_gateway_documentation_part" "villager_special_model" {
+  location {
+    name = "VillagerSpecial"
+    type = "MODEL"
+  }
+  properties  = file("./src/api_gateway/documentation_part/model/villager_special/documentation.json")
+  rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
+}
+
+resource "aws_api_gateway_documentation_part" "villager_special_model_collection" {
+  location {
+    name = "VillagerSpecialCollection"
+    type = "MODEL"
+  }
+  properties  = templatefile("./src/api_gateway/documentation_part/model/villager_special/documentation_collection.json", {
+    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  })
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }

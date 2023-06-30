@@ -1,0 +1,9 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "items": {
+        "$ref": "https://apigateway.amazonaws.com/restapis/${api_gateway_id}/models/FurnitureWallpaper"
+    },
+    "minItems": 1,
+    "title": "FurnitureWallpaperCollection",
+    "type": "array"
+}

@@ -1,0 +1,155 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "properties": {
+        "color_1": {
+            "type": [
+                "null"
+            ]
+        },
+        "color_2": {
+            "type": [
+                "null"
+            ]
+        },
+        "description": {
+            "maxLength": 751,
+            "minLength": 293,
+            "type": [
+                "string"
+            ]
+        },
+        "filename_critterpedia": {
+            "maxLength": 24,
+            "minLength": 11,
+            "type": [
+                "string"
+            ]
+        },
+        "filename_furniture": {
+            "maxLength": 27,
+            "minLength": 14,
+            "type": [
+                "string"
+            ]
+        },
+        "filename_icon": {
+            "maxLength": 16,
+            "minLength": 3,
+            "type": [
+                "string"
+            ]
+        },
+        "hha_category": {
+            "maxLength": 3,
+            "minLength": 3,
+            "type": [
+                "string"
+            ]
+        },
+        "hha_points": {
+            "maxLength": 0,
+            "minLength": 0,
+            "type": [
+                "number"
+            ]
+        },
+        "image_critterpedia": {
+            "type": [
+                "null"
+            ]
+        },
+        "image_furniture": {
+            "type": [
+                "null"
+            ]
+        },
+        "image_icon": {
+            "type": [
+                "null"
+            ]
+        },
+        "internal_id": {
+            "maxLength": 7411,
+            "minLength": 2620,
+            "type": [
+                "number"
+            ]
+        },
+        "is_surface": {
+            "type": [
+                "boolean"
+            ]
+        },
+        "is_unlocked": {
+            "type": [
+                "boolean"
+            ]
+        },
+        "lighting_name": {
+            "maxLength": 11,
+            "minLength": 11,
+            "type": [
+                "string"
+            ]
+        },
+        "name": {
+            "maxLength": 20,
+            "minLength": 5,
+            "type": [
+                "string"
+            ]
+        },
+        "saying": {
+            "maxLength": 63,
+            "minLength": 34,
+            "type": [
+                "string"
+            ]
+        },
+        "sell_price": {
+            "maxLength": 15000,
+            "minLength": 500,
+            "type": [
+                "number"
+            ]
+        },
+        "unique_entry_id": {
+            "maxLength": 17,
+            "minLength": 17,
+            "type": [
+                "string"
+            ]
+        },
+        "version_added": {
+            "maxLength": 5,
+            "minLength": 5,
+            "type": [
+                "string"
+            ]
+        }
+    },
+    "required": [
+        "color_1",
+        "color_2",
+        "description",
+        "filename_critterpedia",
+        "filename_furniture",
+        "filename_icon",
+        "hha_category",
+        "hha_points",
+        "image_critterpedia",
+        "image_furniture",
+        "image_icon",
+        "internal_id",
+        "is_surface",
+        "is_unlocked",
+        "lighting_name",
+        "name",
+        "saying",
+        "sell_price",
+        "unique_entry_id",
+        "version_added"
+    ],
+    "title": "CreatureSea",
+    "type": "object"
+}

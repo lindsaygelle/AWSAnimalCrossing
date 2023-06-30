@@ -1,0 +1,175 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "properties": {
+        "buy_price": {
+            "maxLength": 1240,
+            "minLength": 240,
+            "type": [
+                "null",
+                "number"
+            ]
+        },
+        "clothing_group_id": {
+            "maxLength": 4,
+            "minLength": 2,
+            "type": [
+                "string"
+            ]
+        },
+        "color_1": {
+            "maxLength": 6,
+            "minLength": 3,
+            "type": [
+                "string"
+            ]
+        },
+        "color_2": {
+            "maxLength": 8,
+            "minLength": 3,
+            "type": [
+                "string"
+            ]
+        },
+        "exchange_currency": {
+            "maxLength": 10,
+            "minLength": 10,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "exchange_price": {
+            "maxLength": 400,
+            "minLength": 400,
+            "type": [
+                "null",
+                "number"
+            ]
+        },
+        "filename": {
+            "maxLength": 22,
+            "minLength": 12,
+            "type": [
+                "string"
+            ]
+        },
+        "gender": {
+            "maxLength": 7,
+            "minLength": 4,
+            "type": [
+                "string"
+            ]
+        },
+        "hha_points": {
+            "maxLength": 351,
+            "minLength": 23,
+            "type": [
+                "number"
+            ]
+        },
+        "image_closet": {
+            "type": [
+                "null"
+            ]
+        },
+        "image_storage": {
+            "type": [
+                "null"
+            ]
+        },
+        "internal_id": {
+            "maxLength": 14423,
+            "minLength": 139,
+            "type": [
+                "number"
+            ]
+        },
+        "is_crafted": {
+            "type": [
+                "boolean"
+            ]
+        },
+        "is_equipment": {
+            "type": [
+                "boolean"
+            ]
+        },
+        "is_unlocked": {
+            "type": [
+                "boolean"
+            ]
+        },
+        "name": {
+            "maxLength": 25,
+            "minLength": 4,
+            "type": [
+                "string"
+            ]
+        },
+        "sell_price": {
+            "maxLength": 2000,
+            "minLength": 10,
+            "type": [
+                "number"
+            ]
+        },
+        "style_1": {
+            "maxLength": 8,
+            "minLength": 4,
+            "type": [
+                "string"
+            ]
+        },
+        "style_2": {
+            "maxLength": 8,
+            "minLength": 4,
+            "type": [
+                "string"
+            ]
+        },
+        "unique_entry_id": {
+            "maxLength": 17,
+            "minLength": 17,
+            "type": [
+                "string"
+            ]
+        },
+        "variant_name": {
+            "maxLength": 24,
+            "minLength": 3,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "version_added": {
+            "maxLength": 5,
+            "minLength": 5,
+            "type": [
+                "string"
+            ]
+        }
+    },
+    "required": [
+        "clothing_group_id",
+        "color_1",
+        "color_2",
+        "filename",
+        "gender",
+        "hha_points",
+        "image_closet",
+        "image_storage",
+        "internal_id",
+        "is_crafted",
+        "is_equipment",
+        "is_unlocked",
+        "name",
+        "sell_price",
+        "style_1",
+        "style_2",
+        "unique_entry_id",
+        "version_added"
+    ],
+    "title": "ClothingSock",
+    "type": "object"
+}

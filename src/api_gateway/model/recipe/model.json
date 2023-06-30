@@ -1,0 +1,115 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "properties": {
+        "buy_price": {
+            "maxLength": 2000,
+            "minLength": 280,
+            "type": [
+                "null",
+                "number"
+            ]
+        },
+        "category": {
+            "maxLength": 13,
+            "minLength": 4,
+            "type": [
+                "string"
+            ]
+        },
+        "exchange_currency": {
+            "maxLength": 10,
+            "minLength": 10,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "exchange_price": {
+            "maxLength": 6000,
+            "minLength": 800,
+            "type": [
+                "null",
+                "number"
+            ]
+        },
+        "filename_icon": {
+            "maxLength": 37,
+            "minLength": 6,
+            "type": [
+                "string"
+            ]
+        },
+        "filename_icon_sh": {
+            "maxLength": 33,
+            "minLength": 26,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "image": {
+            "type": [
+                "null"
+            ]
+        },
+        "image_sh": {
+            "type": [
+                "null"
+            ]
+        },
+        "internal_id": {
+            "maxLength": 1072,
+            "minLength": 6,
+            "type": [
+                "number"
+            ]
+        },
+        "is_unlocked": {
+            "type": [
+                "boolean"
+            ]
+        },
+        "name": {
+            "maxLength": 28,
+            "minLength": 3,
+            "type": [
+                "string"
+            ]
+        },
+        "sell_price": {
+            "maxLength": 200,
+            "minLength": 200,
+            "type": [
+                "null",
+                "number"
+            ]
+        },
+        "unique_entry_id": {
+            "maxLength": 17,
+            "minLength": 17,
+            "type": [
+                "string"
+            ]
+        },
+        "version_added": {
+            "maxLength": 6,
+            "minLength": 5,
+            "type": [
+                "string"
+            ]
+        }
+    },
+    "required": [
+        "category",
+        "filename_icon",
+        "image",
+        "image_sh",
+        "internal_id",
+        "is_unlocked",
+        "name",
+        "unique_entry_id",
+        "version_added"
+    ],
+    "title": "Recipe",
+    "type": "object"
+}
