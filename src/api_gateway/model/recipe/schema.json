@@ -1,0 +1,103 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema",
+    "maxProperties": 10,
+    "minProperties": 10,
+    "properties": {
+        "buy_currency": {
+            "maxLength": 5,
+            "minLength": 5,
+            "type": [
+                "string",
+                "null"
+            ]
+        },
+        "buy_price": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 2000,
+            "minimum": 280,
+            "type": [
+                "null",
+                "integer"
+            ]
+        },
+        "exchange_currency": {
+            "maxLength": 10,
+            "minLength": 10,
+            "type": [
+                "string",
+                "null"
+            ]
+        },
+        "exchange_price": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 6000,
+            "minimum": 800,
+            "type": [
+                "null",
+                "integer"
+            ]
+        },
+        "internal_id": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 1072,
+            "minimum": 6,
+            "type": [
+                "integer"
+            ]
+        },
+        "is_unlocked": {
+            "type": [
+                "boolean"
+            ]
+        },
+        "name": {
+            "maxLength": 28,
+            "minLength": 3,
+            "type": [
+                "string"
+            ]
+        },
+        "sell_currency": {
+            "maxLength": 5,
+            "minLength": 5,
+            "type": [
+                "string",
+                "null"
+            ]
+        },
+        "sell_price": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 200,
+            "minimum": 200,
+            "type": [
+                "null",
+                "integer"
+            ]
+        },
+        "unique_entry_id": {
+            "maxLength": 17,
+            "minLength": 17,
+            "type": [
+                "string"
+            ]
+        }
+    },
+    "required": [
+        "buy_currency",
+        "buy_price",
+        "exchange_currency",
+        "exchange_price",
+        "internal_id",
+        "is_unlocked",
+        "name",
+        "sell_currency",
+        "sell_price",
+        "unique_entry_id"
+    ],
+    "title": "Recipe",
+    "type": "object"
+}

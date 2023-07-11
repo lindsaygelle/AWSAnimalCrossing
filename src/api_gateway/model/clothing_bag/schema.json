@@ -1,0 +1,155 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema",
+    "maxProperties": 17,
+    "minProperties": 17,
+    "properties": {
+        "buy_currency": {
+            "maxLength": 5,
+            "minLength": 5,
+            "type": [
+                "string",
+                "null"
+            ]
+        },
+        "buy_price": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 12000,
+            "minimum": 600,
+            "type": [
+                "null",
+                "integer"
+            ]
+        },
+        "color_1": {
+            "maxLength": 8,
+            "minLength": 3,
+            "type": [
+                "string"
+            ]
+        },
+        "color_2": {
+            "maxLength": 8,
+            "minLength": 3,
+            "type": [
+                "string"
+            ]
+        },
+        "exchange_currency": {
+            "maxLength": 11,
+            "minLength": 10,
+            "type": [
+                "string",
+                "null"
+            ]
+        },
+        "exchange_price": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 800,
+            "minimum": 50,
+            "type": [
+                "null",
+                "integer"
+            ]
+        },
+        "hha_points": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 501,
+            "minimum": 23,
+            "type": [
+                "integer"
+            ]
+        },
+        "internal_id": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 14895,
+            "minimum": 254,
+            "type": [
+                "integer"
+            ]
+        },
+        "is_craftable": {
+            "type": [
+                "boolean"
+            ]
+        },
+        "is_equipment": {
+            "type": [
+                "boolean"
+            ]
+        },
+        "is_unlocked": {
+            "type": [
+                "boolean"
+            ]
+        },
+        "name": {
+            "maxLength": 27,
+            "minLength": 6,
+            "type": [
+                "string"
+            ]
+        },
+        "sell_currency": {
+            "maxLength": 5,
+            "minLength": 5,
+            "type": [
+                "string"
+            ]
+        },
+        "sell_price": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 10800,
+            "minimum": 122,
+            "type": [
+                "integer"
+            ]
+        },
+        "style_1": {
+            "maxLength": 8,
+            "minLength": 4,
+            "type": [
+                "string"
+            ]
+        },
+        "style_2": {
+            "maxLength": 8,
+            "minLength": 4,
+            "type": [
+                "string"
+            ]
+        },
+        "unique_entry_id": {
+            "maxLength": 17,
+            "minLength": 17,
+            "type": [
+                "string"
+            ]
+        }
+    },
+    "required": [
+        "buy_currency",
+        "buy_price",
+        "color_1",
+        "color_2",
+        "exchange_currency",
+        "exchange_price",
+        "hha_points",
+        "internal_id",
+        "is_craftable",
+        "is_equipment",
+        "is_unlocked",
+        "name",
+        "sell_currency",
+        "sell_price",
+        "style_1",
+        "style_2",
+        "unique_entry_id"
+    ],
+    "title": "ClothingBag",
+    "type": "object"
+}

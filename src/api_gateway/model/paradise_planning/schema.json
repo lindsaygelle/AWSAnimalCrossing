@@ -1,0 +1,27 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema",
+    "maxProperties": 2,
+    "minProperties": 2,
+    "properties": {
+        "name": {
+            "maxLength": 10,
+            "minLength": 2,
+            "type": [
+                "string"
+            ]
+        },
+        "unique_entry_id": {
+            "maxLength": 17,
+            "minLength": 17,
+            "type": [
+                "string"
+            ]
+        }
+    },
+    "required": [
+        "name",
+        "unique_entry_id"
+    ],
+    "title": "ParadisePlanning",
+    "type": "object"
+}

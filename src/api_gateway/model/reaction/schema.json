@@ -1,0 +1,37 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema",
+    "maxProperties": 3,
+    "minProperties": 3,
+    "properties": {
+        "internal_id": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 1114,
+            "minimum": 19,
+            "type": [
+                "integer"
+            ]
+        },
+        "name": {
+            "maxLength": 18,
+            "minLength": 3,
+            "type": [
+                "string"
+            ]
+        },
+        "unique_entry_id": {
+            "maxLength": 17,
+            "minLength": 17,
+            "type": [
+                "string"
+            ]
+        }
+    },
+    "required": [
+        "internal_id",
+        "name",
+        "unique_entry_id"
+    ],
+    "title": "Reaction",
+    "type": "object"
+}

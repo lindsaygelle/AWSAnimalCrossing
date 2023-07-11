@@ -1,0 +1,89 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema",
+    "maxProperties": 9,
+    "minProperties": 9,
+    "properties": {
+        "buy_currency": {
+            "maxLength": 5,
+            "minLength": 5,
+            "type": [
+                "string",
+                "null"
+            ]
+        },
+        "buy_price": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 200,
+            "minimum": 200,
+            "type": [
+                "null",
+                "integer"
+            ]
+        },
+        "internal_id": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 445,
+            "minimum": 0,
+            "type": [
+                "integer"
+            ]
+        },
+        "name": {
+            "maxLength": 36,
+            "minLength": 8,
+            "type": [
+                "string"
+            ]
+        },
+        "pen_color_1": {
+            "maxLength": 7,
+            "minLength": 7,
+            "type": [
+                "string"
+            ]
+        },
+        "pen_color_2": {
+            "maxLength": 7,
+            "minLength": 7,
+            "type": [
+                "string"
+            ]
+        },
+        "pen_color_3": {
+            "maxLength": 7,
+            "minLength": 7,
+            "type": [
+                "string"
+            ]
+        },
+        "pen_color_4": {
+            "maxLength": 7,
+            "minLength": 7,
+            "type": [
+                "string"
+            ]
+        },
+        "unique_entry_id": {
+            "maxLength": 17,
+            "minLength": 17,
+            "type": [
+                "string"
+            ]
+        }
+    },
+    "required": [
+        "buy_currency",
+        "buy_price",
+        "internal_id",
+        "name",
+        "pen_color_1",
+        "pen_color_2",
+        "pen_color_3",
+        "pen_color_4",
+        "unique_entry_id"
+    ],
+    "title": "Card",
+    "type": "object"
+}

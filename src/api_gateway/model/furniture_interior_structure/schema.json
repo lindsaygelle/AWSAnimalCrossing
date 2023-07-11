@@ -1,0 +1,139 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema",
+    "maxProperties": 16,
+    "minProperties": 16,
+    "properties": {
+        "buy_currency": {
+            "type": [
+                "null"
+            ]
+        },
+        "buy_price": {
+            "type": [
+                "null"
+            ]
+        },
+        "color_1": {
+            "maxLength": 6,
+            "minLength": 3,
+            "type": [
+                "string",
+                "null"
+            ]
+        },
+        "color_2": {
+            "maxLength": 6,
+            "minLength": 3,
+            "type": [
+                "string",
+                "null"
+            ]
+        },
+        "cyrus_customize_currency": {
+            "maxLength": 5,
+            "minLength": 5,
+            "type": [
+                "string",
+                "null"
+            ]
+        },
+        "cyrus_customize_price": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 3100,
+            "minimum": 1000,
+            "type": [
+                "null",
+                "integer"
+            ]
+        },
+        "exchange_currency": {
+            "type": [
+                "null"
+            ]
+        },
+        "exchange_price": {
+            "type": [
+                "null"
+            ]
+        },
+        "hha_points": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 103,
+            "minimum": 103,
+            "type": [
+                "integer"
+            ]
+        },
+        "internal_id": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 14602,
+            "minimum": 12681,
+            "type": [
+                "integer"
+            ]
+        },
+        "is_craftable": {
+            "type": [
+                "boolean"
+            ]
+        },
+        "is_unlocked": {
+            "type": [
+                "boolean"
+            ]
+        },
+        "name": {
+            "maxLength": 28,
+            "minLength": 12,
+            "type": [
+                "string"
+            ]
+        },
+        "sell_currency": {
+            "maxLength": 5,
+            "minLength": 5,
+            "type": [
+                "string"
+            ]
+        },
+        "sell_price": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 80000,
+            "minimum": 700,
+            "type": [
+                "integer"
+            ]
+        },
+        "unique_entry_id": {
+            "maxLength": 17,
+            "minLength": 17,
+            "type": [
+                "string"
+            ]
+        }
+    },
+    "required": [
+        "buy_currency",
+        "buy_price",
+        "color_1",
+        "color_2",
+        "cyrus_customize_currency",
+        "cyrus_customize_price",
+        "exchange_currency",
+        "exchange_price",
+        "hha_points",
+        "internal_id",
+        "is_craftable",
+        "is_unlocked",
+        "name",
+        "sell_currency",
+        "sell_price",
+        "unique_entry_id"
+    ],
+    "title": "FurnitureInteriorStructure",
+    "type": "object"
+}

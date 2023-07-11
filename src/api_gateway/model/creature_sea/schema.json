@@ -1,0 +1,83 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema",
+    "maxProperties": 9,
+    "minProperties": 9,
+    "properties": {
+        "color_1": {
+            "type": [
+                "null"
+            ]
+        },
+        "color_2": {
+            "type": [
+                "null"
+            ]
+        },
+        "hha_points": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 0,
+            "minimum": 0,
+            "type": [
+                "integer"
+            ]
+        },
+        "internal_id": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 7411,
+            "minimum": 2620,
+            "type": [
+                "integer"
+            ]
+        },
+        "is_unlocked": {
+            "type": [
+                "boolean"
+            ]
+        },
+        "name": {
+            "maxLength": 20,
+            "minLength": 5,
+            "type": [
+                "string"
+            ]
+        },
+        "sell_currency": {
+            "maxLength": 5,
+            "minLength": 5,
+            "type": [
+                "string"
+            ]
+        },
+        "sell_price": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 15000,
+            "minimum": 500,
+            "type": [
+                "integer"
+            ]
+        },
+        "unique_entry_id": {
+            "maxLength": 17,
+            "minLength": 17,
+            "type": [
+                "string"
+            ]
+        }
+    },
+    "required": [
+        "color_1",
+        "color_2",
+        "hha_points",
+        "internal_id",
+        "is_unlocked",
+        "name",
+        "sell_currency",
+        "sell_price",
+        "unique_entry_id"
+    ],
+    "title": "CreatureSea",
+    "type": "object"
+}

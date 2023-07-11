@@ -1,0 +1,1410 @@
+[
+    {
+        "Item": {
+            "name": {
+                "S": "Spring"
+            },
+            "unique_entry_id": {
+                "S": "mj2WQCXRGMhuaNERE"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Spring (shopping)"
+            },
+            "unique_entry_id": {
+                "S": "cgstqsmrRFsG3HRHm"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Summer"
+            },
+            "unique_entry_id": {
+                "S": "3gSN9JumwvvXLZBwM"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Summer (shopping)"
+            },
+            "unique_entry_id": {
+                "S": "gdqi5z5jot9H4fsz9"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Fall"
+            },
+            "unique_entry_id": {
+                "S": "9c9WdPSCZJdcgKZBq"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Fall (shopping)"
+            },
+            "unique_entry_id": {
+                "S": "pmM4yBFvMXTXcooL5"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Winter"
+            },
+            "unique_entry_id": {
+                "S": "h2Hd4jMQFGFWvH5yP"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Winter (shopping)"
+            },
+            "unique_entry_id": {
+                "S": "h5W3JH8kDC4xJHgva"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "young spring bamboo"
+            },
+            "unique_entry_id": {
+                "S": "B4yFhfZgohc6mpGye"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "cherry-blossom petals"
+            },
+            "unique_entry_id": {
+                "S": "Xo3c8z7JTrEth4NW7"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "summer shells"
+            },
+            "unique_entry_id": {
+                "S": "sjovDaZqkh4jafozk"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "acorns and pine cones"
+            },
+            "unique_entry_id": {
+                "S": "Rj8eWkGTM5STPvprt"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "mushrooms"
+            },
+            "unique_entry_id": {
+                "S": "hAE9QzEyaKskMpTfw"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "maple leaves"
+            },
+            "unique_entry_id": {
+                "S": "2pHZfthLCYjYxEGXJ"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "snowflakes"
+            },
+            "unique_entry_id": {
+                "S": "owiAqbhvj8Ej62yer"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "ornaments"
+            },
+            "unique_entry_id": {
+                "S": "hMjjfnZoboSEfX6kN"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "camellia"
+            },
+            "unique_entry_id": {
+                "S": "cp22AuXoQtvEn7KbF"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "azalea"
+            },
+            "unique_entry_id": {
+                "S": "7uaTrBAXzJSaEbv9P"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "hydrangea"
+            },
+            "unique_entry_id": {
+                "S": "vv43fAxedRXLBQzHB"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "plumeria"
+            },
+            "unique_entry_id": {
+                "S": "sPo9igLgwWxAdXJRx"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "hibiscus"
+            },
+            "unique_entry_id": {
+                "S": "H6hLemK7FnKixKXzD"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "tea olive"
+            },
+            "unique_entry_id": {
+                "S": "W983nSAaEJEsQTw9p"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "holly"
+            },
+            "unique_entry_id": {
+                "S": "njvQ6W4WxuZkNhGtF"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Pisces"
+            },
+            "unique_entry_id": {
+                "S": "t3oLZbrWRDCqGFWff"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Aries"
+            },
+            "unique_entry_id": {
+                "S": "x8ieT7oBnYmXxDq7A"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Taurus"
+            },
+            "unique_entry_id": {
+                "S": "zhNANPmM76brtTv8z"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Gemini"
+            },
+            "unique_entry_id": {
+                "S": "vKNjJizgqpQfBgf5y"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Cancer"
+            },
+            "unique_entry_id": {
+                "S": "d7jo5yXDsHr7ZPSn7"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Leo"
+            },
+            "unique_entry_id": {
+                "S": "TKcZ9NSsgrFpDgsa8"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Virgo"
+            },
+            "unique_entry_id": {
+                "S": "s5pDRHdgiSvDQqHdL"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Libra"
+            },
+            "unique_entry_id": {
+                "S": "9XGhdA9uRd8wpFcnF"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Scorpio"
+            },
+            "unique_entry_id": {
+                "S": "596kyafmfDmHdW7ce"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Sagittarius"
+            },
+            "unique_entry_id": {
+                "S": "bTaE6agqsduPGZ9h3"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Capricorn"
+            },
+            "unique_entry_id": {
+                "S": "Hg5dLT2EZYv4AqRHS"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Aquarius"
+            },
+            "unique_entry_id": {
+                "S": "qhhHqPBRzJ7qLsocW"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Birthday"
+            },
+            "unique_entry_id": {
+                "S": "8gF25cNHcBJxveb5A"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Fishing Tourney (Spring)"
+            },
+            "unique_entry_id": {
+                "S": "FGE5KSaw2fEX9M7Er"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Fishing Tourney (Summer)"
+            },
+            "unique_entry_id": {
+                "S": "jfzXwMmKCGnb4cqcJ"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Fishing Tourney (Fall)"
+            },
+            "unique_entry_id": {
+                "S": "rqXb5bdvG9ES2DHSs"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Fishing Tourney (Winter)"
+            },
+            "unique_entry_id": {
+                "S": "CbtNEeyHf4gohjx3G"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Bug-Off (1)"
+            },
+            "unique_entry_id": {
+                "S": "ARcnvRvmH6ug2JBXi"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Bug-Off (2)"
+            },
+            "unique_entry_id": {
+                "S": "ydqSfNH8xzEBTsFyN"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Bug-Off (3)"
+            },
+            "unique_entry_id": {
+                "S": "6MhLGpMakesD7B4kB"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Bug-Off (4)"
+            },
+            "unique_entry_id": {
+                "S": "zAAgH7eNTW8cCyLD2"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Countdown"
+            },
+            "unique_entry_id": {
+                "S": "ofQGGtcwwK7dm9tpW"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "New Year's Day"
+            },
+            "unique_entry_id": {
+                "S": "ch6c4KYSFvhaS7uw7"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Lunar New Year"
+            },
+            "unique_entry_id": {
+                "S": "Qfjg2AyfyaHs8gMni"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Bunny Day (days before)"
+            },
+            "unique_entry_id": {
+                "S": "4ku2HWxsXtYsHZPnA"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Bunny Day"
+            },
+            "unique_entry_id": {
+                "S": "mN6SNYaRhEqushr8n"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "May Day"
+            },
+            "unique_entry_id": {
+                "S": "cRAsXSu4L5HHoScER"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "International Museum Day"
+            },
+            "unique_entry_id": {
+                "S": "Dk8YdEvdKBNihCDFM"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Wedding Season"
+            },
+            "unique_entry_id": {
+                "S": "67TSSQDefBj5N8gp8"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Fireworks Show (1)"
+            },
+            "unique_entry_id": {
+                "S": "h6b7G8S5L36zMPLFg"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Fireworks Show (2)"
+            },
+            "unique_entry_id": {
+                "S": "ErGCcXzFdoz2eR76F"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Fireworks Show (3)"
+            },
+            "unique_entry_id": {
+                "S": "8MQggqM3PscafBPZG"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Fireworks Show (4)"
+            },
+            "unique_entry_id": {
+                "S": "fDY7aQYWXEPLiqmre"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Fireworks Show (5)"
+            },
+            "unique_entry_id": {
+                "S": "5q8inahMAJHvuxw3x"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Halloween (days before)"
+            },
+            "unique_entry_id": {
+                "S": "CkhTdh8xBcjRPmCCM"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Halloween"
+            },
+            "unique_entry_id": {
+                "S": "ZYoPaw7SennvjdMqj"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Turkey Day"
+            },
+            "unique_entry_id": {
+                "S": "n3cSGsDLnJJqLC76K"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Turkey Day (days after)"
+            },
+            "unique_entry_id": {
+                "S": "LWQHvmgWcWpx6EBfn"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Nook Friday"
+            },
+            "unique_entry_id": {
+                "S": "dHGH2naRLRkyjpBAE"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Toy Day (weeks before)"
+            },
+            "unique_entry_id": {
+                "S": "WwqGv6zGXSbpdW7B2"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Toy Day (days before)"
+            },
+            "unique_entry_id": {
+                "S": "4b2C4HeZzZhtbjYo3"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Toy Day"
+            },
+            "unique_entry_id": {
+                "S": "8BTw75h6CYtPousz7"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Toy Day (day after)"
+            },
+            "unique_entry_id": {
+                "S": "WRJS7x258JZXcBhiD"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Festivale (days before)"
+            },
+            "unique_entry_id": {
+                "S": "F7bzc2pLevmboA8DF"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Festivale"
+            },
+            "unique_entry_id": {
+                "S": "FvssW626ddQ3aLQFd"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Valentine's Day"
+            },
+            "unique_entry_id": {
+                "S": "wFQawZsWKLnDfSjjN"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "April Fools' Day"
+            },
+            "unique_entry_id": {
+                "S": "PQbKAS4Jt7mWpBBxx"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Singmogil"
+            },
+            "unique_entry_id": {
+                "S": "33Y77jAzMCTuwH2Dq"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Prom"
+            },
+            "unique_entry_id": {
+                "S": "GEpYcBtjkvLTEahT4"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Nature Day"
+            },
+            "unique_entry_id": {
+                "S": "SwxjFbKbQzaP5t4xC"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Children's Day"
+            },
+            "unique_entry_id": {
+                "S": "SjMjhNmGeivSwt2pp"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Mother's Day"
+            },
+            "unique_entry_id": {
+                "S": "Hs623rDkgMAhnsjhy"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Cheese Rolling"
+            },
+            "unique_entry_id": {
+                "S": "AYctvhKBkndmfmZ2p"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Dano Festival"
+            },
+            "unique_entry_id": {
+                "S": "8EqYBr8EYEuHfB32B"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Dragon Boat Festival"
+            },
+            "unique_entry_id": {
+                "S": "HjsPpcPLeu3w5Puce"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "International Children's Day"
+            },
+            "unique_entry_id": {
+                "S": "PSzeGZ8iagsS3juM8"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Wedding Season (Nook Shopping)"
+            },
+            "unique_entry_id": {
+                "S": "wDzvBE2Q4yJmT7qDY"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Father's Day"
+            },
+            "unique_entry_id": {
+                "S": "DGpj63PS3qXFbSYBK"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Summer Solstice"
+            },
+            "unique_entry_id": {
+                "S": "vQbgAS6zTFgMZ2Ci4"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Tanabata"
+            },
+            "unique_entry_id": {
+                "S": "DRHv3aXj2usrWdsHQ"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Marine Day"
+            },
+            "unique_entry_id": {
+                "S": "pjck9cqk9GGFpZMn2"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Le 14 juillet"
+            },
+            "unique_entry_id": {
+                "S": "4wBGnBDm6JWBgjszG"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Cowboy Festival"
+            },
+            "unique_entry_id": {
+                "S": "DRqqw3iMu6sranZ5Y"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Cowherd & Weaver Girl Day"
+            },
+            "unique_entry_id": {
+                "S": "RpMgTwZcCL82njXnh"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Obon"
+            },
+            "unique_entry_id": {
+                "S": "rAoT6F3hWekzpQdjA"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Tomato Festival"
+            },
+            "unique_entry_id": {
+                "S": "72B73q5g6r4TRXRwu"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Moon-Viewing Day"
+            },
+            "unique_entry_id": {
+                "S": "cs2qcLkD4RFZpJRDY"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Chuseok"
+            },
+            "unique_entry_id": {
+                "S": "iB5QCG2QuFaNbqDvW"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Grape Harvest Festival"
+            },
+            "unique_entry_id": {
+                "S": "e6vjhAiYsg9Jzua5t"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Day of the Dead"
+            },
+            "unique_entry_id": {
+                "S": "6vXPuWuAZkoYCiDXW"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Lantern Festival"
+            },
+            "unique_entry_id": {
+                "S": "K3hGnvCe4nBbG8p2P"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Shichi-Go-San"
+            },
+            "unique_entry_id": {
+                "S": "wQ8RQLDSztz2tuWFy"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Winter Solstice"
+            },
+            "unique_entry_id": {
+                "S": "WTek3FANZJsBDDQrf"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "New Year's Eve"
+            },
+            "unique_entry_id": {
+                "S": "cBXYqjysyynrFu7fw"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "\u014cmisoka"
+            },
+            "unique_entry_id": {
+                "S": "8rWzJhnPupkFxeeE5"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Silvester"
+            },
+            "unique_entry_id": {
+                "S": "pg7Wus3cgYWtn4wAg"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Nochevieja"
+            },
+            "unique_entry_id": {
+                "S": "QgqtGLo5zitZsvcPE"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "New Year's Day (Nook Shopping)"
+            },
+            "unique_entry_id": {
+                "S": "9sayQ8ZTXonPimMf2"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "New Year's Day (2021)"
+            },
+            "unique_entry_id": {
+                "S": "s9EY4eT28FvMq4MmR"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "New Year's Day (2022)"
+            },
+            "unique_entry_id": {
+                "S": "FBnwCSXu9RdX9iF7c"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "New Year's Day (Year of the Ox)"
+            },
+            "unique_entry_id": {
+                "S": "PnPBujYf6ztitFX7F"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "New Year's Day (Year of the Tiger)"
+            },
+            "unique_entry_id": {
+                "S": "Ez6gGyL4iw49Zx89h"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "New Year's Day (Year of the Rabbit)"
+            },
+            "unique_entry_id": {
+                "S": "mkDetGRZgSZkz2Q24"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "New Year's Day (Year of the Dragon)"
+            },
+            "unique_entry_id": {
+                "S": "RBYwAt8wd7WEYGAhF"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "New Year's Day (Year of the Snake)"
+            },
+            "unique_entry_id": {
+                "S": "Cd3ZgLs8JknQKm4bs"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "New Year's Day (Year of the Horse)"
+            },
+            "unique_entry_id": {
+                "S": "xCJT6E3kNruNwHJkY"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "New Year's Day (Year of the Sheep)"
+            },
+            "unique_entry_id": {
+                "S": "B7z67nC57ud9Ph2GC"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "New Year's Day (Year of the Monkey)"
+            },
+            "unique_entry_id": {
+                "S": "LXQQRQrSSgGZgLLMA"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "New Year's Day (Year of the Rooster)"
+            },
+            "unique_entry_id": {
+                "S": "az59rLEBMHdGKn3TS"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "New Year's Day (Year of the Dog)"
+            },
+            "unique_entry_id": {
+                "S": "tjvp9tceES6XkBWmz"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "New Year's Day (Year of the Pig)"
+            },
+            "unique_entry_id": {
+                "S": "F9e596epG9WTRt5g9"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "New Year's Day (Year of the Rat)"
+            },
+            "unique_entry_id": {
+                "S": "kZGm3kaWBHewNqrv4"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Sh\u014dgatsu"
+            },
+            "unique_entry_id": {
+                "S": "LwmgQ2WpBrBhJDDcZ"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Nanakusa Gayu"
+            },
+            "unique_entry_id": {
+                "S": "fuJPRDHEAgts4DSvY"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Carnival of Venice"
+            },
+            "unique_entry_id": {
+                "S": "5HjtdvhCoBqkxCDoe"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Big Game Celebration"
+            },
+            "unique_entry_id": {
+                "S": "cxbGFKdkmqFsskvuj"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Lunar New Year (Nook Shopping)"
+            },
+            "unique_entry_id": {
+                "S": "GrhL6oc4Fikexi9mE"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Seollal"
+            },
+            "unique_entry_id": {
+                "S": "i36Hq5eemLtYtg8x4"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Groundhog Day"
+            },
+            "unique_entry_id": {
+                "S": "y9Bn4GYZPnMEoBgfB"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Setsubun"
+            },
+            "unique_entry_id": {
+                "S": "JanWTpqgkvHZzetxk"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Setsubun (Able Sisters)"
+            },
+            "unique_entry_id": {
+                "S": "kFoAs7RfGYzw62LLt"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Valentine's Day (Nook Shopping)"
+            },
+            "unique_entry_id": {
+                "S": "scq9e4MNaxBDnzdsf"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Hinamatsuri"
+            },
+            "unique_entry_id": {
+                "S": "nca8hecauJyrMuTe6"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "\u03c0 Day"
+            },
+            "unique_entry_id": {
+                "S": "atSCGTvcdHq2EKNfy"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "name": {
+                "S": "Shamrock Day"
+            },
+            "unique_entry_id": {
+                "S": "zZcYX6kijYEszM3u8"
+            }
+        },
+        "TableName": "occasion"
+    }
+]

@@ -1,0 +1,155 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema",
+    "maxProperties": 17,
+    "minProperties": 17,
+    "properties": {
+        "buy_currency": {
+            "maxLength": 5,
+            "minLength": 5,
+            "type": [
+                "string",
+                "null"
+            ]
+        },
+        "buy_price": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 3000,
+            "minimum": 3000,
+            "type": [
+                "null",
+                "integer"
+            ]
+        },
+        "color_1": {
+            "maxLength": 6,
+            "minLength": 3,
+            "type": [
+                "string"
+            ]
+        },
+        "color_2": {
+            "maxLength": 5,
+            "minLength": 5,
+            "type": [
+                "string"
+            ]
+        },
+        "exchange_currency": {
+            "maxLength": 10,
+            "minLength": 10,
+            "type": [
+                "string",
+                "null"
+            ]
+        },
+        "exchange_price": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 800,
+            "minimum": 800,
+            "type": [
+                "null",
+                "integer"
+            ]
+        },
+        "hha_points": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 151,
+            "minimum": 51,
+            "type": [
+                "integer"
+            ]
+        },
+        "internal_id": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 13103,
+            "minimum": 12970,
+            "type": [
+                "integer"
+            ]
+        },
+        "is_craftable": {
+            "type": [
+                "boolean"
+            ]
+        },
+        "is_equipment": {
+            "type": [
+                "boolean"
+            ]
+        },
+        "is_unlocked": {
+            "type": [
+                "boolean"
+            ]
+        },
+        "name": {
+            "maxLength": 27,
+            "minLength": 18,
+            "type": [
+                "string"
+            ]
+        },
+        "sell_currency": {
+            "maxLength": 5,
+            "minLength": 5,
+            "type": [
+                "string"
+            ]
+        },
+        "sell_price": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 4000,
+            "minimum": 750,
+            "type": [
+                "integer"
+            ]
+        },
+        "style_1": {
+            "maxLength": 6,
+            "minLength": 6,
+            "type": [
+                "string"
+            ]
+        },
+        "style_2": {
+            "maxLength": 8,
+            "minLength": 6,
+            "type": [
+                "string"
+            ]
+        },
+        "unique_entry_id": {
+            "maxLength": 17,
+            "minLength": 17,
+            "type": [
+                "string"
+            ]
+        }
+    },
+    "required": [
+        "buy_currency",
+        "buy_price",
+        "color_1",
+        "color_2",
+        "exchange_currency",
+        "exchange_price",
+        "hha_points",
+        "internal_id",
+        "is_craftable",
+        "is_equipment",
+        "is_unlocked",
+        "name",
+        "sell_currency",
+        "sell_price",
+        "style_1",
+        "style_2",
+        "unique_entry_id"
+    ],
+    "title": "ClothingOther",
+    "type": "object"
+}

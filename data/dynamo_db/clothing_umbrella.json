@@ -1,0 +1,3402 @@
+[
+    {
+        "Item": {
+            "buy_currency": {
+                "NULL": true
+            },
+            "buy_price": {
+                "NULL": true
+            },
+            "color_1": {
+                "S": "Yellow"
+            },
+            "color_2": {
+                "S": "Red"
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "9948"
+            },
+            "is_craftable": {
+                "BOOL": true
+            },
+            "is_equipment": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "apple umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "1400"
+            },
+            "unique_entry_id": {
+                "S": "FPxdw28z9s2gYgjmr"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "840"
+            },
+            "color_1": {
+                "S": "Black"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "internal_id": {
+                "N": "6919"
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equipment": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "bat umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "210"
+            },
+            "unique_entry_id": {
+                "S": "EZnRx49foq3M36yQ4"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "770"
+            },
+            "color_1": {
+                "S": "Blue"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "internal_id": {
+                "N": "9957"
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equipment": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "beach umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "192"
+            },
+            "unique_entry_id": {
+                "S": "3SSFuv6LiH63jych3"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "1570"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Beige"
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "internal_id": {
+                "N": "7167"
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equipment": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "bear umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "392"
+            },
+            "unique_entry_id": {
+                "S": "s7KoPpysn27AeC5zi"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "1620"
+            },
+            "color_1": {
+                "S": "Black"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "internal_id": {
+                "N": "12137"
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equipment": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "black chic umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "405"
+            },
+            "unique_entry_id": {
+                "S": "p8yg9xiFwPscNDJNg"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "750"
+            },
+            "color_1": {
+                "S": "Black"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "internal_id": {
+                "N": "6915"
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equipment": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "black lace umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "187"
+            },
+            "unique_entry_id": {
+                "S": "7vuSb5AutpNQA573q"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "750"
+            },
+            "color_1": {
+                "S": "Blue"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "internal_id": {
+                "N": "9956"
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equipment": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "blue dot parasol"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "187"
+            },
+            "unique_entry_id": {
+                "S": "SwKuBi2vT7K365A3p"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "1620"
+            },
+            "color_1": {
+                "S": "Blue"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "internal_id": {
+                "N": "12134"
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equipment": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "blue shiny-bows parasol"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "405"
+            },
+            "unique_entry_id": {
+                "S": "BxZ4XdtfJEyWyBPFe"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "770"
+            },
+            "color_1": {
+                "S": "Blue"
+            },
+            "color_2": {
+                "S": "Blue"
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "internal_id": {
+                "N": "9959"
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equipment": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "blue umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "192"
+            },
+            "unique_entry_id": {
+                "S": "XyJaqSLnBjh5J6vLp"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "1570"
+            },
+            "color_1": {
+                "S": "Black"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "internal_id": {
+                "N": "7182"
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equipment": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "busted umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "392"
+            },
+            "unique_entry_id": {
+                "S": "gkHD9GKJT9eAekxWQ"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "650"
+            },
+            "color_1": {
+                "S": "Green"
+            },
+            "color_2": {
+                "S": "Beige"
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "internal_id": {
+                "N": "6923"
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equipment": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "camo umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "162"
+            },
+            "unique_entry_id": {
+                "S": "RJYB5itM7mDdtWHpv"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "770"
+            },
+            "color_1": {
+                "S": "Pink"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "internal_id": {
+                "N": "6926"
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equipment": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "candy umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "192"
+            },
+            "unique_entry_id": {
+                "S": "F6KFg5Yhzgf78pudR"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "NULL": true
+            },
+            "buy_price": {
+                "NULL": true
+            },
+            "color_1": {
+                "S": "Red"
+            },
+            "color_2": {
+                "S": "Red"
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "9949"
+            },
+            "is_craftable": {
+                "BOOL": true
+            },
+            "is_equipment": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "cherry umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "1400"
+            },
+            "unique_entry_id": {
+                "S": "YwHY3LQXsDeM2iosy"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "NULL": true
+            },
+            "buy_price": {
+                "NULL": true
+            },
+            "color_1": {
+                "S": "Pink"
+            },
+            "color_2": {
+                "S": "Green"
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "201"
+            },
+            "internal_id": {
+                "N": "9945"
+            },
+            "is_craftable": {
+                "BOOL": true
+            },
+            "is_equipment": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "cherry-blossom umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "2800"
+            },
+            "unique_entry_id": {
+                "S": "vTu5kLPipRb69vJA3"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "NULL": true
+            },
+            "buy_price": {
+                "NULL": true
+            },
+            "color_1": {
+                "S": "Blue"
+            },
+            "color_2": {
+                "S": "Blue"
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "251"
+            },
+            "internal_id": {
+                "N": "9560"
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equipment": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "DAL umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "1010"
+            },
+            "unique_entry_id": {
+                "S": "vTdEjywjFjr8AkePD"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "750"
+            },
+            "color_1": {
+                "S": "Yellow"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "internal_id": {
+                "N": "9955"
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equipment": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "eggy parasol"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "187"
+            },
+            "unique_entry_id": {
+                "S": "qf7Hn5CKMDMBpge9r"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "1670"
+            },
+            "color_1": {
+                "S": "Yellow"
+            },
+            "color_2": {
+                "S": "Pink"
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "internal_id": {
+                "N": "7171"
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equipment": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "exquisite parasol"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "417"
+            },
+            "unique_entry_id": {
+                "S": "tFFuizXunsrHcMbEj"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "820"
+            },
+            "color_1": {
+                "S": "Green"
+            },
+            "color_2": {
+                "S": "Yellow"
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "internal_id": {
+                "N": "7175"
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equipment": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "fairy-tale umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "205"
+            },
+            "unique_entry_id": {
+                "S": "xKBGNFJd2qpWeDWjo"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "NULL": true
+            },
+            "buy_price": {
+                "NULL": true
+            },
+            "color_1": {
+                "S": "Blue"
+            },
+            "color_2": {
+                "S": "Aqua"
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "501"
+            },
+            "internal_id": {
+                "N": "8768"
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equipment": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "fish umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "80"
+            },
+            "unique_entry_id": {
+                "S": "bvwaqJav8wmjPj2RC"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "1570"
+            },
+            "color_1": {
+                "S": "Green"
+            },
+            "color_2": {
+                "S": "Green"
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "internal_id": {
+                "N": "6925"
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equipment": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "frog umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "392"
+            },
+            "unique_entry_id": {
+                "S": "nDBiFvLtf5KeStQNv"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "750"
+            },
+            "color_1": {
+                "S": "Colorful"
+            },
+            "color_2": {
+                "S": "Colorful"
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "internal_id": {
+                "N": "7180"
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equipment": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "gelato umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "187"
+            },
+            "unique_entry_id": {
+                "S": "tupHZa6zDdFvobTEt"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "1670"
+            },
+            "color_1": {
+                "S": "White"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "internal_id": {
+                "N": "6924"
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equipment": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "ghost umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "417"
+            },
+            "unique_entry_id": {
+                "S": "83zEbSL3S3dty4YjN"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "1550"
+            },
+            "color_1": {
+                "S": "Purple"
+            },
+            "color_2": {
+                "S": "Green"
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "internal_id": {
+                "N": "6911"
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equipment": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "grape umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "387"
+            },
+            "unique_entry_id": {
+                "S": "TJ9cw4XSj64u3uEsx"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "1620"
+            },
+            "color_1": {
+                "S": "Green"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "internal_id": {
+                "N": "12136"
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equipment": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "green chic umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "405"
+            },
+            "unique_entry_id": {
+                "S": "u2YWae8oz23XcT4u9"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "770"
+            },
+            "color_1": {
+                "S": "Green"
+            },
+            "color_2": {
+                "S": "Green"
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "internal_id": {
+                "N": "9960"
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equipment": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "green umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "192"
+            },
+            "unique_entry_id": {
+                "S": "8Hf4oRy3cQdundDJK"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "750"
+            },
+            "color_1": {
+                "S": "Aqua"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "internal_id": {
+                "N": "6906"
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equipment": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "hydrangea umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "187"
+            },
+            "unique_entry_id": {
+                "S": "dmFbrs5ALCJG4KpzB"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "1670"
+            },
+            "color_1": {
+                "S": "Purple"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "internal_id": {
+                "N": "7177"
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equipment": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "kabuki umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "417"
+            },
+            "unique_entry_id": {
+                "S": "QenZWqPCSZr9ZCrRh"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "1550"
+            },
+            "color_1": {
+                "S": "Green"
+            },
+            "color_2": {
+                "S": "Brown"
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "internal_id": {
+                "N": "6908"
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equipment": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "kiwi umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "387"
+            },
+            "unique_entry_id": {
+                "S": "R9WBMjgoqLwiR3h76"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "1550"
+            },
+            "color_1": {
+                "S": "White"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "internal_id": {
+                "N": "9946"
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equipment": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "lacy parasol"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "387"
+            },
+            "unique_entry_id": {
+                "S": "8ND7Jkfb2fxLJaR7n"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "NULL": true
+            },
+            "buy_price": {
+                "NULL": true
+            },
+            "color_1": {
+                "S": "Red"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "501"
+            },
+            "internal_id": {
+                "N": "8767"
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equipment": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "ladybug umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "80"
+            },
+            "unique_entry_id": {
+                "S": "rHNt3mx5hEEDRSRiD"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "NULL": true
+            },
+            "buy_price": {
+                "NULL": true
+            },
+            "color_1": {
+                "S": "Green"
+            },
+            "color_2": {
+                "S": "Green"
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "6840"
+            },
+            "is_craftable": {
+                "BOOL": true
+            },
+            "is_equipment": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "leaf umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "300"
+            },
+            "unique_entry_id": {
+                "S": "ZpYcNAofgCtnPfLj5"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "770"
+            },
+            "color_1": {
+                "S": "Yellow"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "internal_id": {
+                "N": "9954"
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equipment": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "lemon umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "192"
+            },
+            "unique_entry_id": {
+                "S": "yKb3LfnWDwptRPAWK"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "650"
+            },
+            "color_1": {
+                "S": "Blue"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "internal_id": {
+                "N": "7172"
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equipment": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "logo umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "162"
+            },
+            "unique_entry_id": {
+                "S": "sFtYCcv9wy78ujaZr"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "NULL": true
+            },
+            "buy_price": {
+                "NULL": true
+            },
+            "color_1": {
+                "S": "Orange"
+            },
+            "color_2": {
+                "S": "Orange"
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "201"
+            },
+            "internal_id": {
+                "N": "7169"
+            },
+            "is_craftable": {
+                "BOOL": true
+            },
+            "is_equipment": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "maple-leaf umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "2800"
+            },
+            "unique_entry_id": {
+                "S": "b5gL4xdKJPZPjhYZM"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "770"
+            },
+            "color_1": {
+                "S": "Green"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "internal_id": {
+                "N": "9951"
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equipment": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "melon umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "192"
+            },
+            "unique_entry_id": {
+                "S": "oFFjNfN2G5BxasAem"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "750"
+            },
+            "color_1": {
+                "S": "Pink"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "internal_id": {
+                "N": "6914"
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equipment": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "mini-flower-print umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "187"
+            },
+            "unique_entry_id": {
+                "S": "G9dRhHQxBzYJB5mmE"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "770"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Green"
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "internal_id": {
+                "N": "9952"
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equipment": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "mint umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "192"
+            },
+            "unique_entry_id": {
+                "S": "F6fPRcpqGqhQ5oq7F"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "NULL": true
+            },
+            "buy_price": {
+                "NULL": true
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Beige"
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "7174"
+            },
+            "is_craftable": {
+                "BOOL": true
+            },
+            "is_equipment": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "mush umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "1200"
+            },
+            "unique_entry_id": {
+                "S": "LLSQNPiMBWXXdTYFo"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "NULL": true
+            },
+            "buy_price": {
+                "NULL": true
+            },
+            "color_1": {
+                "S": "Green"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "exchange_currency": {
+                "S": "Nook Miles"
+            },
+            "exchange_price": {
+                "N": "700"
+            },
+            "hha_points": {
+                "N": "151"
+            },
+            "internal_id": {
+                "N": "9561"
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equipment": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Nook Inc. umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "3500"
+            },
+            "unique_entry_id": {
+                "S": "GX9s8tDymkHYHztY3"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "NULL": true
+            },
+            "buy_price": {
+                "NULL": true
+            },
+            "color_1": {
+                "S": "Orange"
+            },
+            "color_2": {
+                "S": "Yellow"
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "6912"
+            },
+            "is_craftable": {
+                "BOOL": true
+            },
+            "is_equipment": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "orange umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "1400"
+            },
+            "unique_entry_id": {
+                "S": "ovb5ZxHTXJtBWQQxF"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "1570"
+            },
+            "color_1": {
+                "S": "White"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "internal_id": {
+                "N": "7170"
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equipment": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "panda umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "392"
+            },
+            "unique_entry_id": {
+                "S": "AJkrWywbkBfFpke5b"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "870"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Green"
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "internal_id": {
+                "N": "7178"
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equipment": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "paper parasol"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "217"
+            },
+            "unique_entry_id": {
+                "S": "Brvfu2wmEsgfpsfe6"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "NULL": true
+            },
+            "buy_price": {
+                "NULL": true
+            },
+            "color_1": {
+                "S": "Red"
+            },
+            "color_2": {
+                "S": "Red"
+            },
+            "exchange_currency": {
+                "S": "Poki"
+            },
+            "exchange_price": {
+                "N": "1800"
+            },
+            "hha_points": {
+                "N": "151"
+            },
+            "internal_id": {
+                "N": "14464"
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equipment": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Paradise Planning umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "500"
+            },
+            "unique_entry_id": {
+                "S": "RGq2nBQy9M3REEbrt"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "750"
+            },
+            "color_1": {
+                "S": "White"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "internal_id": {
+                "N": "6918"
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equipment": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "patterned vinyl umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "187"
+            },
+            "unique_entry_id": {
+                "S": "KzFYhiwG4WmgGuewi"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "NULL": true
+            },
+            "buy_price": {
+                "NULL": true
+            },
+            "color_1": {
+                "S": "Pink"
+            },
+            "color_2": {
+                "S": "Green"
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "9947"
+            },
+            "is_craftable": {
+                "BOOL": true
+            },
+            "is_equipment": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "peach umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "1400"
+            },
+            "unique_entry_id": {
+                "S": "e7KPGj99m2g9dvYfe"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "NULL": true
+            },
+            "buy_price": {
+                "NULL": true
+            },
+            "color_1": {
+                "S": "Yellow"
+            },
+            "color_2": {
+                "S": "Green"
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "9950"
+            },
+            "is_craftable": {
+                "BOOL": true
+            },
+            "is_equipment": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "pear umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "1400"
+            },
+            "unique_entry_id": {
+                "S": "2kKFs5wG5ioHGbGda"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "1590"
+            },
+            "color_1": {
+                "S": "White"
+            },
+            "color_2": {
+                "S": "Yellow"
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "internal_id": {
+                "N": "7181"
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equipment": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "petal parasol"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "397"
+            },
+            "unique_entry_id": {
+                "S": "5qqATjxvMpMHmcDns"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "770"
+            },
+            "color_1": {
+                "S": "Purple"
+            },
+            "color_2": {
+                "S": "Pink"
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "internal_id": {
+                "N": "9953"
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equipment": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "picnic umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "192"
+            },
+            "unique_entry_id": {
+                "S": "hvv9Bz2ey3iRvSnAL"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "1550"
+            },
+            "color_1": {
+                "S": "Yellow"
+            },
+            "color_2": {
+                "S": "Green"
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "internal_id": {
+                "N": "6910"
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equipment": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "pineapple umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "387"
+            },
+            "unique_entry_id": {
+                "S": "ohMyh5kSBGg8Zayyh"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "1620"
+            },
+            "color_1": {
+                "S": "Pink"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "internal_id": {
+                "N": "7176"
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equipment": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "pink shiny-bows parasol"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "405"
+            },
+            "unique_entry_id": {
+                "S": "PTvmPPNiXMZ4jhBKX"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "770"
+            },
+            "color_1": {
+                "S": "Pink"
+            },
+            "color_2": {
+                "S": "Pink"
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "internal_id": {
+                "N": "7164"
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equipment": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "pink umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "192"
+            },
+            "unique_entry_id": {
+                "S": "Cg8DXnxz3AtYJvdPE"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "1620"
+            },
+            "color_1": {
+                "S": "Purple"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "internal_id": {
+                "N": "7183"
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equipment": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "purple chic umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "405"
+            },
+            "unique_entry_id": {
+                "S": "2dXt6F6XwMf346Zbv"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "1620"
+            },
+            "color_1": {
+                "S": "Purple"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "internal_id": {
+                "N": "12133"
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equipment": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "purple shiny-bows parasol"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "405"
+            },
+            "unique_entry_id": {
+                "S": "J6FrqXxBPqGNBs4sC"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "840"
+            },
+            "color_1": {
+                "S": "Colorful"
+            },
+            "color_2": {
+                "S": "Colorful"
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "internal_id": {
+                "N": "7179"
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equipment": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "rainbow umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "210"
+            },
+            "unique_entry_id": {
+                "S": "P9bMZJY3n2dtooq5X"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "750"
+            },
+            "color_1": {
+                "S": "Yellow"
+            },
+            "color_2": {
+                "S": "Aqua"
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "internal_id": {
+                "N": "6913"
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equipment": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "raindrop umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "187"
+            },
+            "unique_entry_id": {
+                "S": "Djdj6KiSLh82BHzqB"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "1620"
+            },
+            "color_1": {
+                "S": "Red"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "internal_id": {
+                "N": "12138"
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equipment": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "red chic umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "405"
+            },
+            "unique_entry_id": {
+                "S": "kKoJtAcxMDNKq7tNu"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "770"
+            },
+            "color_1": {
+                "S": "Red"
+            },
+            "color_2": {
+                "S": "Red"
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "internal_id": {
+                "N": "9958"
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equipment": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "red umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "192"
+            },
+            "unique_entry_id": {
+                "S": "Z9yCA3wawXdQsbLSs"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "1550"
+            },
+            "color_1": {
+                "S": "Aqua"
+            },
+            "color_2": {
+                "S": "Aqua"
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "internal_id": {
+                "N": "6905"
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equipment": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "snowflake umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "387"
+            },
+            "unique_entry_id": {
+                "S": "r5RwHucDKWJPg7dkv"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "840"
+            },
+            "color_1": {
+                "S": "Black"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "internal_id": {
+                "N": "7173"
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equipment": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "spider umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "210"
+            },
+            "unique_entry_id": {
+                "S": "aaQhimbednGniK4NF"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "1550"
+            },
+            "color_1": {
+                "S": "Pink"
+            },
+            "color_2": {
+                "S": "Green"
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "internal_id": {
+                "N": "6907"
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equipment": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "strawberry umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "387"
+            },
+            "unique_entry_id": {
+                "S": "kKQHooYToACDqoqBm"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "750"
+            },
+            "color_1": {
+                "S": "Gray"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "internal_id": {
+                "N": "6916"
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equipment": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "striped umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "187"
+            },
+            "unique_entry_id": {
+                "S": "hF2THDnHbEJWTDT8L"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "750"
+            },
+            "color_1": {
+                "S": "Yellow"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "internal_id": {
+                "N": "6904"
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equipment": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "sunny parasol"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "187"
+            },
+            "unique_entry_id": {
+                "S": "thr45xserbQqAm6o4"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "750"
+            },
+            "color_1": {
+                "S": "Red"
+            },
+            "color_2": {
+                "S": "Green"
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "internal_id": {
+                "N": "6917"
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equipment": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "tartan-check umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "187"
+            },
+            "unique_entry_id": {
+                "S": "HjZzRQKbMdXBKYawe"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "750"
+            },
+            "color_1": {
+                "S": "Red"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "internal_id": {
+                "N": "5861"
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equipment": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Toad parasol"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "187"
+            },
+            "unique_entry_id": {
+                "S": "HnmPeaovKNwg7ZuBL"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "770"
+            },
+            "color_1": {
+                "S": "Red"
+            },
+            "color_2": {
+                "S": "Yellow"
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "internal_id": {
+                "N": "7166"
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equipment": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "two-tone umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "192"
+            },
+            "unique_entry_id": {
+                "S": "Da4xWXq9D2RFLnyYj"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "770"
+            },
+            "color_1": {
+                "S": "White"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "internal_id": {
+                "N": "7165"
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equipment": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "vinyl umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "192"
+            },
+            "unique_entry_id": {
+                "S": "q4Eo8vxPLFCL4ppac"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "1550"
+            },
+            "color_1": {
+                "S": "Red"
+            },
+            "color_2": {
+                "S": "Green"
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "internal_id": {
+                "N": "6909"
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equipment": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "watermelon umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "387"
+            },
+            "unique_entry_id": {
+                "S": "JTchAPvto4vHBJANw"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "1620"
+            },
+            "color_1": {
+                "S": "White"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "internal_id": {
+                "N": "12135"
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equipment": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "white shiny-bows parasol"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "405"
+            },
+            "unique_entry_id": {
+                "S": "4btSNLBHRoocAXfgE"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    }
+]

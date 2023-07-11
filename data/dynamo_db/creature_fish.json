@@ -1,0 +1,2322 @@
+[
+    {
+        "Item": {
+            "color_1": {
+                "S": "Blue"
+            },
+            "color_2": {
+                "S": "Red"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "4201"
+            },
+            "name": {
+                "S": "anchovy"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "200"
+            },
+            "unique_entry_id": {
+                "S": "LzuWkSQP55uEpRCP5"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Yellow"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "2247"
+            },
+            "name": {
+                "S": "angelfish"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "3000"
+            },
+            "unique_entry_id": {
+                "S": "XTCFCk2SiuY5YXLZ7"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Black"
+            },
+            "color_2": {
+                "S": "Blue"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "2253"
+            },
+            "name": {
+                "S": "arapaima"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "10000"
+            },
+            "unique_entry_id": {
+                "S": "mZy4BES54bqwi97br"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Yellow"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "2250"
+            },
+            "name": {
+                "S": "arowana"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "10000"
+            },
+            "unique_entry_id": {
+                "S": "F68AvCaqddBJL7ZSN"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "White"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "2265"
+            },
+            "name": {
+                "S": "barred knifejaw"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "5000"
+            },
+            "unique_entry_id": {
+                "S": "X3R9SFSAaDzBF4fE3"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Black"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "4204"
+            },
+            "name": {
+                "S": "barreleye"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "15000"
+            },
+            "unique_entry_id": {
+                "S": "BpqTa4zmTjv3Nm4wE"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Aqua"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "4191"
+            },
+            "name": {
+                "S": "betta"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "2500"
+            },
+            "unique_entry_id": {
+                "S": "7QcQXzwZoNGiNA94k"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Aqua"
+            },
+            "color_2": {
+                "S": "Blue"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "2215"
+            },
+            "name": {
+                "S": "bitterling"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "900"
+            },
+            "unique_entry_id": {
+                "S": "Drj6eLRBgg4T9KhNx"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Green"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "2234"
+            },
+            "name": {
+                "S": "black bass"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "400"
+            },
+            "unique_entry_id": {
+                "S": "wAZvfTca7GyaTtLcQ"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Beige"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "2262"
+            },
+            "name": {
+                "S": "blowfish"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "5000"
+            },
+            "unique_entry_id": {
+                "S": "aDsmTcByApycafxTa"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Blue"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "2275"
+            },
+            "name": {
+                "S": "blue marlin"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "10000"
+            },
+            "unique_entry_id": {
+                "S": "jhtsYRHydAcZnd6bJ"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Blue"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "2232"
+            },
+            "name": {
+                "S": "bluegill"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "180"
+            },
+            "unique_entry_id": {
+                "S": "8ygccYFCrWf4hwYGR"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Yellow"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "2259"
+            },
+            "name": {
+                "S": "butterfly fish"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "1000"
+            },
+            "unique_entry_id": {
+                "S": "S4rkio2M3WB5cyy8Y"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Gray"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "2219"
+            },
+            "name": {
+                "S": "carp"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "300"
+            },
+            "unique_entry_id": {
+                "S": "4DwwvGDwPQvZTn9Fb"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Black"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "2229"
+            },
+            "name": {
+                "S": "catfish"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "nbPtvwf7HCQxA9Nc4"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "2239"
+            },
+            "name": {
+                "S": "char"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "3800"
+            },
+            "unique_entry_id": {
+                "S": "ahbnwCqp3EZXa96KC"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "2238"
+            },
+            "name": {
+                "S": "cherry salmon"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "1000"
+            },
+            "unique_entry_id": {
+                "S": "sJyBbeLbpzn7LyzFr"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Orange"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "2257"
+            },
+            "name": {
+                "S": "clown fish"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "650"
+            },
+            "unique_entry_id": {
+                "S": "L9qxZaMoBhwxvpMyh"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Black"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "2284"
+            },
+            "name": {
+                "S": "coelacanth"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "15000"
+            },
+            "unique_entry_id": {
+                "S": "NjMZQ6Xi9NswEXnHH"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Red"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "2223"
+            },
+            "name": {
+                "S": "crawfish"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "200"
+            },
+            "unique_entry_id": {
+                "S": "W7TrwpycmfgniZipi"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "328"
+            },
+            "name": {
+                "S": "crucian carp"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "160"
+            },
+            "unique_entry_id": {
+                "S": "Pdw7vmJz9PRM4ggbf"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "2268"
+            },
+            "name": {
+                "S": "dab"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "300"
+            },
+            "unique_entry_id": {
+                "S": "noA2Kfp8TaFgaLs5n"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "2217"
+            },
+            "name": {
+                "S": "dace"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "240"
+            },
+            "unique_entry_id": {
+                "S": "dWmXFdnjByWT5nEok"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Yellow"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "2251"
+            },
+            "name": {
+                "S": "dorado"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "15000"
+            },
+            "unique_entry_id": {
+                "S": "G7ZwD67cRMHBwTSKH"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Black"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "2273"
+            },
+            "name": {
+                "S": "football fish"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "2500"
+            },
+            "unique_entry_id": {
+                "S": "vQHfve6DygtcYqwdi"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "2227"
+            },
+            "name": {
+                "S": "freshwater goby"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "400"
+            },
+            "unique_entry_id": {
+                "S": "SfXYNdtaid6hdQhvZ"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Green"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "2226"
+            },
+            "name": {
+                "S": "frog"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "120"
+            },
+            "unique_entry_id": {
+                "S": "LcQLs85qPPdLajLje"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "2252"
+            },
+            "name": {
+                "S": "gar"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "6000"
+            },
+            "unique_entry_id": {
+                "S": "x5yAYQgMJW9Kf7WyM"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Black"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "2231"
+            },
+            "name": {
+                "S": "giant snakehead"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "5500"
+            },
+            "unique_entry_id": {
+                "S": "KyWQRd8W2FePM42wB"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Black"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "2276"
+            },
+            "name": {
+                "S": "giant trevally"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "4500"
+            },
+            "unique_entry_id": {
+                "S": "53qtm8cMH4RfqJiAH"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "4193"
+            },
+            "name": {
+                "S": "golden trout"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "15000"
+            },
+            "unique_entry_id": {
+                "S": "wwGzR7FzWNJ7cDz9X"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Red"
+            },
+            "color_2": {
+                "S": "Aqua"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "329"
+            },
+            "name": {
+                "S": "goldfish"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "1300"
+            },
+            "unique_entry_id": {
+                "S": "5NwmwhEQxBNZCPiBR"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Blue"
+            },
+            "color_2": {
+                "S": "Blue"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "2280"
+            },
+            "name": {
+                "S": "great white shark"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "15000"
+            },
+            "unique_entry_id": {
+                "S": "EPypAeJGuTDGFJRnx"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Blue"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "2245"
+            },
+            "name": {
+                "S": "guppy"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "1300"
+            },
+            "unique_entry_id": {
+                "S": "WtdZnARNxnWRobej2"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Black"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "2279"
+            },
+            "name": {
+                "S": "hammerhead shark"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "8000"
+            },
+            "unique_entry_id": {
+                "S": "guHT5g6H7tJEyqYzf"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Blue"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "2264"
+            },
+            "name": {
+                "S": "horse mackerel"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "150"
+            },
+            "unique_entry_id": {
+                "S": "L24RYPaEcm9ZXkTui"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Yellow"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "2222"
+            },
+            "name": {
+                "S": "killifish"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "300"
+            },
+            "unique_entry_id": {
+                "S": "ZR9dsEApEXCjtXu3k"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Gray"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "2243"
+            },
+            "name": {
+                "S": "king salmon"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "1800"
+            },
+            "unique_entry_id": {
+                "S": "Pf5cXKo8pzdB45rAA"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Red"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "2220"
+            },
+            "name": {
+                "S": "koi"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "4000"
+            },
+            "unique_entry_id": {
+                "S": "kNwjLeqjg8bFevfiG"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Blue"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "2228"
+            },
+            "name": {
+                "S": "loach"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "400"
+            },
+            "unique_entry_id": {
+                "S": "95yBKrQ4tdyWj4H25"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Yellow"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "4202"
+            },
+            "name": {
+                "S": "mahi-mahi"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "6000"
+            },
+            "unique_entry_id": {
+                "S": "D7gY39QDo8BBNs2Ne"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Black"
+            },
+            "color_2": {
+                "S": "Blue"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "2244"
+            },
+            "name": {
+                "S": "mitten crab"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "2000"
+            },
+            "unique_entry_id": {
+                "S": "s2jqSYbMWBX6qCLDm"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "2271"
+            },
+            "name": {
+                "S": "moray eel"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "2000"
+            },
+            "unique_entry_id": {
+                "S": "4nLynLTMRtoqcCfh4"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Aqua"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "2260"
+            },
+            "name": {
+                "S": "Napoleonfish"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "10000"
+            },
+            "unique_entry_id": {
+                "S": "dm4THC3AYR6CZ8bvJ"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Aqua"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "2248"
+            },
+            "name": {
+                "S": "neon tetra"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "500"
+            },
+            "unique_entry_id": {
+                "S": "aEyRb96wcz9m8yjFN"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Blue"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "2246"
+            },
+            "name": {
+                "S": "nibble fish"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "1500"
+            },
+            "unique_entry_id": {
+                "S": "pkPKYsMiXsTWNz4L4"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Red"
+            },
+            "color_2": {
+                "S": "Blue"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "2283"
+            },
+            "name": {
+                "S": "oarfish"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "9000"
+            },
+            "unique_entry_id": {
+                "S": "qgvEPGk759xaBqwXP"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Blue"
+            },
+            "color_2": {
+                "S": "Orange"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "2278"
+            },
+            "name": {
+                "S": "ocean sunfish"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "4000"
+            },
+            "unique_entry_id": {
+                "S": "6BwK6LHbjFAKzgE82"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Beige"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "2269"
+            },
+            "name": {
+                "S": "olive flounder"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "TXSteKMHuQ9ZfqPXm"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Blue"
+            },
+            "color_2": {
+                "S": "Blue"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "2216"
+            },
+            "name": {
+                "S": "pale chub"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "200"
+            },
+            "unique_entry_id": {
+                "S": "pCn9TLap3rWiLYfnF"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Green"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "2235"
+            },
+            "name": {
+                "S": "pike"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "1800"
+            },
+            "unique_entry_id": {
+                "S": "XxrB6iKQPhBkYKaXD"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Green"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "2249"
+            },
+            "name": {
+                "S": "piranha"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "2500"
+            },
+            "unique_entry_id": {
+                "S": "5C59HAFxmwNSjH4Zq"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Orange"
+            },
+            "color_2": {
+                "S": "Blue"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "2236"
+            },
+            "name": {
+                "S": "pond smelt"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "400"
+            },
+            "unique_entry_id": {
+                "S": "DDb2GPEjapPmbYbWG"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Black"
+            },
+            "color_2": {
+                "S": "Aqua"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "2221"
+            },
+            "name": {
+                "S": "pop-eyed goldfish"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "1300"
+            },
+            "unique_entry_id": {
+                "S": "RvqzuA438gGqRJ7NG"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Beige"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "2263"
+            },
+            "name": {
+                "S": "puffer fish"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "250"
+            },
+            "unique_entry_id": {
+                "S": "jNkgaybfSsv8MkaQ2"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Orange"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "4194"
+            },
+            "name": {
+                "S": "rainbowfish"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "XJfkdS4C2MPYiscST"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Red"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "5254"
+            },
+            "name": {
+                "S": "ranchu goldfish"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "4500"
+            },
+            "unique_entry_id": {
+                "S": "4NE2SteWKEaBYjgWb"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "2277"
+            },
+            "name": {
+                "S": "ray"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "3000"
+            },
+            "unique_entry_id": {
+                "S": "gP5F7wWFvFqiZzuGw"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Red"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "2267"
+            },
+            "name": {
+                "S": "red snapper"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "3000"
+            },
+            "unique_entry_id": {
+                "S": "iY4zfgojAfLskW4CQ"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Blue"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "2272"
+            },
+            "name": {
+                "S": "ribbon eel"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "600"
+            },
+            "unique_entry_id": {
+                "S": "T9zeSBHpB5qyAZTxu"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "2254"
+            },
+            "name": {
+                "S": "saddled bichir"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "4000"
+            },
+            "unique_entry_id": {
+                "S": "bcTmnwZxrw2iJsQmf"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "2242"
+            },
+            "name": {
+                "S": "salmon"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "700"
+            },
+            "unique_entry_id": {
+                "S": "iwXhnZcSezNxqdNQf"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "2281"
+            },
+            "name": {
+                "S": "saw shark"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "12000"
+            },
+            "unique_entry_id": {
+                "S": "tsrT7a8cbtwZrmJTz"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Gray"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "2266"
+            },
+            "name": {
+                "S": "sea bass"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "400"
+            },
+            "unique_entry_id": {
+                "S": "LkA5hzibm6uiHDB9g"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "White"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "2255"
+            },
+            "name": {
+                "S": "sea butterfly"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "1000"
+            },
+            "unique_entry_id": {
+                "S": "kd5beizyQGeyjeM79"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Orange"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "2256"
+            },
+            "name": {
+                "S": "sea horse"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "1100"
+            },
+            "unique_entry_id": {
+                "S": "Pw5oZqC29NWEGRfyS"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "4192"
+            },
+            "name": {
+                "S": "snapping turtle"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "5000"
+            },
+            "unique_entry_id": {
+                "S": "SJa3LLde3Yuz4H3D7"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Green"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "2224"
+            },
+            "name": {
+                "S": "soft-shelled turtle"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "3750"
+            },
+            "unique_entry_id": {
+                "S": "izuY2f4GtEGT3BtuR"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Beige"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "2270"
+            },
+            "name": {
+                "S": "squid"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "500"
+            },
+            "unique_entry_id": {
+                "S": "qxHJ6BGgyQujkC28w"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "2241"
+            },
+            "name": {
+                "S": "stringfish"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "15000"
+            },
+            "unique_entry_id": {
+                "S": "APXg8kSzjcmoGGWSP"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Black"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "4189"
+            },
+            "name": {
+                "S": "sturgeon"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "10000"
+            },
+            "unique_entry_id": {
+                "S": "XabKYtzYDNSNrFvpw"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Black"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "4203"
+            },
+            "name": {
+                "S": "suckerfish"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "1500"
+            },
+            "unique_entry_id": {
+                "S": "FPpwmMDn9rYAJazyS"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Blue"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "2258"
+            },
+            "name": {
+                "S": "surgeonfish"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "1000"
+            },
+            "unique_entry_id": {
+                "S": "s7iioofF5C7PzCZyF"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Green"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "2237"
+            },
+            "name": {
+                "S": "sweetfish"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "900"
+            },
+            "unique_entry_id": {
+                "S": "dWgg2bjCicuiZjXW6"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Black"
+            },
+            "color_2": {
+                "S": "Blue"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "2225"
+            },
+            "name": {
+                "S": "tadpole"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "100"
+            },
+            "unique_entry_id": {
+                "S": "rb8MsjWopKYWuQK8s"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Black"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "4190"
+            },
+            "name": {
+                "S": "tilapia"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "as78rnkwY3ahrTkBY"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Blue"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "2274"
+            },
+            "name": {
+                "S": "tuna"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "7000"
+            },
+            "unique_entry_id": {
+                "S": "4PnGXx9DSb866AeCM"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Black"
+            },
+            "color_2": {
+                "S": "Blue"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "2282"
+            },
+            "name": {
+                "S": "whale shark"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "13000"
+            },
+            "unique_entry_id": {
+                "S": "r3RAtJsXENwnFvQh7"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Yellow"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "2233"
+            },
+            "name": {
+                "S": "yellow perch"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "300"
+            },
+            "unique_entry_id": {
+                "S": "bLgE5dicZniF5zZDW"
+            }
+        },
+        "TableName": "creature_fish"
+    },
+    {
+        "Item": {
+            "color_1": {
+                "S": "Red"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "71"
+            },
+            "internal_id": {
+                "N": "2261"
+            },
+            "name": {
+                "S": "zebra turkeyfish"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "500"
+            },
+            "unique_entry_id": {
+                "S": "h7fa7Fh3Ay7vAxgE2"
+            }
+        },
+        "TableName": "creature_fish"
+    }
+]
