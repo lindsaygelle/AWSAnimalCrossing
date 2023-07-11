@@ -1,0 +1,4182 @@
+[
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Orange"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2472"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Agent K.K."
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "omxkkikQ5jwtoGiXa"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Aqua"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2423"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Aloha K.K."
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "rxKK6nfmC4rWvXxCv"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "NULL": true
+            },
+            "buy_price": {
+                "NULL": true
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "4312"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Animal City"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "PTLK2jL5rb7t5Rm5j"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Aqua"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2492"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Bubblegum K.K."
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "ZgwCoTem6x9efZAnD"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Colorful"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2454"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Caf\u00e9 K.K."
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "ZXwXi8YnFpks2RPuK"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "7661"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Chillwave"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "ystJwQvoZ6wxxk4Rt"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2448"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Comrade K.K."
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "5ufeoTSFwRxQTrXdq"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Pink"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2443"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "DJ K.K."
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "6H8pzhuYdfNpD8KTd"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "NULL": true
+            },
+            "buy_price": {
+                "NULL": true
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "4314"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Drivin'"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "at7FbmJfbKvsGHB5T"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "NULL": true
+            },
+            "buy_price": {
+                "NULL": true
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "4313"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Farewell"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "diprrz97SbCJGzXM3"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Yellow"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2461"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Forest Life"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "ZM4S88gPPapGknNeR"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2450"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Go K.K. Rider"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "w6jLsBX6ZX4oPDwDh"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "NULL": true
+            },
+            "buy_price": {
+                "NULL": true
+            },
+            "color_1": {
+                "NULL": true
+            },
+            "color_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "0"
+            },
+            "internal_id": {
+                "N": "4315"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Hazure01"
+            },
+            "sell_currency": {
+                "NULL": true
+            },
+            "sell_price": {
+                "NULL": true
+            },
+            "unique_entry_id": {
+                "S": "yzpTLMjxFrMMyPe9t"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "NULL": true
+            },
+            "buy_price": {
+                "NULL": true
+            },
+            "color_1": {
+                "NULL": true
+            },
+            "color_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "0"
+            },
+            "internal_id": {
+                "N": "4316"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Hazure02"
+            },
+            "sell_currency": {
+                "NULL": true
+            },
+            "sell_price": {
+                "NULL": true
+            },
+            "unique_entry_id": {
+                "S": "oeZ6a9qJA54fyuwA3"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "NULL": true
+            },
+            "buy_price": {
+                "NULL": true
+            },
+            "color_1": {
+                "NULL": true
+            },
+            "color_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "0"
+            },
+            "internal_id": {
+                "N": "4317"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Hazure03"
+            },
+            "sell_currency": {
+                "NULL": true
+            },
+            "sell_price": {
+                "NULL": true
+            },
+            "unique_entry_id": {
+                "S": "cXrvAEgQstHcnP5Zf"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2480"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Hypno K.K."
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "qwHrcscJZNxD5mn8k"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Colorful"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2458"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "I Love You"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "cic3w9hqeY222ni2z"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Pink"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2427"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Imperial K.K."
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "6y3ftdfGBa3oYAfrA"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Orange"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2484"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. Adventure"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "6FWZByesWNcjXBPQX"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Blue"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2413"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. Aria"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "9ZSqWa7JjfMhwPWEE"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2447"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. Ballad"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "awbEqrBQ52aCi4YKj"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "7664"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. Bashment"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "3GeLa8tgcNhGZCLFP"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2486"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. Bazaar"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "yJdhdZPjGQSs4xL7a"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "NULL": true
+            },
+            "buy_price": {
+                "NULL": true
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Aqua"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2495"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. Birthday"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "xrFkTdiZ9fHkYMvDr"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2436"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. Blues"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "HtTcKk7AdJLrmwXXK"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2415"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. Bossa"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "Bu3tGw6JnhnMEabz2"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Purple"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "7666"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. Break"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "cR4WKiLY93LkbSN6q"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2416"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. Calypso"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "g7TbqwnzRw64kcmso"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Beige"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2428"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. Casbah"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "CuWyihNkLbL5rwbYZ"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Beige"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2405"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. Chorale"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "rijxxXt45dqkXze5A"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Aqua"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "7660"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. Chorinho"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "sxuGwPKb8EX7pD2GK"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Beige"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2425"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. Condor"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "EoALBg9oEc9NmJpaf"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2445"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. Country"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "rN2cyPLzaZaMGmrwj"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2439"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. Cruisin'"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "hPBjqhB66YBw6Tz4n"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Colorful"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2441"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. D&B"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "rkBHJtfrcabbt57bD"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2451"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. Dirge"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "2DDYNvo8uNo5zNPo8"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Colorful"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2494"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. Disco"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "tAZn6EXuFip47sbbo"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Colorful"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2464"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. Dixie"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "bCL6Df8hoG7kooXcL"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Beige"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "7662"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. Dub"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "dKMnHPfH5R3EGEdX4"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2411"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. \u00c9tude"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "PgDmhWq5W4ciF6TW5"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Orange"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2422"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. Faire"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "3i2RNpZeHPhxq6bPY"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Red"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2490"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. Flamenco"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "KXRPPacevShYgCh33"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Colorful"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2430"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. Folk"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "L9SqkeaoQNXGphs6H"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "7657"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. Fugue"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "46QADLGQz9nA2KA4g"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Colorful"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2410"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. Fusion"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "Lx9Kk9gmmori3huxC"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Blue"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2488"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. Groove"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "7ss8K3czErhJNQiXJ"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Beige"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2434"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. Gumbo"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "nPNjtqN3AJdfxLuAx"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Yellow"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "7665"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. Hop"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "D5vWDETq9hyZEwsvG"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Pink"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2478"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. House"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "DoMmMBQBeXm7sTGPm"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Aqua"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2482"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. Island"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "LrdjwBdn7hS2NXeW2"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Aqua"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2409"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. Jazz"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "eRNA3ktNpPi8qB5Yx"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Aqua"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2489"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. Jongara"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "2tqAXsz3eiAFcZ5aS"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "7667"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. Khoomei"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "ourFYo5xsLa8TEsmy"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Gray"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2449"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. Lament"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "LLDo3zTdcLf3JRexf"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2440"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. Love Song"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "Zi4kijYWbE3taJy67"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "7663"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. Lovers"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "PsFCdv4B7xnuDuA5x"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Green"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2412"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. Lullaby"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "WpCHmL6DBXK7RWQNJ"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Red"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2418"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. Mambo"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "LftoxEHoft5xpn8ZK"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Colorful"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2465"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. Marathon"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "EAeRF5hCvgZvpf24R"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Pink"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2406"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. March"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "ZYeSh5EHDgX9bEY4L"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Orange"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2456"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. Mariachi"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "yK4cu9gRJDzAchPip"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Purple"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2474"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. Metal"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "TNdpcZiy6ZXb2sie3"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Red"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2487"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. Milonga"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "bphgD53QrTdSQWrsw"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Orange"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2491"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. Moody"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "D3WoTWs7t3uojthok"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Colorful"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2485"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. Oasis"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "X45bf37FawXymbRTR"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Colorful"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2455"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. Parade"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "vaxtch9tWPZTeJKBf"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Green"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "7658"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. Polka"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "CG2yRG4GvRrvS67eW"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Gray"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2433"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. Ragtime"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "Rz7khNvFcekonfDC8"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Red"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2473"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. Rally"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "qPCRJqX3uM66bDrDb"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Colorful"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2419"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. Reggae"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "BeXTGzse56iMWrovn"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "7668"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. Robot Synth"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "HZoKsGn8HfREQhF5e"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2431"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. Rock"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "dGWQ49YGhQ6uxxdth"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Aqua"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2471"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. Rockabilly"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "DogQSJB5472T5PTgX"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Orange"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2429"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. Safari"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "YxQuKist5jbDN6YeX"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Red"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2417"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. Salsa"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "hMAkxLymhpg5Zt6Xm"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Aqua"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2414"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. Samba"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "XYFSnTG8QFbGXZJ79"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2420"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. Ska"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "TMiRa4nHYSbtCx4Em"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Red"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "7659"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. Slack-Key"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "gChZYnRCG8qsFg6yt"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2479"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. Sonata"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "zxHYzEN2Q7gt5JYMm"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Colorful"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2457"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. Song"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "xjLPmvzuXaBSZx4Fy"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2438"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. Soul"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "mXvujh5YZscWL5pKg"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Colorful"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2426"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. Steppe"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "mGhDWyj7f83gryu4g"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2481"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. Stroll"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "QmR5zsjrqjsYdDcYy"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Beige"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2408"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. Swing"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "BxCLYKFj8yeJMqxwD"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2493"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. Synth"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "S7sa9ugfRSHNPr9zX"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2421"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. Tango"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "9gwFYo6HKxqfxnimX"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2442"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. Technopop"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "opZrX852viqZH7RJX"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Red"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2407"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. Waltz"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "pYKWYuRTejcTphjzd"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Gray"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2452"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "K.K. Western"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "AnjsMygxJozFjZCGC"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Yellow"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2466"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "King K.K."
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "B6siK6dLxCJACfGZY"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2424"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Lucky K.K."
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "jCGA9eAgRjkLuNf2q"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Aqua"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2468"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Marine Song 2001"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "F8BvgZMycRgAjJv2A"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Aqua"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2467"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Mountain Song"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "5gDvnQ4uLnLwL85MK"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Beige"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2453"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Mr. K.K."
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "tGCobmkpe7AKsPmyn"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Green"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2460"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "My Place"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "gQvdSw38P4QZwpkCh"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2469"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Neapolitan"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "GDhwzHPsaEws6ciix"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Gray"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2444"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Only Me"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "wwhnr7dEdx36E8SRv"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2463"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Pondering"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "Gkk2Ck8DK627tiZkS"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2432"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Rockin' K.K."
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "asXTn3mfi7tzowcuj"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Orange"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2437"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Soulful K.K."
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "g2F79ptmGzFrrFf55"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2483"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Space K.K."
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "WbnqF3FqDQYJwfXed"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Pink"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2476"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Spring Blossoms"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "q4ZmbxwwgjaNzvR4e"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Blue"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2475"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Stale Cupcakes"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "wh9i62k97gw3B34ER"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Orange"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2470"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Steep Hill"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "v3WHjrpgdgeZ3jaFC"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Blue"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2446"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Surfin' K.K."
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "HEX474yLBRZ5xY5Pv"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Orange"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2435"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "The K. Funk"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "8ciaF2Yxuhc5Jqpar"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2462"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "To the Edge"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "P5ABGwMHvnYiFHcQN"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2459"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Two Days Ago"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "AzAHbHLA9oY2ihxrq"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3200"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Gray"
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "2477"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Wandering"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "eDgjD4iS8sHZ64k3k"
+            }
+        },
+        "TableName": "furniture_music"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "NULL": true
+            },
+            "buy_price": {
+                "NULL": true
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "internal_id": {
+                "N": "4318"
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Welcome Horizons"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "800"
+            },
+            "unique_entry_id": {
+                "S": "eBR8TwgdbAKWEQc3T"
+            }
+        },
+        "TableName": "furniture_music"
+    }
+]

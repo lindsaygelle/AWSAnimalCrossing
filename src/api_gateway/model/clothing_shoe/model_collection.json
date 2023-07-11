@@ -1,9 +1,0 @@
-{
-    "$schema": "http://json-schema.org/draft-04/schema#",
-    "items": {
-        "$ref": "https://apigateway.amazonaws.com/restapis/${api_gateway_id}/models/ClothingShoe"
-    },
-    "minItems": 1,
-    "title": "ClothingShoeCollection",
-    "type": "array"
-}

@@ -1,0 +1,5 @@
+#set($inputRoot = $input.json('$'))
+{
+    "input": "$util.escapeJavaScript($inputRoot).replaceAll("\\'", "'")",
+    "stateMachineArn": "${state_machine_arn}"
+}

@@ -1,0 +1,51 @@
+{
+    "StartAt": "LoopIterator",
+    "States": {
+        "LoopIterator": {
+            "End": true,
+            "InputPath": "$",
+            "ItemsPath": "$",
+            "Iterator": {
+                "StartAt": "S3PutObject",
+                "States": {
+                    "S3PutObject": {
+                        "Next": "S3PutObjectResult",
+                        "Parameters": {
+                            "Bucket": "${bucket}",
+                            "BucketContent.$": "$",
+                            "BucketKey": "unique_entry_id",
+                            "BucketPartition": "card"
+                        },
+                        "Resource": "${s3_put_object}",
+                        "Type": "Task"
+                    },
+                    "S3PutObjectResult": {
+                        "Choices": [
+                            {
+                                "Next": "DynamoDBPutItem",
+                                "NumericEquals": 200,
+                                "Variable": "$.HTTPStatusCode"
+                            }
+                        ],
+                        "Default": "EndState",
+                        "Type": "Choice"
+                    },
+                    "DynamoDBPutItem": {
+                        "End": true,
+                        "Parameters": {
+                            "Table": "AnimalCrossingCard",
+                            "TableContent.$": "$.BucketContent"
+                        },
+                        "Resource": "${dynamodb_put_item}",
+                        "Type": "Task"
+                    },
+                    "EndState": {
+                        "End": true,
+                        "Type": "Pass"
+                    }
+                }
+            },
+            "Type": "Map"
+        }
+    }
+}

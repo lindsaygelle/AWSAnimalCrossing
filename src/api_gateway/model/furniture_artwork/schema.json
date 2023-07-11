@@ -1,0 +1,107 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema",
+    "maxProperties": 11,
+    "minProperties": 11,
+    "properties": {
+        "buy_currency": {
+            "maxLength": 5,
+            "minLength": 5,
+            "type": [
+                "string"
+            ]
+        },
+        "buy_price": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 4980,
+            "minimum": 4980,
+            "type": [
+                "integer"
+            ]
+        },
+        "color_1": {
+            "maxLength": 6,
+            "minLength": 4,
+            "type": [
+                "string"
+            ]
+        },
+        "color_2": {
+            "maxLength": 6,
+            "minLength": 3,
+            "type": [
+                "string"
+            ]
+        },
+        "hha_points": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 451,
+            "minimum": 17,
+            "type": [
+                "integer"
+            ]
+        },
+        "internal_id": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 12629,
+            "minimum": 2,
+            "type": [
+                "integer"
+            ]
+        },
+        "is_unlocked": {
+            "type": [
+                "boolean"
+            ]
+        },
+        "name": {
+            "maxLength": 24,
+            "minLength": 12,
+            "type": [
+                "string"
+            ]
+        },
+        "sell_currency": {
+            "maxLength": 5,
+            "minLength": 5,
+            "type": [
+                "string",
+                "null"
+            ]
+        },
+        "sell_price": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 1245,
+            "minimum": 1245,
+            "type": [
+                "null",
+                "integer"
+            ]
+        },
+        "unique_entry_id": {
+            "maxLength": 17,
+            "minLength": 17,
+            "type": [
+                "string"
+            ]
+        }
+    },
+    "required": [
+        "buy_currency",
+        "buy_price",
+        "color_1",
+        "color_2",
+        "hha_points",
+        "internal_id",
+        "is_unlocked",
+        "name",
+        "sell_currency",
+        "sell_price",
+        "unique_entry_id"
+    ],
+    "title": "FurnitureArtwork",
+    "type": "object"
+}

@@ -1,0 +1,93 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema",
+    "maxProperties": 10,
+    "minProperties": 10,
+    "properties": {
+        "buy_currency": {
+            "type": [
+                "null"
+            ]
+        },
+        "buy_price": {
+            "type": [
+                "null"
+            ]
+        },
+        "color_1": {
+            "maxLength": 6,
+            "minLength": 4,
+            "type": [
+                "string"
+            ]
+        },
+        "color_2": {
+            "maxLength": 6,
+            "minLength": 4,
+            "type": [
+                "string"
+            ]
+        },
+        "hha_points": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 87,
+            "minimum": 87,
+            "type": [
+                "integer"
+            ]
+        },
+        "internal_id": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 7251,
+            "minimum": 169,
+            "type": [
+                "integer"
+            ]
+        },
+        "name": {
+            "maxLength": 19,
+            "minLength": 5,
+            "type": [
+                "string"
+            ]
+        },
+        "sell_currency": {
+            "maxLength": 5,
+            "minLength": 5,
+            "type": [
+                "string"
+            ]
+        },
+        "sell_price": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 6000,
+            "minimum": 1000,
+            "type": [
+                "integer"
+            ]
+        },
+        "unique_entry_id": {
+            "maxLength": 17,
+            "minLength": 17,
+            "type": [
+                "string"
+            ]
+        }
+    },
+    "required": [
+        "buy_currency",
+        "buy_price",
+        "color_1",
+        "color_2",
+        "hha_points",
+        "internal_id",
+        "name",
+        "sell_currency",
+        "sell_price",
+        "unique_entry_id"
+    ],
+    "title": "FurnitureFossil",
+    "type": "object"
+}

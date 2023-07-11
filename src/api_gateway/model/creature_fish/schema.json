@@ -1,0 +1,81 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema",
+    "maxProperties": 8,
+    "minProperties": 8,
+    "properties": {
+        "color_1": {
+            "maxLength": 6,
+            "minLength": 3,
+            "type": [
+                "string"
+            ]
+        },
+        "color_2": {
+            "maxLength": 6,
+            "minLength": 3,
+            "type": [
+                "string"
+            ]
+        },
+        "hha_points": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 71,
+            "minimum": 71,
+            "type": [
+                "integer"
+            ]
+        },
+        "internal_id": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 5254,
+            "minimum": 328,
+            "type": [
+                "integer"
+            ]
+        },
+        "name": {
+            "maxLength": 19,
+            "minLength": 3,
+            "type": [
+                "string"
+            ]
+        },
+        "sell_currency": {
+            "maxLength": 5,
+            "minLength": 5,
+            "type": [
+                "string"
+            ]
+        },
+        "sell_price": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 15000,
+            "minimum": 100,
+            "type": [
+                "integer"
+            ]
+        },
+        "unique_entry_id": {
+            "maxLength": 17,
+            "minLength": 17,
+            "type": [
+                "string"
+            ]
+        }
+    },
+    "required": [
+        "color_1",
+        "color_2",
+        "hha_points",
+        "internal_id",
+        "name",
+        "sell_currency",
+        "sell_price",
+        "unique_entry_id"
+    ],
+    "title": "CreatureFish",
+    "type": "object"
+}

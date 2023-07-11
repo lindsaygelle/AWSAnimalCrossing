@@ -1,0 +1,83 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema",
+    "maxProperties": 9,
+    "minProperties": 9,
+    "properties": {
+        "bubble_color": {
+            "maxLength": 7,
+            "minLength": 7,
+            "type": [
+                "string"
+            ]
+        },
+        "color_1": {
+            "maxLength": 8,
+            "minLength": 3,
+            "type": [
+                "string"
+            ]
+        },
+        "color_2": {
+            "maxLength": 8,
+            "minLength": 3,
+            "type": [
+                "string"
+            ]
+        },
+        "gender": {
+            "maxLength": 6,
+            "minLength": 4,
+            "type": [
+                "string"
+            ]
+        },
+        "name": {
+            "maxLength": 10,
+            "minLength": 2,
+            "type": [
+                "string"
+            ]
+        },
+        "name_color": {
+            "maxLength": 7,
+            "minLength": 7,
+            "type": [
+                "string"
+            ]
+        },
+        "style_1": {
+            "maxLength": 8,
+            "minLength": 4,
+            "type": [
+                "string"
+            ]
+        },
+        "style_2": {
+            "maxLength": 8,
+            "minLength": 4,
+            "type": [
+                "string"
+            ]
+        },
+        "unique_entry_id": {
+            "maxLength": 17,
+            "minLength": 17,
+            "type": [
+                "string"
+            ]
+        }
+    },
+    "required": [
+        "bubble_color",
+        "color_1",
+        "color_2",
+        "gender",
+        "name",
+        "name_color",
+        "style_1",
+        "style_2",
+        "unique_entry_id"
+    ],
+    "title": "Villager",
+    "type": "object"
+}

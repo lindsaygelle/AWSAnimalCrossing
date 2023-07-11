@@ -1,14 +1,14 @@
 resource "aws_iam_role" "api_gateway" {
-  assume_role_policy = data.aws_iam_policy_document.api_gateway_assume_role.json
-  name               = "AnimalCrossingApiGateway"
+  assume_role_policy = data.aws_iam_policy_document.assume_role_api_gateway.json
+  name               = "AnimalCrossingApiGatewayRole"
 }
 
-resource "aws_iam_role" "lambda_s3_get_object" {
-  assume_role_policy = data.aws_iam_policy_document.lambda_assume_role.json
-  name               = "AnimalCrossingLambdaS3GetObject"
+resource "aws_iam_role" "lambda" {
+  assume_role_policy = data.aws_iam_policy_document.assume_role_lambda.json
+  name               = "AnimalCrossingLambdaRole"
 }
 
-resource "aws_iam_role" "lambda_s3_put_object" {
-  assume_role_policy = data.aws_iam_policy_document.lambda_assume_role.json
-  name               = "AnimalCrossingLambdaS3PutObject"
+resource "aws_iam_role" "step_function" {
+  assume_role_policy = data.aws_iam_policy_document.assume_role_step_function.json
+  name               = "AnimalCrossingStepFunctionRole"
 }

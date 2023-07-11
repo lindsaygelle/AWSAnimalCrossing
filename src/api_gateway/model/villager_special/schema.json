@@ -1,0 +1,69 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema",
+    "maxProperties": 7,
+    "minProperties": 7,
+    "properties": {
+        "bubble_color": {
+            "maxLength": 7,
+            "minLength": 7,
+            "type": [
+                "string"
+            ]
+        },
+        "gender": {
+            "maxLength": 6,
+            "minLength": 4,
+            "type": [
+                "string"
+            ]
+        },
+        "gender_alternative": {
+            "maxLength": 6,
+            "minLength": 4,
+            "type": [
+                "string"
+            ]
+        },
+        "internal_id": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 69,
+            "minimum": 0,
+            "type": [
+                "integer"
+            ]
+        },
+        "name": {
+            "maxLength": 10,
+            "minLength": 3,
+            "type": [
+                "string"
+            ]
+        },
+        "name_color": {
+            "maxLength": 7,
+            "minLength": 7,
+            "type": [
+                "string"
+            ]
+        },
+        "unique_entry_id": {
+            "maxLength": 17,
+            "minLength": 17,
+            "type": [
+                "string"
+            ]
+        }
+    },
+    "required": [
+        "bubble_color",
+        "gender",
+        "gender_alternative",
+        "internal_id",
+        "name",
+        "name_color",
+        "unique_entry_id"
+    ],
+    "title": "VillagerSpecial",
+    "type": "object"
+}

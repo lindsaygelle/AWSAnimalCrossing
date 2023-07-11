@@ -1,624 +1,701 @@
-
 resource "aws_api_gateway_model" "achievement" {
   content_type = "application/json"
+  description  = ""
   name         = "Achievement"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = file("./src/api_gateway/model/achievement/model.json")
+  schema       = file("./src/api_gateway/model/achievement/schema.json")
 }
 
-resource "aws_api_gateway_model" "achievement_collection" {
+resource "aws_api_gateway_model" "achievement_POST" {
   content_type = "application/json"
-  name         = "AchievementCollection"
+  description  = ""
+  name         = "AchievementPOST"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = templatefile("./src/api_gateway/model/achievement/model_collection.json", {
-    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  schema = templatefile("./src/api_gateway/method/request_body/POST/achievement/schema.json", {
+    rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
   })
 }
 
 resource "aws_api_gateway_model" "card" {
   content_type = "application/json"
+  description  = ""
   name         = "Card"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = file("./src/api_gateway/model/card/model.json")
+  schema       = file("./src/api_gateway/model/card/schema.json")
 }
 
-resource "aws_api_gateway_model" "card_collection" {
+resource "aws_api_gateway_model" "card_POST" {
   content_type = "application/json"
-  name         = "CardCollection"
+  description  = ""
+  name         = "CardPOST"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = templatefile("./src/api_gateway/model/card/model_collection.json", {
-    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  schema = templatefile("./src/api_gateway/method/request_body/POST/card/schema.json", {
+    rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
   })
 }
 
 resource "aws_api_gateway_model" "clothing_accessory" {
   content_type = "application/json"
+  description  = ""
   name         = "ClothingAccessory"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = file("./src/api_gateway/model/clothing_accessory/model.json")
+  schema       = file("./src/api_gateway/model/clothing_accessory/schema.json")
 }
 
-resource "aws_api_gateway_model" "clothing_accessory_collection" {
+resource "aws_api_gateway_model" "clothing_accessory_POST" {
   content_type = "application/json"
-  name         = "ClothingAccessoryCollection"
+  description  = ""
+  name         = "ClothingAccessoryPOST"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = templatefile("./src/api_gateway/model/clothing_accessory/model_collection.json", {
-    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  schema = templatefile("./src/api_gateway/method/request_body/POST/clothing_accessory/schema.json", {
+    rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
   })
 }
 
 resource "aws_api_gateway_model" "clothing_bag" {
   content_type = "application/json"
+  description  = ""
   name         = "ClothingBag"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = file("./src/api_gateway/model/clothing_bag/model.json")
+  schema       = file("./src/api_gateway/model/clothing_bag/schema.json")
 }
 
-resource "aws_api_gateway_model" "clothing_bag_collection" {
+resource "aws_api_gateway_model" "clothing_bag_POST" {
   content_type = "application/json"
-  name         = "ClothingBagCollection"
+  description  = ""
+  name         = "ClothingBagPOST"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = templatefile("./src/api_gateway/model/clothing_bag/model_collection.json", {
-    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  schema = templatefile("./src/api_gateway/method/request_body/POST/clothing_bag/schema.json", {
+    rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
   })
 }
 
 resource "aws_api_gateway_model" "clothing_bottom" {
   content_type = "application/json"
+  description  = ""
   name         = "ClothingBottom"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = file("./src/api_gateway/model/clothing_bottom/model.json")
+  schema       = file("./src/api_gateway/model/clothing_bottom/schema.json")
 }
 
-resource "aws_api_gateway_model" "clothing_bottom_collection" {
+resource "aws_api_gateway_model" "clothing_bottom_POST" {
   content_type = "application/json"
-  name         = "ClothingBottomCollection"
+  description  = ""
+  name         = "ClothingBottomPOST"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = templatefile("./src/api_gateway/model/clothing_bottom/model_collection.json", {
-    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  schema = templatefile("./src/api_gateway/method/request_body/POST/clothing_bottom/schema.json", {
+    rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
   })
 }
 
 resource "aws_api_gateway_model" "clothing_dress_up" {
   content_type = "application/json"
+  description  = ""
   name         = "ClothingDressUp"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = file("./src/api_gateway/model/clothing_dress_up/model.json")
+  schema       = file("./src/api_gateway/model/clothing_dress_up/schema.json")
 }
 
-resource "aws_api_gateway_model" "clothing_dress_up_collection" {
+resource "aws_api_gateway_model" "clothing_dress_up_POST" {
   content_type = "application/json"
-  name         = "ClothingDressUpCollection"
+  description  = ""
+  name         = "ClothingDressUpPOST"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = templatefile("./src/api_gateway/model/clothing_dress_up/model_collection.json", {
-    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  schema = templatefile("./src/api_gateway/method/request_body/POST/clothing_dress_up/schema.json", {
+    rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
   })
 }
 
 resource "aws_api_gateway_model" "clothing_headwear" {
   content_type = "application/json"
+  description  = ""
   name         = "ClothingHeadwear"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = file("./src/api_gateway/model/clothing_headwear/model.json")
+  schema       = file("./src/api_gateway/model/clothing_headwear/schema.json")
 }
 
-resource "aws_api_gateway_model" "clothing_headwear_collection" {
+resource "aws_api_gateway_model" "clothing_headwear_POST" {
   content_type = "application/json"
-  name         = "ClothingHeadwearCollection"
+  description  = ""
+  name         = "ClothingHeadwearPOST"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = templatefile("./src/api_gateway/model/clothing_headwear/model_collection.json", {
-    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  schema = templatefile("./src/api_gateway/method/request_body/POST/clothing_headwear/schema.json", {
+    rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
   })
 }
 
 resource "aws_api_gateway_model" "clothing_other" {
   content_type = "application/json"
+  description  = ""
   name         = "ClothingOther"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = file("./src/api_gateway/model/clothing_other/model.json")
+  schema       = file("./src/api_gateway/model/clothing_other/schema.json")
 }
 
-resource "aws_api_gateway_model" "clothing_other_collection" {
+resource "aws_api_gateway_model" "clothing_other_POST" {
   content_type = "application/json"
-  name         = "ClothingOtherCollection"
+  description  = ""
+  name         = "ClothingOtherPOST"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = templatefile("./src/api_gateway/model/clothing_other/model_collection.json", {
-    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  schema = templatefile("./src/api_gateway/method/request_body/POST/clothing_other/schema.json", {
+    rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
   })
 }
 
 resource "aws_api_gateway_model" "clothing_shoe" {
   content_type = "application/json"
+  description  = ""
   name         = "ClothingShoe"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = file("./src/api_gateway/model/clothing_shoe/model.json")
+  schema       = file("./src/api_gateway/model/clothing_shoe/schema.json")
 }
 
-resource "aws_api_gateway_model" "clothing_shoe_collection" {
+resource "aws_api_gateway_model" "clothing_shoe_POST" {
   content_type = "application/json"
-  name         = "ClothingShoeCollection"
+  description  = ""
+  name         = "ClothingShoePOST"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = templatefile("./src/api_gateway/model/clothing_shoe/model_collection.json", {
-    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  schema = templatefile("./src/api_gateway/method/request_body/POST/clothing_shoe/schema.json", {
+    rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
   })
 }
 
 resource "aws_api_gateway_model" "clothing_sock" {
   content_type = "application/json"
+  description  = ""
   name         = "ClothingSock"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = file("./src/api_gateway/model/clothing_sock/model.json")
+  schema       = file("./src/api_gateway/model/clothing_sock/schema.json")
 }
 
-resource "aws_api_gateway_model" "clothing_sock_collection" {
+resource "aws_api_gateway_model" "clothing_sock_POST" {
   content_type = "application/json"
-  name         = "ClothingSockCollection"
+  description  = ""
+  name         = "ClothingSockPOST"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = templatefile("./src/api_gateway/model/clothing_sock/model_collection.json", {
-    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  schema = templatefile("./src/api_gateway/method/request_body/POST/clothing_sock/schema.json", {
+    rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
   })
 }
 
 resource "aws_api_gateway_model" "clothing_top" {
   content_type = "application/json"
+  description  = ""
   name         = "ClothingTop"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = file("./src/api_gateway/model/clothing_top/model.json")
+  schema       = file("./src/api_gateway/model/clothing_top/schema.json")
 }
 
-resource "aws_api_gateway_model" "clothing_top_collection" {
+resource "aws_api_gateway_model" "clothing_top_POST" {
   content_type = "application/json"
-  name         = "ClothingTopCollection"
+  description  = ""
+  name         = "ClothingTopPOST"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = templatefile("./src/api_gateway/model/clothing_top/model_collection.json", {
-    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  schema = templatefile("./src/api_gateway/method/request_body/POST/clothing_top/schema.json", {
+    rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
   })
 }
 
 resource "aws_api_gateway_model" "clothing_umbrella" {
   content_type = "application/json"
+  description  = ""
   name         = "ClothingUmbrella"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = file("./src/api_gateway/model/clothing_umbrella/model.json")
+  schema       = file("./src/api_gateway/model/clothing_umbrella/schema.json")
 }
 
-resource "aws_api_gateway_model" "clothing_umbrella_collection" {
+resource "aws_api_gateway_model" "clothing_umbrella_POST" {
   content_type = "application/json"
-  name         = "ClothingUmbrellaCollection"
+  description  = ""
+  name         = "ClothingUmbrellaPOST"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = templatefile("./src/api_gateway/model/clothing_umbrella/model_collection.json", {
-    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  schema = templatefile("./src/api_gateway/method/request_body/POST/clothing_umbrella/schema.json", {
+    rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
   })
 }
 
 resource "aws_api_gateway_model" "construction" {
   content_type = "application/json"
+  description  = ""
   name         = "Construction"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = file("./src/api_gateway/model/construction/model.json")
+  schema       = file("./src/api_gateway/model/construction/schema.json")
 }
 
-resource "aws_api_gateway_model" "construction_collection" {
+resource "aws_api_gateway_model" "construction_POST" {
   content_type = "application/json"
-  name         = "ConstructionCollection"
+  description  = ""
+  name         = "ConstructionPOST"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = templatefile("./src/api_gateway/model/construction/model_collection.json", {
-    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  schema = templatefile("./src/api_gateway/method/request_body/POST/construction/schema.json", {
+    rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
   })
 }
 
 resource "aws_api_gateway_model" "creature_fish" {
   content_type = "application/json"
+  description  = ""
   name         = "CreatureFish"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = file("./src/api_gateway/model/creature_fish/model.json")
+  schema       = file("./src/api_gateway/model/creature_fish/schema.json")
 }
 
-resource "aws_api_gateway_model" "creature_fish_collection" {
+resource "aws_api_gateway_model" "creature_fish_POST" {
   content_type = "application/json"
-  name         = "CreatureFishCollection"
+  description  = ""
+  name         = "CreatureFishPOST"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = templatefile("./src/api_gateway/model/creature_fish/model_collection.json", {
-    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  schema = templatefile("./src/api_gateway/method/request_body/POST/creature_fish/schema.json", {
+    rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
   })
 }
 
 resource "aws_api_gateway_model" "creature_insect" {
   content_type = "application/json"
+  description  = ""
   name         = "CreatureInsect"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = file("./src/api_gateway/model/creature_insect/model.json")
+  schema       = file("./src/api_gateway/model/creature_insect/schema.json")
 }
 
-resource "aws_api_gateway_model" "creature_insect_collection" {
+resource "aws_api_gateway_model" "creature_insect_POST" {
   content_type = "application/json"
-  name         = "CreatureInsectCollection"
+  description  = ""
+  name         = "CreatureInsectPOST"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = templatefile("./src/api_gateway/model/creature_insect/model_collection.json", {
-    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  schema = templatefile("./src/api_gateway/method/request_body/POST/creature_insect/schema.json", {
+    rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
   })
 }
 
 resource "aws_api_gateway_model" "creature_sea" {
   content_type = "application/json"
+  description  = ""
   name         = "CreatureSea"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = file("./src/api_gateway/model/creature_sea/model.json")
+  schema       = file("./src/api_gateway/model/creature_sea/schema.json")
 }
 
-resource "aws_api_gateway_model" "creature_sea_collection" {
+resource "aws_api_gateway_model" "creature_sea_POST" {
   content_type = "application/json"
-  name         = "CreatureSeaCollection"
+  description  = ""
+  name         = "CreatureSeaPOST"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = templatefile("./src/api_gateway/model/creature_sea/model_collection.json", {
-    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  schema = templatefile("./src/api_gateway/method/request_body/POST/creature_sea/schema.json", {
+    rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
   })
 }
 
 resource "aws_api_gateway_model" "furniture_artwork" {
   content_type = "application/json"
+  description  = ""
   name         = "FurnitureArtwork"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = file("./src/api_gateway/model/furniture_artwork/model.json")
+  schema       = file("./src/api_gateway/model/furniture_artwork/schema.json")
 }
 
-resource "aws_api_gateway_model" "furniture_artwork_collection" {
+resource "aws_api_gateway_model" "furniture_artwork_POST" {
   content_type = "application/json"
-  name         = "FurnitureArtworkCollection"
+  description  = ""
+  name         = "FurnitureArtworkPOST"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = templatefile("./src/api_gateway/model/furniture_artwork/model_collection.json", {
-    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  schema = templatefile("./src/api_gateway/method/request_body/POST/furniture_artwork/schema.json", {
+    rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
   })
 }
 
 resource "aws_api_gateway_model" "furniture_ceiling" {
   content_type = "application/json"
+  description  = ""
   name         = "FurnitureCeiling"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = file("./src/api_gateway/model/furniture_ceiling/model.json")
+  schema       = file("./src/api_gateway/model/furniture_ceiling/schema.json")
 }
 
-resource "aws_api_gateway_model" "furniture_ceiling_collection" {
+resource "aws_api_gateway_model" "furniture_ceiling_POST" {
   content_type = "application/json"
-  name         = "FurnitureCeilingCollection"
+  description  = ""
+  name         = "FurnitureCeilingPOST"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = templatefile("./src/api_gateway/model/furniture_ceiling/model_collection.json", {
-    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  schema = templatefile("./src/api_gateway/method/request_body/POST/furniture_ceiling/schema.json", {
+    rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
   })
 }
 
 resource "aws_api_gateway_model" "furniture_fencing" {
   content_type = "application/json"
+  description  = ""
   name         = "FurnitureFencing"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = file("./src/api_gateway/model/furniture_fencing/model.json")
+  schema       = file("./src/api_gateway/model/furniture_fencing/schema.json")
 }
 
-resource "aws_api_gateway_model" "furniture_fencing_collection" {
+resource "aws_api_gateway_model" "furniture_fencing_POST" {
   content_type = "application/json"
-  name         = "FurnitureFencingCollection"
+  description  = ""
+  name         = "FurnitureFencingPOST"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = templatefile("./src/api_gateway/model/furniture_fencing/model_collection.json", {
-    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  schema = templatefile("./src/api_gateway/method/request_body/POST/furniture_fencing/schema.json", {
+    rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
   })
 }
 
 resource "aws_api_gateway_model" "furniture_floor" {
   content_type = "application/json"
+  description  = ""
   name         = "FurnitureFloor"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = file("./src/api_gateway/model/furniture_floor/model.json")
+  schema       = file("./src/api_gateway/model/furniture_floor/schema.json")
 }
 
-resource "aws_api_gateway_model" "furniture_floor_collection" {
+resource "aws_api_gateway_model" "furniture_floor_POST" {
   content_type = "application/json"
-  name         = "FurnitureFloorCollection"
+  description  = ""
+  name         = "FurnitureFloorPOST"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = templatefile("./src/api_gateway/model/furniture_floor/model_collection.json", {
-    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  schema = templatefile("./src/api_gateway/method/request_body/POST/furniture_floor/schema.json", {
+    rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
   })
 }
 
 resource "aws_api_gateway_model" "furniture_fossil" {
   content_type = "application/json"
+  description  = ""
   name         = "FurnitureFossil"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = file("./src/api_gateway/model/furniture_fossil/model.json")
+  schema       = file("./src/api_gateway/model/furniture_fossil/schema.json")
 }
 
-resource "aws_api_gateway_model" "furniture_fossil_collection" {
+resource "aws_api_gateway_model" "furniture_fossil_POST" {
   content_type = "application/json"
-  name         = "FurnitureFossilCollection"
+  description  = ""
+  name         = "FurnitureFossilPOST"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = templatefile("./src/api_gateway/model/furniture_fossil/model_collection.json", {
-    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  schema = templatefile("./src/api_gateway/method/request_body/POST/furniture_fossil/schema.json", {
+    rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
   })
 }
 
 resource "aws_api_gateway_model" "furniture_gyroid" {
   content_type = "application/json"
+  description  = ""
   name         = "FurnitureGyroid"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = file("./src/api_gateway/model/furniture_gyroid/model.json")
+  schema       = file("./src/api_gateway/model/furniture_gyroid/schema.json")
 }
 
-resource "aws_api_gateway_model" "furniture_gyroid_collection" {
+resource "aws_api_gateway_model" "furniture_gyroid_POST" {
   content_type = "application/json"
-  name         = "FurnitureGyroidCollection"
+  description  = ""
+  name         = "FurnitureGyroidPOST"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = templatefile("./src/api_gateway/model/furniture_gyroid/model_collection.json", {
-    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  schema = templatefile("./src/api_gateway/method/request_body/POST/furniture_gyroid/schema.json", {
+    rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
   })
 }
 
 resource "aws_api_gateway_model" "furniture_housewear" {
   content_type = "application/json"
+  description  = ""
   name         = "FurnitureHousewear"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = file("./src/api_gateway/model/furniture_housewear/model.json")
+  schema       = file("./src/api_gateway/model/furniture_housewear/schema.json")
 }
 
-resource "aws_api_gateway_model" "furniture_housewear_collection" {
+resource "aws_api_gateway_model" "furniture_housewear_POST" {
   content_type = "application/json"
-  name         = "FurnitureHousewearCollection"
+  description  = ""
+  name         = "FurnitureHousewearPOST"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = templatefile("./src/api_gateway/model/furniture_housewear/model_collection.json", {
-    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  schema = templatefile("./src/api_gateway/method/request_body/POST/furniture_housewear/schema.json", {
+    rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
   })
 }
 
 resource "aws_api_gateway_model" "furniture_interior_structure" {
   content_type = "application/json"
+  description  = ""
   name         = "FurnitureInteriorStructure"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = file("./src/api_gateway/model/furniture_interior_structure/model.json")
+  schema       = file("./src/api_gateway/model/furniture_interior_structure/schema.json")
 }
 
-resource "aws_api_gateway_model" "furniture_interior_structure_collection" {
+resource "aws_api_gateway_model" "furniture_interior_structure_POST" {
   content_type = "application/json"
-  name         = "FurnitureInteriorStructureCollection"
+  description  = ""
+  name         = "FurnitureInteriorStructurePOST"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = templatefile("./src/api_gateway/model/furniture_interior_structure/model_collection.json", {
-    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  schema = templatefile("./src/api_gateway/method/request_body/POST/furniture_interior_structure/schema.json", {
+    rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
   })
 }
 
 resource "aws_api_gateway_model" "furniture_miscellaneous" {
   content_type = "application/json"
+  description  = ""
   name         = "FurnitureMiscellaneous"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = file("./src/api_gateway/model/furniture_miscellaneous/model.json")
+  schema       = file("./src/api_gateway/model/furniture_miscellaneous/schema.json")
 }
 
-resource "aws_api_gateway_model" "furniture_miscellaneous_collection" {
+resource "aws_api_gateway_model" "furniture_miscellaneous_POST" {
   content_type = "application/json"
-  name         = "FurnitureMiscellaneousCollection"
+  description  = ""
+  name         = "FurnitureMiscellaneousPOST"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = templatefile("./src/api_gateway/model/furniture_miscellaneous/model_collection.json", {
-    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  schema = templatefile("./src/api_gateway/method/request_body/POST/furniture_miscellaneous/schema.json", {
+    rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
   })
 }
 
 resource "aws_api_gateway_model" "furniture_music" {
   content_type = "application/json"
+  description  = ""
   name         = "FurnitureMusic"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = file("./src/api_gateway/model/furniture_music/model.json")
+  schema       = file("./src/api_gateway/model/furniture_music/schema.json")
 }
 
-resource "aws_api_gateway_model" "furniture_music_collection" {
+resource "aws_api_gateway_model" "furniture_music_POST" {
   content_type = "application/json"
-  name         = "FurnitureMusicCollection"
+  description  = ""
+  name         = "FurnitureMusicPOST"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = templatefile("./src/api_gateway/model/furniture_music/model_collection.json", {
-    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  schema = templatefile("./src/api_gateway/method/request_body/POST/furniture_music/schema.json", {
+    rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
   })
 }
 
 resource "aws_api_gateway_model" "furniture_photo" {
   content_type = "application/json"
+  description  = ""
   name         = "FurniturePhoto"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = file("./src/api_gateway/model/furniture_photo/model.json")
+  schema       = file("./src/api_gateway/model/furniture_photo/schema.json")
 }
 
-resource "aws_api_gateway_model" "furniture_photo_collection" {
+resource "aws_api_gateway_model" "furniture_photo_POST" {
   content_type = "application/json"
-  name         = "FurniturePhotoCollection"
+  description  = ""
+  name         = "FurniturePhotoPOST"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = templatefile("./src/api_gateway/model/furniture_photo/model_collection.json", {
-    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  schema = templatefile("./src/api_gateway/method/request_body/POST/furniture_photo/schema.json", {
+    rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
   })
 }
 
 resource "aws_api_gateway_model" "furniture_poster" {
   content_type = "application/json"
+  description  = ""
   name         = "FurniturePoster"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = file("./src/api_gateway/model/furniture_poster/model.json")
+  schema       = file("./src/api_gateway/model/furniture_poster/schema.json")
 }
 
-resource "aws_api_gateway_model" "furniture_poster_collection" {
+resource "aws_api_gateway_model" "furniture_poster_POST" {
   content_type = "application/json"
-  name         = "FurniturePosterCollection"
+  description  = ""
+  name         = "FurniturePosterPOST"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = templatefile("./src/api_gateway/model/furniture_poster/model_collection.json", {
-    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  schema = templatefile("./src/api_gateway/method/request_body/POST/furniture_poster/schema.json", {
+    rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
   })
 }
 
 resource "aws_api_gateway_model" "furniture_rug" {
   content_type = "application/json"
+  description  = ""
   name         = "FurnitureRug"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = file("./src/api_gateway/model/furniture_rug/model.json")
+  schema       = file("./src/api_gateway/model/furniture_rug/schema.json")
 }
 
-resource "aws_api_gateway_model" "furniture_rug_collection" {
+resource "aws_api_gateway_model" "furniture_rug_POST" {
   content_type = "application/json"
-  name         = "FurnitureRugCollection"
+  description  = ""
+  name         = "FurnitureRugPOST"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = templatefile("./src/api_gateway/model/furniture_rug/model_collection.json", {
-    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  schema = templatefile("./src/api_gateway/method/request_body/POST/furniture_rug/schema.json", {
+    rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
   })
 }
 
 resource "aws_api_gateway_model" "furniture_wall_mounted" {
   content_type = "application/json"
+  description  = ""
   name         = "FurnitureWallMounted"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = file("./src/api_gateway/model/furniture_wall_mounted/model.json")
+  schema       = file("./src/api_gateway/model/furniture_wall_mounted/schema.json")
 }
 
-resource "aws_api_gateway_model" "furniture_wall_mounted_collection" {
+resource "aws_api_gateway_model" "furniture_wall_mounted_POST" {
   content_type = "application/json"
-  name         = "FurnitureWallMountedCollection"
+  description  = ""
+  name         = "FurnitureWallMountedPOST"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = templatefile("./src/api_gateway/model/furniture_wall_mounted/model_collection.json", {
-    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  schema = templatefile("./src/api_gateway/method/request_body/POST/furniture_wall_mounted/schema.json", {
+    rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
   })
 }
 
 resource "aws_api_gateway_model" "furniture_wallpaper" {
   content_type = "application/json"
+  description  = ""
   name         = "FurnitureWallpaper"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = file("./src/api_gateway/model/furniture_wallpaper/model.json")
+  schema       = file("./src/api_gateway/model/furniture_wallpaper/schema.json")
 }
 
-resource "aws_api_gateway_model" "furniture_wallpaper_collection" {
+resource "aws_api_gateway_model" "furniture_wallpaper_POST" {
   content_type = "application/json"
-  name         = "FurnitureWallpaperCollection"
+  description  = ""
+  name         = "FurnitureWallpaperPOST"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = templatefile("./src/api_gateway/model/furniture_wallpaper/model_collection.json", {
-    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  schema = templatefile("./src/api_gateway/method/request_body/POST/furniture_wallpaper/schema.json", {
+    rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
   })
 }
 
 resource "aws_api_gateway_model" "item" {
   content_type = "application/json"
+  description  = ""
   name         = "Item"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = file("./src/api_gateway/model/item/model.json")
+  schema       = file("./src/api_gateway/model/item/schema.json")
 }
 
-resource "aws_api_gateway_model" "item_collection" {
+resource "aws_api_gateway_model" "item_POST" {
   content_type = "application/json"
-  name         = "ItemCollection"
+  description  = ""
+  name         = "ItemPOST"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = templatefile("./src/api_gateway/model/item/model_collection.json", {
-    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  schema = templatefile("./src/api_gateway/method/request_body/POST/item/schema.json", {
+    rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
   })
 }
 
 resource "aws_api_gateway_model" "item_other" {
   content_type = "application/json"
+  description  = ""
   name         = "ItemOther"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = file("./src/api_gateway/model/item_other/model.json")
+  schema       = file("./src/api_gateway/model/item_other/schema.json")
 }
 
-resource "aws_api_gateway_model" "item_other_collection" {
+resource "aws_api_gateway_model" "item_other_POST" {
   content_type = "application/json"
-  name         = "ItemOtherCollection"
+  description  = ""
+  name         = "ItemOtherPOST"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = templatefile("./src/api_gateway/model/item_other/model_collection.json", {
-    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  schema = templatefile("./src/api_gateway/method/request_body/POST/item_other/schema.json", {
+    rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
   })
 }
 
 resource "aws_api_gateway_model" "occasion" {
   content_type = "application/json"
+  description  = ""
   name         = "Occasion"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = file("./src/api_gateway/model/occasion/model.json")
+  schema       = file("./src/api_gateway/model/occasion/schema.json")
 }
 
-resource "aws_api_gateway_model" "occasion_collection" {
+resource "aws_api_gateway_model" "occasion_POST" {
   content_type = "application/json"
-  name         = "OccasionCollection"
+  description  = ""
+  name         = "OccasionPOST"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = templatefile("./src/api_gateway/model/occasion/model_collection.json", {
-    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  schema = templatefile("./src/api_gateway/method/request_body/POST/occasion/schema.json", {
+    rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
   })
 }
 
 resource "aws_api_gateway_model" "paradise_planning" {
   content_type = "application/json"
+  description  = ""
   name         = "ParadisePlanning"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = file("./src/api_gateway/model/paradise_planning/model.json")
+  schema       = file("./src/api_gateway/model/paradise_planning/schema.json")
 }
 
-resource "aws_api_gateway_model" "paradise_planning_collection" {
+resource "aws_api_gateway_model" "paradise_planning_POST" {
   content_type = "application/json"
-  name         = "ParadisePlanningCollection"
+  description  = ""
+  name         = "ParadisePlanningPOST"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = templatefile("./src/api_gateway/model/paradise_planning/model_collection.json", {
-    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  schema = templatefile("./src/api_gateway/method/request_body/POST/paradise_planning/schema.json", {
+    rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
   })
 }
 
 resource "aws_api_gateway_model" "reaction" {
   content_type = "application/json"
+  description  = ""
   name         = "Reaction"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = file("./src/api_gateway/model/reaction/model.json")
+  schema       = file("./src/api_gateway/model/reaction/schema.json")
 }
 
-resource "aws_api_gateway_model" "reaction_collection" {
+resource "aws_api_gateway_model" "reaction_POST" {
   content_type = "application/json"
-  name         = "ReactionCollection"
+  description  = ""
+  name         = "ReactionPOST"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = templatefile("./src/api_gateway/model/reaction/model_collection.json", {
-    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  schema = templatefile("./src/api_gateway/method/request_body/POST/reaction/schema.json", {
+    rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
   })
 }
 
 resource "aws_api_gateway_model" "recipe" {
   content_type = "application/json"
+  description  = ""
   name         = "Recipe"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = file("./src/api_gateway/model/recipe/model.json")
+  schema       = file("./src/api_gateway/model/recipe/schema.json")
 }
 
-resource "aws_api_gateway_model" "recipe_collection" {
+resource "aws_api_gateway_model" "recipe_POST" {
   content_type = "application/json"
-  name         = "RecipeCollection"
+  description  = ""
+  name         = "RecipePOST"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = templatefile("./src/api_gateway/model/recipe/model_collection.json", {
-    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  schema = templatefile("./src/api_gateway/method/request_body/POST/recipe/schema.json", {
+    rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
   })
 }
 
 resource "aws_api_gateway_model" "villager" {
   content_type = "application/json"
+  description  = ""
   name         = "Villager"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = file("./src/api_gateway/model/villager/model.json")
+  schema       = file("./src/api_gateway/model/villager/schema.json")
 }
 
-resource "aws_api_gateway_model" "villager_collection" {
+resource "aws_api_gateway_model" "villager_POST" {
   content_type = "application/json"
-  name         = "VillagerCollection"
+  description  = ""
+  name         = "VillagerPOST"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = templatefile("./src/api_gateway/model/villager/model_collection.json", {
-    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  schema = templatefile("./src/api_gateway/method/request_body/POST/villager/schema.json", {
+    rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
   })
 }
 
 resource "aws_api_gateway_model" "villager_special" {
   content_type = "application/json"
+  description  = ""
   name         = "VillagerSpecial"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = file("./src/api_gateway/model/villager_special/model.json")
+  schema       = file("./src/api_gateway/model/villager_special/schema.json")
 }
 
-resource "aws_api_gateway_model" "villager_special_collection" {
+resource "aws_api_gateway_model" "villager_special_POST" {
   content_type = "application/json"
-  name         = "VillagerSpecialCollection"
+  description  = ""
+  name         = "VillagerSpecialPOST"
   rest_api_id  = aws_api_gateway_rest_api.animal_crossing.id
-  schema       = templatefile("./src/api_gateway/model/villager_special/model_collection.json", {
-    api_gateway_id = aws_api_gateway_rest_api.animal_crossing.id
+  schema = templatefile("./src/api_gateway/method/request_body/POST/villager_special/schema.json", {
+    rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
   })
 }
