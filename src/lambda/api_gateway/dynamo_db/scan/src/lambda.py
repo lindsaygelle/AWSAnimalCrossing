@@ -1,6 +1,8 @@
 # pylint: disable=C0114,C0115,C0116,R0903
 from abc import ABC, abstractmethod
+from functools import reduce
 from typing import Any, AnyStr, Dict, List, Optional, TypedDict, Union
+from boto3.dynamodb.conditions import Key, And
 import boto3
 
 
@@ -176,7 +178,17 @@ dynamodb: DynamoDBResource = boto3.resource("dynamodb")
 
 def handler(event: Event, _: Context) -> Response:
     table: DynamoDBResourceTable = dynamodb.Table(event["body"]["table"])
-    response: DynamoDBResourceTableScanResponse = table.scan()
+    response: DynamoDBResourceTableScanResponse = table.scan(
+        FilterExpression=reduce(
+            And,
+            (
+                [
+                    Key(k).eq(int(v) if v.isnumeric() else v)
+                    for k, v in event["queryStringParameters"].items()
+                ]
+            ),
+        )
+    )
     items: List[Dict[str, Any]] = response["Items"]
     while "LastEvaluatedKey" in response:
         response: DynamoDBResourceTableScanResponse = table.scan(
