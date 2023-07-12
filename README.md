@@ -19,6 +19,45 @@ To use AWSAnimalCrossing, you need the following:
 - An active AWS account with appropriate permissions to create and manage the required resources.
 - Basic knowledge of AWS services, Terraform, and programming concepts.
 
+# Installation
+1. Clone this repository to your local machine using the following command:
+
+```bash
+git clone https://github.com/lindsaygelle/AWSAnimalCrossing.git
+```
+
+2. Install Terraform by following the official installation instructions: Terraform Installation Guide
+
+3. Set up your AWS credentials on your local machine or the environment where you plan to run Terraform. Refer to the AWS documentation for instructions on setting up AWS credentials.
+
+4. Navigate to the cloned repository:
+
+```bash
+cd AWSAnimalCrossing
+```
+
+5. Switch to the dev branch:
+
+```bash
+git checkout dev
+```
+
+6. Initialize Terraform by running:
+
+```bash
+terraform init
+```
+
+7. Deploy the infrastructure by executing:
+
+```bash
+terraform apply
+```
+
+8. Review the planned changes and confirm the deployment when prompted.
+
+After the deployment is complete, Terraform will output the API Gateway endpoint URL. Make note of this URL as it will be used to access the REST API.
+
 # Usage
 The REST API provided by AWSAnimalCrossing allows you to interact with Animal Crossing: New Horizons data. The API supports various operations, such as retrieving information, querying villagers, furniture, clothing and inventory items.
 
