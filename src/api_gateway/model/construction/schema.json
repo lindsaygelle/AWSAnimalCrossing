@@ -7,8 +7,8 @@
             "maxLength": 5,
             "minLength": 5,
             "type": [
-                "string",
-                "null"
+                "null",
+                "string"
             ]
         },
         "buy_price": {
@@ -17,16 +17,16 @@
             "maximum": 228000,
             "minimum": 5000,
             "type": [
-                "null",
-                "integer"
+                "integer",
+                "null"
             ]
         },
         "name": {
             "maxLength": 26,
             "minLength": 8,
             "type": [
-                "string",
-                "null"
+                "null",
+                "string"
             ]
         },
         "unique_entry_id": {

@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 16,
-    "minProperties": 16,
+    "maxProperties": 28,
+    "minProperties": 28,
     "properties": {
         "buy_currency": {
             "type": [
@@ -11,6 +11,11 @@
         "buy_price": {
             "type": [
                 "null"
+            ]
+        },
+        "can_customize": {
+            "type": [
+                "boolean"
             ]
         },
         "color_1": {
@@ -27,14 +32,14 @@
                 "string"
             ]
         },
-        "cyrus_customize_currency": {
+        "cyrus_currency": {
             "maxLength": 5,
             "minLength": 5,
             "type": [
                 "string"
             ]
         },
-        "cyrus_customize_price": {
+        "cyrus_price": {
             "exclusiveMaximum": false,
             "exclusiveMinimum": false,
             "maximum": 1000,
@@ -47,8 +52,8 @@
             "maxLength": 11,
             "minLength": 11,
             "type": [
-                "string",
-                "null"
+                "null",
+                "string"
             ]
         },
         "exchange_price": {
@@ -57,8 +62,29 @@
             "maximum": 100,
             "minimum": 100,
             "type": [
+                "integer",
+                "null"
+            ]
+        },
+        "hha_category": {
+            "type": [
+                "null"
+            ]
+        },
+        "hha_concept_1": {
+            "maxLength": 12,
+            "minLength": 12,
+            "type": [
                 "null",
-                "integer"
+                "string"
+            ]
+        },
+        "hha_concept_2": {
+            "maxLength": 11,
+            "minLength": 11,
+            "type": [
+                "null",
+                "string"
             ]
         },
         "hha_points": {
@@ -70,6 +96,16 @@
                 "integer"
             ]
         },
+        "hha_series": {
+            "type": [
+                "null"
+            ]
+        },
+        "hha_set": {
+            "type": [
+                "null"
+            ]
+        },
         "internal_id": {
             "exclusiveMaximum": false,
             "exclusiveMinimum": false,
@@ -77,6 +113,16 @@
             "minimum": 370,
             "type": [
                 "integer"
+            ]
+        },
+        "internal_label": {
+            "type": [
+                "null"
+            ]
+        },
+        "internal_name": {
+            "type": [
+                "null"
             ]
         },
         "is_craftable": {
@@ -87,6 +133,22 @@
         "is_unlocked": {
             "type": [
                 "boolean"
+            ]
+        },
+        "kit_currency": {
+            "maxLength": 5,
+            "minLength": 5,
+            "type": [
+                "string"
+            ]
+        },
+        "kit_price": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 1,
+            "minimum": 1,
+            "type": [
+                "integer"
             ]
         },
         "name": {
@@ -112,6 +174,24 @@
                 "integer"
             ]
         },
+        "size_1": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 1.0,
+            "minimum": 1.0,
+            "type": [
+                "number"
+            ]
+        },
+        "size_2": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 1.0,
+            "minimum": 1.0,
+            "type": [
+                "number"
+            ]
+        },
         "unique_entry_id": {
             "maxLength": 17,
             "minLength": 17,
@@ -123,19 +203,31 @@
     "required": [
         "buy_currency",
         "buy_price",
+        "can_customize",
         "color_1",
         "color_2",
-        "cyrus_customize_currency",
-        "cyrus_customize_price",
+        "cyrus_currency",
+        "cyrus_price",
         "exchange_currency",
         "exchange_price",
+        "hha_category",
+        "hha_concept_1",
+        "hha_concept_2",
         "hha_points",
+        "hha_series",
+        "hha_set",
         "internal_id",
+        "internal_label",
+        "internal_name",
         "is_craftable",
         "is_unlocked",
+        "kit_currency",
+        "kit_price",
         "name",
         "sell_currency",
         "sell_price",
+        "size_1",
+        "size_2",
         "unique_entry_id"
     ],
     "title": "FurniturePhoto",

@@ -7,14 +7,17 @@
             "description": {
                 "S": "You traveled a long way just to move to our little island, and you enrolled in the Nook Mileage Program. So you earned your first miles! There are lots of ways to earn miles by just enjoying island life!"
             },
-            "internal_category": {
-                "S": "Event"
-            },
             "internal_id": {
                 "N": "53"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "ImmigratetoIsland"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "(island name) Miles!"
@@ -33,14 +36,17 @@
             "description": {
                 "S": "Learning how to fish is an essential skill for living on a remote island, hm? Nook Inc. encourages all island residents who are aiming to become fishing masters!"
             },
-            "internal_category": {
-                "S": "Fish"
-            },
             "internal_id": {
                 "N": "0"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "CatchFish"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Angling for Perfection!"
@@ -59,14 +65,17 @@
             "description": {
                 "S": "Fill in your Critterpedia with fish and earn miles along the way. Can you categorize each and every type of fish that swims in your island's waters, hm?"
             },
-            "internal_category": {
-                "S": "Fish"
-            },
             "internal_id": {
                 "N": "3"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "FillFishList"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Island Ichthyologist"
@@ -85,14 +94,17 @@
             "description": {
                 "S": "One of the goals of Nook Inc. is resident togetherness. Our gregarious-greetings initiative aims to reward you with Nook Miles just for chatting with residents. Try to talk to all your neighbors every day!"
             },
-            "internal_category": {
-                "S": "Communication"
-            },
             "internal_id": {
                 "N": "68"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "GreetAllVillager"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Island Togetherness"
@@ -111,14 +123,17 @@
             "description": {
                 "S": "Earn miles just for catching creepy-crawlies! Every bug you catch is one that won't be surprising someone in their sock drawer."
             },
-            "internal_category": {
-                "S": "Insect"
-            },
             "internal_id": {
                 "N": "1"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "CatchInsect"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "You've Got the Bug"
@@ -137,14 +152,17 @@
             "description": {
                 "S": "You can earn miles for filling out your Critterpedia! Can you find every bug and unlock every entry? Yes, yes, you can! And please do consider supporting Blathers by donating bugs to the museum."
             },
-            "internal_category": {
-                "S": "Insect"
-            },
             "internal_id": {
                 "N": "4"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "FillInsectList"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Bugs Don't Bug Me"
@@ -163,14 +181,17 @@
             "description": {
                 "S": "Nook Inc. will award Nook Miles for the number of DIY recipes you've collected. Think about that. You're earning...for learning! Yes, yes!"
             },
-            "internal_category": {
-                "S": "DIY"
-            },
             "internal_id": {
                 "N": "55"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "FillRecipeList"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Have a Nice DIY!"
@@ -189,14 +210,17 @@
             "description": {
                 "S": "The glittering sea that surrounds our island is home to all kinds of captivating creatures. Put on your wet suit, dive in, and sea what you can collect to earn miles. Sea what I did there, hm?"
             },
-            "internal_category": {
-                "S": "Seafood"
-            },
             "internal_id": {
                 "N": "98"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "CatchSeafood"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Deep Dive"
@@ -215,14 +239,17 @@
             "description": {
                 "S": "There are still many creatures we have yet to discover at the bottom of the sea, hm? Earn miles by diving deep, capturing creatures, and filling out your Critterpedia. Yes, yes!"
             },
-            "internal_category": {
-                "S": "Seafood"
-            },
             "internal_id": {
                 "N": "95"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "FillSeafoodList"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Underwater Understudy"
@@ -241,14 +268,17 @@
             "description": {
                 "S": "If your tools break, just make more! And to take away the sting, you'll earn Nook Miles based on the number of tools you craft. Sweet deal!"
             },
-            "internal_category": {
-                "S": "DIY"
-            },
             "internal_id": {
                 "N": "72"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "DIYTool"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "DIY Tools"
@@ -267,14 +297,17 @@
             "description": {
                 "S": "Here's a win-win-win situation: Craft your own furniture. (Win!) Enjoy your handiwork. (Win!) Earn Nook Miles for the furniture you've crafted. (Win!) What could be better than that?"
             },
-            "internal_category": {
-                "S": "DIY"
-            },
             "internal_id": {
                 "N": "73"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "DIYFurniture"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "DIY Furniture"
@@ -293,14 +326,17 @@
             "description": {
                 "S": "Give your furniture that personal touch and you can unlock miles. The more items you refurbish, the more miles you can get, hm?"
             },
-            "internal_category": {
-                "S": "DIY"
-            },
             "internal_id": {
                 "N": "14"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "RemakeFurniture"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Furniture Freshener"
@@ -319,14 +355,17 @@
             "description": {
                 "S": "Island development is Nook Inc.'s goal. We need a lot of materials to make that happen, so we're giving away Nook Miles based on how much wood you've chopped from trees."
             },
-            "internal_category": {
-                "S": "DIY"
-            },
             "internal_id": {
                 "N": "67"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "StrikeWood"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Rough-hewn"
@@ -345,14 +384,17 @@
             "description": {
                 "S": "The recipes in your collection could stretch for miles, so allow me to present you with these...miles! Delight the eyes and stomachs of your neighbors with all your delicious creations, hm?"
             },
-            "internal_category": {
-                "S": "Cooking"
-            },
             "internal_id": {
                 "N": "105"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "FillCookingList"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Writing a Cookbook?"
@@ -371,14 +413,17 @@
             "description": {
                 "S": "Gathering ingredients and creating delicious treats is great fun, is it not? Yes, yes, I do believe our chefs out there deserve miles for all the times they've prepared something delicious!"
             },
-            "internal_category": {
-                "S": "Cooking"
-            },
             "internal_id": {
                 "N": "107"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "CookFood"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Mmm-Mmm-Miles!"
@@ -397,14 +442,17 @@
             "description": {
                 "S": "Using a tool until it breaks is proof of your hard work! In praise of your good deeds, you're getting Nook Miles based on how many tools you've broken."
             },
-            "internal_category": {
-                "S": "HHA"
-            },
             "internal_id": {
                 "N": "49"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "BreakTool"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Trashed Tools"
@@ -423,14 +471,17 @@
             "description": {
                 "S": "You hit a single rock eight times in a row and knocked some things loose. But did you know that rock whacking is the activity that keeps on giving? Yes, yes! You're getting some Nook Miles now!"
             },
-            "internal_category": {
-                "S": "HHA"
-            },
             "internal_id": {
                 "N": "57"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "StrikeRock8Times"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Rock-Splitting Champ"
@@ -449,14 +500,17 @@
             "description": {
                 "S": "Congratulations on finding your first fossil! Of course, you'll need some Nook Miles to commemorate the occasion. But don't celebrate too hard. There are more fossils to dig up! Yes, yes!"
             },
-            "internal_category": {
-                "S": "HHA"
-            },
             "internal_id": {
                 "N": "61"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "DigFossil"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Bona Fide Bone Finder!"
@@ -475,14 +529,17 @@
             "description": {
                 "S": "Yes, yes! You're getting Nook Miles based on the number of fossils you've had assessed. Dig up as many as you can and find out what they are!"
             },
-            "internal_category": {
-                "S": "HHA"
-            },
             "internal_id": {
                 "N": "62"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "JudgeFossil"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Fossil Assessment"
@@ -501,14 +558,17 @@
             "description": {
                 "S": "You've discovered your first gyroid! This special occasion deserves miles, yes, yes. I hope you feel inspired to collect all sorts of different, wonderful gyroids now."
             },
-            "internal_category": {
-                "S": "HHA"
-            },
             "internal_id": {
                 "N": "106"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "DigGyroid"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Nice to Meet You, Gyroid!"
@@ -527,14 +587,17 @@
             "description": {
                 "S": "Collect different kinds of gyroids, and earn miles in return! I suspect once you experience life in their presence, you'll find it hard to resist hunting for more, hm?"
             },
-            "internal_category": {
-                "S": "HHA"
-            },
             "internal_id": {
                 "N": "104"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "FillGyroidList"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Gyroid Getter"
@@ -553,14 +616,17 @@
             "description": {
                 "S": "Nook Inc. salutes you for your beautification efforts. Nook Inc. rewards you with Nook Miles for selling weeds. Nook Inc. is quite generous, no?"
             },
-            "internal_category": {
-                "S": "Plant"
-            },
             "internal_id": {
                 "N": "37"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "SellWeed"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Greedy Weeder"
@@ -579,14 +645,17 @@
             "description": {
                 "S": "Planting flowers makes our island more beautiful and can earn you miles. So...grow wild! Yes, yes!"
             },
-            "internal_category": {
-                "S": "Plant"
-            },
             "internal_id": {
                 "N": "6"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "PlantFlowerSeed"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Flower Power"
@@ -605,14 +674,17 @@
             "description": {
                 "S": "If you encourage floral growth by showering the island's flowers with water, I'll encourage your growth by showering you with Nook Miles!"
             },
-            "internal_category": {
-                "S": "Plant"
-            },
             "internal_id": {
                 "N": "23"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "WaterPlant"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Flower Tender"
@@ -631,14 +703,17 @@
             "description": {
                 "S": "To build a sustainable life on this island, we're going to need to plant a lot of trees! The more you plant, the more miles you can earn."
             },
-            "internal_category": {
-                "S": "Plant"
-            },
             "internal_id": {
                 "N": "8"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "PlantTreeSeedling"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Tomorrow's Trees Today"
@@ -657,14 +732,17 @@
             "description": {
                 "S": "You'll get Nook Miles based on the amount of fruit you've sold. Remember: If you sell our island's specialty fruits on other islands, you might be able to get a better price!"
             },
-            "internal_category": {
-                "S": "Plant"
-            },
             "internal_id": {
                 "N": "70"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "SellFruit"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Pick of the Bunch"
@@ -683,14 +761,17 @@
             "description": {
                 "S": "(island name)'s local fruit delicacy is a wonder, to be sure. But if you plant new varieties, guess what'll happen? Correct! You'll \"grow\" some Nook Miles! What you do with the fruit after that is up to you."
             },
-            "internal_category": {
-                "S": "Plant"
-            },
             "internal_id": {
                 "N": "7"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "PlantFruit"
+            },
+            "is_sequential": {
+                "BOOL": false
             },
             "name": {
                 "S": "Fruit Roots"
@@ -709,14 +790,17 @@
             "description": {
                 "S": "Different kinds of shrubs usher in the different seasons with their flowers, yes, yes! Folks who plant many shrubs will receive beauty and miles as a reward."
             },
-            "internal_category": {
-                "S": "Plant"
-            },
             "internal_id": {
                 "N": "92"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "PlantBushSeedling"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Shrubbery Hubbubbery"
@@ -735,14 +819,17 @@
             "description": {
                 "S": "Plant your produce starts across the whole island for a fresh, bounteous crop! Whether it's a small home garden or a full-on field, support Nook Inc. with all your produce-planting power! Yes, yes!"
             },
-            "internal_category": {
-                "S": "Vegetable"
-            },
             "internal_id": {
                 "N": "100"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "PlantVegetableSeedling"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Sprout Out Loud"
@@ -761,14 +848,17 @@
             "description": {
                 "S": "Nothing feels quite like harvesting produce that you grew by the sweat of your brow, yes, yes! Now go enjoy the fruits of your labor\u2014and the pumpkins, carrots, sugarcane, and potatoes too!"
             },
-            "internal_category": {
-                "S": "Vegetable"
-            },
             "internal_id": {
                 "N": "102"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "HarvestVegetable"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Executive Producer"
@@ -787,14 +877,17 @@
             "description": {
                 "S": "You can earn Nook Miles based on the number of seashells you sell. (That's not easy to say!) And remember: You'll get different amounts of Bells for different types of shells. So pay attention!"
             },
-            "internal_category": {
-                "S": "Fish"
-            },
             "internal_id": {
                 "N": "69"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "SellShell"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Go Ahead. Be Shellfish!"
@@ -813,14 +906,17 @@
             "description": {
                 "S": "Dig up clams, collect Nook Miles. It's really that simple. The real bonus here is that you get to walk along the beach for this one."
             },
-            "internal_category": {
-                "S": "Fish"
-            },
             "internal_id": {
                 "N": "63"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "DigShell"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Clam and Collected"
@@ -839,14 +935,17 @@
             "description": {
                 "S": "You work extra hard to keep our island clean, even going so far as to fish up trash out of our lovely waters. So you're getting some Nook Miles for keeping the island extra tidy, yes, yes!"
             },
-            "internal_category": {
-                "S": "Fish"
-            },
             "internal_id": {
                 "N": "32"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "CatchTrash"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Trash Fishin'"
@@ -865,14 +964,17 @@
             "description": {
                 "S": "Cast your line carefully if you want to reel in this reward\u2014you'll need to nab a bunch of fish in a row without a single one getting away to earn these miles."
             },
-            "internal_category": {
-                "S": "Fish"
-            },
             "internal_id": {
                 "N": "2"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "CatchFishContinuously"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Cast Master"
@@ -891,14 +993,17 @@
             "description": {
                 "S": "A home that you build yourself gives you greater livability\u2014it's on a whole other level! I'll give Nook Miles to those who build or expand their home to taste the good life."
             },
-            "internal_category": {
-                "S": "Event"
-            },
             "internal_id": {
                 "N": "82"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "ExtendMyHome"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Dream House"
@@ -917,14 +1022,17 @@
             "description": {
                 "S": "You got an S ranking from the Happy Home Academy! Your decorating skills are truly an inspiration, and you deserve some Nook Miles."
             },
-            "internal_category": {
-                "S": "Event"
-            },
             "internal_id": {
                 "N": "40"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "GetSRankonHHA"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Decorated Decorator"
@@ -943,14 +1051,17 @@
             "description": {
                 "S": "Put more furniture in your house! Nook Inc. will give you Nook Miles based on the number of indoor furniture items you have. So you're earning rewards for making your house a home!"
             },
-            "internal_category": {
-                "S": "Event"
-            },
             "internal_id": {
                 "N": "78"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "PlaceFurnitureMyHouse"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Hoard Reward"
@@ -969,14 +1080,17 @@
             "description": {
                 "S": "I'll reward you with miles based on the number of items you have in storage, hm? Using the convenient storage feature will make life on the island more pleasant!"
             },
-            "internal_category": {
-                "S": "Event"
-            },
             "internal_id": {
                 "N": "77"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "HouseStorageItem"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Good Things in Store!"
@@ -995,14 +1109,17 @@
             "description": {
                 "S": "You finished remodeling your house, hm? It looks like a completely new house now! I'll give you rewards based on the number of remodels you do, so keep it up!"
             },
-            "internal_category": {
-                "S": "Event"
-            },
             "internal_id": {
                 "N": "81"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "ReformMyHome"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Remarkable Remodeler"
@@ -1021,14 +1138,17 @@
             "description": {
                 "S": "Good deeds are their own rewards. But go ahead and have some Nook Miles too for fulfilling requests from other island residents. Yes, yes!"
             },
-            "internal_category": {
-                "S": "Communication"
-            },
             "internal_id": {
                 "N": "59"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "AchieveVillagersQuest"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Smile Isle"
@@ -1047,14 +1167,17 @@
             "description": {
                 "S": "You learned a Reaction! Let's celebrate this momentous occasion with...Nook Miles, hm? Reactions help you express yourself, so it's a good idea to learn them."
             },
-            "internal_category": {
-                "S": "Communication"
-            },
             "internal_id": {
                 "N": "31"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "FillReactionList"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Reaction Ruler"
@@ -1073,14 +1196,17 @@
             "description": {
                 "S": "Congratulations on taking your first island photo! Please do show off your wonderful photos, whether they're impulse snaps or brilliant compositions."
             },
-            "internal_category": {
-                "S": "Smartphone"
-            },
             "internal_id": {
                 "N": "75"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "TakePicture"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Island Shutterbug"
@@ -1099,14 +1225,17 @@
             "description": {
                 "S": "Your passport has some information you can edit! Nook Inc. will give Nook Miles to folks who customize their profiles. Take it slow, think about it, and make it your own."
             },
-            "internal_category": {
-                "S": "Smartphone"
-            },
             "internal_id": {
                 "N": "87"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "UpdatePassport"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Edit Credit"
@@ -1125,14 +1254,17 @@
             "description": {
                 "S": "Gotten used to using your NookPhone? The fact that you're reading this probably means you have! Keep using it, and enjoy some Nook Miles just for getting familiar with it."
             },
-            "internal_category": {
-                "S": "Smartphone"
-            },
             "internal_id": {
                 "N": "76"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "BootPhoneBeginner"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "NookPhone Life"
@@ -1151,14 +1283,17 @@
             "description": {
                 "S": "Nothing makes a smartphone manufacturer happier than a user who gets the most out of the device. At least, that's how Nook Inc. feels about the NookPhone. So we're giving you miles just for using your phone!"
             },
-            "internal_category": {
-                "S": "Smartphone"
-            },
             "internal_id": {
                 "N": "56"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "BootPhone"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "That's One Smart Phone"
@@ -1177,14 +1312,17 @@
             "description": {
                 "S": "Living on a remote island doesn't mean you have to go without life's luxuries. Shop to your heart's content with Nook Shopping and you'll earn Nook Miles!"
             },
-            "internal_category": {
-                "S": "Smartphone"
-            },
             "internal_id": {
                 "N": "16"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "BuyItemCatalog"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Shop to It"
@@ -1203,14 +1341,17 @@
             "description": {
                 "S": "You are aware that furniture and clothing you buy is added to your Nook Shopping catalog, yes? Were you also aware that you can earn miles for a large catalog? Well, you certainly are aware now!"
             },
-            "internal_category": {
-                "S": "Smartphone"
-            },
             "internal_id": {
                 "N": "15"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "FillCatalog"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Growing Collection"
@@ -1229,14 +1370,17 @@
             "description": {
                 "S": "Earning Nook Miles for earning Nook Miles? Yes, yes! You just earned miles for finishing Nook Miles+ goals! But where will it end?"
             },
-            "internal_category": {
-                "S": "Smartphone"
-            },
             "internal_id": {
                 "N": "58"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "AchieveAppQuest"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Nook Miles for Miles!"
@@ -1255,14 +1399,17 @@
             "description": {
                 "S": "You won't get miles every time you buy something on the island, but your first time is special! Enjoy these miles, courtesy of Nook Inc."
             },
-            "internal_category": {
-                "S": "Money"
-            },
             "internal_id": {
                 "N": "12"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "BuyItemRcm"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "First-Time Buyer"
@@ -1281,14 +1428,17 @@
             "description": {
                 "S": "Selling things you don't need is a great way to keep down the clutter and earn a few extra Bells. And, in this case, a few extra miles! Hooray for your first sale!"
             },
-            "internal_category": {
-                "S": "Money"
-            },
             "internal_id": {
                 "N": "13"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "SellItemRcm"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Seller of Unwanted Stuff"
@@ -1307,14 +1457,17 @@
             "description": {
                 "S": "Thank you for paying all your fees for moving to the island! Take a Nook Miles rebate as a gift and give yourself a nice pat on the back, hm?"
             },
-            "internal_category": {
-                "S": "Money"
-            },
             "internal_id": {
                 "N": "33"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "PayImmigrationCost"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Moving Fees Paid!"
@@ -1333,14 +1486,17 @@
             "description": {
                 "S": "Spending your Bells on the island helps revitalize the local economy, yes, yes! I'll reward you with miles based on how many Bells you've spent."
             },
-            "internal_category": {
-                "S": "Money"
-            },
             "internal_id": {
                 "N": "11"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "HowmuchBuyItem"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Bell Ringer"
@@ -1359,14 +1515,17 @@
             "description": {
                 "S": "I have Nook Miles to give to any resident who purchases turnips. Buy them low, sell them high, and make a handsome profit! They'll rot in a week, though, so be careful."
             },
-            "internal_category": {
-                "S": "Money"
-            },
             "internal_id": {
                 "N": "9"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "BuyKabu"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Miles for Stalkholders"
@@ -1385,14 +1544,17 @@
             "description": {
                 "S": "The powers that be have been tracking your turnip transactions...and let's just say you've harvested your share of profits! Enjoy a few Nook Miles for helping contribute to the island's economy."
             },
-            "internal_category": {
-                "S": "Money"
-            },
             "internal_id": {
                 "N": "10"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "HowmuchSellKabu"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Cornering the Stalk Market"
@@ -1411,14 +1573,17 @@
             "description": {
                 "S": "You see how this works? You pay off your loan, you get some Nook Miles! Thank you for doing business with Nook Inc.!"
             },
-            "internal_category": {
-                "S": "Money"
-            },
             "internal_id": {
                 "N": "34"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "RepayLoan"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "No More Loan Payments!"
@@ -1437,14 +1602,17 @@
             "description": {
                 "S": "Picture this: Getting Nook Miles from Nook Inc. the first time you write something on an island's bulletin board. Keep using bulletin boards to communicate with everyone on the island! Yes, yes!"
             },
-            "internal_category": {
-                "S": "Communication"
-            },
             "internal_id": {
                 "N": "83"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "PostMessageBoard"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Bulletin-Board Benefit"
@@ -1463,14 +1631,17 @@
             "description": {
                 "S": "I'll reward you with miles if you send a lot of letters. Please keep sending letters to everyone and continuing to deepen friendships. Yes, yes!"
             },
-            "internal_category": {
-                "S": "Communication"
-            },
             "internal_id": {
                 "N": "50"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "SendLetter"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Popular Pen Pal"
@@ -1489,14 +1660,17 @@
             "description": {
                 "S": "Itchy fleas are a real hassle. If you see an island buddy struggling with fleas, by all means, help them out. Not only is it a nice thing to do, but you'll also get some miles for doing a good deed."
             },
-            "internal_category": {
-                "S": "Insect"
-            },
             "internal_id": {
                 "N": "26"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "CatchNomi"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Flea Flicker"
@@ -1515,14 +1689,17 @@
             "description": {
                 "S": "Ah, cicada shells in the summer. They're not really all that useful, but collecting them does help create summer memories that will last a lifetime."
             },
-            "internal_category": {
-                "S": "Insect"
-            },
             "internal_id": {
                 "N": "25"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "CatchSeminonukegara"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Cicada Memories"
@@ -1541,14 +1718,17 @@
             "description": {
                 "S": "It's so impressive when someone can catch five wasps in a row\u2014so impressive, in fact, that you'll earn some Nook Miles if you can do it!"
             },
-            "internal_category": {
-                "S": "Insect"
-            },
             "internal_id": {
                 "N": "71"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "CatchBeeContinuously"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Netting Better!"
@@ -1567,14 +1747,17 @@
             "description": {
                 "S": "Enjoy some bonus Nook Miles to commemorate the creation of your first pit. Just make sure you don't fall victim to your own handiwork!"
             },
-            "internal_category": {
-                "S": "HHA"
-            },
             "internal_id": {
                 "N": "51"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "MakePitfall"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Pit-y Party"
@@ -1593,14 +1776,17 @@
             "description": {
                 "S": "Getting stung by wasps hurts! Getting stung again before you can recover makes you faint! But at least you get some miles for that. I don't want you to be uncomfortable, though, so take some medicine to heal up!"
             },
-            "internal_category": {
-                "S": "Negative"
-            },
             "internal_id": {
                 "N": "24"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "BeStungbyWasp"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Taking the Sting Out"
@@ -1619,14 +1805,17 @@
             "description": {
                 "S": "This island is home to creepy crawlers that would make anyone light-headed. Maybe wielding a net will make you less likely to faint..."
             },
-            "internal_category": {
-                "S": "Negative"
-            },
             "internal_id": {
                 "N": "27"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "BeStungbyPoisonousInsect"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Faint of Heart"
@@ -1645,14 +1834,17 @@
             "description": {
                 "S": "Life is full of peaks and valleys, hills and pits. When you fall into a pit, you learn a lesson, hm? Be more careful next time, yes? Don't feel too bad, though. You're getting some bonus Nook Miles for your fall."
             },
-            "internal_category": {
-                "S": "Negative"
-            },
             "internal_id": {
                 "N": "52"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "FallintoPitfall"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Overcoming Pitfalls"
@@ -1671,14 +1863,17 @@
             "description": {
                 "S": "Oh my. Did you get hoodwinked? That work of art you tried to donate turned out to be a forgery, and it stings. Your eye for art is being tested! Yes, yes! Please take some comfort in the miles I'm giving you."
             },
-            "internal_category": {
-                "S": "Negative"
-            },
             "internal_id": {
                 "N": "90"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "DonateFake"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Faked Out!"
@@ -1697,14 +1892,17 @@
             "description": {
                 "S": "Oh my. You popped a balloon with a skillful shot, but the attached prize fell into the water! Maybe some Nook Miles will help you recover from that sunken feeling, hm?"
             },
-            "internal_category": {
-                "S": "Negative"
-            },
             "internal_id": {
                 "N": "80"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "DropPresentinWater"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Lost Treasure"
@@ -1723,14 +1921,17 @@
             "description": {
                 "S": "No one knows who sends the gifts attached to balloons to our island, but you can earn miles by shooting them down and collecting what's inside."
             },
-            "internal_category": {
-                "S": "LandMaking"
-            },
             "internal_id": {
                 "N": "5"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "ShootDownBalloon"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "It's Raining Treasure!"
@@ -1749,14 +1950,17 @@
             "description": {
                 "S": "You can have a wonderful yard in no time by building a fence and surrounding your home or garden. Yes, yes! Nook Inc. will award Nook Miles to skilled fence installers."
             },
-            "internal_category": {
-                "S": "LandMaking"
-            },
             "internal_id": {
                 "N": "89"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "BuildFence"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Fun with Fences"
@@ -1775,14 +1979,17 @@
             "description": {
                 "S": "What's this? You get Nook Miles based on how many quality snowfolks you've built? That's a pretty good deal for just having a little fun in the snow."
             },
-            "internal_category": {
-                "S": "LandMaking"
-            },
             "internal_id": {
                 "N": "45"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "MakePerfectSnowball"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Snowmaestro"
@@ -1801,14 +2008,17 @@
             "description": {
                 "S": "Were you wishing for Nook Miles the last time you saw a shooting star? Hm? Because Nook Inc. is here to grant your wish. More wishes, more miles! Yes, yes!"
             },
-            "internal_category": {
-                "S": "LandMaking"
-            },
             "internal_id": {
                 "N": "85"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "PrayShootingStar"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Wishes Come True"
@@ -1827,14 +2037,17 @@
             "description": {
                 "S": "You can display furniture outside, right? Well, here's a little incentive for you to show off what you've got\u2014you'll earn Nook Miles based on the number of furniture items you set up outside."
             },
-            "internal_category": {
-                "S": "LandMaking"
-            },
             "internal_id": {
                 "N": "64"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "PutFurnitureOutside"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Exterior Decorator"
@@ -1853,14 +2066,17 @@
             "description": {
                 "S": "At Resident Services, we want new ideas for the island flag and island tune. We have Nook Miles in store for those creative types who can redesign and rewrite! It's good to take pride in our island symbols."
             },
-            "internal_category": {
-                "S": "LandMaking"
-            },
             "internal_id": {
                 "N": "86"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "ChangeSymbol"
+            },
+            "is_sequential": {
+                "BOOL": false
             },
             "name": {
                 "S": "(island name) Icons"
@@ -1879,14 +2095,17 @@
             "description": {
                 "S": "At Nook Inc. we encourage the use of the Island Designer app to liven up the island. We're giving away miles the first time you use a permit for a path, river, or cliff!"
             },
-            "internal_category": {
-                "S": "LandMaking"
-            },
             "internal_id": {
                 "N": "88"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "ModifyIsland"
+            },
+            "is_sequential": {
+                "BOOL": false
             },
             "name": {
                 "S": "Island Designer"
@@ -1905,14 +2124,17 @@
             "description": {
                 "S": "If you happen to encounter one of the island's secrets, maybe just keep it to yourself. We don't want to scare anyone away from here. Pretty sure that's in your island contract..."
             },
-            "internal_category": {
-                "S": "Communication"
-            },
             "internal_id": {
                 "N": "44"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "HelpGst"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Wispy Island Secrets"
@@ -1931,14 +2153,17 @@
             "description": {
                 "S": "When you come across someone in trouble on the beach, you help them, setting a fine example for all the island residents. Such kindness will surely find its way back to you."
             },
-            "internal_category": {
-                "S": "Communication"
-            },
             "internal_id": {
                 "N": "43"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "HelpGul"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Gulliver's Travails"
@@ -1957,14 +2182,17 @@
             "description": {
                 "S": "K.K. supports our island with his groovy brand of folk rock, so we should support him! The more K.K. shows you attend, the more Nook Miles you can earn."
             },
-            "internal_category": {
-                "S": "Communication"
-            },
             "internal_id": {
                 "N": "17"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "GotoTotakekeShow"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "K.K. Mania"
@@ -1983,14 +2211,17 @@
             "description": {
                 "S": "Collecting artwork contributes to the cultural quality of (island name), and Nook Inc. will give miles to folks who prove themselves discerning connoisseurs."
             },
-            "internal_category": {
-                "S": "Communication"
-            },
             "internal_id": {
                 "N": "91"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "BuyatTsunekichiShop"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "True Patron of the Arts"
@@ -2009,14 +2240,17 @@
             "description": {
                 "S": "If you meet a laid-back fellow floating in the sea, consider sharing some of your scallops with him. You never know what you might learn in return...and a little gift never hurts either!"
             },
-            "internal_category": {
-                "S": "Communication"
-            },
             "internal_id": {
                 "N": "96"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "GiveScallopsToSeo"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "You Otter Know"
@@ -2035,14 +2269,17 @@
             "description": {
                 "S": "Rare items and exciting adventures are yours when you head out on a special tour with a veteran sailor, yes, yes!"
             },
-            "internal_category": {
-                "S": "Communication"
-            },
             "internal_id": {
                 "N": "103"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "VisitKappeiTour"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Set Sail for Adventure"
@@ -2061,14 +2298,17 @@
             "description": {
                 "S": "The Roost, located on the second floor of the museum, is quite picky about the coffee they serve, yes, yes! Do stop in to enjoy a cup and earn some dark-roasted miles!"
             },
-            "internal_category": {
-                "S": "Communication"
-            },
             "internal_id": {
                 "N": "108"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "DrinkCoffee"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Come Home to the Roost"
@@ -2087,14 +2327,17 @@
             "description": {
                 "S": "The health of our residents is a top priority, yes, yes! So we're holding group-stretching sessions in the plaza. I'll provide miles once per day for participating, and there will be a tape deck for music. I hope I see you there!"
             },
-            "internal_category": {
-                "S": "Communication"
-            },
             "internal_id": {
                 "N": "109"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "JoinRadioGymnastics"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Stretch to Refresh!"
@@ -2113,14 +2356,17 @@
             "description": {
                 "S": "It's good news for Nook Inc. when island residents get along. Good relationships are a cornerstone of island development!"
             },
-            "internal_category": {
-                "S": "Communication"
-            },
             "internal_id": {
                 "N": "54"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "BeFriendwithVillager"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "True Friends"
@@ -2139,14 +2385,17 @@
             "description": {
                 "S": "Celebrating the birthday of a fellow resident is a wonderful thing. Nook Inc. will commemorate your bond with some party-favor Nook Miles."
             },
-            "internal_category": {
-                "S": "Communication"
-            },
             "internal_id": {
                 "N": "47"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "CelebrateVillagersBithday"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Birthday Celebration"
@@ -2165,14 +2414,17 @@
             "description": {
                 "S": "Happy birthday to you! Take some Nook Miles, woo-hoo! Happy birthday to you-oo! Take some Nook Miles, woo-hoo! (Get yourself something nice.)"
             },
-            "internal_category": {
-                "S": "Event"
-            },
             "internal_id": {
                 "N": "46"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "ReachMyBirthday"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Happy Birthday!"
@@ -2191,14 +2443,17 @@
             "description": {
                 "S": "Please participate in the Fishing Tourney, which is held every spring, summer, fall, and winter! I'll give you Nook Miles as a reward the first time you participate each season."
             },
-            "internal_category": {
-                "S": "Fish"
-            },
             "internal_id": {
                 "N": "41"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "AttendFishingConvention"
+            },
+            "is_sequential": {
+                "BOOL": false
             },
             "name": {
                 "S": "Fishing Tourney!"
@@ -2217,14 +2472,17 @@
             "description": {
                 "S": "What's the summer event to look forward to? That's right...the Bug-Off! Nook Inc. will give you Nook Miles for participating, so by all means, join the fun!"
             },
-            "internal_category": {
-                "S": "Insect"
-            },
             "internal_id": {
                 "N": "42"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "AttendInsectConvention"
+            },
+            "is_sequential": {
+                "BOOL": false
             },
             "name": {
                 "S": "Bug-Off!"
@@ -2243,14 +2501,17 @@
             "description": {
                 "S": "The only thing better than ringing in the new year is ringing in the new year with some Nook Miles! May you live to see many more\u2014years and miles!"
             },
-            "internal_category": {
-                "S": "Event"
-            },
             "internal_id": {
                 "N": "48"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "AttendCountdownParty"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Countdown Celebration"
@@ -2269,14 +2530,17 @@
             "description": {
                 "S": "A closet is a must-have item for a fashion trendsetter. I'll offer Nook Miles to anyone who has a closet and changes outfits, thereby increasing the chances of an island fashion trend catching on."
             },
-            "internal_category": {
-                "S": "MyDesign"
-            },
             "internal_id": {
                 "N": "84"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "UseCloset"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Making a Change"
@@ -2295,14 +2559,17 @@
             "description": {
                 "S": "Learning to use the Custom Design app lets you personalize your clothes and furniture. So much fun to be had, yes, yes!"
             },
-            "internal_category": {
-                "S": "MyDesign"
-            },
             "internal_id": {
                 "N": "35"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "UseMydesign"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "First Custom Design!"
@@ -2321,14 +2588,17 @@
             "description": {
                 "S": "You upgraded to the Pro version of the Custom Design app, hm? That makes you a fine Pro Custom Designer. Yes, yes! I'll reward you with Nook Miles to commemorate your Pro debut!"
             },
-            "internal_category": {
-                "S": "MyDesign"
-            },
             "internal_id": {
                 "N": "36"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "UseMydesignPRO"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Custom Design Pro!"
@@ -2347,14 +2617,17 @@
             "description": {
                 "S": "I'll bet you didn't think you'd find buried Bells here, hm? But this is an island, after all. Buried treasure and whatnot. Enjoy some Nook Miles from Nook Inc. to celebrate your discovery."
             },
-            "internal_category": {
-                "S": "Money"
-            },
             "internal_id": {
                 "N": "60"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "DigBell"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Paydirt!"
@@ -2373,14 +2646,17 @@
             "description": {
                 "S": "Rumor has it that someone on this island likes to hide furniture in trees. Yes, yes! I'll give you Nook Miles based on the number of furniture items you shake out of trees. So get out there and shake!"
             },
-            "internal_category": {
-                "S": "Plant"
-            },
             "internal_id": {
                 "N": "79"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "FallFurnitureLeaf"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Shady Shakedown"
@@ -2399,14 +2675,17 @@
             "description": {
                 "S": "If your tools are glinting gold, your account will be bursting with Bells soon enough. The paths to these tools are varied and secret, but you will have earned some Nook Miles for collecting them all."
             },
-            "internal_category": {
-                "S": "HHA"
-            },
             "internal_id": {
                 "N": "39"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "CollectGoldTool"
+            },
+            "is_sequential": {
+                "BOOL": false
             },
             "name": {
                 "S": "Golden Milestone"
@@ -2425,14 +2704,17 @@
             "description": {
                 "S": "Support your neighboring islands with a visit now and again. The more you visit, the more Nook Miles you can earn! Here at Nook Inc. we like to reward your adventurous spirit, hm?"
             },
-            "internal_category": {
-                "S": "Communication"
-            },
             "internal_id": {
                 "N": "18"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "VisitAnotherIsland"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Island and Yourland"
@@ -2451,14 +2733,17 @@
             "description": {
                 "S": "To encourage you to invite plenty of guests to the island, we're offering miles as an incentive. The more the merrier\u2014 and that goes for Nook Miles too!"
             },
-            "internal_category": {
-                "S": "Communication"
-            },
             "internal_id": {
                 "N": "19"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "InviteFriend"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Host the Most"
@@ -2477,14 +2762,17 @@
             "description": {
                 "S": "Life on the island has lots of promise, hm? To illustrate this, I'll award you some Nook Miles based on the number of active days you've spent here. Please take them and enjoy them."
             },
-            "internal_category": {
-                "S": "Event"
-            },
             "internal_id": {
                 "N": "21"
             },
+            "internal_label": {
+                "NULL": true
+            },
             "internal_name": {
                 "S": "DayPlayed"
+            },
+            "is_sequential": {
+                "BOOL": true
             },
             "name": {
                 "S": "Active Island Resident"

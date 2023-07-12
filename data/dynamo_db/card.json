@@ -1,14 +1,32 @@
 [
     {
         "Item": {
+            "back_color": {
+                "NULL": true
+            },
+            "body_color": {
+                "S": "#FFEB9E"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
             "buy_price": {
                 "N": "200"
             },
+            "foot_color": {
+                "S": "#FFEB9E"
+            },
+            "head_color": {
+                "S": "#FFEB9E"
+            },
             "internal_id": {
                 "N": "433"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Acorn card"
@@ -33,14 +51,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "NULL": true
+            },
+            "body_color": {
+                "S": "#000000"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
             "buy_price": {
                 "N": "200"
             },
+            "foot_color": {
+                "S": "#000000"
+            },
+            "head_color": {
+                "S": "#000000"
+            },
             "internal_id": {
                 "N": "0"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Airmail card"
@@ -65,14 +101,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "NULL": true
+            },
+            "body_color": {
+                "S": "#1B879D"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
             "buy_price": {
                 "N": "200"
             },
+            "foot_color": {
+                "S": "#251615"
+            },
+            "head_color": {
+                "S": "#251615"
+            },
             "internal_id": {
                 "N": "388"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Baby-goods card"
@@ -97,14 +151,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "S": "#FAF8DF"
+            },
+            "body_color": {
+                "S": "#20160A"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
             "buy_price": {
                 "N": "200"
             },
+            "foot_color": {
+                "S": "#D13C00"
+            },
+            "head_color": {
+                "S": "#D13C00"
+            },
             "internal_id": {
                 "N": "391"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Balloons card"
@@ -129,14 +201,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "NULL": true
+            },
+            "body_color": {
+                "S": "#022D67"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
             "buy_price": {
                 "N": "200"
             },
+            "foot_color": {
+                "S": "#FFFFFF"
+            },
+            "head_color": {
+                "S": "#FFFFFF"
+            },
             "internal_id": {
                 "N": "363"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Bandage card"
@@ -161,14 +251,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "NULL": true
+            },
+            "body_color": {
+                "S": "#601600"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
             "buy_price": {
                 "N": "200"
             },
+            "foot_color": {
+                "S": "#3F0900"
+            },
+            "head_color": {
+                "S": "#3F0900"
+            },
             "internal_id": {
                 "N": "432"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Beach card"
@@ -193,14 +301,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "NULL": true
+            },
+            "body_color": {
+                "S": "#170B03"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
             "buy_price": {
                 "N": "200"
             },
+            "foot_color": {
+                "S": "#170B03"
+            },
+            "head_color": {
+                "S": "#170B03"
+            },
             "internal_id": {
                 "N": "389"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Birthday-cake card"
@@ -225,14 +351,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "NULL": true
+            },
+            "body_color": {
+                "S": "#BDEBFF"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
             "buy_price": {
                 "N": "200"
             },
+            "foot_color": {
+                "S": "#69D3FF"
+            },
+            "head_color": {
+                "S": "#69D3FF"
+            },
             "internal_id": {
                 "N": "405"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Blue-sky card"
@@ -257,14 +401,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "S": "#F8F6D3"
+            },
+            "body_color": {
+                "S": "#281511"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
             "buy_price": {
                 "N": "200"
             },
+            "foot_color": {
+                "S": "#281511"
+            },
+            "head_color": {
+                "S": "#281511"
+            },
             "internal_id": {
                 "N": "395"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Bunny Day card"
@@ -289,14 +451,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "NULL": true
+            },
+            "body_color": {
+                "S": "#FFD990"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
             "buy_price": {
                 "N": "200"
             },
+            "foot_color": {
+                "S": "#D1C330"
+            },
+            "head_color": {
+                "S": "#D1C330"
+            },
             "internal_id": {
                 "N": "382"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Camo card"
@@ -321,14 +501,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "NULL": true
+            },
+            "body_color": {
+                "S": "#00572E"
+            },
             "buy_currency": {
                 "NULL": true
             },
             "buy_price": {
                 "NULL": true
             },
+            "foot_color": {
+                "S": "#00572E"
+            },
+            "head_color": {
+                "S": "#00572E"
+            },
             "internal_id": {
                 "N": "429"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Card from Bank of Nook"
@@ -353,14 +551,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "NULL": true
+            },
+            "body_color": {
+                "S": "#AD1600"
+            },
             "buy_currency": {
                 "NULL": true
             },
             "buy_price": {
                 "NULL": true
             },
+            "foot_color": {
+                "S": "#E5DFC1"
+            },
+            "head_color": {
+                "S": "#041554"
+            },
             "internal_id": {
                 "N": "427"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Card from C.J."
@@ -385,14 +601,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "NULL": true
+            },
+            "body_color": {
+                "S": "#71BF73"
+            },
             "buy_currency": {
                 "NULL": true
             },
             "buy_price": {
                 "NULL": true
             },
+            "foot_color": {
+                "S": "#71BF73"
+            },
+            "head_color": {
+                "S": "#71BF73"
+            },
             "internal_id": {
                 "N": "428"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Card from Flick"
@@ -417,14 +651,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "NULL": true
+            },
+            "body_color": {
+                "S": "#210E0A"
+            },
             "buy_currency": {
                 "NULL": true
             },
             "buy_price": {
                 "NULL": true
             },
+            "foot_color": {
+                "S": "#210E0A"
+            },
+            "head_color": {
+                "S": "#210E0A"
+            },
             "internal_id": {
                 "N": "387"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Card from Happy Home Academy"
@@ -449,14 +701,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "NULL": true
+            },
+            "body_color": {
+                "S": "#002F36"
+            },
             "buy_currency": {
                 "NULL": true
             },
             "buy_price": {
                 "NULL": true
             },
+            "foot_color": {
+                "S": "#002F36"
+            },
+            "head_color": {
+                "S": "#002F36"
+            },
             "internal_id": {
                 "N": "435"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Card from Jolly Redd's"
@@ -481,14 +751,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "NULL": true
+            },
+            "body_color": {
+                "S": "#443F3F"
+            },
             "buy_currency": {
                 "NULL": true
             },
             "buy_price": {
                 "NULL": true
             },
+            "foot_color": {
+                "S": "#181818"
+            },
+            "head_color": {
+                "S": "#181818"
+            },
             "internal_id": {
                 "N": "411"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Card from K.K."
@@ -513,14 +801,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "NULL": true
+            },
+            "body_color": {
+                "S": "#23237D"
+            },
             "buy_currency": {
                 "NULL": true
             },
             "buy_price": {
                 "NULL": true
             },
+            "foot_color": {
+                "S": "#23237D"
+            },
+            "head_color": {
+                "S": "#23237D"
+            },
             "internal_id": {
                 "N": "430"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Card from Nook Mileage Program"
@@ -545,14 +851,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "NULL": true
+            },
+            "body_color": {
+                "S": "#FFFFFF"
+            },
             "buy_currency": {
                 "NULL": true
             },
             "buy_price": {
                 "NULL": true
             },
+            "foot_color": {
+                "S": "#FFFFFF"
+            },
+            "head_color": {
+                "S": "#FFFFFF"
+            },
             "internal_id": {
                 "N": "431"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Card from Your pals at Dodo Airlines"
@@ -577,14 +901,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "NULL": true
+            },
+            "body_color": {
+                "S": "#FFDB83"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
             "buy_price": {
                 "N": "200"
             },
+            "foot_color": {
+                "S": "#FFDB83"
+            },
+            "head_color": {
+                "S": "#FFDB83"
+            },
             "internal_id": {
                 "N": "375"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Carpet-of-leaves card"
@@ -609,14 +951,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "NULL": true
+            },
+            "body_color": {
+                "S": "#480A1F"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
             "buy_price": {
                 "N": "200"
             },
+            "foot_color": {
+                "S": "#F41D61"
+            },
+            "head_color": {
+                "S": "#F41D61"
+            },
             "internal_id": {
                 "N": "379"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Cherry-blossoms card"
@@ -641,14 +1001,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "NULL": true
+            },
+            "body_color": {
+                "S": "#FFE6E9"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
             "buy_price": {
                 "N": "200"
             },
+            "foot_color": {
+                "S": "#FFA63A"
+            },
+            "head_color": {
+                "S": "#FFA63A"
+            },
             "internal_id": {
                 "N": "364"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Chocolate card"
@@ -673,14 +1051,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "NULL": true
+            },
+            "body_color": {
+                "S": "#FFFFFF"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
             "buy_price": {
                 "N": "200"
             },
+            "foot_color": {
+                "S": "#FFD1EB"
+            },
+            "head_color": {
+                "S": "#FFD1EB"
+            },
             "internal_id": {
                 "N": "412"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Chocolate-heart card"
@@ -705,14 +1101,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "NULL": true
+            },
+            "body_color": {
+                "S": "#371E18"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
             "buy_price": {
                 "N": "200"
             },
+            "foot_color": {
+                "S": "#371E18"
+            },
+            "head_color": {
+                "S": "#371E18"
+            },
             "internal_id": {
                 "N": "368"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Common card"
@@ -737,14 +1151,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "NULL": true
+            },
+            "body_color": {
+                "S": "#6D6D6D"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
             "buy_price": {
                 "N": "200"
             },
+            "foot_color": {
+                "S": "#BBBBBB"
+            },
+            "head_color": {
+                "S": "#BBBBBB"
+            },
             "internal_id": {
                 "N": "393"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Cool-cool card"
@@ -769,14 +1201,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "NULL": true
+            },
+            "body_color": {
+                "S": "#DF2D04"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
             "buy_price": {
                 "N": "200"
             },
+            "foot_color": {
+                "S": "#033000"
+            },
+            "head_color": {
+                "S": "#033000"
+            },
             "internal_id": {
                 "N": "406"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Dandelion card"
@@ -801,14 +1251,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "NULL": true
+            },
+            "body_color": {
+                "S": "#0B0603"
+            },
             "buy_currency": {
                 "NULL": true
             },
             "buy_price": {
                 "NULL": true
             },
+            "foot_color": {
+                "S": "#0B0603"
+            },
+            "head_color": {
+                "S": "#0B0603"
+            },
             "internal_id": {
                 "N": "403"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Dawning-year card"
@@ -833,14 +1301,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "NULL": true
+            },
+            "body_color": {
+                "S": "#6D0F05"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
             "buy_price": {
                 "N": "200"
             },
+            "foot_color": {
+                "S": "#F4FF87"
+            },
+            "head_color": {
+                "S": "#F4FF87"
+            },
             "internal_id": {
                 "N": "360"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Decorative card"
@@ -865,14 +1351,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "NULL": true
+            },
+            "body_color": {
+                "S": "#E1B962"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
             "buy_price": {
                 "N": "200"
             },
+            "foot_color": {
+                "S": "#D1B42D"
+            },
+            "head_color": {
+                "S": "#D1B42D"
+            },
             "internal_id": {
                 "N": "396"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Elegant-roses card"
@@ -897,14 +1401,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "NULL": true
+            },
+            "body_color": {
+                "S": "#FFC8A3"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
             "buy_price": {
                 "N": "200"
             },
+            "foot_color": {
+                "S": "#FFC8A3"
+            },
+            "head_color": {
+                "S": "#FFC8A3"
+            },
             "internal_id": {
                 "N": "378"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Fanciful card"
@@ -929,14 +1451,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "NULL": true
+            },
+            "body_color": {
+                "S": "#2807CB"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
             "buy_price": {
                 "N": "200"
             },
+            "foot_color": {
+                "S": "#F64E09"
+            },
+            "head_color": {
+                "S": "#EB1BBF"
+            },
             "internal_id": {
                 "N": "394"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Fantasy-stars card"
@@ -961,14 +1501,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "S": "#B8FFDF"
+            },
+            "body_color": {
+                "S": "#0C4390"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
             "buy_price": {
                 "N": "200"
             },
+            "foot_color": {
+                "S": "#030956"
+            },
+            "head_color": {
+                "S": "#030956"
+            },
             "internal_id": {
                 "N": "376"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Father's Day card"
@@ -993,14 +1551,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "NULL": true
+            },
+            "body_color": {
+                "S": "#FFFFFF"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
             "buy_price": {
                 "N": "200"
             },
+            "foot_color": {
+                "S": "#FFFFFF"
+            },
+            "head_color": {
+                "S": "#FFFFFF"
+            },
             "internal_id": {
                 "N": "392"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Festive-tree card"
@@ -1025,14 +1601,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "S": "#090650"
+            },
+            "body_color": {
+                "S": "#975BFF"
+            },
             "buy_currency": {
                 "NULL": true
             },
             "buy_price": {
                 "NULL": true
             },
+            "foot_color": {
+                "S": "#4864E9"
+            },
+            "head_color": {
+                "S": "#FF7DE5"
+            },
             "internal_id": {
                 "N": "402"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Fireworks card"
@@ -1057,14 +1651,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "NULL": true
+            },
+            "body_color": {
+                "S": "#27211E"
+            },
             "buy_currency": {
                 "NULL": true
             },
             "buy_price": {
                 "NULL": true
             },
+            "foot_color": {
+                "S": "#27211E"
+            },
+            "head_color": {
+                "S": "#FFFADF"
+            },
             "internal_id": {
                 "N": "439"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Flight-ticket card"
@@ -1089,14 +1701,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "NULL": true
+            },
+            "body_color": {
+                "S": "#550700"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
             "buy_price": {
                 "N": "200"
             },
+            "foot_color": {
+                "S": "#270B06"
+            },
+            "head_color": {
+                "S": "#270B06"
+            },
             "internal_id": {
                 "N": "410"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Flower-bouquet card"
@@ -1121,14 +1751,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "NULL": true
+            },
+            "body_color": {
+                "S": "#001764"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
             "buy_price": {
                 "N": "200"
             },
+            "foot_color": {
+                "S": "#FFFFFF"
+            },
+            "head_color": {
+                "S": "#0A0A10"
+            },
             "internal_id": {
                 "N": "366"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Fluffy-clouds card"
@@ -1153,14 +1801,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "NULL": true
+            },
+            "body_color": {
+                "S": "#BF2000"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
             "buy_price": {
                 "N": "200"
             },
+            "foot_color": {
+                "S": "#520C03"
+            },
+            "head_color": {
+                "S": "#520C03"
+            },
             "internal_id": {
                 "N": "373"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Full-bloom card"
@@ -1185,14 +1851,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "NULL": true
+            },
+            "body_color": {
+                "S": "#43D1C2"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
             "buy_price": {
                 "N": "200"
             },
+            "foot_color": {
+                "S": "#FFFFFF"
+            },
+            "head_color": {
+                "S": "#FFFFFF"
+            },
             "internal_id": {
                 "N": "372"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Gears card"
@@ -1217,14 +1901,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "S": "#7ABB92"
+            },
+            "body_color": {
+                "S": "#07412F"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
             "buy_price": {
                 "N": "200"
             },
+            "foot_color": {
+                "S": "#053643"
+            },
+            "head_color": {
+                "S": "#053643"
+            },
             "internal_id": {
                 "N": "384"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Gem card"
@@ -1249,14 +1951,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "NULL": true
+            },
+            "body_color": {
+                "S": "#1B0800"
+            },
             "buy_currency": {
                 "NULL": true
             },
             "buy_price": {
                 "NULL": true
             },
+            "foot_color": {
+                "S": "#1B0800"
+            },
+            "head_color": {
+                "S": "#1B0800"
+            },
             "internal_id": {
                 "N": "434"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Gift card"
@@ -1281,14 +2001,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "NULL": true
+            },
+            "body_color": {
+                "S": "#E5FFFF"
+            },
             "buy_currency": {
                 "NULL": true
             },
             "buy_price": {
                 "NULL": true
             },
+            "foot_color": {
+                "S": "#D3FB76"
+            },
+            "head_color": {
+                "S": "#90FFFF"
+            },
             "internal_id": {
                 "N": "438"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Glowing-moss card"
@@ -1313,14 +2051,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "NULL": true
+            },
+            "body_color": {
+                "S": "#053351"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
             "buy_price": {
                 "N": "200"
             },
+            "foot_color": {
+                "S": "#0E120E"
+            },
+            "head_color": {
+                "S": "#0E120E"
+            },
             "internal_id": {
                 "N": "408"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Goldfish card"
@@ -1345,14 +2101,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "NULL": true
+            },
+            "body_color": {
+                "S": "#FFFFFF"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
             "buy_price": {
                 "N": "200"
             },
+            "foot_color": {
+                "S": "#FFFFFF"
+            },
+            "head_color": {
+                "S": "#FFFFFF"
+            },
             "internal_id": {
                 "N": "361"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Graduation card"
@@ -1377,14 +2151,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "NULL": true
+            },
+            "body_color": {
+                "S": "#F3FC00"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
             "buy_price": {
                 "N": "200"
             },
+            "foot_color": {
+                "S": "#00FFC3"
+            },
+            "head_color": {
+                "S": "#00FFC3"
+            },
             "internal_id": {
                 "N": "365"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Graffiti card"
@@ -1409,14 +2201,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "NULL": true
+            },
+            "body_color": {
+                "S": "#FF5504"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
             "buy_price": {
                 "N": "200"
             },
+            "foot_color": {
+                "S": "#FFA907"
+            },
+            "head_color": {
+                "S": "#FFA907"
+            },
             "internal_id": {
                 "N": "399"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Halloween card"
@@ -1441,14 +2251,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "NULL": true
+            },
+            "body_color": {
+                "S": "#021200"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
             "buy_price": {
                 "N": "200"
             },
+            "foot_color": {
+                "S": "#271003"
+            },
+            "head_color": {
+                "S": "#271003"
+            },
             "internal_id": {
                 "N": "397"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Happy-clovers card"
@@ -1473,14 +2301,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "S": "#E5DFDF"
+            },
+            "body_color": {
+                "S": "#004868"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
             "buy_price": {
                 "N": "200"
             },
+            "foot_color": {
+                "S": "#DB0037"
+            },
+            "head_color": {
+                "S": "#DB0037"
+            },
             "internal_id": {
                 "N": "409"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Hibiscus card"
@@ -1505,14 +2351,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "NULL": true
+            },
+            "body_color": {
+                "S": "#6D0000"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
             "buy_price": {
                 "N": "200"
             },
+            "foot_color": {
+                "S": "#004120"
+            },
+            "head_color": {
+                "S": "#004120"
+            },
             "internal_id": {
                 "N": "377"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Holiday card"
@@ -1537,14 +2401,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "NULL": true
+            },
+            "body_color": {
+                "S": "#B01B1B"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
             "buy_price": {
                 "N": "200"
             },
+            "foot_color": {
+                "S": "#EF5656"
+            },
+            "head_color": {
+                "S": "#EF5656"
+            },
             "internal_id": {
                 "N": "371"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Lovely hearts card"
@@ -1569,14 +2451,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "S": "#FFD9B8"
+            },
+            "body_color": {
+                "S": "#900C37"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
             "buy_price": {
                 "N": "200"
             },
+            "foot_color": {
+                "S": "#560313"
+            },
+            "head_color": {
+                "S": "#560313"
+            },
             "internal_id": {
                 "N": "381"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Mother's Day card"
@@ -1601,14 +2501,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "NULL": true
+            },
+            "body_color": {
+                "S": "#2A1615"
+            },
             "buy_currency": {
                 "NULL": true
             },
             "buy_price": {
                 "NULL": true
             },
+            "foot_color": {
+                "S": "#2A1615"
+            },
+            "head_color": {
+                "S": "#2A1615"
+            },
             "internal_id": {
                 "N": "437"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "MsgWherearenOffice00"
@@ -1633,14 +2551,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "NULL": true
+            },
+            "body_color": {
+                "S": "#E9CF85"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
             "buy_price": {
                 "N": "200"
             },
+            "foot_color": {
+                "S": "#EDE1AB"
+            },
+            "head_color": {
+                "S": "#EDE1AB"
+            },
             "internal_id": {
                 "N": "386"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Mushroom card"
@@ -1665,14 +2601,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "NULL": true
+            },
+            "body_color": {
+                "S": "#FFF1C3"
+            },
             "buy_currency": {
                 "NULL": true
             },
             "buy_price": {
                 "NULL": true
             },
+            "foot_color": {
+                "S": "#FFF1C3"
+            },
+            "head_color": {
+                "S": "#FFF1C3"
+            },
             "internal_id": {
                 "N": "445"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Paradise Planning card"
@@ -1697,14 +2651,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "NULL": true
+            },
+            "body_color": {
+                "S": "#FFFFFF"
+            },
             "buy_currency": {
                 "NULL": true
             },
             "buy_price": {
                 "NULL": true
             },
+            "foot_color": {
+                "S": "#FFF548"
+            },
+            "head_color": {
+                "S": "#FFF548"
+            },
             "internal_id": {
                 "N": "440"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Plumeria card"
@@ -1729,14 +2701,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "NULL": true
+            },
+            "body_color": {
+                "S": "#EBC726"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
             "buy_price": {
                 "N": "200"
             },
+            "foot_color": {
+                "S": "#F6F1BB"
+            },
+            "head_color": {
+                "S": "#F6F1BB"
+            },
             "internal_id": {
                 "N": "398"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Pumpkin card"
@@ -1761,14 +2751,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "NULL": true
+            },
+            "body_color": {
+                "S": "#7B210D"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
             "buy_price": {
                 "N": "200"
             },
+            "foot_color": {
+                "S": "#ED2104"
+            },
+            "head_color": {
+                "S": "#ED2104"
+            },
             "internal_id": {
                 "N": "385"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Red-dragonflies card"
@@ -1793,14 +2801,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "NULL": true
+            },
+            "body_color": {
+                "S": "#1B1611"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
             "buy_price": {
                 "N": "200"
             },
+            "foot_color": {
+                "S": "#0D0001"
+            },
+            "head_color": {
+                "S": "#0D0001"
+            },
             "internal_id": {
                 "N": "390"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Ribbon card"
@@ -1825,14 +2851,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "NULL": true
+            },
+            "body_color": {
+                "S": "#201A17"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
             "buy_price": {
                 "N": "200"
             },
+            "foot_color": {
+                "S": "#0A8F36"
+            },
+            "head_color": {
+                "S": "#0A8F36"
+            },
             "internal_id": {
                 "N": "380"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Shapes card"
@@ -1857,14 +2901,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "NULL": true
+            },
+            "body_color": {
+                "S": "#B0DDE7"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
             "buy_price": {
                 "N": "200"
             },
+            "foot_color": {
+                "S": "#3BB2EB"
+            },
+            "head_color": {
+                "S": "#3BB2EB"
+            },
             "internal_id": {
                 "N": "407"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Shooting-stars card"
@@ -1889,14 +2951,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "NULL": true
+            },
+            "body_color": {
+                "S": "#002C57"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
             "buy_price": {
                 "N": "200"
             },
+            "foot_color": {
+                "S": "#0D5B7F"
+            },
+            "head_color": {
+                "S": "#0D5B7F"
+            },
             "internal_id": {
                 "N": "367"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Snowflake card"
@@ -1921,14 +3001,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "NULL": true
+            },
+            "body_color": {
+                "S": "#FFFFFF"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
             "buy_price": {
                 "N": "200"
             },
+            "foot_color": {
+                "S": "#09577B"
+            },
+            "head_color": {
+                "S": "#09577B"
+            },
             "internal_id": {
                 "N": "374"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Snowperson card"
@@ -1953,14 +3051,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "NULL": true
+            },
+            "body_color": {
+                "S": "#FFFFFF"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
             "buy_price": {
                 "N": "200"
             },
+            "foot_color": {
+                "S": "#4100BF"
+            },
+            "head_color": {
+                "S": "#4100BF"
+            },
             "internal_id": {
                 "N": "404"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "So-many-hearts card"
@@ -1985,14 +3101,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "NULL": true
+            },
+            "body_color": {
+                "S": "#010D2A"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
             "buy_price": {
                 "N": "200"
             },
+            "foot_color": {
+                "S": "#980F00"
+            },
+            "head_color": {
+                "S": "#980F00"
+            },
             "internal_id": {
                 "N": "356"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Star card"
@@ -2017,14 +3151,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "NULL": true
+            },
+            "body_color": {
+                "S": "#282828"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
             "buy_price": {
                 "N": "200"
             },
+            "foot_color": {
+                "S": "#282828"
+            },
+            "head_color": {
+                "S": "#282828"
+            },
             "internal_id": {
                 "N": "362"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Stationery-goods card"
@@ -2049,14 +3201,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "NULL": true
+            },
+            "body_color": {
+                "S": "#FFFFFF"
+            },
             "buy_currency": {
                 "NULL": true
             },
             "buy_price": {
                 "NULL": true
             },
+            "foot_color": {
+                "S": "#FFFFFF"
+            },
+            "head_color": {
+                "S": "#FFFFFF"
+            },
             "internal_id": {
                 "N": "443"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Sunset card"
@@ -2081,14 +3251,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "NULL": true
+            },
+            "body_color": {
+                "S": "#2B2B2B"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
             "buy_price": {
                 "N": "200"
             },
+            "foot_color": {
+                "S": "#2B2B2B"
+            },
+            "head_color": {
+                "S": "#2B2B2B"
+            },
             "internal_id": {
                 "N": "358"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Torn card"
@@ -2113,14 +3301,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "NULL": true
+            },
+            "body_color": {
+                "S": "#340300"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
             "buy_price": {
                 "N": "200"
             },
+            "foot_color": {
+                "S": "#1B0000"
+            },
+            "head_color": {
+                "S": "#1B0000"
+            },
             "internal_id": {
                 "N": "414"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Town-view card"
@@ -2145,14 +3351,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "S": "#15648D"
+            },
+            "body_color": {
+                "S": "#F8DDA4"
+            },
             "buy_currency": {
                 "NULL": true
             },
             "buy_price": {
                 "NULL": true
             },
+            "foot_color": {
+                "S": "#F8DDA4"
+            },
+            "head_color": {
+                "S": "#F8DDA4"
+            },
             "internal_id": {
                 "N": "444"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Tropical card"
@@ -2177,14 +3401,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "S": "#B04B00"
+            },
+            "body_color": {
+                "S": "#320300"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
             "buy_price": {
                 "N": "200"
             },
+            "foot_color": {
+                "S": "#791000"
+            },
+            "head_color": {
+                "S": "#791000"
+            },
             "internal_id": {
                 "N": "357"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Turkey Day card"
@@ -2209,14 +3451,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "NULL": true
+            },
+            "body_color": {
+                "S": "#D3871D"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
             "buy_price": {
                 "N": "200"
             },
+            "foot_color": {
+                "S": "#873500"
+            },
+            "head_color": {
+                "S": "#873500"
+            },
             "internal_id": {
                 "N": "416"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Velvety card"
@@ -2241,14 +3501,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "S": "#410000"
+            },
+            "body_color": {
+                "S": "#FFFFFF"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
             "buy_price": {
                 "N": "200"
             },
+            "foot_color": {
+                "S": "#FFFFFF"
+            },
+            "head_color": {
+                "S": "#FFFFFF"
+            },
             "internal_id": {
                 "N": "383"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Warm-sweater card"
@@ -2273,14 +3551,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "NULL": true
+            },
+            "body_color": {
+                "S": "#1FA1B5"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
             "buy_price": {
                 "N": "200"
             },
+            "foot_color": {
+                "S": "#104689"
+            },
+            "head_color": {
+                "S": "#104689"
+            },
             "internal_id": {
                 "N": "413"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Wedding card"
@@ -2305,14 +3601,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "NULL": true
+            },
+            "body_color": {
+                "S": "#0D1324"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
             "buy_price": {
                 "N": "200"
             },
+            "foot_color": {
+                "S": "#FFFFFF"
+            },
+            "head_color": {
+                "S": "#FFFFFF"
+            },
             "internal_id": {
                 "N": "370"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Winter-camellia card"
@@ -2337,14 +3651,32 @@
     },
     {
         "Item": {
+            "back_color": {
+                "NULL": true
+            },
+            "body_color": {
+                "S": "#FFD3AD"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
             "buy_price": {
                 "N": "200"
             },
+            "foot_color": {
+                "S": "#FFA12A"
+            },
+            "head_color": {
+                "S": "#FFA12A"
+            },
             "internal_id": {
                 "N": "359"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "name": {
                 "S": "Zen card"

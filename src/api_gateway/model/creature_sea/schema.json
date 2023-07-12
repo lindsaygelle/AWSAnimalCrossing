@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 9,
-    "minProperties": 9,
+    "maxProperties": 22,
+    "minProperties": 22,
     "properties": {
         "color_1": {
             "type": [
@@ -9,6 +9,30 @@
             ]
         },
         "color_2": {
+            "type": [
+                "null"
+            ]
+        },
+        "description": {
+            "maxLength": 751,
+            "minLength": 293,
+            "type": [
+                "string"
+            ]
+        },
+        "hha_category": {
+            "maxLength": 3,
+            "minLength": 3,
+            "type": [
+                "string"
+            ]
+        },
+        "hha_concept_1": {
+            "type": [
+                "null"
+            ]
+        },
+        "hha_concept_2": {
             "type": [
                 "null"
             ]
@@ -22,6 +46,16 @@
                 "integer"
             ]
         },
+        "hha_series": {
+            "type": [
+                "null"
+            ]
+        },
+        "hha_set": {
+            "type": [
+                "null"
+            ]
+        },
         "internal_id": {
             "exclusiveMaximum": false,
             "exclusiveMinimum": false,
@@ -31,14 +65,43 @@
                 "integer"
             ]
         },
+        "internal_label": {
+            "type": [
+                "null"
+            ]
+        },
+        "internal_name": {
+            "type": [
+                "null"
+            ]
+        },
+        "is_surface": {
+            "type": [
+                "boolean"
+            ]
+        },
         "is_unlocked": {
             "type": [
                 "boolean"
             ]
         },
+        "lighting_category": {
+            "maxLength": 11,
+            "minLength": 11,
+            "type": [
+                "string"
+            ]
+        },
         "name": {
             "maxLength": 20,
             "minLength": 5,
+            "type": [
+                "string"
+            ]
+        },
+        "saying": {
+            "maxLength": 63,
+            "minLength": 34,
             "type": [
                 "string"
             ]
@@ -59,6 +122,24 @@
                 "integer"
             ]
         },
+        "size_1": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 2.0,
+            "minimum": 1.0,
+            "type": [
+                "number"
+            ]
+        },
+        "size_2": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 2.0,
+            "minimum": 1.0,
+            "type": [
+                "number"
+            ]
+        },
         "unique_entry_id": {
             "maxLength": 17,
             "minLength": 17,
@@ -70,12 +151,25 @@
     "required": [
         "color_1",
         "color_2",
+        "description",
+        "hha_category",
+        "hha_concept_1",
+        "hha_concept_2",
         "hha_points",
+        "hha_series",
+        "hha_set",
         "internal_id",
+        "internal_label",
+        "internal_name",
+        "is_surface",
         "is_unlocked",
+        "lighting_category",
         "name",
+        "saying",
         "sell_currency",
         "sell_price",
+        "size_1",
+        "size_2",
         "unique_entry_id"
     ],
     "title": "CreatureSea",

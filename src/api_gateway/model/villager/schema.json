@@ -1,8 +1,26 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 9,
-    "minProperties": 9,
+    "maxProperties": 20,
+    "minProperties": 20,
     "properties": {
+        "birth_day": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 31,
+            "minimum": 1,
+            "type": [
+                "integer"
+            ]
+        },
+        "birth_month": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 12,
+            "minimum": 1,
+            "type": [
+                "integer"
+            ]
+        },
         "bubble_color": {
             "maxLength": 7,
             "minLength": 7,
@@ -24,9 +42,30 @@
                 "string"
             ]
         },
+        "floor_name": {
+            "maxLength": 28,
+            "minLength": 6,
+            "type": [
+                "string"
+            ]
+        },
         "gender": {
             "maxLength": 6,
             "minLength": 4,
+            "type": [
+                "string"
+            ]
+        },
+        "hobby_category": {
+            "maxLength": 9,
+            "minLength": 4,
+            "type": [
+                "string"
+            ]
+        },
+        "motto": {
+            "maxLength": 15,
+            "minLength": 3,
             "type": [
                 "string"
             ]
@@ -41,6 +80,41 @@
         "name_color": {
             "maxLength": 7,
             "minLength": 7,
+            "type": [
+                "string"
+            ]
+        },
+        "personality": {
+            "maxLength": 10,
+            "minLength": 4,
+            "type": [
+                "string"
+            ]
+        },
+        "personality_category": {
+            "maxLength": 1,
+            "minLength": 1,
+            "type": [
+                "string"
+            ]
+        },
+        "saying": {
+            "maxLength": 77,
+            "minLength": 9,
+            "type": [
+                "string"
+            ]
+        },
+        "song_name": {
+            "maxLength": 16,
+            "minLength": 7,
+            "type": [
+                "string"
+            ]
+        },
+        "species": {
+            "maxLength": 10,
+            "minLength": 3,
             "type": [
                 "string"
             ]
@@ -65,18 +139,36 @@
             "type": [
                 "string"
             ]
+        },
+        "wallpaper_name": {
+            "maxLength": 27,
+            "minLength": 8,
+            "type": [
+                "string"
+            ]
         }
     },
     "required": [
+        "birth_day",
+        "birth_month",
         "bubble_color",
         "color_1",
         "color_2",
+        "floor_name",
         "gender",
+        "hobby_category",
+        "motto",
         "name",
         "name_color",
+        "personality",
+        "personality_category",
+        "saying",
+        "song_name",
+        "species",
         "style_1",
         "style_2",
-        "unique_entry_id"
+        "unique_entry_id",
+        "wallpaper_name"
     ],
     "title": "Villager",
     "type": "object"

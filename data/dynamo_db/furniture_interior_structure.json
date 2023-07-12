@@ -7,16 +7,22 @@
             "buy_price": {
                 "NULL": true
             },
+            "can_customize_body": {
+                "BOOL": true
+            },
+            "can_customize_pattern": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Red"
             },
             "color_2": {
                 "S": "Brown"
             },
-            "cyrus_customize_currency": {
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1700"
             },
             "exchange_currency": {
@@ -25,26 +31,74 @@
             "exchange_price": {
                 "NULL": true
             },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "14596"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_interactive": {
+                "BOOL": false
+            },
+            "is_outdoors": {
+                "BOOL": false
+            },
+            "is_surface": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "2"
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "brick pillar"
+                "S": "Brick Pillar"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "800"
+            },
+            "size_1": {
+                "N": "0.5"
+            },
+            "size_2": {
+                "N": "0.5"
             },
             "unique_entry_id": {
                 "S": "vKhroLoma4RWAqc38"
@@ -60,16 +114,22 @@
             "buy_price": {
                 "NULL": true
             },
+            "can_customize_body": {
+                "BOOL": true
+            },
+            "can_customize_pattern": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "White"
             },
             "color_2": {
                 "S": "Beige"
             },
-            "cyrus_customize_currency": {
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1700"
             },
             "exchange_currency": {
@@ -78,26 +138,74 @@
             "exchange_price": {
                 "NULL": true
             },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "14596"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_interactive": {
+                "BOOL": false
+            },
+            "is_outdoors": {
+                "BOOL": false
+            },
+            "is_surface": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "2"
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "brick pillar"
+                "S": "Brick Pillar"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "800"
+            },
+            "size_1": {
+                "N": "0.5"
+            },
+            "size_2": {
+                "N": "0.5"
             },
             "unique_entry_id": {
                 "S": "6ntCK44tpEZ76T77a"
@@ -113,16 +221,22 @@
             "buy_price": {
                 "NULL": true
             },
+            "can_customize_body": {
+                "BOOL": true
+            },
+            "can_customize_pattern": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Gray"
             },
             "color_2": {
                 "S": "Gray"
             },
-            "cyrus_customize_currency": {
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1700"
             },
             "exchange_currency": {
@@ -131,26 +245,74 @@
             "exchange_price": {
                 "NULL": true
             },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "14596"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_interactive": {
+                "BOOL": false
+            },
+            "is_outdoors": {
+                "BOOL": false
+            },
+            "is_surface": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "2"
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "brick pillar"
+                "S": "Brick Pillar"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "800"
+            },
+            "size_1": {
+                "N": "0.5"
+            },
+            "size_2": {
+                "N": "0.5"
             },
             "unique_entry_id": {
                 "S": "8MCJkAqEindE3FP2C"
@@ -166,16 +328,22 @@
             "buy_price": {
                 "NULL": true
             },
+            "can_customize_body": {
+                "BOOL": false
+            },
+            "can_customize_pattern": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Gray"
             },
             "color_2": {
                 "S": "Gray"
             },
-            "cyrus_customize_currency": {
+            "cyrus_currency": {
                 "NULL": true
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "NULL": true
             },
             "exchange_currency": {
@@ -184,26 +352,74 @@
             "exchange_price": {
                 "NULL": true
             },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "14602"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_interactive": {
+                "BOOL": false
+            },
+            "is_outdoors": {
+                "BOOL": false
+            },
+            "is_surface": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "NULL": true
+            },
+            "kit_currency": {
+                "NULL": true
+            },
+            "kit_price": {
+                "NULL": true
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "concrete pillar"
+                "S": "Concrete Pillar"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "1200"
+            },
+            "size_1": {
+                "N": "0.5"
+            },
+            "size_2": {
+                "N": "0.5"
             },
             "unique_entry_id": {
                 "S": "Scz7WHrn8zJqdESLF"
@@ -219,16 +435,22 @@
             "buy_price": {
                 "NULL": true
             },
+            "can_customize_body": {
+                "BOOL": false
+            },
+            "can_customize_pattern": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Yellow"
             },
             "color_2": {
                 "S": "Yellow"
             },
-            "cyrus_customize_currency": {
+            "cyrus_currency": {
                 "NULL": true
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "NULL": true
             },
             "exchange_currency": {
@@ -237,26 +459,74 @@
             "exchange_price": {
                 "NULL": true
             },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "14600"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_interactive": {
+                "BOOL": false
+            },
+            "is_outdoors": {
+                "BOOL": false
+            },
+            "is_surface": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "NULL": true
+            },
+            "kit_currency": {
+                "NULL": true
+            },
+            "kit_price": {
+                "NULL": true
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "golden pillar"
+                "S": "Golden Pillar"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "40000"
+            },
+            "size_1": {
+                "N": "0.5"
+            },
+            "size_2": {
+                "N": "0.5"
             },
             "unique_entry_id": {
                 "S": "97Zm9hRj3BQDLQM3H"
@@ -272,16 +542,22 @@
             "buy_price": {
                 "NULL": true
             },
+            "can_customize_body": {
+                "BOOL": true
+            },
+            "can_customize_pattern": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Red"
             },
             "color_2": {
                 "S": "Brown"
             },
-            "cyrus_customize_currency": {
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1700"
             },
             "exchange_currency": {
@@ -290,26 +566,74 @@
             "exchange_price": {
                 "NULL": true
             },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "13901"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_interactive": {
+                "BOOL": false
+            },
+            "is_outdoors": {
+                "BOOL": false
+            },
+            "is_surface": {
                 "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "2"
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "low brick island counter"
+                "S": "Low Brick Island Counter"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "800"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "ZAA4zjnJGQDpPnNpe"
@@ -325,16 +649,22 @@
             "buy_price": {
                 "NULL": true
             },
+            "can_customize_body": {
+                "BOOL": true
+            },
+            "can_customize_pattern": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "White"
             },
             "color_2": {
                 "S": "Brown"
             },
-            "cyrus_customize_currency": {
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1700"
             },
             "exchange_currency": {
@@ -343,26 +673,74 @@
             "exchange_price": {
                 "NULL": true
             },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "13901"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_interactive": {
+                "BOOL": false
+            },
+            "is_outdoors": {
+                "BOOL": false
+            },
+            "is_surface": {
                 "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "2"
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "low brick island counter"
+                "S": "Low Brick Island Counter"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "800"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "uaziCiTaLxWgvx3p3"
@@ -378,16 +756,22 @@
             "buy_price": {
                 "NULL": true
             },
+            "can_customize_body": {
+                "BOOL": true
+            },
+            "can_customize_pattern": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Gray"
             },
             "color_2": {
                 "S": "Brown"
             },
-            "cyrus_customize_currency": {
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1700"
             },
             "exchange_currency": {
@@ -396,26 +780,74 @@
             "exchange_price": {
                 "NULL": true
             },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "13901"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_interactive": {
+                "BOOL": false
+            },
+            "is_outdoors": {
+                "BOOL": false
+            },
+            "is_surface": {
                 "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "2"
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "low brick island counter"
+                "S": "Low Brick Island Counter"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "800"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "ek3qyESiioFjp8Tv9"
@@ -431,16 +863,22 @@
             "buy_price": {
                 "NULL": true
             },
+            "can_customize_body": {
+                "BOOL": false
+            },
+            "can_customize_pattern": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Gray"
             },
             "color_2": {
                 "S": "Gray"
             },
-            "cyrus_customize_currency": {
+            "cyrus_currency": {
                 "NULL": true
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "NULL": true
             },
             "exchange_currency": {
@@ -449,26 +887,74 @@
             "exchange_price": {
                 "NULL": true
             },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "13898"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_interactive": {
+                "BOOL": false
+            },
+            "is_outdoors": {
+                "BOOL": false
+            },
+            "is_surface": {
                 "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "NULL": true
+            },
+            "kit_currency": {
+                "NULL": true
+            },
+            "kit_price": {
+                "NULL": true
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "low concrete island counter"
+                "S": "Low Concrete Island Counter"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "1200"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "xt8pEhjXJrR4gKWeY"
@@ -484,16 +970,22 @@
             "buy_price": {
                 "NULL": true
             },
+            "can_customize_body": {
+                "BOOL": false
+            },
+            "can_customize_pattern": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Yellow"
             },
             "color_2": {
                 "S": "Yellow"
             },
-            "cyrus_customize_currency": {
+            "cyrus_currency": {
                 "NULL": true
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "NULL": true
             },
             "exchange_currency": {
@@ -502,26 +994,74 @@
             "exchange_price": {
                 "NULL": true
             },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "14333"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_interactive": {
+                "BOOL": false
+            },
+            "is_outdoors": {
+                "BOOL": false
+            },
+            "is_surface": {
                 "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "NULL": true
+            },
+            "kit_currency": {
+                "NULL": true
+            },
+            "kit_price": {
+                "NULL": true
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "low golden island counter"
+                "S": "Low Golden Island Counter"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "40000"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "6sKWwLgkQRj23WFP7"
@@ -537,16 +1077,22 @@
             "buy_price": {
                 "NULL": true
             },
+            "can_customize_body": {
+                "BOOL": true
+            },
+            "can_customize_pattern": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Gray"
             },
             "color_2": {
                 "S": "Gray"
             },
-            "cyrus_customize_currency": {
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1700"
             },
             "exchange_currency": {
@@ -555,26 +1101,74 @@
             "exchange_price": {
                 "NULL": true
             },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "14337"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_interactive": {
+                "BOOL": false
+            },
+            "is_outdoors": {
+                "BOOL": false
+            },
+            "is_surface": {
                 "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "2"
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "low marble island counter"
+                "S": "Low Marble Island Counter"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "1200"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "6Z5cNgANBAyaLuRWe"
@@ -590,16 +1184,22 @@
             "buy_price": {
                 "NULL": true
             },
+            "can_customize_body": {
+                "BOOL": true
+            },
+            "can_customize_pattern": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "White"
             },
             "color_2": {
                 "S": "White"
             },
-            "cyrus_customize_currency": {
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1700"
             },
             "exchange_currency": {
@@ -608,26 +1208,74 @@
             "exchange_price": {
                 "NULL": true
             },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "14337"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_interactive": {
+                "BOOL": false
+            },
+            "is_outdoors": {
+                "BOOL": false
+            },
+            "is_surface": {
                 "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "2"
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "low marble island counter"
+                "S": "Low Marble Island Counter"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "1200"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "rLYobhs2h4PpW4KjE"
@@ -643,16 +1291,22 @@
             "buy_price": {
                 "NULL": true
             },
+            "can_customize_body": {
+                "BOOL": true
+            },
+            "can_customize_pattern": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Black"
             },
             "color_2": {
                 "S": "Black"
             },
-            "cyrus_customize_currency": {
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1700"
             },
             "exchange_currency": {
@@ -661,26 +1315,74 @@
             "exchange_price": {
                 "NULL": true
             },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "14337"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_interactive": {
+                "BOOL": false
+            },
+            "is_outdoors": {
+                "BOOL": false
+            },
+            "is_surface": {
                 "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "2"
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "low marble island counter"
+                "S": "Low Marble Island Counter"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "1200"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "nF2aG9ZmfoTAE9Nkh"
@@ -696,16 +1398,22 @@
             "buy_price": {
                 "NULL": true
             },
+            "can_customize_body": {
+                "BOOL": true
+            },
+            "can_customize_pattern": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "White"
             },
             "color_2": {
                 "S": "White"
             },
-            "cyrus_customize_currency": {
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "exchange_currency": {
@@ -714,26 +1422,74 @@
             "exchange_price": {
                 "NULL": true
             },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "14308"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_interactive": {
+                "BOOL": false
+            },
+            "is_outdoors": {
+                "BOOL": false
+            },
+            "is_surface": {
                 "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "low simple island counter"
+                "S": "Low Simple Island Counter"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "700"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "hNyMCjtHztETRswEJ"
@@ -749,16 +1505,22 @@
             "buy_price": {
                 "NULL": true
             },
+            "can_customize_body": {
+                "BOOL": true
+            },
+            "can_customize_pattern": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Pink"
             },
             "color_2": {
                 "S": "Pink"
             },
-            "cyrus_customize_currency": {
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "exchange_currency": {
@@ -767,26 +1529,74 @@
             "exchange_price": {
                 "NULL": true
             },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "14308"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_interactive": {
+                "BOOL": false
+            },
+            "is_outdoors": {
+                "BOOL": false
+            },
+            "is_surface": {
                 "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "low simple island counter"
+                "S": "Low Simple Island Counter"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "700"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "bFFmaC4vxcv8u8hBT"
@@ -802,16 +1612,22 @@
             "buy_price": {
                 "NULL": true
             },
+            "can_customize_body": {
+                "BOOL": true
+            },
+            "can_customize_pattern": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Aqua"
             },
             "color_2": {
                 "S": "Aqua"
             },
-            "cyrus_customize_currency": {
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "exchange_currency": {
@@ -820,26 +1636,74 @@
             "exchange_price": {
                 "NULL": true
             },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "14308"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_interactive": {
+                "BOOL": false
+            },
+            "is_outdoors": {
+                "BOOL": false
+            },
+            "is_surface": {
                 "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "low simple island counter"
+                "S": "Low Simple Island Counter"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "700"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "6GYofpcAybQqX5GYk"
@@ -855,16 +1719,22 @@
             "buy_price": {
                 "NULL": true
             },
+            "can_customize_body": {
+                "BOOL": true
+            },
+            "can_customize_pattern": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Yellow"
             },
             "color_2": {
                 "S": "Yellow"
             },
-            "cyrus_customize_currency": {
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "exchange_currency": {
@@ -873,26 +1743,74 @@
             "exchange_price": {
                 "NULL": true
             },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "14308"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_interactive": {
+                "BOOL": false
+            },
+            "is_outdoors": {
+                "BOOL": false
+            },
+            "is_surface": {
                 "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "low simple island counter"
+                "S": "Low Simple Island Counter"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "700"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "zJDcAcDvRPpzA3u6d"
@@ -908,16 +1826,22 @@
             "buy_price": {
                 "NULL": true
             },
+            "can_customize_body": {
+                "BOOL": true
+            },
+            "can_customize_pattern": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Red"
             },
             "color_2": {
                 "S": "Red"
             },
-            "cyrus_customize_currency": {
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "exchange_currency": {
@@ -926,26 +1850,74 @@
             "exchange_price": {
                 "NULL": true
             },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "14308"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_interactive": {
+                "BOOL": false
+            },
+            "is_outdoors": {
+                "BOOL": false
+            },
+            "is_surface": {
                 "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "low simple island counter"
+                "S": "Low Simple Island Counter"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "700"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "QpK8Ldtypv39FSt5n"
@@ -961,16 +1933,22 @@
             "buy_price": {
                 "NULL": true
             },
+            "can_customize_body": {
+                "BOOL": true
+            },
+            "can_customize_pattern": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Blue"
             },
             "color_2": {
                 "S": "Blue"
             },
-            "cyrus_customize_currency": {
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "exchange_currency": {
@@ -979,26 +1957,74 @@
             "exchange_price": {
                 "NULL": true
             },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "14308"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_interactive": {
+                "BOOL": false
+            },
+            "is_outdoors": {
+                "BOOL": false
+            },
+            "is_surface": {
                 "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "low simple island counter"
+                "S": "Low Simple Island Counter"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "700"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "ygs4EEZTgiAK9sebf"
@@ -1014,16 +2040,22 @@
             "buy_price": {
                 "NULL": true
             },
+            "can_customize_body": {
+                "BOOL": true
+            },
+            "can_customize_pattern": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Gray"
             },
             "color_2": {
                 "S": "Gray"
             },
-            "cyrus_customize_currency": {
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "exchange_currency": {
@@ -1032,26 +2064,74 @@
             "exchange_price": {
                 "NULL": true
             },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "14308"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_interactive": {
+                "BOOL": false
+            },
+            "is_outdoors": {
+                "BOOL": false
+            },
+            "is_surface": {
                 "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "low simple island counter"
+                "S": "Low Simple Island Counter"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "700"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "u8ZFHXm7nibw9fLep"
@@ -1067,16 +2147,22 @@
             "buy_price": {
                 "NULL": true
             },
+            "can_customize_body": {
+                "BOOL": true
+            },
+            "can_customize_pattern": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Black"
             },
             "color_2": {
                 "S": "Black"
             },
-            "cyrus_customize_currency": {
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "exchange_currency": {
@@ -1085,26 +2171,74 @@
             "exchange_price": {
                 "NULL": true
             },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "14308"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_interactive": {
+                "BOOL": false
+            },
+            "is_outdoors": {
+                "BOOL": false
+            },
+            "is_surface": {
                 "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "low simple island counter"
+                "S": "Low Simple Island Counter"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "700"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "t99LsrwAnof4S5CFF"
@@ -1120,16 +2254,22 @@
             "buy_price": {
                 "NULL": true
             },
+            "can_customize_body": {
+                "BOOL": false
+            },
+            "can_customize_pattern": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Gray"
             },
             "color_2": {
                 "S": "Gray"
             },
-            "cyrus_customize_currency": {
+            "cyrus_currency": {
                 "NULL": true
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "NULL": true
             },
             "exchange_currency": {
@@ -1138,26 +2278,74 @@
             "exchange_price": {
                 "NULL": true
             },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "14324"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_interactive": {
+                "BOOL": false
+            },
+            "is_outdoors": {
+                "BOOL": false
+            },
+            "is_surface": {
                 "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "NULL": true
+            },
+            "kit_currency": {
+                "NULL": true
+            },
+            "kit_price": {
+                "NULL": true
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "low steel island counter"
+                "S": "Low Steel Island Counter"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "3000"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "7SvgP9iF4TrC5MDM3"
@@ -1173,16 +2361,22 @@
             "buy_price": {
                 "NULL": true
             },
+            "can_customize_body": {
+                "BOOL": true
+            },
+            "can_customize_pattern": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Beige"
             },
             "color_2": {
                 "S": "Beige"
             },
-            "cyrus_customize_currency": {
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "exchange_currency": {
@@ -1191,26 +2385,74 @@
             "exchange_price": {
                 "NULL": true
             },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "14313"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_interactive": {
+                "BOOL": false
+            },
+            "is_outdoors": {
+                "BOOL": false
+            },
+            "is_surface": {
                 "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "low wooden island counter"
+                "S": "Low Wooden Island Counter"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "720"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "LeojYosm74z657iQk"
@@ -1226,16 +2468,22 @@
             "buy_price": {
                 "NULL": true
             },
+            "can_customize_body": {
+                "BOOL": true
+            },
+            "can_customize_pattern": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Orange"
             },
             "color_2": {
                 "S": "Orange"
             },
-            "cyrus_customize_currency": {
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "exchange_currency": {
@@ -1244,26 +2492,74 @@
             "exchange_price": {
                 "NULL": true
             },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "14313"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_interactive": {
+                "BOOL": false
+            },
+            "is_outdoors": {
+                "BOOL": false
+            },
+            "is_surface": {
                 "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "low wooden island counter"
+                "S": "Low Wooden Island Counter"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "720"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "Mgd77C38sXbnXf3KZ"
@@ -1279,16 +2575,22 @@
             "buy_price": {
                 "NULL": true
             },
+            "can_customize_body": {
+                "BOOL": true
+            },
+            "can_customize_pattern": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Brown"
             },
             "color_2": {
                 "S": "Brown"
             },
-            "cyrus_customize_currency": {
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "exchange_currency": {
@@ -1297,26 +2599,74 @@
             "exchange_price": {
                 "NULL": true
             },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "14313"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_interactive": {
+                "BOOL": false
+            },
+            "is_outdoors": {
+                "BOOL": false
+            },
+            "is_surface": {
                 "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "low wooden island counter"
+                "S": "Low Wooden Island Counter"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "720"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "8bmi5MPDGuFDfDq7m"
@@ -1332,16 +2682,22 @@
             "buy_price": {
                 "NULL": true
             },
+            "can_customize_body": {
+                "BOOL": true
+            },
+            "can_customize_pattern": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Gray"
             },
             "color_2": {
                 "S": "Gray"
             },
-            "cyrus_customize_currency": {
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1700"
             },
             "exchange_currency": {
@@ -1350,26 +2706,74 @@
             "exchange_price": {
                 "NULL": true
             },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "14597"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_interactive": {
+                "BOOL": false
+            },
+            "is_outdoors": {
+                "BOOL": false
+            },
+            "is_surface": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "2"
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "marble pillar"
+                "S": "Marble Pillar"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "1200"
+            },
+            "size_1": {
+                "N": "0.5"
+            },
+            "size_2": {
+                "N": "0.5"
             },
             "unique_entry_id": {
                 "S": "9xipwZfxnt9jghSir"
@@ -1385,16 +2789,22 @@
             "buy_price": {
                 "NULL": true
             },
+            "can_customize_body": {
+                "BOOL": true
+            },
+            "can_customize_pattern": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "White"
             },
             "color_2": {
                 "S": "White"
             },
-            "cyrus_customize_currency": {
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1700"
             },
             "exchange_currency": {
@@ -1403,26 +2813,74 @@
             "exchange_price": {
                 "NULL": true
             },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "14597"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_interactive": {
+                "BOOL": false
+            },
+            "is_outdoors": {
+                "BOOL": false
+            },
+            "is_surface": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "2"
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "marble pillar"
+                "S": "Marble Pillar"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "1200"
+            },
+            "size_1": {
+                "N": "0.5"
+            },
+            "size_2": {
+                "N": "0.5"
             },
             "unique_entry_id": {
                 "S": "FKtvy427TMATJo5vA"
@@ -1438,16 +2896,22 @@
             "buy_price": {
                 "NULL": true
             },
+            "can_customize_body": {
+                "BOOL": true
+            },
+            "can_customize_pattern": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Black"
             },
             "color_2": {
                 "S": "Black"
             },
-            "cyrus_customize_currency": {
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1700"
             },
             "exchange_currency": {
@@ -1456,26 +2920,74 @@
             "exchange_price": {
                 "NULL": true
             },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "14597"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_interactive": {
+                "BOOL": false
+            },
+            "is_outdoors": {
+                "BOOL": false
+            },
+            "is_surface": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "2"
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "marble pillar"
+                "S": "Marble Pillar"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "1200"
+            },
+            "size_1": {
+                "N": "0.5"
+            },
+            "size_2": {
+                "N": "0.5"
             },
             "unique_entry_id": {
                 "S": "JnS5Yg8fZvTsyinBo"
@@ -1491,16 +3003,22 @@
             "buy_price": {
                 "NULL": true
             },
+            "can_customize_body": {
+                "BOOL": false
+            },
+            "can_customize_pattern": {
+                "BOOL": false
+            },
             "color_1": {
                 "NULL": true
             },
             "color_2": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "cyrus_currency": {
                 "NULL": true
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "NULL": true
             },
             "exchange_currency": {
@@ -1509,26 +3027,74 @@
             "exchange_price": {
                 "NULL": true
             },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "12681"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_interactive": {
+                "BOOL": true
+            },
+            "is_outdoors": {
+                "BOOL": false
+            },
+            "is_surface": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "NULL": true
+            },
+            "kit_currency": {
+                "NULL": true
+            },
+            "kit_price": {
+                "NULL": true
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "partition wall"
+                "S": "Partition Wall"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "960"
+            },
+            "size_1": {
+                "N": "2.0"
+            },
+            "size_2": {
+                "N": "0.5"
             },
             "unique_entry_id": {
                 "S": "oAqAWgHP2N4JxnQBD"
@@ -1544,16 +3110,22 @@
             "buy_price": {
                 "NULL": true
             },
+            "can_customize_body": {
+                "BOOL": true
+            },
+            "can_customize_pattern": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "White"
             },
             "color_2": {
                 "S": "White"
             },
-            "cyrus_customize_currency": {
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "exchange_currency": {
@@ -1562,26 +3134,74 @@
             "exchange_price": {
                 "NULL": true
             },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "14598"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_interactive": {
+                "BOOL": false
+            },
+            "is_outdoors": {
+                "BOOL": false
+            },
+            "is_surface": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "simple pillar"
+                "S": "Simple Pillar"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "700"
+            },
+            "size_1": {
+                "N": "0.5"
+            },
+            "size_2": {
+                "N": "0.5"
             },
             "unique_entry_id": {
                 "S": "efC2g88hachgzMvEg"
@@ -1597,16 +3217,22 @@
             "buy_price": {
                 "NULL": true
             },
+            "can_customize_body": {
+                "BOOL": true
+            },
+            "can_customize_pattern": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Pink"
             },
             "color_2": {
                 "S": "Pink"
             },
-            "cyrus_customize_currency": {
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "exchange_currency": {
@@ -1615,26 +3241,74 @@
             "exchange_price": {
                 "NULL": true
             },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "14598"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_interactive": {
+                "BOOL": false
+            },
+            "is_outdoors": {
+                "BOOL": false
+            },
+            "is_surface": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "simple pillar"
+                "S": "Simple Pillar"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "700"
+            },
+            "size_1": {
+                "N": "0.5"
+            },
+            "size_2": {
+                "N": "0.5"
             },
             "unique_entry_id": {
                 "S": "CZ99SyCfpEC5cj64t"
@@ -1650,16 +3324,22 @@
             "buy_price": {
                 "NULL": true
             },
+            "can_customize_body": {
+                "BOOL": true
+            },
+            "can_customize_pattern": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Aqua"
             },
             "color_2": {
                 "S": "Aqua"
             },
-            "cyrus_customize_currency": {
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "exchange_currency": {
@@ -1668,26 +3348,74 @@
             "exchange_price": {
                 "NULL": true
             },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "14598"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_interactive": {
+                "BOOL": false
+            },
+            "is_outdoors": {
+                "BOOL": false
+            },
+            "is_surface": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "simple pillar"
+                "S": "Simple Pillar"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "700"
+            },
+            "size_1": {
+                "N": "0.5"
+            },
+            "size_2": {
+                "N": "0.5"
             },
             "unique_entry_id": {
                 "S": "YzFBvw2BmNoBr9JsL"
@@ -1703,16 +3431,22 @@
             "buy_price": {
                 "NULL": true
             },
+            "can_customize_body": {
+                "BOOL": true
+            },
+            "can_customize_pattern": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Yellow"
             },
             "color_2": {
                 "S": "Yellow"
             },
-            "cyrus_customize_currency": {
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "exchange_currency": {
@@ -1721,26 +3455,74 @@
             "exchange_price": {
                 "NULL": true
             },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "14598"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_interactive": {
+                "BOOL": false
+            },
+            "is_outdoors": {
+                "BOOL": false
+            },
+            "is_surface": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "simple pillar"
+                "S": "Simple Pillar"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "700"
+            },
+            "size_1": {
+                "N": "0.5"
+            },
+            "size_2": {
+                "N": "0.5"
             },
             "unique_entry_id": {
                 "S": "mGFsAYtbmKuk3DzNy"
@@ -1756,16 +3538,22 @@
             "buy_price": {
                 "NULL": true
             },
+            "can_customize_body": {
+                "BOOL": true
+            },
+            "can_customize_pattern": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Red"
             },
             "color_2": {
                 "S": "Red"
             },
-            "cyrus_customize_currency": {
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "exchange_currency": {
@@ -1774,26 +3562,74 @@
             "exchange_price": {
                 "NULL": true
             },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "14598"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_interactive": {
+                "BOOL": false
+            },
+            "is_outdoors": {
+                "BOOL": false
+            },
+            "is_surface": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "simple pillar"
+                "S": "Simple Pillar"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "700"
+            },
+            "size_1": {
+                "N": "0.5"
+            },
+            "size_2": {
+                "N": "0.5"
             },
             "unique_entry_id": {
                 "S": "qXSNr2CQNFEXNgCgM"
@@ -1809,16 +3645,22 @@
             "buy_price": {
                 "NULL": true
             },
+            "can_customize_body": {
+                "BOOL": true
+            },
+            "can_customize_pattern": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Blue"
             },
             "color_2": {
                 "S": "Blue"
             },
-            "cyrus_customize_currency": {
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "exchange_currency": {
@@ -1827,26 +3669,74 @@
             "exchange_price": {
                 "NULL": true
             },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "14598"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_interactive": {
+                "BOOL": false
+            },
+            "is_outdoors": {
+                "BOOL": false
+            },
+            "is_surface": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "simple pillar"
+                "S": "Simple Pillar"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "700"
+            },
+            "size_1": {
+                "N": "0.5"
+            },
+            "size_2": {
+                "N": "0.5"
             },
             "unique_entry_id": {
                 "S": "7bxm6rRnGq37XDufB"
@@ -1862,16 +3752,22 @@
             "buy_price": {
                 "NULL": true
             },
+            "can_customize_body": {
+                "BOOL": true
+            },
+            "can_customize_pattern": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Gray"
             },
             "color_2": {
                 "S": "Gray"
             },
-            "cyrus_customize_currency": {
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "exchange_currency": {
@@ -1880,26 +3776,74 @@
             "exchange_price": {
                 "NULL": true
             },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "14598"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_interactive": {
+                "BOOL": false
+            },
+            "is_outdoors": {
+                "BOOL": false
+            },
+            "is_surface": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "simple pillar"
+                "S": "Simple Pillar"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "700"
+            },
+            "size_1": {
+                "N": "0.5"
+            },
+            "size_2": {
+                "N": "0.5"
             },
             "unique_entry_id": {
                 "S": "7ehsrvc5treD3Zb7M"
@@ -1915,16 +3859,22 @@
             "buy_price": {
                 "NULL": true
             },
+            "can_customize_body": {
+                "BOOL": true
+            },
+            "can_customize_pattern": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Black"
             },
             "color_2": {
                 "S": "Black"
             },
-            "cyrus_customize_currency": {
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "exchange_currency": {
@@ -1933,26 +3883,74 @@
             "exchange_price": {
                 "NULL": true
             },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "14598"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_interactive": {
+                "BOOL": false
+            },
+            "is_outdoors": {
+                "BOOL": false
+            },
+            "is_surface": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "simple pillar"
+                "S": "Simple Pillar"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "700"
+            },
+            "size_1": {
+                "N": "0.5"
+            },
+            "size_2": {
+                "N": "0.5"
             },
             "unique_entry_id": {
                 "S": "9NYt4Mi63LFN4zboi"
@@ -1968,16 +3966,22 @@
             "buy_price": {
                 "NULL": true
             },
+            "can_customize_body": {
+                "BOOL": false
+            },
+            "can_customize_pattern": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Gray"
             },
             "color_2": {
                 "S": "Gray"
             },
-            "cyrus_customize_currency": {
+            "cyrus_currency": {
                 "NULL": true
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "NULL": true
             },
             "exchange_currency": {
@@ -1986,26 +3990,74 @@
             "exchange_price": {
                 "NULL": true
             },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "14599"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_interactive": {
+                "BOOL": false
+            },
+            "is_outdoors": {
+                "BOOL": false
+            },
+            "is_surface": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "NULL": true
+            },
+            "kit_currency": {
+                "NULL": true
+            },
+            "kit_price": {
+                "NULL": true
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "steel pillar"
+                "S": "Steel Pillar"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "3000"
+            },
+            "size_1": {
+                "N": "0.5"
+            },
+            "size_2": {
+                "N": "0.5"
             },
             "unique_entry_id": {
                 "S": "X5AEGKWHvCRawqyPT"
@@ -2021,16 +4073,22 @@
             "buy_price": {
                 "NULL": true
             },
+            "can_customize_body": {
+                "BOOL": true
+            },
+            "can_customize_pattern": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Red"
             },
             "color_2": {
                 "S": "Brown"
             },
-            "cyrus_customize_currency": {
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "2400"
             },
             "exchange_currency": {
@@ -2039,26 +4097,74 @@
             "exchange_price": {
                 "NULL": true
             },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "13897"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_interactive": {
+                "BOOL": false
+            },
+            "is_outdoors": {
+                "BOOL": false
+            },
+            "is_surface": {
                 "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "3"
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "tall brick island counter"
+                "S": "Tall Brick Island Counter"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "1600"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "G8Tv7m2q2qKXqrJQ3"
@@ -2074,16 +4180,22 @@
             "buy_price": {
                 "NULL": true
             },
+            "can_customize_body": {
+                "BOOL": true
+            },
+            "can_customize_pattern": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "White"
             },
             "color_2": {
                 "S": "Brown"
             },
-            "cyrus_customize_currency": {
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "2400"
             },
             "exchange_currency": {
@@ -2092,26 +4204,74 @@
             "exchange_price": {
                 "NULL": true
             },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "13897"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_interactive": {
+                "BOOL": false
+            },
+            "is_outdoors": {
+                "BOOL": false
+            },
+            "is_surface": {
                 "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "3"
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "tall brick island counter"
+                "S": "Tall Brick Island Counter"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "1600"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "fYLrAfCbu3gPMKmKH"
@@ -2127,16 +4287,22 @@
             "buy_price": {
                 "NULL": true
             },
+            "can_customize_body": {
+                "BOOL": true
+            },
+            "can_customize_pattern": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Gray"
             },
             "color_2": {
                 "S": "Brown"
             },
-            "cyrus_customize_currency": {
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "2400"
             },
             "exchange_currency": {
@@ -2145,26 +4311,74 @@
             "exchange_price": {
                 "NULL": true
             },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "13897"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_interactive": {
+                "BOOL": false
+            },
+            "is_outdoors": {
+                "BOOL": false
+            },
+            "is_surface": {
                 "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "3"
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "tall brick island counter"
+                "S": "Tall Brick Island Counter"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "1600"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "qB6QiivqojvPKeF8t"
@@ -2180,16 +4394,22 @@
             "buy_price": {
                 "NULL": true
             },
+            "can_customize_body": {
+                "BOOL": false
+            },
+            "can_customize_pattern": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Gray"
             },
             "color_2": {
                 "S": "Gray"
             },
-            "cyrus_customize_currency": {
+            "cyrus_currency": {
                 "NULL": true
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "NULL": true
             },
             "exchange_currency": {
@@ -2198,26 +4418,74 @@
             "exchange_price": {
                 "NULL": true
             },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "13895"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_interactive": {
+                "BOOL": false
+            },
+            "is_outdoors": {
+                "BOOL": false
+            },
+            "is_surface": {
                 "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "NULL": true
+            },
+            "kit_currency": {
+                "NULL": true
+            },
+            "kit_price": {
+                "NULL": true
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "tall concrete island counter"
+                "S": "Tall Concrete Island Counter"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "2400"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "tsXLsF5rGnBi84KJT"
@@ -2233,16 +4501,22 @@
             "buy_price": {
                 "NULL": true
             },
+            "can_customize_body": {
+                "BOOL": false
+            },
+            "can_customize_pattern": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Yellow"
             },
             "color_2": {
                 "S": "Yellow"
             },
-            "cyrus_customize_currency": {
+            "cyrus_currency": {
                 "NULL": true
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "NULL": true
             },
             "exchange_currency": {
@@ -2251,26 +4525,74 @@
             "exchange_price": {
                 "NULL": true
             },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "14330"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_interactive": {
+                "BOOL": false
+            },
+            "is_outdoors": {
+                "BOOL": false
+            },
+            "is_surface": {
                 "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "NULL": true
+            },
+            "kit_currency": {
+                "NULL": true
+            },
+            "kit_price": {
+                "NULL": true
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "tall golden island counter"
+                "S": "Tall Golden Island Counter"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "80000"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "PQTHpRrQbqQjircX9"
@@ -2286,16 +4608,22 @@
             "buy_price": {
                 "NULL": true
             },
+            "can_customize_body": {
+                "BOOL": true
+            },
+            "can_customize_pattern": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Gray"
             },
             "color_2": {
                 "S": "Gray"
             },
-            "cyrus_customize_currency": {
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "3100"
             },
             "exchange_currency": {
@@ -2304,26 +4632,74 @@
             "exchange_price": {
                 "NULL": true
             },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "14332"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_interactive": {
+                "BOOL": false
+            },
+            "is_outdoors": {
+                "BOOL": false
+            },
+            "is_surface": {
                 "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "4"
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "tall marble island counter"
+                "S": "Tall Marble Island Counter"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "2400"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "TNHgdZwptefHrSoFz"
@@ -2339,16 +4715,22 @@
             "buy_price": {
                 "NULL": true
             },
+            "can_customize_body": {
+                "BOOL": true
+            },
+            "can_customize_pattern": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "White"
             },
             "color_2": {
                 "S": "White"
             },
-            "cyrus_customize_currency": {
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "3100"
             },
             "exchange_currency": {
@@ -2357,26 +4739,74 @@
             "exchange_price": {
                 "NULL": true
             },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "14332"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_interactive": {
+                "BOOL": false
+            },
+            "is_outdoors": {
+                "BOOL": false
+            },
+            "is_surface": {
                 "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "4"
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "tall marble island counter"
+                "S": "Tall Marble Island Counter"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "2400"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "m2qrGT2gSmeFsTJ2D"
@@ -2392,16 +4822,22 @@
             "buy_price": {
                 "NULL": true
             },
+            "can_customize_body": {
+                "BOOL": true
+            },
+            "can_customize_pattern": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Black"
             },
             "color_2": {
                 "S": "Black"
             },
-            "cyrus_customize_currency": {
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "3100"
             },
             "exchange_currency": {
@@ -2410,26 +4846,74 @@
             "exchange_price": {
                 "NULL": true
             },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "14332"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_interactive": {
+                "BOOL": false
+            },
+            "is_outdoors": {
+                "BOOL": false
+            },
+            "is_surface": {
                 "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "4"
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "tall marble island counter"
+                "S": "Tall Marble Island Counter"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "2400"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "akFYhQtm5G3Mtco3f"
@@ -2445,16 +4929,22 @@
             "buy_price": {
                 "NULL": true
             },
+            "can_customize_body": {
+                "BOOL": true
+            },
+            "can_customize_pattern": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "White"
             },
             "color_2": {
                 "S": "White"
             },
-            "cyrus_customize_currency": {
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1700"
             },
             "exchange_currency": {
@@ -2463,26 +4953,74 @@
             "exchange_price": {
                 "NULL": true
             },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "14310"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_interactive": {
+                "BOOL": false
+            },
+            "is_outdoors": {
+                "BOOL": false
+            },
+            "is_surface": {
                 "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "2"
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "tall simple island counter"
+                "S": "Tall Simple Island Counter"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "1400"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "YDXWEARLfC6dggDdh"
@@ -2498,16 +5036,22 @@
             "buy_price": {
                 "NULL": true
             },
+            "can_customize_body": {
+                "BOOL": true
+            },
+            "can_customize_pattern": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Pink"
             },
             "color_2": {
                 "S": "Pink"
             },
-            "cyrus_customize_currency": {
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1700"
             },
             "exchange_currency": {
@@ -2516,26 +5060,74 @@
             "exchange_price": {
                 "NULL": true
             },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "14310"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_interactive": {
+                "BOOL": false
+            },
+            "is_outdoors": {
+                "BOOL": false
+            },
+            "is_surface": {
                 "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "2"
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "tall simple island counter"
+                "S": "Tall Simple Island Counter"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "1400"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "ZJC2fFDiDyKuJSzqo"
@@ -2551,16 +5143,22 @@
             "buy_price": {
                 "NULL": true
             },
+            "can_customize_body": {
+                "BOOL": true
+            },
+            "can_customize_pattern": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Aqua"
             },
             "color_2": {
                 "S": "Aqua"
             },
-            "cyrus_customize_currency": {
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1700"
             },
             "exchange_currency": {
@@ -2569,26 +5167,74 @@
             "exchange_price": {
                 "NULL": true
             },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "14310"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_interactive": {
+                "BOOL": false
+            },
+            "is_outdoors": {
+                "BOOL": false
+            },
+            "is_surface": {
                 "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "2"
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "tall simple island counter"
+                "S": "Tall Simple Island Counter"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "1400"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "mW9RDLfD8SQYSrYjr"
@@ -2604,16 +5250,22 @@
             "buy_price": {
                 "NULL": true
             },
+            "can_customize_body": {
+                "BOOL": true
+            },
+            "can_customize_pattern": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Yellow"
             },
             "color_2": {
                 "S": "Yellow"
             },
-            "cyrus_customize_currency": {
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1700"
             },
             "exchange_currency": {
@@ -2622,26 +5274,74 @@
             "exchange_price": {
                 "NULL": true
             },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "14310"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_interactive": {
+                "BOOL": false
+            },
+            "is_outdoors": {
+                "BOOL": false
+            },
+            "is_surface": {
                 "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "2"
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "tall simple island counter"
+                "S": "Tall Simple Island Counter"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "1400"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "vAfZHhSK7FEZSuXzr"
@@ -2657,16 +5357,22 @@
             "buy_price": {
                 "NULL": true
             },
+            "can_customize_body": {
+                "BOOL": true
+            },
+            "can_customize_pattern": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Red"
             },
             "color_2": {
                 "S": "Red"
             },
-            "cyrus_customize_currency": {
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1700"
             },
             "exchange_currency": {
@@ -2675,26 +5381,74 @@
             "exchange_price": {
                 "NULL": true
             },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "14310"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_interactive": {
+                "BOOL": false
+            },
+            "is_outdoors": {
+                "BOOL": false
+            },
+            "is_surface": {
                 "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "2"
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "tall simple island counter"
+                "S": "Tall Simple Island Counter"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "1400"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "n4cgd3nsLSh5kPwvX"
@@ -2710,16 +5464,22 @@
             "buy_price": {
                 "NULL": true
             },
+            "can_customize_body": {
+                "BOOL": true
+            },
+            "can_customize_pattern": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Blue"
             },
             "color_2": {
                 "S": "Blue"
             },
-            "cyrus_customize_currency": {
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1700"
             },
             "exchange_currency": {
@@ -2728,26 +5488,74 @@
             "exchange_price": {
                 "NULL": true
             },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "14310"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_interactive": {
+                "BOOL": false
+            },
+            "is_outdoors": {
+                "BOOL": false
+            },
+            "is_surface": {
                 "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "2"
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "tall simple island counter"
+                "S": "Tall Simple Island Counter"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "1400"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "tSe8tBh7Qf6tCmuki"
@@ -2763,16 +5571,22 @@
             "buy_price": {
                 "NULL": true
             },
+            "can_customize_body": {
+                "BOOL": true
+            },
+            "can_customize_pattern": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Gray"
             },
             "color_2": {
                 "S": "Gray"
             },
-            "cyrus_customize_currency": {
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1700"
             },
             "exchange_currency": {
@@ -2781,26 +5595,74 @@
             "exchange_price": {
                 "NULL": true
             },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "14310"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_interactive": {
+                "BOOL": false
+            },
+            "is_outdoors": {
+                "BOOL": false
+            },
+            "is_surface": {
                 "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "2"
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "tall simple island counter"
+                "S": "Tall Simple Island Counter"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "1400"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "YjvyNXtHKyKbzjkTT"
@@ -2816,16 +5678,22 @@
             "buy_price": {
                 "NULL": true
             },
+            "can_customize_body": {
+                "BOOL": true
+            },
+            "can_customize_pattern": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Black"
             },
             "color_2": {
                 "S": "Black"
             },
-            "cyrus_customize_currency": {
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1700"
             },
             "exchange_currency": {
@@ -2834,26 +5702,74 @@
             "exchange_price": {
                 "NULL": true
             },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "14310"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_interactive": {
+                "BOOL": false
+            },
+            "is_outdoors": {
+                "BOOL": false
+            },
+            "is_surface": {
                 "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "2"
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "tall simple island counter"
+                "S": "Tall Simple Island Counter"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "1400"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "gDypT85e4AwzkrDEA"
@@ -2869,16 +5785,22 @@
             "buy_price": {
                 "NULL": true
             },
+            "can_customize_body": {
+                "BOOL": false
+            },
+            "can_customize_pattern": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Gray"
             },
             "color_2": {
                 "S": "Gray"
             },
-            "cyrus_customize_currency": {
+            "cyrus_currency": {
                 "NULL": true
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "NULL": true
             },
             "exchange_currency": {
@@ -2887,26 +5809,74 @@
             "exchange_price": {
                 "NULL": true
             },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "14322"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_interactive": {
+                "BOOL": false
+            },
+            "is_outdoors": {
+                "BOOL": false
+            },
+            "is_surface": {
                 "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "NULL": true
+            },
+            "kit_currency": {
+                "NULL": true
+            },
+            "kit_price": {
+                "NULL": true
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "tall steel island counter"
+                "S": "Tall Steel Island Counter"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "6000"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "vXiZBk6roeYruNHCz"
@@ -2922,16 +5892,22 @@
             "buy_price": {
                 "NULL": true
             },
+            "can_customize_body": {
+                "BOOL": true
+            },
+            "can_customize_pattern": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Beige"
             },
             "color_2": {
                 "S": "Beige"
             },
-            "cyrus_customize_currency": {
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1700"
             },
             "exchange_currency": {
@@ -2940,26 +5916,74 @@
             "exchange_price": {
                 "NULL": true
             },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "13902"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_interactive": {
+                "BOOL": false
+            },
+            "is_outdoors": {
+                "BOOL": false
+            },
+            "is_surface": {
                 "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "2"
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "tall wooden island counter"
+                "S": "Tall Wooden Island Counter"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "1080"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "WAdLfg4KmbbaL3TeJ"
@@ -2975,16 +5999,22 @@
             "buy_price": {
                 "NULL": true
             },
+            "can_customize_body": {
+                "BOOL": true
+            },
+            "can_customize_pattern": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Orange"
             },
             "color_2": {
                 "S": "Orange"
             },
-            "cyrus_customize_currency": {
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1700"
             },
             "exchange_currency": {
@@ -2993,26 +6023,74 @@
             "exchange_price": {
                 "NULL": true
             },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "13902"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_interactive": {
+                "BOOL": false
+            },
+            "is_outdoors": {
+                "BOOL": false
+            },
+            "is_surface": {
                 "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "2"
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "tall wooden island counter"
+                "S": "Tall Wooden Island Counter"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "1080"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "YG7qtvLFZjGa2K69s"
@@ -3028,16 +6106,22 @@
             "buy_price": {
                 "NULL": true
             },
+            "can_customize_body": {
+                "BOOL": true
+            },
+            "can_customize_pattern": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Brown"
             },
             "color_2": {
                 "S": "Brown"
             },
-            "cyrus_customize_currency": {
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1700"
             },
             "exchange_currency": {
@@ -3046,26 +6130,74 @@
             "exchange_price": {
                 "NULL": true
             },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "13902"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_interactive": {
+                "BOOL": false
+            },
+            "is_outdoors": {
+                "BOOL": false
+            },
+            "is_surface": {
                 "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "2"
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "tall wooden island counter"
+                "S": "Tall Wooden Island Counter"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "1080"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "PQtaRN7NdkujLGQoQ"
@@ -3081,16 +6213,22 @@
             "buy_price": {
                 "NULL": true
             },
+            "can_customize_body": {
+                "BOOL": true
+            },
+            "can_customize_pattern": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Beige"
             },
             "color_2": {
                 "S": "Beige"
             },
-            "cyrus_customize_currency": {
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "exchange_currency": {
@@ -3099,26 +6237,74 @@
             "exchange_price": {
                 "NULL": true
             },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "14601"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_interactive": {
+                "BOOL": false
+            },
+            "is_outdoors": {
+                "BOOL": false
+            },
+            "is_surface": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "wooden pillar"
+                "S": "Wooden Pillar"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "720"
+            },
+            "size_1": {
+                "N": "0.5"
+            },
+            "size_2": {
+                "N": "0.5"
             },
             "unique_entry_id": {
                 "S": "mGsw5XZqLRze4Qsmc"
@@ -3134,16 +6320,22 @@
             "buy_price": {
                 "NULL": true
             },
+            "can_customize_body": {
+                "BOOL": true
+            },
+            "can_customize_pattern": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Orange"
             },
             "color_2": {
                 "S": "Orange"
             },
-            "cyrus_customize_currency": {
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "exchange_currency": {
@@ -3152,26 +6344,74 @@
             "exchange_price": {
                 "NULL": true
             },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "14601"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_interactive": {
+                "BOOL": false
+            },
+            "is_outdoors": {
+                "BOOL": false
+            },
+            "is_surface": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "wooden pillar"
+                "S": "Wooden Pillar"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "720"
+            },
+            "size_1": {
+                "N": "0.5"
+            },
+            "size_2": {
+                "N": "0.5"
             },
             "unique_entry_id": {
                 "S": "JjbCWR6eEsXNdr9Ny"
@@ -3187,16 +6427,22 @@
             "buy_price": {
                 "NULL": true
             },
+            "can_customize_body": {
+                "BOOL": true
+            },
+            "can_customize_pattern": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Brown"
             },
             "color_2": {
                 "S": "Brown"
             },
-            "cyrus_customize_currency": {
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "exchange_currency": {
@@ -3205,26 +6451,74 @@
             "exchange_price": {
                 "NULL": true
             },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "14601"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_interactive": {
+                "BOOL": false
+            },
+            "is_outdoors": {
+                "BOOL": false
+            },
+            "is_surface": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "wooden pillar"
+                "S": "Wooden Pillar"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "720"
+            },
+            "size_1": {
+                "N": "0.5"
+            },
+            "size_2": {
+                "N": "0.5"
             },
             "unique_entry_id": {
                 "S": "A4gzXM9sb8BcyCrnM"

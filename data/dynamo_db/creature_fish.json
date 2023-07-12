@@ -7,20 +7,59 @@
             "color_2": {
                 "S": "Red"
             },
+            "description": {
+                "S": "There are more than 140 species of anchovy, but they do all have some things in common. They are small and feed by simply swimming with their mouths open to filter food particles from the sea. (In my sleepier moments, I sometimes wish I could do that...)"
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "4201"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": false
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "anchovy"
+                "S": "Anchovy"
+            },
+            "saying": {
+                "S": "I caught an anchovy! Stay away from my pizza!"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "200"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "LzuWkSQP55uEpRCP5"
@@ -36,20 +75,59 @@
             "color_2": {
                 "S": "Black"
             },
+            "description": {
+                "S": "The angelfish is truly a beautiful creature. Just look at the elegance of those fins! Despite the name, however, these lovelies are known to be rather aggressive. They've no qualms about relentlessly pursuing fish much smaller than themselves! Why, they even attack their own kin! It seems no fish is safe around these \"angelic\" bullies. It makes one wonder who comes up with these names. Appearances\u2014 and names\u2014 can be deceiving."
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "2247"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": true
+            },
+            "lighting_category": {
+                "S": "Fluorescent"
+            },
             "name": {
-                "S": "angelfish"
+                "S": "Angelfish"
+            },
+            "saying": {
+                "S": "I caught an angelfish! That other fish told me to do it!"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "3000"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "XTCFCk2SiuY5YXLZ7"
@@ -65,20 +143,59 @@
             "color_2": {
                 "S": "Blue"
             },
+            "description": {
+                "S": "The stately arapaima is quite large. Indeed, it is among the largest freshwater fish there are. Furthermore, these fascinating fish make quite the family unit. That is to say, male arapaimas protect their young by holding them gently in their mouths. Meanwhile, female arapaimas swim circles around these full-mouthed fathers fending off predators. It simply goes to show that cold-blooded creatures can be heartwarming too."
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "2253"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": false
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "arapaima"
+                "S": "Arapaima"
+            },
+            "saying": {
+                "S": "I caught an arapaima! How did it get here? Arapaiknow!"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "10000"
+            },
+            "size_1": {
+                "N": "3.0"
+            },
+            "size_2": {
+                "N": "2.0"
             },
             "unique_entry_id": {
                 "S": "mZy4BES54bqwi97br"
@@ -94,20 +211,59 @@
             "color_2": {
                 "S": "Black"
             },
+            "description": {
+                "S": "It would seem your angling expertise knows no bounds! This beauteous arowana fetches a pretty Bell, though I'd venture to say that its true price is beyond measure. The arowana is an excellent jumper. Some have been seen  leaping six feet out of the water, eh wot! Alas, it has also been on the endangered-species list for some time. It's up to us to do all we can to help preserve such magnificent creatures for the years to come."
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "2250"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": true
+            },
+            "lighting_category": {
+                "S": "Fluorescent"
+            },
             "name": {
-                "S": "arowana"
+                "S": "Arowana"
+            },
+            "saying": {
+                "S": "I caught an arowana! I'd make a joke, but I don't 'wana."
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "10000"
+            },
+            "size_1": {
+                "N": "2.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "F68AvCaqddBJL7ZSN"
@@ -123,20 +279,59 @@
             "color_2": {
                 "S": "Black"
             },
+            "description": {
+                "S": "Wonderful! I would love nothing more! The barred knifejaw, also called the striped beakfish, is a lovely fish with a distinctive striped pattern. It is reportedly also a very curious fish in that it has been known to approach swimmers to \"greet\" them. They also tend to be good at avoiding fishing hooks, so well done on outwitting this one!"
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "2265"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": true
+            },
+            "lighting_category": {
+                "S": "Fluorescent"
+            },
             "name": {
-                "S": "barred knifejaw"
+                "S": "Barred Knifejaw"
+            },
+            "saying": {
+                "S": "I caught a barred knifejaw! They must have a hard time eating!"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "5000"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "X3R9SFSAaDzBF4fE3"
@@ -152,20 +347,59 @@
             "color_2": {
                 "S": "Black"
             },
+            "description": {
+                "S": "The barreleye is a deep-sea fish with protuberant eyes and a clear head, so some of its organs are... visible. At first blush, a transparent head seems absurd, but there is a reason: so it can see things directly above! But I must confess - the more I learn about deep-sea fish, the happier I am to live on dry land, wot."
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "4204"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": false
+            },
+            "lighting_category": {
+                "S": "Fluorescent"
+            },
             "name": {
-                "S": "barreleye"
+                "S": "Barreleye"
+            },
+            "saying": {
+                "S": "I caught a barreleye! Like eyeing fish in a barrel!"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "15000"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "BpqTa4zmTjv3Nm4wE"
@@ -181,20 +415,59 @@
             "color_2": {
                 "S": "Black"
             },
+            "description": {
+                "S": "The betta has long fins and beautiful coloring. It is a tropical fish popular in decorative aquariums. They're very territorial and will fight to complete exhaustion, so aquarists must keep them carefully. Rarely do such beauty and violence commingle outside the rowdiest of sunset-viewing parties."
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "4191"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": false
+            },
+            "lighting_category": {
+                "S": "Fluorescent"
+            },
             "name": {
-                "S": "betta"
+                "S": "Betta"
+            },
+            "saying": {
+                "S": "I caught a betta! I betta not drop it!"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "2500"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "7QcQXzwZoNGiNA94k"
@@ -210,20 +483,59 @@
             "color_2": {
                 "S": "Blue"
             },
+            "description": {
+                "S": "Bitterlings hide their eggs inside large bivalves\u2014like clams\u2014where the young can stay safe until grown. The bitterling isn't being sneaky. No, their young help keep the bivalve healthy by eating invading parasites! It's a wonderful bit of evolutionary deal making, don't you think? Each one keeping the other safe... Though eating parasites does not sound like a happy childhood... Is that why the fish is so bitter?"
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "2215"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": false
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "bitterling"
+                "S": "Bitterling"
+            },
+            "saying": {
+                "S": "I caught a bitterling! It's mad at me, but only a little."
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "900"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "Drj6eLRBgg4T9KhNx"
@@ -239,20 +551,59 @@
             "color_2": {
                 "S": "Black"
             },
+            "description": {
+                "S": "The black bass is a formidably strong fish and, as such, is a common target for sport anglers. In some areas, there are even those who professionally catch just black bass! Yet in other areas where they are NOT native, they are considered an ecological nuisance. Invasive, even. One cannot help but wonder who is to blame for their invasion, hoo."
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "2234"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": true
+            },
+            "lighting_category": {
+                "S": "Fluorescent"
+            },
             "name": {
-                "S": "black bass"
+                "S": "Black Bass"
+            },
+            "saying": {
+                "S": "I caught a black bass! The most metal of all fish!"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "400"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "wAZvfTca7GyaTtLcQ"
@@ -268,20 +619,59 @@
             "color_2": {
                 "S": "Black"
             },
+            "description": {
+                "S": "As you may know, blowfish carry a deadly poison and are among the most toxic creatures on earth. What you may not have known is that poison and spines are not the limit of this animal's defenses! A predator that tries to swallow a blowfish before it inflates can find itself quickly choking. To be honest, if said predator can get past poison, spines, AND choking hazards, I feel they've earned a meal."
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "2262"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": true
+            },
+            "lighting_category": {
+                "S": "Fluorescent"
+            },
             "name": {
-                "S": "blowfish"
+                "S": "Blowfish"
+            },
+            "saying": {
+                "S": "I caught a blowfish! I'm blown away!"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "5000"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "aDsmTcByApycafxTa"
@@ -297,20 +687,59 @@
             "color_2": {
                 "S": "Black"
             },
+            "description": {
+                "S": "The blue marlin has a distinctive angular shape and no scales. It is an unusual relative of the tuna. These mighty fish can exceed 13 feet from bill to tail. Some accounts even have it fighting with whales! No wonder it's a popular target for sport fishing: unlike most fish, it seems like a worthy opponent."
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "2275"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": true
+            },
+            "lighting_category": {
+                "S": "Fluorescent"
+            },
             "name": {
-                "S": "blue marlin"
+                "S": "Blue Marlin"
+            },
+            "saying": {
+                "S": "I caught a blue marlin! Listen to this fish. it's got a point."
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "10000"
+            },
+            "size_1": {
+                "N": "2.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "jhtsYRHydAcZnd6bJ"
@@ -326,20 +755,59 @@
             "color_2": {
                 "S": "Black"
             },
+            "description": {
+                "S": "The bluegill is incredibly common. A bit too common, depending upon where you are. They eat anything that fits in their mouths and are highly adaptable. The bane of fishermen in some areas, bluegill is often the only fish to be caught! But looking in its wee beady eyes, I must say I see no ill will in it..."
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "2232"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": false
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "bluegill"
+                "S": "Bluegill"
+            },
+            "saying": {
+                "S": "I caught a bluegill! Do you think it calls me \"pinklung\"?"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "180"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "8ygccYFCrWf4hwYGR"
@@ -355,20 +823,59 @@
             "color_2": {
                 "S": "Black"
             },
+            "description": {
+                "S": "Ah, the butterfly fish is just charming with its beautiful colors and elegant movements. I refer to it as a butterfly fish, but it's actually a grouping in which there are over 100 types! These beautiful aquatic friends swim in schools amid coral, fluttering back and forth with the tides. The sheer awe one must experience when witnessing such a sight. It must be a dream! So much better than actual butterflies..."
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "2259"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": false
+            },
+            "lighting_category": {
+                "S": "Fluorescent"
+            },
             "name": {
-                "S": "butterfly fish"
+                "S": "Butterfly Fish"
+            },
+            "saying": {
+                "S": "I caught a butterfly fish! Did it change from a caterpillar fish?"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "1000"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "S4rkio2M3WB5cyy8Y"
@@ -384,20 +891,59 @@
             "color_2": {
                 "S": "Black"
             },
+            "description": {
+                "S": "Oh, the carp... have you ever seen their teeth? For your sake, I hope you have not! Carp have teeth in their throat strong enough to crunch on hard things like shells and fingers! A good rule of thumb when dealing with other species is to keep your fingers out of their mouths. Although, having neither thumbs nor fingers, I am quite safe from this little fellow!"
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "2219"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": true
+            },
+            "lighting_category": {
+                "S": "Fluorescent"
+            },
             "name": {
-                "S": "carp"
+                "S": "Carp"
+            },
+            "saying": {
+                "S": "I caught a carp! If I catch another, they can carpool!"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "300"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "4DwwvGDwPQvZTn9Fb"
@@ -413,20 +959,59 @@
             "color_2": {
                 "S": "Black"
             },
+            "description": {
+                "S": "Catfish don't have scales and are rather slimy. Believe it or not, this slime helps them breathe! Some species of catfish are nocturnal, and they'll feed on almost anything. They use a suctioning action to pull in their food. Did I mention they can grow as large as you or I?"
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "2229"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": true
+            },
+            "lighting_category": {
+                "S": "Fluorescent"
+            },
             "name": {
-                "S": "catfish"
+                "S": "Catfish"
+            },
+            "saying": {
+                "S": "I caught a catfish! I'm more of a dogfish person..."
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "800"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "nbPtvwf7HCQxA9Nc4"
@@ -442,20 +1027,59 @@
             "color_2": {
                 "S": "Black"
             },
+            "description": {
+                "S": "The char is one of the bigger first around the world, and, in the world of fish, that's quite an accomplishment! They are territorial predators, and therefore must constantly defend their 'turf' from others. So when you see a large char like this one, it is likely a skilled fighter and veteran of many battles. My feathers! I hope it never has cause to go into battle with me!"
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "2239"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": true
+            },
+            "lighting_category": {
+                "S": "Fluorescent"
+            },
             "name": {
-                "S": "char"
+                "S": "Char"
+            },
+            "saying": {
+                "S": "I caught a char! Now I'm gonna sit on it!"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "3800"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "ahbnwCqp3EZXa96KC"
@@ -471,20 +1095,59 @@
             "color_2": {
                 "S": "Black"
             },
+            "description": {
+                "S": "The cherry salmon is related to the salmon, and is known for its distinctive pattern of \"polka dots\". There polka dots disappear as they mature, but ONLY in the first of certain geographic regions. Pity the poor researchers that must make sense of the cherry salmon's fickle fashion sense."
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "2238"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": true
+            },
+            "lighting_category": {
+                "S": "Fluorescent"
+            },
             "name": {
-                "S": "cherry salmon"
+                "S": "Cherry Salmon"
+            },
+            "saying": {
+                "S": "I caught a cherry salmon! It's the perfect topper for a marlin sundae!"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "1000"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "sJyBbeLbpzn7LyzFr"
@@ -500,20 +1163,59 @@
             "color_2": {
                 "S": "Black"
             },
+            "description": {
+                "S": "Few can deny the delightful qualities of the clown fish. These vibrant fishes make their home among venomous anemones. It's a mutually beneficial arrangement. The clown fish finds safety in the anemone's wriggling arms, as well as leftover scraps of food. In return, clown fish ward off parasites and predators for the anemone. Thus these colorful fish remind us of the importance of maintaining good cheer among our roommates."
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "2257"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": false
+            },
+            "lighting_category": {
+                "S": "Fluorescent"
+            },
             "name": {
-                "S": "clown fish"
+                "S": "Clown Fish"
+            },
+            "saying": {
+                "S": "I caught a clown fish! How many can fit in a carfish?"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "650"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "L9qxZaMoBhwxvpMyh"
@@ -529,20 +1231,59 @@
             "color_2": {
                 "S": "Black"
             },
+            "description": {
+                "S": "The coelacanth is a deep-sea fish that has been around since the age of the dinosaurs. They were long thought extinct, so when living specimens were discovered, it was quite a shock! Now I'll just have to figure out where in the museum to display it\u2014 fish or fossils!"
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "2284"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": true
+            },
+            "lighting_category": {
+                "S": "Fluorescent"
+            },
             "name": {
-                "S": "coelacanth"
+                "S": "Coelacanth"
+            },
+            "saying": {
+                "S": "Blast from the past! I caught a coelacanth! Think positive! Be a coela-CAN!"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "15000"
+            },
+            "size_1": {
+                "N": "2.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "NjMZQ6Xi9NswEXnHH"
@@ -558,20 +1299,59 @@
             "color_2": {
                 "S": "Black"
             },
+            "description": {
+                "S": "Ohoo! So you have found a crawfish. Neither crab nor lobster, crawfish evolved in an interesting manner. Beware their fearsome pinchy pinchers! Behold their many legs! I say! It is a big bug-like, eh wot...The more I look at it, the more unsettled I feel... Let's be done with this and never speak of it again, shall we?"
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "2223"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": false
+            },
+            "lighting_category": {
+                "S": "Fluorescent"
+            },
             "name": {
-                "S": "crawfish"
+                "S": "Crawfish"
+            },
+            "saying": {
+                "S": "I caught a crawfish! Or else it's a lobster and I'm a giant!"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "200"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "W7TrwpycmfgniZipi"
@@ -587,20 +1367,59 @@
             "color_2": {
                 "S": "Black"
             },
+            "description": {
+                "S": "I wonder... Do you know how to tell the difference between a crucian carp and a standard-issue carp? It's quite easy to tell the two apart... One must simply locate the barbels. Or, rather, the lack of them! And just what is a barbel, you ask? Well, a barbel looks a little something like a mustache. A run-of-the-mill carp will sport this unsightly \"facial hair,\" while a crucian carp is considerably better groomed! I tried to grow a mustache when I was younger. It never did fill in quite right... All for the best in the end, as mustaches go so much better with noses than with beaks!"
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "328"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": true
+            },
+            "lighting_category": {
+                "S": "Fluorescent"
+            },
             "name": {
-                "S": "crucian carp"
+                "S": "Crucian Carp"
+            },
+            "saying": {
+                "S": "I caught a crucian carp! My skills are sharp!"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "160"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "Pdw7vmJz9PRM4ggbf"
@@ -616,20 +1435,59 @@
             "color_2": {
                 "S": "Black"
             },
+            "description": {
+                "S": "The dab is a flatfish that bears some resemblance to the olive flounder, though their mouths are different. Personally, I am morbidly fascinated by each fish's eye placement. The dab's eyes are both on its right side, while the olive flounder's are on the left. These fish spend lots of time lying on their sides in the sand, so the odd eye placement makes some sense... But its-how can I put this? Creepy? Viscerally disturbing? Profoundly upsetting to fans of symmetry?"
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "2268"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": true
+            },
+            "lighting_category": {
+                "S": "Fluorescent"
+            },
             "name": {
-                "S": "dab"
+                "S": "Dab"
+            },
+            "saying": {
+                "S": "I caught a dab! Not bad!"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "300"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "noA2Kfp8TaFgaLs5n"
@@ -645,20 +1503,59 @@
             "color_2": {
                 "S": "Black"
             },
+            "description": {
+                "S": "Dace are shiny little fish that enjoy freshwater streams with gravelly bottoms and plenty of sunlight. What a fishy paradise...until the larger fish move in and begin eating the dace! Sadly, the shiny dace are easy for other fish to spot, which makes them a popular snack. However, this particular specimen here has no need to worry. There's a strict \"No Eating Your Neighbor\" policy at this institution."
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "2217"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": true
+            },
+            "lighting_category": {
+                "S": "Fluorescent"
+            },
             "name": {
-                "S": "dace"
+                "S": "Dace"
+            },
+            "saying": {
+                "S": "I caught a dace! Hope I have some space!"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "240"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "dWmXFdnjByWT5nEok"
@@ -674,20 +1571,59 @@
             "color_2": {
                 "S": "Black"
             },
+            "description": {
+                "S": "Woo-hoo! So shiny! This massive fish's name, dorado, means \"golden\" in Spanish\u2014 a fitting title. They are also quite valuable, I understand. I congratulate you on your top-notch angling! They are rather large, eh wot? It makes one wonder what all they might feed on... Fowl, perhaps?! One quivers at the very thought! Well, it'll be safe behind glass, no doubt. Quite safe, hoo"
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "2251"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": true
+            },
+            "lighting_category": {
+                "S": "Fluorescent"
+            },
             "name": {
-                "S": "dorado"
+                "S": "Dorado"
+            },
+            "saying": {
+                "S": "I caught a dorado! I say \"dorado,\" you say \"doraydo.\""
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "15000"
+            },
+            "size_1": {
+                "N": "2.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "G7ZwD67cRMHBwTSKH"
@@ -703,20 +1639,59 @@
             "color_2": {
                 "S": "Black"
             },
+            "description": {
+                "S": "The football fish is a strange and grotesque deep-sea fish with a lantern-like light on its forehead. Its light is apparently powered by luminous bacteria and other glowing microorganisms. One theory says it can spray these luminescent sidekicks when prey approaches in order to dazzle them...The deep contains many mysteries...as well as some things that are just sort of odd and off-putting."
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "2273"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": true
+            },
+            "lighting_category": {
+                "S": "Emission"
+            },
             "name": {
-                "S": "football fish"
+                "S": "Football Fish"
+            },
+            "saying": {
+                "S": "I caught a football fish! Some countries call it a soccer fish!"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "2500"
+            },
+            "size_1": {
+                "N": "2.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "vQHfve6DygtcYqwdi"
@@ -732,20 +1707,59 @@
             "color_2": {
                 "S": "Black"
             },
+            "description": {
+                "S": "The freshwater goby is an unassuming specimen. But beneath that calm, fish exterior, true gluttony resides! It will eat anything that will fit in its mouth...And its mouth is quite the gaping maw, so I recommend you refrain from drawing attention to yourself!"
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "2227"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": true
+            },
+            "lighting_category": {
+                "S": "Fluorescent"
+            },
             "name": {
-                "S": "freshwater goby"
+                "S": "Freshwater Goby"
+            },
+            "saying": {
+                "S": "I caught a freshwater goby! Time to go bye-bye!"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "400"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "SfXYNdtaid6hdQhvZ"
@@ -761,20 +1775,59 @@
             "color_2": {
                 "S": "Black"
             },
+            "description": {
+                "S": "I understand that frogs converse with fellow frogs through a number of varied calls, as it were. Ribbit! My prince has arrived! Gribbit riiibbit! This pond is tragic! Ribbity rib't! I think you're splendid! Hoo hoo, of course I have no clue what they're saying, but I like to think if I practice enough, I might!"
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "2226"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": false
+            },
+            "lighting_category": {
+                "S": "Fluorescent"
+            },
             "name": {
-                "S": "frog"
+                "S": "Frog"
+            },
+            "saying": {
+                "S": "I caught a frog! Or it's a new neighbor...and I have some apologizing to do."
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "120"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "LcQLs85qPPdLajLje"
@@ -790,20 +1843,59 @@
             "color_2": {
                 "S": "Black"
             },
+            "description": {
+                "S": "Hoo hoo! So you have snagged a gar. Did you know this beastly fish can grow up to nine feet long? Indeed, the gar is a remnant of times long past-a living fossil, if you will. It not only has sharp teeth and armor-like scalesn, it has the ability to take breaths of air as well! Ah, to look upon this unusual fish is to get a glimpse of our prehistoric past."
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "2252"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": true
+            },
+            "lighting_category": {
+                "S": "Fluorescent"
+            },
             "name": {
-                "S": "gar"
+                "S": "Gar"
+            },
+            "saying": {
+                "S": "I caught a gar! Yar! It's a gar! Har har!"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "6000"
+            },
+            "size_1": {
+                "N": "2.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "x5yAYQgMJW9Kf7WyM"
@@ -819,20 +1911,59 @@
             "color_2": {
                 "S": "Black"
             },
+            "description": {
+                "S": "The giant snakehead is quite a sight to behold, wot! One glance conjures up visions of its namesake. This resilient creature can even find a home in the mud, where it is able to breathe. As a matter of fact, it dislikes cold weather, so during wintertime the mud serves as its temporary home. I hear that they eat anything that swims past their head. While odd, I feel a sense of owlship with them."
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "2231"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": true
+            },
+            "lighting_category": {
+                "S": "Fluorescent"
+            },
             "name": {
-                "S": "giant snakehead"
+                "S": "Giant Snakehead"
+            },
+            "saying": {
+                "S": "I caught a giant snakehead! Um...but I asked for a medium?"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "5500"
+            },
+            "size_1": {
+                "N": "2.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "KyWQRd8W2FePM42wB"
@@ -848,20 +1979,59 @@
             "color_2": {
                 "S": "Black"
             },
+            "description": {
+                "S": "The giant trevally, as befits its name, can reach six feet in length and 180 pounds! Its size and strength have made it a favored opponent for anglers since time immemorial. They are also ingenious hunters, sometimes taking advantage of other predators to distract their prey. There have even been documented cases of them attacking \u2014gulp\u2014 birds."
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "2276"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": true
+            },
+            "lighting_category": {
+                "S": "Fluorescent"
+            },
             "name": {
-                "S": "giant trevally"
+                "S": "Giant Trevally"
+            },
+            "saying": {
+                "S": "I caught a giant trevally! Yeah, I'm pretty well-trevalled."
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "4500"
+            },
+            "size_1": {
+                "N": "2.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "53qtm8cMH4RfqJiAH"
@@ -877,20 +2047,59 @@
             "color_2": {
                 "S": "Black"
             },
+            "description": {
+                "S": "The golden trout is a beautifully colored fish that can only live in very clean waters. They are difficult to come across since they are found only in high mountain streams. As a side note, I find it much easier to appreciate fish that aren't such prima donnas about everything."
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "4193"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": true
+            },
+            "lighting_category": {
+                "S": "Fluorescent"
+            },
             "name": {
-                "S": "golden trout"
+                "S": "Golden Trout"
+            },
+            "saying": {
+                "S": "I caught a golden trout! But the real treasure? Friendship."
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "15000"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "wwGzR7FzWNJ7cDz9X"
@@ -906,20 +2115,59 @@
             "color_2": {
                 "S": "Aqua"
             },
+            "description": {
+                "S": "Goldfish are so cute and delicate... but do you know how big they can get? Why, they can grow up to... a foot in length! Well, sometimes. The size of the tank they're kept in tends to restrict their growth. And just how big will this goldfish get in our large museum tank? I look forward to finding out!"
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "329"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": false
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "goldfish"
+                "S": "Goldfish"
+            },
+            "saying": {
+                "S": "I caught a goldfish! It's worth its weight in fish!"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "1300"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "5NwmwhEQxBNZCPiBR"
@@ -935,20 +2183,59 @@
             "color_2": {
                 "S": "Blue"
             },
+            "description": {
+                "S": "Great white sharks are obviously known first and foremost for their biting. They are masters of the craft! They do lose teeth regularly through biting-related activities, but, luckily, those teeth grow back quickly. In fact, their missing teeth can be regrown in a single day. Just imagine their tooth-fairy-related income!"
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "2280"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": false
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "great white shark"
+                "S": "Great White Shark"
+            },
+            "saying": {
+                "S": "I caught a great white shark! Watch out for its jaws!"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "15000"
+            },
+            "size_1": {
+                "N": "3.0"
+            },
+            "size_2": {
+                "N": "2.0"
             },
             "unique_entry_id": {
                 "S": "EPypAeJGuTDGFJRnx"
@@ -964,20 +2251,59 @@
             "color_2": {
                 "S": "Black"
             },
+            "description": {
+                "S": "Oh my! Would you look at that! Such a beautiful, snazzy little fellow that guppy is! The shape and coloration of guppy fins are all unique. Quite eye-catching, I must say. Do you imagine they host contests for \"most snazzy\"? And...do you suppose I might receive an invite?"
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "2245"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": false
+            },
+            "lighting_category": {
+                "S": "Fluorescent"
+            },
             "name": {
-                "S": "guppy"
+                "S": "Guppy"
+            },
+            "saying": {
+                "S": "I caught a guppy! Welcome to the team, newbie!"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "1300"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "WtdZnARNxnWRobej2"
@@ -993,20 +2319,59 @@
             "color_2": {
                 "S": "Black"
             },
+            "description": {
+                "S": "The hammerhead shark is known for its distinctive, hammer-shaped head, hence the name. Er, obviously. Anyhoot, this oddly shaped head allows the beast to see 360 degrees around itself, from top to bottom. Imagine being able to see so widely! You could check for untied shoelaces AND imminent rain simultaneously!"
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "2279"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": true
+            },
+            "lighting_category": {
+                "S": "Fluorescent"
+            },
             "name": {
-                "S": "hammerhead shark"
+                "S": "Hammerhead Shark"
+            },
+            "saying": {
+                "S": "I caught a hammerhead shark! I hit the nail on the head!"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "8000"
+            },
+            "size_1": {
+                "N": "2.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "guHT5g6H7tJEyqYzf"
@@ -1022,20 +2387,59 @@
             "color_2": {
                 "S": "Black"
             },
+            "description": {
+                "S": "Supposedly the horse mackerel derives its name from a-false-myth about its strengh as a swimmer. The gist of it is that these fish are so powerful underwater that smaller fish can ride them as steeds! It's absurd, of course. Where would these alleged fish jockeys attach a saddle, much less horseshoes? One does wish that people would construct their legends with a BIT more scientific plausibility!"
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "2264"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": true
+            },
+            "lighting_category": {
+                "S": "Fluorescent"
+            },
             "name": {
-                "S": "horse mackerel"
+                "S": "Horse Mackerel"
+            },
+            "saying": {
+                "S": "I caught a horse mackerel! Of course, Mack...er...el."
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "150"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "L24RYPaEcm9ZXkTui"
@@ -1051,20 +2455,59 @@
             "color_2": {
                 "S": "Black"
             },
+            "description": {
+                "S": "Ah, the magnificent killifish! Did you know there are over 1,000 different species? My goodness, what a family tree to keep track of! My own favorite killifish species are the mangrove, which can live on land for weeks, breathing air! And the mummichog, the first fish ever brought to space. I wonder if the killifish you've brought me is related to either of those intrepid explorers?"
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "2222"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": false
+            },
+            "lighting_category": {
+                "S": "Fluorescent"
+            },
             "name": {
-                "S": "killifish"
+                "S": "Killifish"
+            },
+            "saying": {
+                "S": "I caught a killifish! The streams are safe again."
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "300"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "ZR9dsEApEXCjtXu3k"
@@ -1080,20 +2523,59 @@
             "color_2": {
                 "S": "Black"
             },
+            "description": {
+                "S": "The king salmon didn't get its name for nothing.This stately fish can weigh in at up to 130 pounds! It's clear why it's referred to as the king of salmon. I imagine even the mightiest net can catch no more than a few at a time.I must say it's a miracle to me that you didn't get dragged out to sea by this one, wot!"
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "2243"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": true
+            },
+            "lighting_category": {
+                "S": "Fluorescent"
+            },
             "name": {
-                "S": "king salmon"
+                "S": "King Salmon"
+            },
+            "saying": {
+                "S": "WOO-HOO! I caught a King salmon! Checkmate!"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "1800"
+            },
+            "size_1": {
+                "N": "2.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "Pf5cXKo8pzdB45rAA"
@@ -1109,20 +2591,59 @@
             "color_2": {
                 "S": "White"
             },
+            "description": {
+                "S": "Koi are a variety of carp bred for their color mutations...starting more than a thousand years ago! Well, one glance at their impressive coloring tells you that the centuries of effort were worth it. And even today people still selectively breed koi in search of new color combinations! One marvels at the thought of what the koi may look like in another thousand years."
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "2220"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": true
+            },
+            "lighting_category": {
+                "S": "Fluorescent"
+            },
             "name": {
-                "S": "koi"
+                "S": "Koi"
+            },
+            "saying": {
+                "S": "I caught a koi! I don't know why it's so shy... or such a bad speller..."
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "4000"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "kNwjLeqjg8bFevfiG"
@@ -1138,20 +2659,59 @@
             "color_2": {
                 "S": "Blue"
             },
+            "description": {
+                "S": "Loaches are a large group of bottom-feeding freshwater fish. Because there are so many species, it is difficult to generalize about them all. The one thing they all have in common is perhaps their most unappealing trait; the name 'loach.' Repellent, isn't it? They should have just called it the 'cockloach' and been done with it, eh wot! Loach...loach... It just tastes terrible in the beak."
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "2228"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": false
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "loach"
+                "S": "Loach"
+            },
+            "saying": {
+                "S": "I caught a loach! It's...looking at me with reproach."
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "400"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "95yBKrQ4tdyWj4H25"
@@ -1167,20 +2727,59 @@
             "color_2": {
                 "S": "Black"
             },
+            "description": {
+                "S": "The mahi-mahi is an ocean fish known for its wide, somewhat-cute face. It can reach over six feet long. It is known by different names including \"dolphinfish,\" even though it has no relation to dolphins. They live in only in warm, tropical waters...which perhaps explains the relaxed, happy look on their faces."
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "4202"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": true
+            },
+            "lighting_category": {
+                "S": "Fluorescent"
+            },
             "name": {
-                "S": "mahi-mahi"
+                "S": "Mahi-mahi"
+            },
+            "saying": {
+                "S": "I caught a mahi-mahi! It's all mahine-mahine."
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "6000"
+            },
+            "size_1": {
+                "N": "2.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "D7gY39QDo8BBNs2Ne"
@@ -1196,20 +2795,59 @@
             "color_2": {
                 "S": "Blue"
             },
+            "description": {
+                "S": "The mitten crab was named for its impossibly adorable and fuzzy little pincers. These cute crustaceans embark on quite the journey. They're first born in brackish waters. Then they mature in freshwater. Finally, they travel to the ocean to create more mitten crabs!Hoo! How I delight in the thought of thousands of tiny mittened crabs scuttling about!"
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "2244"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": false
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "mitten crab"
+                "S": "Mitten Crab"
+            },
+            "saying": {
+                "S": "I caught a mitten crab! One more and I'm ready for winter!"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "2000"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "s2jqSYbMWBX6qCLDm"
@@ -1225,20 +2863,59 @@
             "color_2": {
                 "S": "Black"
             },
+            "description": {
+                "S": "Despite its rather frightening features, the moray eel is really a very cowardly fish. It lives its life hiding in caves, and will only attack if you're looking for a fight. You've heard of a \"bark that is worse than the bite\"? Well, the moray eel has a face that's worse than its fight!"
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "2271"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": true
+            },
+            "lighting_category": {
+                "S": "Fluorescent"
+            },
             "name": {
-                "S": "moray eel"
+                "S": "Moray Eel"
+            },
+            "saying": {
+                "S": "I caught a moray eel! When you're in love, that's a moray!"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "2000"
+            },
+            "size_1": {
+                "N": "2.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "4nLynLTMRtoqcCfh4"
@@ -1254,20 +2931,59 @@
             "color_2": {
                 "S": "Black"
             },
+            "description": {
+                "S": "Quite the catch you've brought! The stately and debonair Napoleonfish is truly something to behold. Those beady eyes! That bumpy head! That bold blue-green coloring! Alas, this quirky creature is quite endangered due to a variety of factors. Needless to say, we must do our very best to take care of our lumpy friend and its environment."
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "2260"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": true
+            },
+            "lighting_category": {
+                "S": "Fluorescent"
+            },
             "name": {
                 "S": "Napoleonfish"
+            },
+            "saying": {
+                "S": "I caught a Napoleonfish! It's not as big as it thinks!"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "10000"
+            },
+            "size_1": {
+                "N": "2.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "dm4THC3AYR6CZ8bvJ"
@@ -1283,20 +2999,59 @@
             "color_2": {
                 "S": "Black"
             },
+            "description": {
+                "S": "Hoo! Wonderful! The neon tetra is truly a marvel of the tropical-fish world. Just look at how tiny it is! And how very filled with...neon! I imagine its environment must be just as flashy as it is for it to have developed such colors. I wonder how flashy I might be, had I been raised somewhere even half as vibrant?"
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "2248"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": false
+            },
+            "lighting_category": {
+                "S": "Fluorescent"
+            },
             "name": {
-                "S": "neon tetra"
+                "S": "Neon Tetra"
+            },
+            "saying": {
+                "S": "I caught a neon tetra! Wasn't hard to track."
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "500"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "aEyRb96wcz9m8yjFN"
@@ -1312,20 +3067,59 @@
             "color_2": {
                 "S": "Blue"
             },
+            "description": {
+                "S": "Nibble fish are best known for their use in a certain skin treatment. This treatment has apparently been used for thousands of years. I have never experienced said treatment because they eat your dead skin with their little toothless mouths! Can you imagine anything so repellent?! Please don't ask me any follow-up questions. Hoo."
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "2246"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": false
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "nibble fish"
+                "S": "Nibble Fish"
+            },
+            "saying": {
+                "S": "I caught a nibble fish! Come to think of it, I could use a bite!"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "1500"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "pkPKYsMiXsTWNz4L4"
@@ -1341,20 +3135,59 @@
             "color_2": {
                 "S": "Blue"
             },
+            "description": {
+                "S": "The oarfish is a long, eel-like fish that can supposedly reach up to 36 feet in length. They appear in various legends as things like messengers of the gods. It seems to me a creature like that could explain the myth of massive, ship-crushing sea serpents. It is, of course, well documented that people tend to exaggerate the size of \"the one that got away\"."
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "2283"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": false
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "oarfish"
+                "S": "Oarfish"
+            },
+            "saying": {
+                "S": "I caught an oarfish! I hope I catch morefish!"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "9000"
+            },
+            "size_1": {
+                "N": "3.0"
+            },
+            "size_2": {
+                "N": "2.0"
             },
             "unique_entry_id": {
                 "S": "qgvEPGk759xaBqwXP"
@@ -1370,20 +3203,59 @@
             "color_2": {
                 "S": "Orange"
             },
+            "description": {
+                "S": "The ocean sunfish is a large relative of the blowfish with an unusual shape, like a fish head with a tail. They are a fairly relaxed species, often content to ride where the currents take them. This is fortunate as, otherwise, the sight of a large head coming toward you might be alarming!"
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "2278"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": false
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "ocean sunfish"
+                "S": "Ocean Sunfish"
+            },
+            "saying": {
+                "S": "I caught an ocean sunfish! Good thing I'm wearing ocean sunscreen!"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "4000"
+            },
+            "size_1": {
+                "N": "2.0"
+            },
+            "size_2": {
+                "N": "2.0"
             },
             "unique_entry_id": {
                 "S": "6BwK6LHbjFAKzgE82"
@@ -1399,20 +3271,59 @@
             "color_2": {
                 "S": "Black"
             },
+            "description": {
+                "S": "Did you know that the olive flounder is the same shape as other fish when it hatches? But as it grows, it gets both wider and flatter, and can reach some three feet long. These flat fish spend much of their lives buried under the sandy ocean floor, waiting for prey to happen by. Imagine the surprise for said prey when they strike. It would be as if your kitchen floor were to bite you."
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "2269"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": true
+            },
+            "lighting_category": {
+                "S": "Fluorescent"
+            },
             "name": {
-                "S": "olive flounder"
+                "S": "Olive Flounder"
+            },
+            "saying": {
+                "S": "I caught an olive flounder! That's not the pits!"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "800"
+            },
+            "size_1": {
+                "N": "2.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "TXSteKMHuQ9ZfqPXm"
@@ -1428,20 +3339,59 @@
             "color_2": {
                 "S": "Blue"
             },
+            "description": {
+                "S": "The pale chub is a river fish with simple back-and-silver coloring. Interestingly, the males' coloring becomes most vibrant when he's trying to attract a mate! Though normally plain, these fellows really know how to look stylish when they want to. Perhaps I could learn a thing or two from the pale chub..."
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "2216"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": false
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "pale chub"
+                "S": "Pale Chub"
+            },
+            "saying": {
+                "S": "I caught a pale chub! That name seems a bit judgy..."
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "200"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "pCn9TLap3rWiLYfnF"
@@ -1457,20 +3407,59 @@
             "color_2": {
                 "S": "Black"
             },
+            "description": {
+                "S": "The pike has always reminded me a bit of salmon, although a pike can grow rather larger. These brutes can grow to over four feet long, sometimes MUCH over! Hoo hoo! It is carnivorous and preys not only on other fish, but also mammals and some waterfowl. If I were to ever meet one in the water, I would have a most difficult time keeping my wits about me."
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "2235"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": true
+            },
+            "lighting_category": {
+                "S": "Fluorescent"
+            },
             "name": {
-                "S": "pike"
+                "S": "Pike"
+            },
+            "saying": {
+                "S": "I caught a pike! Think a swordfish would be up for a duel?"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "1800"
+            },
+            "size_1": {
+                "N": "2.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "XxrB6iKQPhBkYKaXD"
@@ -1486,20 +3475,59 @@
             "color_2": {
                 "S": "Black"
             },
+            "description": {
+                "S": "I am not exactly a fan of the piranha, despite knowing that they're mostly harmless. But those nasty, pointy teeth, Hoo. These infamous little blighters will attack when in groups. Imagine all of those hundreds of tiny teeth! To think that they're floundering about our peaceful waters, just waiting to strike. Well, never fear\u2014 I shall keep THIS one under the strictest lock and key, with nary a bathroom break allowed!"
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "2249"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": true
+            },
+            "lighting_category": {
+                "S": "Fluorescent"
+            },
             "name": {
-                "S": "piranha"
+                "S": "Piranha"
+            },
+            "saying": {
+                "S": "I caught a piranha! Sure hope it was the only one!"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "2500"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "5C59HAFxmwNSjH4Zq"
@@ -1515,20 +3543,59 @@
             "color_2": {
                 "S": "Blue"
             },
+            "description": {
+                "S": "For many, thinking of pond smelt inevitably leads to thoughts of ice fishing in frozen rivers and lakes. Ice fishing involves making a round hole in the ice, dropping in your fishing line, and...waiting. Not to rain on anyone else's idea of fun, but...well, perhaps I shouldn't say anything."
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "2236"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": false
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "pond smelt"
+                "S": "Pond Smelt"
+            },
+            "saying": {
+                "S": "I caught a pond smelt! Whoever smelt it dealt it!"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "400"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "DDb2GPEjapPmbYbWG"
@@ -1544,20 +3611,59 @@
             "color_2": {
                 "S": "Aqua"
             },
+            "description": {
+                "S": "Pop-eyed goldfish have, as the name suggests, huge round eyes. But as babies they look like other goldfish! As they grow, their eyes begin to pop out and they gain their, hoo, distinct appearance... Imagine the poor fish fancier who unknowingly bought one! Their eyes might well pop out just as far!"
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "2221"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": false
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "pop-eyed goldfish"
+                "S": "Pop-eyed Goldfish"
+            },
+            "saying": {
+                "S": "I got a pop-eyed goldfish! It looks so...surprised!"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "1300"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "RvqzuA438gGqRJ7NG"
@@ -1573,20 +3679,59 @@
             "color_2": {
                 "S": "Black"
             },
+            "description": {
+                "S": "Like its cousin the blowfish, when the puffer fish feels threatened it inflates into a spiky balloon. The biggest difference between them is that the puffer fish is not deadly poisonous like its kin. So while it may look scary, the substantially reduced risk to life and limb makes it much better company."
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "2263"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": true
+            },
+            "lighting_category": {
+                "S": "Fluorescent"
+            },
             "name": {
-                "S": "puffer fish"
+                "S": "Puffer Fish"
+            },
+            "saying": {
+                "S": "I caught a puffer fish! I thought you would be tougher, fish!"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "250"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "jNkgaybfSsv8MkaQ2"
@@ -1602,20 +3747,59 @@
             "color_2": {
                 "S": "Black"
             },
+            "description": {
+                "S": "The rainbowfish is a tropical fish known for its metallic colors and beautiful fins. There are over 50 different species, each unique and pleasing color. I must say, it does make me wish for feathers of a more exciting hue than \"underbaked brownie.\""
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "4194"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": false
+            },
+            "lighting_category": {
+                "S": "Fluorescent"
+            },
             "name": {
-                "S": "rainbowfish"
+                "S": "Rainbowfish"
+            },
+            "saying": {
+                "S": "I caught a rainbowfish! Where's my pot of goldfish?"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "800"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "XJfkdS4C2MPYiscST"
@@ -1631,20 +3815,59 @@
             "color_2": {
                 "S": "Black"
             },
+            "description": {
+                "S": "The ranchu goldfish is a charming relative of the goldfish with a bumpy head and stout, round body. They have ordinary heads when born, but develop impressive rectangular heads after about three years. Supposedly their head shape changes depending on factors like the size of their tank... So ranchu goldfish enthusiasts aim to raise perfectly shaped specimens and work hard to achieve this. Of course, no one asks the ranchu goldfish themselves what shape they want their heads to be..."
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "5254"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": false
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "ranchu goldfish"
+                "S": "Ranchu Goldfish"
+            },
+            "saying": {
+                "S": "I caught a ranchu goldfish! But I prefer balsamicu goldfish!"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "4500"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "4NE2SteWKEaBYjgWb"
@@ -1660,20 +3883,59 @@
             "color_2": {
                 "S": "Black"
             },
+            "description": {
+                "S": "The ray is an unusually shaped fish with a flat body and a long body, somewhat related to sharks. Seen from the bottom, the mouth on its stomach appears to be smiling, which is objectively adorable. But be cautious\u2014unlike most cute animals, some rays are extremely venomous. BEWARE THE SMILE."
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "2277"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": true
+            },
+            "lighting_category": {
+                "S": "Fluorescent"
+            },
             "name": {
-                "S": "ray"
+                "S": "Ray"
+            },
+            "saying": {
+                "S": "I caught a ray! A few more and I'll have a tan!"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "3000"
+            },
+            "size_1": {
+                "N": "2.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "gP5F7wWFvFqiZzuGw"
@@ -1689,20 +3951,59 @@
             "color_2": {
                 "S": "Black"
             },
+            "description": {
+                "S": "Red snapper' is the common name of dozens of fish species, and I wonder why it is so popular. Are there so many types of fish that are both a shade of red and have a tendency to snap? Were there no other names? What about 'burgundy biter'? 'Garnet grasper'? 'Puce pincher'?"
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "2267"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": true
+            },
+            "lighting_category": {
+                "S": "Fluorescent"
+            },
             "name": {
-                "S": "red snapper"
+                "S": "Red Snapper"
+            },
+            "saying": {
+                "S": "I caught a red snapper! It looks pretty dapper!"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "3000"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "iY4zfgojAfLskW4CQ"
@@ -1718,20 +4019,59 @@
             "color_2": {
                 "S": "Black"
             },
+            "description": {
+                "S": "The ribbon eel is related to the moray eel, though its bright coloration distinguishes it. It also has an unusual plant-like appendage at the tip of its nose that flutters as the creature moves. I like to think of it as having an extremely friendly nose that waves a greeting to those nearby!"
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "2272"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": true
+            },
+            "lighting_category": {
+                "S": "Fluorescent"
+            },
             "name": {
-                "S": "ribbon eel"
+                "S": "Ribbon Eel"
+            },
+            "saying": {
+                "S": "I caught a ribbon eel! Can it tie itself into a bow?"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "600"
+            },
+            "size_1": {
+                "N": "2.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "T9zeSBHpB5qyAZTxu"
@@ -1747,20 +4087,59 @@
             "color_2": {
                 "S": "Black"
             },
+            "description": {
+                "S": "What an elegant specimen you've found. The saddled bichir has a look entirely its own. They have poor eyesight, so they use their fine-tuned sniffers to seek out prey. Can you imagine relying solely on your sense of smell to find food? And if one nostril became clogged, would you be unable to tell how far away the scent was?"
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "2254"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": true
+            },
+            "lighting_category": {
+                "S": "Fluorescent"
+            },
             "name": {
-                "S": "saddled bichir"
+                "S": "Saddled Bichir"
+            },
+            "saying": {
+                "S": "Wow! A saddled bichir! And me without my tiny riding crop..."
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "4000"
+            },
+            "size_1": {
+                "N": "2.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "bcTmnwZxrw2iJsQmf"
@@ -1776,20 +4155,59 @@
             "color_2": {
                 "S": "Black"
             },
+            "description": {
+                "S": "Ah, salmon! Did you know their coloration is due specifically to their diet? Indeed, this is the case! The more they fill their diet with crustaceans such as krill and shrimp, the deeper shade of pink they are. If they ate a bushel of carrots, might they turn orange?"
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "2242"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": true
+            },
+            "lighting_category": {
+                "S": "Fluorescent"
+            },
             "name": {
-                "S": "salmon"
+                "S": "Salmon"
+            },
+            "saying": {
+                "S": "I caught a salmon! It's all upstream from here!"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "700"
+            },
+            "size_1": {
+                "N": "2.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "iwXhnZcSezNxqdNQf"
@@ -1805,20 +4223,59 @@
             "color_2": {
                 "S": "Black"
             },
+            "description": {
+                "S": "As you might expect from the name, the saw shark is a shark with a head that resembles a saw. This unusual appendage is used both to dig potential prey out of the sand and as a weapon against said prey. Given that, it seems like a more appropriate name would have been \"shovel-sword shark,\" eh wot?"
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "2281"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": true
+            },
+            "lighting_category": {
+                "S": "Fluorescent"
+            },
             "name": {
-                "S": "saw shark"
+                "S": "Saw Shark"
+            },
+            "saying": {
+                "S": "I caught a saw shark! You could call it a sea saw!"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "12000"
+            },
+            "size_1": {
+                "N": "2.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "tsrT7a8cbtwZrmJTz"
@@ -1834,20 +4291,59 @@
             "color_2": {
                 "S": "Black"
             },
+            "description": {
+                "S": "Sea bass is a name given to a variety of different species of saltwater fish. They are a varied bunch with some as small as four inches and some as staggeringly ginormous as eight feet! 'Sea bass' is a bit pedestrian though. Many species have better names, such as 'redbanded perch.' Or the delightfully whimsical dusky grouper! Or the potato cod! WILL NO ONE THINK OF THE PINK MAOMAO?!"
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "2266"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": true
+            },
+            "lighting_category": {
+                "S": "Fluorescent"
+            },
             "name": {
-                "S": "sea bass"
+                "S": "Sea Bass"
+            },
+            "saying": {
+                "S": "I caught a sea bass! No, wait- it's at least a C+!"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "400"
+            },
+            "size_1": {
+                "N": "2.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "LkA5hzibm6uiHDB9g"
@@ -1863,20 +4359,59 @@
             "color_2": {
                 "S": "Black"
             },
+            "description": {
+                "S": "Such mystery! Such grace! Did you know that the sea butterfly's scientific name is Thecosomata? A very rough translation of that is 'shell body.' Indeed, this illustrious creature is related to snails! However, it reminds me much more of an elegant feathered friend, the way it flies through the water. With such grace in flying, one shouldn't wonder if it's related to the owl, hoo hoo!"
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "2255"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": false
+            },
+            "lighting_category": {
+                "S": "Fluorescent"
+            },
             "name": {
-                "S": "sea butterfly"
+                "S": "Sea Butterfly"
+            },
+            "saying": {
+                "S": "I caught a sea butterfly! Try not to confuse it for a sea moth!"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "1000"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "kd5beizyQGeyjeM79"
@@ -1892,20 +4427,59 @@
             "color_2": {
                 "S": "Black"
             },
+            "description": {
+                "S": "Ah, a favorite of mine, to be sure! The sea horse is such a very unique creature and is indeed a fish! Though, as far as fish go, sea horses are not great swimmers. The sea horse, you see, has but a wee fin on its back, which propels it through water rather poorly. Thus these fish are often found using their prehensile tails to hold tight in amongst the sea grass. And here's one final fact for you... Sea horses have no stomach and so must constantly feed to stay alive! Indeed, the life of a land horse sounds far easier than that of the hardworking horse of the sea."
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "2256"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": false
+            },
+            "lighting_category": {
+                "S": "Fluorescent"
+            },
             "name": {
-                "S": "sea horse"
+                "S": "Sea Horse"
+            },
+            "saying": {
+                "S": "I caught a sea horse! But...where's its sea jockey?"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "1100"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "Pw5oZqC29NWEGRfyS"
@@ -1921,20 +4495,59 @@
             "color_2": {
                 "S": "Black"
             },
+            "description": {
+                "S": "The snapping turtle is a large turtle known for its crocodile-like body and long claws. No, wait\u2014it is better known for its ferocious bite, which it can deliver with shocking speed for a turtle. NO, WAIT\u2014it is BEST known for that time one chased me across a parking lot and I had to climb on top of a car."
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "4192"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": false
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "snapping turtle"
+                "S": "Snapping Turtle"
+            },
+            "saying": {
+                "S": "I caught a snapping turtle! How can it snap without fingers?"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "5000"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "SJa3LLde3Yuz4H3D7"
@@ -1950,20 +4563,59 @@
             "color_2": {
                 "S": "Black"
             },
+            "description": {
+                "S": "The soft-shelled turtle is not one to shy away from biting when provoked. In addition to its powerful bite, this little critter has the ability to breathe both above and below water! It has an unusually long neck which it uses for both breathing and biting. Come to think of it, how did you manage to avoid being bitten? Well, it's a fearsome critter, but just look at that face! Rather silly, wot?"
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "2224"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": false
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "soft-shelled turtle"
+                "S": "Soft-shelled Turtle"
+            },
+            "saying": {
+                "S": "I caught a soft-shelled turtle! It's more sensitive than other turtles.; I caught a soft-shelled turtle! I should take a shellfie!"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "3750"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "izuY2f4GtEGT3BtuR"
@@ -1979,20 +4631,59 @@
             "color_2": {
                 "S": "Black"
             },
+            "description": {
+                "S": "Well, first off, squids are members of the mollusk family, just like the octopus. Many mollusks like snails and clams have shells, but the squid's body is almost completely soft. The exception is a long, narrow bit of hard material going through its main body - the last remnant of its shell. Of course, having your shell INSIDE is not a best practice. Perhaps they lost the owner's manual!"
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "2270"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": true
+            },
+            "lighting_category": {
+                "S": "Fluorescent"
+            },
             "name": {
-                "S": "squid"
+                "S": "Squid"
+            },
+            "saying": {
+                "S": "I caught a squid! It's off the hook!; I caught a squid! I had an inkling I might!; I caught a squid! Do they...not actually \"bloop\"?"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "500"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "qxHJ6BGgyQujkC28w"
@@ -2008,20 +4699,59 @@
             "color_2": {
                 "S": "Black"
             },
+            "description": {
+                "S": "The stringfish grows slowly, but also lives quite a long time for a fish, with up to 15 years being typical. Consequently, while it takes a while, they can get quite large-perhaps even up to six feet long! The stringfish is perhaps the best embodiment in the fish world of 'slow and steady wins the race'"
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "2241"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": true
+            },
+            "lighting_category": {
+                "S": "Fluorescent"
+            },
             "name": {
-                "S": "stringfish"
+                "S": "Stringfish"
+            },
+            "saying": {
+                "S": "OH MY GOSH! I caught a stringfish! Five more and I'll have a guitarfish!"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "15000"
+            },
+            "size_1": {
+                "N": "2.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "APXg8kSzjcmoGGWSP"
@@ -2037,20 +4767,59 @@
             "color_2": {
                 "S": "Black"
             },
+            "description": {
+                "S": "The sturgeon is a large and long-lived fish which has changed little in the last 300 million years. One curious behavior of theirs is leaping high out of the water and falling back in on their sides. The smacking sounds of their re-entry can be heard for up to half a mile away, likely more underwater! No one knows why they do it, but I like to think it's their impression of bread popping out of a toaster!"
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "4189"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": true
+            },
+            "lighting_category": {
+                "S": "Fluorescent"
+            },
             "name": {
-                "S": "sturgeon"
+                "S": "Sturgeon"
+            },
+            "saying": {
+                "S": "I caught a sturgeon! Wonder if it can perform sturgery..."
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "10000"
+            },
+            "size_1": {
+                "N": "2.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "XabKYtzYDNSNrFvpw"
@@ -2066,20 +4835,59 @@
             "color_2": {
                 "S": "Black"
             },
+            "description": {
+                "S": "The suckerfish is a curious fish that likes to attach itself with its sucker mouth to larger marine animals. The benefit to the suckerfish is that it gets to eat smaller parasites and dead skin off the host's body. Amusingly, some people have used suckerfish on cords to catch large turtles with the fish's own suction! I imagine this practice is the cause of some awkward conversations between fish and turtle, eh wot"
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "4203"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": true
+            },
+            "lighting_category": {
+                "S": "Fluorescent"
+            },
             "name": {
-                "S": "suckerfish"
+                "S": "Suckerfish"
+            },
+            "saying": {
+                "S": "I caught a suckerfish! I thought it was a shark! Oh, wait - now I get it. \"Sucker\"..."
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "1500"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "FPpwmMDn9rYAJazyS"
@@ -2095,20 +4903,59 @@
             "color_2": {
                 "S": "Black"
             },
+            "description": {
+                "S": "Hoo! Careful, now! These fish are particularly dangerous, despite their seemingly docile appearance. With its saturated blue and yellow tones, the surgeonfish is quite breathtaking. It's got to keep up with all the other vibrant fish that live in the coral too, I wager. Quite the competition! Its spine is sharp as a blade, so care must be taken when handling these beauties..."
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "2258"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": false
+            },
+            "lighting_category": {
+                "S": "Fluorescent"
+            },
             "name": {
-                "S": "surgeonfish"
+                "S": "Surgeonfish"
+            },
+            "saying": {
+                "S": "I caught a surgeonfish! Scalpel! Forceps! Fish hook!"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "1000"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "s7iioofF5C7PzCZyF"
@@ -2124,20 +4971,59 @@
             "color_2": {
                 "S": "Black"
             },
+            "description": {
+                "S": "Sweetfish are the damp heralds of summer! These slippery fellows appear in numbers when it warms up. They hatch in a river, then swim to the ocean. Once mature, they return to the river where they were born. But when they return depends on the river temperature\u2014 if it's too cold their fishing season will start later. Some even say summer can't start without sweetfish despite the KEY role played by the earth's axial tilt!"
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "2237"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": true
+            },
+            "lighting_category": {
+                "S": "Fluorescent"
+            },
             "name": {
-                "S": "sweetfish"
+                "S": "Sweetfish"
+            },
+            "saying": {
+                "S": "I caught a sweetfish! Hope it's not artificially sweet!"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "900"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "dWgg2bjCicuiZjXW6"
@@ -2153,20 +5039,59 @@
             "color_2": {
                 "S": "Blue"
             },
+            "description": {
+                "S": "Undoubtedly you know that tadpoles eventually turn into frogs. I must say, I find them impossibly adorable with their squiggly little tails. But even cuter... when they sprout legs! Why, we can witness accelerated evolution in these squirmy little ones. Hoo, it makes me so emotional!"
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "2225"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": false
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "tadpole"
+                "S": "Tadpole"
+            },
+            "saying": {
+                "S": "I caught a tadpole... It's just a tad small."
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "100"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "rb8MsjWopKYWuQK8s"
@@ -2182,20 +5107,59 @@
             "color_2": {
                 "S": "Black"
             },
+            "description": {
+                "S": "Wherever the waters are warm, the tilapia can be found. It is a highly adaptable river fish. They mainly feed on algae, but they will also eat larvae and dead fish\u2014 or whatever fits in their mouths. I will confess that, as a growing owlet, I similarly defined food as 'anything that fits in my beak.'"
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "4190"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": true
+            },
+            "lighting_category": {
+                "S": "Fluorescent"
+            },
             "name": {
-                "S": "tilapia"
+                "S": "Tilapia"
+            },
+            "saying": {
+                "S": "I caught a tilapia! It makes me happy-a!"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "800"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "as78rnkwY3ahrTkBY"
@@ -2211,20 +5175,59 @@
             "color_2": {
                 "S": "Black"
             },
+            "description": {
+                "S": "The tuna is a large ocean fish that can reach upwards of nine feet long. Besides its great size, it's notable for continuing to swim even when it's sleeping! Well, to be fair, if it doesn't keep swimming, it won't be able to breathe and will of course die... But sleep should be restful, eh wot! If I were the tuna I would feel very hard done by!"
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "2274"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": true
+            },
+            "lighting_category": {
+                "S": "Fluorescent"
+            },
             "name": {
-                "S": "tuna"
+                "S": "Tuna"
+            },
+            "saying": {
+                "S": "I caught a tuna! It's a little off-key!"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "7000"
+            },
+            "size_1": {
+                "N": "2.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "4PnGXx9DSb866AeCM"
@@ -2240,20 +5243,59 @@
             "color_2": {
                 "S": "Blue"
             },
+            "description": {
+                "S": "The mighty whale shark is the largest species of fish in the world with specimens up to 60 feet long! Unlike many of their kin in the shark family, whale sharks are nonviolent, eating only plankton and such. They grow slowly and live long, relaxed lives of filter feeding and leisure in warm waters. So if you ever have to choose a fish as a roommate, you could do worse than the whale shark. Unless you can't swim."
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "2282"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": false
+            },
+            "lighting_category": {
+                "S": "No lighting"
+            },
             "name": {
-                "S": "whale shark"
+                "S": "Whale Shark"
+            },
+            "saying": {
+                "S": "Thar she blows! I caught a whale shark! I'm tellin' ya, it was thiiiiiiiiiiiiiiiiiiiis big!"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "13000"
+            },
+            "size_1": {
+                "N": "3.0"
+            },
+            "size_2": {
+                "N": "2.0"
             },
             "unique_entry_id": {
                 "S": "r3RAtJsXENwnFvQh7"
@@ -2269,20 +5311,59 @@
             "color_2": {
                 "S": "Black"
             },
+            "description": {
+                "S": "The yellow perch is certainly worth squawking about. I find it a sight to behold! That jagged dorsal fin! Those brilliant stripes! Those glorious colours! Hoo, truly it is quite the specimen. I would be thrilled to witness it firsthand in its natural environment... But the yellow perch's peak season is winter, I'm afraid. (So very afraid... of winter's biting chill...)"
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "2233"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": true
+            },
+            "lighting_category": {
+                "S": "Fluorescent"
+            },
             "name": {
-                "S": "yellow perch"
+                "S": "Yellow Perch"
+            },
+            "saying": {
+                "S": "I caught a yellow perch! Those yellow birds have to sit somewhere!"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "300"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "bLgE5dicZniF5zZDW"
@@ -2298,20 +5379,59 @@
             "color_2": {
                 "S": "Black"
             },
+            "description": {
+                "S": "The sheer brilliance and diversity found in the aquatic underworld never cease to amaze me. This zebra turkeyfish is as stunning to gaze upon as it is deadly. Those spines that are part of its defining physique are chock-full of venom. Fortunately, zebra turkeyfish are not susceptible to another's venom. Though solitary, I imagine they give one another a mean fin bump when passing each other by."
+            },
+            "hha_category": {
+                "S": "Pet"
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "71"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "2261"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_surface": {
+                "BOOL": true
+            },
+            "lighting_category": {
+                "S": "Fluorescent"
+            },
             "name": {
-                "S": "zebra turkeyfish"
+                "S": "Zebra Turkeyfish"
+            },
+            "saying": {
+                "S": "I caught a zebra turkeyfish! Land, air, water--make up your mind!"
             },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "500"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
             },
             "unique_entry_id": {
                 "S": "h7fa7Fh3Ay7vAxgE2"
