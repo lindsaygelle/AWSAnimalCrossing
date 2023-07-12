@@ -2,7 +2,7 @@
 from abc import ABC, abstractmethod
 from functools import reduce
 from typing import Any, AnyStr, Dict, List, Optional, TypedDict, Union
-from boto3.dynamodb.conditions import Key, And
+from boto3.dynamodb.conditions import And, Attr
 import boto3
 
 
@@ -178,23 +178,32 @@ dynamodb: DynamoDBResource = boto3.resource("dynamodb")
 
 def handler(event: Event, _: Context) -> Response:
     table: DynamoDBResourceTable = dynamodb.Table(event["body"]["table"])
-    response: DynamoDBResourceTableScanResponse = table.scan(
-        FilterExpression=reduce(
+    filter_expression = None
+
+    if event.get("queryStringParameters"):
+        filter_expression = reduce(
             And,
-            (
-                [
-                    Key(k).eq(int(v) if v.isnumeric() else v)
-                    for k, v in event["queryStringParameters"].items()
-                ]
-            ),
+            [
+                Attr(k).eq(int(v) if v.isnumeric() else v)
+                for k, v in event["queryStringParameters"].items()
+            ],
         )
-    )
+
+    if filter_expression:
+        response: DynamoDBResourceTableScanResponse = table.scan(
+            FilterExpression=filter_expression
+        )
+    else:
+        response: DynamoDBResourceTableScanResponse = table.scan()
+
     items: List[Dict[str, Any]] = response["Items"]
+
     while "LastEvaluatedKey" in response:
         response: DynamoDBResourceTableScanResponse = table.scan(
             ExclusiveStartKey=response["LastEvaluatedKey"]
         )
         items.extend(response["Items"])
+
     return Response(
         body=items,
         headers={"Content-Type": "application/json"},
