@@ -1,14 +1,14 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 17,
-    "minProperties": 17,
+    "maxProperties": 26,
+    "minProperties": 26,
     "properties": {
         "buy_currency": {
             "maxLength": 5,
             "minLength": 5,
             "type": [
-                "string",
-                "null"
+                "null",
+                "string"
             ]
         },
         "buy_price": {
@@ -17,8 +17,8 @@
             "maximum": 4300,
             "minimum": 400,
             "type": [
-                "null",
-                "integer"
+                "integer",
+                "null"
             ]
         },
         "color_1": {
@@ -39,8 +39,8 @@
             "maxLength": 4,
             "minLength": 4,
             "type": [
-                "string",
-                "null"
+                "null",
+                "string"
             ]
         },
         "exchange_price": {
@@ -49,8 +49,30 @@
             "maximum": 3900,
             "minimum": 360,
             "type": [
-                "null",
-                "integer"
+                "integer",
+                "null"
+            ]
+        },
+        "gender": {
+            "maxLength": 7,
+            "minLength": 4,
+            "type": [
+                "string"
+            ]
+        },
+        "hha_category": {
+            "type": [
+                "null"
+            ]
+        },
+        "hha_concept_1": {
+            "type": [
+                "null"
+            ]
+        },
+        "hha_concept_2": {
+            "type": [
+                "null"
             ]
         },
         "hha_points": {
@@ -62,6 +84,16 @@
                 "integer"
             ]
         },
+        "hha_series": {
+            "type": [
+                "null"
+            ]
+        },
+        "hha_set": {
+            "type": [
+                "null"
+            ]
+        },
         "internal_id": {
             "exclusiveMaximum": false,
             "exclusiveMinimum": false,
@@ -71,12 +103,17 @@
                 "integer"
             ]
         },
-        "is_craftable": {
+        "internal_label": {
             "type": [
-                "boolean"
+                "null"
             ]
         },
-        "is_equipment": {
+        "internal_name": {
+            "type": [
+                "null"
+            ]
+        },
+        "is_craftable": {
             "type": [
                 "boolean"
             ]
@@ -109,6 +146,24 @@
                 "integer"
             ]
         },
+        "size_1": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 1.0,
+            "minimum": 1.0,
+            "type": [
+                "number"
+            ]
+        },
+        "size_2": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 1.0,
+            "minimum": 1.0,
+            "type": [
+                "number"
+            ]
+        },
         "style_1": {
             "maxLength": 8,
             "minLength": 4,
@@ -120,8 +175,8 @@
             "maxLength": 8,
             "minLength": 4,
             "type": [
-                "string",
-                "null"
+                "null",
+                "string"
             ]
         },
         "unique_entry_id": {
@@ -139,14 +194,23 @@
         "color_2",
         "exchange_currency",
         "exchange_price",
+        "gender",
+        "hha_category",
+        "hha_concept_1",
+        "hha_concept_2",
         "hha_points",
+        "hha_series",
+        "hha_set",
         "internal_id",
+        "internal_label",
+        "internal_name",
         "is_craftable",
-        "is_equipment",
         "is_unlocked",
         "name",
         "sell_currency",
         "sell_price",
+        "size_1",
+        "size_2",
         "style_1",
         "style_2",
         "unique_entry_id"

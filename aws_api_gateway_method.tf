@@ -7,8 +7,13 @@ resource "aws_api_gateway_method" "achievement_GET" {
   resource_id          = aws_api_gateway_resource.achievement.id
   rest_api_id          = aws_api_gateway_resource.achievement.rest_api_id
   request_models       = {}
-  request_parameters   = {}
-  request_validator_id = aws_api_gateway_request_validator.request_body.id
+  request_parameters = {
+    "method.request.querystring.internal_id"    = false
+    "method.request.querystring.internal_label" = false
+    "method.request.querystring.internal_name"  = false
+    "method.request.querystring.is_sequential"  = false
+  }
+  request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
 
 // achievement
@@ -45,8 +50,14 @@ resource "aws_api_gateway_method" "card_GET" {
   resource_id          = aws_api_gateway_resource.card.id
   rest_api_id          = aws_api_gateway_resource.card.rest_api_id
   request_models       = {}
-  request_parameters   = {}
-  request_validator_id = aws_api_gateway_request_validator.request_body.id
+  request_parameters = {
+    "method.request.querystring.buy_currency"   = false
+    "method.request.querystring.buy_price"      = false
+    "method.request.querystring.internal_id"    = false
+    "method.request.querystring.internal_label" = false
+    "method.request.querystring.internal_name"  = false
+  }
+  request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
 
 // card
@@ -83,8 +94,34 @@ resource "aws_api_gateway_method" "clothing_accessory_GET" {
   resource_id          = aws_api_gateway_resource.clothing_accessory.id
   rest_api_id          = aws_api_gateway_resource.clothing_accessory.rest_api_id
   request_models       = {}
-  request_parameters   = {}
-  request_validator_id = aws_api_gateway_request_validator.request_body.id
+  request_parameters = {
+    "method.request.querystring.buy_currency"      = false
+    "method.request.querystring.buy_price"         = false
+    "method.request.querystring.color_1"           = false
+    "method.request.querystring.color_2"           = false
+    "method.request.querystring.exchange_currency" = false
+    "method.request.querystring.exchange_price"    = false
+    "method.request.querystring.gender"            = false
+    "method.request.querystring.hha_category"      = false
+    "method.request.querystring.hha_concept_1"     = false
+    "method.request.querystring.hha_concept_2"     = false
+    "method.request.querystring.hha_points"        = false
+    "method.request.querystring.hha_series"        = false
+    "method.request.querystring.hha_set"           = false
+    "method.request.querystring.internal_id"       = false
+    "method.request.querystring.internal_label"    = false
+    "method.request.querystring.internal_name"     = false
+    "method.request.querystring.is_craftable"      = false
+    "method.request.querystring.is_unlocked"       = false
+    "method.request.querystring.sell_currency"     = false
+    "method.request.querystring.sell_price"        = false
+    "method.request.querystring.size_1"            = false
+    "method.request.querystring.size_2"            = false
+    "method.request.querystring.style_1"           = false
+    "method.request.querystring.style_2"           = false
+    "method.request.querystring.villager_gender"   = false
+  }
+  request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
 
 // clothing_accessory
@@ -121,8 +158,33 @@ resource "aws_api_gateway_method" "clothing_bag_GET" {
   resource_id          = aws_api_gateway_resource.clothing_bag.id
   rest_api_id          = aws_api_gateway_resource.clothing_bag.rest_api_id
   request_models       = {}
-  request_parameters   = {}
-  request_validator_id = aws_api_gateway_request_validator.request_body.id
+  request_parameters = {
+    "method.request.querystring.buy_currency"      = false
+    "method.request.querystring.buy_price"         = false
+    "method.request.querystring.color_1"           = false
+    "method.request.querystring.color_2"           = false
+    "method.request.querystring.exchange_currency" = false
+    "method.request.querystring.exchange_price"    = false
+    "method.request.querystring.gender"            = false
+    "method.request.querystring.hha_category"      = false
+    "method.request.querystring.hha_concept_1"     = false
+    "method.request.querystring.hha_concept_2"     = false
+    "method.request.querystring.hha_points"        = false
+    "method.request.querystring.hha_series"        = false
+    "method.request.querystring.hha_set"           = false
+    "method.request.querystring.internal_id"       = false
+    "method.request.querystring.internal_label"    = false
+    "method.request.querystring.internal_name"     = false
+    "method.request.querystring.is_craftable"      = false
+    "method.request.querystring.is_unlocked"       = false
+    "method.request.querystring.sell_currency"     = false
+    "method.request.querystring.sell_price"        = false
+    "method.request.querystring.size_1"            = false
+    "method.request.querystring.size_2"            = false
+    "method.request.querystring.style_1"           = false
+    "method.request.querystring.style_2"           = false
+  }
+  request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
 
 // clothing_bag
@@ -159,8 +221,33 @@ resource "aws_api_gateway_method" "clothing_bottom_GET" {
   resource_id          = aws_api_gateway_resource.clothing_bottom.id
   rest_api_id          = aws_api_gateway_resource.clothing_bottom.rest_api_id
   request_models       = {}
-  request_parameters   = {}
-  request_validator_id = aws_api_gateway_request_validator.request_body.id
+  request_parameters = {
+    "method.request.querystring.buy_currency"      = false
+    "method.request.querystring.buy_price"         = false
+    "method.request.querystring.color_1"           = false
+    "method.request.querystring.color_2"           = false
+    "method.request.querystring.exchange_currency" = false
+    "method.request.querystring.exchange_price"    = false
+    "method.request.querystring.gender"            = false
+    "method.request.querystring.hha_category"      = false
+    "method.request.querystring.hha_concept_1"     = false
+    "method.request.querystring.hha_concept_2"     = false
+    "method.request.querystring.hha_points"        = false
+    "method.request.querystring.hha_series"        = false
+    "method.request.querystring.hha_set"           = false
+    "method.request.querystring.internal_id"       = false
+    "method.request.querystring.internal_label"    = false
+    "method.request.querystring.internal_name"     = false
+    "method.request.querystring.is_craftable"      = false
+    "method.request.querystring.is_unlocked"       = false
+    "method.request.querystring.sell_currency"     = false
+    "method.request.querystring.sell_price"        = false
+    "method.request.querystring.size_1"            = false
+    "method.request.querystring.size_2"            = false
+    "method.request.querystring.style_1"           = false
+    "method.request.querystring.style_2"           = false
+  }
+  request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
 
 // clothing_bottom
@@ -197,8 +284,34 @@ resource "aws_api_gateway_method" "clothing_dress_up_GET" {
   resource_id          = aws_api_gateway_resource.clothing_dress_up.id
   rest_api_id          = aws_api_gateway_resource.clothing_dress_up.rest_api_id
   request_models       = {}
-  request_parameters   = {}
-  request_validator_id = aws_api_gateway_request_validator.request_body.id
+  request_parameters = {
+    "method.request.querystring.buy_currency"      = false
+    "method.request.querystring.buy_price"         = false
+    "method.request.querystring.color_1"           = false
+    "method.request.querystring.color_2"           = false
+    "method.request.querystring.exchange_currency" = false
+    "method.request.querystring.exchange_price"    = false
+    "method.request.querystring.gender"            = false
+    "method.request.querystring.hha_category"      = false
+    "method.request.querystring.hha_concept_1"     = false
+    "method.request.querystring.hha_concept_2"     = false
+    "method.request.querystring.hha_points"        = false
+    "method.request.querystring.hha_series"        = false
+    "method.request.querystring.hha_set"           = false
+    "method.request.querystring.internal_id"       = false
+    "method.request.querystring.internal_label"    = false
+    "method.request.querystring.internal_name"     = false
+    "method.request.querystring.is_craftable"      = false
+    "method.request.querystring.is_unlocked"       = false
+    "method.request.querystring.sell_currency"     = false
+    "method.request.querystring.sell_price"        = false
+    "method.request.querystring.size_1"            = false
+    "method.request.querystring.size_2"            = false
+    "method.request.querystring.style_1"           = false
+    "method.request.querystring.style_2"           = false
+    "method.request.querystring.villager_gender"   = false
+  }
+  request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
 
 // clothing_dress_up
@@ -235,8 +348,34 @@ resource "aws_api_gateway_method" "clothing_headwear_GET" {
   resource_id          = aws_api_gateway_resource.clothing_headwear.id
   rest_api_id          = aws_api_gateway_resource.clothing_headwear.rest_api_id
   request_models       = {}
-  request_parameters   = {}
-  request_validator_id = aws_api_gateway_request_validator.request_body.id
+  request_parameters = {
+    "method.request.querystring.buy_currency"      = false
+    "method.request.querystring.buy_price"         = false
+    "method.request.querystring.color_1"           = false
+    "method.request.querystring.color_2"           = false
+    "method.request.querystring.exchange_currency" = false
+    "method.request.querystring.exchange_price"    = false
+    "method.request.querystring.gender"            = false
+    "method.request.querystring.hha_category"      = false
+    "method.request.querystring.hha_concept_1"     = false
+    "method.request.querystring.hha_concept_2"     = false
+    "method.request.querystring.hha_points"        = false
+    "method.request.querystring.hha_series"        = false
+    "method.request.querystring.hha_set"           = false
+    "method.request.querystring.internal_id"       = false
+    "method.request.querystring.internal_label"    = false
+    "method.request.querystring.internal_name"     = false
+    "method.request.querystring.is_craftable"      = false
+    "method.request.querystring.is_unlocked"       = false
+    "method.request.querystring.sell_currency"     = false
+    "method.request.querystring.sell_price"        = false
+    "method.request.querystring.size_1"            = false
+    "method.request.querystring.size_2"            = false
+    "method.request.querystring.style_1"           = false
+    "method.request.querystring.style_2"           = false
+    "method.request.querystring.villager_gender"   = false
+  }
+  request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
 
 // clothing_headwear
@@ -273,8 +412,33 @@ resource "aws_api_gateway_method" "clothing_other_GET" {
   resource_id          = aws_api_gateway_resource.clothing_other.id
   rest_api_id          = aws_api_gateway_resource.clothing_other.rest_api_id
   request_models       = {}
-  request_parameters   = {}
-  request_validator_id = aws_api_gateway_request_validator.request_body.id
+  request_parameters = {
+    "method.request.querystring.buy_currency"      = false
+    "method.request.querystring.buy_price"         = false
+    "method.request.querystring.color_1"           = false
+    "method.request.querystring.color_2"           = false
+    "method.request.querystring.exchange_currency" = false
+    "method.request.querystring.exchange_price"    = false
+    "method.request.querystring.gender"            = false
+    "method.request.querystring.hha_category"      = false
+    "method.request.querystring.hha_concept_1"     = false
+    "method.request.querystring.hha_concept_2"     = false
+    "method.request.querystring.hha_points"        = false
+    "method.request.querystring.hha_series"        = false
+    "method.request.querystring.hha_set"           = false
+    "method.request.querystring.internal_id"       = false
+    "method.request.querystring.internal_label"    = false
+    "method.request.querystring.internal_name"     = false
+    "method.request.querystring.is_craftable"      = false
+    "method.request.querystring.is_unlocked"       = false
+    "method.request.querystring.sell_currency"     = false
+    "method.request.querystring.sell_price"        = false
+    "method.request.querystring.size_1"            = false
+    "method.request.querystring.size_2"            = false
+    "method.request.querystring.style_1"           = false
+    "method.request.querystring.style_2"           = false
+  }
+  request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
 
 // clothing_other
@@ -311,8 +475,33 @@ resource "aws_api_gateway_method" "clothing_shoe_GET" {
   resource_id          = aws_api_gateway_resource.clothing_shoe.id
   rest_api_id          = aws_api_gateway_resource.clothing_shoe.rest_api_id
   request_models       = {}
-  request_parameters   = {}
-  request_validator_id = aws_api_gateway_request_validator.request_body.id
+  request_parameters = {
+    "method.request.querystring.buy_currency"      = false
+    "method.request.querystring.buy_price"         = false
+    "method.request.querystring.color_1"           = false
+    "method.request.querystring.color_2"           = false
+    "method.request.querystring.exchange_currency" = false
+    "method.request.querystring.exchange_price"    = false
+    "method.request.querystring.gender"            = false
+    "method.request.querystring.hha_category"      = false
+    "method.request.querystring.hha_concept_1"     = false
+    "method.request.querystring.hha_concept_2"     = false
+    "method.request.querystring.hha_points"        = false
+    "method.request.querystring.hha_series"        = false
+    "method.request.querystring.hha_set"           = false
+    "method.request.querystring.internal_id"       = false
+    "method.request.querystring.internal_label"    = false
+    "method.request.querystring.internal_name"     = false
+    "method.request.querystring.is_craftable"      = false
+    "method.request.querystring.is_unlocked"       = false
+    "method.request.querystring.sell_currency"     = false
+    "method.request.querystring.sell_price"        = false
+    "method.request.querystring.size_1"            = false
+    "method.request.querystring.size_2"            = false
+    "method.request.querystring.style_1"           = false
+    "method.request.querystring.style_2"           = false
+  }
+  request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
 
 // clothing_shoe
@@ -349,8 +538,33 @@ resource "aws_api_gateway_method" "clothing_sock_GET" {
   resource_id          = aws_api_gateway_resource.clothing_sock.id
   rest_api_id          = aws_api_gateway_resource.clothing_sock.rest_api_id
   request_models       = {}
-  request_parameters   = {}
-  request_validator_id = aws_api_gateway_request_validator.request_body.id
+  request_parameters = {
+    "method.request.querystring.buy_currency"      = false
+    "method.request.querystring.buy_price"         = false
+    "method.request.querystring.color_1"           = false
+    "method.request.querystring.color_2"           = false
+    "method.request.querystring.exchange_currency" = false
+    "method.request.querystring.exchange_price"    = false
+    "method.request.querystring.gender"            = false
+    "method.request.querystring.hha_category"      = false
+    "method.request.querystring.hha_concept_1"     = false
+    "method.request.querystring.hha_concept_2"     = false
+    "method.request.querystring.hha_points"        = false
+    "method.request.querystring.hha_series"        = false
+    "method.request.querystring.hha_set"           = false
+    "method.request.querystring.internal_id"       = false
+    "method.request.querystring.internal_label"    = false
+    "method.request.querystring.internal_name"     = false
+    "method.request.querystring.is_craftable"      = false
+    "method.request.querystring.is_unlocked"       = false
+    "method.request.querystring.sell_currency"     = false
+    "method.request.querystring.sell_price"        = false
+    "method.request.querystring.size_1"            = false
+    "method.request.querystring.size_2"            = false
+    "method.request.querystring.style_1"           = false
+    "method.request.querystring.style_2"           = false
+  }
+  request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
 
 // clothing_sock
@@ -387,8 +601,34 @@ resource "aws_api_gateway_method" "clothing_top_GET" {
   resource_id          = aws_api_gateway_resource.clothing_top.id
   rest_api_id          = aws_api_gateway_resource.clothing_top.rest_api_id
   request_models       = {}
-  request_parameters   = {}
-  request_validator_id = aws_api_gateway_request_validator.request_body.id
+  request_parameters = {
+    "method.request.querystring.buy_currency"      = false
+    "method.request.querystring.buy_price"         = false
+    "method.request.querystring.color_1"           = false
+    "method.request.querystring.color_2"           = false
+    "method.request.querystring.exchange_currency" = false
+    "method.request.querystring.exchange_price"    = false
+    "method.request.querystring.gender"            = false
+    "method.request.querystring.hha_category"      = false
+    "method.request.querystring.hha_concept_1"     = false
+    "method.request.querystring.hha_concept_2"     = false
+    "method.request.querystring.hha_points"        = false
+    "method.request.querystring.hha_series"        = false
+    "method.request.querystring.hha_set"           = false
+    "method.request.querystring.internal_id"       = false
+    "method.request.querystring.internal_label"    = false
+    "method.request.querystring.internal_name"     = false
+    "method.request.querystring.is_craftable"      = false
+    "method.request.querystring.is_unlocked"       = false
+    "method.request.querystring.sell_currency"     = false
+    "method.request.querystring.sell_price"        = false
+    "method.request.querystring.size_1"            = false
+    "method.request.querystring.size_2"            = false
+    "method.request.querystring.style_1"           = false
+    "method.request.querystring.style_2"           = false
+    "method.request.querystring.villager_gender"   = false
+  }
+  request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
 
 // clothing_top
@@ -425,8 +665,32 @@ resource "aws_api_gateway_method" "clothing_umbrella_GET" {
   resource_id          = aws_api_gateway_resource.clothing_umbrella.id
   rest_api_id          = aws_api_gateway_resource.clothing_umbrella.rest_api_id
   request_models       = {}
-  request_parameters   = {}
-  request_validator_id = aws_api_gateway_request_validator.request_body.id
+  request_parameters = {
+    "method.request.querystring.buy_currency"      = false
+    "method.request.querystring.buy_price"         = false
+    "method.request.querystring.color_1"           = false
+    "method.request.querystring.color_2"           = false
+    "method.request.querystring.exchange_currency" = false
+    "method.request.querystring.exchange_price"    = false
+    "method.request.querystring.gender"            = false
+    "method.request.querystring.hha_category"      = false
+    "method.request.querystring.hha_concept_1"     = false
+    "method.request.querystring.hha_concept_2"     = false
+    "method.request.querystring.hha_points"        = false
+    "method.request.querystring.hha_series"        = false
+    "method.request.querystring.hha_set"           = false
+    "method.request.querystring.internal_id"       = false
+    "method.request.querystring.internal_label"    = false
+    "method.request.querystring.internal_name"     = false
+    "method.request.querystring.is_craftable"      = false
+    "method.request.querystring.is_unlocked"       = false
+    "method.request.querystring.sell_currency"     = false
+    "method.request.querystring.sell_price"        = false
+    "method.request.querystring.size_1"            = false
+    "method.request.querystring.size_2"            = false
+    "method.request.querystring.villager_gender"   = false
+  }
+  request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
 
 // clothing_umbrella
@@ -463,8 +727,11 @@ resource "aws_api_gateway_method" "construction_GET" {
   resource_id          = aws_api_gateway_resource.construction.id
   rest_api_id          = aws_api_gateway_resource.construction.rest_api_id
   request_models       = {}
-  request_parameters   = {}
-  request_validator_id = aws_api_gateway_request_validator.request_body.id
+  request_parameters = {
+    "method.request.querystring.buy_currency" = false
+    "method.request.querystring.buy_price"    = false
+  }
+  request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
 
 // construction
@@ -501,8 +768,26 @@ resource "aws_api_gateway_method" "creature_fish_GET" {
   resource_id          = aws_api_gateway_resource.creature_fish.id
   rest_api_id          = aws_api_gateway_resource.creature_fish.rest_api_id
   request_models       = {}
-  request_parameters   = {}
-  request_validator_id = aws_api_gateway_request_validator.request_body.id
+  request_parameters = {
+    "method.request.querystring.color_1"           = false
+    "method.request.querystring.color_2"           = false
+    "method.request.querystring.hha_category"      = false
+    "method.request.querystring.hha_concept_1"     = false
+    "method.request.querystring.hha_concept_2"     = false
+    "method.request.querystring.hha_points"        = false
+    "method.request.querystring.hha_series"        = false
+    "method.request.querystring.hha_set"           = false
+    "method.request.querystring.internal_id"       = false
+    "method.request.querystring.internal_label"    = false
+    "method.request.querystring.internal_name"     = false
+    "method.request.querystring.is_surface"        = false
+    "method.request.querystring.lighting_category" = false
+    "method.request.querystring.sell_currency"     = false
+    "method.request.querystring.sell_price"        = false
+    "method.request.querystring.size_1"            = false
+    "method.request.querystring.size_2"            = false
+  }
+  request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
 
 // creature_fish
@@ -539,8 +824,25 @@ resource "aws_api_gateway_method" "creature_insect_GET" {
   resource_id          = aws_api_gateway_resource.creature_insect.id
   rest_api_id          = aws_api_gateway_resource.creature_insect.rest_api_id
   request_models       = {}
-  request_parameters   = {}
-  request_validator_id = aws_api_gateway_request_validator.request_body.id
+  request_parameters = {
+    "method.request.querystring.color_1"        = false
+    "method.request.querystring.color_2"        = false
+    "method.request.querystring.hha_category"   = false
+    "method.request.querystring.hha_concept_1"  = false
+    "method.request.querystring.hha_concept_2"  = false
+    "method.request.querystring.hha_points"     = false
+    "method.request.querystring.hha_series"     = false
+    "method.request.querystring.hha_set"        = false
+    "method.request.querystring.internal_id"    = false
+    "method.request.querystring.internal_label" = false
+    "method.request.querystring.internal_name"  = false
+    "method.request.querystring.is_surface"     = false
+    "method.request.querystring.sell_currency"  = false
+    "method.request.querystring.sell_price"     = false
+    "method.request.querystring.size_1"         = false
+    "method.request.querystring.size_2"         = false
+  }
+  request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
 
 // creature_insect
@@ -577,8 +879,27 @@ resource "aws_api_gateway_method" "creature_sea_GET" {
   resource_id          = aws_api_gateway_resource.creature_sea.id
   rest_api_id          = aws_api_gateway_resource.creature_sea.rest_api_id
   request_models       = {}
-  request_parameters   = {}
-  request_validator_id = aws_api_gateway_request_validator.request_body.id
+  request_parameters = {
+    "method.request.querystring.color_1"           = false
+    "method.request.querystring.color_2"           = false
+    "method.request.querystring.hha_category"      = false
+    "method.request.querystring.hha_concept_1"     = false
+    "method.request.querystring.hha_concept_2"     = false
+    "method.request.querystring.hha_points"        = false
+    "method.request.querystring.hha_series"        = false
+    "method.request.querystring.hha_set"           = false
+    "method.request.querystring.internal_id"       = false
+    "method.request.querystring.internal_label"    = false
+    "method.request.querystring.internal_name"     = false
+    "method.request.querystring.is_surface"        = false
+    "method.request.querystring.is_unlocked"       = false
+    "method.request.querystring.lighting_category" = false
+    "method.request.querystring.sell_currency"     = false
+    "method.request.querystring.sell_price"        = false
+    "method.request.querystring.size_1"            = false
+    "method.request.querystring.size_2"            = false
+  }
+  request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
 
 // creature_sea
@@ -615,8 +936,31 @@ resource "aws_api_gateway_method" "furniture_artwork_GET" {
   resource_id          = aws_api_gateway_resource.furniture_artwork.id
   rest_api_id          = aws_api_gateway_resource.furniture_artwork.rest_api_id
   request_models       = {}
-  request_parameters   = {}
-  request_validator_id = aws_api_gateway_request_validator.request_body.id
+  request_parameters = {
+    "method.request.querystring.buy_currency"      = false
+    "method.request.querystring.buy_price"         = false
+    "method.request.querystring.color_1"           = false
+    "method.request.querystring.color_2"           = false
+    "method.request.querystring.hha_category"      = false
+    "method.request.querystring.hha_concept_1"     = false
+    "method.request.querystring.hha_concept_2"     = false
+    "method.request.querystring.hha_points"        = false
+    "method.request.querystring.hha_series"        = false
+    "method.request.querystring.hha_set"           = false
+    "method.request.querystring.internal_id"       = false
+    "method.request.querystring.internal_label"    = false
+    "method.request.querystring.internal_name"     = false
+    "method.request.querystring.is_authentic"      = false
+    "method.request.querystring.is_interactive"    = false
+    "method.request.querystring.is_unlocked"       = false
+    "method.request.querystring.lighting_category" = false
+    "method.request.querystring.sell_currency"     = false
+    "method.request.querystring.sell_price"        = false
+    "method.request.querystring.size_1"            = false
+    "method.request.querystring.size_2"            = false
+    "method.request.querystring.speaker_category"  = false
+  }
+  request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
 
 // furniture_artwork
@@ -653,8 +997,40 @@ resource "aws_api_gateway_method" "furniture_ceiling_GET" {
   resource_id          = aws_api_gateway_resource.furniture_ceiling.id
   rest_api_id          = aws_api_gateway_resource.furniture_ceiling.rest_api_id
   request_models       = {}
-  request_parameters   = {}
-  request_validator_id = aws_api_gateway_request_validator.request_body.id
+  request_parameters = {
+    "method.request.querystring.buy_currency"          = false
+    "method.request.querystring.buy_price"             = false
+    "method.request.querystring.can_customize_body"    = false
+    "method.request.querystring.can_customize_pattern" = false
+    "method.request.querystring.color_1"               = false
+    "method.request.querystring.color_2"               = false
+    "method.request.querystring.cyrus_currency"        = false
+    "method.request.querystring.cyrus_price"           = false
+    "method.request.querystring.exchange_currency"     = false
+    "method.request.querystring.exchange_price"        = false
+    "method.request.querystring.hha_category"          = false
+    "method.request.querystring.hha_concept_1"         = false
+    "method.request.querystring.hha_concept_2"         = false
+    "method.request.querystring.hha_points"            = false
+    "method.request.querystring.hha_series"            = false
+    "method.request.querystring.hha_set"               = false
+    "method.request.querystring.internal_id"           = false
+    "method.request.querystring.internal_label"        = false
+    "method.request.querystring.internal_name"         = false
+    "method.request.querystring.is_craftable"          = false
+    "method.request.querystring.is_interactive"        = false
+    "method.request.querystring.is_outdoors"           = false
+    "method.request.querystring.is_unlocked"           = false
+    "method.request.querystring.kit_category"          = false
+    "method.request.querystring.kit_currency"          = false
+    "method.request.querystring.kit_price"             = false
+    "method.request.querystring.lighting_category"     = false
+    "method.request.querystring.sell_currency"         = false
+    "method.request.querystring.sell_price"            = false
+    "method.request.querystring.size_1"                = false
+    "method.request.querystring.size_2"                = false
+  }
+  request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
 
 // furniture_ceiling
@@ -691,8 +1067,24 @@ resource "aws_api_gateway_method" "furniture_fencing_GET" {
   resource_id          = aws_api_gateway_resource.furniture_fencing.id
   rest_api_id          = aws_api_gateway_resource.furniture_fencing.rest_api_id
   request_models       = {}
-  request_parameters   = {}
-  request_validator_id = aws_api_gateway_request_validator.request_body.id
+  request_parameters = {
+    "method.request.querystring.buy_currency"   = false
+    "method.request.querystring.buy_price"      = false
+    "method.request.querystring.can_customize"  = false
+    "method.request.querystring.cyrus_currency" = false
+    "method.request.querystring.cyrus_price"    = false
+    "method.request.querystring.internal_id"    = false
+    "method.request.querystring.internal_label" = false
+    "method.request.querystring.internal_name"  = false
+    "method.request.querystring.is_craftable"   = false
+    "method.request.querystring.is_unlocked"    = false
+    "method.request.querystring.kit_category"   = false
+    "method.request.querystring.kit_currency"   = false
+    "method.request.querystring.kit_price"      = false
+    "method.request.querystring.sell_currency"  = false
+    "method.request.querystring.sell_price"     = false
+  }
+  request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
 
 // furniture_fencing
@@ -729,8 +1121,28 @@ resource "aws_api_gateway_method" "furniture_floor_GET" {
   resource_id          = aws_api_gateway_resource.furniture_floor.id
   rest_api_id          = aws_api_gateway_resource.furniture_floor.rest_api_id
   request_models       = {}
-  request_parameters   = {}
-  request_validator_id = aws_api_gateway_request_validator.request_body.id
+  request_parameters = {
+    "method.request.querystring.buy_currency"      = false
+    "method.request.querystring.buy_price"         = false
+    "method.request.querystring.color_1"           = false
+    "method.request.querystring.color_2"           = false
+    "method.request.querystring.exchange_currency" = false
+    "method.request.querystring.exchange_price"    = false
+    "method.request.querystring.hha_category"      = false
+    "method.request.querystring.hha_concept_1"     = false
+    "method.request.querystring.hha_concept_2"     = false
+    "method.request.querystring.hha_points"        = false
+    "method.request.querystring.hha_series"        = false
+    "method.request.querystring.hha_set"           = false
+    "method.request.querystring.internal_id"       = false
+    "method.request.querystring.internal_label"    = false
+    "method.request.querystring.internal_name"     = false
+    "method.request.querystring.is_craftable"      = false
+    "method.request.querystring.is_unlocked"       = false
+    "method.request.querystring.sell_currency"     = false
+    "method.request.querystring.sell_price"        = false
+  }
+  request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
 
 // furniture_floor
@@ -767,8 +1179,28 @@ resource "aws_api_gateway_method" "furniture_fossil_GET" {
   resource_id          = aws_api_gateway_resource.furniture_fossil.id
   rest_api_id          = aws_api_gateway_resource.furniture_fossil.rest_api_id
   request_models       = {}
-  request_parameters   = {}
-  request_validator_id = aws_api_gateway_request_validator.request_body.id
+  request_parameters = {
+    "method.request.querystring.buy_currency"    = false
+    "method.request.querystring.buy_price"       = false
+    "method.request.querystring.color_1"         = false
+    "method.request.querystring.color_2"         = false
+    "method.request.querystring.fossil_category" = false
+    "method.request.querystring.hha_category"    = false
+    "method.request.querystring.hha_concept_1"   = false
+    "method.request.querystring.hha_concept_2"   = false
+    "method.request.querystring.hha_points"      = false
+    "method.request.querystring.hha_series"      = false
+    "method.request.querystring.hha_set"         = false
+    "method.request.querystring.internal_id"     = false
+    "method.request.querystring.internal_label"  = false
+    "method.request.querystring.internal_name"   = false
+    "method.request.querystring.is_interactive"  = false
+    "method.request.querystring.sell_currency"   = false
+    "method.request.querystring.sell_price"      = false
+    "method.request.querystring.size_1"          = false
+    "method.request.querystring.size_2"          = false
+  }
+  request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
 
 // furniture_fossil
@@ -805,8 +1237,41 @@ resource "aws_api_gateway_method" "furniture_gyroid_GET" {
   resource_id          = aws_api_gateway_resource.furniture_gyroid.id
   rest_api_id          = aws_api_gateway_resource.furniture_gyroid.rest_api_id
   request_models       = {}
-  request_parameters   = {}
-  request_validator_id = aws_api_gateway_request_validator.request_body.id
+  request_parameters = {
+    "method.request.querystring.buy_currency"          = false
+    "method.request.querystring.buy_price"             = false
+    "method.request.querystring.can_customize_body"    = false
+    "method.request.querystring.can_customize_pattern" = false
+    "method.request.querystring.color_1"               = false
+    "method.request.querystring.color_2"               = false
+    "method.request.querystring.cyrus_currency"        = false
+    "method.request.querystring.cyrus_price"           = false
+    "method.request.querystring.exchange_currency"     = false
+    "method.request.querystring.exchange_price"        = false
+    "method.request.querystring.hha_category"          = false
+    "method.request.querystring.hha_concept_1"         = false
+    "method.request.querystring.hha_concept_2"         = false
+    "method.request.querystring.hha_points"            = false
+    "method.request.querystring.hha_series"            = false
+    "method.request.querystring.hha_set"               = false
+    "method.request.querystring.internal_id"           = false
+    "method.request.querystring.internal_label"        = false
+    "method.request.querystring.internal_name"         = false
+    "method.request.querystring.is_craftable"          = false
+    "method.request.querystring.is_interactive"        = false
+    "method.request.querystring.is_outdoors"           = false
+    "method.request.querystring.is_unlocked"           = false
+    "method.request.querystring.kit_category"          = false
+    "method.request.querystring.kit_currency"          = false
+    "method.request.querystring.kit_price"             = false
+    "method.request.querystring.lighting_category"     = false
+    "method.request.querystring.sell_currency"         = false
+    "method.request.querystring.sell_price"            = false
+    "method.request.querystring.size_1"                = false
+    "method.request.querystring.size_2"                = false
+    "method.request.querystring.sound_category"        = false
+  }
+  request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
 
 // furniture_gyroid
@@ -843,8 +1308,42 @@ resource "aws_api_gateway_method" "furniture_housewear_GET" {
   resource_id          = aws_api_gateway_resource.furniture_housewear.id
   rest_api_id          = aws_api_gateway_resource.furniture_housewear.rest_api_id
   request_models       = {}
-  request_parameters   = {}
-  request_validator_id = aws_api_gateway_request_validator.request_body.id
+  request_parameters = {
+    "method.request.querystring.buy_currency"          = false
+    "method.request.querystring.buy_price"             = false
+    "method.request.querystring.can_customize_body"    = false
+    "method.request.querystring.can_customize_pattern" = false
+    "method.request.querystring.color_1"               = false
+    "method.request.querystring.color_2"               = false
+    "method.request.querystring.cyrus_currency"        = false
+    "method.request.querystring.cyrus_price"           = false
+    "method.request.querystring.exchange_currency"     = false
+    "method.request.querystring.exchange_price"        = false
+    "method.request.querystring.hha_category"          = false
+    "method.request.querystring.hha_concept_1"         = false
+    "method.request.querystring.hha_concept_2"         = false
+    "method.request.querystring.hha_points"            = false
+    "method.request.querystring.hha_series"            = false
+    "method.request.querystring.hha_set"               = false
+    "method.request.querystring.internal_id"           = false
+    "method.request.querystring.internal_label"        = false
+    "method.request.querystring.internal_name"         = false
+    "method.request.querystring.is_craftable"          = false
+    "method.request.querystring.is_interactive"        = false
+    "method.request.querystring.is_outdoors"           = false
+    "method.request.querystring.is_surface"            = false
+    "method.request.querystring.is_unlocked"           = false
+    "method.request.querystring.kit_category"          = false
+    "method.request.querystring.kit_currency"          = false
+    "method.request.querystring.kit_price"             = false
+    "method.request.querystring.lighting_category"     = false
+    "method.request.querystring.sell_currency"         = false
+    "method.request.querystring.sell_price"            = false
+    "method.request.querystring.size_1"                = false
+    "method.request.querystring.size_2"                = false
+    "method.request.querystring.speaker_category"      = false
+  }
+  request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
 
 // furniture_housewear
@@ -881,8 +1380,41 @@ resource "aws_api_gateway_method" "furniture_interior_structure_GET" {
   resource_id          = aws_api_gateway_resource.furniture_interior_structure.id
   rest_api_id          = aws_api_gateway_resource.furniture_interior_structure.rest_api_id
   request_models       = {}
-  request_parameters   = {}
-  request_validator_id = aws_api_gateway_request_validator.request_body.id
+  request_parameters = {
+    "method.request.querystring.buy_currency"          = false
+    "method.request.querystring.buy_price"             = false
+    "method.request.querystring.can_customize_body"    = false
+    "method.request.querystring.can_customize_pattern" = false
+    "method.request.querystring.color_1"               = false
+    "method.request.querystring.color_2"               = false
+    "method.request.querystring.cyrus_currency"        = false
+    "method.request.querystring.cyrus_price"           = false
+    "method.request.querystring.exchange_currency"     = false
+    "method.request.querystring.exchange_price"        = false
+    "method.request.querystring.hha_category"          = false
+    "method.request.querystring.hha_concept_1"         = false
+    "method.request.querystring.hha_concept_2"         = false
+    "method.request.querystring.hha_points"            = false
+    "method.request.querystring.hha_series"            = false
+    "method.request.querystring.hha_set"               = false
+    "method.request.querystring.internal_id"           = false
+    "method.request.querystring.internal_label"        = false
+    "method.request.querystring.internal_name"         = false
+    "method.request.querystring.is_craftable"          = false
+    "method.request.querystring.is_interactive"        = false
+    "method.request.querystring.is_outdoors"           = false
+    "method.request.querystring.is_surface"            = false
+    "method.request.querystring.is_unlocked"           = false
+    "method.request.querystring.kit_category"          = false
+    "method.request.querystring.kit_currency"          = false
+    "method.request.querystring.kit_price"             = false
+    "method.request.querystring.lighting_category"     = false
+    "method.request.querystring.sell_currency"         = false
+    "method.request.querystring.sell_price"            = false
+    "method.request.querystring.size_1"                = false
+    "method.request.querystring.size_2"                = false
+  }
+  request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
 
 // furniture_interior_structure
@@ -919,8 +1451,42 @@ resource "aws_api_gateway_method" "furniture_miscellaneous_GET" {
   resource_id          = aws_api_gateway_resource.furniture_miscellaneous.id
   rest_api_id          = aws_api_gateway_resource.furniture_miscellaneous.rest_api_id
   request_models       = {}
-  request_parameters   = {}
-  request_validator_id = aws_api_gateway_request_validator.request_body.id
+  request_parameters = {
+    "method.request.querystring.buy_currency"          = false
+    "method.request.querystring.buy_price"             = false
+    "method.request.querystring.can_customize_body"    = false
+    "method.request.querystring.can_customize_pattern" = false
+    "method.request.querystring.color_1"               = false
+    "method.request.querystring.color_2"               = false
+    "method.request.querystring.cyrus_currency"        = false
+    "method.request.querystring.cyrus_price"           = false
+    "method.request.querystring.exchange_currency"     = false
+    "method.request.querystring.exchange_price"        = false
+    "method.request.querystring.hha_category"          = false
+    "method.request.querystring.hha_concept_1"         = false
+    "method.request.querystring.hha_concept_2"         = false
+    "method.request.querystring.hha_points"            = false
+    "method.request.querystring.hha_series"            = false
+    "method.request.querystring.hha_set"               = false
+    "method.request.querystring.internal_id"           = false
+    "method.request.querystring.internal_label"        = false
+    "method.request.querystring.internal_name"         = false
+    "method.request.querystring.is_craftable"          = false
+    "method.request.querystring.is_interactive"        = false
+    "method.request.querystring.is_outdoors"           = false
+    "method.request.querystring.is_surface"            = false
+    "method.request.querystring.is_unlocked"           = false
+    "method.request.querystring.kit_category"          = false
+    "method.request.querystring.kit_currency"          = false
+    "method.request.querystring.kit_price"             = false
+    "method.request.querystring.lighting_category"     = false
+    "method.request.querystring.sell_currency"         = false
+    "method.request.querystring.sell_price"            = false
+    "method.request.querystring.size_1"                = false
+    "method.request.querystring.size_2"                = false
+    "method.request.querystring.speaker_category"      = false
+  }
+  request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
 
 // furniture_miscellaneous
@@ -957,8 +1523,27 @@ resource "aws_api_gateway_method" "furniture_music_GET" {
   resource_id          = aws_api_gateway_resource.furniture_music.id
   rest_api_id          = aws_api_gateway_resource.furniture_music.rest_api_id
   request_models       = {}
-  request_parameters   = {}
-  request_validator_id = aws_api_gateway_request_validator.request_body.id
+  request_parameters = {
+    "method.request.querystring.buy_currency"   = false
+    "method.request.querystring.buy_price"      = false
+    "method.request.querystring.color_1"        = false
+    "method.request.querystring.color_2"        = false
+    "method.request.querystring.hha_category"   = false
+    "method.request.querystring.hha_concept_1"  = false
+    "method.request.querystring.hha_concept_2"  = false
+    "method.request.querystring.hha_points"     = false
+    "method.request.querystring.hha_series"     = false
+    "method.request.querystring.hha_set"        = false
+    "method.request.querystring.internal_id"    = false
+    "method.request.querystring.internal_label" = false
+    "method.request.querystring.internal_name"  = false
+    "method.request.querystring.is_unlocked"    = false
+    "method.request.querystring.sell_currency"  = false
+    "method.request.querystring.sell_price"     = false
+    "method.request.querystring.size_1"         = false
+    "method.request.querystring.size_2"         = false
+  }
+  request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
 
 // furniture_music
@@ -995,8 +1580,35 @@ resource "aws_api_gateway_method" "furniture_photo_GET" {
   resource_id          = aws_api_gateway_resource.furniture_photo.id
   rest_api_id          = aws_api_gateway_resource.furniture_photo.rest_api_id
   request_models       = {}
-  request_parameters   = {}
-  request_validator_id = aws_api_gateway_request_validator.request_body.id
+  request_parameters = {
+    "method.request.querystring.buy_currency"      = false
+    "method.request.querystring.buy_price"         = false
+    "method.request.querystring.can_customize"     = false
+    "method.request.querystring.color_1"           = false
+    "method.request.querystring.color_2"           = false
+    "method.request.querystring.cyrus_currency"    = false
+    "method.request.querystring.cyrus_price"       = false
+    "method.request.querystring.exchange_currency" = false
+    "method.request.querystring.exchange_price"    = false
+    "method.request.querystring.hha_category"      = false
+    "method.request.querystring.hha_concept_1"     = false
+    "method.request.querystring.hha_concept_2"     = false
+    "method.request.querystring.hha_points"        = false
+    "method.request.querystring.hha_series"        = false
+    "method.request.querystring.hha_set"           = false
+    "method.request.querystring.internal_id"       = false
+    "method.request.querystring.internal_label"    = false
+    "method.request.querystring.internal_name"     = false
+    "method.request.querystring.is_craftable"      = false
+    "method.request.querystring.is_unlocked"       = false
+    "method.request.querystring.kit_currency"      = false
+    "method.request.querystring.kit_price"         = false
+    "method.request.querystring.sell_currency"     = false
+    "method.request.querystring.sell_price"        = false
+    "method.request.querystring.size_1"            = false
+    "method.request.querystring.size_2"            = false
+  }
+  request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
 
 // furniture_photo
@@ -1033,8 +1645,27 @@ resource "aws_api_gateway_method" "furniture_poster_GET" {
   resource_id          = aws_api_gateway_resource.furniture_poster.id
   rest_api_id          = aws_api_gateway_resource.furniture_poster.rest_api_id
   request_models       = {}
-  request_parameters   = {}
-  request_validator_id = aws_api_gateway_request_validator.request_body.id
+  request_parameters = {
+    "method.request.querystring.buy_currency"   = false
+    "method.request.querystring.buy_price"      = false
+    "method.request.querystring.color_1"        = false
+    "method.request.querystring.color_2"        = false
+    "method.request.querystring.hha_category"   = false
+    "method.request.querystring.hha_concept_1"  = false
+    "method.request.querystring.hha_concept_2"  = false
+    "method.request.querystring.hha_points"     = false
+    "method.request.querystring.hha_series"     = false
+    "method.request.querystring.hha_set"        = false
+    "method.request.querystring.internal_id"    = false
+    "method.request.querystring.internal_label" = false
+    "method.request.querystring.internal_name"  = false
+    "method.request.querystring.is_unlocked"    = false
+    "method.request.querystring.sell_currency"  = false
+    "method.request.querystring.sell_price"     = false
+    "method.request.querystring.size_1"         = false
+    "method.request.querystring.size_2"         = false
+  }
+  request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
 
 // furniture_poster
@@ -1071,8 +1702,30 @@ resource "aws_api_gateway_method" "furniture_rug_GET" {
   resource_id          = aws_api_gateway_resource.furniture_rug.id
   rest_api_id          = aws_api_gateway_resource.furniture_rug.rest_api_id
   request_models       = {}
-  request_parameters   = {}
-  request_validator_id = aws_api_gateway_request_validator.request_body.id
+  request_parameters = {
+    "method.request.querystring.buy_currency"      = false
+    "method.request.querystring.buy_price"         = false
+    "method.request.querystring.color_1"           = false
+    "method.request.querystring.color_2"           = false
+    "method.request.querystring.exchange_currency" = false
+    "method.request.querystring.exchange_price"    = false
+    "method.request.querystring.hha_category"      = false
+    "method.request.querystring.hha_concept_1"     = false
+    "method.request.querystring.hha_concept_2"     = false
+    "method.request.querystring.hha_points"        = false
+    "method.request.querystring.hha_series"        = false
+    "method.request.querystring.hha_set"           = false
+    "method.request.querystring.internal_id"       = false
+    "method.request.querystring.internal_label"    = false
+    "method.request.querystring.internal_name"     = false
+    "method.request.querystring.is_craftable"      = false
+    "method.request.querystring.is_unlocked"       = false
+    "method.request.querystring.sell_currency"     = false
+    "method.request.querystring.sell_price"        = false
+    "method.request.querystring.size_1"            = false
+    "method.request.querystring.size_2"            = false
+  }
+  request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
 
 // furniture_rug
@@ -1109,8 +1762,41 @@ resource "aws_api_gateway_method" "furniture_wall_mounted_GET" {
   resource_id          = aws_api_gateway_resource.furniture_wall_mounted.id
   rest_api_id          = aws_api_gateway_resource.furniture_wall_mounted.rest_api_id
   request_models       = {}
-  request_parameters   = {}
-  request_validator_id = aws_api_gateway_request_validator.request_body.id
+  request_parameters = {
+    "method.request.querystring.buy_currency"          = false
+    "method.request.querystring.buy_price"             = false
+    "method.request.querystring.can_customize_body"    = false
+    "method.request.querystring.can_customize_pattern" = false
+    "method.request.querystring.color_1"               = false
+    "method.request.querystring.color_2"               = false
+    "method.request.querystring.cyrus_currency"        = false
+    "method.request.querystring.cyrus_price"           = false
+    "method.request.querystring.exchange_currency"     = false
+    "method.request.querystring.exchange_price"        = false
+    "method.request.querystring.hha_category"          = false
+    "method.request.querystring.hha_concept_1"         = false
+    "method.request.querystring.hha_concept_2"         = false
+    "method.request.querystring.hha_points"            = false
+    "method.request.querystring.hha_series"            = false
+    "method.request.querystring.hha_set"               = false
+    "method.request.querystring.internal_id"           = false
+    "method.request.querystring.internal_label"        = false
+    "method.request.querystring.internal_name"         = false
+    "method.request.querystring.is_craftable"          = false
+    "method.request.querystring.is_door_decoration"    = false
+    "method.request.querystring.is_interactive"        = false
+    "method.request.querystring.is_outdoors"           = false
+    "method.request.querystring.is_unlocked"           = false
+    "method.request.querystring.kit_category"          = false
+    "method.request.querystring.kit_currency"          = false
+    "method.request.querystring.kit_price"             = false
+    "method.request.querystring.lighting_category"     = false
+    "method.request.querystring.sell_currency"         = false
+    "method.request.querystring.sell_price"            = false
+    "method.request.querystring.size_1"                = false
+    "method.request.querystring.size_2"                = false
+  }
+  request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
 
 // furniture_wall_mounted
@@ -1147,8 +1833,35 @@ resource "aws_api_gateway_method" "furniture_wallpaper_GET" {
   resource_id          = aws_api_gateway_resource.furniture_wallpaper.id
   rest_api_id          = aws_api_gateway_resource.furniture_wallpaper.rest_api_id
   request_models       = {}
-  request_parameters   = {}
-  request_validator_id = aws_api_gateway_request_validator.request_body.id
+  request_parameters = {
+    "method.request.querystring.buy_currency"      = false
+    "method.request.querystring.buy_price"         = false
+    "method.request.querystring.ceiling_category"  = false
+    "method.request.querystring.color_1"           = false
+    "method.request.querystring.color_2"           = false
+    "method.request.querystring.curtain_category"  = false
+    "method.request.querystring.curtain_color"     = false
+    "method.request.querystring.exchange_currency" = false
+    "method.request.querystring.exchange_price"    = false
+    "method.request.querystring.hha_category"      = false
+    "method.request.querystring.hha_concept_1"     = false
+    "method.request.querystring.hha_concept_2"     = false
+    "method.request.querystring.hha_points"        = false
+    "method.request.querystring.hha_series"        = false
+    "method.request.querystring.hha_set"           = false
+    "method.request.querystring.internal_id"       = false
+    "method.request.querystring.internal_label"    = false
+    "method.request.querystring.internal_name"     = false
+    "method.request.querystring.is_craftable"      = false
+    "method.request.querystring.is_unlocked"       = false
+    "method.request.querystring.pane_category"     = false
+    "method.request.querystring.sell_currency"     = false
+    "method.request.querystring.sell_price"        = false
+    "method.request.querystring.vfx_category"      = false
+    "method.request.querystring.window_category"   = false
+    "method.request.querystring.window_color"      = false
+  }
+  request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
 
 // furniture_wallpaper
@@ -1185,8 +1898,37 @@ resource "aws_api_gateway_method" "item_GET" {
   resource_id          = aws_api_gateway_resource.item.id
   rest_api_id          = aws_api_gateway_resource.item.rest_api_id
   request_models       = {}
-  request_parameters   = {}
-  request_validator_id = aws_api_gateway_request_validator.request_body.id
+  request_parameters = {
+    "method.request.querystring.buy_currency"      = false
+    "method.request.querystring.buy_price"         = false
+    "method.request.querystring.can_customize"     = false
+    "method.request.querystring.color_1"           = false
+    "method.request.querystring.color_2"           = false
+    "method.request.querystring.cyrus_currency"    = false
+    "method.request.querystring.cyrus_price"       = false
+    "method.request.querystring.exchange_currency" = false
+    "method.request.querystring.exchange_price"    = false
+    "method.request.querystring.hha_category"      = false
+    "method.request.querystring.hha_concept_1"     = false
+    "method.request.querystring.hha_concept_2"     = false
+    "method.request.querystring.hha_points"        = false
+    "method.request.querystring.hha_series"        = false
+    "method.request.querystring.hha_set"           = false
+    "method.request.querystring.internal_id"       = false
+    "method.request.querystring.internal_label"    = false
+    "method.request.querystring.internal_name"     = false
+    "method.request.querystring.is_craftable"      = false
+    "method.request.querystring.is_unlocked"       = false
+    "method.request.querystring.kit_category"      = false
+    "method.request.querystring.kit_currency"      = false
+    "method.request.querystring.kit_price"         = false
+    "method.request.querystring.lighting_category" = false
+    "method.request.querystring.sell_currency"     = false
+    "method.request.querystring.sell_price"        = false
+    "method.request.querystring.size_1"            = false
+    "method.request.querystring.size_2"            = false
+  }
+  request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
 
 // item
@@ -1223,8 +1965,28 @@ resource "aws_api_gateway_method" "item_other_GET" {
   resource_id          = aws_api_gateway_resource.item_other.id
   rest_api_id          = aws_api_gateway_resource.item_other.rest_api_id
   request_models       = {}
-  request_parameters   = {}
-  request_validator_id = aws_api_gateway_request_validator.request_body.id
+  request_parameters = {
+    "method.request.querystring.buy_currency"      = false
+    "method.request.querystring.buy_price"         = false
+    "method.request.querystring.color_1"           = false
+    "method.request.querystring.color_2"           = false
+    "method.request.querystring.exchange_currency" = false
+    "method.request.querystring.exchange_price"    = false
+    "method.request.querystring.hha_category"      = false
+    "method.request.querystring.hha_concept_1"     = false
+    "method.request.querystring.hha_concept_2"     = false
+    "method.request.querystring.hha_points"        = false
+    "method.request.querystring.hha_series"        = false
+    "method.request.querystring.hha_set"           = false
+    "method.request.querystring.internal_id"       = false
+    "method.request.querystring.internal_label"    = false
+    "method.request.querystring.internal_name"     = false
+    "method.request.querystring.is_craftable"      = false
+    "method.request.querystring.is_unlocked"       = false
+    "method.request.querystring.sell_currency"     = false
+    "method.request.querystring.sell_price"        = false
+  }
+  request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
 
 // item_other
@@ -1261,8 +2023,13 @@ resource "aws_api_gateway_method" "occasion_GET" {
   resource_id          = aws_api_gateway_resource.occasion.id
   rest_api_id          = aws_api_gateway_resource.occasion.rest_api_id
   request_models       = {}
-  request_parameters   = {}
-  request_validator_id = aws_api_gateway_request_validator.request_body.id
+  request_parameters = {
+    "method.request.querystring.category"       = false
+    "method.request.querystring.internal_id"    = false
+    "method.request.querystring.internal_label" = false
+    "method.request.querystring.internal_name"  = false
+  }
+  request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
 
 // occasion
@@ -1299,8 +2066,10 @@ resource "aws_api_gateway_method" "paradise_planning_GET" {
   resource_id          = aws_api_gateway_resource.paradise_planning.id
   rest_api_id          = aws_api_gateway_resource.paradise_planning.rest_api_id
   request_models       = {}
-  request_parameters   = {}
-  request_validator_id = aws_api_gateway_request_validator.request_body.id
+  request_parameters = {
+    "method.request.querystring.song_name" = false
+  }
+  request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
 
 // paradise_planning
@@ -1337,8 +2106,12 @@ resource "aws_api_gateway_method" "reaction_GET" {
   resource_id          = aws_api_gateway_resource.reaction.id
   rest_api_id          = aws_api_gateway_resource.reaction.rest_api_id
   request_models       = {}
-  request_parameters   = {}
-  request_validator_id = aws_api_gateway_request_validator.request_body.id
+  request_parameters = {
+    "method.request.querystring.internal_id"    = false
+    "method.request.querystring.internal_label" = false
+    "method.request.querystring.internal_name"  = false
+  }
+  request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
 
 // reaction
@@ -1375,8 +2148,19 @@ resource "aws_api_gateway_method" "recipe_GET" {
   resource_id          = aws_api_gateway_resource.recipe.id
   rest_api_id          = aws_api_gateway_resource.recipe.rest_api_id
   request_models       = {}
-  request_parameters   = {}
-  request_validator_id = aws_api_gateway_request_validator.request_body.id
+  request_parameters = {
+    "method.request.querystring.buy_currency"      = false
+    "method.request.querystring.buy_price"         = false
+    "method.request.querystring.exchange_currency" = false
+    "method.request.querystring.exchange_price"    = false
+    "method.request.querystring.internal_id"       = false
+    "method.request.querystring.internal_label"    = false
+    "method.request.querystring.internal_name"     = false
+    "method.request.querystring.is_unlocked"       = false
+    "method.request.querystring.sell_currency"     = false
+    "method.request.querystring.sell_price"        = false
+  }
+  request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
 
 // recipe
@@ -1413,8 +2197,23 @@ resource "aws_api_gateway_method" "villager_GET" {
   resource_id          = aws_api_gateway_resource.villager.id
   rest_api_id          = aws_api_gateway_resource.villager.rest_api_id
   request_models       = {}
-  request_parameters   = {}
-  request_validator_id = aws_api_gateway_request_validator.request_body.id
+  request_parameters = {
+    "method.request.querystring.birth_day"            = false
+    "method.request.querystring.birth_month"          = false
+    "method.request.querystring.color_1"              = false
+    "method.request.querystring.color_2"              = false
+    "method.request.querystring.floor_name"           = false
+    "method.request.querystring.gender"               = false
+    "method.request.querystring.hobby_category"       = false
+    "method.request.querystring.personality"          = false
+    "method.request.querystring.personality_category" = false
+    "method.request.querystring.song_name"            = false
+    "method.request.querystring.species"              = false
+    "method.request.querystring.style_1"              = false
+    "method.request.querystring.style_2"              = false
+    "method.request.querystring.wallpaper_name"       = false
+  }
+  request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
 
 // villager
@@ -1451,8 +2250,17 @@ resource "aws_api_gateway_method" "villager_special_GET" {
   resource_id          = aws_api_gateway_resource.villager_special.id
   rest_api_id          = aws_api_gateway_resource.villager_special.rest_api_id
   request_models       = {}
-  request_parameters   = {}
-  request_validator_id = aws_api_gateway_request_validator.request_body.id
+  request_parameters = {
+    "method.request.querystring.birth_day"          = false
+    "method.request.querystring.birth_month"        = false
+    "method.request.querystring.gender"             = false
+    "method.request.querystring.gender_alternative" = false
+    "method.request.querystring.hobby_category"     = false
+    "method.request.querystring.internal_id"        = false
+    "method.request.querystring.internal_label"     = false
+    "method.request.querystring.internal_name"      = false
+  }
+  request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
 
 // villager_special

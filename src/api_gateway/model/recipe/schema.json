@@ -1,14 +1,14 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 10,
-    "minProperties": 10,
+    "maxProperties": 13,
+    "minProperties": 13,
     "properties": {
         "buy_currency": {
             "maxLength": 5,
             "minLength": 5,
             "type": [
-                "string",
-                "null"
+                "null",
+                "string"
             ]
         },
         "buy_price": {
@@ -17,16 +17,24 @@
             "maximum": 2000,
             "minimum": 280,
             "type": [
+                "integer",
+                "null"
+            ]
+        },
+        "card_color": {
+            "maxLength": 10,
+            "minLength": 3,
+            "type": [
                 "null",
-                "integer"
+                "string"
             ]
         },
         "exchange_currency": {
             "maxLength": 10,
             "minLength": 10,
             "type": [
-                "string",
-                "null"
+                "null",
+                "string"
             ]
         },
         "exchange_price": {
@@ -35,8 +43,8 @@
             "maximum": 6000,
             "minimum": 800,
             "type": [
-                "null",
-                "integer"
+                "integer",
+                "null"
             ]
         },
         "internal_id": {
@@ -46,6 +54,16 @@
             "minimum": 6,
             "type": [
                 "integer"
+            ]
+        },
+        "internal_label": {
+            "type": [
+                "null"
+            ]
+        },
+        "internal_name": {
+            "type": [
+                "null"
             ]
         },
         "is_unlocked": {
@@ -64,8 +82,8 @@
             "maxLength": 5,
             "minLength": 5,
             "type": [
-                "string",
-                "null"
+                "null",
+                "string"
             ]
         },
         "sell_price": {
@@ -74,8 +92,8 @@
             "maximum": 200,
             "minimum": 200,
             "type": [
-                "null",
-                "integer"
+                "integer",
+                "null"
             ]
         },
         "unique_entry_id": {
@@ -89,9 +107,12 @@
     "required": [
         "buy_currency",
         "buy_price",
+        "card_color",
         "exchange_currency",
         "exchange_price",
         "internal_id",
+        "internal_label",
+        "internal_name",
         "is_unlocked",
         "name",
         "sell_currency",

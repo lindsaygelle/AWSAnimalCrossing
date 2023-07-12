@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 3,
-    "minProperties": 3,
+    "maxProperties": 5,
+    "minProperties": 5,
     "properties": {
         "internal_id": {
             "exclusiveMaximum": false,
@@ -10,6 +10,16 @@
             "minimum": 19,
             "type": [
                 "integer"
+            ]
+        },
+        "internal_label": {
+            "type": [
+                "null"
+            ]
+        },
+        "internal_name": {
+            "type": [
+                "null"
             ]
         },
         "name": {
@@ -29,6 +39,8 @@
     },
     "required": [
         "internal_id",
+        "internal_label",
+        "internal_name",
         "name",
         "unique_entry_id"
     ],

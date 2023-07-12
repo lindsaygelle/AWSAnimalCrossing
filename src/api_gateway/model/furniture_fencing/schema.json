@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 11,
-    "minProperties": 11,
+    "maxProperties": 17,
+    "minProperties": 17,
     "properties": {
         "buy_currency": {
             "type": [
@@ -13,22 +13,27 @@
                 "null"
             ]
         },
-        "cyrus_customize_currency": {
+        "can_customize": {
+            "type": [
+                "boolean"
+            ]
+        },
+        "cyrus_currency": {
             "maxLength": 5,
             "minLength": 5,
             "type": [
-                "string",
-                "null"
+                "null",
+                "string"
             ]
         },
-        "cyrus_customize_price": {
+        "cyrus_price": {
             "exclusiveMaximum": false,
             "exclusiveMinimum": false,
             "maximum": 1000,
             "minimum": 1000,
             "type": [
-                "null",
-                "integer"
+                "integer",
+                "null"
             ]
         },
         "internal_id": {
@@ -40,6 +45,16 @@
                 "integer"
             ]
         },
+        "internal_label": {
+            "type": [
+                "null"
+            ]
+        },
+        "internal_name": {
+            "type": [
+                "null"
+            ]
+        },
         "is_craftable": {
             "type": [
                 "boolean"
@@ -48,6 +63,32 @@
         "is_unlocked": {
             "type": [
                 "boolean"
+            ]
+        },
+        "kit_category": {
+            "maxLength": 6,
+            "minLength": 6,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "kit_currency": {
+            "maxLength": 5,
+            "minLength": 5,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "kit_price": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 1,
+            "minimum": 1,
+            "type": [
+                "integer",
+                "null"
             ]
         },
         "name": {
@@ -84,11 +125,17 @@
     "required": [
         "buy_currency",
         "buy_price",
-        "cyrus_customize_currency",
-        "cyrus_customize_price",
+        "can_customize",
+        "cyrus_currency",
+        "cyrus_price",
         "internal_id",
+        "internal_label",
+        "internal_name",
         "is_craftable",
         "is_unlocked",
+        "kit_category",
+        "kit_currency",
+        "kit_price",
         "name",
         "sell_currency",
         "sell_price",

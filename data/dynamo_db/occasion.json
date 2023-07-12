@@ -1,6 +1,18 @@
 [
     {
         "Item": {
+            "category": {
+                "S": "Spring"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Spring"
             },
@@ -12,6 +24,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Spring"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Spring (shopping)"
             },
@@ -23,6 +47,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Summer"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Summer"
             },
@@ -34,6 +70,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Summer"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Summer (shopping)"
             },
@@ -45,6 +93,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Fall"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Fall"
             },
@@ -56,6 +116,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Fall"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Fall (shopping)"
             },
@@ -67,6 +139,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Winter"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Winter"
             },
@@ -78,6 +162,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Winter"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Winter (shopping)"
             },
@@ -89,8 +185,20 @@
     },
     {
         "Item": {
-            "name": {
+            "category": {
                 "S": "young spring bamboo"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Young Spring Bamboo"
             },
             "unique_entry_id": {
                 "S": "B4yFhfZgohc6mpGye"
@@ -100,8 +208,20 @@
     },
     {
         "Item": {
-            "name": {
+            "category": {
                 "S": "cherry-blossom petals"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Cherry-blossom Petals"
             },
             "unique_entry_id": {
                 "S": "Xo3c8z7JTrEth4NW7"
@@ -111,8 +231,20 @@
     },
     {
         "Item": {
-            "name": {
+            "category": {
                 "S": "summer shells"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Summer Shells"
             },
             "unique_entry_id": {
                 "S": "sjovDaZqkh4jafozk"
@@ -122,8 +254,20 @@
     },
     {
         "Item": {
-            "name": {
+            "category": {
                 "S": "acorns and pine cones"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Acorns And Pine Cones"
             },
             "unique_entry_id": {
                 "S": "Rj8eWkGTM5STPvprt"
@@ -133,8 +277,20 @@
     },
     {
         "Item": {
-            "name": {
+            "category": {
                 "S": "mushrooms"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Mushrooms"
             },
             "unique_entry_id": {
                 "S": "hAE9QzEyaKskMpTfw"
@@ -144,8 +300,20 @@
     },
     {
         "Item": {
-            "name": {
+            "category": {
                 "S": "maple leaves"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Maple Leaves"
             },
             "unique_entry_id": {
                 "S": "2pHZfthLCYjYxEGXJ"
@@ -155,8 +323,20 @@
     },
     {
         "Item": {
-            "name": {
+            "category": {
                 "S": "snowflakes"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Snowflakes"
             },
             "unique_entry_id": {
                 "S": "owiAqbhvj8Ej62yer"
@@ -166,8 +346,20 @@
     },
     {
         "Item": {
-            "name": {
+            "category": {
                 "S": "ornaments"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Ornaments"
             },
             "unique_entry_id": {
                 "S": "hMjjfnZoboSEfX6kN"
@@ -177,8 +369,20 @@
     },
     {
         "Item": {
-            "name": {
+            "category": {
                 "S": "camellia"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Camellia"
             },
             "unique_entry_id": {
                 "S": "cp22AuXoQtvEn7KbF"
@@ -188,8 +392,20 @@
     },
     {
         "Item": {
-            "name": {
+            "category": {
                 "S": "azalea"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Azalea"
             },
             "unique_entry_id": {
                 "S": "7uaTrBAXzJSaEbv9P"
@@ -199,8 +415,20 @@
     },
     {
         "Item": {
-            "name": {
+            "category": {
                 "S": "hydrangea"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Hydrangea"
             },
             "unique_entry_id": {
                 "S": "vv43fAxedRXLBQzHB"
@@ -210,8 +438,20 @@
     },
     {
         "Item": {
-            "name": {
+            "category": {
                 "S": "plumeria"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Plumeria"
             },
             "unique_entry_id": {
                 "S": "sPo9igLgwWxAdXJRx"
@@ -221,8 +461,20 @@
     },
     {
         "Item": {
-            "name": {
+            "category": {
                 "S": "hibiscus"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Hibiscus"
             },
             "unique_entry_id": {
                 "S": "H6hLemK7FnKixKXzD"
@@ -232,8 +484,20 @@
     },
     {
         "Item": {
-            "name": {
+            "category": {
                 "S": "tea olive"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Tea Olive"
             },
             "unique_entry_id": {
                 "S": "W983nSAaEJEsQTw9p"
@@ -243,8 +507,20 @@
     },
     {
         "Item": {
-            "name": {
+            "category": {
                 "S": "holly"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Holly"
             },
             "unique_entry_id": {
                 "S": "njvQ6W4WxuZkNhGtF"
@@ -254,6 +530,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Pisces"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Pisces"
             },
@@ -265,6 +553,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Aries"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Aries"
             },
@@ -276,6 +576,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Taurus"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Taurus"
             },
@@ -287,6 +599,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Gemini"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Gemini"
             },
@@ -298,6 +622,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Cancer"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Cancer"
             },
@@ -309,6 +645,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Leo"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Leo"
             },
@@ -320,6 +668,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Virgo"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Virgo"
             },
@@ -331,6 +691,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Libra"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Libra"
             },
@@ -342,6 +714,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Scorpio"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Scorpio"
             },
@@ -353,6 +737,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Sagittarius"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Sagittarius"
             },
@@ -364,6 +760,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Capricorn"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Capricorn"
             },
@@ -375,6 +783,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Aquarius"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Aquarius"
             },
@@ -386,6 +806,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Birthday"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "PlayerBirthday"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Birthday"
             },
@@ -397,6 +829,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Fishing Tourney"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "FishingConventionSpring"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Fishing Tourney (Spring)"
             },
@@ -408,6 +852,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Fishing Tourney"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "FishingConventionSummer"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Fishing Tourney (Summer)"
             },
@@ -419,6 +875,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Fishing Tourney"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "FishingConventionAutumn"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Fishing Tourney (Fall)"
             },
@@ -430,6 +898,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Fishing Tourney"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "FishingConventionWinter"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Fishing Tourney (Winter)"
             },
@@ -441,6 +921,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Bug-Off"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "InsectConvention1"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Bug-Off (1)"
             },
@@ -452,6 +944,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Bug-Off"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "InsectConvention2"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Bug-Off (2)"
             },
@@ -463,6 +967,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Bug-Off"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "InsectConvention3"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Bug-Off (3)"
             },
@@ -474,6 +990,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Bug-Off"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "InsectConvention4"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Bug-Off (4)"
             },
@@ -485,6 +1013,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Countdown"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "Countdown"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Countdown"
             },
@@ -496,6 +1036,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "New Year's Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "NewYear"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "New Year's Day"
             },
@@ -507,6 +1059,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Lunar New Year"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "LunarNewYear"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Lunar New Year"
             },
@@ -518,6 +1082,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Bunny Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "Easter"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Bunny Day (days before)"
             },
@@ -529,6 +1105,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Bunny Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "Easter"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Bunny Day"
             },
@@ -540,6 +1128,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "May Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "MayDay"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "May Day"
             },
@@ -551,6 +1151,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "International Museum Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "InternationalMuseum"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "International Museum Day"
             },
@@ -562,6 +1174,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Wedding Season"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "JuneBride"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Wedding Season"
             },
@@ -573,6 +1197,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Fireworks Show"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "Fireworks1"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Fireworks Show (1)"
             },
@@ -584,6 +1220,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Fireworks Show"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "Fireworks2"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Fireworks Show (2)"
             },
@@ -595,6 +1243,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Fireworks Show"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "Fireworks3"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Fireworks Show (3)"
             },
@@ -606,6 +1266,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Fireworks Show"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "Fireworks4"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Fireworks Show (4)"
             },
@@ -617,6 +1289,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Fireworks Show"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "Fireworks5"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Fireworks Show (5)"
             },
@@ -628,6 +1312,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Halloween"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "Halloween"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Halloween (days before)"
             },
@@ -639,6 +1335,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Halloween"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "Halloween"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Halloween"
             },
@@ -650,6 +1358,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Turkey Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "HarvestFestival"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Turkey Day"
             },
@@ -661,6 +1381,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Turkey Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "HarvestAfterTerm"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Turkey Day (days after)"
             },
@@ -672,6 +1404,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Nook Friday"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "BlackFriday"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Nook Friday"
             },
@@ -683,6 +1427,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Toy Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "XmasReady1"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Toy Day (weeks before)"
             },
@@ -694,6 +1450,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Toy Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "XmasReady2"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Toy Day (days before)"
             },
@@ -705,6 +1473,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Toy Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "XmasEve"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Toy Day"
             },
@@ -716,6 +1496,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Toy Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "XmasAfter"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Toy Day (day after)"
             },
@@ -727,6 +1519,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Festivale"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "Carnival"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Festivale (days before)"
             },
@@ -738,6 +1542,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Festivale"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "Carnival"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Festivale"
             },
@@ -749,6 +1565,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Valentine's Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "Valentine"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Valentine's Day"
             },
@@ -760,6 +1588,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "April Fools' Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "RegionAprilFool"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "April Fools' Day"
             },
@@ -771,6 +1611,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Singmogil"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "RegionTreeDay"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Singmogil"
             },
@@ -782,6 +1634,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Prom"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "RegionProm; RegionProm2"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Prom"
             },
@@ -793,6 +1657,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Nature Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "RegionEarthDay"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Nature Day"
             },
@@ -804,6 +1680,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Children's Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "RegionChildrensDay"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Children's Day"
             },
@@ -815,6 +1703,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Mother's Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "MothersDay"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Mother's Day"
             },
@@ -826,6 +1726,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Cheese Rolling"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "RegionCheeseFestival"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Cheese Rolling"
             },
@@ -837,6 +1749,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Dano Festival"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "RegionDragonBoatFestival"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Dano Festival"
             },
@@ -848,6 +1772,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Dragon Boat Festival"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "RegionDragonBoatFestivalCh"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Dragon Boat Festival"
             },
@@ -859,6 +1795,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "International Children's Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "WorldChild"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "International Children's Day"
             },
@@ -870,6 +1818,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Wedding Season"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "RegionJuneBride; RegionJuneBride2"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Wedding Season (Nook Shopping)"
             },
@@ -881,6 +1841,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Father's Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "FathersDay; FathersDay2"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Father's Day"
             },
@@ -892,6 +1864,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Summer Solstice"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "SummerSolstice; SouthernMidwinter; SummerSolsticeEU; WinterSolsticeEU"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Summer Solstice"
             },
@@ -903,6 +1887,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Tanabata"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "Tanabata"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Tanabata"
             },
@@ -914,6 +1910,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Marine Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "RegionMarineDay"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Marine Day"
             },
@@ -925,6 +1933,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Le 14 juillet"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "RegionParisFestival"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Le 14 juillet"
             },
@@ -936,6 +1956,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Cowboy Festival"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "CowBoyFestival"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Cowboy Festival"
             },
@@ -947,6 +1979,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Cowherd & Weaver Girl Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "GyurouSyokujyo"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Cowherd & Weaver Girl Day"
             },
@@ -958,6 +2002,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Obon"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "RegionObon"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Obon"
             },
@@ -969,6 +2025,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Tomato Festival"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "Tomatina"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Tomato Festival"
             },
@@ -980,6 +2048,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Moon-Viewing Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "MidAutumnFestival; RegionTsukimiJp; RegionTsukimiCh"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Moon-Viewing Day"
             },
@@ -991,6 +2071,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Chuseok"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "RegionShuseki"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Chuseok"
             },
@@ -1002,6 +2094,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Grape Harvest Festival"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "GrapeHarvestFestival"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Grape Harvest Festival"
             },
@@ -1013,6 +2117,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Day of the Dead"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "DayOfTheDead"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Day of the Dead"
             },
@@ -1024,6 +2140,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Lantern Festival"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "StMartinDay"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Lantern Festival"
             },
@@ -1035,6 +2163,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Shichi-Go-San"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "Shichigosan"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Shichi-Go-San"
             },
@@ -1046,6 +2186,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Winter Solstice"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "WinterSolstice; Midwinter; SummerSolsticeTW; SummerSolsticeJP; WinterSolsticeTW; WinterSolsticeJP"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Winter Solstice"
             },
@@ -1057,6 +2209,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "New Year's Eve"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "NewYearsEveWorld; RoshiaNewYear"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "New Year's Eve"
             },
@@ -1068,6 +2232,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "\u014cmisoka"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "Oomisoka"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "\u014cmisoka"
             },
@@ -1079,6 +2255,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Silvester"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "NewYearsEveGermany"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Silvester"
             },
@@ -1090,6 +2278,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Nochevieja"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "NewYearsEveSpain"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Nochevieja"
             },
@@ -1101,6 +2301,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "New Year's Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "KoreaNewYear"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "New Year's Day (Nook Shopping)"
             },
@@ -1112,6 +2324,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "New Year's Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "WorldNewYear"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "New Year's Day (2021)"
             },
@@ -1123,6 +2347,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "New Year's Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "WorldNewYear2"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "New Year's Day (2022)"
             },
@@ -1134,6 +2370,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "New Year's Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "ChinaNewYear"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "New Year's Day (Year of the Ox)"
             },
@@ -1145,6 +2393,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "New Year's Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "NewYearEtoTiger"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "New Year's Day (Year of the Tiger)"
             },
@@ -1156,6 +2416,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "New Year's Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "NewYearEtoRabbit"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "New Year's Day (Year of the Rabbit)"
             },
@@ -1167,6 +2439,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "New Year's Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "NewYearEtoDragon"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "New Year's Day (Year of the Dragon)"
             },
@@ -1178,6 +2462,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "New Year's Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "NewYearEtoSnake"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "New Year's Day (Year of the Snake)"
             },
@@ -1189,6 +2485,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "New Year's Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "NewYearEtoHorse"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "New Year's Day (Year of the Horse)"
             },
@@ -1200,6 +2508,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "New Year's Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "NewYearEtoSheep"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "New Year's Day (Year of the Sheep)"
             },
@@ -1211,6 +2531,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "New Year's Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "NewYearEtoMonkey"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "New Year's Day (Year of the Monkey)"
             },
@@ -1222,6 +2554,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "New Year's Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "NewYearEtoRooster"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "New Year's Day (Year of the Rooster)"
             },
@@ -1233,6 +2577,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "New Year's Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "NewYearEtoDog"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "New Year's Day (Year of the Dog)"
             },
@@ -1244,6 +2600,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "New Year's Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "NewYearEtoBoarPig"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "New Year's Day (Year of the Pig)"
             },
@@ -1255,6 +2623,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "New Year's Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "NewYearEtoRat"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "New Year's Day (Year of the Rat)"
             },
@@ -1266,6 +2646,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Sh\u014dgatsu"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "RegionNewYear; RegionNewYear2; RegionNewYear3; NewYearDay4_Osechi"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Sh\u014dgatsu"
             },
@@ -1277,6 +2669,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Nanakusa Gayu"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "Nanakusagayu"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Nanakusa Gayu"
             },
@@ -1288,6 +2692,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Carnival of Venice"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "VeniceCarnival"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Carnival of Venice"
             },
@@ -1299,6 +2715,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Big Game Celebration"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "RegionBigGame; RegionBigGame2"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Big Game Celebration"
             },
@@ -1310,6 +2738,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Lunar New Year"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "RegionLunarNewYearAsia"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Lunar New Year (Nook Shopping)"
             },
@@ -1321,6 +2761,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Seollal"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "RegionLunarNewYearKR"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Seollal"
             },
@@ -1332,6 +2784,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Groundhog Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "GroundhogDay"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Groundhog Day"
             },
@@ -1343,6 +2807,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Setsubun"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "Setsubun"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Setsubun"
             },
@@ -1354,6 +2830,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Setsubun"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Setsubun (Able Sisters)"
             },
@@ -1365,6 +2853,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Valentine's Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "RegionValentine"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Valentine's Day (Nook Shopping)"
             },
@@ -1376,6 +2876,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Hinamatsuri"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "RegionHinamatsuri"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Hinamatsuri"
             },
@@ -1387,6 +2899,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "\u03c0 Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "RegionPiDay"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "\u03c0 Day"
             },
@@ -1398,6 +2922,18 @@
     },
     {
         "Item": {
+            "category": {
+                "S": "Shamrock Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "RegionShamrockDay"
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "name": {
                 "S": "Shamrock Day"
             },

@@ -1,14 +1,29 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 9,
-    "minProperties": 9,
+    "maxProperties": 15,
+    "minProperties": 15,
     "properties": {
+        "back_color": {
+            "maxLength": 7,
+            "minLength": 7,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "body_color": {
+            "maxLength": 7,
+            "minLength": 7,
+            "type": [
+                "string"
+            ]
+        },
         "buy_currency": {
             "maxLength": 5,
             "minLength": 5,
             "type": [
-                "string",
-                "null"
+                "null",
+                "string"
             ]
         },
         "buy_price": {
@@ -17,8 +32,22 @@
             "maximum": 200,
             "minimum": 200,
             "type": [
-                "null",
-                "integer"
+                "integer",
+                "null"
+            ]
+        },
+        "foot_color": {
+            "maxLength": 7,
+            "minLength": 7,
+            "type": [
+                "string"
+            ]
+        },
+        "head_color": {
+            "maxLength": 7,
+            "minLength": 7,
+            "type": [
+                "string"
             ]
         },
         "internal_id": {
@@ -28,6 +57,16 @@
             "minimum": 0,
             "type": [
                 "integer"
+            ]
+        },
+        "internal_label": {
+            "type": [
+                "null"
+            ]
+        },
+        "internal_name": {
+            "type": [
+                "null"
             ]
         },
         "name": {
@@ -74,9 +113,15 @@
         }
     },
     "required": [
+        "back_color",
+        "body_color",
         "buy_currency",
         "buy_price",
+        "foot_color",
+        "head_color",
         "internal_id",
+        "internal_label",
+        "internal_name",
         "name",
         "pen_color_1",
         "pen_color_2",

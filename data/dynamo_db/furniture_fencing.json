@@ -7,14 +7,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": false
+            },
+            "cyrus_currency": {
                 "NULL": true
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "NULL": true
             },
             "internal_id": {
                 "N": "3403"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -22,8 +31,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "NULL": true
+            },
+            "kit_currency": {
+                "NULL": true
+            },
+            "kit_price": {
+                "NULL": true
+            },
             "name": {
-                "S": "bamboo lattice fence"
+                "S": "Bamboo Lattice Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -45,14 +63,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": false
+            },
+            "cyrus_currency": {
                 "NULL": true
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "NULL": true
             },
             "internal_id": {
                 "N": "14757"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -60,8 +87,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "NULL": true
+            },
+            "kit_currency": {
+                "NULL": true
+            },
+            "kit_price": {
+                "NULL": true
+            },
             "name": {
-                "S": "bamboo-slats fence"
+                "S": "Bamboo-slats Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -83,14 +119,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": false
+            },
+            "cyrus_currency": {
                 "NULL": true
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "NULL": true
             },
             "internal_id": {
                 "N": "5213"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -98,8 +143,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "NULL": true
+            },
+            "kit_currency": {
+                "NULL": true
+            },
+            "kit_price": {
+                "NULL": true
+            },
             "name": {
-                "S": "barbed-wire fence"
+                "S": "Barbed-wire Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -121,14 +175,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": false
+            },
+            "cyrus_currency": {
                 "NULL": true
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "NULL": true
             },
             "internal_id": {
                 "N": "4355"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -136,8 +199,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "NULL": true
+            },
+            "kit_currency": {
+                "NULL": true
+            },
+            "kit_price": {
+                "NULL": true
+            },
             "name": {
-                "S": "block fence"
+                "S": "Block Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -159,14 +231,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": false
+            },
+            "cyrus_currency": {
                 "NULL": true
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "NULL": true
             },
             "internal_id": {
                 "N": "3080"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -174,8 +255,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "NULL": true
+            },
+            "kit_currency": {
+                "NULL": true
+            },
+            "kit_price": {
+                "NULL": true
+            },
             "name": {
-                "S": "brick fence"
+                "S": "Brick Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -197,20 +287,38 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": false
+            },
+            "cyrus_currency": {
                 "NULL": true
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "NULL": true
             },
             "internal_id": {
                 "N": "12630"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "kit_category": {
+                "NULL": true
+            },
+            "kit_currency": {
+                "NULL": true
+            },
+            "kit_price": {
+                "NULL": true
             },
             "name": {
                 "S": "Bunny Day fence"
@@ -235,14 +343,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": false
+            },
+            "cyrus_currency": {
                 "NULL": true
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "NULL": true
             },
             "internal_id": {
                 "N": "4349"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -250,8 +367,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "NULL": true
+            },
+            "kit_currency": {
+                "NULL": true
+            },
+            "kit_price": {
+                "NULL": true
+            },
             "name": {
-                "S": "corral fence"
+                "S": "Corral Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -273,14 +399,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "14758"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -288,8 +423,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "corrugated iron fence"
+                "S": "Corrugated Iron Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -311,14 +455,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "14758"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -326,8 +479,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "corrugated iron fence"
+                "S": "Corrugated Iron Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -349,14 +511,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "14758"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -364,8 +535,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "corrugated iron fence"
+                "S": "Corrugated Iron Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -387,14 +567,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "14758"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -402,8 +591,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "corrugated iron fence"
+                "S": "Corrugated Iron Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -425,14 +623,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "14758"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -440,8 +647,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "corrugated iron fence"
+                "S": "Corrugated Iron Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -463,14 +679,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "14758"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -478,8 +703,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "corrugated iron fence"
+                "S": "Corrugated Iron Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -501,14 +735,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "14758"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -516,8 +759,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "corrugated iron fence"
+                "S": "Corrugated Iron Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -539,14 +791,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "14758"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -554,8 +815,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "corrugated iron fence"
+                "S": "Corrugated Iron Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -577,14 +847,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": false
+            },
+            "cyrus_currency": {
                 "NULL": true
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "NULL": true
             },
             "internal_id": {
                 "N": "4350"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -592,8 +871,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "NULL": true
+            },
+            "kit_currency": {
+                "NULL": true
+            },
+            "kit_price": {
+                "NULL": true
+            },
             "name": {
-                "S": "country fence"
+                "S": "Country Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -615,14 +903,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "14756"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -630,8 +927,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "frozen fence"
+                "S": "Frozen Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -653,14 +959,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "14756"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -668,8 +983,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "frozen fence"
+                "S": "Frozen Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -691,14 +1015,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "14756"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -706,8 +1039,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "frozen fence"
+                "S": "Frozen Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -729,14 +1071,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "14756"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -744,8 +1095,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "frozen fence"
+                "S": "Frozen Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -767,14 +1127,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "14756"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -782,8 +1151,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "frozen fence"
+                "S": "Frozen Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -805,14 +1183,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "14756"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -820,8 +1207,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "frozen fence"
+                "S": "Frozen Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -843,14 +1239,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "14756"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -858,8 +1263,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "frozen fence"
+                "S": "Frozen Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -881,14 +1295,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": false
+            },
+            "cyrus_currency": {
                 "NULL": true
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "NULL": true
             },
             "internal_id": {
                 "N": "14755"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -896,8 +1319,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "NULL": true
+            },
+            "kit_currency": {
+                "NULL": true
+            },
+            "kit_price": {
+                "NULL": true
+            },
             "name": {
-                "S": "green bamboo fence"
+                "S": "Green Bamboo Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -919,14 +1351,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": false
+            },
+            "cyrus_currency": {
                 "NULL": true
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "NULL": true
             },
             "internal_id": {
                 "N": "12758"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -934,8 +1375,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "NULL": true
+            },
+            "kit_currency": {
+                "NULL": true
+            },
+            "kit_price": {
+                "NULL": true
+            },
             "name": {
-                "S": "hedge"
+                "S": "Hedge"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -957,14 +1407,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": false
+            },
+            "cyrus_currency": {
                 "NULL": true
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "NULL": true
             },
             "internal_id": {
                 "N": "4354"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -972,8 +1431,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "NULL": true
+            },
+            "kit_currency": {
+                "NULL": true
+            },
+            "kit_price": {
+                "NULL": true
+            },
             "name": {
-                "S": "imperial fence"
+                "S": "Imperial Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -995,14 +1463,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "4357"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -1010,8 +1487,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "iron fence"
+                "S": "Iron Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1033,14 +1519,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "4357"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -1048,8 +1543,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "iron fence"
+                "S": "Iron Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1071,14 +1575,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "4357"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -1086,8 +1599,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "iron fence"
+                "S": "Iron Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1109,14 +1631,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "4357"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -1124,8 +1655,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "iron fence"
+                "S": "Iron Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1147,14 +1687,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "4357"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -1162,8 +1711,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "iron fence"
+                "S": "Iron Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1185,14 +1743,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "4357"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -1200,8 +1767,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "iron fence"
+                "S": "Iron Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1223,14 +1799,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "4357"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -1238,8 +1823,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "iron fence"
+                "S": "Iron Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1261,14 +1855,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "4357"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -1276,8 +1879,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "iron fence"
+                "S": "Iron Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1299,14 +1911,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": false
+            },
+            "cyrus_currency": {
                 "NULL": true
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "NULL": true
             },
             "internal_id": {
                 "N": "5206"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -1314,8 +1935,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "NULL": true
+            },
+            "kit_currency": {
+                "NULL": true
+            },
+            "kit_price": {
+                "NULL": true
+            },
             "name": {
-                "S": "iron-and-stone fence"
+                "S": "Iron-and-stone Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1337,14 +1967,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "5208"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -1352,8 +1991,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "large lattice fence"
+                "S": "Large Lattice Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1375,14 +2023,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "5208"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -1390,8 +2047,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "large lattice fence"
+                "S": "Large Lattice Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1413,14 +2079,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "5208"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -1428,8 +2103,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "large lattice fence"
+                "S": "Large Lattice Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1451,14 +2135,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "5208"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -1466,8 +2159,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "large lattice fence"
+                "S": "Large Lattice Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1489,14 +2191,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "5208"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -1504,8 +2215,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "large lattice fence"
+                "S": "Large Lattice Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1527,14 +2247,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "5208"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -1542,8 +2271,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "large lattice fence"
+                "S": "Large Lattice Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1565,14 +2303,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "5208"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -1580,8 +2327,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "large lattice fence"
+                "S": "Large Lattice Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1603,14 +2359,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "5208"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -1618,8 +2383,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "large lattice fence"
+                "S": "Large Lattice Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1641,14 +2415,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "11712"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -1656,8 +2439,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "lattice fence"
+                "S": "Lattice Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1679,14 +2471,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "11712"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -1694,8 +2495,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "lattice fence"
+                "S": "Lattice Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1717,14 +2527,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "11712"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -1732,8 +2551,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "lattice fence"
+                "S": "Lattice Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1755,14 +2583,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "11712"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -1770,8 +2607,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "lattice fence"
+                "S": "Lattice Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1793,14 +2639,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "11712"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -1808,8 +2663,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "lattice fence"
+                "S": "Lattice Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1831,14 +2695,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "11712"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -1846,8 +2719,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "lattice fence"
+                "S": "Lattice Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1869,14 +2751,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "11712"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -1884,8 +2775,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "lattice fence"
+                "S": "Lattice Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1907,14 +2807,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "11712"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -1922,8 +2831,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "lattice fence"
+                "S": "Lattice Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1945,14 +2863,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": false
+            },
+            "cyrus_currency": {
                 "NULL": true
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "NULL": true
             },
             "internal_id": {
                 "N": "4351"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -1960,8 +2887,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "NULL": true
+            },
+            "kit_currency": {
+                "NULL": true
+            },
+            "kit_price": {
+                "NULL": true
+            },
             "name": {
-                "S": "log fence"
+                "S": "Log Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1983,14 +2919,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": false
+            },
+            "cyrus_currency": {
                 "NULL": true
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "NULL": true
             },
             "internal_id": {
                 "N": "5210"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -1998,8 +2943,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "NULL": true
+            },
+            "kit_currency": {
+                "NULL": true
+            },
+            "kit_price": {
+                "NULL": true
+            },
             "name": {
-                "S": "log-wall fence"
+                "S": "Log-wall Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2021,14 +2975,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": false
+            },
+            "cyrus_currency": {
                 "NULL": true
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "NULL": true
             },
             "internal_id": {
                 "N": "14278"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -2036,8 +2999,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "NULL": true
+            },
+            "kit_currency": {
+                "NULL": true
+            },
+            "kit_price": {
+                "NULL": true
+            },
             "name": {
-                "S": "mermaid fence"
+                "S": "Mermaid Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2059,14 +3031,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "14759"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -2074,8 +3055,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "park fence"
+                "S": "Park Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2097,14 +3087,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "14759"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -2112,8 +3111,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "park fence"
+                "S": "Park Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2135,14 +3143,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "14759"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -2150,8 +3167,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "park fence"
+                "S": "Park Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2173,14 +3199,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "14759"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -2188,8 +3223,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "park fence"
+                "S": "Park Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2211,14 +3255,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "14759"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -2226,8 +3279,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "park fence"
+                "S": "Park Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2249,14 +3311,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "14759"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -2264,8 +3335,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "park fence"
+                "S": "Park Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2287,14 +3367,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "14759"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -2302,8 +3391,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "park fence"
+                "S": "Park Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2325,14 +3423,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "14759"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -2340,8 +3447,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "park fence"
+                "S": "Park Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2363,14 +3479,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": false
+            },
+            "cyrus_currency": {
                 "NULL": true
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "NULL": true
             },
             "internal_id": {
                 "N": "4352"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -2378,8 +3503,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "NULL": true
+            },
+            "kit_currency": {
+                "NULL": true
+            },
+            "kit_price": {
+                "NULL": true
+            },
             "name": {
-                "S": "rope fence"
+                "S": "Rope Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2401,14 +3535,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "11711"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -2416,8 +3559,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "simple wooden fence"
+                "S": "Simple Wooden Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2439,14 +3591,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "11711"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -2454,8 +3615,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "simple wooden fence"
+                "S": "Simple Wooden Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2477,14 +3647,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "11711"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -2492,8 +3671,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "simple wooden fence"
+                "S": "Simple Wooden Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2515,14 +3703,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "11711"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -2530,8 +3727,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "simple wooden fence"
+                "S": "Simple Wooden Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2553,14 +3759,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "11711"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -2568,8 +3783,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "simple wooden fence"
+                "S": "Simple Wooden Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2591,14 +3815,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "11711"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -2606,8 +3839,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "simple wooden fence"
+                "S": "Simple Wooden Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2629,14 +3871,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "11711"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -2644,8 +3895,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "simple wooden fence"
+                "S": "Simple Wooden Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2667,14 +3927,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "11711"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -2682,8 +3951,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "simple wooden fence"
+                "S": "Simple Wooden Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2705,14 +3983,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": false
+            },
+            "cyrus_currency": {
                 "NULL": true
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "NULL": true
             },
             "internal_id": {
                 "N": "4358"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -2720,8 +4007,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "NULL": true
+            },
+            "kit_currency": {
+                "NULL": true
+            },
+            "kit_price": {
+                "NULL": true
+            },
             "name": {
-                "S": "spiky fence"
+                "S": "Spiky Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2743,14 +4039,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": false
+            },
+            "cyrus_currency": {
                 "NULL": true
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "NULL": true
             },
             "internal_id": {
                 "N": "13275"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -2758,8 +4063,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "NULL": true
+            },
+            "kit_currency": {
+                "NULL": true
+            },
+            "kit_price": {
+                "NULL": true
+            },
             "name": {
-                "S": "spooky fence"
+                "S": "Spooky Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2781,14 +4095,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": false
+            },
+            "cyrus_currency": {
                 "NULL": true
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "NULL": true
             },
             "internal_id": {
                 "N": "5212"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -2796,8 +4119,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "NULL": true
+            },
+            "kit_currency": {
+                "NULL": true
+            },
+            "kit_price": {
+                "NULL": true
+            },
             "name": {
-                "S": "stone fence"
+                "S": "Stone Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2819,14 +4151,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": false
+            },
+            "cyrus_currency": {
                 "NULL": true
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "NULL": true
             },
             "internal_id": {
                 "N": "4356"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -2834,8 +4175,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "NULL": true
+            },
+            "kit_currency": {
+                "NULL": true
+            },
+            "kit_price": {
+                "NULL": true
+            },
             "name": {
-                "S": "straw fence"
+                "S": "Straw Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2857,14 +4207,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "3402"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -2872,8 +4231,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "vertical-board fence"
+                "S": "Vertical-board Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2895,14 +4263,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "3402"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -2910,8 +4287,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "vertical-board fence"
+                "S": "Vertical-board Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2933,14 +4319,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "3402"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -2948,8 +4343,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "vertical-board fence"
+                "S": "Vertical-board Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2971,14 +4375,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "3402"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -2986,8 +4399,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "vertical-board fence"
+                "S": "Vertical-board Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3009,14 +4431,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "3402"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -3024,8 +4455,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "vertical-board fence"
+                "S": "Vertical-board Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3047,14 +4487,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "3402"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -3062,8 +4511,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "vertical-board fence"
+                "S": "Vertical-board Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3085,14 +4543,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "3402"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -3100,8 +4567,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "vertical-board fence"
+                "S": "Vertical-board Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3123,14 +4599,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "3402"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -3138,8 +4623,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "vertical-board fence"
+                "S": "Vertical-board Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3161,14 +4655,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "12894"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -3176,8 +4679,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "wedding fence"
+                "S": "Wedding Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3199,14 +4711,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "12894"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -3214,8 +4735,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "wedding fence"
+                "S": "Wedding Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3237,14 +4767,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "12894"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -3252,8 +4791,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "wedding fence"
+                "S": "Wedding Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3275,14 +4823,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "12894"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -3290,8 +4847,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "wedding fence"
+                "S": "Wedding Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3313,14 +4879,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "12894"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -3328,8 +4903,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "wedding fence"
+                "S": "Wedding Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3351,14 +4935,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "12894"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -3366,8 +4959,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "wedding fence"
+                "S": "Wedding Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3389,14 +4991,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "12894"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -3404,8 +5015,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "wedding fence"
+                "S": "Wedding Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3427,14 +5047,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "12894"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -3442,8 +5071,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "wedding fence"
+                "S": "Wedding Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3465,14 +5103,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "5207"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -3480,8 +5127,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "zen fence"
+                "S": "Zen Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3503,14 +5159,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "5207"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -3518,8 +5183,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "zen fence"
+                "S": "Zen Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3541,14 +5215,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "5207"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -3556,8 +5239,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "zen fence"
+                "S": "Zen Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3579,14 +5271,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "5207"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -3594,8 +5295,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "zen fence"
+                "S": "Zen Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3617,14 +5327,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "5207"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -3632,8 +5351,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "zen fence"
+                "S": "Zen Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3655,14 +5383,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "5207"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -3670,8 +5407,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "zen fence"
+                "S": "Zen Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3693,14 +5439,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "5207"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -3708,8 +5463,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "zen fence"
+                "S": "Zen Fence"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3731,14 +5495,23 @@
             "buy_price": {
                 "NULL": true
             },
-            "cyrus_customize_currency": {
+            "can_customize": {
+                "BOOL": true
+            },
+            "cyrus_currency": {
                 "S": "Bells"
             },
-            "cyrus_customize_price": {
+            "cyrus_price": {
                 "N": "1000"
             },
             "internal_id": {
                 "N": "5207"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
             },
             "is_craftable": {
                 "BOOL": true
@@ -3746,8 +5519,17 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "kit_category": {
+                "S": "Normal"
+            },
+            "kit_currency": {
+                "S": "Bells"
+            },
+            "kit_price": {
+                "N": "1"
+            },
             "name": {
-                "S": "zen fence"
+                "S": "Zen Fence"
             },
             "sell_currency": {
                 "S": "Bells"

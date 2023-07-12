@@ -19,23 +19,44 @@
             "exchange_price": {
                 "NULL": true
             },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "9948"
             },
-            "is_craftable": {
-                "BOOL": true
+            "internal_label": {
+                "NULL": true
             },
-            "is_equipment": {
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
                 "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
             "name": {
-                "S": "apple umbrella"
+                "S": "Apple Umbrella"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -43,8 +64,17 @@
             "sell_price": {
                 "N": "1400"
             },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
             "unique_entry_id": {
                 "S": "FPxdw28z9s2gYgjmr"
+            },
+            "villager_gender": {
+                "S": "Free"
             }
         },
         "TableName": "clothing_umbrella"
@@ -69,23 +99,44 @@
             "exchange_price": {
                 "NULL": true
             },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "6919"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": false
-            },
-            "is_equipment": {
-                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
             "name": {
-                "S": "bat umbrella"
+                "S": "Bat Umbrella"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -93,8 +144,17 @@
             "sell_price": {
                 "N": "210"
             },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
             "unique_entry_id": {
                 "S": "EZnRx49foq3M36yQ4"
+            },
+            "villager_gender": {
+                "S": "Free"
             }
         },
         "TableName": "clothing_umbrella"
@@ -119,23 +179,44 @@
             "exchange_price": {
                 "NULL": true
             },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "9957"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": false
-            },
-            "is_equipment": {
-                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
             "name": {
-                "S": "beach umbrella"
+                "S": "Beach Umbrella"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -143,8 +224,17 @@
             "sell_price": {
                 "N": "192"
             },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
             "unique_entry_id": {
                 "S": "3SSFuv6LiH63jych3"
+            },
+            "villager_gender": {
+                "S": "Free"
             }
         },
         "TableName": "clothing_umbrella"
@@ -169,23 +259,44 @@
             "exchange_price": {
                 "NULL": true
             },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "7167"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": false
-            },
-            "is_equipment": {
-                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
             "name": {
-                "S": "bear umbrella"
+                "S": "Bear Umbrella"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -193,8 +304,17 @@
             "sell_price": {
                 "N": "392"
             },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
             "unique_entry_id": {
                 "S": "s7KoPpysn27AeC5zi"
+            },
+            "villager_gender": {
+                "S": "Free"
             }
         },
         "TableName": "clothing_umbrella"
@@ -219,23 +339,44 @@
             "exchange_price": {
                 "NULL": true
             },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "12137"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": false
-            },
-            "is_equipment": {
-                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
             "name": {
-                "S": "black chic umbrella"
+                "S": "Black Chic Umbrella"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -243,8 +384,17 @@
             "sell_price": {
                 "N": "405"
             },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
             "unique_entry_id": {
                 "S": "p8yg9xiFwPscNDJNg"
+            },
+            "villager_gender": {
+                "S": "Free"
             }
         },
         "TableName": "clothing_umbrella"
@@ -269,23 +419,44 @@
             "exchange_price": {
                 "NULL": true
             },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "6915"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": false
-            },
-            "is_equipment": {
-                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
             "name": {
-                "S": "black lace umbrella"
+                "S": "Black Lace Umbrella"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -293,8 +464,17 @@
             "sell_price": {
                 "N": "187"
             },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
             "unique_entry_id": {
                 "S": "7vuSb5AutpNQA573q"
+            },
+            "villager_gender": {
+                "S": "Free"
             }
         },
         "TableName": "clothing_umbrella"
@@ -319,23 +499,44 @@
             "exchange_price": {
                 "NULL": true
             },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "9956"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": false
-            },
-            "is_equipment": {
-                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
             "name": {
-                "S": "blue dot parasol"
+                "S": "Blue Dot Parasol"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -343,8 +544,17 @@
             "sell_price": {
                 "N": "187"
             },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
             "unique_entry_id": {
                 "S": "SwKuBi2vT7K365A3p"
+            },
+            "villager_gender": {
+                "S": "Free"
             }
         },
         "TableName": "clothing_umbrella"
@@ -369,23 +579,44 @@
             "exchange_price": {
                 "NULL": true
             },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "12134"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": false
-            },
-            "is_equipment": {
-                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
             "name": {
-                "S": "blue shiny-bows parasol"
+                "S": "Blue Shiny-bows Parasol"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -393,8 +624,17 @@
             "sell_price": {
                 "N": "405"
             },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
             "unique_entry_id": {
                 "S": "BxZ4XdtfJEyWyBPFe"
+            },
+            "villager_gender": {
+                "S": "Free"
             }
         },
         "TableName": "clothing_umbrella"
@@ -419,23 +659,44 @@
             "exchange_price": {
                 "NULL": true
             },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "9959"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": false
-            },
-            "is_equipment": {
-                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
             "name": {
-                "S": "blue umbrella"
+                "S": "Blue Umbrella"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -443,8 +704,17 @@
             "sell_price": {
                 "N": "192"
             },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
             "unique_entry_id": {
                 "S": "XyJaqSLnBjh5J6vLp"
+            },
+            "villager_gender": {
+                "S": "Free"
             }
         },
         "TableName": "clothing_umbrella"
@@ -469,23 +739,44 @@
             "exchange_price": {
                 "NULL": true
             },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "7182"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": false
-            },
-            "is_equipment": {
-                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
             "name": {
-                "S": "busted umbrella"
+                "S": "Busted Umbrella"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -493,8 +784,17 @@
             "sell_price": {
                 "N": "392"
             },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
             "unique_entry_id": {
                 "S": "gkHD9GKJT9eAekxWQ"
+            },
+            "villager_gender": {
+                "S": "Free"
             }
         },
         "TableName": "clothing_umbrella"
@@ -519,23 +819,44 @@
             "exchange_price": {
                 "NULL": true
             },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "6923"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": false
-            },
-            "is_equipment": {
-                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
             "name": {
-                "S": "camo umbrella"
+                "S": "Camo Umbrella"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -543,8 +864,17 @@
             "sell_price": {
                 "N": "162"
             },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
             "unique_entry_id": {
                 "S": "RJYB5itM7mDdtWHpv"
+            },
+            "villager_gender": {
+                "S": "Free"
             }
         },
         "TableName": "clothing_umbrella"
@@ -569,23 +899,44 @@
             "exchange_price": {
                 "NULL": true
             },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "6926"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": false
-            },
-            "is_equipment": {
-                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
             "name": {
-                "S": "candy umbrella"
+                "S": "Candy Umbrella"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -593,8 +944,17 @@
             "sell_price": {
                 "N": "192"
             },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
             "unique_entry_id": {
                 "S": "F6KFg5Yhzgf78pudR"
+            },
+            "villager_gender": {
+                "S": "Free"
             }
         },
         "TableName": "clothing_umbrella"
@@ -619,23 +979,44 @@
             "exchange_price": {
                 "NULL": true
             },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "9949"
             },
-            "is_craftable": {
-                "BOOL": true
+            "internal_label": {
+                "NULL": true
             },
-            "is_equipment": {
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
                 "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
             "name": {
-                "S": "cherry umbrella"
+                "S": "Cherry Umbrella"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -643,8 +1024,17 @@
             "sell_price": {
                 "N": "1400"
             },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
             "unique_entry_id": {
                 "S": "YwHY3LQXsDeM2iosy"
+            },
+            "villager_gender": {
+                "S": "Free"
             }
         },
         "TableName": "clothing_umbrella"
@@ -669,23 +1059,44 @@
             "exchange_price": {
                 "NULL": true
             },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "201"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "9945"
             },
-            "is_craftable": {
-                "BOOL": true
+            "internal_label": {
+                "NULL": true
             },
-            "is_equipment": {
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
                 "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
             "name": {
-                "S": "cherry-blossom umbrella"
+                "S": "Cherry-blossom Umbrella"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -693,8 +1104,17 @@
             "sell_price": {
                 "N": "2800"
             },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
             "unique_entry_id": {
                 "S": "vTu5kLPipRb69vJA3"
+            },
+            "villager_gender": {
+                "S": "Free"
             }
         },
         "TableName": "clothing_umbrella"
@@ -719,17 +1139,38 @@
             "exchange_price": {
                 "NULL": true
             },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "251"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "9560"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": false
-            },
-            "is_equipment": {
-                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -743,8 +1184,17 @@
             "sell_price": {
                 "N": "1010"
             },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
             "unique_entry_id": {
                 "S": "vTdEjywjFjr8AkePD"
+            },
+            "villager_gender": {
+                "S": "Free"
             }
         },
         "TableName": "clothing_umbrella"
@@ -769,23 +1219,44 @@
             "exchange_price": {
                 "NULL": true
             },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "9955"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": false
-            },
-            "is_equipment": {
-                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
             "name": {
-                "S": "eggy parasol"
+                "S": "Eggy Parasol"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -793,8 +1264,17 @@
             "sell_price": {
                 "N": "187"
             },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
             "unique_entry_id": {
                 "S": "qf7Hn5CKMDMBpge9r"
+            },
+            "villager_gender": {
+                "S": "Free"
             }
         },
         "TableName": "clothing_umbrella"
@@ -819,23 +1299,44 @@
             "exchange_price": {
                 "NULL": true
             },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "7171"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": false
-            },
-            "is_equipment": {
-                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
             "name": {
-                "S": "exquisite parasol"
+                "S": "Exquisite Parasol"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -843,8 +1344,17 @@
             "sell_price": {
                 "N": "417"
             },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
             "unique_entry_id": {
                 "S": "tFFuizXunsrHcMbEj"
+            },
+            "villager_gender": {
+                "S": "Free"
             }
         },
         "TableName": "clothing_umbrella"
@@ -869,23 +1379,44 @@
             "exchange_price": {
                 "NULL": true
             },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "7175"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": false
-            },
-            "is_equipment": {
-                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
             "name": {
-                "S": "fairy-tale umbrella"
+                "S": "Fairy-tale Umbrella"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -893,8 +1424,17 @@
             "sell_price": {
                 "N": "205"
             },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
             "unique_entry_id": {
                 "S": "xKBGNFJd2qpWeDWjo"
+            },
+            "villager_gender": {
+                "S": "Free"
             }
         },
         "TableName": "clothing_umbrella"
@@ -919,23 +1459,44 @@
             "exchange_price": {
                 "NULL": true
             },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "501"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "8768"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": false
-            },
-            "is_equipment": {
-                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
             "name": {
-                "S": "fish umbrella"
+                "S": "Fish Umbrella"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -943,8 +1504,17 @@
             "sell_price": {
                 "N": "80"
             },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
             "unique_entry_id": {
                 "S": "bvwaqJav8wmjPj2RC"
+            },
+            "villager_gender": {
+                "S": "Free"
             }
         },
         "TableName": "clothing_umbrella"
@@ -969,23 +1539,44 @@
             "exchange_price": {
                 "NULL": true
             },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "6925"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": false
-            },
-            "is_equipment": {
-                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
             "name": {
-                "S": "frog umbrella"
+                "S": "Frog Umbrella"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -993,8 +1584,17 @@
             "sell_price": {
                 "N": "392"
             },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
             "unique_entry_id": {
                 "S": "nDBiFvLtf5KeStQNv"
+            },
+            "villager_gender": {
+                "S": "Free"
             }
         },
         "TableName": "clothing_umbrella"
@@ -1019,23 +1619,44 @@
             "exchange_price": {
                 "NULL": true
             },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "7180"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": false
-            },
-            "is_equipment": {
-                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
             "name": {
-                "S": "gelato umbrella"
+                "S": "Gelato Umbrella"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1043,8 +1664,17 @@
             "sell_price": {
                 "N": "187"
             },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
             "unique_entry_id": {
                 "S": "tupHZa6zDdFvobTEt"
+            },
+            "villager_gender": {
+                "S": "Free"
             }
         },
         "TableName": "clothing_umbrella"
@@ -1069,23 +1699,44 @@
             "exchange_price": {
                 "NULL": true
             },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "6924"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": false
-            },
-            "is_equipment": {
-                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
             "name": {
-                "S": "ghost umbrella"
+                "S": "Ghost Umbrella"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1093,8 +1744,17 @@
             "sell_price": {
                 "N": "417"
             },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
             "unique_entry_id": {
                 "S": "83zEbSL3S3dty4YjN"
+            },
+            "villager_gender": {
+                "S": "Free"
             }
         },
         "TableName": "clothing_umbrella"
@@ -1119,23 +1779,44 @@
             "exchange_price": {
                 "NULL": true
             },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "6911"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": false
-            },
-            "is_equipment": {
-                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
             "name": {
-                "S": "grape umbrella"
+                "S": "Grape Umbrella"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1143,8 +1824,17 @@
             "sell_price": {
                 "N": "387"
             },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
             "unique_entry_id": {
                 "S": "TJ9cw4XSj64u3uEsx"
+            },
+            "villager_gender": {
+                "S": "Free"
             }
         },
         "TableName": "clothing_umbrella"
@@ -1169,23 +1859,44 @@
             "exchange_price": {
                 "NULL": true
             },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "12136"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": false
-            },
-            "is_equipment": {
-                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
             "name": {
-                "S": "green chic umbrella"
+                "S": "Green Chic Umbrella"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1193,8 +1904,17 @@
             "sell_price": {
                 "N": "405"
             },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
             "unique_entry_id": {
                 "S": "u2YWae8oz23XcT4u9"
+            },
+            "villager_gender": {
+                "S": "Free"
             }
         },
         "TableName": "clothing_umbrella"
@@ -1219,23 +1939,44 @@
             "exchange_price": {
                 "NULL": true
             },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "9960"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": false
-            },
-            "is_equipment": {
-                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
             "name": {
-                "S": "green umbrella"
+                "S": "Green Umbrella"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1243,8 +1984,17 @@
             "sell_price": {
                 "N": "192"
             },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
             "unique_entry_id": {
                 "S": "8Hf4oRy3cQdundDJK"
+            },
+            "villager_gender": {
+                "S": "Free"
             }
         },
         "TableName": "clothing_umbrella"
@@ -1269,23 +2019,44 @@
             "exchange_price": {
                 "NULL": true
             },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "6906"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": false
-            },
-            "is_equipment": {
-                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
             "name": {
-                "S": "hydrangea umbrella"
+                "S": "Hydrangea Umbrella"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1293,8 +2064,17 @@
             "sell_price": {
                 "N": "187"
             },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
             "unique_entry_id": {
                 "S": "dmFbrs5ALCJG4KpzB"
+            },
+            "villager_gender": {
+                "S": "Free"
             }
         },
         "TableName": "clothing_umbrella"
@@ -1319,23 +2099,44 @@
             "exchange_price": {
                 "NULL": true
             },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "7177"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": false
-            },
-            "is_equipment": {
-                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
             "name": {
-                "S": "kabuki umbrella"
+                "S": "Kabuki Umbrella"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1343,8 +2144,17 @@
             "sell_price": {
                 "N": "417"
             },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
             "unique_entry_id": {
                 "S": "QenZWqPCSZr9ZCrRh"
+            },
+            "villager_gender": {
+                "S": "Free"
             }
         },
         "TableName": "clothing_umbrella"
@@ -1369,23 +2179,44 @@
             "exchange_price": {
                 "NULL": true
             },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "6908"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": false
-            },
-            "is_equipment": {
-                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
             "name": {
-                "S": "kiwi umbrella"
+                "S": "Kiwi Umbrella"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1393,8 +2224,17 @@
             "sell_price": {
                 "N": "387"
             },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
             "unique_entry_id": {
                 "S": "R9WBMjgoqLwiR3h76"
+            },
+            "villager_gender": {
+                "S": "Free"
             }
         },
         "TableName": "clothing_umbrella"
@@ -1419,23 +2259,44 @@
             "exchange_price": {
                 "NULL": true
             },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "9946"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": false
-            },
-            "is_equipment": {
-                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
             "name": {
-                "S": "lacy parasol"
+                "S": "Lacy Parasol"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1443,8 +2304,17 @@
             "sell_price": {
                 "N": "387"
             },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
             "unique_entry_id": {
                 "S": "8ND7Jkfb2fxLJaR7n"
+            },
+            "villager_gender": {
+                "S": "Free"
             }
         },
         "TableName": "clothing_umbrella"
@@ -1469,23 +2339,44 @@
             "exchange_price": {
                 "NULL": true
             },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "501"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "8767"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": false
-            },
-            "is_equipment": {
-                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
             "name": {
-                "S": "ladybug umbrella"
+                "S": "Ladybug Umbrella"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1493,8 +2384,17 @@
             "sell_price": {
                 "N": "80"
             },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
             "unique_entry_id": {
                 "S": "rHNt3mx5hEEDRSRiD"
+            },
+            "villager_gender": {
+                "S": "Free"
             }
         },
         "TableName": "clothing_umbrella"
@@ -1519,23 +2419,44 @@
             "exchange_price": {
                 "NULL": true
             },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "6840"
             },
-            "is_craftable": {
-                "BOOL": true
+            "internal_label": {
+                "NULL": true
             },
-            "is_equipment": {
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
                 "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
             "name": {
-                "S": "leaf umbrella"
+                "S": "Leaf Umbrella"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1543,8 +2464,17 @@
             "sell_price": {
                 "N": "300"
             },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
             "unique_entry_id": {
                 "S": "ZpYcNAofgCtnPfLj5"
+            },
+            "villager_gender": {
+                "S": "Free"
             }
         },
         "TableName": "clothing_umbrella"
@@ -1569,23 +2499,44 @@
             "exchange_price": {
                 "NULL": true
             },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "9954"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": false
-            },
-            "is_equipment": {
-                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
             "name": {
-                "S": "lemon umbrella"
+                "S": "Lemon Umbrella"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1593,8 +2544,17 @@
             "sell_price": {
                 "N": "192"
             },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
             "unique_entry_id": {
                 "S": "yKb3LfnWDwptRPAWK"
+            },
+            "villager_gender": {
+                "S": "Free"
             }
         },
         "TableName": "clothing_umbrella"
@@ -1619,23 +2579,44 @@
             "exchange_price": {
                 "NULL": true
             },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "7172"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": false
-            },
-            "is_equipment": {
-                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
             "name": {
-                "S": "logo umbrella"
+                "S": "Logo Umbrella"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1643,8 +2624,17 @@
             "sell_price": {
                 "N": "162"
             },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
             "unique_entry_id": {
                 "S": "sFtYCcv9wy78ujaZr"
+            },
+            "villager_gender": {
+                "S": "Free"
             }
         },
         "TableName": "clothing_umbrella"
@@ -1669,23 +2659,44 @@
             "exchange_price": {
                 "NULL": true
             },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "201"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "7169"
             },
-            "is_craftable": {
-                "BOOL": true
+            "internal_label": {
+                "NULL": true
             },
-            "is_equipment": {
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
                 "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
             "name": {
-                "S": "maple-leaf umbrella"
+                "S": "Maple-leaf Umbrella"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1693,8 +2704,17 @@
             "sell_price": {
                 "N": "2800"
             },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
             "unique_entry_id": {
                 "S": "b5gL4xdKJPZPjhYZM"
+            },
+            "villager_gender": {
+                "S": "Free"
             }
         },
         "TableName": "clothing_umbrella"
@@ -1719,23 +2739,44 @@
             "exchange_price": {
                 "NULL": true
             },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "9951"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": false
-            },
-            "is_equipment": {
-                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
             "name": {
-                "S": "melon umbrella"
+                "S": "Melon Umbrella"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1743,8 +2784,17 @@
             "sell_price": {
                 "N": "192"
             },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
             "unique_entry_id": {
                 "S": "oFFjNfN2G5BxasAem"
+            },
+            "villager_gender": {
+                "S": "Free"
             }
         },
         "TableName": "clothing_umbrella"
@@ -1769,23 +2819,44 @@
             "exchange_price": {
                 "NULL": true
             },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "6914"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": false
-            },
-            "is_equipment": {
-                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
             "name": {
-                "S": "mini-flower-print umbrella"
+                "S": "Mini-flower-print Umbrella"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1793,8 +2864,17 @@
             "sell_price": {
                 "N": "187"
             },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
             "unique_entry_id": {
                 "S": "G9dRhHQxBzYJB5mmE"
+            },
+            "villager_gender": {
+                "S": "Free"
             }
         },
         "TableName": "clothing_umbrella"
@@ -1819,23 +2899,44 @@
             "exchange_price": {
                 "NULL": true
             },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "9952"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": false
-            },
-            "is_equipment": {
-                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
             "name": {
-                "S": "mint umbrella"
+                "S": "Mint Umbrella"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1843,8 +2944,17 @@
             "sell_price": {
                 "N": "192"
             },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
             "unique_entry_id": {
                 "S": "F6fPRcpqGqhQ5oq7F"
+            },
+            "villager_gender": {
+                "S": "Free"
             }
         },
         "TableName": "clothing_umbrella"
@@ -1869,23 +2979,44 @@
             "exchange_price": {
                 "NULL": true
             },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "7174"
             },
-            "is_craftable": {
-                "BOOL": true
+            "internal_label": {
+                "NULL": true
             },
-            "is_equipment": {
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
                 "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
             "name": {
-                "S": "mush umbrella"
+                "S": "Mush Umbrella"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1893,8 +3024,17 @@
             "sell_price": {
                 "N": "1200"
             },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
             "unique_entry_id": {
                 "S": "LLSQNPiMBWXXdTYFo"
+            },
+            "villager_gender": {
+                "S": "Free"
             }
         },
         "TableName": "clothing_umbrella"
@@ -1919,17 +3059,38 @@
             "exchange_price": {
                 "N": "700"
             },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "151"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "9561"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": false
-            },
-            "is_equipment": {
-                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -1943,8 +3104,17 @@
             "sell_price": {
                 "N": "3500"
             },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
             "unique_entry_id": {
                 "S": "GX9s8tDymkHYHztY3"
+            },
+            "villager_gender": {
+                "S": "Free"
             }
         },
         "TableName": "clothing_umbrella"
@@ -1969,23 +3139,44 @@
             "exchange_price": {
                 "NULL": true
             },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "6912"
             },
-            "is_craftable": {
-                "BOOL": true
+            "internal_label": {
+                "NULL": true
             },
-            "is_equipment": {
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
                 "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
             "name": {
-                "S": "orange umbrella"
+                "S": "Orange Umbrella"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1993,8 +3184,17 @@
             "sell_price": {
                 "N": "1400"
             },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
             "unique_entry_id": {
                 "S": "ovb5ZxHTXJtBWQQxF"
+            },
+            "villager_gender": {
+                "S": "Free"
             }
         },
         "TableName": "clothing_umbrella"
@@ -2019,23 +3219,44 @@
             "exchange_price": {
                 "NULL": true
             },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "7170"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": false
-            },
-            "is_equipment": {
-                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
             "name": {
-                "S": "panda umbrella"
+                "S": "Panda Umbrella"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2043,8 +3264,17 @@
             "sell_price": {
                 "N": "392"
             },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
             "unique_entry_id": {
                 "S": "AJkrWywbkBfFpke5b"
+            },
+            "villager_gender": {
+                "S": "Free"
             }
         },
         "TableName": "clothing_umbrella"
@@ -2069,23 +3299,44 @@
             "exchange_price": {
                 "NULL": true
             },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "7178"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": false
-            },
-            "is_equipment": {
-                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
             "name": {
-                "S": "paper parasol"
+                "S": "Paper Parasol"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2093,8 +3344,17 @@
             "sell_price": {
                 "N": "217"
             },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
             "unique_entry_id": {
                 "S": "Brvfu2wmEsgfpsfe6"
+            },
+            "villager_gender": {
+                "S": "Free"
             }
         },
         "TableName": "clothing_umbrella"
@@ -2119,17 +3379,38 @@
             "exchange_price": {
                 "N": "1800"
             },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "151"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "14464"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": false
-            },
-            "is_equipment": {
-                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -2143,8 +3424,17 @@
             "sell_price": {
                 "N": "500"
             },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
             "unique_entry_id": {
                 "S": "RGq2nBQy9M3REEbrt"
+            },
+            "villager_gender": {
+                "S": "Free"
             }
         },
         "TableName": "clothing_umbrella"
@@ -2169,23 +3459,44 @@
             "exchange_price": {
                 "NULL": true
             },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "6918"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": false
-            },
-            "is_equipment": {
-                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
             "name": {
-                "S": "patterned vinyl umbrella"
+                "S": "Patterned Vinyl Umbrella"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2193,8 +3504,17 @@
             "sell_price": {
                 "N": "187"
             },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
             "unique_entry_id": {
                 "S": "KzFYhiwG4WmgGuewi"
+            },
+            "villager_gender": {
+                "S": "Free"
             }
         },
         "TableName": "clothing_umbrella"
@@ -2219,23 +3539,44 @@
             "exchange_price": {
                 "NULL": true
             },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "9947"
             },
-            "is_craftable": {
-                "BOOL": true
+            "internal_label": {
+                "NULL": true
             },
-            "is_equipment": {
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
                 "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
             "name": {
-                "S": "peach umbrella"
+                "S": "Peach Umbrella"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2243,8 +3584,17 @@
             "sell_price": {
                 "N": "1400"
             },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
             "unique_entry_id": {
                 "S": "e7KPGj99m2g9dvYfe"
+            },
+            "villager_gender": {
+                "S": "Free"
             }
         },
         "TableName": "clothing_umbrella"
@@ -2269,23 +3619,44 @@
             "exchange_price": {
                 "NULL": true
             },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "9950"
             },
-            "is_craftable": {
-                "BOOL": true
+            "internal_label": {
+                "NULL": true
             },
-            "is_equipment": {
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
                 "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
             "name": {
-                "S": "pear umbrella"
+                "S": "Pear Umbrella"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2293,8 +3664,17 @@
             "sell_price": {
                 "N": "1400"
             },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
             "unique_entry_id": {
                 "S": "2kKFs5wG5ioHGbGda"
+            },
+            "villager_gender": {
+                "S": "Free"
             }
         },
         "TableName": "clothing_umbrella"
@@ -2319,23 +3699,44 @@
             "exchange_price": {
                 "NULL": true
             },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "7181"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": false
-            },
-            "is_equipment": {
-                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
             "name": {
-                "S": "petal parasol"
+                "S": "Petal Parasol"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2343,8 +3744,17 @@
             "sell_price": {
                 "N": "397"
             },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
             "unique_entry_id": {
                 "S": "5qqATjxvMpMHmcDns"
+            },
+            "villager_gender": {
+                "S": "Free"
             }
         },
         "TableName": "clothing_umbrella"
@@ -2369,23 +3779,44 @@
             "exchange_price": {
                 "NULL": true
             },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "9953"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": false
-            },
-            "is_equipment": {
-                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
             "name": {
-                "S": "picnic umbrella"
+                "S": "Picnic Umbrella"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2393,8 +3824,17 @@
             "sell_price": {
                 "N": "192"
             },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
             "unique_entry_id": {
                 "S": "hvv9Bz2ey3iRvSnAL"
+            },
+            "villager_gender": {
+                "S": "Free"
             }
         },
         "TableName": "clothing_umbrella"
@@ -2419,23 +3859,44 @@
             "exchange_price": {
                 "NULL": true
             },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "6910"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": false
-            },
-            "is_equipment": {
-                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
             "name": {
-                "S": "pineapple umbrella"
+                "S": "Pineapple Umbrella"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2443,8 +3904,17 @@
             "sell_price": {
                 "N": "387"
             },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
             "unique_entry_id": {
                 "S": "ohMyh5kSBGg8Zayyh"
+            },
+            "villager_gender": {
+                "S": "Free"
             }
         },
         "TableName": "clothing_umbrella"
@@ -2469,23 +3939,44 @@
             "exchange_price": {
                 "NULL": true
             },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "7176"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": false
-            },
-            "is_equipment": {
-                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
             "name": {
-                "S": "pink shiny-bows parasol"
+                "S": "Pink Shiny-bows Parasol"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2493,8 +3984,17 @@
             "sell_price": {
                 "N": "405"
             },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
             "unique_entry_id": {
                 "S": "PTvmPPNiXMZ4jhBKX"
+            },
+            "villager_gender": {
+                "S": "Free"
             }
         },
         "TableName": "clothing_umbrella"
@@ -2519,23 +4019,44 @@
             "exchange_price": {
                 "NULL": true
             },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "7164"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": false
-            },
-            "is_equipment": {
-                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
             "name": {
-                "S": "pink umbrella"
+                "S": "Pink Umbrella"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2543,8 +4064,17 @@
             "sell_price": {
                 "N": "192"
             },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
             "unique_entry_id": {
                 "S": "Cg8DXnxz3AtYJvdPE"
+            },
+            "villager_gender": {
+                "S": "Free"
             }
         },
         "TableName": "clothing_umbrella"
@@ -2569,23 +4099,44 @@
             "exchange_price": {
                 "NULL": true
             },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "7183"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": false
-            },
-            "is_equipment": {
-                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
             "name": {
-                "S": "purple chic umbrella"
+                "S": "Purple Chic Umbrella"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2593,8 +4144,17 @@
             "sell_price": {
                 "N": "405"
             },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
             "unique_entry_id": {
                 "S": "2dXt6F6XwMf346Zbv"
+            },
+            "villager_gender": {
+                "S": "Free"
             }
         },
         "TableName": "clothing_umbrella"
@@ -2619,23 +4179,44 @@
             "exchange_price": {
                 "NULL": true
             },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "12133"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": false
-            },
-            "is_equipment": {
-                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
             "name": {
-                "S": "purple shiny-bows parasol"
+                "S": "Purple Shiny-bows Parasol"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2643,8 +4224,17 @@
             "sell_price": {
                 "N": "405"
             },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
             "unique_entry_id": {
                 "S": "J6FrqXxBPqGNBs4sC"
+            },
+            "villager_gender": {
+                "S": "Free"
             }
         },
         "TableName": "clothing_umbrella"
@@ -2669,23 +4259,44 @@
             "exchange_price": {
                 "NULL": true
             },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "7179"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": false
-            },
-            "is_equipment": {
-                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
             "name": {
-                "S": "rainbow umbrella"
+                "S": "Rainbow Umbrella"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2693,8 +4304,17 @@
             "sell_price": {
                 "N": "210"
             },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
             "unique_entry_id": {
                 "S": "P9bMZJY3n2dtooq5X"
+            },
+            "villager_gender": {
+                "S": "Free"
             }
         },
         "TableName": "clothing_umbrella"
@@ -2719,23 +4339,44 @@
             "exchange_price": {
                 "NULL": true
             },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "6913"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": false
-            },
-            "is_equipment": {
-                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
             "name": {
-                "S": "raindrop umbrella"
+                "S": "Raindrop Umbrella"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2743,8 +4384,17 @@
             "sell_price": {
                 "N": "187"
             },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
             "unique_entry_id": {
                 "S": "Djdj6KiSLh82BHzqB"
+            },
+            "villager_gender": {
+                "S": "Free"
             }
         },
         "TableName": "clothing_umbrella"
@@ -2769,23 +4419,44 @@
             "exchange_price": {
                 "NULL": true
             },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "12138"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": false
-            },
-            "is_equipment": {
-                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
             "name": {
-                "S": "red chic umbrella"
+                "S": "Red Chic Umbrella"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2793,8 +4464,17 @@
             "sell_price": {
                 "N": "405"
             },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
             "unique_entry_id": {
                 "S": "kKoJtAcxMDNKq7tNu"
+            },
+            "villager_gender": {
+                "S": "Free"
             }
         },
         "TableName": "clothing_umbrella"
@@ -2819,23 +4499,44 @@
             "exchange_price": {
                 "NULL": true
             },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "9958"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": false
-            },
-            "is_equipment": {
-                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
             "name": {
-                "S": "red umbrella"
+                "S": "Red Umbrella"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2843,8 +4544,17 @@
             "sell_price": {
                 "N": "192"
             },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
             "unique_entry_id": {
                 "S": "Z9yCA3wawXdQsbLSs"
+            },
+            "villager_gender": {
+                "S": "Free"
             }
         },
         "TableName": "clothing_umbrella"
@@ -2869,23 +4579,44 @@
             "exchange_price": {
                 "NULL": true
             },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "6905"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": false
-            },
-            "is_equipment": {
-                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
             "name": {
-                "S": "snowflake umbrella"
+                "S": "Snowflake Umbrella"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2893,8 +4624,17 @@
             "sell_price": {
                 "N": "387"
             },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
             "unique_entry_id": {
                 "S": "r5RwHucDKWJPg7dkv"
+            },
+            "villager_gender": {
+                "S": "Free"
             }
         },
         "TableName": "clothing_umbrella"
@@ -2919,23 +4659,44 @@
             "exchange_price": {
                 "NULL": true
             },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "7173"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": false
-            },
-            "is_equipment": {
-                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
             "name": {
-                "S": "spider umbrella"
+                "S": "Spider Umbrella"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2943,8 +4704,17 @@
             "sell_price": {
                 "N": "210"
             },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
             "unique_entry_id": {
                 "S": "aaQhimbednGniK4NF"
+            },
+            "villager_gender": {
+                "S": "Free"
             }
         },
         "TableName": "clothing_umbrella"
@@ -2969,23 +4739,44 @@
             "exchange_price": {
                 "NULL": true
             },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "6907"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": false
-            },
-            "is_equipment": {
-                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
             "name": {
-                "S": "strawberry umbrella"
+                "S": "Strawberry Umbrella"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2993,8 +4784,17 @@
             "sell_price": {
                 "N": "387"
             },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
             "unique_entry_id": {
                 "S": "kKQHooYToACDqoqBm"
+            },
+            "villager_gender": {
+                "S": "Free"
             }
         },
         "TableName": "clothing_umbrella"
@@ -3019,23 +4819,44 @@
             "exchange_price": {
                 "NULL": true
             },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "6916"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": false
-            },
-            "is_equipment": {
-                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
             "name": {
-                "S": "striped umbrella"
+                "S": "Striped Umbrella"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3043,8 +4864,17 @@
             "sell_price": {
                 "N": "187"
             },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
             "unique_entry_id": {
                 "S": "hF2THDnHbEJWTDT8L"
+            },
+            "villager_gender": {
+                "S": "Free"
             }
         },
         "TableName": "clothing_umbrella"
@@ -3069,23 +4899,44 @@
             "exchange_price": {
                 "NULL": true
             },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "6904"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": false
-            },
-            "is_equipment": {
-                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
             "name": {
-                "S": "sunny parasol"
+                "S": "Sunny Parasol"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3093,8 +4944,17 @@
             "sell_price": {
                 "N": "187"
             },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
             "unique_entry_id": {
                 "S": "thr45xserbQqAm6o4"
+            },
+            "villager_gender": {
+                "S": "Free"
             }
         },
         "TableName": "clothing_umbrella"
@@ -3119,23 +4979,44 @@
             "exchange_price": {
                 "NULL": true
             },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "6917"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": false
-            },
-            "is_equipment": {
-                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
             "name": {
-                "S": "tartan-check umbrella"
+                "S": "Tartan-check Umbrella"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3143,8 +5024,17 @@
             "sell_price": {
                 "N": "187"
             },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
             "unique_entry_id": {
                 "S": "HjZzRQKbMdXBKYawe"
+            },
+            "villager_gender": {
+                "S": "Free"
             }
         },
         "TableName": "clothing_umbrella"
@@ -3169,17 +5059,38 @@
             "exchange_price": {
                 "NULL": true
             },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "5861"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": false
-            },
-            "is_equipment": {
-                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -3193,8 +5104,17 @@
             "sell_price": {
                 "N": "187"
             },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
             "unique_entry_id": {
                 "S": "HnmPeaovKNwg7ZuBL"
+            },
+            "villager_gender": {
+                "S": "Free"
             }
         },
         "TableName": "clothing_umbrella"
@@ -3219,23 +5139,44 @@
             "exchange_price": {
                 "NULL": true
             },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "7166"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": false
-            },
-            "is_equipment": {
-                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
             "name": {
-                "S": "two-tone umbrella"
+                "S": "Two-tone Umbrella"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3243,8 +5184,17 @@
             "sell_price": {
                 "N": "192"
             },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
             "unique_entry_id": {
                 "S": "Da4xWXq9D2RFLnyYj"
+            },
+            "villager_gender": {
+                "S": "Free"
             }
         },
         "TableName": "clothing_umbrella"
@@ -3269,23 +5219,44 @@
             "exchange_price": {
                 "NULL": true
             },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "7165"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": false
-            },
-            "is_equipment": {
-                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
             "name": {
-                "S": "vinyl umbrella"
+                "S": "Vinyl Umbrella"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3293,8 +5264,17 @@
             "sell_price": {
                 "N": "192"
             },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
             "unique_entry_id": {
                 "S": "q4Eo8vxPLFCL4ppac"
+            },
+            "villager_gender": {
+                "S": "Free"
             }
         },
         "TableName": "clothing_umbrella"
@@ -3319,23 +5299,44 @@
             "exchange_price": {
                 "NULL": true
             },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "6909"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": false
-            },
-            "is_equipment": {
-                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
             "name": {
-                "S": "watermelon umbrella"
+                "S": "Watermelon Umbrella"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3343,8 +5344,17 @@
             "sell_price": {
                 "N": "387"
             },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
             "unique_entry_id": {
                 "S": "JTchAPvto4vHBJANw"
+            },
+            "villager_gender": {
+                "S": "Free"
             }
         },
         "TableName": "clothing_umbrella"
@@ -3369,23 +5379,44 @@
             "exchange_price": {
                 "NULL": true
             },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
             "hha_points": {
                 "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
             },
             "internal_id": {
                 "N": "12135"
             },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
             "is_craftable": {
                 "BOOL": false
-            },
-            "is_equipment": {
-                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
             },
             "name": {
-                "S": "white shiny-bows parasol"
+                "S": "White Shiny-bows Parasol"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3393,8 +5424,17 @@
             "sell_price": {
                 "N": "405"
             },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
             "unique_entry_id": {
                 "S": "4btSNLBHRoocAXfgE"
+            },
+            "villager_gender": {
+                "S": "Free"
             }
         },
         "TableName": "clothing_umbrella"

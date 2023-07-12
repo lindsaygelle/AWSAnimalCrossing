@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 7,
-    "minProperties": 7,
+    "maxProperties": 8,
+    "minProperties": 8,
     "properties": {
         "criteria": {
             "maxLength": 130,
@@ -17,13 +17,6 @@
                 "string"
             ]
         },
-        "internal_category": {
-            "maxLength": 13,
-            "minLength": 3,
-            "type": [
-                "string"
-            ]
-        },
         "internal_id": {
             "exclusiveMaximum": false,
             "exclusiveMinimum": false,
@@ -33,11 +26,21 @@
                 "integer"
             ]
         },
+        "internal_label": {
+            "type": [
+                "null"
+            ]
+        },
         "internal_name": {
             "maxLength": 25,
             "minLength": 7,
             "type": [
                 "string"
+            ]
+        },
+        "is_sequential": {
+            "type": [
+                "boolean"
             ]
         },
         "name": {
@@ -58,9 +61,10 @@
     "required": [
         "criteria",
         "description",
-        "internal_category",
         "internal_id",
+        "internal_label",
         "internal_name",
+        "is_sequential",
         "name",
         "unique_entry_id"
     ],

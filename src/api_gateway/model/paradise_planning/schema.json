@@ -1,11 +1,18 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 2,
-    "minProperties": 2,
+    "maxProperties": 3,
+    "minProperties": 3,
     "properties": {
         "name": {
             "maxLength": 10,
             "minLength": 2,
+            "type": [
+                "string"
+            ]
+        },
+        "song_name": {
+            "maxLength": 16,
+            "minLength": 7,
             "type": [
                 "string"
             ]
@@ -20,6 +27,7 @@
     },
     "required": [
         "name",
+        "song_name",
         "unique_entry_id"
     ],
     "title": "ParadisePlanning",

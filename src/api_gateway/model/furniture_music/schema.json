@@ -1,14 +1,14 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 11,
-    "minProperties": 11,
+    "maxProperties": 20,
+    "minProperties": 20,
     "properties": {
         "buy_currency": {
             "maxLength": 5,
             "minLength": 5,
             "type": [
-                "string",
-                "null"
+                "null",
+                "string"
             ]
         },
         "buy_price": {
@@ -17,23 +17,38 @@
             "maximum": 3200,
             "minimum": 3200,
             "type": [
-                "null",
-                "integer"
+                "integer",
+                "null"
             ]
         },
         "color_1": {
             "maxLength": 5,
             "minLength": 5,
             "type": [
-                "string",
-                "null"
+                "null",
+                "string"
             ]
         },
         "color_2": {
             "maxLength": 8,
             "minLength": 3,
             "type": [
-                "string",
+                "null",
+                "string"
+            ]
+        },
+        "hha_category": {
+            "type": [
+                "null"
+            ]
+        },
+        "hha_concept_1": {
+            "type": [
+                "null"
+            ]
+        },
+        "hha_concept_2": {
+            "type": [
                 "null"
             ]
         },
@@ -46,6 +61,16 @@
                 "integer"
             ]
         },
+        "hha_series": {
+            "type": [
+                "null"
+            ]
+        },
+        "hha_set": {
+            "type": [
+                "null"
+            ]
+        },
         "internal_id": {
             "exclusiveMaximum": false,
             "exclusiveMinimum": false,
@@ -53,6 +78,16 @@
             "minimum": 2405,
             "type": [
                 "integer"
+            ]
+        },
+        "internal_label": {
+            "type": [
+                "null"
+            ]
+        },
+        "internal_name": {
+            "type": [
+                "null"
             ]
         },
         "is_unlocked": {
@@ -71,8 +106,8 @@
             "maxLength": 5,
             "minLength": 5,
             "type": [
-                "string",
-                "null"
+                "null",
+                "string"
             ]
         },
         "sell_price": {
@@ -81,8 +116,26 @@
             "maximum": 800,
             "minimum": 800,
             "type": [
-                "null",
-                "integer"
+                "integer",
+                "null"
+            ]
+        },
+        "size_1": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 1.0,
+            "minimum": 1.0,
+            "type": [
+                "number"
+            ]
+        },
+        "size_2": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 1.0,
+            "minimum": 1.0,
+            "type": [
+                "number"
             ]
         },
         "unique_entry_id": {
@@ -98,12 +151,21 @@
         "buy_price",
         "color_1",
         "color_2",
+        "hha_category",
+        "hha_concept_1",
+        "hha_concept_2",
         "hha_points",
+        "hha_series",
+        "hha_set",
         "internal_id",
+        "internal_label",
+        "internal_name",
         "is_unlocked",
         "name",
         "sell_currency",
         "sell_price",
+        "size_1",
+        "size_2",
         "unique_entry_id"
     ],
     "title": "FurnitureMusic",

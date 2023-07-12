@@ -1,14 +1,14 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 17,
-    "minProperties": 17,
+    "maxProperties": 30,
+    "minProperties": 30,
     "properties": {
         "buy_currency": {
             "maxLength": 5,
             "minLength": 5,
             "type": [
-                "string",
-                "null"
+                "null",
+                "string"
             ]
         },
         "buy_price": {
@@ -17,50 +17,55 @@
             "maximum": 12240,
             "minimum": 100,
             "type": [
-                "null",
-                "integer"
+                "integer",
+                "null"
+            ]
+        },
+        "can_customize": {
+            "type": [
+                "boolean"
             ]
         },
         "color_1": {
             "maxLength": 8,
             "minLength": 3,
             "type": [
-                "string",
-                "null"
+                "null",
+                "string"
             ]
         },
         "color_2": {
             "maxLength": 8,
             "minLength": 3,
             "type": [
-                "string",
-                "null"
+                "null",
+                "string"
             ]
         },
-        "cyrus_customize_currency": {
+        "cyrus_currency": {
             "maxLength": 5,
             "minLength": 5,
             "type": [
-                "string",
-                "null"
+                "null",
+                "string"
             ]
         },
-        "cyrus_customize_price": {
+        "cyrus_price": {
             "exclusiveMaximum": false,
             "exclusiveMinimum": false,
             "maximum": 1000,
             "minimum": 1000,
             "type": [
-                "null",
-                "integer"
+                "integer",
+                "null"
             ]
         },
         "exchange_currency": {
             "maxLength": 11,
             "minLength": 5,
             "type": [
-                "string",
-                "null"
+                "null",
+                "string"
             ]
         },
         "exchange_price": {
@@ -69,8 +74,26 @@
             "maximum": 500,
             "minimum": 30,
             "type": [
+                "integer",
+                "null"
+            ]
+        },
+        "hha_category": {
+            "type": [
+                "null"
+            ]
+        },
+        "hha_concept_1": {
+            "maxLength": 10,
+            "minLength": 5,
+            "type": [
                 "null",
-                "integer"
+                "string"
+            ]
+        },
+        "hha_concept_2": {
+            "type": [
+                "null"
             ]
         },
         "hha_points": {
@@ -82,6 +105,16 @@
                 "integer"
             ]
         },
+        "hha_series": {
+            "type": [
+                "null"
+            ]
+        },
+        "hha_set": {
+            "type": [
+                "null"
+            ]
+        },
         "internal_id": {
             "exclusiveMaximum": false,
             "exclusiveMinimum": false,
@@ -91,12 +124,17 @@
                 "integer"
             ]
         },
-        "is_craftable": {
+        "internal_label": {
             "type": [
-                "boolean"
+                "null"
             ]
         },
-        "is_equipment": {
+        "internal_name": {
+            "type": [
+                "null"
+            ]
+        },
+        "is_craftable": {
             "type": [
                 "boolean"
             ]
@@ -104,6 +142,39 @@
         "is_unlocked": {
             "type": [
                 "boolean"
+            ]
+        },
+        "kit_category": {
+            "maxLength": 7,
+            "minLength": 6,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "kit_currency": {
+            "maxLength": 5,
+            "minLength": 5,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "kit_price": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 1,
+            "minimum": 1,
+            "type": [
+                "integer",
+                "null"
+            ]
+        },
+        "lighting_category": {
+            "maxLength": 11,
+            "minLength": 6,
+            "type": [
+                "string"
             ]
         },
         "name": {
@@ -117,8 +188,8 @@
             "maxLength": 5,
             "minLength": 5,
             "type": [
-                "string",
-                "null"
+                "null",
+                "string"
             ]
         },
         "sell_price": {
@@ -127,8 +198,26 @@
             "maximum": 20750,
             "minimum": 10,
             "type": [
-                "null",
-                "integer"
+                "integer",
+                "null"
+            ]
+        },
+        "size_1": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 1.0,
+            "minimum": 1.0,
+            "type": [
+                "number"
+            ]
+        },
+        "size_2": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 1.0,
+            "minimum": 1.0,
+            "type": [
+                "number"
             ]
         },
         "unique_entry_id": {
@@ -142,20 +231,33 @@
     "required": [
         "buy_currency",
         "buy_price",
+        "can_customize",
         "color_1",
         "color_2",
-        "cyrus_customize_currency",
-        "cyrus_customize_price",
+        "cyrus_currency",
+        "cyrus_price",
         "exchange_currency",
         "exchange_price",
+        "hha_category",
+        "hha_concept_1",
+        "hha_concept_2",
         "hha_points",
+        "hha_series",
+        "hha_set",
         "internal_id",
+        "internal_label",
+        "internal_name",
         "is_craftable",
-        "is_equipment",
         "is_unlocked",
+        "kit_category",
+        "kit_currency",
+        "kit_price",
+        "lighting_category",
         "name",
         "sell_currency",
         "sell_price",
+        "size_1",
+        "size_2",
         "unique_entry_id"
     ],
     "title": "Item",

@@ -1,14 +1,14 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 16,
-    "minProperties": 16,
+    "maxProperties": 34,
+    "minProperties": 34,
     "properties": {
         "buy_currency": {
             "maxLength": 5,
             "minLength": 5,
             "type": [
-                "string",
-                "null"
+                "null",
+                "string"
             ]
         },
         "buy_price": {
@@ -17,8 +17,18 @@
             "maximum": 140000,
             "minimum": 340,
             "type": [
-                "null",
-                "integer"
+                "integer",
+                "null"
+            ]
+        },
+        "can_customize_body": {
+            "type": [
+                "boolean"
+            ]
+        },
+        "can_customize_pattern": {
+            "type": [
+                "boolean"
             ]
         },
         "color_1": {
@@ -35,30 +45,30 @@
                 "string"
             ]
         },
-        "cyrus_customize_currency": {
+        "cyrus_currency": {
             "maxLength": 5,
             "minLength": 5,
             "type": [
-                "string",
-                "null"
+                "null",
+                "string"
             ]
         },
-        "cyrus_customize_price": {
+        "cyrus_price": {
             "exclusiveMaximum": false,
             "exclusiveMinimum": false,
             "maximum": 5200,
             "minimum": 1000,
             "type": [
-                "null",
-                "integer"
+                "integer",
+                "null"
             ]
         },
         "exchange_currency": {
             "maxLength": 14,
             "minLength": 4,
             "type": [
-                "string",
-                "null"
+                "null",
+                "string"
             ]
         },
         "exchange_price": {
@@ -67,8 +77,31 @@
             "maximum": 126000,
             "minimum": 3,
             "type": [
+                "integer",
+                "null"
+            ]
+        },
+        "hha_category": {
+            "maxLength": 9,
+            "minLength": 2,
+            "type": [
                 "null",
-                "integer"
+                "string"
+            ]
+        },
+        "hha_concept_1": {
+            "maxLength": 13,
+            "minLength": 3,
+            "type": [
+                "string"
+            ]
+        },
+        "hha_concept_2": {
+            "maxLength": 12,
+            "minLength": 3,
+            "type": [
+                "null",
+                "string"
             ]
         },
         "hha_points": {
@@ -80,6 +113,22 @@
                 "integer"
             ]
         },
+        "hha_series": {
+            "maxLength": 23,
+            "minLength": 3,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "hha_set": {
+            "maxLength": 15,
+            "minLength": 5,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
         "internal_id": {
             "exclusiveMaximum": false,
             "exclusiveMinimum": false,
@@ -89,7 +138,32 @@
                 "integer"
             ]
         },
+        "internal_label": {
+            "type": [
+                "null"
+            ]
+        },
+        "internal_name": {
+            "type": [
+                "null"
+            ]
+        },
         "is_craftable": {
+            "type": [
+                "boolean"
+            ]
+        },
+        "is_door_decoration": {
+            "type": [
+                "boolean"
+            ]
+        },
+        "is_interactive": {
+            "type": [
+                "boolean"
+            ]
+        },
+        "is_outdoors": {
             "type": [
                 "boolean"
             ]
@@ -97,6 +171,39 @@
         "is_unlocked": {
             "type": [
                 "boolean"
+            ]
+        },
+        "kit_category": {
+            "maxLength": 7,
+            "minLength": 6,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "kit_currency": {
+            "maxLength": 5,
+            "minLength": 5,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "kit_price": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 7,
+            "minimum": 1,
+            "type": [
+                "integer",
+                "null"
+            ]
+        },
+        "lighting_category": {
+            "maxLength": 11,
+            "minLength": 6,
+            "type": [
+                "string"
             ]
         },
         "name": {
@@ -122,6 +229,24 @@
                 "integer"
             ]
         },
+        "size_1": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 2.0,
+            "minimum": 0.5,
+            "type": [
+                "number"
+            ]
+        },
+        "size_2": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 2.0,
+            "minimum": 0.5,
+            "type": [
+                "number"
+            ]
+        },
         "unique_entry_id": {
             "maxLength": 17,
             "minLength": 17,
@@ -133,19 +258,37 @@
     "required": [
         "buy_currency",
         "buy_price",
+        "can_customize_body",
+        "can_customize_pattern",
         "color_1",
         "color_2",
-        "cyrus_customize_currency",
-        "cyrus_customize_price",
+        "cyrus_currency",
+        "cyrus_price",
         "exchange_currency",
         "exchange_price",
+        "hha_category",
+        "hha_concept_1",
+        "hha_concept_2",
         "hha_points",
+        "hha_series",
+        "hha_set",
         "internal_id",
+        "internal_label",
+        "internal_name",
         "is_craftable",
+        "is_door_decoration",
+        "is_interactive",
+        "is_outdoors",
         "is_unlocked",
+        "kit_category",
+        "kit_currency",
+        "kit_price",
+        "lighting_category",
         "name",
         "sell_currency",
         "sell_price",
+        "size_1",
+        "size_2",
         "unique_entry_id"
     ],
     "title": "FurnitureWallMounted",

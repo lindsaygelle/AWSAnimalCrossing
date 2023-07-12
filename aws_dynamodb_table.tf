@@ -1,3 +1,4 @@
+// achievement
 resource "aws_dynamodb_table" "achievement" {
   billing_mode = "PAY_PER_REQUEST"
   hash_key     = "unique_entry_id"
@@ -8,6 +9,7 @@ resource "aws_dynamodb_table" "achievement" {
   }
 }
 
+// card
 resource "aws_dynamodb_table" "card" {
   billing_mode = "PAY_PER_REQUEST"
   hash_key     = "unique_entry_id"
@@ -18,6 +20,7 @@ resource "aws_dynamodb_table" "card" {
   }
 }
 
+// clothing_accessory
 resource "aws_dynamodb_table" "clothing_accessory" {
   billing_mode = "PAY_PER_REQUEST"
   hash_key     = "unique_entry_id"
@@ -28,6 +31,7 @@ resource "aws_dynamodb_table" "clothing_accessory" {
   }
 }
 
+// clothing_bag
 resource "aws_dynamodb_table" "clothing_bag" {
   billing_mode = "PAY_PER_REQUEST"
   hash_key     = "unique_entry_id"
@@ -38,6 +42,7 @@ resource "aws_dynamodb_table" "clothing_bag" {
   }
 }
 
+// clothing_bottom
 resource "aws_dynamodb_table" "clothing_bottom" {
   billing_mode = "PAY_PER_REQUEST"
   hash_key     = "unique_entry_id"
@@ -48,6 +53,7 @@ resource "aws_dynamodb_table" "clothing_bottom" {
   }
 }
 
+// clothing_dress_up
 resource "aws_dynamodb_table" "clothing_dress_up" {
   billing_mode = "PAY_PER_REQUEST"
   hash_key     = "unique_entry_id"
@@ -58,6 +64,7 @@ resource "aws_dynamodb_table" "clothing_dress_up" {
   }
 }
 
+// clothing_headwear
 resource "aws_dynamodb_table" "clothing_headwear" {
   billing_mode = "PAY_PER_REQUEST"
   hash_key     = "unique_entry_id"
@@ -68,6 +75,7 @@ resource "aws_dynamodb_table" "clothing_headwear" {
   }
 }
 
+// clothing_other
 resource "aws_dynamodb_table" "clothing_other" {
   billing_mode = "PAY_PER_REQUEST"
   hash_key     = "unique_entry_id"
@@ -78,6 +86,7 @@ resource "aws_dynamodb_table" "clothing_other" {
   }
 }
 
+// clothing_shoe
 resource "aws_dynamodb_table" "clothing_shoe" {
   billing_mode = "PAY_PER_REQUEST"
   hash_key     = "unique_entry_id"
@@ -88,6 +97,7 @@ resource "aws_dynamodb_table" "clothing_shoe" {
   }
 }
 
+// clothing_sock
 resource "aws_dynamodb_table" "clothing_sock" {
   billing_mode = "PAY_PER_REQUEST"
   hash_key     = "unique_entry_id"
@@ -98,6 +108,7 @@ resource "aws_dynamodb_table" "clothing_sock" {
   }
 }
 
+// clothing_top
 resource "aws_dynamodb_table" "clothing_top" {
   billing_mode = "PAY_PER_REQUEST"
   hash_key     = "unique_entry_id"
@@ -108,6 +119,7 @@ resource "aws_dynamodb_table" "clothing_top" {
   }
 }
 
+// clothing_umbrella
 resource "aws_dynamodb_table" "clothing_umbrella" {
   billing_mode = "PAY_PER_REQUEST"
   hash_key     = "unique_entry_id"
@@ -118,6 +130,7 @@ resource "aws_dynamodb_table" "clothing_umbrella" {
   }
 }
 
+// construction
 resource "aws_dynamodb_table" "construction" {
   billing_mode = "PAY_PER_REQUEST"
   hash_key     = "unique_entry_id"
@@ -128,6 +141,7 @@ resource "aws_dynamodb_table" "construction" {
   }
 }
 
+// creature_fish
 resource "aws_dynamodb_table" "creature_fish" {
   billing_mode = "PAY_PER_REQUEST"
   hash_key     = "unique_entry_id"
@@ -138,6 +152,7 @@ resource "aws_dynamodb_table" "creature_fish" {
   }
 }
 
+// creature_insect
 resource "aws_dynamodb_table" "creature_insect" {
   billing_mode = "PAY_PER_REQUEST"
   hash_key     = "unique_entry_id"
@@ -148,6 +163,7 @@ resource "aws_dynamodb_table" "creature_insect" {
   }
 }
 
+// creature_sea
 resource "aws_dynamodb_table" "creature_sea" {
   billing_mode = "PAY_PER_REQUEST"
   hash_key     = "unique_entry_id"
@@ -158,6 +174,7 @@ resource "aws_dynamodb_table" "creature_sea" {
   }
 }
 
+// furniture_artwork
 resource "aws_dynamodb_table" "furniture_artwork" {
   billing_mode = "PAY_PER_REQUEST"
   hash_key     = "unique_entry_id"
@@ -168,6 +185,7 @@ resource "aws_dynamodb_table" "furniture_artwork" {
   }
 }
 
+// furniture_ceiling
 resource "aws_dynamodb_table" "furniture_ceiling" {
   billing_mode = "PAY_PER_REQUEST"
   hash_key     = "unique_entry_id"
@@ -178,6 +196,7 @@ resource "aws_dynamodb_table" "furniture_ceiling" {
   }
 }
 
+// furniture_fencing
 resource "aws_dynamodb_table" "furniture_fencing" {
   billing_mode = "PAY_PER_REQUEST"
   hash_key     = "unique_entry_id"
@@ -188,6 +207,7 @@ resource "aws_dynamodb_table" "furniture_fencing" {
   }
 }
 
+// furniture_floor
 resource "aws_dynamodb_table" "furniture_floor" {
   billing_mode = "PAY_PER_REQUEST"
   hash_key     = "unique_entry_id"
@@ -198,6 +218,7 @@ resource "aws_dynamodb_table" "furniture_floor" {
   }
 }
 
+// furniture_fossil
 resource "aws_dynamodb_table" "furniture_fossil" {
   billing_mode = "PAY_PER_REQUEST"
   hash_key     = "unique_entry_id"
@@ -208,6 +229,7 @@ resource "aws_dynamodb_table" "furniture_fossil" {
   }
 }
 
+// furniture_gyroid
 resource "aws_dynamodb_table" "furniture_gyroid" {
   billing_mode = "PAY_PER_REQUEST"
   hash_key     = "unique_entry_id"
@@ -218,6 +240,7 @@ resource "aws_dynamodb_table" "furniture_gyroid" {
   }
 }
 
+// furniture_housewear
 resource "aws_dynamodb_table" "furniture_housewear" {
   billing_mode = "PAY_PER_REQUEST"
   hash_key     = "unique_entry_id"
@@ -228,6 +251,7 @@ resource "aws_dynamodb_table" "furniture_housewear" {
   }
 }
 
+// furniture_interior_structure
 resource "aws_dynamodb_table" "furniture_interior_structure" {
   billing_mode = "PAY_PER_REQUEST"
   hash_key     = "unique_entry_id"
@@ -238,6 +262,7 @@ resource "aws_dynamodb_table" "furniture_interior_structure" {
   }
 }
 
+// furniture_miscellaneous
 resource "aws_dynamodb_table" "furniture_miscellaneous" {
   billing_mode = "PAY_PER_REQUEST"
   hash_key     = "unique_entry_id"
@@ -248,6 +273,7 @@ resource "aws_dynamodb_table" "furniture_miscellaneous" {
   }
 }
 
+// furniture_music
 resource "aws_dynamodb_table" "furniture_music" {
   billing_mode = "PAY_PER_REQUEST"
   hash_key     = "unique_entry_id"
@@ -258,6 +284,7 @@ resource "aws_dynamodb_table" "furniture_music" {
   }
 }
 
+// furniture_photo
 resource "aws_dynamodb_table" "furniture_photo" {
   billing_mode = "PAY_PER_REQUEST"
   hash_key     = "unique_entry_id"
@@ -268,6 +295,7 @@ resource "aws_dynamodb_table" "furniture_photo" {
   }
 }
 
+// furniture_poster
 resource "aws_dynamodb_table" "furniture_poster" {
   billing_mode = "PAY_PER_REQUEST"
   hash_key     = "unique_entry_id"
@@ -278,6 +306,7 @@ resource "aws_dynamodb_table" "furniture_poster" {
   }
 }
 
+// furniture_rug
 resource "aws_dynamodb_table" "furniture_rug" {
   billing_mode = "PAY_PER_REQUEST"
   hash_key     = "unique_entry_id"
@@ -288,6 +317,7 @@ resource "aws_dynamodb_table" "furniture_rug" {
   }
 }
 
+// furniture_wall_mounted
 resource "aws_dynamodb_table" "furniture_wall_mounted" {
   billing_mode = "PAY_PER_REQUEST"
   hash_key     = "unique_entry_id"
@@ -298,6 +328,7 @@ resource "aws_dynamodb_table" "furniture_wall_mounted" {
   }
 }
 
+// furniture_wallpaper
 resource "aws_dynamodb_table" "furniture_wallpaper" {
   billing_mode = "PAY_PER_REQUEST"
   hash_key     = "unique_entry_id"
@@ -308,6 +339,7 @@ resource "aws_dynamodb_table" "furniture_wallpaper" {
   }
 }
 
+// item
 resource "aws_dynamodb_table" "item" {
   billing_mode = "PAY_PER_REQUEST"
   hash_key     = "unique_entry_id"
@@ -318,6 +350,7 @@ resource "aws_dynamodb_table" "item" {
   }
 }
 
+// item_other
 resource "aws_dynamodb_table" "item_other" {
   billing_mode = "PAY_PER_REQUEST"
   hash_key     = "unique_entry_id"
@@ -328,6 +361,7 @@ resource "aws_dynamodb_table" "item_other" {
   }
 }
 
+// occasion
 resource "aws_dynamodb_table" "occasion" {
   billing_mode = "PAY_PER_REQUEST"
   hash_key     = "unique_entry_id"
@@ -338,6 +372,7 @@ resource "aws_dynamodb_table" "occasion" {
   }
 }
 
+// paradise_planning
 resource "aws_dynamodb_table" "paradise_planning" {
   billing_mode = "PAY_PER_REQUEST"
   hash_key     = "unique_entry_id"
@@ -348,6 +383,7 @@ resource "aws_dynamodb_table" "paradise_planning" {
   }
 }
 
+// reaction
 resource "aws_dynamodb_table" "reaction" {
   billing_mode = "PAY_PER_REQUEST"
   hash_key     = "unique_entry_id"
@@ -358,6 +394,7 @@ resource "aws_dynamodb_table" "reaction" {
   }
 }
 
+// recipe
 resource "aws_dynamodb_table" "recipe" {
   billing_mode = "PAY_PER_REQUEST"
   hash_key     = "unique_entry_id"
@@ -368,6 +405,7 @@ resource "aws_dynamodb_table" "recipe" {
   }
 }
 
+// villager
 resource "aws_dynamodb_table" "villager" {
   billing_mode = "PAY_PER_REQUEST"
   hash_key     = "unique_entry_id"
@@ -378,6 +416,7 @@ resource "aws_dynamodb_table" "villager" {
   }
 }
 
+// villager_special
 resource "aws_dynamodb_table" "villager_special" {
   billing_mode = "PAY_PER_REQUEST"
   hash_key     = "unique_entry_id"

@@ -1,8 +1,33 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 2,
-    "minProperties": 2,
+    "maxProperties": 6,
+    "minProperties": 6,
     "properties": {
+        "category": {
+            "maxLength": 28,
+            "minLength": 3,
+            "type": [
+                "string"
+            ]
+        },
+        "internal_id": {
+            "type": [
+                "null"
+            ]
+        },
+        "internal_label": {
+            "maxLength": 97,
+            "minLength": 6,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "internal_name": {
+            "type": [
+                "null"
+            ]
+        },
         "name": {
             "maxLength": 36,
             "minLength": 3,
@@ -19,6 +44,10 @@
         }
     },
     "required": [
+        "category",
+        "internal_id",
+        "internal_label",
+        "internal_name",
         "name",
         "unique_entry_id"
     ],

@@ -1,8 +1,26 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 7,
-    "minProperties": 7,
+    "maxProperties": 12,
+    "minProperties": 12,
     "properties": {
+        "birth_day": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 31,
+            "minimum": 1,
+            "type": [
+                "integer"
+            ]
+        },
+        "birth_month": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 12,
+            "minimum": 1,
+            "type": [
+                "integer"
+            ]
+        },
         "bubble_color": {
             "maxLength": 7,
             "minLength": 7,
@@ -24,6 +42,13 @@
                 "string"
             ]
         },
+        "hobby_category": {
+            "maxLength": 9,
+            "minLength": 4,
+            "type": [
+                "string"
+            ]
+        },
         "internal_id": {
             "exclusiveMaximum": false,
             "exclusiveMinimum": false,
@@ -31,6 +56,16 @@
             "minimum": 0,
             "type": [
                 "integer"
+            ]
+        },
+        "internal_label": {
+            "type": [
+                "null"
+            ]
+        },
+        "internal_name": {
+            "type": [
+                "null"
             ]
         },
         "name": {
@@ -56,10 +91,15 @@
         }
     },
     "required": [
+        "birth_day",
+        "birth_month",
         "bubble_color",
         "gender",
         "gender_alternative",
+        "hobby_category",
         "internal_id",
+        "internal_label",
+        "internal_name",
         "name",
         "name_color",
         "unique_entry_id"
