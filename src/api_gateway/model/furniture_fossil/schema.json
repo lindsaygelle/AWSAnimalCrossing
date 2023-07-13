@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 23,
-    "minProperties": 23,
+    "maxProperties": 25,
+    "minProperties": 25,
     "properties": {
         "buy_currency": {
             "type": [
@@ -82,6 +82,13 @@
                 "null"
             ]
         },
+        "image_url": {
+            "maxLength": 67,
+            "minLength": 53,
+            "type": [
+                "string"
+            ]
+        },
         "internal_id": {
             "exclusiveMaximum": false,
             "exclusiveMinimum": false,
@@ -111,6 +118,15 @@
             "minLength": 5,
             "type": [
                 "string"
+            ]
+        },
+        "room_number": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 3,
+            "minimum": 1,
+            "type": [
+                "integer"
             ]
         },
         "sell_currency": {
@@ -169,11 +185,13 @@
         "hha_points",
         "hha_series",
         "hha_set",
+        "image_url",
         "internal_id",
         "internal_label",
         "internal_name",
         "is_interactive",
         "name",
+        "room_number",
         "sell_currency",
         "sell_price",
         "size_1",

@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 26,
-    "minProperties": 26,
+    "maxProperties": 31,
+    "minProperties": 31,
     "properties": {
         "color_1": {
             "type": [
@@ -63,6 +63,27 @@
                 "null"
             ]
         },
+        "image_critterpedia": {
+            "maxLength": 79,
+            "minLength": 66,
+            "type": [
+                "string"
+            ]
+        },
+        "image_furniture_url": {
+            "maxLength": 66,
+            "minLength": 53,
+            "type": [
+                "string"
+            ]
+        },
+        "image_icon_url": {
+            "maxLength": 56,
+            "minLength": 43,
+            "type": [
+                "string"
+            ]
+        },
         "internal_id": {
             "exclusiveMaximum": false,
             "exclusiveMinimum": false,
@@ -95,6 +116,14 @@
         "lighting_category": {
             "maxLength": 11,
             "minLength": 11,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "movement_category": {
+            "maxLength": 10,
+            "minLength": 4,
             "type": [
                 "string"
             ]
@@ -178,6 +207,15 @@
             "type": [
                 "string"
             ]
+        },
+        "unlock_number": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 80,
+            "minimum": 0,
+            "type": [
+                "integer"
+            ]
         }
     },
     "required": [
@@ -191,12 +229,16 @@
         "hha_points",
         "hha_series",
         "hha_set",
+        "image_critterpedia",
+        "image_furniture_url",
+        "image_icon_url",
         "internal_id",
         "internal_label",
         "internal_name",
         "is_surface",
         "is_unlocked",
         "lighting_category",
+        "movement_category",
         "name",
         "rate_maximum",
         "rate_minimum",
@@ -206,7 +248,8 @@
         "size_1",
         "size_2",
         "size_silhouette",
-        "unique_entry_id"
+        "unique_entry_id",
+        "unlock_number"
     ],
     "title": "CreatureSea",
     "type": "object"

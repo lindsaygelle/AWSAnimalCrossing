@@ -1,6 +1,18 @@
 [
     {
         "Item": {
+            "artist_name": {
+                "S": "Leonardo da Vinci"
+            },
+            "artwork_date": {
+                "S": "circa 1487"
+            },
+            "artwork_medium": {
+                "S": "Pen and ink on paper"
+            },
+            "artwork_name": {
+                "S": "Vitruvian Man"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -40,6 +52,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtVitruvianMan.png"
+            },
             "internal_id": {
                 "N": "12619"
             },
@@ -59,7 +74,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Academic Painting"
@@ -77,7 +92,7 @@
                 "N": "1.0"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "xfTf9sfyLkxHQEz4u"
@@ -87,6 +102,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "Leonardo da Vinci"
+            },
+            "artwork_date": {
+                "S": "circa 1487"
+            },
+            "artwork_medium": {
+                "S": "Pen and ink on paper"
+            },
+            "artwork_name": {
+                "S": "Vitruvian Man"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -126,6 +153,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtVitruvianManFake.png"
+            },
             "internal_id": {
                 "N": "12620"
             },
@@ -145,7 +175,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Academic Painting"
@@ -163,7 +193,7 @@
                 "N": "1.0"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "5KNFAo3LkdTTJPQkd"
@@ -173,6 +203,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "Rembrandt van Rijn"
+            },
+            "artwork_date": {
+                "S": "1642"
+            },
+            "artwork_medium": {
+                "S": "Oil on canvas"
+            },
+            "artwork_name": {
+                "S": "The Night Watch"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -212,6 +254,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtNightWatch.png"
+            },
             "internal_id": {
                 "N": "56"
             },
@@ -231,7 +276,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Amazing Painting"
@@ -249,7 +294,7 @@
                 "N": "2.0"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "Sg6MCSG3m9tvjGWoj"
@@ -259,6 +304,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "Rembrandt van Rijn"
+            },
+            "artwork_date": {
+                "S": "1642"
+            },
+            "artwork_medium": {
+                "S": "Oil on canvas"
+            },
+            "artwork_name": {
+                "S": "The Night Watch"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -298,6 +355,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtNightWatchFake.png"
+            },
             "internal_id": {
                 "N": "55"
             },
@@ -317,7 +377,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Amazing Painting"
@@ -335,7 +395,7 @@
                 "N": "2.0"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "vc2Ebu4Pkn443zYiN"
@@ -345,6 +405,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "Artist Unknown"
+            },
+            "artwork_date": {
+                "S": "1000-400 BCE"
+            },
+            "artwork_medium": {
+                "S": "Fired pottery"
+            },
+            "artwork_name": {
+                "S": "J\u014dmon Period \"Dog\u016b\" Figurine Shak\u014dki-dog\u016b"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -384,6 +456,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrSculptureDoguu.png"
+            },
             "internal_id": {
                 "N": "1337"
             },
@@ -403,7 +478,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Ancient Statue"
@@ -421,7 +496,7 @@
                 "N": "1.0"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "zpAsguge9Yb29ksjS"
@@ -431,6 +506,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "Artist Unknown"
+            },
+            "artwork_date": {
+                "S": "1000-400 BCE"
+            },
+            "artwork_medium": {
+                "S": "Fired pottery"
+            },
+            "artwork_name": {
+                "S": "J\u014dmon Period \"Dog\u016b\" Figurine Shak\u014dki-dog\u016b"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -470,6 +557,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrSculptureDoguuFake.png"
+            },
             "internal_id": {
                 "N": "1338"
             },
@@ -489,7 +579,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Ancient Statue"
@@ -507,7 +597,7 @@
                 "N": "1.0"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "fXbsrcXirg6miBoqT"
@@ -517,6 +607,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "Thomas Gainsborough"
+            },
+            "artwork_date": {
+                "S": "1770"
+            },
+            "artwork_medium": {
+                "S": "Oil on canvas"
+            },
+            "artwork_name": {
+                "S": "The Blue Boy"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -556,6 +658,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtBlueBoy.png"
+            },
             "internal_id": {
                 "N": "14"
             },
@@ -575,7 +680,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Basic Painting"
@@ -593,7 +698,7 @@
                 "N": "2.0"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "Xhn8ZjtbdZeET3NXR"
@@ -603,6 +708,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "Thomas Gainsborough"
+            },
+            "artwork_date": {
+                "S": "1770"
+            },
+            "artwork_medium": {
+                "S": "Oil on canvas"
+            },
+            "artwork_name": {
+                "S": "The Blue Boy"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -642,6 +759,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtBlueBoyFake.png"
+            },
             "internal_id": {
                 "N": "13"
             },
@@ -661,7 +781,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Basic Painting"
@@ -679,7 +799,7 @@
                 "N": "2.0"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "o4px7Mx9g2Zk6NHvC"
@@ -689,6 +809,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "Artist Unknown"
+            },
+            "artwork_date": {
+                "S": "circa 130 BCE"
+            },
+            "artwork_medium": {
+                "S": "Marble"
+            },
+            "artwork_name": {
+                "S": "Venus de Milo"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -728,6 +860,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrSculptureMilo.png"
+            },
             "internal_id": {
                 "N": "1341"
             },
@@ -747,7 +882,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Beautiful Statue"
@@ -765,7 +900,7 @@
                 "N": "1.0"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "iscap6FsmDZdNP5dw"
@@ -775,6 +910,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "Artist Unknown"
+            },
+            "artwork_date": {
+                "S": "circa 130 BCE"
+            },
+            "artwork_medium": {
+                "S": "Marble"
+            },
+            "artwork_name": {
+                "S": "Venus de Milo"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -814,6 +961,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrSculptureMiloFake.png"
+            },
             "internal_id": {
                 "N": "1342"
             },
@@ -833,7 +983,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Beautiful Statue"
@@ -851,7 +1001,7 @@
                 "N": "1.0"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "w9vrMbhJNj6JHkznu"
@@ -861,6 +1011,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "Georges Seurat"
+            },
+            "artwork_date": {
+                "S": "circa 1885"
+            },
+            "artwork_medium": {
+                "S": "Oil on canvas"
+            },
+            "artwork_name": {
+                "S": "A Sunday Afternoon on the Island of La Grande Jatte"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -900,6 +1062,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtSundayOn.png"
+            },
             "internal_id": {
                 "N": "78"
             },
@@ -919,7 +1084,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Calm Painting"
@@ -937,7 +1102,7 @@
                 "N": "1.5"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "7QgYY7KuhauCnS37H"
@@ -947,6 +1112,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "Jean-Fran\u00e7ois Millet"
+            },
+            "artwork_date": {
+                "S": "1857"
+            },
+            "artwork_medium": {
+                "S": "Oil on canvas"
+            },
+            "artwork_name": {
+                "S": "The Gleaners"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -986,6 +1163,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtGleaners.png"
+            },
             "internal_id": {
                 "N": "44"
             },
@@ -1005,7 +1185,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Common Painting"
@@ -1023,7 +1203,7 @@
                 "N": "1.0"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "GE6sppzKjqkG7sRoz"
@@ -1033,6 +1213,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "It\u014d Jakuch\u016b"
+            },
+            "artwork_date": {
+                "S": "18th century"
+            },
+            "artwork_medium": {
+                "S": "Dyed silk"
+            },
+            "artwork_name": {
+                "S": "Ajisai S\u014dkeizu"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -1072,6 +1264,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtAjisaisoukeizu.png"
+            },
             "internal_id": {
                 "N": "12622"
             },
@@ -1091,7 +1286,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Detailed Painting"
@@ -1109,7 +1304,7 @@
                 "N": "2.0"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "T2QA6mqARHfToTJpQ"
@@ -1119,6 +1314,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "It\u014d Jakuch\u016b"
+            },
+            "artwork_date": {
+                "S": "18th century"
+            },
+            "artwork_medium": {
+                "S": "Dyed silk"
+            },
+            "artwork_name": {
+                "S": "Ajisai S\u014dkeizu"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -1158,6 +1365,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtAjisaisoukeizuFake.png"
+            },
             "internal_id": {
                 "N": "12623"
             },
@@ -1177,7 +1387,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Detailed Painting"
@@ -1195,7 +1405,7 @@
                 "N": "2.0"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "m9TkAsJFFkpQ9Hr4s"
@@ -1205,6 +1415,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "Katsushika Hokusai"
+            },
+            "artwork_date": {
+                "S": "circa 1831"
+            },
+            "artwork_medium": {
+                "S": "Woodblock print"
+            },
+            "artwork_name": {
+                "S": "Thirty-Six Views of Mount Fuji The Great Wave off Kanagawa"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -1244,6 +1466,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtKanagawaOki.png"
+            },
             "internal_id": {
                 "N": "38"
             },
@@ -1263,7 +1488,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Dynamic Painting"
@@ -1281,7 +1506,7 @@
                 "N": "1.0"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "BMBiEvuooPCwpzHj7"
@@ -1291,6 +1516,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "Auguste Rodin"
+            },
+            "artwork_date": {
+                "S": "1902"
+            },
+            "artwork_medium": {
+                "S": "Bronze"
+            },
+            "artwork_name": {
+                "S": "The Thinker"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -1330,6 +1567,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrSculptureThinker.png"
+            },
             "internal_id": {
                 "N": "12541"
             },
@@ -1349,7 +1589,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Familiar Statue"
@@ -1367,7 +1607,7 @@
                 "N": "1.0"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "e45RimLWaxcoBYLNq"
@@ -1377,6 +1617,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "Leonardo da Vinci"
+            },
+            "artwork_date": {
+                "S": "circa 1503"
+            },
+            "artwork_medium": {
+                "S": "Oil on poplar"
+            },
+            "artwork_name": {
+                "S": "Mona Lisa"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -1416,6 +1668,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtMonaLisa.png"
+            },
             "internal_id": {
                 "N": "18"
             },
@@ -1435,7 +1690,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Famous Painting"
@@ -1453,7 +1708,7 @@
                 "N": "1.0"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "23b6Mtp42pbXaLiGj"
@@ -1463,6 +1718,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "Leonardo da Vinci"
+            },
+            "artwork_date": {
+                "S": "circa 1503"
+            },
+            "artwork_medium": {
+                "S": "Oil on poplar"
+            },
+            "artwork_name": {
+                "S": "Mona Lisa"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -1502,6 +1769,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtMonaLisaFake.png"
+            },
             "internal_id": {
                 "N": "17"
             },
@@ -1521,7 +1791,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Famous Painting"
@@ -1539,7 +1809,7 @@
                 "N": "1.0"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "ppnz4rtJf2L6FK6YN"
@@ -1549,6 +1819,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "Vincent van Gogh"
+            },
+            "artwork_date": {
+                "S": "circa 1888"
+            },
+            "artwork_medium": {
+                "S": "Oil on canvas"
+            },
+            "artwork_name": {
+                "S": "Sunflowers"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -1588,6 +1870,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtSunflower.png"
+            },
             "internal_id": {
                 "N": "50"
             },
@@ -1607,7 +1892,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Flowery Painting"
@@ -1625,7 +1910,7 @@
                 "N": "1.0"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "aDZWPQ79YhLCMRqAE"
@@ -1635,6 +1920,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "Michelangelo"
+            },
+            "artwork_date": {
+                "S": "circa 1504"
+            },
+            "artwork_medium": {
+                "S": "Marble"
+            },
+            "artwork_name": {
+                "S": "David"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -1674,6 +1971,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrSculptureDavid.png"
+            },
             "internal_id": {
                 "N": "1333"
             },
@@ -1693,7 +1993,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Gallant Statue"
@@ -1711,7 +2011,7 @@
                 "N": "2.0"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "hNbaWeaJCdihGnHM9"
@@ -1721,6 +2021,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "Michelangelo"
+            },
+            "artwork_date": {
+                "S": "circa 1504"
+            },
+            "artwork_medium": {
+                "S": "Marble"
+            },
+            "artwork_name": {
+                "S": "David"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -1760,6 +2072,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrSculptureDavidFake.png"
+            },
             "internal_id": {
                 "N": "1334"
             },
@@ -1779,7 +2094,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Gallant Statue"
@@ -1797,7 +2112,7 @@
                 "N": "2.0"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "aoJwhWz4TTkNHrgg4"
@@ -1807,6 +2122,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "Joseph Mallord William Turner"
+            },
+            "artwork_date": {
+                "S": "1839"
+            },
+            "artwork_medium": {
+                "S": "Oil on canvas"
+            },
+            "artwork_name": {
+                "S": "The Fighting Temeraire"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -1846,6 +2173,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtFightingTemeraire.png"
+            },
             "internal_id": {
                 "N": "12624"
             },
@@ -1865,7 +2195,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Glowing Painting"
@@ -1883,7 +2213,7 @@
                 "N": "1.0"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "89wbjB4u9oKjrKiZB"
@@ -1893,6 +2223,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "Hishikawa Moronobu"
+            },
+            "artwork_date": {
+                "S": "17th century"
+            },
+            "artwork_medium": {
+                "S": "Color on silk"
+            },
+            "artwork_name": {
+                "S": "Beauty Looking Back"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -1932,6 +2274,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtMikaeri.png"
+            },
             "internal_id": {
                 "N": "6"
             },
@@ -1951,7 +2296,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Graceful Painting"
@@ -1969,7 +2314,7 @@
                 "N": "2.0"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "8M8N84TgtyATYSaPK"
@@ -1979,6 +2324,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "Hishikawa Moronobu"
+            },
+            "artwork_date": {
+                "S": "17th century"
+            },
+            "artwork_medium": {
+                "S": "Color on silk"
+            },
+            "artwork_name": {
+                "S": "Beauty Looking Back"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -2018,6 +2375,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtMikaeriFake.png"
+            },
             "internal_id": {
                 "N": "5"
             },
@@ -2037,7 +2397,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Graceful Painting"
@@ -2055,7 +2415,7 @@
                 "N": "2.0"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "PJCq2YjGNkP3rLYAs"
@@ -2065,6 +2425,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "Thomas Ridgeway Gould"
+            },
+            "artwork_date": {
+                "S": "circa 1883"
+            },
+            "artwork_medium": {
+                "S": "Bronze"
+            },
+            "artwork_name": {
+                "S": "King Kamehameha I"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -2104,6 +2476,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrSculptureKamehameha.png"
+            },
             "internal_id": {
                 "N": "1339"
             },
@@ -2123,7 +2498,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Great Statue"
@@ -2141,7 +2516,7 @@
                 "N": "2.0"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "AAE89LXrdnv7yxs7p"
@@ -2151,6 +2526,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "Artist Unknown"
+            },
+            "artwork_date": {
+                "S": "196 BCE"
+            },
+            "artwork_medium": {
+                "S": "Granodiorite"
+            },
+            "artwork_name": {
+                "S": "Rosetta Stone"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -2190,6 +2577,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrSculptureRosettaStone.png"
+            },
             "internal_id": {
                 "N": "12535"
             },
@@ -2209,7 +2599,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Informative Statue"
@@ -2227,7 +2617,7 @@
                 "N": "1.0"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "QW7tW8LLK5ReWvNeT"
@@ -2237,6 +2627,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "Artist Unknown"
+            },
+            "artwork_date": {
+                "S": "196 BCE"
+            },
+            "artwork_medium": {
+                "S": "Granodiorite"
+            },
+            "artwork_name": {
+                "S": "Rosetta Stone"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -2276,6 +2678,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrSculptureRosettaStoneFake.png"
+            },
             "internal_id": {
                 "N": "12536"
             },
@@ -2295,7 +2700,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Informative Statue"
@@ -2313,7 +2718,7 @@
                 "N": "1.0"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "qsBfFStS8mFJWotF3"
@@ -2323,6 +2728,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "Giuseppe Arcimboldo"
+            },
+            "artwork_date": {
+                "S": "circa 1563"
+            },
+            "artwork_medium": {
+                "S": "Oil on canvas"
+            },
+            "artwork_name": {
+                "S": "Summer"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -2362,6 +2779,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtSummer.png"
+            },
             "internal_id": {
                 "N": "42"
             },
@@ -2381,7 +2801,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Jolly Painting"
@@ -2399,7 +2819,7 @@
                 "N": "1.0"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "JmuDLy5Gzy5L98TYi"
@@ -2409,6 +2829,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "Giuseppe Arcimboldo"
+            },
+            "artwork_date": {
+                "S": "circa 1563"
+            },
+            "artwork_medium": {
+                "S": "Oil on canvas"
+            },
+            "artwork_name": {
+                "S": "Summer"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -2448,6 +2880,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtSummerFake.png"
+            },
             "internal_id": {
                 "N": "41"
             },
@@ -2467,7 +2902,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Jolly Painting"
@@ -2485,7 +2920,7 @@
                 "N": "1.0"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "ndpzuYrx9RtgkuF4q"
@@ -2495,6 +2930,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "Jean-Fran\u00e7ois Millet"
+            },
+            "artwork_date": {
+                "S": "circa 1850"
+            },
+            "artwork_medium": {
+                "S": "Oil on canvas"
+            },
+            "artwork_name": {
+                "S": "The Sower"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -2534,6 +2981,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtSlower.png"
+            },
             "internal_id": {
                 "N": "52"
             },
@@ -2553,7 +3003,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Moody Painting"
@@ -2571,7 +3021,7 @@
                 "N": "1.0"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "BvTziFiDfmghDfn2f"
@@ -2581,6 +3031,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "Artist Unknown"
+            },
+            "artwork_date": {
+                "S": "5th century BCE"
+            },
+            "artwork_medium": {
+                "S": "Bronze"
+            },
+            "artwork_name": {
+                "S": "Capitoline Wolf"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -2620,6 +3082,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrSculptureCapitolini.png"
+            },
             "internal_id": {
                 "N": "1331"
             },
@@ -2639,7 +3104,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Motherly Statue"
@@ -2657,7 +3122,7 @@
                 "N": "1.0"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "CzWpdw9fWH7CSqvD4"
@@ -2667,6 +3132,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "Artist Unknown"
+            },
+            "artwork_date": {
+                "S": "5th century BCE"
+            },
+            "artwork_medium": {
+                "S": "Bronze"
+            },
+            "artwork_name": {
+                "S": "Capitoline Wolf"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -2706,6 +3183,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrSculptureCapitoliniFake.png"
+            },
             "internal_id": {
                 "N": "1332"
             },
@@ -2725,7 +3205,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Motherly Statue"
@@ -2743,7 +3223,7 @@
                 "N": "1.0"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "FQnkD6Ecica9g8hn6"
@@ -2753,6 +3233,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "Sandro Botticelli"
+            },
+            "artwork_date": {
+                "S": "circa 1485"
+            },
+            "artwork_medium": {
+                "S": "Tempera on canvas"
+            },
+            "artwork_name": {
+                "S": "The Birth of Venus"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -2792,6 +3284,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtBirthVenus.png"
+            },
             "internal_id": {
                 "N": "32"
             },
@@ -2811,7 +3306,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Moving Painting"
@@ -2829,7 +3324,7 @@
                 "N": "1.5"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "CbpBJoxScgd7YkJ2a"
@@ -2839,6 +3334,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "Sandro Botticelli"
+            },
+            "artwork_date": {
+                "S": "circa 1485"
+            },
+            "artwork_medium": {
+                "S": "Tempera on canvas"
+            },
+            "artwork_name": {
+                "S": "The Birth of Venus"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -2878,6 +3385,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtBirthVenusFake.png"
+            },
             "internal_id": {
                 "N": "31"
             },
@@ -2897,7 +3407,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Moving Painting"
@@ -2915,7 +3425,7 @@
                 "N": "1.5"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "8ji8jMXCQbeXcBZ4G"
@@ -2925,6 +3435,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "Arnold B\u00f6cklin"
+            },
+            "artwork_date": {
+                "S": "1883"
+            },
+            "artwork_medium": {
+                "S": "Oil on wood"
+            },
+            "artwork_name": {
+                "S": "Isle of the Dead"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -2964,6 +3486,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtIsleOfDead.png"
+            },
             "internal_id": {
                 "N": "12625"
             },
@@ -2983,7 +3508,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Mysterious Painting"
@@ -3001,7 +3526,7 @@
                 "N": "1.0"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "jyEqfpiQxoJr7dFim"
@@ -3011,6 +3536,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "Thutmose"
+            },
+            "artwork_date": {
+                "S": "circa 1345 BCE"
+            },
+            "artwork_medium": {
+                "S": "Limestone"
+            },
+            "artwork_name": {
+                "S": "Bust of Nefertiti"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -3050,6 +3587,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrSculptureNefertiti.png"
+            },
             "internal_id": {
                 "N": "1343"
             },
@@ -3069,7 +3609,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Mystic Statue"
@@ -3087,7 +3627,7 @@
                 "N": "1.0"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "m8rdQtfhuSxvLjbA7"
@@ -3097,6 +3637,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "Thutmose"
+            },
+            "artwork_date": {
+                "S": "circa 1345 BCE"
+            },
+            "artwork_medium": {
+                "S": "Limestone"
+            },
+            "artwork_name": {
+                "S": "Bust of Nefertiti"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -3136,6 +3688,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrSculptureNefertitiFake.png"
+            },
             "internal_id": {
                 "N": "1344"
             },
@@ -3155,7 +3710,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Mystic Statue"
@@ -3173,7 +3728,7 @@
                 "N": "1.0"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "DPZFgiykKg576TMns"
@@ -3183,6 +3738,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "\u00c9douard Manet"
+            },
+            "artwork_date": {
+                "S": "1866"
+            },
+            "artwork_medium": {
+                "S": "Oil on canvas"
+            },
+            "artwork_name": {
+                "S": "The Fifer"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -3222,6 +3789,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtFifePlayer.png"
+            },
             "internal_id": {
                 "N": "48"
             },
@@ -3241,7 +3811,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Nice Painting"
@@ -3259,7 +3829,7 @@
                 "N": "2.0"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "bE9epxYeiupMZXZBY"
@@ -3269,6 +3839,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "Paul C\u00e9zanne"
+            },
+            "artwork_date": {
+                "S": "circa 1899"
+            },
+            "artwork_medium": {
+                "S": "Oil on canvas"
+            },
+            "artwork_name": {
+                "S": "Apples and Oranges"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -3308,6 +3890,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtAppleOrange.png"
+            },
             "internal_id": {
                 "N": "20"
             },
@@ -3327,7 +3912,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Perfect Painting"
@@ -3345,7 +3930,7 @@
                 "N": "1.0"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "GrTJQRodgefZ3ndPz"
@@ -3355,6 +3940,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "\u00c9douard Manet"
+            },
+            "artwork_date": {
+                "S": "circa 1882"
+            },
+            "artwork_medium": {
+                "S": "Oil on canvas"
+            },
+            "artwork_name": {
+                "S": "A Bar at the Folies-Berg\u00e8re"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -3394,6 +3991,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtBarFB.png"
+            },
             "internal_id": {
                 "N": "46"
             },
@@ -3413,7 +4013,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Proper Painting"
@@ -3431,7 +4031,7 @@
                 "N": "1.0"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "5MYg559uG6YjFrJLu"
@@ -3441,6 +4041,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "Johannes Vermeer"
+            },
+            "artwork_date": {
+                "S": "circa 1658"
+            },
+            "artwork_medium": {
+                "S": "Oil on canvas"
+            },
+            "artwork_name": {
+                "S": "The Milkmaid"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -3480,6 +4092,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtMilkmaid.png"
+            },
             "internal_id": {
                 "N": "10"
             },
@@ -3499,7 +4114,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Quaint Painting"
@@ -3517,7 +4132,7 @@
                 "N": "1.0"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "4eD8bxvcsNdFuJZy3"
@@ -3527,6 +4142,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "Johannes Vermeer"
+            },
+            "artwork_date": {
+                "S": "circa 1658"
+            },
+            "artwork_medium": {
+                "S": "Oil on canvas"
+            },
+            "artwork_name": {
+                "S": "The Milkmaid"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -3566,6 +4193,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtMilkmaidFake.png"
+            },
             "internal_id": {
                 "N": "9"
             },
@@ -3585,7 +4215,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Quaint Painting"
@@ -3603,7 +4233,7 @@
                 "N": "1.0"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "A8oEDJdRDYCWWvgqP"
@@ -3613,6 +4243,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "Artist Unknown"
+            },
+            "artwork_date": {
+                "S": "2nd century CE"
+            },
+            "artwork_medium": {
+                "S": "Marble"
+            },
+            "artwork_name": {
+                "S": "Discobolus"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -3652,6 +4294,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrSculptureDiskobolos.png"
+            },
             "internal_id": {
                 "N": "1335"
             },
@@ -3671,7 +4316,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Robust Statue"
@@ -3689,7 +4334,7 @@
                 "N": "1.0"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "BMJTrZQQLrzhgFQ6T"
@@ -3699,6 +4344,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "Artist Unknown"
+            },
+            "artwork_date": {
+                "S": "2nd century CE"
+            },
+            "artwork_medium": {
+                "S": "Marble"
+            },
+            "artwork_name": {
+                "S": "Discobolus"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -3738,6 +4395,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrSculptureDiskobolosFake.png"
+            },
             "internal_id": {
                 "N": "1336"
             },
@@ -3757,7 +4417,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Robust Statue"
@@ -3775,7 +4435,7 @@
                 "N": "1.0"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "JxRWC7dP3bSnrYafb"
@@ -3785,6 +4445,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "Artist Unknown"
+            },
+            "artwork_date": {
+                "S": "circa 1000 BCE"
+            },
+            "artwork_medium": {
+                "S": "Basalt"
+            },
+            "artwork_name": {
+                "S": "Olmec Colossal Head"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -3824,6 +4496,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrSculptureOlmecaHead.png"
+            },
             "internal_id": {
                 "N": "12533"
             },
@@ -3843,7 +4518,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Rock-head Statue"
@@ -3861,7 +4536,7 @@
                 "N": "2.0"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "yuq7wqkBtYpTh9cQs"
@@ -3871,6 +4546,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "Artist Unknown"
+            },
+            "artwork_date": {
+                "S": "circa 1000 BCE"
+            },
+            "artwork_medium": {
+                "S": "Basalt"
+            },
+            "artwork_name": {
+                "S": "Olmec Colossal Head"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -3910,6 +4597,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrSculptureOlmecaHeadFake.png"
+            },
             "internal_id": {
                 "N": "12534"
             },
@@ -3929,7 +4619,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Rock-head Statue"
@@ -3947,7 +4637,7 @@
                 "N": "2.0"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "vgYniErBETSwYurmo"
@@ -3957,6 +4647,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "T\u014dsh\u016bsai Sharaku"
+            },
+            "artwork_date": {
+                "S": "1794"
+            },
+            "artwork_medium": {
+                "S": "Woodblock print"
+            },
+            "artwork_name": {
+                "S": "\u014ctani Oniji the 3rd as Yakko Edobei"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -3996,6 +4698,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtOotaniOniji.png"
+            },
             "internal_id": {
                 "N": "66"
             },
@@ -4015,7 +4720,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Scary Painting"
@@ -4033,7 +4738,7 @@
                 "N": "1.0"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "mPutXzCMyFowYqPHu"
@@ -4043,6 +4748,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "T\u014dsh\u016bsai Sharaku"
+            },
+            "artwork_date": {
+                "S": "1794"
+            },
+            "artwork_medium": {
+                "S": "Woodblock print"
+            },
+            "artwork_name": {
+                "S": "\u014ctani Oniji the 3rd as Yakko Edobei"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -4082,6 +4799,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtOotaniOnijiFake.png"
+            },
             "internal_id": {
                 "N": "65"
             },
@@ -4101,7 +4821,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Scary Painting"
@@ -4119,7 +4839,7 @@
                 "N": "1.0"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "xfEX3LgBZxdy8cWnv"
@@ -4129,6 +4849,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "Pieter Brueghel the Elder"
+            },
+            "artwork_date": {
+                "S": "1565"
+            },
+            "artwork_medium": {
+                "S": "Oil on wood panel"
+            },
+            "artwork_name": {
+                "S": "The Hunters in the Snow"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -4168,6 +4900,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtHunterSnow.png"
+            },
             "internal_id": {
                 "N": "2"
             },
@@ -4187,7 +4922,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Scenic Painting"
@@ -4205,7 +4940,7 @@
                 "N": "1.5"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "9zdd3tRyrgvHg7MHR"
@@ -4215,6 +4950,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "Pieter Brueghel the Elder"
+            },
+            "artwork_date": {
+                "S": "1565"
+            },
+            "artwork_medium": {
+                "S": "Oil on wood panel"
+            },
+            "artwork_name": {
+                "S": "The Hunters in the Snow"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -4254,6 +5001,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtHunterSnowFake.png"
+            },
             "internal_id": {
                 "N": "12629"
             },
@@ -4273,7 +5023,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Scenic Painting"
@@ -4291,7 +5041,7 @@
                 "N": "1.5"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "xXvgi6GY62Kiy7ZPc"
@@ -4301,6 +5051,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "Leonardo da Vinci"
+            },
+            "artwork_date": {
+                "S": "circa 1490"
+            },
+            "artwork_medium": {
+                "S": "Oil on wood panel"
+            },
+            "artwork_name": {
+                "S": "Lady with an Ermine"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -4340,6 +5102,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtPortraitCecilia.png"
+            },
             "internal_id": {
                 "N": "24"
             },
@@ -4359,7 +5124,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Serene Painting"
@@ -4377,7 +5142,7 @@
                 "N": "1.0"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "xWDYCn59iCuXXFYCa"
@@ -4387,6 +5152,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "Leonardo da Vinci"
+            },
+            "artwork_date": {
+                "S": "circa 1490"
+            },
+            "artwork_medium": {
+                "S": "Oil on wood panel"
+            },
+            "artwork_name": {
+                "S": "Lady with an Ermine"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -4426,6 +5203,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtPortraitCeciliaFake.png"
+            },
             "internal_id": {
                 "N": "23"
             },
@@ -4445,7 +5225,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Serene Painting"
@@ -4463,7 +5243,7 @@
                 "N": "1.0"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "DAFG5byhuAns7SeNJ"
@@ -4473,6 +5253,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "John Everett Millais"
+            },
+            "artwork_date": {
+                "S": "1852"
+            },
+            "artwork_medium": {
+                "S": "Oil on canvas"
+            },
+            "artwork_name": {
+                "S": "Ophelia"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -4512,6 +5304,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtOphelia.png"
+            },
             "internal_id": {
                 "N": "12621"
             },
@@ -4531,7 +5326,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Sinking Painting"
@@ -4549,7 +5344,7 @@
                 "N": "1.0"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "7ku7mD4CEkRPAfvgf"
@@ -4559,6 +5354,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "Diego Vel\u00e1zquez"
+            },
+            "artwork_date": {
+                "S": "circa 1656"
+            },
+            "artwork_medium": {
+                "S": "Oil on canvas"
+            },
+            "artwork_name": {
+                "S": "Las Meninas"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -4598,6 +5405,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtLasMeninas.png"
+            },
             "internal_id": {
                 "N": "72"
             },
@@ -4617,7 +5427,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Solemn Painting"
@@ -4635,7 +5445,7 @@
                 "N": "2.0"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "Rdxe9rejLcZB9FPPj"
@@ -4645,6 +5455,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "Diego Vel\u00e1zquez"
+            },
+            "artwork_date": {
+                "S": "circa 1656"
+            },
+            "artwork_medium": {
+                "S": "Oil on canvas"
+            },
+            "artwork_name": {
+                "S": "Las Meninas"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -4684,6 +5506,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtLasMeninasFake.png"
+            },
             "internal_id": {
                 "N": "71"
             },
@@ -4703,7 +5528,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Solemn Painting"
@@ -4721,7 +5546,7 @@
                 "N": "2.0"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "nk6zayAkJFzinuKDK"
@@ -4731,6 +5556,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "Artist Unknown"
+            },
+            "artwork_date": {
+                "S": "1200 BCE"
+            },
+            "artwork_medium": {
+                "S": "Bronze"
+            },
+            "artwork_name": {
+                "S": "Houmuwu Ding"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -4770,6 +5607,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrSculptureHoumuwuDing.png"
+            },
             "internal_id": {
                 "N": "12537"
             },
@@ -4789,7 +5629,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Tremendous Statue"
@@ -4807,7 +5647,7 @@
                 "N": "1.0"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "jNGr7gorm7HSW3saj"
@@ -4817,6 +5657,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "Artist Unknown"
+            },
+            "artwork_date": {
+                "S": "1200 BCE"
+            },
+            "artwork_medium": {
+                "S": "Bronze"
+            },
+            "artwork_name": {
+                "S": "Houmuwu Ding"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -4856,6 +5708,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrSculptureHoumuwuDingFake.png"
+            },
             "internal_id": {
                 "N": "12538"
             },
@@ -4875,7 +5730,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Tremendous Statue"
@@ -4893,7 +5748,7 @@
                 "N": "1.0"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "JixcFeWLnkcAy7rnu"
@@ -4903,6 +5758,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "Vincent van Gogh"
+            },
+            "artwork_date": {
+                "S": "1889"
+            },
+            "artwork_medium": {
+                "S": "Oil on canvas"
+            },
+            "artwork_name": {
+                "S": "The Starry Night"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -4942,6 +5809,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtStarryNight.png"
+            },
             "internal_id": {
                 "N": "12618"
             },
@@ -4961,7 +5831,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Twinkling Painting"
@@ -4979,7 +5849,7 @@
                 "N": "1.0"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "vd2Naaf6TREFTQsdy"
@@ -4989,6 +5859,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "Artist Unknown"
+            },
+            "artwork_date": {
+                "S": "circa 190 BCE"
+            },
+            "artwork_medium": {
+                "S": "Marble"
+            },
+            "artwork_name": {
+                "S": "Nike of Samothrace"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -5028,6 +5910,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrSculptureSamothrace.png"
+            },
             "internal_id": {
                 "N": "1345"
             },
@@ -5047,7 +5932,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Valiant Statue"
@@ -5065,7 +5950,7 @@
                 "N": "2.0"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "stPbtNz5bpPCb3eRy"
@@ -5075,6 +5960,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "Artist Unknown"
+            },
+            "artwork_date": {
+                "S": "circa 190 BCE"
+            },
+            "artwork_medium": {
+                "S": "Marble"
+            },
+            "artwork_name": {
+                "S": "Nike of Samothrace"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -5114,6 +6011,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrSculptureSamothraceFake.png"
+            },
             "internal_id": {
                 "N": "1346"
             },
@@ -5133,7 +6033,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Valiant Statue"
@@ -5151,7 +6051,7 @@
                 "N": "2.0"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "FWFGsBRxrdnE4RSXa"
@@ -5161,6 +6061,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "Francisco de Goya"
+            },
+            "artwork_date": {
+                "S": "circa 1805"
+            },
+            "artwork_medium": {
+                "S": "Oil on canvas"
+            },
+            "artwork_name": {
+                "S": "The Clothed Maja"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -5200,6 +6112,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtClothedMaja.png"
+            },
             "internal_id": {
                 "N": "34"
             },
@@ -5219,7 +6134,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Warm Painting"
@@ -5237,7 +6152,7 @@
                 "N": "1.0"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "SD7NXc97t2b4f74xi"
@@ -5247,6 +6162,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "Artist Unknown"
+            },
+            "artwork_date": {
+                "S": "210 BCE"
+            },
+            "artwork_medium": {
+                "S": "Earthenware"
+            },
+            "artwork_name": {
+                "S": "Terracotta Army"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -5286,6 +6213,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrSculptureHeibayo.png"
+            },
             "internal_id": {
                 "N": "12539"
             },
@@ -5305,7 +6235,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Warrior Statue"
@@ -5323,7 +6253,7 @@
                 "N": "1.0"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "5ZWqwpgKjNRGgT44E"
@@ -5333,6 +6263,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "Artist Unknown"
+            },
+            "artwork_date": {
+                "S": "210 BCE"
+            },
+            "artwork_medium": {
+                "S": "Earthenware"
+            },
+            "artwork_name": {
+                "S": "Terracotta Army"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -5372,6 +6314,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrSculptureHeibayoFake.png"
+            },
             "internal_id": {
                 "N": "12540"
             },
@@ -5391,7 +6336,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Warrior Statue"
@@ -5409,7 +6354,7 @@
                 "N": "1.0"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "phB8tH4gdSYwq48Gs"
@@ -5419,6 +6364,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "Tawaraya S\u014dtatsu"
+            },
+            "artwork_date": {
+                "S": "17th century"
+            },
+            "artwork_medium": {
+                "S": "Gold leaf and ink on paper"
+            },
+            "artwork_name": {
+                "S": "Folding Screen of F\u016bjin and Raijin (L)"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -5458,6 +6415,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtRaijin.png"
+            },
             "internal_id": {
                 "N": "12570"
             },
@@ -5477,7 +6437,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Wild Painting Left Half"
@@ -5495,7 +6455,7 @@
                 "N": "1.0"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "hMQkJiQG5cNGQxKCE"
@@ -5505,6 +6465,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "Tawaraya S\u014dtatsu"
+            },
+            "artwork_date": {
+                "S": "17th century"
+            },
+            "artwork_medium": {
+                "S": "Gold leaf and ink on paper"
+            },
+            "artwork_name": {
+                "S": "Folding Screen of F\u016bjin and Raijin (L)"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -5544,6 +6516,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtRaijinFake.png"
+            },
             "internal_id": {
                 "N": "12571"
             },
@@ -5563,7 +6538,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Wild Painting Left Half"
@@ -5581,7 +6556,7 @@
                 "N": "1.0"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "E9szuomHevSfq8yY3"
@@ -5591,6 +6566,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "Tawaraya S\u014dtatsu"
+            },
+            "artwork_date": {
+                "S": "17th century"
+            },
+            "artwork_medium": {
+                "S": "Gold leaf and ink on paper"
+            },
+            "artwork_name": {
+                "S": "Folding Screen of F\u016bjin and Raijin (R)"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -5630,6 +6617,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtFuujin.png"
+            },
             "internal_id": {
                 "N": "76"
             },
@@ -5649,7 +6639,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Wild Painting Right Half"
@@ -5667,7 +6657,7 @@
                 "N": "1.0"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "rcXt6qMXZh9jj4ojN"
@@ -5677,6 +6667,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "Tawaraya S\u014dtatsu"
+            },
+            "artwork_date": {
+                "S": "17th century"
+            },
+            "artwork_medium": {
+                "S": "Gold leaf and ink on paper"
+            },
+            "artwork_name": {
+                "S": "Folding Screen of F\u016bjin and Raijin (R)"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -5716,6 +6718,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtFuujinFake.png"
+            },
             "internal_id": {
                 "N": "75"
             },
@@ -5735,7 +6740,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Wild Painting Right Half"
@@ -5753,7 +6758,7 @@
                 "N": "1.0"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "aKefsi2sySXJkzPLo"
@@ -5763,6 +6768,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "Johannes Vermeer"
+            },
+            "artwork_date": {
+                "S": "circa 1665"
+            },
+            "artwork_medium": {
+                "S": "Oil on canvas"
+            },
+            "artwork_name": {
+                "S": "Girl with a Pearl Earring"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -5802,6 +6819,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtPearlEarring.png"
+            },
             "internal_id": {
                 "N": "28"
             },
@@ -5821,7 +6841,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Wistful Painting"
@@ -5839,7 +6859,7 @@
                 "N": "1.0"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "Mupx2ny4sM3Kbfs3v"
@@ -5849,6 +6869,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "Johannes Vermeer"
+            },
+            "artwork_date": {
+                "S": "circa 1665"
+            },
+            "artwork_medium": {
+                "S": "Oil on canvas"
+            },
+            "artwork_name": {
+                "S": "Girl with a Pearl Earring"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -5888,6 +6920,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtPearlEarringFake.png"
+            },
             "internal_id": {
                 "N": "27"
             },
@@ -5907,7 +6942,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Wistful Painting"
@@ -5925,7 +6960,7 @@
                 "N": "1.0"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "c7zw6f8Dbe5h9oJni"
@@ -5935,6 +6970,18 @@
     },
     {
         "Item": {
+            "artist_name": {
+                "S": "Eug\u00e8ne Delacroix"
+            },
+            "artwork_date": {
+                "S": "1830"
+            },
+            "artwork_medium": {
+                "S": "Oil on canvas"
+            },
+            "artwork_name": {
+                "S": "Liberty Leading the People"
+            },
             "buy_currency": {
                 "S": "Bells"
             },
@@ -5974,6 +7021,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtLibertyLeading.png"
+            },
             "internal_id": {
                 "N": "68"
             },
@@ -5993,7 +7043,7 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Worthy Painting"
@@ -6011,7 +7061,7 @@
                 "N": "1.5"
             },
             "speaker_category": {
-                "S": "Does not play music"
+                "NULL": true
             },
             "unique_entry_id": {
                 "S": "8R3LhTWJzqHmPPPvK"
