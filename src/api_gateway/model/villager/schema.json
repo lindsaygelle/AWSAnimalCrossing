@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 21,
-    "minProperties": 21,
+    "maxProperties": 24,
+    "minProperties": 24,
     "properties": {
         "birth_day": {
             "exclusiveMaximum": false,
@@ -63,9 +63,31 @@
                 "string"
             ]
         },
-        "hobby_category": {
+        "hobby_name": {
             "maxLength": 9,
             "minLength": 4,
+            "type": [
+                "string"
+            ]
+        },
+        "image_house_url": {
+            "maxLength": 68,
+            "minLength": 58,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "image_icon_url": {
+            "maxLength": 44,
+            "minLength": 44,
+            "type": [
+                "string"
+            ]
+        },
+        "image_photo": {
+            "maxLength": 53,
+            "minLength": 53,
             "type": [
                 "string"
             ]
@@ -91,16 +113,16 @@
                 "string"
             ]
         },
-        "personality": {
-            "maxLength": 10,
-            "minLength": 4,
+        "personality_category": {
+            "maxLength": 1,
+            "minLength": 1,
             "type": [
                 "string"
             ]
         },
-        "personality_category": {
-            "maxLength": 1,
-            "minLength": 1,
+        "personality_name": {
+            "maxLength": 10,
+            "minLength": 4,
             "type": [
                 "string"
             ]
@@ -119,7 +141,7 @@
                 "string"
             ]
         },
-        "species": {
+        "species_name": {
             "maxLength": 10,
             "minLength": 3,
             "type": [
@@ -164,15 +186,18 @@
         "filename",
         "floor_name",
         "gender",
-        "hobby_category",
+        "hobby_name",
+        "image_house_url",
+        "image_icon_url",
+        "image_photo",
         "motto",
         "name",
         "name_color",
-        "personality",
         "personality_category",
+        "personality_name",
         "saying",
         "song_name",
-        "species",
+        "species_name",
         "style_1",
         "style_2",
         "unique_entry_id",

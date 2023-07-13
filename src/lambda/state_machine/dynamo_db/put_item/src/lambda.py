@@ -1,5 +1,6 @@
 """State Machine integration for putting an item in DynamoDB."""
 from abc import ABC, abstractmethod
+from decimal import Decimal
 from http import HTTPStatus
 from typing import Any, Dict, Optional, TypedDict
 import boto3
@@ -188,6 +189,9 @@ def handler(event: Event, _: Context) -> Response:
             RequestId=None,
         )
     dynamodb_table: DynamoDBTable = dynamodb.Table(table_name)
+    for key in ("size_1", "size_2"):
+        if key in table_content:
+            table_content[key] = Decimal(table_content[key])
     response: ResponseDynamoDB = dynamodb_table.put_item(Item=table_content)
     status_message: Optional[str] = None
     for status_code in HTTPStatus:

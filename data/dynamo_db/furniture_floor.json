@@ -22,6 +22,9 @@
             "filename": {
                 "S": "RoomTexFloorTile01"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -39,6 +42,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorTile01.png"
             },
             "internal_id": {
                 "N": "5036"
@@ -93,6 +99,9 @@
             "filename": {
                 "S": "RoomTexFloorArabesque00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -110,6 +119,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorArabesque00.png"
             },
             "internal_id": {
                 "N": "4953"
@@ -164,6 +176,9 @@
             "filename": {
                 "S": "RoomTexFloorArchBrick00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -181,6 +196,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorArchBrick00.png"
             },
             "internal_id": {
                 "N": "4998"
@@ -235,6 +253,9 @@
             "filename": {
                 "S": "RoomTexFloorTileWood00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -252,6 +273,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorTileWood00.png"
             },
             "internal_id": {
                 "N": "4994"
@@ -306,6 +330,9 @@
             "filename": {
                 "S": "RoomTexFloorParquetArt00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -323,6 +350,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorParquetArt00.png"
             },
             "internal_id": {
                 "N": "5232"
@@ -377,6 +407,9 @@
             "filename": {
                 "S": "RoomTexFloorLawn00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -394,6 +427,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorLawn00.png"
             },
             "internal_id": {
                 "N": "4979"
@@ -448,6 +484,9 @@
             "filename": {
                 "S": "RoomTexFloorBamboo00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -465,6 +504,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorBamboo00.png"
             },
             "internal_id": {
                 "N": "4964"
@@ -519,6 +561,9 @@
             "filename": {
                 "S": "RoomTexFloorBasement00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -536,6 +581,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorBasement00.png"
             },
             "internal_id": {
                 "N": "4797"
@@ -590,6 +638,9 @@
             "filename": {
                 "S": "RoomTexFloorMorocco00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -607,6 +658,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorMorocco00.png"
             },
             "internal_id": {
                 "N": "4965"
@@ -661,6 +715,9 @@
             "filename": {
                 "S": "RoomTexFloorChocolate02"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -678,6 +735,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorChocolate02.png"
             },
             "internal_id": {
                 "N": "5053"
@@ -732,6 +792,9 @@
             "filename": {
                 "S": "RoomTexFloorBirch00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -749,6 +812,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorBirch00.png"
             },
             "internal_id": {
                 "N": "5032"
@@ -803,6 +869,9 @@
             "filename": {
                 "S": "RoomTexFloorParquetIron02"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -820,6 +889,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorParquetIron02.png"
             },
             "internal_id": {
                 "N": "5066"
@@ -874,6 +946,9 @@
             "filename": {
                 "S": "RoomTexFloorBrick02"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -891,6 +966,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorBrick02.png"
             },
             "internal_id": {
                 "N": "4976"
@@ -945,6 +1023,9 @@
             "filename": {
                 "S": "RoomTexFloorMario00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -962,6 +1043,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorMario00.png"
             },
             "internal_id": {
                 "N": "13804"
@@ -1016,6 +1100,9 @@
             "filename": {
                 "S": "RoomTexFloorCamouflage01"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -1033,6 +1120,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorCamouflage01.png"
             },
             "internal_id": {
                 "N": "5016"
@@ -1087,6 +1177,9 @@
             "filename": {
                 "S": "RoomTexFloorDot04"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -1104,6 +1197,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorDot04.png"
             },
             "internal_id": {
                 "N": "5028"
@@ -1158,6 +1254,9 @@
             "filename": {
                 "S": "RoomTexFloorDecoWood01"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -1175,6 +1274,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorDecoWood01.png"
             },
             "internal_id": {
                 "N": "5074"
@@ -1229,6 +1331,9 @@
             "filename": {
                 "S": "RoomTexFloorHoneycomb01"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -1246,6 +1351,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorHoneycomb01.png"
             },
             "internal_id": {
                 "N": "5040"
@@ -1300,6 +1408,9 @@
             "filename": {
                 "S": "RoomTexFloorMorocco01"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -1317,6 +1428,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorMorocco01.png"
             },
             "internal_id": {
                 "N": "4966"
@@ -1371,6 +1485,9 @@
             "filename": {
                 "S": "RoomTexFloorTile03"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -1388,6 +1505,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorTile03.png"
             },
             "internal_id": {
                 "N": "6846"
@@ -1442,6 +1562,9 @@
             "filename": {
                 "S": "RoomTexFloorRubber01"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -1459,6 +1582,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorRubber01.png"
             },
             "internal_id": {
                 "N": "4954"
@@ -1513,6 +1639,9 @@
             "filename": {
                 "S": "RoomTexFloorPaintWood00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -1530,6 +1659,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorPaintWood00.png"
             },
             "internal_id": {
                 "N": "5057"
@@ -1584,6 +1716,9 @@
             "filename": {
                 "S": "RoomTexFloorWrestling00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -1601,6 +1736,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorWrestling00.png"
             },
             "internal_id": {
                 "N": "4982"
@@ -1655,6 +1793,9 @@
             "filename": {
                 "S": "RoomTexFloorCemetery00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -1672,6 +1813,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorCemetery00.png"
             },
             "internal_id": {
                 "N": "13127"
@@ -1726,6 +1870,9 @@
             "filename": {
                 "S": "RoomTexFloorArgyleTile01"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -1743,6 +1890,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorArgyleTile01.png"
             },
             "internal_id": {
                 "N": "5081"
@@ -1797,6 +1947,9 @@
             "filename": {
                 "S": "RoomTexFloorDecoWood02"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -1814,6 +1967,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorDecoWood02.png"
             },
             "internal_id": {
                 "N": "5075"
@@ -1868,6 +2024,9 @@
             "filename": {
                 "S": "RoomTexFloorHoneycomb00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -1885,6 +2044,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorHoneycomb00.png"
             },
             "internal_id": {
                 "N": "5038"
@@ -1939,6 +2101,9 @@
             "filename": {
                 "S": "RoomTexFloorParquetIron01"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -1956,6 +2121,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorParquetIron01.png"
             },
             "internal_id": {
                 "N": "5065"
@@ -2010,6 +2178,9 @@
             "filename": {
                 "S": "RoomTexFloorMarbleTile01"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -2027,6 +2198,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorMarbleTile01.png"
             },
             "internal_id": {
                 "N": "12433"
@@ -2081,6 +2255,9 @@
             "filename": {
                 "S": "RoomTexFloorBrick03"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -2098,6 +2275,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorBrick03.png"
             },
             "internal_id": {
                 "N": "6849"
@@ -2152,6 +2332,9 @@
             "filename": {
                 "S": "RoomTexFloorEaster00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -2169,6 +2352,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorEaster00.png"
             },
             "internal_id": {
                 "N": "12423"
@@ -2223,6 +2409,9 @@
             "filename": {
                 "S": "RoomTexFloorCamouflage00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -2240,6 +2429,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorCamouflage00.png"
             },
             "internal_id": {
                 "N": "5015"
@@ -2294,6 +2486,9 @@
             "filename": {
                 "S": "RoomTexFloorSakura00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -2311,6 +2506,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorSakura00.png"
             },
             "internal_id": {
                 "N": "7204"
@@ -2365,6 +2563,9 @@
             "filename": {
                 "S": "RoomTexFloorCinnamon00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -2382,6 +2583,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorCinnamon00.png"
             },
             "internal_id": {
                 "N": "10182"
@@ -2436,6 +2640,9 @@
             "filename": {
                 "S": "RoomTexFloorGeek00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -2453,6 +2660,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorGeek00.png"
             },
             "internal_id": {
                 "N": "5082"
@@ -2507,6 +2717,9 @@
             "filename": {
                 "S": "RoomTexFloorSummer00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -2524,6 +2737,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorSummer00.png"
             },
             "internal_id": {
                 "N": "12727"
@@ -2578,6 +2794,9 @@
             "filename": {
                 "S": "RoomSpFloorCloud00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -2595,6 +2814,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpFloorCloud00.png"
             },
             "internal_id": {
                 "N": "5267"
@@ -2649,6 +2871,9 @@
             "filename": {
                 "S": "RoomSpFloorClub00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -2666,6 +2891,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpFloorClub00.png"
             },
             "internal_id": {
                 "N": "13193"
@@ -2720,6 +2948,9 @@
             "filename": {
                 "S": "RoomTexFloorAutumun00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -2737,6 +2968,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorAutumun00.png"
             },
             "internal_id": {
                 "N": "4990"
@@ -2791,6 +3025,9 @@
             "filename": {
                 "S": "RoomTexFloorTile02"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -2808,6 +3045,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorTile02.png"
             },
             "internal_id": {
                 "N": "5037"
@@ -2862,6 +3102,9 @@
             "filename": {
                 "S": "RoomTexFloorPuzzleMat01"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -2879,6 +3122,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorPuzzleMat01.png"
             },
             "internal_id": {
                 "N": "4957"
@@ -2933,6 +3179,9 @@
             "filename": {
                 "S": "RoomTexFloorPanel01"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -2950,6 +3199,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorPanel01.png"
             },
             "internal_id": {
                 "N": "5068"
@@ -3004,6 +3256,9 @@
             "filename": {
                 "S": "RoomTexFloorCommon00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -3021,6 +3276,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorCommon00.png"
             },
             "internal_id": {
                 "N": "5018"
@@ -3075,6 +3333,9 @@
             "filename": {
                 "S": "RoomTexFloorConcrete00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -3092,6 +3353,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorConcrete00.png"
             },
             "internal_id": {
                 "N": "4951"
@@ -3146,6 +3410,9 @@
             "filename": {
                 "S": "RoomTexFloorConstruction00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -3163,6 +3430,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorConstruction00.png"
             },
             "internal_id": {
                 "N": "5235"
@@ -3217,6 +3487,9 @@
             "filename": {
                 "S": "RoomTexFloorTileChecker03"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -3234,6 +3507,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorTileChecker03.png"
             },
             "internal_id": {
                 "N": "6844"
@@ -3288,6 +3564,9 @@
             "filename": {
                 "S": "RoomTexFloorColorfulWood01"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -3305,6 +3584,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorColorfulWood01.png"
             },
             "internal_id": {
                 "N": "5071"
@@ -3359,6 +3641,9 @@
             "filename": {
                 "S": "RoomTexFloorCork00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -3376,6 +3661,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorCork00.png"
             },
             "internal_id": {
                 "N": "4969"
@@ -3430,6 +3718,9 @@
             "filename": {
                 "S": "RoomTexFloorCropCircles00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -3447,6 +3738,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorCropCircles00.png"
             },
             "internal_id": {
                 "N": "5243"
@@ -3501,6 +3795,9 @@
             "filename": {
                 "S": "RoomTexFloorSidewalk00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -3518,6 +3815,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorSidewalk00.png"
             },
             "internal_id": {
                 "N": "5007"
@@ -3572,6 +3872,9 @@
             "filename": {
                 "S": "RoomTexFloorHoneycombWood00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -3589,6 +3892,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorHoneycombWood00.png"
             },
             "internal_id": {
                 "N": "4987"
@@ -3643,6 +3949,9 @@
             "filename": {
                 "S": "RoomTexFloorCute02"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -3660,6 +3969,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorCute02.png"
             },
             "internal_id": {
                 "N": "7221"
@@ -3714,6 +4026,9 @@
             "filename": {
                 "S": "RoomTexFloorCute01"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -3731,6 +4046,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorCute01.png"
             },
             "internal_id": {
                 "N": "7220"
@@ -3785,6 +4103,9 @@
             "filename": {
                 "S": "RoomTexFloorCute00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -3802,6 +4123,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorCute00.png"
             },
             "internal_id": {
                 "N": "7219"
@@ -3856,6 +4180,9 @@
             "filename": {
                 "S": "RoomTexFloorCute03"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -3873,6 +4200,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorCute03.png"
             },
             "internal_id": {
                 "N": "7222"
@@ -3927,6 +4257,9 @@
             "filename": {
                 "S": "RoomTexFloorColorfulWood00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -3944,6 +4277,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorColorfulWood00.png"
             },
             "internal_id": {
                 "N": "5070"
@@ -3998,6 +4334,9 @@
             "filename": {
                 "S": "RoomTexFloorGrassland00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -4015,6 +4354,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorGrassland00.png"
             },
             "internal_id": {
                 "N": "5005"
@@ -4069,6 +4411,9 @@
             "filename": {
                 "S": "RoomTexFloorHerringbone01"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -4086,6 +4431,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorHerringbone01.png"
             },
             "internal_id": {
                 "N": "5062"
@@ -4140,6 +4488,9 @@
             "filename": {
                 "S": "RoomTexFloorCountry01"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -4157,6 +4508,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorCountry01.png"
             },
             "internal_id": {
                 "N": "5025"
@@ -4211,6 +4565,9 @@
             "filename": {
                 "S": "RoomTexFloorSimpleParquet01"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -4228,6 +4585,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorSimpleParquet01.png"
             },
             "internal_id": {
                 "N": "4992"
@@ -4282,6 +4642,9 @@
             "filename": {
                 "S": "RoomTexFloorParquet01"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -4299,6 +4662,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorParquet01.png"
             },
             "internal_id": {
                 "N": "5035"
@@ -4353,6 +4719,9 @@
             "filename": {
                 "S": "RoomTexFloorChocolate00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -4370,6 +4739,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorChocolate00.png"
             },
             "internal_id": {
                 "N": "5050"
@@ -4424,6 +4796,9 @@
             "filename": {
                 "S": "RoomTexFloorStratum00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -4441,6 +4816,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorStratum00.png"
             },
             "internal_id": {
                 "N": "5011"
@@ -4495,6 +4873,9 @@
             "filename": {
                 "S": "RoomTexFloorCottonSoil00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -4512,6 +4893,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorCottonSoil00.png"
             },
             "internal_id": {
                 "N": "4981"
@@ -4566,6 +4950,9 @@
             "filename": {
                 "S": "RoomTexFloorTheater00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -4583,6 +4970,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorTheater00.png"
             },
             "internal_id": {
                 "N": "12917"
@@ -4637,6 +5027,9 @@
             "filename": {
                 "S": "RoomTexFloorFarm00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -4654,6 +5047,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorFarm00.png"
             },
             "internal_id": {
                 "N": "4980"
@@ -4708,6 +5104,9 @@
             "filename": {
                 "S": "RoomTexFloorFlagStone00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -4725,6 +5124,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorFlagStone00.png"
             },
             "internal_id": {
                 "N": "5031"
@@ -4779,6 +5181,9 @@
             "filename": {
                 "S": "RoomTexFloorMosaicTile00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -4796,6 +5201,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorMosaicTile00.png"
             },
             "internal_id": {
                 "N": "4993"
@@ -4850,6 +5258,9 @@
             "filename": {
                 "S": "RoomTexFloorRush00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -4867,6 +5278,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorRush00.png"
             },
             "internal_id": {
                 "N": "4977"
@@ -4921,6 +5335,9 @@
             "filename": {
                 "S": "RoomSpFloorRiver00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -4938,6 +5355,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpFloorRiver00.png"
             },
             "internal_id": {
                 "N": "5273"
@@ -4992,6 +5412,9 @@
             "filename": {
                 "S": "RoomTexFloorMushForest00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -5009,6 +5432,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorMushForest00.png"
             },
             "internal_id": {
                 "N": "7186"
@@ -5063,6 +5489,9 @@
             "filename": {
                 "S": "RoomSpFloorTechnology00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -5080,6 +5509,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpFloorTechnology00.png"
             },
             "internal_id": {
                 "N": "5250"
@@ -5134,6 +5566,9 @@
             "filename": {
                 "S": "RoomSpFloorGalaxy00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -5151,6 +5586,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpFloorGalaxy00.png"
             },
             "internal_id": {
                 "N": "5269"
@@ -5205,6 +5643,9 @@
             "filename": {
                 "S": "RoomTexFloorGarbage00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -5222,6 +5663,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorGarbage00.png"
             },
             "internal_id": {
                 "N": "5236"
@@ -5276,6 +5720,9 @@
             "filename": {
                 "S": "RoomTexFloorAnimal01"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -5293,6 +5740,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorAnimal01.png"
             },
             "internal_id": {
                 "N": "4961"
@@ -5347,6 +5797,9 @@
             "filename": {
                 "S": "RoomSpFloorGlowMoss00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -5364,6 +5817,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpFloorGlowMoss00.png"
             },
             "internal_id": {
                 "N": "13879"
@@ -5418,6 +5874,9 @@
             "filename": {
                 "S": "RoomTexFloorParquetIron00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -5435,6 +5894,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorParquetIron00.png"
             },
             "internal_id": {
                 "N": "5064"
@@ -5489,6 +5951,9 @@
             "filename": {
                 "S": "RoomTexFloorGold00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -5506,6 +5971,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorGold00.png"
             },
             "internal_id": {
                 "N": "5021"
@@ -5560,6 +6028,9 @@
             "filename": {
                 "S": "RoomTexFloorGravel00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -5577,6 +6048,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorGravel00.png"
             },
             "internal_id": {
                 "N": "4978"
@@ -5631,6 +6105,9 @@
             "filename": {
                 "S": "RoomTexFloorArgyleTile00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -5648,6 +6125,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorArgyleTile00.png"
             },
             "internal_id": {
                 "N": "5080"
@@ -5702,6 +6182,9 @@
             "filename": {
                 "S": "RoomTexFloorTileChecker00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -5719,6 +6202,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorTileChecker00.png"
             },
             "internal_id": {
                 "N": "5046"
@@ -5773,6 +6259,9 @@
             "filename": {
                 "S": "RoomTexFloorDecoWood03"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -5790,6 +6279,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorDecoWood03.png"
             },
             "internal_id": {
                 "N": "6847"
@@ -5844,6 +6336,9 @@
             "filename": {
                 "S": "RoomTexFloorHoneycomb02"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -5861,6 +6356,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorHoneycomb02.png"
             },
             "internal_id": {
                 "N": "5041"
@@ -5915,6 +6413,9 @@
             "filename": {
                 "S": "RoomTexFloorKitchen01"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -5932,6 +6433,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorKitchen01.png"
             },
             "internal_id": {
                 "N": "5045"
@@ -5986,6 +6490,9 @@
             "filename": {
                 "S": "RoomTexFloorRubber00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -6003,6 +6510,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorRubber00.png"
             },
             "internal_id": {
                 "N": "4952"
@@ -6057,6 +6567,9 @@
             "filename": {
                 "S": "RoomTexFloorTileChecker02"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -6074,6 +6587,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorTileChecker02.png"
             },
             "internal_id": {
                 "N": "5048"
@@ -6128,6 +6644,9 @@
             "filename": {
                 "S": "RoomTexFloorMarbleTile02"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -6145,6 +6664,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorMarbleTile02.png"
             },
             "internal_id": {
                 "N": "12434"
@@ -6199,6 +6721,9 @@
             "filename": {
                 "S": "RoomTexFloorPaintWood01"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -6216,6 +6741,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorPaintWood01.png"
             },
             "internal_id": {
                 "N": "5058"
@@ -6270,6 +6798,9 @@
             "filename": {
                 "S": "RoomTexFloorSchoolgym00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -6287,6 +6818,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorSchoolgym00.png"
             },
             "internal_id": {
                 "N": "12854"
@@ -6341,6 +6875,9 @@
             "filename": {
                 "S": "RoomTexFloorKitty00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -6358,6 +6895,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorKitty00.png"
             },
             "internal_id": {
                 "N": "10183"
@@ -6412,6 +6952,9 @@
             "filename": {
                 "S": "RoomTexFloorHempTile00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -6429,6 +6972,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorHempTile00.png"
             },
             "internal_id": {
                 "N": "4972"
@@ -6483,6 +7029,9 @@
             "filename": {
                 "S": "RoomTexFloorHighway00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -6500,6 +7049,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorHighway00.png"
             },
             "internal_id": {
                 "N": "5237"
@@ -6554,6 +7106,9 @@
             "filename": {
                 "S": "RoomTexFloorHoney00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -6571,6 +7126,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorHoney00.png"
             },
             "internal_id": {
                 "N": "4999"
@@ -6625,6 +7183,9 @@
             "filename": {
                 "S": "RoomTexFloorSchoolyard00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -6642,6 +7203,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorSchoolyard00.png"
             },
             "internal_id": {
                 "N": "12853"
@@ -6696,6 +7260,9 @@
             "filename": {
                 "S": "RoomSpFloorIce00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -6713,6 +7280,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpFloorIce00.png"
             },
             "internal_id": {
                 "N": "5516"
@@ -6767,6 +7337,9 @@
             "filename": {
                 "S": "RoomSpFloorIceFloe00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -6784,6 +7357,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpFloorIceFloe00.png"
             },
             "internal_id": {
                 "N": "5253"
@@ -6838,6 +7414,9 @@
             "filename": {
                 "S": "RoomTexFloorDynasty00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -6855,6 +7434,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorDynasty00.png"
             },
             "internal_id": {
                 "N": "5012"
@@ -6909,6 +7491,9 @@
             "filename": {
                 "S": "RoomTexFloorJointMat00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -6926,6 +7511,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorJointMat00.png"
             },
             "internal_id": {
                 "N": "4955"
@@ -6980,6 +7568,9 @@
             "filename": {
                 "S": "RoomTexFloorJungle00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -6997,6 +7588,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorJungle00.png"
             },
             "internal_id": {
                 "N": "5515"
@@ -7051,6 +7645,9 @@
             "filename": {
                 "S": "RoomTexFloorKeroppi00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -7068,6 +7665,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorKeroppi00.png"
             },
             "internal_id": {
                 "N": "10178"
@@ -7122,6 +7722,9 @@
             "filename": {
                 "S": "RoomTexFloorKikilala00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -7139,6 +7742,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorKikilala00.png"
             },
             "internal_id": {
                 "N": "10179"
@@ -7193,6 +7799,9 @@
             "filename": {
                 "S": "RoomTexFloorKitschTile00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -7210,6 +7819,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorKitschTile00.png"
             },
             "internal_id": {
                 "N": "5076"
@@ -7264,6 +7876,9 @@
             "filename": {
                 "S": "RoomSpFloorVolcano00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -7281,6 +7896,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpFloorVolcano00.png"
             },
             "internal_id": {
                 "N": "5274"
@@ -7335,6 +7953,9 @@
             "filename": {
                 "S": "RoomTexFloorAnimal00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -7352,6 +7973,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorAnimal00.png"
             },
             "internal_id": {
                 "N": "4959"
@@ -7406,6 +8030,9 @@
             "filename": {
                 "S": "RoomTexFloorHerringbone00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -7423,6 +8050,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorHerringbone00.png"
             },
             "internal_id": {
                 "N": "5061"
@@ -7477,6 +8107,9 @@
             "filename": {
                 "S": "RoomTexFloorCountry00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -7494,6 +8127,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorCountry00.png"
             },
             "internal_id": {
                 "N": "5022"
@@ -7548,6 +8184,9 @@
             "filename": {
                 "S": "RoomTexFloorSimpleParquet00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -7565,6 +8204,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorSimpleParquet00.png"
             },
             "internal_id": {
                 "N": "4991"
@@ -7619,6 +8261,9 @@
             "filename": {
                 "S": "RoomTexFloorLobby00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -7636,6 +8281,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorLobby00.png"
             },
             "internal_id": {
                 "N": "5034"
@@ -7690,6 +8338,9 @@
             "filename": {
                 "S": "RoomTexFloorLunar00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -7707,6 +8358,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorLunar00.png"
             },
             "internal_id": {
                 "N": "4968"
@@ -7761,6 +8415,9 @@
             "filename": {
                 "S": "RoomSpFloorMagic00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -7778,6 +8435,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpFloorMagic00.png"
             },
             "internal_id": {
                 "N": "5249"
@@ -7832,6 +8492,9 @@
             "filename": {
                 "S": "RoomTexFloorFishPop00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -7849,6 +8512,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorFishPop00.png"
             },
             "internal_id": {
                 "N": "5024"
@@ -7903,6 +8569,9 @@
             "filename": {
                 "S": "RoomSpFloorMermaid00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -7920,6 +8589,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpFloorMermaid00.png"
             },
             "internal_id": {
                 "N": "12568"
@@ -7974,6 +8646,9 @@
             "filename": {
                 "S": "RoomTexFloorDot01"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -7991,6 +8666,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorDot01.png"
             },
             "internal_id": {
                 "N": "5026"
@@ -8045,6 +8723,9 @@
             "filename": {
                 "S": "RoomTexFloorMixwood00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -8062,6 +8743,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorMixwood00.png"
             },
             "internal_id": {
                 "N": "5044"
@@ -8116,6 +8800,9 @@
             "filename": {
                 "S": "RoomTexFloorBill00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -8133,6 +8820,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorBill00.png"
             },
             "internal_id": {
                 "N": "4986"
@@ -8187,6 +8877,9 @@
             "filename": {
                 "S": "RoomTexFloorDot00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -8204,6 +8897,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorDot00.png"
             },
             "internal_id": {
                 "N": "5023"
@@ -8258,6 +8954,9 @@
             "filename": {
                 "S": "RoomTexFloorPanel00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -8275,6 +8974,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorPanel00.png"
             },
             "internal_id": {
                 "N": "5067"
@@ -8329,6 +9031,9 @@
             "filename": {
                 "S": "RoomTexFloorMoroccanSquareTile00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -8346,6 +9051,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorMoroccanSquareTile00.png"
             },
             "internal_id": {
                 "N": "13604"
@@ -8400,6 +9108,9 @@
             "filename": {
                 "S": "RoomTexFloorMoss00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -8417,6 +9128,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorMoss00.png"
             },
             "internal_id": {
                 "N": "5234"
@@ -8471,6 +9185,9 @@
             "filename": {
                 "S": "RoomTexFloorMymelody00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -8488,6 +9205,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorMymelody00.png"
             },
             "internal_id": {
                 "N": "10180"
@@ -8542,6 +9262,9 @@
             "filename": {
                 "S": "RoomTexFloorClassroom00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -8559,6 +9282,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorClassroom00.png"
             },
             "internal_id": {
                 "N": "12852"
@@ -8613,6 +9339,9 @@
             "filename": {
                 "S": "RoomTexFloorParquet00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -8630,6 +9359,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorParquet00.png"
             },
             "internal_id": {
                 "N": "5033"
@@ -8684,6 +9416,9 @@
             "filename": {
                 "S": "RoomTexFloorFirst00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -8701,6 +9436,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorFirst00.png"
             },
             "internal_id": {
                 "N": "6005"
@@ -8755,6 +9493,9 @@
             "filename": {
                 "S": "RoomSpFloorOasis00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -8772,6 +9513,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpFloorOasis00.png"
             },
             "internal_id": {
                 "N": "5255"
@@ -8826,6 +9570,9 @@
             "filename": {
                 "S": "RoomTexFloorOldBoard00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -8843,6 +9590,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorOldBoard00.png"
             },
             "internal_id": {
                 "N": "13484"
@@ -8897,6 +9647,9 @@
             "filename": {
                 "S": "RoomTexFloorLabo00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -8914,6 +9667,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorLabo00.png"
             },
             "internal_id": {
                 "N": "12730"
@@ -8968,6 +9724,9 @@
             "filename": {
                 "S": "RoomTexFloorMorocco03"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -8985,6 +9744,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorMorocco03.png"
             },
             "internal_id": {
                 "N": "6928"
@@ -9039,6 +9801,9 @@
             "filename": {
                 "S": "RoomTexFloorOperatingRoom00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -9056,6 +9821,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorOperatingRoom00.png"
             },
             "internal_id": {
                 "N": "12729"
@@ -9110,6 +9878,9 @@
             "filename": {
                 "S": "RoomTexFloorCamouflage03"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -9127,6 +9898,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorCamouflage03.png"
             },
             "internal_id": {
                 "N": "6845"
@@ -9181,6 +9955,9 @@
             "filename": {
                 "S": "RoomTexFloorKitchen00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -9198,6 +9975,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorKitchen00.png"
             },
             "internal_id": {
                 "N": "5043"
@@ -9252,6 +10032,9 @@
             "filename": {
                 "S": "RoomTexFloorAtelier00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -9269,6 +10052,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorAtelier00.png"
             },
             "internal_id": {
                 "N": "4988"
@@ -9323,6 +10109,9 @@
             "filename": {
                 "S": "RoomTexFloorPalace00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -9340,6 +10129,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorPalace00.png"
             },
             "internal_id": {
                 "N": "5051"
@@ -9394,6 +10186,9 @@
             "filename": {
                 "S": "RoomTexFloorGoldRich00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -9411,6 +10206,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorGoldRich00.png"
             },
             "internal_id": {
                 "N": "13026"
@@ -9465,6 +10263,9 @@
             "filename": {
                 "S": "RoomTexFloorParking00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -9482,6 +10283,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorParking00.png"
             },
             "internal_id": {
                 "N": "4997"
@@ -9536,6 +10340,9 @@
             "filename": {
                 "S": "RoomTexFloorParty00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -9553,6 +10360,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorParty00.png"
             },
             "internal_id": {
                 "N": "5241"
@@ -9607,6 +10417,9 @@
             "filename": {
                 "S": "RoomTexFloorPuzzleMat00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -9624,6 +10437,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorPuzzleMat00.png"
             },
             "internal_id": {
                 "N": "4956"
@@ -9678,6 +10494,9 @@
             "filename": {
                 "S": "RoomTexFloorPatchworkTile00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -9695,6 +10514,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorPatchworkTile00.png"
             },
             "internal_id": {
                 "N": "4995"
@@ -9749,6 +10571,9 @@
             "filename": {
                 "S": "RoomTexFloorHospitalRoom00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -9766,6 +10591,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorHospitalRoom00.png"
             },
             "internal_id": {
                 "N": "12726"
@@ -9820,6 +10648,9 @@
             "filename": {
                 "S": "RoomTexFloorSimple00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -9837,6 +10668,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorSimple00.png"
             },
             "internal_id": {
                 "N": "5019"
@@ -9891,6 +10725,9 @@
             "filename": {
                 "S": "RoomTexFloorPaintWood02"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -9908,6 +10745,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorPaintWood02.png"
             },
             "internal_id": {
                 "N": "5059"
@@ -9962,6 +10802,9 @@
             "filename": {
                 "S": "RoomTexFloorPirates00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -9979,6 +10822,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorPirates00.png"
             },
             "internal_id": {
                 "N": "12569"
@@ -10033,6 +10879,9 @@
             "filename": {
                 "S": "RoomTexFloorPurin00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -10050,6 +10899,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorPurin00.png"
             },
             "internal_id": {
                 "N": "10181"
@@ -10104,6 +10956,9 @@
             "filename": {
                 "S": "RoomTexFloorBallroom00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -10121,6 +10976,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorBallroom00.png"
             },
             "internal_id": {
                 "N": "14253"
@@ -10175,6 +11033,9 @@
             "filename": {
                 "S": "RoomTexFloorCamouflage02"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -10192,6 +11053,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorCamouflage02.png"
             },
             "internal_id": {
                 "N": "5017"
@@ -10246,6 +11110,9 @@
             "filename": {
                 "S": "RoomTexFloorMorocco02"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -10263,6 +11130,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorMorocco02.png"
             },
             "internal_id": {
                 "N": "6927"
@@ -10317,6 +11187,9 @@
             "filename": {
                 "S": "RoomTexFloorPuzzleMat03"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -10334,6 +11207,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorPuzzleMat03.png"
             },
             "internal_id": {
                 "N": "7185"
@@ -10388,6 +11264,9 @@
             "filename": {
                 "S": "RoomTexFloorEgypt00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -10405,6 +11284,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorEgypt00.png"
             },
             "internal_id": {
                 "N": "5054"
@@ -10459,6 +11341,9 @@
             "filename": {
                 "S": "RoomTexFloorAthletics00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -10476,6 +11361,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorAthletics00.png"
             },
             "internal_id": {
                 "N": "4996"
@@ -10530,6 +11418,9 @@
             "filename": {
                 "S": "RoomTexFloorRuins00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -10547,6 +11438,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorRuins00.png"
             },
             "internal_id": {
                 "N": "5240"
@@ -10601,6 +11495,9 @@
             "filename": {
                 "S": "RoomTexFloorSquareTile00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -10618,6 +11515,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorSquareTile00.png"
             },
             "internal_id": {
                 "N": "4973"
@@ -10672,6 +11572,9 @@
             "filename": {
                 "S": "RoomTexFloorRattan00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -10689,6 +11592,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorRattan00.png"
             },
             "internal_id": {
                 "N": "4967"
@@ -10743,6 +11649,9 @@
             "filename": {
                 "S": "RoomTexFloorDot02"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -10760,6 +11669,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorDot02.png"
             },
             "internal_id": {
                 "N": "5027"
@@ -10814,6 +11726,9 @@
             "filename": {
                 "S": "RoomTexFloorTileChecker01"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -10831,6 +11746,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorTileChecker01.png"
             },
             "internal_id": {
                 "N": "5047"
@@ -10885,6 +11803,9 @@
             "filename": {
                 "S": "RoomTexFloorBrick01"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -10902,6 +11823,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorBrick01.png"
             },
             "internal_id": {
                 "N": "4975"
@@ -10956,6 +11880,9 @@
             "filename": {
                 "S": "RoomTexFloorCookery00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -10973,6 +11900,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorCookery00.png"
             },
             "internal_id": {
                 "N": "12915"
@@ -11027,6 +11957,9 @@
             "filename": {
                 "S": "RoomTexFloorRobo00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -11044,6 +11977,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorRobo00.png"
             },
             "internal_id": {
                 "N": "5072"
@@ -11098,6 +12034,9 @@
             "filename": {
                 "S": "RoomTexFloorRock00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -11115,6 +12054,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorRock00.png"
             },
             "internal_id": {
                 "N": "5239"
@@ -11169,6 +12111,9 @@
             "filename": {
                 "S": "RoomSpFloorSketch00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -11186,6 +12131,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpFloorSketch00.png"
             },
             "internal_id": {
                 "N": "14897"
@@ -11240,6 +12188,9 @@
             "filename": {
                 "S": "RoomSpFloorRopenet00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -11257,6 +12208,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpFloorRopenet00.png"
             },
             "internal_id": {
                 "N": "13880"
@@ -11311,6 +12265,9 @@
             "filename": {
                 "S": "RoomTexFloorRoseCarpet00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -11328,6 +12285,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorRoseCarpet00.png"
             },
             "internal_id": {
                 "N": "4958"
@@ -11382,6 +12342,9 @@
             "filename": {
                 "S": "RoomTexFloorRoseWood00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -11399,6 +12362,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorRoseWood00.png"
             },
             "internal_id": {
                 "N": "5063"
@@ -11453,6 +12419,9 @@
             "filename": {
                 "S": "RoomTexFloorRubberTile00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -11470,6 +12439,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorRubberTile00.png"
             },
             "internal_id": {
                 "N": "5163"
@@ -11524,6 +12496,9 @@
             "filename": {
                 "S": "RoomTexFloorTatami01"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -11541,6 +12516,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorTatami01.png"
             },
             "internal_id": {
                 "N": "5079"
@@ -11595,6 +12573,9 @@
             "filename": {
                 "S": "RoomTexFloorTatamiPanel01"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -11612,6 +12593,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorTatamiPanel01.png"
             },
             "internal_id": {
                 "N": "5078"
@@ -11666,6 +12650,9 @@
             "filename": {
                 "S": "RoomTexFloorDesert00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -11683,6 +12670,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorDesert00.png"
             },
             "internal_id": {
                 "N": "4983"
@@ -11737,6 +12727,9 @@
             "filename": {
                 "S": "RoomTexFloorSolidWood00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -11754,6 +12747,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorSolidWood00.png"
             },
             "internal_id": {
                 "N": "5056"
@@ -11808,6 +12804,9 @@
             "filename": {
                 "S": "RoomTexFloorEmptyLot00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -11825,6 +12824,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorEmptyLot00.png"
             },
             "internal_id": {
                 "N": "4985"
@@ -11879,6 +12881,9 @@
             "filename": {
                 "S": "RoomTexFloorSand00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -11896,6 +12901,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorSand00.png"
             },
             "internal_id": {
                 "N": "4970"
@@ -11950,6 +12958,9 @@
             "filename": {
                 "S": "RoomSpFloorSF00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -11967,6 +12978,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpFloorSF00.png"
             },
             "internal_id": {
                 "N": "5270"
@@ -12021,6 +13035,9 @@
             "filename": {
                 "S": "RoomTexFloorScramble00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -12038,6 +13055,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorScramble00.png"
             },
             "internal_id": {
                 "N": "5010"
@@ -12092,6 +13112,9 @@
             "filename": {
                 "S": "RoomTexFloorPuzzleMat02"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -12109,6 +13132,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorPuzzleMat02.png"
             },
             "internal_id": {
                 "N": "7184"
@@ -12163,6 +13189,9 @@
             "filename": {
                 "S": "RoomTexFloorSeaView00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -12180,6 +13209,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorSeaView00.png"
             },
             "internal_id": {
                 "N": "4950"
@@ -12234,6 +13266,9 @@
             "filename": {
                 "S": "RoomTexFloorSidewalk01"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -12251,6 +13286,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorSidewalk01.png"
             },
             "internal_id": {
                 "N": "5008"
@@ -12305,6 +13343,9 @@
             "filename": {
                 "S": "RoomTexFloorSimpleCarpet01"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -12322,6 +13363,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorSimpleCarpet01.png"
             },
             "internal_id": {
                 "N": "5001"
@@ -12376,6 +13420,9 @@
             "filename": {
                 "S": "RoomTexFloorSimpleCarpet03"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -12393,6 +13440,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorSimpleCarpet03.png"
             },
             "internal_id": {
                 "N": "5003"
@@ -12447,6 +13497,9 @@
             "filename": {
                 "S": "RoomTexFloorSimpleCarpet00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -12464,6 +13517,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorSimpleCarpet00.png"
             },
             "internal_id": {
                 "N": "5000"
@@ -12518,6 +13574,9 @@
             "filename": {
                 "S": "RoomTexFloorSimpleCarpet04"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -12535,6 +13594,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorSimpleCarpet04.png"
             },
             "internal_id": {
                 "N": "5004"
@@ -12589,6 +13651,9 @@
             "filename": {
                 "S": "RoomTexFloorGelande00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -12606,6 +13671,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorGelande00.png"
             },
             "internal_id": {
                 "N": "4989"
@@ -12660,6 +13728,9 @@
             "filename": {
                 "S": "RoomTexFloorSkull00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -12677,6 +13748,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorSkull00.png"
             },
             "internal_id": {
                 "N": "5248"
@@ -12731,6 +13805,9 @@
             "filename": {
                 "S": "RoomTexFloorSlate00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -12748,6 +13825,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorSlate00.png"
             },
             "internal_id": {
                 "N": "5233"
@@ -12802,6 +13882,9 @@
             "filename": {
                 "S": "RoomTexFloorHalloween00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -12819,6 +13902,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorHalloween00.png"
             },
             "internal_id": {
                 "N": "13225"
@@ -12873,6 +13959,9 @@
             "filename": {
                 "S": "RoomTexFloorSandStar00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -12890,6 +13979,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorSandStar00.png"
             },
             "internal_id": {
                 "N": "7239"
@@ -12944,6 +14036,9 @@
             "filename": {
                 "S": "RoomTexFloorSteampunk00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -12961,6 +14056,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorSteampunk00.png"
             },
             "internal_id": {
                 "N": "5055"
@@ -13015,6 +14113,9 @@
             "filename": {
                 "S": "RoomTexFloorSteel00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -13032,6 +14133,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorSteel00.png"
             },
             "internal_id": {
                 "N": "4960"
@@ -13086,6 +14190,9 @@
             "filename": {
                 "S": "RoomTexFloorMarble00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -13103,6 +14210,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorMarble00.png"
             },
             "internal_id": {
                 "N": "5069"
@@ -13157,6 +14267,9 @@
             "filename": {
                 "S": "RoomTexFloorStripe00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -13174,6 +14287,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorStripe00.png"
             },
             "internal_id": {
                 "N": "4963"
@@ -13228,6 +14344,9 @@
             "filename": {
                 "S": "RoomTexFloorArena00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -13245,6 +14364,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorArena00.png"
             },
             "internal_id": {
                 "N": "5013"
@@ -13299,6 +14421,9 @@
             "filename": {
                 "S": "RoomTexFloorBog00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -13316,6 +14441,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorBog00.png"
             },
             "internal_id": {
                 "N": "5238"
@@ -13370,6 +14498,9 @@
             "filename": {
                 "S": "RoomTexFloorTatami00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -13387,6 +14518,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorTatami00.png"
             },
             "internal_id": {
                 "N": "5039"
@@ -13441,6 +14575,9 @@
             "filename": {
                 "S": "RoomTexFloorTatamiPanel00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -13458,6 +14595,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorTatamiPanel00.png"
             },
             "internal_id": {
                 "N": "5077"
@@ -13512,6 +14652,9 @@
             "filename": {
                 "S": "RoomTexFloorGlamping00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -13529,6 +14672,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorGlamping00.png"
             },
             "internal_id": {
                 "N": "13485"
@@ -13583,6 +14729,9 @@
             "filename": {
                 "S": "RoomTexFloorTileTerracotta00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -13600,6 +14749,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorTileTerracotta00.png"
             },
             "internal_id": {
                 "N": "4971"
@@ -13654,6 +14806,9 @@
             "filename": {
                 "S": "RoomTexFloorAnimal03"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -13671,6 +14826,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorAnimal03.png"
             },
             "internal_id": {
                 "N": "6848"
@@ -13725,6 +14883,9 @@
             "filename": {
                 "S": "RoomTexFloorPlatform00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -13742,6 +14903,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorPlatform00.png"
             },
             "internal_id": {
                 "N": "5009"
@@ -13796,6 +14960,9 @@
             "filename": {
                 "S": "RoomTexFloorHarvest00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -13813,6 +14980,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorHarvest00.png"
             },
             "internal_id": {
                 "N": "13319"
@@ -13867,6 +15037,9 @@
             "filename": {
                 "S": "RoomSpFloorFishTank00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -13884,6 +15057,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpFloorFishTank00.png"
             },
             "internal_id": {
                 "N": "5268"
@@ -13938,6 +15114,9 @@
             "filename": {
                 "S": "RoomSpFloorWater00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -13955,6 +15134,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpFloorWater00.png"
             },
             "internal_id": {
                 "N": "5030"
@@ -14009,6 +15191,9 @@
             "filename": {
                 "S": "RoomTexFloorWilderness00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -14026,6 +15211,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorWilderness00.png"
             },
             "internal_id": {
                 "N": "4984"
@@ -14080,6 +15268,9 @@
             "filename": {
                 "S": "RoomTexFloorHoneycomb03"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -14097,6 +15288,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorHoneycomb03.png"
             },
             "internal_id": {
                 "N": "5042"
@@ -14151,6 +15345,9 @@
             "filename": {
                 "S": "RoomTexFloorParquetIron03"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -14168,6 +15365,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorParquetIron03.png"
             },
             "internal_id": {
                 "N": "6843"
@@ -14222,6 +15422,9 @@
             "filename": {
                 "S": "RoomTexFloorTile00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -14239,6 +15442,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorTile00.png"
             },
             "internal_id": {
                 "N": "5020"
@@ -14293,6 +15499,9 @@
             "filename": {
                 "S": "RoomTexFloorMarbleTile00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -14310,6 +15519,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorMarbleTile00.png"
             },
             "internal_id": {
                 "N": "12431"
@@ -14364,6 +15576,9 @@
             "filename": {
                 "S": "RoomTexFloorBrick00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -14381,6 +15596,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorBrick00.png"
             },
             "internal_id": {
                 "N": "4974"
@@ -14435,6 +15653,9 @@
             "filename": {
                 "S": "RoomTexFloorChocolate01"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -14452,6 +15673,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorChocolate01.png"
             },
             "internal_id": {
                 "N": "5052"
@@ -14506,6 +15730,9 @@
             "filename": {
                 "S": "RoomTexFloorPaintWood03"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -14523,6 +15750,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorPaintWood03.png"
             },
             "internal_id": {
                 "N": "5060"
@@ -14577,6 +15807,9 @@
             "filename": {
                 "S": "RoomTexFloorGrassland01"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -14594,6 +15827,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorGrassland01.png"
             },
             "internal_id": {
                 "N": "5006"
@@ -14648,6 +15884,9 @@
             "filename": {
                 "S": "RoomTexFloorCedar00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -14665,6 +15904,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorCedar00.png"
             },
             "internal_id": {
                 "N": "5049"
@@ -14719,6 +15961,9 @@
             "filename": {
                 "S": "RoomTexFloorDecoWood00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -14736,6 +15981,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorDecoWood00.png"
             },
             "internal_id": {
                 "N": "5073"
@@ -14790,6 +16038,9 @@
             "filename": {
                 "S": "RoomTexFloorAnimal02"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -14807,6 +16058,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorAnimal02.png"
             },
             "internal_id": {
                 "N": "4962"

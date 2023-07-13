@@ -31,6 +31,15 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishAwabiCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishAwabi.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Awabi.png"
+            },
             "internal_id": {
                 "N": "2835"
             },
@@ -48,6 +57,9 @@
             },
             "lighting_category": {
                 "S": "Fluorescent"
+            },
+            "movement_category": {
+                "S": "Medium"
             },
             "name": {
                 "S": "Abalone"
@@ -78,6 +90,9 @@
             },
             "unique_entry_id": {
                 "S": "LnurTYKDSPtsiQr62"
+            },
+            "unlock_number": {
+                "N": "20"
             }
         },
         "TableName": "creature_sea"
@@ -114,6 +129,15 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishFujitsuboCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishFujitsubo.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fujitsubo.png"
+            },
             "internal_id": {
                 "N": "2832"
             },
@@ -131,6 +155,9 @@
             },
             "lighting_category": {
                 "S": "Fluorescent"
+            },
+            "movement_category": {
+                "S": "Stationary"
             },
             "name": {
                 "S": "Acorn Barnacle"
@@ -161,6 +188,9 @@
             },
             "unique_entry_id": {
                 "S": "QjvNJrjo5pNqZzuGq"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_sea"
@@ -197,6 +227,15 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishOumugaiCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishOumugai.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Oumugai.png"
+            },
             "internal_id": {
                 "N": "2856"
             },
@@ -214,6 +253,9 @@
             },
             "lighting_category": {
                 "S": "Fluorescent"
+            },
+            "movement_category": {
+                "S": "Medium"
             },
             "name": {
                 "S": "Chambered Nautilus"
@@ -244,6 +286,9 @@
             },
             "unique_entry_id": {
                 "S": "cmNawSTGaZZjRi5sp"
+            },
+            "unlock_number": {
+                "N": "20"
             }
         },
         "TableName": "creature_sea"
@@ -280,6 +325,15 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishDungenessCrabCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishDungenessCrab.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/DungenessCrab.png"
+            },
             "internal_id": {
                 "N": "7308"
             },
@@ -297,6 +351,9 @@
             },
             "lighting_category": {
                 "S": "Fluorescent"
+            },
+            "movement_category": {
+                "S": "Medium"
             },
             "name": {
                 "S": "Dungeness crab"
@@ -327,6 +384,9 @@
             },
             "unique_entry_id": {
                 "S": "jTP553H6DNuKBSAKa"
+            },
+            "unlock_number": {
+                "N": "20"
             }
         },
         "TableName": "creature_sea"
@@ -363,6 +423,15 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishHotaruikaCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishHotaruika.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Hotaruika.png"
+            },
             "internal_id": {
                 "N": "6920"
             },
@@ -380,6 +449,9 @@
             },
             "lighting_category": {
                 "S": "Fluorescent"
+            },
+            "movement_category": {
+                "S": "Slow"
             },
             "name": {
                 "S": "Firefly Squid"
@@ -410,6 +482,9 @@
             },
             "unique_entry_id": {
                 "S": "ETuWxdyZNpqeFCYby"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_sea"
@@ -446,6 +521,15 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishHiramushiCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishHiramushi.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Hiramushi.png"
+            },
             "internal_id": {
                 "N": "2844"
             },
@@ -463,6 +547,9 @@
             },
             "lighting_category": {
                 "S": "Fluorescent"
+            },
+            "movement_category": {
+                "S": "Very slow"
             },
             "name": {
                 "S": "Flatworm"
@@ -493,6 +580,9 @@
             },
             "unique_entry_id": {
                 "S": "4LAq9YXXj4ZdfkSuK"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_sea"
@@ -529,6 +619,15 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishGazamiCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishGazami.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Gazami.png"
+            },
             "internal_id": {
                 "N": "7191"
             },
@@ -546,6 +645,9 @@
             },
             "lighting_category": {
                 "S": "Fluorescent"
+            },
+            "movement_category": {
+                "S": "Medium"
             },
             "name": {
                 "S": "Gazami Crab"
@@ -576,6 +678,9 @@
             },
             "unique_entry_id": {
                 "S": "ruLaEghgv3y3obBA2"
+            },
+            "unlock_number": {
+                "N": "20"
             }
         },
         "TableName": "creature_sea"
@@ -612,6 +717,15 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishDaiougusokumushiCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishDaiougusokumushi.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Daiougusokumushi.png"
+            },
             "internal_id": {
                 "N": "2858"
             },
@@ -628,7 +742,10 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
+            },
+            "movement_category": {
+                "S": "Very fast"
             },
             "name": {
                 "S": "Giant Isopod"
@@ -659,6 +776,9 @@
             },
             "unique_entry_id": {
                 "S": "eGLoSDD4EWD2c6SGs"
+            },
+            "unlock_number": {
+                "N": "80"
             }
         },
         "TableName": "creature_sea"
@@ -695,6 +815,15 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishShakogaiCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishShakogai.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Shakogai.png"
+            },
             "internal_id": {
                 "N": "7214"
             },
@@ -712,6 +841,9 @@
             },
             "lighting_category": {
                 "S": "Fluorescent"
+            },
+            "movement_category": {
+                "S": "Very fast"
             },
             "name": {
                 "S": "Gigas Giant Clam"
@@ -742,6 +874,9 @@
             },
             "unique_entry_id": {
                 "S": "EQmRaHjokMEGTDC7G"
+            },
+            "unlock_number": {
+                "N": "80"
             }
         },
         "TableName": "creature_sea"
@@ -778,6 +913,15 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishKabutoganiCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishKabutogani.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Kabutogani.png"
+            },
             "internal_id": {
                 "N": "2857"
             },
@@ -794,7 +938,10 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
+            },
+            "movement_category": {
+                "S": "Medium"
             },
             "name": {
                 "S": "Horseshoe Crab"
@@ -825,6 +972,9 @@
             },
             "unique_entry_id": {
                 "S": "bbhHaiT2qwcTy46X5"
+            },
+            "unlock_number": {
+                "N": "20"
             }
         },
         "TableName": "creature_sea"
@@ -861,6 +1011,15 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishLobsterCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishLobster.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish54.png"
+            },
             "internal_id": {
                 "N": "2849"
             },
@@ -878,6 +1037,9 @@
             },
             "lighting_category": {
                 "S": "Fluorescent"
+            },
+            "movement_category": {
+                "S": "Fast"
             },
             "name": {
                 "S": "Lobster"
@@ -908,6 +1070,9 @@
             },
             "unique_entry_id": {
                 "S": "5DadWMEddJREFyXKo"
+            },
+            "unlock_number": {
+                "N": "40"
             }
         },
         "TableName": "creature_sea"
@@ -944,6 +1109,15 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishSyakoCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishShako.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Shako.png"
+            },
             "internal_id": {
                 "N": "2845"
             },
@@ -961,6 +1135,9 @@
             },
             "lighting_category": {
                 "S": "Fluorescent"
+            },
+            "movement_category": {
+                "S": "Medium"
             },
             "name": {
                 "S": "Mantis Shrimp"
@@ -991,6 +1168,9 @@
             },
             "unique_entry_id": {
                 "S": "WvZWyzkotj6WQ3tLy"
+            },
+            "unlock_number": {
+                "N": "20"
             }
         },
         "TableName": "creature_sea"
@@ -1027,6 +1207,15 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishMizukurageCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishMizukurage.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Mizukurage.png"
+            },
             "internal_id": {
                 "N": "7245"
             },
@@ -1044,6 +1233,9 @@
             },
             "lighting_category": {
                 "S": "Fluorescent"
+            },
+            "movement_category": {
+                "S": "Very slow"
             },
             "name": {
                 "S": "Moon Jellyfish"
@@ -1074,6 +1266,9 @@
             },
             "unique_entry_id": {
                 "S": "iugx8EqNWqiwv73C7"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_sea"
@@ -1110,6 +1305,15 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishMuhrugaiCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishMuhrugai.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Muhrugai.png"
+            },
             "internal_id": {
                 "N": "7411"
             },
@@ -1126,7 +1330,10 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
+            },
+            "movement_category": {
+                "S": "Slow"
             },
             "name": {
                 "S": "Mussel"
@@ -1157,6 +1364,9 @@
             },
             "unique_entry_id": {
                 "S": "M784h47XqSbBSthgT"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_sea"
@@ -1193,6 +1403,15 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishTakoCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishTako.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Tako.png"
+            },
             "internal_id": {
                 "N": "2854"
             },
@@ -1210,6 +1429,9 @@
             },
             "lighting_category": {
                 "S": "Fluorescent"
+            },
+            "movement_category": {
+                "S": "Slow"
             },
             "name": {
                 "S": "Octopus"
@@ -1240,6 +1462,9 @@
             },
             "unique_entry_id": {
                 "S": "f7amqwd7b3fHnvPFA"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_sea"
@@ -1276,6 +1501,15 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishOysterCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishKaki.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Kaki.png"
+            },
             "internal_id": {
                 "N": "2833"
             },
@@ -1292,7 +1526,10 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
+            },
+            "movement_category": {
+                "S": "Slow"
             },
             "name": {
                 "S": "Oyster"
@@ -1323,6 +1560,9 @@
             },
             "unique_entry_id": {
                 "S": "aacYapCp5wKdQDCmB"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_sea"
@@ -1359,6 +1599,15 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishAkoyagaiCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishAkoyagai.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Akoyagai.png"
+            },
             "internal_id": {
                 "N": "2838"
             },
@@ -1375,7 +1624,10 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
+            },
+            "movement_category": {
+                "S": "Medium"
             },
             "name": {
                 "S": "Pearl Oyster"
@@ -1406,6 +1658,9 @@
             },
             "unique_entry_id": {
                 "S": "Hr2jZ9XybS3jYFw8H"
+            },
+            "unlock_number": {
+                "N": "20"
             }
         },
         "TableName": "creature_sea"
@@ -1442,6 +1697,15 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishTarabaganiCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishTarabagani.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Tarabagani.png"
+            },
             "internal_id": {
                 "N": "2852"
             },
@@ -1459,6 +1723,9 @@
             },
             "lighting_category": {
                 "S": "Fluorescent"
+            },
+            "movement_category": {
+                "S": "Very fast"
             },
             "name": {
                 "S": "Red King Crab"
@@ -1489,6 +1756,9 @@
             },
             "unique_entry_id": {
                 "S": "F3XTwHJQcfdrJk4vk"
+            },
+            "unlock_number": {
+                "N": "80"
             }
         },
         "TableName": "creature_sea"
@@ -1525,6 +1795,15 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishHotateCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishHotate.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Hotate.png"
+            },
             "internal_id": {
                 "N": "2839"
             },
@@ -1542,6 +1821,9 @@
             },
             "lighting_category": {
                 "S": "Fluorescent"
+            },
+            "movement_category": {
+                "S": "Slow"
             },
             "name": {
                 "S": "Scallop"
@@ -1572,6 +1854,9 @@
             },
             "unique_entry_id": {
                 "S": "fMwWEu3Zwy6tZdX2X"
+            },
+            "unlock_number": {
+                "N": "5"
             }
         },
         "TableName": "creature_sea"
@@ -1608,6 +1893,15 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishIsogintyakuCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishIsogintyaku.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Isogintyaku.png"
+            },
             "internal_id": {
                 "N": "2840"
             },
@@ -1625,6 +1919,9 @@
             },
             "lighting_category": {
                 "S": "Fluorescent"
+            },
+            "movement_category": {
+                "S": "Stationary"
             },
             "name": {
                 "S": "Sea Anemone"
@@ -1655,6 +1952,9 @@
             },
             "unique_entry_id": {
                 "S": "fre7kn6ALvnpnH8yC"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_sea"
@@ -1691,6 +1991,15 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishNamakoCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishNamako.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Namako.png"
+            },
             "internal_id": {
                 "N": "2842"
             },
@@ -1708,6 +2017,9 @@
             },
             "lighting_category": {
                 "S": "Fluorescent"
+            },
+            "movement_category": {
+                "S": "Very slow"
             },
             "name": {
                 "S": "Sea Cucumber"
@@ -1738,6 +2050,9 @@
             },
             "unique_entry_id": {
                 "S": "2jxxcGooLMwyyiNQc"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_sea"
@@ -1774,6 +2089,15 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishUmibudouCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishUmibudou.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Umibudou.png"
+            },
             "internal_id": {
                 "N": "2830"
             },
@@ -1791,6 +2115,9 @@
             },
             "lighting_category": {
                 "S": "Fluorescent"
+            },
+            "movement_category": {
+                "S": "Stationary"
             },
             "name": {
                 "S": "Sea Grapes"
@@ -1821,6 +2148,9 @@
             },
             "unique_entry_id": {
                 "S": "eBdtw3eCrMuP9LWyn"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_sea"
@@ -1857,6 +2187,15 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishSenjunamakoCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishSenjunamako.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Senjunamako.png"
+            },
             "internal_id": {
                 "N": "7303"
             },
@@ -1874,6 +2213,9 @@
             },
             "lighting_category": {
                 "S": "Fluorescent"
+            },
+            "movement_category": {
+                "S": "Very fast"
             },
             "name": {
                 "S": "Sea Pig"
@@ -1904,6 +2246,9 @@
             },
             "unique_entry_id": {
                 "S": "kxxguvYvS4G3o7E5x"
+            },
+            "unlock_number": {
+                "N": "80"
             }
         },
         "TableName": "creature_sea"
@@ -1940,6 +2285,15 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishHoyaCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishHoya.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Hoya.png"
+            },
             "internal_id": {
                 "N": "7228"
             },
@@ -1957,6 +2311,9 @@
             },
             "lighting_category": {
                 "S": "Fluorescent"
+            },
+            "movement_category": {
+                "S": "Slow"
             },
             "name": {
                 "S": "Sea Pineapple"
@@ -1987,6 +2344,9 @@
             },
             "unique_entry_id": {
                 "S": "e29uLe7tkErhipLfS"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_sea"
@@ -2023,6 +2383,15 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishUmiushiCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishUmiushi.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Umiushi.png"
+            },
             "internal_id": {
                 "N": "2843"
             },
@@ -2040,6 +2409,9 @@
             },
             "lighting_category": {
                 "S": "Fluorescent"
+            },
+            "movement_category": {
+                "S": "Very slow"
             },
             "name": {
                 "S": "Sea Slug"
@@ -2070,6 +2442,9 @@
             },
             "unique_entry_id": {
                 "S": "3YjdEG93fagcXpiuf"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_sea"
@@ -2106,6 +2481,15 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishHitodeCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishHitode.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Hitode.png"
+            },
             "internal_id": {
                 "N": "2841"
             },
@@ -2123,6 +2507,9 @@
             },
             "lighting_category": {
                 "S": "Fluorescent"
+            },
+            "movement_category": {
+                "S": "Very slow"
             },
             "name": {
                 "S": "Sea Star"
@@ -2153,6 +2540,9 @@
             },
             "unique_entry_id": {
                 "S": "vAF9BcZt5q8gBQJmj"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_sea"
@@ -2189,6 +2579,15 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishUniCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishUni.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Uni.png"
+            },
             "internal_id": {
                 "N": "2831"
             },
@@ -2205,7 +2604,10 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
+            },
+            "movement_category": {
+                "S": "Slow"
             },
             "name": {
                 "S": "Sea Urchin"
@@ -2236,6 +2638,9 @@
             },
             "unique_entry_id": {
                 "S": "3emjFCipv2bgQ6HaM"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_sea"
@@ -2272,6 +2677,15 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishWakameCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishWakame.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Wakame.png"
+            },
             "internal_id": {
                 "N": "2620"
             },
@@ -2288,7 +2702,10 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
+            },
+            "movement_category": {
+                "S": "Stationary"
             },
             "name": {
                 "S": "Seaweed"
@@ -2319,6 +2736,9 @@
             },
             "unique_entry_id": {
                 "S": "KM4dfXCZ6CvZjEyw9"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_sea"
@@ -2355,6 +2775,15 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishPaipuuniCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishPaipuuni.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Paipuuni.png"
+            },
             "internal_id": {
                 "N": "7267"
             },
@@ -2372,6 +2801,9 @@
             },
             "lighting_category": {
                 "S": "Fluorescent"
+            },
+            "movement_category": {
+                "S": "Medium"
             },
             "name": {
                 "S": "Slate Pencil Urchin"
@@ -2402,6 +2834,9 @@
             },
             "unique_entry_id": {
                 "S": "TMftNBRmEGkvhpfnC"
+            },
+            "unlock_number": {
+                "N": "20"
             }
         },
         "TableName": "creature_sea"
@@ -2438,6 +2873,15 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishZuwaiganiCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishZuwaigani.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Zuwaigani.png"
+            },
             "internal_id": {
                 "N": "2850"
             },
@@ -2454,7 +2898,10 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
+            },
+            "movement_category": {
+                "S": "Fast"
             },
             "name": {
                 "S": "Snow Crab"
@@ -2485,6 +2932,9 @@
             },
             "unique_entry_id": {
                 "S": "bQNma5vbcs7wWRqY7"
+            },
+            "unlock_number": {
+                "N": "40"
             }
         },
         "TableName": "creature_sea"
@@ -2521,6 +2971,15 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishTakaashiganiCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishTakaashigani.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Takaashigani.png"
+            },
             "internal_id": {
                 "N": "2853"
             },
@@ -2537,7 +2996,10 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
+            },
+            "movement_category": {
+                "S": "Very fast"
             },
             "name": {
                 "S": "Spider Crab"
@@ -2568,6 +3030,9 @@
             },
             "unique_entry_id": {
                 "S": "gp2XNvGKNGmR6buT3"
+            },
+            "unlock_number": {
+                "N": "80"
             }
         },
         "TableName": "creature_sea"
@@ -2604,6 +3069,15 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishIseebiCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishIseebi.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Iseebi.png"
+            },
             "internal_id": {
                 "N": "2848"
             },
@@ -2620,7 +3094,10 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
+            },
+            "movement_category": {
+                "S": "Fast"
             },
             "name": {
                 "S": "Spiny Lobster"
@@ -2651,6 +3128,9 @@
             },
             "unique_entry_id": {
                 "S": "9n5iphC8vQe6Rar72"
+            },
+            "unlock_number": {
+                "N": "40"
             }
         },
         "TableName": "creature_sea"
@@ -2687,6 +3167,15 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishChinanagoCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishChinanago.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Chinanago.png"
+            },
             "internal_id": {
                 "N": "2855"
             },
@@ -2704,6 +3193,9 @@
             },
             "lighting_category": {
                 "S": "Fluorescent"
+            },
+            "movement_category": {
+                "S": "Slow"
             },
             "name": {
                 "S": "Spotted Garden Eel"
@@ -2734,6 +3226,9 @@
             },
             "unique_entry_id": {
                 "S": "zYEHNF5Svak8ZARMW"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_sea"
@@ -2770,6 +3265,15 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishAmaebiCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishAmaebi.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Amaebi.png"
+            },
             "internal_id": {
                 "N": "2846"
             },
@@ -2787,6 +3291,9 @@
             },
             "lighting_category": {
                 "S": "Fluorescent"
+            },
+            "movement_category": {
+                "S": "Slow"
             },
             "name": {
                 "S": "Sweet Shrimp"
@@ -2817,6 +3324,9 @@
             },
             "unique_entry_id": {
                 "S": "5v5X2ipAYLaALxMsw"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_sea"
@@ -2853,6 +3363,15 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishKurumaebiCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishKurumaebi.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Kurumaebi.png"
+            },
             "internal_id": {
                 "N": "2847"
             },
@@ -2870,6 +3389,9 @@
             },
             "lighting_category": {
                 "S": "Fluorescent"
+            },
+            "movement_category": {
+                "S": "Medium"
             },
             "name": {
                 "S": "Tiger Prawn"
@@ -2900,6 +3422,9 @@
             },
             "unique_entry_id": {
                 "S": "EaMd8ansu3qtzAGbv"
+            },
+            "unlock_number": {
+                "N": "20"
             }
         },
         "TableName": "creature_sea"
@@ -2936,6 +3461,15 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishSazaeCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishSazae.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Sazae.png"
+            },
             "internal_id": {
                 "N": "2834"
             },
@@ -2952,7 +3486,10 @@
                 "BOOL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
+            },
+            "movement_category": {
+                "S": "Slow"
             },
             "name": {
                 "S": "Turban Shell"
@@ -2983,6 +3520,9 @@
             },
             "unique_entry_id": {
                 "S": "efXQqEuT2yZApwmGB"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_sea"
@@ -3019,6 +3559,15 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishMendakoCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishMendako.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Mendako.png"
+            },
             "internal_id": {
                 "N": "7252"
             },
@@ -3036,6 +3585,9 @@
             },
             "lighting_category": {
                 "S": "Fluorescent"
+            },
+            "movement_category": {
+                "S": "Fast"
             },
             "name": {
                 "S": "Umbrella Octopus"
@@ -3066,6 +3618,9 @@
             },
             "unique_entry_id": {
                 "S": "kXFeaEJCCEkQ58T2e"
+            },
+            "unlock_number": {
+                "N": "40"
             }
         },
         "TableName": "creature_sea"
@@ -3102,6 +3657,15 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishKoumoridakoCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishKoumoridako.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Koumoridako.png"
+            },
             "internal_id": {
                 "N": "7203"
             },
@@ -3119,6 +3683,9 @@
             },
             "lighting_category": {
                 "S": "Fluorescent"
+            },
+            "movement_category": {
+                "S": "Very fast"
             },
             "name": {
                 "S": "Vampire Squid"
@@ -3149,6 +3716,9 @@
             },
             "unique_entry_id": {
                 "S": "deJZZk2rxAnePwfzq"
+            },
+            "unlock_number": {
+                "N": "80"
             }
         },
         "TableName": "creature_sea"
@@ -3185,6 +3755,15 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishKairoudouketsuCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishKairoudouketsu.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Kairoudouketsu.png"
+            },
             "internal_id": {
                 "N": "7318"
             },
@@ -3202,6 +3781,9 @@
             },
             "lighting_category": {
                 "S": "Fluorescent"
+            },
+            "movement_category": {
+                "S": "Fast"
             },
             "name": {
                 "S": "Venus' flower basket"
@@ -3232,6 +3814,9 @@
             },
             "unique_entry_id": {
                 "S": "mSvTRhay8tmGXseMt"
+            },
+            "unlock_number": {
+                "N": "40"
             }
         },
         "TableName": "creature_sea"
@@ -3268,6 +3853,15 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishBaigaiCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishBaigai.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Baigai.png"
+            },
             "internal_id": {
                 "N": "7278"
             },
@@ -3285,6 +3879,9 @@
             },
             "lighting_category": {
                 "S": "Fluorescent"
+            },
+            "movement_category": {
+                "S": "Slow"
             },
             "name": {
                 "S": "Whelk"
@@ -3315,6 +3912,9 @@
             },
             "unique_entry_id": {
                 "S": "jSidvLMAXdiDAQNs6"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_sea"
