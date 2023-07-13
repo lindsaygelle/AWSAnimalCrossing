@@ -28,6 +28,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolAxe"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -57,6 +60,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -123,6 +129,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolStickBamboo"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -152,6 +161,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -218,6 +230,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolSoy0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -246,6 +261,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -313,6 +331,9 @@
             "exchange_price": {
                 "N": "500"
             },
+            "filename": {
+                "S": "ToolIcesoft3"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -341,6 +362,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -408,6 +432,9 @@
             "exchange_price": {
                 "N": "500"
             },
+            "filename": {
+                "S": "ToolSensu2"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -436,6 +463,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -503,6 +533,9 @@
             "exchange_price": {
                 "N": "500"
             },
+            "filename": {
+                "S": "ToolBalloonNormal"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -531,6 +564,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -598,6 +634,9 @@
             "exchange_price": {
                 "N": "500"
             },
+            "filename": {
+                "S": "ToolFireworks1"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -626,6 +665,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -693,6 +735,9 @@
             "exchange_price": {
                 "N": "500"
             },
+            "filename": {
+                "S": "ToolTapioca4"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -721,6 +766,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -788,6 +836,9 @@
             "exchange_price": {
                 "N": "500"
             },
+            "filename": {
+                "S": "ToolTapioca2"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -816,6 +867,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -883,6 +937,9 @@
             "exchange_price": {
                 "N": "500"
             },
+            "filename": {
+                "S": "ToolTapioca3"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -911,6 +968,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -978,6 +1038,9 @@
             "exchange_price": {
                 "N": "500"
             },
+            "filename": {
+                "S": "ToolTapioca0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -1006,6 +1069,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -1073,6 +1139,9 @@
             "exchange_price": {
                 "N": "500"
             },
+            "filename": {
+                "S": "ToolTapioca1"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -1101,6 +1170,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -1168,6 +1240,9 @@
             "exchange_price": {
                 "N": "500"
             },
+            "filename": {
+                "S": "ToolBubblesNormal"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -1196,6 +1271,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -1263,6 +1341,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolStcikInsect"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -1291,6 +1372,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -1358,6 +1442,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolStickEgg"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -1387,6 +1474,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -1453,6 +1543,9 @@
             "exchange_price": {
                 "N": "500"
             },
+            "filename": {
+                "S": "ToolCanPlayer2"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -1481,6 +1574,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -1548,6 +1644,9 @@
             "exchange_price": {
                 "N": "500"
             },
+            "filename": {
+                "S": "ToolCanPlayer5"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -1576,6 +1675,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -1643,6 +1745,9 @@
             "exchange_price": {
                 "N": "500"
             },
+            "filename": {
+                "S": "ToolCanPlayer1"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -1671,6 +1776,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -1738,6 +1846,9 @@
             "exchange_price": {
                 "N": "500"
             },
+            "filename": {
+                "S": "ToolCanPlayer3"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -1766,6 +1877,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -1833,6 +1947,9 @@
             "exchange_price": {
                 "N": "500"
             },
+            "filename": {
+                "S": "ToolCanPlayer0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -1861,6 +1978,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -1928,6 +2048,9 @@
             "exchange_price": {
                 "N": "500"
             },
+            "filename": {
+                "S": "ToolCanPlayer7"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -1956,6 +2079,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -2023,6 +2149,9 @@
             "exchange_price": {
                 "N": "500"
             },
+            "filename": {
+                "S": "ToolCanPlayer6"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -2051,6 +2180,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -2118,6 +2250,9 @@
             "exchange_price": {
                 "N": "500"
             },
+            "filename": {
+                "S": "ToolCanPlayer4"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -2146,6 +2281,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -2213,6 +2351,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolStickCherryblossom"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -2242,6 +2383,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -2308,6 +2452,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolChitoseame"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -2336,6 +2483,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -2403,6 +2553,9 @@
             "exchange_price": {
                 "N": "500"
             },
+            "filename": {
+                "S": "ToolIcecream1"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -2431,6 +2584,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -2498,6 +2654,9 @@
             "exchange_price": {
                 "N": "500"
             },
+            "filename": {
+                "S": "ToolDonutPlayer"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -2526,6 +2685,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -2593,6 +2755,9 @@
             "exchange_price": {
                 "N": "500"
             },
+            "filename": {
+                "S": "ToolIcecandyPlayer2"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -2621,6 +2786,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -2688,6 +2856,9 @@
             "exchange_price": {
                 "N": "500"
             },
+            "filename": {
+                "S": "ToolIcesoft1"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -2716,6 +2887,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -2783,6 +2957,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolFishingrodDuck_Remake_0_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -2812,6 +2989,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -2878,6 +3058,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolFishingrodDuck_Remake_1_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -2907,6 +3090,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -2973,6 +3159,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolFishingrodDuck_Remake_2_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -3002,6 +3191,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -3068,6 +3260,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolFishingrodDuck_Remake_3_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -3097,6 +3292,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -3163,6 +3361,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolFishingrodDuck_Remake_4_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -3192,6 +3393,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -3258,6 +3462,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolFishingrodDuck_Remake_5_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -3287,6 +3494,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -3353,6 +3563,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolFishingrodDuck_Remake_6_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -3382,6 +3595,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -3448,6 +3664,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolFishingrodDuck_Remake_7_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -3477,6 +3696,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -3543,6 +3765,9 @@
             "exchange_price": {
                 "N": "500"
             },
+            "filename": {
+                "S": "ToolSticklightColorful"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -3571,6 +3796,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -3638,6 +3866,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolNetPattern_Remake_0_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -3667,6 +3898,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -3733,6 +3967,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolNetPattern_Remake_1_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -3762,6 +3999,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -3828,6 +4068,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolNetPattern_Remake_2_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -3857,6 +4100,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -3923,6 +4169,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolNetPattern_Remake_3_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -3952,6 +4201,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -4018,6 +4270,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolNetPattern_Remake_4_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -4047,6 +4302,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -4113,6 +4371,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolNetPattern_Remake_5_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -4142,6 +4403,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -4208,6 +4472,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolNetPattern_Remake_6_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -4237,6 +4504,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -4303,6 +4573,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolNetPattern_Remake_7_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -4332,6 +4605,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -4398,6 +4674,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolScoopColorful_Remake_0_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -4426,6 +4705,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -4493,6 +4775,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolScoopColorful_Remake_1_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -4521,6 +4806,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -4588,6 +4876,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolScoopColorful_Remake_2_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -4616,6 +4907,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -4683,6 +4977,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolScoopColorful_Remake_3_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -4711,6 +5008,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -4778,6 +5078,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolScoopColorful_Remake_4_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -4806,6 +5109,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -4873,6 +5179,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolScoopColorful_Remake_5_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -4901,6 +5210,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -4968,6 +5280,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolScoopColorful_Remake_6_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -4996,6 +5311,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -5063,6 +5381,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolScoopColorful_Remake_7_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -5091,6 +5412,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -5158,6 +5482,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolSlingshotColorful_Remake_0_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -5186,6 +5513,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -5253,6 +5583,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolSlingshotColorful_Remake_1_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -5281,6 +5614,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -5348,6 +5684,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolSlingshotColorful_Remake_2_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -5376,6 +5715,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -5443,6 +5785,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolSlingshotColorful_Remake_3_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -5471,6 +5816,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -5538,6 +5886,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolSlingshotColorful_Remake_4_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -5566,6 +5917,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -5633,6 +5987,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolSlingshotColorful_Remake_5_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -5661,6 +6018,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -5728,6 +6088,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolSlingshotColorful_Remake_6_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -5756,6 +6119,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -5823,6 +6189,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolSlingshotColorful_Remake_7_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -5851,6 +6220,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -5918,6 +6290,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolWateringColorful_Remake_0_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -5947,6 +6322,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -6013,6 +6391,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolWateringColorful_Remake_1_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -6042,6 +6423,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -6108,6 +6492,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolWateringColorful_Remake_2_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -6137,6 +6524,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -6203,6 +6593,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolWateringColorful_Remake_3_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -6232,6 +6625,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -6298,6 +6694,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolWateringColorful_Remake_4_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -6327,6 +6726,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -6393,6 +6795,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolWateringColorful_Remake_5_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -6422,6 +6827,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -6488,6 +6896,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolWateringColorful_Remake_6_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -6517,6 +6928,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -6583,6 +6997,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolWateringColorful_Remake_7_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -6612,6 +7029,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -6678,6 +7098,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolStickCosmos"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -6707,6 +7130,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -6773,6 +7199,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolDumbbellPlayer_Remake_0_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -6801,6 +7230,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -6868,6 +7300,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolDumbbellPlayer_Remake_1_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -6896,6 +7331,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -6963,6 +7401,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolDumbbellPlayer_Remake_2_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -6991,6 +7432,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -7058,6 +7502,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolDumbbellPlayer_Remake_3_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -7086,6 +7533,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -7153,6 +7603,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolDumbbellPlayer_Remake_4_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -7181,6 +7634,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -7248,6 +7704,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolDumbbellPlayer_Remake_5_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -7276,6 +7735,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -7343,6 +7805,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolDusterPlayer"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -7371,6 +7836,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -7438,6 +7906,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolWateringElephant_Remake_0_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -7467,6 +7938,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -7533,6 +8007,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolWateringElephant_Remake_1_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -7562,6 +8039,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -7628,6 +8108,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolWateringElephant_Remake_2_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -7657,6 +8140,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -7723,6 +8209,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolWateringElephant_Remake_3_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -7752,6 +8241,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -7818,6 +8310,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolWateringElephant_Remake_4_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -7847,6 +8342,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -7913,6 +8411,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolWateringElephant_Remake_5_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -7942,6 +8443,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -8008,6 +8512,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolWateringElephant_Remake_6_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -8037,6 +8544,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -8103,6 +8613,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolWateringElephant_Remake_7_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -8132,6 +8645,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -8198,6 +8714,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolMegaphone1"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -8226,6 +8745,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -8293,6 +8815,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolFishingrodColorful_Remake_0_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -8322,6 +8847,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -8388,6 +8916,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolFishingrodColorful_Remake_1_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -8417,6 +8948,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -8483,6 +9017,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolFishingrodColorful_Remake_2_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -8512,6 +9049,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -8578,6 +9118,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolFishingrodColorful_Remake_3_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -8607,6 +9150,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -8673,6 +9219,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolFishingrodColorful_Remake_4_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -8702,6 +9251,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -8768,6 +9320,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolFishingrodColorful_Remake_5_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -8797,6 +9352,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -8863,6 +9421,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolFishingrodColorful_Remake_6_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -8892,6 +9453,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -8958,6 +9522,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolFishingrodColorful_Remake_7_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -8987,6 +9554,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -9053,6 +9623,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolStickFish"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -9081,6 +9654,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -9148,6 +9724,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolAngling_Remake_0_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -9176,6 +9755,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_equippable": {
                 "BOOL": true
             },
             "is_unlocked": {
@@ -9243,6 +9825,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolAngling_Remake_1_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -9271,6 +9856,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_equippable": {
                 "BOOL": true
             },
             "is_unlocked": {
@@ -9338,6 +9926,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolAngling_Remake_2_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -9366,6 +9957,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_equippable": {
                 "BOOL": true
             },
             "is_unlocked": {
@@ -9433,6 +10027,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolAngling_Remake_3_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -9461,6 +10058,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_equippable": {
                 "BOOL": true
             },
             "is_unlocked": {
@@ -9528,6 +10128,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolAngling_Remake_4_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -9556,6 +10159,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_equippable": {
                 "BOOL": true
             },
             "is_unlocked": {
@@ -9623,6 +10229,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolAngling_Remake_5_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -9651,6 +10260,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_equippable": {
                 "BOOL": true
             },
             "is_unlocked": {
@@ -9718,6 +10330,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolAngling_Remake_6_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -9746,6 +10361,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_equippable": {
                 "BOOL": true
             },
             "is_unlocked": {
@@ -9813,6 +10431,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolAngling_Remake_7_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -9841,6 +10462,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_equippable": {
                 "BOOL": true
             },
             "is_unlocked": {
@@ -9908,6 +10532,9 @@
             "exchange_price": {
                 "N": "100"
             },
+            "filename": {
+                "S": "ToolAxeStone"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -9937,6 +10564,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -10003,6 +10633,9 @@
             "exchange_price": {
                 "N": "100"
             },
+            "filename": {
+                "S": "ToolFishingrodWood"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -10031,6 +10664,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_equippable": {
                 "BOOL": true
             },
             "is_unlocked": {
@@ -10098,6 +10734,9 @@
             "exchange_price": {
                 "N": "100"
             },
+            "filename": {
+                "S": "ToolNet"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -10126,6 +10765,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_equippable": {
                 "BOOL": true
             },
             "is_unlocked": {
@@ -10193,6 +10835,9 @@
             "exchange_price": {
                 "N": "100"
             },
+            "filename": {
+                "S": "ToolShovelWood"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -10222,6 +10867,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -10288,6 +10936,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolWateringWood"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -10316,6 +10967,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_equippable": {
                 "BOOL": true
             },
             "is_unlocked": {
@@ -10383,6 +11037,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolFlowershower"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -10411,6 +11068,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -10478,6 +11138,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolMegaphone0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -10506,6 +11169,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -10573,6 +11239,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolFoxtailPlayer"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -10602,6 +11271,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -10668,6 +11340,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolMegaphone3"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -10696,6 +11371,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -10763,6 +11441,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolAxeGold"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -10792,6 +11473,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -10858,6 +11542,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "LadderKitD"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -10887,6 +11574,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -10953,6 +11643,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolNetGold"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -10981,6 +11674,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_equippable": {
                 "BOOL": true
             },
             "is_unlocked": {
@@ -11048,6 +11744,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolFishingrodGold"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -11076,6 +11775,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_equippable": {
                 "BOOL": true
             },
             "is_unlocked": {
@@ -11143,6 +11845,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolScoopGold"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -11172,6 +11877,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -11238,6 +11946,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolSlingshotGold"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -11267,6 +11978,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -11333,6 +12047,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolStickGolden"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -11362,6 +12079,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -11428,6 +12148,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolWateringGold"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -11456,6 +12179,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_equippable": {
                 "BOOL": true
             },
             "is_unlocked": {
@@ -11523,6 +12249,9 @@
             "exchange_price": {
                 "N": "500"
             },
+            "filename": {
+                "S": "ToolSensu3"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -11551,6 +12280,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -11618,6 +12350,9 @@
             "exchange_price": {
                 "N": "500"
             },
+            "filename": {
+                "S": "ToolBalloonNormal3"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -11646,6 +12381,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -11713,6 +12451,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolLantern_Remake_0_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -11741,6 +12482,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -11808,6 +12552,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolLantern_Remake_1_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -11836,6 +12583,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -11903,6 +12653,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolLantern_Remake_2_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -11931,6 +12684,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -11998,6 +12754,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolLantern_Remake_3_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -12026,6 +12785,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -12093,6 +12855,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolLantern_Remake_4_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -12121,6 +12886,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -12188,6 +12956,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolLantern_Remake_5_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -12216,6 +12987,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -12283,6 +13057,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolStickHyacinth"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -12312,6 +13089,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -12378,6 +13158,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolStickSnow"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -12407,6 +13190,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -12473,6 +13259,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "LadderKitC0_Remake_0_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -12502,6 +13291,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -12568,6 +13360,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "LadderKitC0_Remake_1_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -12597,6 +13392,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -12663,6 +13461,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "LadderKitC0_Remake_2_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -12692,6 +13493,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -12758,6 +13562,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolStickIron"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -12787,6 +13594,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -12853,6 +13663,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolStickKikilala0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -12881,6 +13694,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -12948,6 +13764,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolLadder"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -12977,6 +13796,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -13043,6 +13865,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolSticklight"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -13071,6 +13896,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -13138,6 +13966,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolStickYuri"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -13167,6 +13998,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -13233,6 +14067,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "SantaSack"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -13261,6 +14098,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -13328,6 +14168,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolMaracasCarnival"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -13356,6 +14199,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -13423,6 +14269,9 @@
             "exchange_price": {
                 "N": "500"
             },
+            "filename": {
+                "S": "ToolDonutPlayer3"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -13451,6 +14300,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -13518,6 +14370,9 @@
             "exchange_price": {
                 "N": "500"
             },
+            "filename": {
+                "S": "ToolIcesoft2"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -13546,6 +14401,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -13613,6 +14471,9 @@
             "exchange_price": {
                 "N": "500"
             },
+            "filename": {
+                "S": "ToolCandyfloss2"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -13641,6 +14502,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -13708,6 +14572,9 @@
             "exchange_price": {
                 "N": "500"
             },
+            "filename": {
+                "S": "ToolIcecreamDouble1"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -13736,6 +14603,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -13803,6 +14673,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolStickChrysanthemum"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -13832,6 +14705,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -13898,6 +14774,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolStickMushroom_Remake_0_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -13927,6 +14806,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -13993,6 +14875,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolStickMushroom_Remake_1_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -14022,6 +14907,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -14088,6 +14976,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolStickMushroom_Remake_2_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -14117,6 +15008,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -14183,6 +15077,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolStickMushroom_Remake_3_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -14212,6 +15109,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -14278,6 +15178,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolStickMushroom_Remake_4_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -14307,6 +15210,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -14373,6 +15279,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolNetNormal_Remake_0_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -14401,6 +15310,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_equippable": {
                 "BOOL": true
             },
             "is_unlocked": {
@@ -14468,6 +15380,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolNetNormal_Remake_1_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -14496,6 +15411,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_equippable": {
                 "BOOL": true
             },
             "is_unlocked": {
@@ -14563,6 +15481,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolNetNormal_Remake_2_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -14591,6 +15512,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_equippable": {
                 "BOOL": true
             },
             "is_unlocked": {
@@ -14658,6 +15582,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolNetNormal_Remake_3_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -14686,6 +15613,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_equippable": {
                 "BOOL": true
             },
             "is_unlocked": {
@@ -14753,6 +15683,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolNetNormal_Remake_4_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -14781,6 +15714,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_equippable": {
                 "BOOL": true
             },
             "is_unlocked": {
@@ -14848,6 +15784,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolNetNormal_Remake_5_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -14876,6 +15815,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_equippable": {
                 "BOOL": true
             },
             "is_unlocked": {
@@ -14943,6 +15885,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolNetNormal_Remake_6_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -14971,6 +15916,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_equippable": {
                 "BOOL": true
             },
             "is_unlocked": {
@@ -15038,6 +15986,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolNetNormal_Remake_7_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -15066,6 +16017,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_equippable": {
                 "BOOL": true
             },
             "is_unlocked": {
@@ -15133,6 +16087,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolBranchPlayer"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -15162,6 +16119,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -15228,6 +16188,9 @@
             "exchange_price": {
                 "N": "30"
             },
+            "filename": {
+                "S": "ToolBalloonNook"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -15256,6 +16219,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -15323,6 +16289,9 @@
             "exchange_price": {
                 "N": "500"
             },
+            "filename": {
+                "S": "ToolPennantRcm"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -15351,6 +16320,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -15418,6 +16390,9 @@
             "exchange_price": {
                 "N": "400"
             },
+            "filename": {
+                "S": "ToolFanNook0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -15446,6 +16421,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -15513,6 +16491,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolOcarina"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -15542,6 +16523,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -15608,6 +16592,9 @@
             "exchange_price": {
                 "N": "500"
             },
+            "filename": {
+                "S": "ToolIcecandyPlayer0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -15636,6 +16623,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -15703,6 +16693,9 @@
             "exchange_price": {
                 "N": "500"
             },
+            "filename": {
+                "S": "ToolIcecreamDouble2"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -15731,6 +16724,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -15798,6 +16794,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolFishingrodOutdoor_Remake_0_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -15827,6 +16826,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -15893,6 +16895,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolFishingrodOutdoor_Remake_1_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -15922,6 +16927,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -15988,6 +16996,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolFishingrodOutdoor_Remake_2_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -16017,6 +17028,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -16083,6 +17097,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolFishingrodOutdoor_Remake_3_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -16112,6 +17129,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -16178,6 +17198,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolFishingrodOutdoor_Remake_4_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -16207,6 +17230,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -16273,6 +17299,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolFishingrodOutdoor_Remake_5_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -16302,6 +17331,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -16368,6 +17400,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolFishingrodOutdoor_Remake_6_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -16397,6 +17432,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -16463,6 +17501,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolFishingrodOutdoor_Remake_7_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -16492,6 +17533,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -16558,6 +17602,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolNetOutdoor_Remake_0_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -16587,6 +17634,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -16653,6 +17703,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolNetOutdoor_Remake_1_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -16682,6 +17735,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -16748,6 +17804,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolNetOutdoor_Remake_2_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -16777,6 +17836,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -16843,6 +17905,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolNetOutdoor_Remake_3_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -16872,6 +17937,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -16938,6 +18006,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolNetOutdoor_Remake_4_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -16967,6 +18038,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -17033,6 +18107,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolNetOutdoor_Remake_5_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -17062,6 +18139,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -17128,6 +18208,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolNetOutdoor_Remake_6_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -17157,6 +18240,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -17223,6 +18309,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolNetOutdoor_Remake_7_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -17252,6 +18341,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -17318,6 +18410,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolScoopOutdoor_Remake_0_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -17346,6 +18441,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -17413,6 +18511,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolScoopOutdoor_Remake_1_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -17441,6 +18542,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -17508,6 +18612,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolScoopOutdoor_Remake_2_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -17536,6 +18643,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -17603,6 +18713,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolScoopOutdoor_Remake_3_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -17631,6 +18744,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -17698,6 +18814,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolScoopOutdoor_Remake_4_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -17726,6 +18845,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -17793,6 +18915,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolScoopOutdoor_Remake_5_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -17821,6 +18946,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -17888,6 +19016,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolScoopOutdoor_Remake_6_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -17916,6 +19047,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -17983,6 +19117,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolScoopOutdoor_Remake_7_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -18011,6 +19148,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -18078,6 +19218,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolSlingshotOutdoor_Remake_0_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -18106,6 +19249,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -18173,6 +19319,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolSlingshotOutdoor_Remake_1_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -18201,6 +19350,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -18268,6 +19420,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolSlingshotOutdoor_Remake_2_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -18296,6 +19451,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -18363,6 +19521,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolSlingshotOutdoor_Remake_3_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -18391,6 +19552,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -18458,6 +19622,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolSlingshotOutdoor_Remake_4_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -18486,6 +19653,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -18553,6 +19723,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolSlingshotOutdoor_Remake_5_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -18581,6 +19754,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -18648,6 +19824,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolSlingshotOutdoor_Remake_6_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -18676,6 +19855,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -18743,6 +19925,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolSlingshotOutdoor_Remake_7_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -18771,6 +19956,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -18838,6 +20026,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolWateringOutdoor_Remake_0_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -18867,6 +20058,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -18933,6 +20127,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolWateringOutdoor_Remake_1_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -18962,6 +20159,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -19028,6 +20228,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolWateringOutdoor_Remake_2_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -19057,6 +20260,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -19123,6 +20329,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolWateringOutdoor_Remake_3_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -19152,6 +20361,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -19218,6 +20430,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolWateringOutdoor_Remake_4_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -19247,6 +20462,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -19313,6 +20531,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolWateringOutdoor_Remake_5_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -19342,6 +20563,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -19408,6 +20632,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolWateringOutdoor_Remake_6_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -19437,6 +20664,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -19503,6 +20733,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolWateringOutdoor_Remake_7_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -19532,6 +20765,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -19598,6 +20834,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolPanpipe"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -19627,6 +20866,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -19693,6 +20935,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolStickPansy"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -19722,6 +20967,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -19788,6 +21036,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolCracker"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -19816,6 +21067,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -19883,6 +21137,9 @@
             "exchange_price": {
                 "N": "500"
             },
+            "filename": {
+                "S": "ToolSensu0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -19911,6 +21168,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -19978,6 +21238,9 @@
             "exchange_price": {
                 "N": "500"
             },
+            "filename": {
+                "S": "ToolBalloonNormal4"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -20006,6 +21269,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -20073,6 +21339,9 @@
             "exchange_price": {
                 "N": "500"
             },
+            "filename": {
+                "S": "ToolWindmill"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -20101,6 +21370,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -20168,6 +21440,9 @@
             "exchange_price": {
                 "N": "500"
             },
+            "filename": {
+                "S": "ToolCandyfloss0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -20196,6 +21471,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -20263,6 +21541,9 @@
             "exchange_price": {
                 "N": "500"
             },
+            "filename": {
+                "S": "ToolMagazine_Remake_0_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -20291,6 +21572,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -20358,6 +21642,9 @@
             "exchange_price": {
                 "N": "500"
             },
+            "filename": {
+                "S": "ToolMagazine_Remake_1_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -20386,6 +21673,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -20453,6 +21743,9 @@
             "exchange_price": {
                 "N": "500"
             },
+            "filename": {
+                "S": "ToolMagazine_Remake_2_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -20481,6 +21774,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -20548,6 +21844,9 @@
             "exchange_price": {
                 "N": "500"
             },
+            "filename": {
+                "S": "ToolMagazine_Remake_3_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -20576,6 +21875,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -20643,6 +21945,9 @@
             "exchange_price": {
                 "N": "500"
             },
+            "filename": {
+                "S": "ToolBookPlayer_Remake_0_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -20671,6 +21976,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -20738,6 +22046,9 @@
             "exchange_price": {
                 "N": "500"
             },
+            "filename": {
+                "S": "ToolBookPlayer_Remake_1_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -20766,6 +22077,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -20833,6 +22147,9 @@
             "exchange_price": {
                 "N": "500"
             },
+            "filename": {
+                "S": "ToolBookPlayer_Remake_2_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -20861,6 +22178,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -20928,6 +22248,9 @@
             "exchange_price": {
                 "N": "500"
             },
+            "filename": {
+                "S": "ToolBookPlayer_Remake_3_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -20956,6 +22279,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -21023,6 +22349,9 @@
             "exchange_price": {
                 "N": "500"
             },
+            "filename": {
+                "S": "ToolBookPlayer_Remake_4_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -21051,6 +22380,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -21118,6 +22450,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolScoopPattern_Remake_0_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -21146,6 +22481,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -21213,6 +22551,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolScoopPattern_Remake_1_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -21241,6 +22582,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -21308,6 +22652,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolScoopPattern_Remake_2_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -21336,6 +22683,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -21403,6 +22753,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolScoopPattern_Remake_3_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -21431,6 +22784,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -21498,6 +22854,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolScoopPattern_Remake_4_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -21526,6 +22885,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -21593,6 +22955,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolScoopPattern_Remake_5_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -21621,6 +22986,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -21688,6 +23056,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolScoopPattern_Remake_6_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -21716,6 +23087,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -21783,6 +23157,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolScoopPattern_Remake_7_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -21811,6 +23188,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -21878,6 +23258,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolProtein_Remake_0_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -21906,6 +23289,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -21973,6 +23359,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolProtein_Remake_1_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -22001,6 +23390,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -22068,6 +23460,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolProtein_Remake_2_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -22096,6 +23491,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -22163,6 +23561,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolProtein_Remake_3_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -22191,6 +23592,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -22258,6 +23662,9 @@
             "exchange_price": {
                 "N": "500"
             },
+            "filename": {
+                "S": "ToolIcesoft4"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -22286,6 +23693,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -22353,6 +23763,9 @@
             "exchange_price": {
                 "N": "500"
             },
+            "filename": {
+                "S": "ToolCandyfloss3"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -22381,6 +23794,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -22448,6 +23864,9 @@
             "exchange_price": {
                 "N": "500"
             },
+            "filename": {
+                "S": "ToolIcecandyPlayer1"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -22476,6 +23895,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -22543,6 +23965,9 @@
             "exchange_price": {
                 "N": "500"
             },
+            "filename": {
+                "S": "ToolIcecreamDouble0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -22571,6 +23996,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -22638,6 +24066,9 @@
             "exchange_price": {
                 "N": "500"
             },
+            "filename": {
+                "S": "ToolBalloonNormal1"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -22666,6 +24097,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -22733,6 +24167,9 @@
             "exchange_price": {
                 "N": "500"
             },
+            "filename": {
+                "S": "ToolFireworks"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -22761,6 +24198,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -22828,6 +24268,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolStickRose"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -22857,6 +24300,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -22923,6 +24369,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolJuiceShamrock"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -22951,6 +24400,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -23018,6 +24470,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolStickShamrock"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -23047,6 +24502,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -23113,6 +24571,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolStickShell"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -23142,6 +24603,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -23208,6 +24672,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolScoop_Remake_0_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -23237,6 +24704,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -23303,6 +24773,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolScoop_Remake_1_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -23332,6 +24805,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -23398,6 +24874,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolScoop_Remake_2_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -23427,6 +24906,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -23493,6 +24975,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolScoop_Remake_3_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -23522,6 +25007,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -23588,6 +25076,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolScoop_Remake_4_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -23617,6 +25108,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -23683,6 +25177,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolScoop_Remake_5_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -23712,6 +25209,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -23778,6 +25278,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolScoop_Remake_6_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -23807,6 +25310,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -23873,6 +25379,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolScoop_Remake_7_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -23902,6 +25411,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -23968,6 +25480,9 @@
             "exchange_price": {
                 "N": "500"
             },
+            "filename": {
+                "S": "ToolSensu1"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -23996,6 +25511,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -24063,6 +25581,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolSlingshot_Remake_0_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -24092,6 +25613,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -24158,6 +25682,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolSlingshot_Remake_1_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -24187,6 +25714,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -24253,6 +25783,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolSlingshot_Remake_2_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -24282,6 +25815,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -24348,6 +25884,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolSlingshot_Remake_3_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -24377,6 +25916,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -24443,6 +25985,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolSlingshot_Remake_4_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -24472,6 +26017,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -24538,6 +26086,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolSlingshot_Remake_5_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -24567,6 +26118,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -24633,6 +26187,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolSlingshot_Remake_6_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -24662,6 +26219,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -24728,6 +26288,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolSlingshot_Remake_7_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -24757,6 +26320,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -24823,6 +26389,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolJuiceFuzzyapple"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -24851,6 +26420,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -24918,6 +26490,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolBasketHalloween_Remake_0_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -24947,6 +26522,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -25013,6 +26591,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolBasketHalloween_Remake_1_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -25042,6 +26623,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -25108,6 +26692,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolBasketHalloween_Remake_2_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -25137,6 +26724,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -25203,6 +26793,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolBasketHalloween_Remake_3_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -25232,6 +26825,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -25298,6 +26894,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolStickHalloween"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -25327,6 +26926,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -25393,6 +26995,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolNetStar_Remake_0_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -25422,6 +27027,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -25488,6 +27096,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolNetStar_Remake_1_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -25517,6 +27128,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -25583,6 +27197,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolNetStar_Remake_2_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -25612,6 +27229,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -25678,6 +27298,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolNetStar_Remake_3_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -25707,6 +27330,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -25773,6 +27399,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolNetStar_Remake_4_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -25802,6 +27431,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -25868,6 +27500,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolNetStar_Remake_5_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -25897,6 +27532,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -25963,6 +27601,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolNetStar_Remake_6_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -25992,6 +27633,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -26058,6 +27702,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolNetStar_Remake_7_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -26087,6 +27734,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -26153,6 +27803,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolChangeStick"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -26182,6 +27835,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -26248,6 +27904,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolMegaphone2"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -26276,6 +27935,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -26343,6 +28005,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolAxeStoneNormal"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -26372,6 +28037,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -26438,6 +28106,9 @@
             "exchange_price": {
                 "N": "500"
             },
+            "filename": {
+                "S": "ToolIcecream2"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -26466,6 +28137,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -26533,6 +28207,9 @@
             "exchange_price": {
                 "N": "500"
             },
+            "filename": {
+                "S": "ToolCandyfloss1"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -26561,6 +28238,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -26628,6 +28308,9 @@
             "exchange_price": {
                 "N": "500"
             },
+            "filename": {
+                "S": "ToolDonutPlayer2"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -26656,6 +28339,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -26723,6 +28409,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolCupTakeout"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -26751,6 +28440,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -26818,6 +28510,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolTambourine"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -26846,6 +28541,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -26913,6 +28611,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolTimer"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -26941,6 +28642,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -27008,6 +28712,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolStickTree"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -27037,6 +28744,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -27103,6 +28813,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolStickTulip"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -27132,6 +28845,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -27198,6 +28914,9 @@
             "exchange_price": {
                 "N": "500"
             },
+            "filename": {
+                "S": "ToolBlowouts"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -27226,6 +28945,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -27293,6 +29015,9 @@
             "exchange_price": {
                 "N": "500"
             },
+            "filename": {
+                "S": "ToolPaperFan"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -27321,6 +29046,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -27388,6 +29116,9 @@
             "exchange_price": {
                 "N": "500"
             },
+            "filename": {
+                "S": "ToolIcecream0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -27416,6 +29147,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -27483,6 +29217,9 @@
             "exchange_price": {
                 "N": "500"
             },
+            "filename": {
+                "S": "ToolIcesoft0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -27511,6 +29248,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -27578,6 +29318,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "LongWoodenStick"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -27607,6 +29350,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -27673,6 +29419,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "LadderKitA0_Remake_0_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -27702,6 +29451,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -27768,6 +29520,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "LadderKitA0_Remake_1_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -27797,6 +29552,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -27863,6 +29621,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "LadderKitA0_Remake_2_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -27892,6 +29653,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -27958,6 +29722,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolStickWood"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -27987,6 +29754,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -28053,6 +29823,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolWatering_Remake_0_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -28081,6 +29854,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_equippable": {
                 "BOOL": true
             },
             "is_unlocked": {
@@ -28148,6 +29924,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolWatering_Remake_1_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -28176,6 +29955,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_equippable": {
                 "BOOL": true
             },
             "is_unlocked": {
@@ -28243,6 +30025,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolWatering_Remake_2_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -28271,6 +30056,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_equippable": {
                 "BOOL": true
             },
             "is_unlocked": {
@@ -28338,6 +30126,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolWatering_Remake_3_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -28366,6 +30157,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_equippable": {
                 "BOOL": true
             },
             "is_unlocked": {
@@ -28433,6 +30227,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolWatering_Remake_4_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -28461,6 +30258,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_equippable": {
                 "BOOL": true
             },
             "is_unlocked": {
@@ -28528,6 +30328,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolWatering_Remake_5_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -28556,6 +30359,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_equippable": {
                 "BOOL": true
             },
             "is_unlocked": {
@@ -28623,6 +30429,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolWatering_Remake_6_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -28651,6 +30460,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_equippable": {
                 "BOOL": true
             },
             "is_unlocked": {
@@ -28718,6 +30530,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolWatering_Remake_7_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -28746,6 +30561,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": true
+            },
+            "is_equippable": {
                 "BOOL": true
             },
             "is_unlocked": {
@@ -28813,6 +30631,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolStickJune"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -28842,6 +30663,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -28908,6 +30732,9 @@
             "exchange_price": {
                 "N": "500"
             },
+            "filename": {
+                "S": "ToolDonutPlayer1"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -28936,6 +30763,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -29003,6 +30833,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolStickAnemones"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -29032,6 +30865,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -29098,6 +30934,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "LadderKitB0_Remake_0_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -29127,6 +30966,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -29193,6 +31035,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "LadderKitB0_Remake_1_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -29222,6 +31067,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -29288,6 +31136,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "LadderKitB0_Remake_2_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -29317,6 +31168,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -29383,6 +31237,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "LadderKitB0_Remake_3_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -29412,6 +31269,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -29478,6 +31338,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "LadderKitB0_Remake_4_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -29507,6 +31370,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -29573,6 +31439,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "LadderKitB0_Remake_5_0"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -29602,6 +31471,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -29668,6 +31540,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "ToolAxeFragile"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -29696,6 +31571,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -29763,6 +31641,9 @@
             "exchange_price": {
                 "N": "500"
             },
+            "filename": {
+                "S": "ToolBalloonNormal2"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -29791,6 +31672,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {

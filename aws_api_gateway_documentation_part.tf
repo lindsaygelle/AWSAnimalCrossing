@@ -4,7 +4,7 @@ resource "aws_api_gateway_documentation_part" "achievement" {
     path = "/achievement"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/achievement/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -60,7 +60,7 @@ resource "aws_api_gateway_documentation_part" "achievement_id" {
     path = "/achievement/{id}"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/achievement/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -102,7 +102,7 @@ resource "aws_api_gateway_documentation_part" "card" {
     path = "/card"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/card/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -158,7 +158,7 @@ resource "aws_api_gateway_documentation_part" "card_id" {
     path = "/card/{id}"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/card/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -191,7 +191,7 @@ resource "aws_api_gateway_documentation_part" "clothing_accessory" {
     path = "/clothing_accessory"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/clothing_accessory/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -247,7 +247,7 @@ resource "aws_api_gateway_documentation_part" "clothing_accessory_id" {
     path = "/clothing_accessory/{id}"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/clothing_accessory/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -280,7 +280,7 @@ resource "aws_api_gateway_documentation_part" "clothing_bag" {
     path = "/clothing_bag"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/clothing_bag/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -336,7 +336,7 @@ resource "aws_api_gateway_documentation_part" "clothing_bag_id" {
     path = "/clothing_bag/{id}"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/clothing_bag/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -369,7 +369,7 @@ resource "aws_api_gateway_documentation_part" "clothing_bottom" {
     path = "/clothing_bottom"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/clothing_bottom/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -425,7 +425,7 @@ resource "aws_api_gateway_documentation_part" "clothing_bottom_id" {
     path = "/clothing_bottom/{id}"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/clothing_bottom/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -458,7 +458,7 @@ resource "aws_api_gateway_documentation_part" "clothing_dress_up" {
     path = "/clothing_dress_up"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/clothing_dress_up/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -514,7 +514,7 @@ resource "aws_api_gateway_documentation_part" "clothing_dress_up_id" {
     path = "/clothing_dress_up/{id}"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/clothing_dress_up/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -547,7 +547,7 @@ resource "aws_api_gateway_documentation_part" "clothing_headwear" {
     path = "/clothing_headwear"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/clothing_headwear/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -603,7 +603,7 @@ resource "aws_api_gateway_documentation_part" "clothing_headwear_id" {
     path = "/clothing_headwear/{id}"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/clothing_headwear/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -636,7 +636,7 @@ resource "aws_api_gateway_documentation_part" "clothing_other" {
     path = "/clothing_other"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/clothing_other/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -692,7 +692,7 @@ resource "aws_api_gateway_documentation_part" "clothing_other_id" {
     path = "/clothing_other/{id}"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/clothing_other/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -725,7 +725,7 @@ resource "aws_api_gateway_documentation_part" "clothing_shoe" {
     path = "/clothing_shoe"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/clothing_shoe/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -781,7 +781,7 @@ resource "aws_api_gateway_documentation_part" "clothing_shoe_id" {
     path = "/clothing_shoe/{id}"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/clothing_shoe/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -814,7 +814,7 @@ resource "aws_api_gateway_documentation_part" "clothing_sock" {
     path = "/clothing_sock"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/clothing_sock/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -870,7 +870,7 @@ resource "aws_api_gateway_documentation_part" "clothing_sock_id" {
     path = "/clothing_sock/{id}"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/clothing_sock/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -903,7 +903,7 @@ resource "aws_api_gateway_documentation_part" "clothing_top" {
     path = "/clothing_top"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/clothing_top/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -959,7 +959,7 @@ resource "aws_api_gateway_documentation_part" "clothing_top_id" {
     path = "/clothing_top/{id}"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/clothing_top/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -992,7 +992,7 @@ resource "aws_api_gateway_documentation_part" "clothing_umbrella" {
     path = "/clothing_umbrella"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/clothing_umbrella/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1048,7 +1048,7 @@ resource "aws_api_gateway_documentation_part" "clothing_umbrella_id" {
     path = "/clothing_umbrella/{id}"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/clothing_umbrella/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1081,7 +1081,7 @@ resource "aws_api_gateway_documentation_part" "construction" {
     path = "/construction"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/construction/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1137,7 +1137,7 @@ resource "aws_api_gateway_documentation_part" "construction_id" {
     path = "/construction/{id}"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/construction/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1170,7 +1170,7 @@ resource "aws_api_gateway_documentation_part" "creature_fish" {
     path = "/creature_fish"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/creature_fish/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1226,7 +1226,7 @@ resource "aws_api_gateway_documentation_part" "creature_fish_id" {
     path = "/creature_fish/{id}"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/creature_fish/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1259,7 +1259,7 @@ resource "aws_api_gateway_documentation_part" "creature_insect" {
     path = "/creature_insect"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/creature_insect/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1315,7 +1315,7 @@ resource "aws_api_gateway_documentation_part" "creature_insect_id" {
     path = "/creature_insect/{id}"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/creature_insect/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1348,7 +1348,7 @@ resource "aws_api_gateway_documentation_part" "creature_sea" {
     path = "/creature_sea"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/creature_sea/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1404,7 +1404,7 @@ resource "aws_api_gateway_documentation_part" "creature_sea_id" {
     path = "/creature_sea/{id}"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/creature_sea/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1437,7 +1437,7 @@ resource "aws_api_gateway_documentation_part" "furniture_artwork" {
     path = "/furniture_artwork"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/furniture_artwork/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1493,7 +1493,7 @@ resource "aws_api_gateway_documentation_part" "furniture_artwork_id" {
     path = "/furniture_artwork/{id}"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/furniture_artwork/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1526,7 +1526,7 @@ resource "aws_api_gateway_documentation_part" "furniture_ceiling" {
     path = "/furniture_ceiling"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/furniture_ceiling/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1582,7 +1582,7 @@ resource "aws_api_gateway_documentation_part" "furniture_ceiling_id" {
     path = "/furniture_ceiling/{id}"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/furniture_ceiling/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1615,7 +1615,7 @@ resource "aws_api_gateway_documentation_part" "furniture_fencing" {
     path = "/furniture_fencing"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/furniture_fencing/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1671,7 +1671,7 @@ resource "aws_api_gateway_documentation_part" "furniture_fencing_id" {
     path = "/furniture_fencing/{id}"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/furniture_fencing/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1704,7 +1704,7 @@ resource "aws_api_gateway_documentation_part" "furniture_floor" {
     path = "/furniture_floor"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/furniture_floor/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1760,7 +1760,7 @@ resource "aws_api_gateway_documentation_part" "furniture_floor_id" {
     path = "/furniture_floor/{id}"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/furniture_floor/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1793,7 +1793,7 @@ resource "aws_api_gateway_documentation_part" "furniture_fossil" {
     path = "/furniture_fossil"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/furniture_fossil/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1849,7 +1849,7 @@ resource "aws_api_gateway_documentation_part" "furniture_fossil_id" {
     path = "/furniture_fossil/{id}"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/furniture_fossil/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1882,7 +1882,7 @@ resource "aws_api_gateway_documentation_part" "furniture_gyroid" {
     path = "/furniture_gyroid"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/furniture_gyroid/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1938,7 +1938,7 @@ resource "aws_api_gateway_documentation_part" "furniture_gyroid_id" {
     path = "/furniture_gyroid/{id}"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/furniture_gyroid/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1971,7 +1971,7 @@ resource "aws_api_gateway_documentation_part" "furniture_housewear" {
     path = "/furniture_housewear"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/furniture_housewear/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2027,7 +2027,7 @@ resource "aws_api_gateway_documentation_part" "furniture_housewear_id" {
     path = "/furniture_housewear/{id}"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/furniture_housewear/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2060,7 +2060,7 @@ resource "aws_api_gateway_documentation_part" "furniture_interior_structure" {
     path = "/furniture_interior_structure"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/furniture_interior_structure/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2116,7 +2116,7 @@ resource "aws_api_gateway_documentation_part" "furniture_interior_structure_id" 
     path = "/furniture_interior_structure/{id}"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/furniture_interior_structure/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2149,7 +2149,7 @@ resource "aws_api_gateway_documentation_part" "furniture_miscellaneous" {
     path = "/furniture_miscellaneous"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/furniture_miscellaneous/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2205,7 +2205,7 @@ resource "aws_api_gateway_documentation_part" "furniture_miscellaneous_id" {
     path = "/furniture_miscellaneous/{id}"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/furniture_miscellaneous/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2238,7 +2238,7 @@ resource "aws_api_gateway_documentation_part" "furniture_music" {
     path = "/furniture_music"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/furniture_music/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2294,7 +2294,7 @@ resource "aws_api_gateway_documentation_part" "furniture_music_id" {
     path = "/furniture_music/{id}"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/furniture_music/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2327,7 +2327,7 @@ resource "aws_api_gateway_documentation_part" "furniture_photo" {
     path = "/furniture_photo"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/furniture_photo/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2383,7 +2383,7 @@ resource "aws_api_gateway_documentation_part" "furniture_photo_id" {
     path = "/furniture_photo/{id}"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/furniture_photo/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2416,7 +2416,7 @@ resource "aws_api_gateway_documentation_part" "furniture_poster" {
     path = "/furniture_poster"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/furniture_poster/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2472,7 +2472,7 @@ resource "aws_api_gateway_documentation_part" "furniture_poster_id" {
     path = "/furniture_poster/{id}"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/furniture_poster/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2505,7 +2505,7 @@ resource "aws_api_gateway_documentation_part" "furniture_rug" {
     path = "/furniture_rug"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/furniture_rug/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2561,7 +2561,7 @@ resource "aws_api_gateway_documentation_part" "furniture_rug_id" {
     path = "/furniture_rug/{id}"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/furniture_rug/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2594,7 +2594,7 @@ resource "aws_api_gateway_documentation_part" "furniture_wall_mounted" {
     path = "/furniture_wall_mounted"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/furniture_wall_mounted/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2650,7 +2650,7 @@ resource "aws_api_gateway_documentation_part" "furniture_wall_mounted_id" {
     path = "/furniture_wall_mounted/{id}"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/furniture_wall_mounted/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2683,7 +2683,7 @@ resource "aws_api_gateway_documentation_part" "furniture_wallpaper" {
     path = "/furniture_wallpaper"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/furniture_wallpaper/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2739,7 +2739,7 @@ resource "aws_api_gateway_documentation_part" "furniture_wallpaper_id" {
     path = "/furniture_wallpaper/{id}"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/furniture_wallpaper/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2772,7 +2772,7 @@ resource "aws_api_gateway_documentation_part" "item" {
     path = "/item"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/item/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2828,7 +2828,7 @@ resource "aws_api_gateway_documentation_part" "item_id" {
     path = "/item/{id}"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/item/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2861,7 +2861,7 @@ resource "aws_api_gateway_documentation_part" "item_other" {
     path = "/item_other"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/item_other/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2917,7 +2917,7 @@ resource "aws_api_gateway_documentation_part" "item_other_id" {
     path = "/item_other/{id}"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/item_other/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2950,7 +2950,7 @@ resource "aws_api_gateway_documentation_part" "occasion" {
     path = "/occasion"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/occasion/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -3006,7 +3006,7 @@ resource "aws_api_gateway_documentation_part" "occasion_id" {
     path = "/occasion/{id}"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/occasion/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -3039,7 +3039,7 @@ resource "aws_api_gateway_documentation_part" "paradise_planning" {
     path = "/paradise_planning"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/paradise_planning/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -3095,7 +3095,7 @@ resource "aws_api_gateway_documentation_part" "paradise_planning_id" {
     path = "/paradise_planning/{id}"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/paradise_planning/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -3128,7 +3128,7 @@ resource "aws_api_gateway_documentation_part" "reaction" {
     path = "/reaction"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/reaction/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -3184,7 +3184,7 @@ resource "aws_api_gateway_documentation_part" "reaction_id" {
     path = "/reaction/{id}"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/reaction/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -3217,7 +3217,7 @@ resource "aws_api_gateway_documentation_part" "recipe" {
     path = "/recipe"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/recipe/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -3273,7 +3273,7 @@ resource "aws_api_gateway_documentation_part" "recipe_id" {
     path = "/recipe/{id}"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/recipe/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -3306,7 +3306,7 @@ resource "aws_api_gateway_documentation_part" "villager" {
     path = "/villager"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/villager/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -3362,7 +3362,7 @@ resource "aws_api_gateway_documentation_part" "villager_id" {
     path = "/villager/{id}"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/villager/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -3395,7 +3395,7 @@ resource "aws_api_gateway_documentation_part" "villager_special" {
     path = "/villager_special"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/villager_special/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -3451,7 +3451,7 @@ resource "aws_api_gateway_documentation_part" "villager_special_id" {
     path = "/villager_special/{id}"
     type = "RESOURCE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/resource/villager_special/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 

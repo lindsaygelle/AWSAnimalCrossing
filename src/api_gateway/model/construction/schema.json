@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 4,
-    "minProperties": 4,
+    "maxProperties": 5,
+    "minProperties": 5,
     "properties": {
         "buy_currency": {
             "maxLength": 5,
@@ -19,6 +19,13 @@
             "type": [
                 "integer",
                 "null"
+            ]
+        },
+        "filename": {
+            "maxLength": 30,
+            "minLength": 9,
+            "type": [
+                "string"
             ]
         },
         "name": {
@@ -40,6 +47,7 @@
     "required": [
         "buy_currency",
         "buy_price",
+        "filename",
         "name",
         "unique_entry_id"
     ],

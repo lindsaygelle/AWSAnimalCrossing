@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 34,
-    "minProperties": 34,
+    "maxProperties": 35,
+    "minProperties": 35,
     "properties": {
         "buy_currency": {
             "maxLength": 5,
@@ -79,6 +79,13 @@
             "type": [
                 "integer",
                 "null"
+            ]
+        },
+        "filename": {
+            "maxLength": 40,
+            "minLength": 10,
+            "type": [
+                "string"
             ]
         },
         "hha_category": {
@@ -266,6 +273,7 @@
         "cyrus_price",
         "exchange_currency",
         "exchange_price",
+        "filename",
         "hha_category",
         "hha_concept_1",
         "hha_concept_2",

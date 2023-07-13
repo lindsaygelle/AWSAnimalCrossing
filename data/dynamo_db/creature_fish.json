@@ -10,6 +10,9 @@
             "description": {
                 "S": "There are more than 140 species of anchovy, but they do all have some things in common. They are small and feed by simply swimming with their mouths open to filter food particles from the sea. (In my sleepier moments, I sometimes wish I could do that...)"
             },
+            "filename_critterpedia": {
+                "S": "FishAntyobi"
+            },
             "hha_category": {
                 "S": "Pet"
             },
@@ -46,6 +49,12 @@
             "name": {
                 "S": "Anchovy"
             },
+            "rate_maximum": {
+                "N": "5"
+            },
+            "rate_minimum": {
+                "N": "2"
+            },
             "saying": {
                 "S": "I caught an anchovy! Stay away from my pizza!"
             },
@@ -61,8 +70,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "LzuWkSQP55uEpRCP5"
+            },
+            "vision_category": {
+                "S": "Very Wide"
             }
         },
         "TableName": "creature_fish"
@@ -77,6 +92,9 @@
             },
             "description": {
                 "S": "The angelfish is truly a beautiful creature. Just look at the elegance of those fins! Despite the name, however, these lovelies are known to be rather aggressive. They've no qualms about relentlessly pursuing fish much smaller than themselves! Why, they even attack their own kin! It seems no fish is safe around these \"angelic\" bullies. It makes one wonder who comes up with these names. Appearances\u2014 and names\u2014 can be deceiving."
+            },
+            "filename_critterpedia": {
+                "S": "FishAngelfish"
             },
             "hha_category": {
                 "S": "Pet"
@@ -114,6 +132,12 @@
             "name": {
                 "S": "Angelfish"
             },
+            "rate_maximum": {
+                "N": "5"
+            },
+            "rate_minimum": {
+                "N": "2"
+            },
             "saying": {
                 "S": "I caught an angelfish! That other fish told me to do it!"
             },
@@ -129,8 +153,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "XTCFCk2SiuY5YXLZ7"
+            },
+            "vision_category": {
+                "S": "Medium"
             }
         },
         "TableName": "creature_fish"
@@ -145,6 +175,9 @@
             },
             "description": {
                 "S": "The stately arapaima is quite large. Indeed, it is among the largest freshwater fish there are. Furthermore, these fascinating fish make quite the family unit. That is to say, male arapaimas protect their young by holding them gently in their mouths. Meanwhile, female arapaimas swim circles around these full-mouthed fathers fending off predators. It simply goes to show that cold-blooded creatures can be heartwarming too."
+            },
+            "filename_critterpedia": {
+                "S": "FishPiraruku"
             },
             "hha_category": {
                 "S": "Pet"
@@ -182,6 +215,12 @@
             "name": {
                 "S": "Arapaima"
             },
+            "rate_maximum": {
+                "N": "1"
+            },
+            "rate_minimum": {
+                "N": "1"
+            },
             "saying": {
                 "S": "I caught an arapaima! How did it get here? Arapaiknow!"
             },
@@ -197,8 +236,14 @@
             "size_2": {
                 "N": "2.0"
             },
+            "size_silhouette": {
+                "S": "XX-Large"
+            },
             "unique_entry_id": {
                 "S": "mZy4BES54bqwi97br"
+            },
+            "vision_category": {
+                "S": "Narrow"
             }
         },
         "TableName": "creature_fish"
@@ -213,6 +258,9 @@
             },
             "description": {
                 "S": "It would seem your angling expertise knows no bounds! This beauteous arowana fetches a pretty Bell, though I'd venture to say that its true price is beyond measure. The arowana is an excellent jumper. Some have been seen  leaping six feet out of the water, eh wot! Alas, it has also been on the endangered-species list for some time. It's up to us to do all we can to help preserve such magnificent creatures for the years to come."
+            },
+            "filename_critterpedia": {
+                "S": "FishArowana"
             },
             "hha_category": {
                 "S": "Pet"
@@ -250,6 +298,12 @@
             "name": {
                 "S": "Arowana"
             },
+            "rate_maximum": {
+                "N": "2"
+            },
+            "rate_minimum": {
+                "N": "1"
+            },
             "saying": {
                 "S": "I caught an arowana! I'd make a joke, but I don't 'wana."
             },
@@ -265,8 +319,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "Large"
+            },
             "unique_entry_id": {
                 "S": "F68AvCaqddBJL7ZSN"
+            },
+            "vision_category": {
+                "S": "Medium"
             }
         },
         "TableName": "creature_fish"
@@ -281,6 +341,9 @@
             },
             "description": {
                 "S": "Wonderful! I would love nothing more! The barred knifejaw, also called the striped beakfish, is a lovely fish with a distinctive striped pattern. It is reportedly also a very curious fish in that it has been known to approach swimmers to \"greet\" them. They also tend to be good at avoiding fishing hooks, so well done on outwitting this one!"
+            },
+            "filename_critterpedia": {
+                "S": "FishIshidai"
             },
             "hha_category": {
                 "S": "Pet"
@@ -318,6 +381,12 @@
             "name": {
                 "S": "Barred Knifejaw"
             },
+            "rate_maximum": {
+                "N": "5"
+            },
+            "rate_minimum": {
+                "N": "3"
+            },
             "saying": {
                 "S": "I caught a barred knifejaw! They must have a hard time eating!"
             },
@@ -333,8 +402,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "X3R9SFSAaDzBF4fE3"
+            },
+            "vision_category": {
+                "S": "Medium"
             }
         },
         "TableName": "creature_fish"
@@ -349,6 +424,9 @@
             },
             "description": {
                 "S": "The barreleye is a deep-sea fish with protuberant eyes and a clear head, so some of its organs are... visible. At first blush, a transparent head seems absurd, but there is a reason: so it can see things directly above! But I must confess - the more I learn about deep-sea fish, the happier I am to live on dry land, wot."
+            },
+            "filename_critterpedia": {
+                "S": "FishDemenigisu"
             },
             "hha_category": {
                 "S": "Pet"
@@ -386,6 +464,12 @@
             "name": {
                 "S": "Barreleye"
             },
+            "rate_maximum": {
+                "N": "1"
+            },
+            "rate_minimum": {
+                "N": "1"
+            },
             "saying": {
                 "S": "I caught a barreleye! Like eyeing fish in a barrel!"
             },
@@ -401,8 +485,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "BpqTa4zmTjv3Nm4wE"
+            },
+            "vision_category": {
+                "S": "Very Narrow"
             }
         },
         "TableName": "creature_fish"
@@ -417,6 +507,9 @@
             },
             "description": {
                 "S": "The betta has long fins and beautiful coloring. It is a tropical fish popular in decorative aquariums. They're very territorial and will fight to complete exhaustion, so aquarists must keep them carefully. Rarely do such beauty and violence commingle outside the rowdiest of sunset-viewing parties."
+            },
+            "filename_critterpedia": {
+                "S": "FishBeta"
             },
             "hha_category": {
                 "S": "Pet"
@@ -454,6 +547,12 @@
             "name": {
                 "S": "Betta"
             },
+            "rate_maximum": {
+                "N": "4"
+            },
+            "rate_minimum": {
+                "N": "1"
+            },
             "saying": {
                 "S": "I caught a betta! I betta not drop it!"
             },
@@ -469,8 +568,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "7QcQXzwZoNGiNA94k"
+            },
+            "vision_category": {
+                "S": "Narrow"
             }
         },
         "TableName": "creature_fish"
@@ -485,6 +590,9 @@
             },
             "description": {
                 "S": "Bitterlings hide their eggs inside large bivalves\u2014like clams\u2014where the young can stay safe until grown. The bitterling isn't being sneaky. No, their young help keep the bivalve healthy by eating invading parasites! It's a wonderful bit of evolutionary deal making, don't you think? Each one keeping the other safe... Though eating parasites does not sound like a happy childhood... Is that why the fish is so bitter?"
+            },
+            "filename_critterpedia": {
+                "S": "FishTanago"
             },
             "hha_category": {
                 "S": "Pet"
@@ -522,6 +630,12 @@
             "name": {
                 "S": "Bitterling"
             },
+            "rate_maximum": {
+                "N": "17"
+            },
+            "rate_minimum": {
+                "N": "12"
+            },
             "saying": {
                 "S": "I caught a bitterling! It's mad at me, but only a little."
             },
@@ -537,8 +651,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "X-Small"
+            },
             "unique_entry_id": {
                 "S": "Drj6eLRBgg4T9KhNx"
+            },
+            "vision_category": {
+                "S": "Medium"
             }
         },
         "TableName": "creature_fish"
@@ -553,6 +673,9 @@
             },
             "description": {
                 "S": "The black bass is a formidably strong fish and, as such, is a common target for sport anglers. In some areas, there are even those who professionally catch just black bass! Yet in other areas where they are NOT native, they are considered an ecological nuisance. Invasive, even. One cannot help but wonder who is to blame for their invasion, hoo."
+            },
+            "filename_critterpedia": {
+                "S": "FishBlackbass"
             },
             "hha_category": {
                 "S": "Pet"
@@ -590,6 +713,12 @@
             "name": {
                 "S": "Black Bass"
             },
+            "rate_maximum": {
+                "N": "12"
+            },
+            "rate_minimum": {
+                "N": "4"
+            },
             "saying": {
                 "S": "I caught a black bass! The most metal of all fish!"
             },
@@ -605,8 +734,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "Large"
+            },
             "unique_entry_id": {
                 "S": "wAZvfTca7GyaTtLcQ"
+            },
+            "vision_category": {
+                "S": "Medium"
             }
         },
         "TableName": "creature_fish"
@@ -621,6 +756,9 @@
             },
             "description": {
                 "S": "As you may know, blowfish carry a deadly poison and are among the most toxic creatures on earth. What you may not have known is that poison and spines are not the limit of this animal's defenses! A predator that tries to swallow a blowfish before it inflates can find itself quickly choking. To be honest, if said predator can get past poison, spines, AND choking hazards, I feel they've earned a meal."
+            },
+            "filename_critterpedia": {
+                "S": "FishFugu"
             },
             "hha_category": {
                 "S": "Pet"
@@ -658,6 +796,12 @@
             "name": {
                 "S": "Blowfish"
             },
+            "rate_maximum": {
+                "N": "5"
+            },
+            "rate_minimum": {
+                "N": "5"
+            },
             "saying": {
                 "S": "I caught a blowfish! I'm blown away!"
             },
@@ -673,8 +817,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "aDsmTcByApycafxTa"
+            },
+            "vision_category": {
+                "S": "Very Narrow"
             }
         },
         "TableName": "creature_fish"
@@ -689,6 +839,9 @@
             },
             "description": {
                 "S": "The blue marlin has a distinctive angular shape and no scales. It is an unusual relative of the tuna. These mighty fish can exceed 13 feet from bill to tail. Some accounts even have it fighting with whales! No wonder it's a popular target for sport fishing: unlike most fish, it seems like a worthy opponent."
+            },
+            "filename_critterpedia": {
+                "S": "FishKajiki"
             },
             "hha_category": {
                 "S": "Pet"
@@ -726,6 +879,12 @@
             "name": {
                 "S": "Blue Marlin"
             },
+            "rate_maximum": {
+                "N": "2"
+            },
+            "rate_minimum": {
+                "N": "1"
+            },
             "saying": {
                 "S": "I caught a blue marlin! Listen to this fish. it's got a point."
             },
@@ -741,8 +900,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "XX-Large"
+            },
             "unique_entry_id": {
                 "S": "jhtsYRHydAcZnd6bJ"
+            },
+            "vision_category": {
+                "S": "Narrow"
             }
         },
         "TableName": "creature_fish"
@@ -757,6 +922,9 @@
             },
             "description": {
                 "S": "The bluegill is incredibly common. A bit too common, depending upon where you are. They eat anything that fits in their mouths and are highly adaptable. The bane of fishermen in some areas, bluegill is often the only fish to be caught! But looking in its wee beady eyes, I must say I see no ill will in it..."
+            },
+            "filename_critterpedia": {
+                "S": "FishBlueguill"
             },
             "hha_category": {
                 "S": "Pet"
@@ -794,6 +962,12 @@
             "name": {
                 "S": "Bluegill"
             },
+            "rate_maximum": {
+                "N": "10"
+            },
+            "rate_minimum": {
+                "N": "6"
+            },
             "saying": {
                 "S": "I caught a bluegill! Do you think it calls me \"pinklung\"?"
             },
@@ -809,8 +983,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "8ygccYFCrWf4hwYGR"
+            },
+            "vision_category": {
+                "S": "Very Wide"
             }
         },
         "TableName": "creature_fish"
@@ -825,6 +1005,9 @@
             },
             "description": {
                 "S": "Ah, the butterfly fish is just charming with its beautiful colors and elegant movements. I refer to it as a butterfly fish, but it's actually a grouping in which there are over 100 types! These beautiful aquatic friends swim in schools amid coral, fluttering back and forth with the tides. The sheer awe one must experience when witnessing such a sight. It must be a dream! So much better than actual butterflies..."
+            },
+            "filename_critterpedia": {
+                "S": "FishChouchouuo"
             },
             "hha_category": {
                 "S": "Pet"
@@ -862,6 +1045,12 @@
             "name": {
                 "S": "Butterfly Fish"
             },
+            "rate_maximum": {
+                "N": "5"
+            },
+            "rate_minimum": {
+                "N": "4"
+            },
             "saying": {
                 "S": "I caught a butterfly fish! Did it change from a caterpillar fish?"
             },
@@ -877,8 +1066,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "S4rkio2M3WB5cyy8Y"
+            },
+            "vision_category": {
+                "S": "Medium"
             }
         },
         "TableName": "creature_fish"
@@ -893,6 +1088,9 @@
             },
             "description": {
                 "S": "Oh, the carp... have you ever seen their teeth? For your sake, I hope you have not! Carp have teeth in their throat strong enough to crunch on hard things like shells and fingers! A good rule of thumb when dealing with other species is to keep your fingers out of their mouths. Although, having neither thumbs nor fingers, I am quite safe from this little fellow!"
+            },
+            "filename_critterpedia": {
+                "S": "FishKoi"
             },
             "hha_category": {
                 "S": "Pet"
@@ -930,6 +1128,12 @@
             "name": {
                 "S": "Carp"
             },
+            "rate_maximum": {
+                "N": "9"
+            },
+            "rate_minimum": {
+                "N": "3"
+            },
             "saying": {
                 "S": "I caught a carp! If I catch another, they can carpool!"
             },
@@ -945,8 +1149,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "Large"
+            },
             "unique_entry_id": {
                 "S": "4DwwvGDwPQvZTn9Fb"
+            },
+            "vision_category": {
+                "S": "Medium"
             }
         },
         "TableName": "creature_fish"
@@ -961,6 +1171,9 @@
             },
             "description": {
                 "S": "Catfish don't have scales and are rather slimy. Believe it or not, this slime helps them breathe! Some species of catfish are nocturnal, and they'll feed on almost anything. They use a suctioning action to pull in their food. Did I mention they can grow as large as you or I?"
+            },
+            "filename_critterpedia": {
+                "S": "FishNamazu"
             },
             "hha_category": {
                 "S": "Pet"
@@ -998,6 +1211,12 @@
             "name": {
                 "S": "Catfish"
             },
+            "rate_maximum": {
+                "N": "8"
+            },
+            "rate_minimum": {
+                "N": "6"
+            },
             "saying": {
                 "S": "I caught a catfish! I'm more of a dogfish person..."
             },
@@ -1013,8 +1232,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "Large"
+            },
             "unique_entry_id": {
                 "S": "nbPtvwf7HCQxA9Nc4"
+            },
+            "vision_category": {
+                "S": "Medium"
             }
         },
         "TableName": "creature_fish"
@@ -1029,6 +1254,9 @@
             },
             "description": {
                 "S": "The char is one of the bigger first around the world, and, in the world of fish, that's quite an accomplishment! They are territorial predators, and therefore must constantly defend their 'turf' from others. So when you see a large char like this one, it is likely a skilled fighter and veteran of many battles. My feathers! I hope it never has cause to go into battle with me!"
+            },
+            "filename_critterpedia": {
+                "S": "FishOoiwana"
             },
             "hha_category": {
                 "S": "Pet"
@@ -1066,6 +1294,12 @@
             "name": {
                 "S": "Char"
             },
+            "rate_maximum": {
+                "N": "4"
+            },
+            "rate_minimum": {
+                "N": "1"
+            },
             "saying": {
                 "S": "I caught a char! Now I'm gonna sit on it!"
             },
@@ -1081,8 +1315,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "ahbnwCqp3EZXa96KC"
+            },
+            "vision_category": {
+                "S": "Narrow"
             }
         },
         "TableName": "creature_fish"
@@ -1097,6 +1337,9 @@
             },
             "description": {
                 "S": "The cherry salmon is related to the salmon, and is known for its distinctive pattern of \"polka dots\". There polka dots disappear as they mature, but ONLY in the first of certain geographic regions. Pity the poor researchers that must make sense of the cherry salmon's fickle fashion sense."
+            },
+            "filename_critterpedia": {
+                "S": "FishYamame"
             },
             "hha_category": {
                 "S": "Pet"
@@ -1134,6 +1377,12 @@
             "name": {
                 "S": "Cherry Salmon"
             },
+            "rate_maximum": {
+                "N": "9"
+            },
+            "rate_minimum": {
+                "N": "3"
+            },
             "saying": {
                 "S": "I caught a cherry salmon! It's the perfect topper for a marlin sundae!"
             },
@@ -1149,8 +1398,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "sJyBbeLbpzn7LyzFr"
+            },
+            "vision_category": {
+                "S": "Narrow"
             }
         },
         "TableName": "creature_fish"
@@ -1165,6 +1420,9 @@
             },
             "description": {
                 "S": "Few can deny the delightful qualities of the clown fish. These vibrant fishes make their home among venomous anemones. It's a mutually beneficial arrangement. The clown fish finds safety in the anemone's wriggling arms, as well as leftover scraps of food. In return, clown fish ward off parasites and predators for the anemone. Thus these colorful fish remind us of the importance of maintaining good cheer among our roommates."
+            },
+            "filename_critterpedia": {
+                "S": "FishKumanomi"
             },
             "hha_category": {
                 "S": "Pet"
@@ -1202,6 +1460,12 @@
             "name": {
                 "S": "Clown Fish"
             },
+            "rate_maximum": {
+                "N": "6"
+            },
+            "rate_minimum": {
+                "N": "5"
+            },
             "saying": {
                 "S": "I caught a clown fish! How many can fit in a carfish?"
             },
@@ -1217,8 +1481,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "X-Small"
+            },
             "unique_entry_id": {
                 "S": "L9qxZaMoBhwxvpMyh"
+            },
+            "vision_category": {
+                "S": "Medium"
             }
         },
         "TableName": "creature_fish"
@@ -1233,6 +1503,9 @@
             },
             "description": {
                 "S": "The coelacanth is a deep-sea fish that has been around since the age of the dinosaurs. They were long thought extinct, so when living specimens were discovered, it was quite a shock! Now I'll just have to figure out where in the museum to display it\u2014 fish or fossils!"
+            },
+            "filename_critterpedia": {
+                "S": "FishSirakansu"
             },
             "hha_category": {
                 "S": "Pet"
@@ -1270,6 +1543,12 @@
             "name": {
                 "S": "Coelacanth"
             },
+            "rate_maximum": {
+                "N": "2"
+            },
+            "rate_minimum": {
+                "N": "1"
+            },
             "saying": {
                 "S": "Blast from the past! I caught a coelacanth! Think positive! Be a coela-CAN!"
             },
@@ -1285,8 +1564,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "XX-Large"
+            },
             "unique_entry_id": {
                 "S": "NjMZQ6Xi9NswEXnHH"
+            },
+            "vision_category": {
+                "S": "Very Narrow"
             }
         },
         "TableName": "creature_fish"
@@ -1301,6 +1586,9 @@
             },
             "description": {
                 "S": "Ohoo! So you have found a crawfish. Neither crab nor lobster, crawfish evolved in an interesting manner. Beware their fearsome pinchy pinchers! Behold their many legs! I say! It is a big bug-like, eh wot...The more I look at it, the more unsettled I feel... Let's be done with this and never speak of it again, shall we?"
+            },
+            "filename_critterpedia": {
+                "S": "FishZarigani"
             },
             "hha_category": {
                 "S": "Pet"
@@ -1338,6 +1626,12 @@
             "name": {
                 "S": "Crawfish"
             },
+            "rate_maximum": {
+                "N": "12"
+            },
+            "rate_minimum": {
+                "N": "4"
+            },
             "saying": {
                 "S": "I caught a crawfish! Or else it's a lobster and I'm a giant!"
             },
@@ -1353,8 +1647,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "W7TrwpycmfgniZipi"
+            },
+            "vision_category": {
+                "S": "Very Wide"
             }
         },
         "TableName": "creature_fish"
@@ -1369,6 +1669,9 @@
             },
             "description": {
                 "S": "I wonder... Do you know how to tell the difference between a crucian carp and a standard-issue carp? It's quite easy to tell the two apart... One must simply locate the barbels. Or, rather, the lack of them! And just what is a barbel, you ask? Well, a barbel looks a little something like a mustache. A run-of-the-mill carp will sport this unsightly \"facial hair,\" while a crucian carp is considerably better groomed! I tried to grow a mustache when I was younger. It never did fill in quite right... All for the best in the end, as mustaches go so much better with noses than with beaks!"
+            },
+            "filename_critterpedia": {
+                "S": "FishFuna"
             },
             "hha_category": {
                 "S": "Pet"
@@ -1406,6 +1709,12 @@
             "name": {
                 "S": "Crucian Carp"
             },
+            "rate_maximum": {
+                "N": "12"
+            },
+            "rate_minimum": {
+                "N": "4"
+            },
             "saying": {
                 "S": "I caught a crucian carp! My skills are sharp!"
             },
@@ -1421,8 +1730,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "Pdw7vmJz9PRM4ggbf"
+            },
+            "vision_category": {
+                "S": "Wide"
             }
         },
         "TableName": "creature_fish"
@@ -1437,6 +1752,9 @@
             },
             "description": {
                 "S": "The dab is a flatfish that bears some resemblance to the olive flounder, though their mouths are different. Personally, I am morbidly fascinated by each fish's eye placement. The dab's eyes are both on its right side, while the olive flounder's are on the left. These fish spend lots of time lying on their sides in the sand, so the odd eye placement makes some sense... But its-how can I put this? Creepy? Viscerally disturbing? Profoundly upsetting to fans of symmetry?"
+            },
+            "filename_critterpedia": {
+                "S": "FishKarei"
             },
             "hha_category": {
                 "S": "Pet"
@@ -1474,6 +1792,12 @@
             "name": {
                 "S": "Dab"
             },
+            "rate_maximum": {
+                "N": "14"
+            },
+            "rate_minimum": {
+                "N": "11"
+            },
             "saying": {
                 "S": "I caught a dab! Not bad!"
             },
@@ -1489,8 +1813,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "noA2Kfp8TaFgaLs5n"
+            },
+            "vision_category": {
+                "S": "Medium"
             }
         },
         "TableName": "creature_fish"
@@ -1505,6 +1835,9 @@
             },
             "description": {
                 "S": "Dace are shiny little fish that enjoy freshwater streams with gravelly bottoms and plenty of sunlight. What a fishy paradise...until the larger fish move in and begin eating the dace! Sadly, the shiny dace are easy for other fish to spot, which makes them a popular snack. However, this particular specimen here has no need to worry. There's a strict \"No Eating Your Neighbor\" policy at this institution."
+            },
+            "filename_critterpedia": {
+                "S": "FishUgui"
             },
             "hha_category": {
                 "S": "Pet"
@@ -1542,6 +1875,12 @@
             "name": {
                 "S": "Dace"
             },
+            "rate_maximum": {
+                "N": "10"
+            },
+            "rate_minimum": {
+                "N": "3"
+            },
             "saying": {
                 "S": "I caught a dace! Hope I have some space!"
             },
@@ -1557,8 +1896,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "dWmXFdnjByWT5nEok"
+            },
+            "vision_category": {
+                "S": "Wide"
             }
         },
         "TableName": "creature_fish"
@@ -1573,6 +1918,9 @@
             },
             "description": {
                 "S": "Woo-hoo! So shiny! This massive fish's name, dorado, means \"golden\" in Spanish\u2014 a fitting title. They are also quite valuable, I understand. I congratulate you on your top-notch angling! They are rather large, eh wot? It makes one wonder what all they might feed on... Fowl, perhaps?! One quivers at the very thought! Well, it'll be safe behind glass, no doubt. Quite safe, hoo"
+            },
+            "filename_critterpedia": {
+                "S": "FishDolado"
             },
             "hha_category": {
                 "S": "Pet"
@@ -1610,6 +1958,12 @@
             "name": {
                 "S": "Dorado"
             },
+            "rate_maximum": {
+                "N": "2"
+            },
+            "rate_minimum": {
+                "N": "1"
+            },
             "saying": {
                 "S": "I caught a dorado! I say \"dorado,\" you say \"doraydo.\""
             },
@@ -1625,8 +1979,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "X-Large"
+            },
             "unique_entry_id": {
                 "S": "G7ZwD67cRMHBwTSKH"
+            },
+            "vision_category": {
+                "S": "Narrow"
             }
         },
         "TableName": "creature_fish"
@@ -1641,6 +2001,9 @@
             },
             "description": {
                 "S": "The football fish is a strange and grotesque deep-sea fish with a lantern-like light on its forehead. Its light is apparently powered by luminous bacteria and other glowing microorganisms. One theory says it can spray these luminescent sidekicks when prey approaches in order to dazzle them...The deep contains many mysteries...as well as some things that are just sort of odd and off-putting."
+            },
+            "filename_critterpedia": {
+                "S": "FishChouchinankou"
             },
             "hha_category": {
                 "S": "Pet"
@@ -1678,6 +2041,12 @@
             "name": {
                 "S": "Football Fish"
             },
+            "rate_maximum": {
+                "N": "6"
+            },
+            "rate_minimum": {
+                "N": "6"
+            },
             "saying": {
                 "S": "I caught a football fish! Some countries call it a soccer fish!"
             },
@@ -1693,8 +2062,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "Large"
+            },
             "unique_entry_id": {
                 "S": "vQHfve6DygtcYqwdi"
+            },
+            "vision_category": {
+                "S": "Wide"
             }
         },
         "TableName": "creature_fish"
@@ -1709,6 +2084,9 @@
             },
             "description": {
                 "S": "The freshwater goby is an unassuming specimen. But beneath that calm, fish exterior, true gluttony resides! It will eat anything that will fit in its mouth...And its mouth is quite the gaping maw, so I recommend you refrain from drawing attention to yourself!"
+            },
+            "filename_critterpedia": {
+                "S": "FishDonko"
             },
             "hha_category": {
                 "S": "Pet"
@@ -1746,6 +2124,12 @@
             "name": {
                 "S": "Freshwater Goby"
             },
+            "rate_maximum": {
+                "N": "5"
+            },
+            "rate_minimum": {
+                "N": "2"
+            },
             "saying": {
                 "S": "I caught a freshwater goby! Time to go bye-bye!"
             },
@@ -1761,8 +2145,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "SfXYNdtaid6hdQhvZ"
+            },
+            "vision_category": {
+                "S": "Medium"
             }
         },
         "TableName": "creature_fish"
@@ -1777,6 +2167,9 @@
             },
             "description": {
                 "S": "I understand that frogs converse with fellow frogs through a number of varied calls, as it were. Ribbit! My prince has arrived! Gribbit riiibbit! This pond is tragic! Ribbity rib't! I think you're splendid! Hoo hoo, of course I have no clue what they're saying, but I like to think if I practice enough, I might!"
+            },
+            "filename_critterpedia": {
+                "S": "FishKaeru"
             },
             "hha_category": {
                 "S": "Pet"
@@ -1814,6 +2207,12 @@
             "name": {
                 "S": "Frog"
             },
+            "rate_maximum": {
+                "N": "9"
+            },
+            "rate_minimum": {
+                "N": "7"
+            },
             "saying": {
                 "S": "I caught a frog! Or it's a new neighbor...and I have some apologizing to do."
             },
@@ -1829,8 +2228,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "LcQLs85qPPdLajLje"
+            },
+            "vision_category": {
+                "S": "Very Wide"
             }
         },
         "TableName": "creature_fish"
@@ -1845,6 +2250,9 @@
             },
             "description": {
                 "S": "Hoo hoo! So you have snagged a gar. Did you know this beastly fish can grow up to nine feet long? Indeed, the gar is a remnant of times long past-a living fossil, if you will. It not only has sharp teeth and armor-like scalesn, it has the ability to take breaths of air as well! Ah, to look upon this unusual fish is to get a glimpse of our prehistoric past."
+            },
+            "filename_critterpedia": {
+                "S": "FishGa"
             },
             "hha_category": {
                 "S": "Pet"
@@ -1882,6 +2290,12 @@
             "name": {
                 "S": "Gar"
             },
+            "rate_maximum": {
+                "N": "2"
+            },
+            "rate_minimum": {
+                "N": "1"
+            },
             "saying": {
                 "S": "I caught a gar! Yar! It's a gar! Har har!"
             },
@@ -1897,8 +2311,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "X-Large"
+            },
             "unique_entry_id": {
                 "S": "x5yAYQgMJW9Kf7WyM"
+            },
+            "vision_category": {
+                "S": "Wide"
             }
         },
         "TableName": "creature_fish"
@@ -1913,6 +2333,9 @@
             },
             "description": {
                 "S": "The giant snakehead is quite a sight to behold, wot! One glance conjures up visions of its namesake. This resilient creature can even find a home in the mud, where it is able to breathe. As a matter of fact, it dislikes cold weather, so during wintertime the mud serves as its temporary home. I hear that they eat anything that swims past their head. While odd, I feel a sense of owlship with them."
+            },
+            "filename_critterpedia": {
+                "S": "FishRaigyo"
             },
             "hha_category": {
                 "S": "Pet"
@@ -1950,6 +2373,12 @@
             "name": {
                 "S": "Giant Snakehead"
             },
+            "rate_maximum": {
+                "N": "2"
+            },
+            "rate_minimum": {
+                "N": "2"
+            },
             "saying": {
                 "S": "I caught a giant snakehead! Um...but I asked for a medium?"
             },
@@ -1965,8 +2394,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "Large"
+            },
             "unique_entry_id": {
                 "S": "KyWQRd8W2FePM42wB"
+            },
+            "vision_category": {
+                "S": "Medium"
             }
         },
         "TableName": "creature_fish"
@@ -1981,6 +2416,9 @@
             },
             "description": {
                 "S": "The giant trevally, as befits its name, can reach six feet in length and 180 pounds! Its size and strength have made it a favored opponent for anglers since time immemorial. They are also ingenious hunters, sometimes taking advantage of other predators to distract their prey. There have even been documented cases of them attacking \u2014gulp\u2014 birds."
+            },
+            "filename_critterpedia": {
+                "S": "FishRouninaji"
             },
             "hha_category": {
                 "S": "Pet"
@@ -2018,6 +2456,12 @@
             "name": {
                 "S": "Giant Trevally"
             },
+            "rate_maximum": {
+                "N": "1"
+            },
+            "rate_minimum": {
+                "N": "1"
+            },
             "saying": {
                 "S": "I caught a giant trevally! Yeah, I'm pretty well-trevalled."
             },
@@ -2033,8 +2477,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "X-Large"
+            },
             "unique_entry_id": {
                 "S": "53qtm8cMH4RfqJiAH"
+            },
+            "vision_category": {
+                "S": "Very Narrow"
             }
         },
         "TableName": "creature_fish"
@@ -2049,6 +2499,9 @@
             },
             "description": {
                 "S": "The golden trout is a beautifully colored fish that can only live in very clean waters. They are difficult to come across since they are found only in high mountain streams. As a side note, I find it much easier to appreciate fish that aren't such prima donnas about everything."
+            },
+            "filename_critterpedia": {
+                "S": "FishGoldenTorauto"
             },
             "hha_category": {
                 "S": "Pet"
@@ -2086,6 +2539,12 @@
             "name": {
                 "S": "Golden Trout"
             },
+            "rate_maximum": {
+                "N": "1"
+            },
+            "rate_minimum": {
+                "N": "1"
+            },
             "saying": {
                 "S": "I caught a golden trout! But the real treasure? Friendship."
             },
@@ -2101,8 +2560,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "wwGzR7FzWNJ7cDz9X"
+            },
+            "vision_category": {
+                "S": "Very Narrow"
             }
         },
         "TableName": "creature_fish"
@@ -2117,6 +2582,9 @@
             },
             "description": {
                 "S": "Goldfish are so cute and delicate... but do you know how big they can get? Why, they can grow up to... a foot in length! Well, sometimes. The size of the tank they're kept in tends to restrict their growth. And just how big will this goldfish get in our large museum tank? I look forward to finding out!"
+            },
+            "filename_critterpedia": {
+                "S": "FishKingyo"
             },
             "hha_category": {
                 "S": "Pet"
@@ -2154,6 +2622,12 @@
             "name": {
                 "S": "Goldfish"
             },
+            "rate_maximum": {
+                "N": "4"
+            },
+            "rate_minimum": {
+                "N": "1"
+            },
             "saying": {
                 "S": "I caught a goldfish! It's worth its weight in fish!"
             },
@@ -2169,8 +2643,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "X-Small"
+            },
             "unique_entry_id": {
                 "S": "5NwmwhEQxBNZCPiBR"
+            },
+            "vision_category": {
+                "S": "Medium"
             }
         },
         "TableName": "creature_fish"
@@ -2185,6 +2665,9 @@
             },
             "description": {
                 "S": "Great white sharks are obviously known first and foremost for their biting. They are masters of the craft! They do lose teeth regularly through biting-related activities, but, luckily, those teeth grow back quickly. In fact, their missing teeth can be regrown in a single day. Just imagine their tooth-fairy-related income!"
+            },
+            "filename_critterpedia": {
+                "S": "FishSame"
             },
             "hha_category": {
                 "S": "Pet"
@@ -2222,6 +2705,12 @@
             "name": {
                 "S": "Great White Shark"
             },
+            "rate_maximum": {
+                "N": "2"
+            },
+            "rate_minimum": {
+                "N": "2"
+            },
             "saying": {
                 "S": "I caught a great white shark! Watch out for its jaws!"
             },
@@ -2237,8 +2726,14 @@
             "size_2": {
                 "N": "2.0"
             },
+            "size_silhouette": {
+                "S": "X-Large w/Fin"
+            },
             "unique_entry_id": {
                 "S": "EPypAeJGuTDGFJRnx"
+            },
+            "vision_category": {
+                "S": "Narrow"
             }
         },
         "TableName": "creature_fish"
@@ -2253,6 +2748,9 @@
             },
             "description": {
                 "S": "Oh my! Would you look at that! Such a beautiful, snazzy little fellow that guppy is! The shape and coloration of guppy fins are all unique. Quite eye-catching, I must say. Do you imagine they host contests for \"most snazzy\"? And...do you suppose I might receive an invite?"
+            },
+            "filename_critterpedia": {
+                "S": "FishGuppi"
             },
             "hha_category": {
                 "S": "Pet"
@@ -2290,6 +2788,12 @@
             "name": {
                 "S": "Guppy"
             },
+            "rate_maximum": {
+                "N": "3"
+            },
+            "rate_minimum": {
+                "N": "2"
+            },
             "saying": {
                 "S": "I caught a guppy! Welcome to the team, newbie!"
             },
@@ -2305,8 +2809,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "X-Small"
+            },
             "unique_entry_id": {
                 "S": "WtdZnARNxnWRobej2"
+            },
+            "vision_category": {
+                "S": "Medium"
             }
         },
         "TableName": "creature_fish"
@@ -2321,6 +2831,9 @@
             },
             "description": {
                 "S": "The hammerhead shark is known for its distinctive, hammer-shaped head, hence the name. Er, obviously. Anyhoot, this oddly shaped head allows the beast to see 360 degrees around itself, from top to bottom. Imagine being able to see so widely! You could check for untied shoelaces AND imminent rain simultaneously!"
+            },
+            "filename_critterpedia": {
+                "S": "FishShumokuzame"
             },
             "hha_category": {
                 "S": "Pet"
@@ -2358,6 +2871,12 @@
             "name": {
                 "S": "Hammerhead Shark"
             },
+            "rate_maximum": {
+                "N": "1"
+            },
+            "rate_minimum": {
+                "N": "1"
+            },
             "saying": {
                 "S": "I caught a hammerhead shark! I hit the nail on the head!"
             },
@@ -2373,8 +2892,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "X-Large w/Fin"
+            },
             "unique_entry_id": {
                 "S": "guHT5g6H7tJEyqYzf"
+            },
+            "vision_category": {
+                "S": "Narrow"
             }
         },
         "TableName": "creature_fish"
@@ -2389,6 +2914,9 @@
             },
             "description": {
                 "S": "Supposedly the horse mackerel derives its name from a-false-myth about its strengh as a swimmer. The gist of it is that these fish are so powerful underwater that smaller fish can ride them as steeds! It's absurd, of course. Where would these alleged fish jockeys attach a saddle, much less horseshoes? One does wish that people would construct their legends with a BIT more scientific plausibility!"
+            },
+            "filename_critterpedia": {
+                "S": "FishAji"
             },
             "hha_category": {
                 "S": "Pet"
@@ -2426,6 +2954,12 @@
             "name": {
                 "S": "Horse Mackerel"
             },
+            "rate_maximum": {
+                "N": "21"
+            },
+            "rate_minimum": {
+                "N": "14"
+            },
             "saying": {
                 "S": "I caught a horse mackerel! Of course, Mack...er...el."
             },
@@ -2441,8 +2975,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "L24RYPaEcm9ZXkTui"
+            },
+            "vision_category": {
+                "S": "Wide"
             }
         },
         "TableName": "creature_fish"
@@ -2457,6 +2997,9 @@
             },
             "description": {
                 "S": "Ah, the magnificent killifish! Did you know there are over 1,000 different species? My goodness, what a family tree to keep track of! My own favorite killifish species are the mangrove, which can live on land for weeks, breathing air! And the mummichog, the first fish ever brought to space. I wonder if the killifish you've brought me is related to either of those intrepid explorers?"
+            },
+            "filename_critterpedia": {
+                "S": "FishMedaka"
             },
             "hha_category": {
                 "S": "Pet"
@@ -2494,6 +3037,12 @@
             "name": {
                 "S": "Killifish"
             },
+            "rate_maximum": {
+                "N": "4"
+            },
+            "rate_minimum": {
+                "N": "3"
+            },
             "saying": {
                 "S": "I caught a killifish! The streams are safe again."
             },
@@ -2509,8 +3058,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "X-Small"
+            },
             "unique_entry_id": {
                 "S": "ZR9dsEApEXCjtXu3k"
+            },
+            "vision_category": {
+                "S": "Medium"
             }
         },
         "TableName": "creature_fish"
@@ -2525,6 +3080,9 @@
             },
             "description": {
                 "S": "The king salmon didn't get its name for nothing.This stately fish can weigh in at up to 130 pounds! It's clear why it's referred to as the king of salmon. I imagine even the mightiest net can catch no more than a few at a time.I must say it's a miracle to me that you didn't get dragged out to sea by this one, wot!"
+            },
+            "filename_critterpedia": {
+                "S": "FishKingsalmon"
             },
             "hha_category": {
                 "S": "Pet"
@@ -2562,6 +3120,12 @@
             "name": {
                 "S": "King Salmon"
             },
+            "rate_maximum": {
+                "N": "5"
+            },
+            "rate_minimum": {
+                "N": "5"
+            },
             "saying": {
                 "S": "WOO-HOO! I caught a King salmon! Checkmate!"
             },
@@ -2577,8 +3141,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "X-Large"
+            },
             "unique_entry_id": {
                 "S": "Pf5cXKo8pzdB45rAA"
+            },
+            "vision_category": {
+                "S": "Medium"
             }
         },
         "TableName": "creature_fish"
@@ -2593,6 +3163,9 @@
             },
             "description": {
                 "S": "Koi are a variety of carp bred for their color mutations...starting more than a thousand years ago! Well, one glance at their impressive coloring tells you that the centuries of effort were worth it. And even today people still selectively breed koi in search of new color combinations! One marvels at the thought of what the koi may look like in another thousand years."
+            },
+            "filename_critterpedia": {
+                "S": "FishNishikigoi"
             },
             "hha_category": {
                 "S": "Pet"
@@ -2630,6 +3203,12 @@
             "name": {
                 "S": "Koi"
             },
+            "rate_maximum": {
+                "N": "4"
+            },
+            "rate_minimum": {
+                "N": "1"
+            },
             "saying": {
                 "S": "I caught a koi! I don't know why it's so shy... or such a bad speller..."
             },
@@ -2645,8 +3224,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "Large"
+            },
             "unique_entry_id": {
                 "S": "kNwjLeqjg8bFevfiG"
+            },
+            "vision_category": {
+                "S": "Medium"
             }
         },
         "TableName": "creature_fish"
@@ -2661,6 +3246,9 @@
             },
             "description": {
                 "S": "Loaches are a large group of bottom-feeding freshwater fish. Because there are so many species, it is difficult to generalize about them all. The one thing they all have in common is perhaps their most unappealing trait; the name 'loach.' Repellent, isn't it? They should have just called it the 'cockloach' and been done with it, eh wot! Loach...loach... It just tastes terrible in the beak."
+            },
+            "filename_critterpedia": {
+                "S": "FishDojou"
             },
             "hha_category": {
                 "S": "Pet"
@@ -2698,6 +3286,12 @@
             "name": {
                 "S": "Loach"
             },
+            "rate_maximum": {
+                "N": "16"
+            },
+            "rate_minimum": {
+                "N": "12"
+            },
             "saying": {
                 "S": "I caught a loach! It's...looking at me with reproach."
             },
@@ -2713,8 +3307,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "95yBKrQ4tdyWj4H25"
+            },
+            "vision_category": {
+                "S": "Wide"
             }
         },
         "TableName": "creature_fish"
@@ -2729,6 +3329,9 @@
             },
             "description": {
                 "S": "The mahi-mahi is an ocean fish known for its wide, somewhat-cute face. It can reach over six feet long. It is known by different names including \"dolphinfish,\" even though it has no relation to dolphins. They live in only in warm, tropical waters...which perhaps explains the relaxed, happy look on their faces."
+            },
+            "filename_critterpedia": {
+                "S": "FishShiira"
             },
             "hha_category": {
                 "S": "Pet"
@@ -2766,6 +3369,12 @@
             "name": {
                 "S": "Mahi-mahi"
             },
+            "rate_maximum": {
+                "N": "1"
+            },
+            "rate_minimum": {
+                "N": "1"
+            },
             "saying": {
                 "S": "I caught a mahi-mahi! It's all mahine-mahine."
             },
@@ -2781,8 +3390,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "X-Large"
+            },
             "unique_entry_id": {
                 "S": "D7gY39QDo8BBNs2Ne"
+            },
+            "vision_category": {
+                "S": "Very Narrow"
             }
         },
         "TableName": "creature_fish"
@@ -2797,6 +3412,9 @@
             },
             "description": {
                 "S": "The mitten crab was named for its impossibly adorable and fuzzy little pincers. These cute crustaceans embark on quite the journey. They're first born in brackish waters. Then they mature in freshwater. Finally, they travel to the ocean to create more mitten crabs!Hoo! How I delight in the thought of thousands of tiny mittened crabs scuttling about!"
+            },
+            "filename_critterpedia": {
+                "S": "FishSyanhaigani"
             },
             "hha_category": {
                 "S": "Pet"
@@ -2834,6 +3452,12 @@
             "name": {
                 "S": "Mitten Crab"
             },
+            "rate_maximum": {
+                "N": "5"
+            },
+            "rate_minimum": {
+                "N": "3"
+            },
             "saying": {
                 "S": "I caught a mitten crab! One more and I'm ready for winter!"
             },
@@ -2849,8 +3473,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "s2jqSYbMWBX6qCLDm"
+            },
+            "vision_category": {
+                "S": "Narrow"
             }
         },
         "TableName": "creature_fish"
@@ -2865,6 +3495,9 @@
             },
             "description": {
                 "S": "Despite its rather frightening features, the moray eel is really a very cowardly fish. It lives its life hiding in caves, and will only attack if you're looking for a fight. You've heard of a \"bark that is worse than the bite\"? Well, the moray eel has a face that's worse than its fight!"
+            },
+            "filename_critterpedia": {
+                "S": "FishUtsubo"
             },
             "hha_category": {
                 "S": "Pet"
@@ -2902,6 +3535,12 @@
             "name": {
                 "S": "Moray Eel"
             },
+            "rate_maximum": {
+                "N": "2"
+            },
+            "rate_minimum": {
+                "N": "2"
+            },
             "saying": {
                 "S": "I caught a moray eel! When you're in love, that's a moray!"
             },
@@ -2917,8 +3556,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "Long"
+            },
             "unique_entry_id": {
                 "S": "4nLynLTMRtoqcCfh4"
+            },
+            "vision_category": {
+                "S": "Medium"
             }
         },
         "TableName": "creature_fish"
@@ -2933,6 +3578,9 @@
             },
             "description": {
                 "S": "Quite the catch you've brought! The stately and debonair Napoleonfish is truly something to behold. Those beady eyes! That bumpy head! That bold blue-green coloring! Alas, this quirky creature is quite endangered due to a variety of factors. Needless to say, we must do our very best to take care of our lumpy friend and its environment."
+            },
+            "filename_critterpedia": {
+                "S": "FishNaporeonfish"
             },
             "hha_category": {
                 "S": "Pet"
@@ -2970,6 +3618,12 @@
             "name": {
                 "S": "Napoleonfish"
             },
+            "rate_maximum": {
+                "N": "1"
+            },
+            "rate_minimum": {
+                "N": "1"
+            },
             "saying": {
                 "S": "I caught a Napoleonfish! It's not as big as it thinks!"
             },
@@ -2985,8 +3639,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "XX-Large"
+            },
             "unique_entry_id": {
                 "S": "dm4THC3AYR6CZ8bvJ"
+            },
+            "vision_category": {
+                "S": "Medium"
             }
         },
         "TableName": "creature_fish"
@@ -3001,6 +3661,9 @@
             },
             "description": {
                 "S": "Hoo! Wonderful! The neon tetra is truly a marvel of the tropical-fish world. Just look at how tiny it is! And how very filled with...neon! I imagine its environment must be just as flashy as it is for it to have developed such colors. I wonder how flashy I might be, had I been raised somewhere even half as vibrant?"
+            },
+            "filename_critterpedia": {
+                "S": "FishNeontetora"
             },
             "hha_category": {
                 "S": "Pet"
@@ -3038,6 +3701,12 @@
             "name": {
                 "S": "Neon Tetra"
             },
+            "rate_maximum": {
+                "N": "3"
+            },
+            "rate_minimum": {
+                "N": "2"
+            },
             "saying": {
                 "S": "I caught a neon tetra! Wasn't hard to track."
             },
@@ -3053,8 +3722,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "X-Small"
+            },
             "unique_entry_id": {
                 "S": "aEyRb96wcz9m8yjFN"
+            },
+            "vision_category": {
+                "S": "Medium"
             }
         },
         "TableName": "creature_fish"
@@ -3069,6 +3744,9 @@
             },
             "description": {
                 "S": "Nibble fish are best known for their use in a certain skin treatment. This treatment has apparently been used for thousands of years. I have never experienced said treatment because they eat your dead skin with their little toothless mouths! Can you imagine anything so repellent?! Please don't ask me any follow-up questions. Hoo."
+            },
+            "filename_critterpedia": {
+                "S": "FishDokutaafish"
             },
             "hha_category": {
                 "S": "Pet"
@@ -3106,6 +3784,12 @@
             "name": {
                 "S": "Nibble Fish"
             },
+            "rate_maximum": {
+                "N": "2"
+            },
+            "rate_minimum": {
+                "N": "2"
+            },
             "saying": {
                 "S": "I caught a nibble fish! Come to think of it, I could use a bite!"
             },
@@ -3121,8 +3805,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "X-Small"
+            },
             "unique_entry_id": {
                 "S": "pkPKYsMiXsTWNz4L4"
+            },
+            "vision_category": {
+                "S": "Narrow"
             }
         },
         "TableName": "creature_fish"
@@ -3137,6 +3827,9 @@
             },
             "description": {
                 "S": "The oarfish is a long, eel-like fish that can supposedly reach up to 36 feet in length. They appear in various legends as things like messengers of the gods. It seems to me a creature like that could explain the myth of massive, ship-crushing sea serpents. It is, of course, well documented that people tend to exaggerate the size of \"the one that got away\"."
+            },
+            "filename_critterpedia": {
+                "S": "FishRyuuguunotukai"
             },
             "hha_category": {
                 "S": "Pet"
@@ -3174,6 +3867,12 @@
             "name": {
                 "S": "Oarfish"
             },
+            "rate_maximum": {
+                "N": "1"
+            },
+            "rate_minimum": {
+                "N": "1"
+            },
             "saying": {
                 "S": "I caught an oarfish! I hope I catch morefish!"
             },
@@ -3189,8 +3888,14 @@
             "size_2": {
                 "N": "2.0"
             },
+            "size_silhouette": {
+                "S": "XX-Large"
+            },
             "unique_entry_id": {
                 "S": "qgvEPGk759xaBqwXP"
+            },
+            "vision_category": {
+                "S": "Very Narrow"
             }
         },
         "TableName": "creature_fish"
@@ -3205,6 +3910,9 @@
             },
             "description": {
                 "S": "The ocean sunfish is a large relative of the blowfish with an unusual shape, like a fish head with a tail. They are a fairly relaxed species, often content to ride where the currents take them. This is fortunate as, otherwise, the sight of a large head coming toward you might be alarming!"
+            },
+            "filename_critterpedia": {
+                "S": "FishManbou"
             },
             "hha_category": {
                 "S": "Pet"
@@ -3242,6 +3950,12 @@
             "name": {
                 "S": "Ocean Sunfish"
             },
+            "rate_maximum": {
+                "N": "1"
+            },
+            "rate_minimum": {
+                "N": "1"
+            },
             "saying": {
                 "S": "I caught an ocean sunfish! Good thing I'm wearing ocean sunscreen!"
             },
@@ -3257,8 +3971,14 @@
             "size_2": {
                 "N": "2.0"
             },
+            "size_silhouette": {
+                "S": "X-Large w/Fin"
+            },
             "unique_entry_id": {
                 "S": "6BwK6LHbjFAKzgE82"
+            },
+            "vision_category": {
+                "S": "Very Narrow"
             }
         },
         "TableName": "creature_fish"
@@ -3273,6 +3993,9 @@
             },
             "description": {
                 "S": "Did you know that the olive flounder is the same shape as other fish when it hatches? But as it grows, it gets both wider and flatter, and can reach some three feet long. These flat fish spend much of their lives buried under the sandy ocean floor, waiting for prey to happen by. Imagine the surprise for said prey when they strike. It would be as if your kitchen floor were to bite you."
+            },
+            "filename_critterpedia": {
+                "S": "FishHirame"
             },
             "hha_category": {
                 "S": "Pet"
@@ -3310,6 +4033,12 @@
             "name": {
                 "S": "Olive Flounder"
             },
+            "rate_maximum": {
+                "N": "6"
+            },
+            "rate_minimum": {
+                "N": "4"
+            },
             "saying": {
                 "S": "I caught an olive flounder! That's not the pits!"
             },
@@ -3325,8 +4054,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "X-Large"
+            },
             "unique_entry_id": {
                 "S": "TXSteKMHuQ9ZfqPXm"
+            },
+            "vision_category": {
+                "S": "Narrow"
             }
         },
         "TableName": "creature_fish"
@@ -3341,6 +4076,9 @@
             },
             "description": {
                 "S": "The pale chub is a river fish with simple back-and-silver coloring. Interestingly, the males' coloring becomes most vibrant when he's trying to attract a mate! Though normally plain, these fellows really know how to look stylish when they want to. Perhaps I could learn a thing or two from the pale chub..."
+            },
+            "filename_critterpedia": {
+                "S": "FishOikawa"
             },
             "hha_category": {
                 "S": "Pet"
@@ -3378,6 +4116,12 @@
             "name": {
                 "S": "Pale Chub"
             },
+            "rate_maximum": {
+                "N": "9"
+            },
+            "rate_minimum": {
+                "N": "6"
+            },
             "saying": {
                 "S": "I caught a pale chub! That name seems a bit judgy..."
             },
@@ -3393,8 +4137,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "X-Small"
+            },
             "unique_entry_id": {
                 "S": "pCn9TLap3rWiLYfnF"
+            },
+            "vision_category": {
+                "S": "Wide"
             }
         },
         "TableName": "creature_fish"
@@ -3409,6 +4159,9 @@
             },
             "description": {
                 "S": "The pike has always reminded me a bit of salmon, although a pike can grow rather larger. These brutes can grow to over four feet long, sometimes MUCH over! Hoo hoo! It is carnivorous and preys not only on other fish, but also mammals and some waterfowl. If I were to ever meet one in the water, I would have a most difficult time keeping my wits about me."
+            },
+            "filename_critterpedia": {
+                "S": "FishPaiku"
             },
             "hha_category": {
                 "S": "Pet"
@@ -3446,6 +4199,12 @@
             "name": {
                 "S": "Pike"
             },
+            "rate_maximum": {
+                "N": "2"
+            },
+            "rate_minimum": {
+                "N": "1"
+            },
             "saying": {
                 "S": "I caught a pike! Think a swordfish would be up for a duel?"
             },
@@ -3461,8 +4220,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "X-Large"
+            },
             "unique_entry_id": {
                 "S": "XxrB6iKQPhBkYKaXD"
+            },
+            "vision_category": {
+                "S": "Medium"
             }
         },
         "TableName": "creature_fish"
@@ -3477,6 +4242,9 @@
             },
             "description": {
                 "S": "I am not exactly a fan of the piranha, despite knowing that they're mostly harmless. But those nasty, pointy teeth, Hoo. These infamous little blighters will attack when in groups. Imagine all of those hundreds of tiny teeth! To think that they're floundering about our peaceful waters, just waiting to strike. Well, never fear\u2014 I shall keep THIS one under the strictest lock and key, with nary a bathroom break allowed!"
+            },
+            "filename_critterpedia": {
+                "S": "FishPirania"
             },
             "hha_category": {
                 "S": "Pet"
@@ -3514,6 +4282,12 @@
             "name": {
                 "S": "Piranha"
             },
+            "rate_maximum": {
+                "N": "3"
+            },
+            "rate_minimum": {
+                "N": "1"
+            },
             "saying": {
                 "S": "I caught a piranha! Sure hope it was the only one!"
             },
@@ -3529,8 +4303,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "5C59HAFxmwNSjH4Zq"
+            },
+            "vision_category": {
+                "S": "Very Wide"
             }
         },
         "TableName": "creature_fish"
@@ -3545,6 +4325,9 @@
             },
             "description": {
                 "S": "For many, thinking of pond smelt inevitably leads to thoughts of ice fishing in frozen rivers and lakes. Ice fishing involves making a round hole in the ice, dropping in your fishing line, and...waiting. Not to rain on anyone else's idea of fun, but...well, perhaps I shouldn't say anything."
+            },
+            "filename_critterpedia": {
+                "S": "FishWakasagi"
             },
             "hha_category": {
                 "S": "Pet"
@@ -3582,6 +4365,12 @@
             "name": {
                 "S": "Pond Smelt"
             },
+            "rate_maximum": {
+                "N": "20"
+            },
+            "rate_minimum": {
+                "N": "18"
+            },
             "saying": {
                 "S": "I caught a pond smelt! Whoever smelt it dealt it!"
             },
@@ -3597,8 +4386,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "DDb2GPEjapPmbYbWG"
+            },
+            "vision_category": {
+                "S": "Wide"
             }
         },
         "TableName": "creature_fish"
@@ -3613,6 +4408,9 @@
             },
             "description": {
                 "S": "Pop-eyed goldfish have, as the name suggests, huge round eyes. But as babies they look like other goldfish! As they grow, their eyes begin to pop out and they gain their, hoo, distinct appearance... Imagine the poor fish fancier who unknowingly bought one! Their eyes might well pop out just as far!"
+            },
+            "filename_critterpedia": {
+                "S": "FishDemekin"
             },
             "hha_category": {
                 "S": "Pet"
@@ -3650,6 +4448,12 @@
             "name": {
                 "S": "Pop-eyed Goldfish"
             },
+            "rate_maximum": {
+                "N": "2"
+            },
+            "rate_minimum": {
+                "N": "1"
+            },
             "saying": {
                 "S": "I got a pop-eyed goldfish! It looks so...surprised!"
             },
@@ -3665,8 +4469,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "X-Small"
+            },
             "unique_entry_id": {
                 "S": "RvqzuA438gGqRJ7NG"
+            },
+            "vision_category": {
+                "S": "Medium"
             }
         },
         "TableName": "creature_fish"
@@ -3681,6 +4491,9 @@
             },
             "description": {
                 "S": "Like its cousin the blowfish, when the puffer fish feels threatened it inflates into a spiky balloon. The biggest difference between them is that the puffer fish is not deadly poisonous like its kin. So while it may look scary, the substantially reduced risk to life and limb makes it much better company."
+            },
+            "filename_critterpedia": {
+                "S": "FishHarisenbon"
             },
             "hha_category": {
                 "S": "Pet"
@@ -3718,6 +4531,12 @@
             "name": {
                 "S": "Puffer Fish"
             },
+            "rate_maximum": {
+                "N": "8"
+            },
+            "rate_minimum": {
+                "N": "7"
+            },
             "saying": {
                 "S": "I caught a puffer fish! I thought you would be tougher, fish!"
             },
@@ -3733,8 +4552,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "jNkgaybfSsv8MkaQ2"
+            },
+            "vision_category": {
+                "S": "Medium"
             }
         },
         "TableName": "creature_fish"
@@ -3749,6 +4574,9 @@
             },
             "description": {
                 "S": "The rainbowfish is a tropical fish known for its metallic colors and beautiful fins. There are over 50 different species, each unique and pleasing color. I must say, it does make me wish for feathers of a more exciting hue than \"underbaked brownie.\""
+            },
+            "filename_critterpedia": {
+                "S": "FishRainbowfish"
             },
             "hha_category": {
                 "S": "Pet"
@@ -3786,6 +4614,12 @@
             "name": {
                 "S": "Rainbowfish"
             },
+            "rate_maximum": {
+                "N": "3"
+            },
+            "rate_minimum": {
+                "N": "2"
+            },
             "saying": {
                 "S": "I caught a rainbowfish! Where's my pot of goldfish?"
             },
@@ -3801,8 +4635,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "X-Small"
+            },
             "unique_entry_id": {
                 "S": "XJfkdS4C2MPYiscST"
+            },
+            "vision_category": {
+                "S": "Narrow"
             }
         },
         "TableName": "creature_fish"
@@ -3817,6 +4657,9 @@
             },
             "description": {
                 "S": "The ranchu goldfish is a charming relative of the goldfish with a bumpy head and stout, round body. They have ordinary heads when born, but develop impressive rectangular heads after about three years. Supposedly their head shape changes depending on factors like the size of their tank... So ranchu goldfish enthusiasts aim to raise perfectly shaped specimens and work hard to achieve this. Of course, no one asks the ranchu goldfish themselves what shape they want their heads to be..."
+            },
+            "filename_critterpedia": {
+                "S": "FishRanchu"
             },
             "hha_category": {
                 "S": "Pet"
@@ -3854,6 +4697,12 @@
             "name": {
                 "S": "Ranchu Goldfish"
             },
+            "rate_maximum": {
+                "N": "2"
+            },
+            "rate_minimum": {
+                "N": "1"
+            },
             "saying": {
                 "S": "I caught a ranchu goldfish! But I prefer balsamicu goldfish!"
             },
@@ -3869,8 +4718,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "4NE2SteWKEaBYjgWb"
+            },
+            "vision_category": {
+                "S": "Narrow"
             }
         },
         "TableName": "creature_fish"
@@ -3885,6 +4740,9 @@
             },
             "description": {
                 "S": "The ray is an unusually shaped fish with a flat body and a long body, somewhat related to sharks. Seen from the bottom, the mouth on its stomach appears to be smiling, which is objectively adorable. But be cautious\u2014unlike most cute animals, some rays are extremely venomous. BEWARE THE SMILE."
+            },
+            "filename_critterpedia": {
+                "S": "FishEi"
             },
             "hha_category": {
                 "S": "Pet"
@@ -3922,6 +4780,12 @@
             "name": {
                 "S": "Ray"
             },
+            "rate_maximum": {
+                "N": "2"
+            },
+            "rate_minimum": {
+                "N": "2"
+            },
             "saying": {
                 "S": "I caught a ray! A few more and I'll have a tan!"
             },
@@ -3937,8 +4801,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "X-Large"
+            },
             "unique_entry_id": {
                 "S": "gP5F7wWFvFqiZzuGw"
+            },
+            "vision_category": {
+                "S": "Medium"
             }
         },
         "TableName": "creature_fish"
@@ -3953,6 +4823,9 @@
             },
             "description": {
                 "S": "Red snapper' is the common name of dozens of fish species, and I wonder why it is so popular. Are there so many types of fish that are both a shade of red and have a tendency to snap? Were there no other names? What about 'burgundy biter'? 'Garnet grasper'? 'Puce pincher'?"
+            },
+            "filename_critterpedia": {
+                "S": "FishTai"
             },
             "hha_category": {
                 "S": "Pet"
@@ -3990,6 +4863,12 @@
             "name": {
                 "S": "Red Snapper"
             },
+            "rate_maximum": {
+                "N": "7"
+            },
+            "rate_minimum": {
+                "N": "5"
+            },
             "saying": {
                 "S": "I caught a red snapper! It looks pretty dapper!"
             },
@@ -4005,8 +4884,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "Large"
+            },
             "unique_entry_id": {
                 "S": "iY4zfgojAfLskW4CQ"
+            },
+            "vision_category": {
+                "S": "Medium"
             }
         },
         "TableName": "creature_fish"
@@ -4021,6 +4906,9 @@
             },
             "description": {
                 "S": "The ribbon eel is related to the moray eel, though its bright coloration distinguishes it. It also has an unusual plant-like appendage at the tip of its nose that flutters as the creature moves. I like to think of it as having an extremely friendly nose that waves a greeting to those nearby!"
+            },
+            "filename_critterpedia": {
+                "S": "FishHanahigeutubo"
             },
             "hha_category": {
                 "S": "Pet"
@@ -4058,6 +4946,12 @@
             "name": {
                 "S": "Ribbon Eel"
             },
+            "rate_maximum": {
+                "N": "2"
+            },
+            "rate_minimum": {
+                "N": "2"
+            },
             "saying": {
                 "S": "I caught a ribbon eel! Can it tie itself into a bow?"
             },
@@ -4073,8 +4967,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "Long"
+            },
             "unique_entry_id": {
                 "S": "T9zeSBHpB5qyAZTxu"
+            },
+            "vision_category": {
+                "S": "Very Narrow"
             }
         },
         "TableName": "creature_fish"
@@ -4089,6 +4989,9 @@
             },
             "description": {
                 "S": "What an elegant specimen you've found. The saddled bichir has a look entirely its own. They have poor eyesight, so they use their fine-tuned sniffers to seek out prey. Can you imagine relying solely on your sense of smell to find food? And if one nostril became clogged, would you be unable to tell how far away the scent was?"
+            },
+            "filename_critterpedia": {
+                "S": "FishEndorikerii"
             },
             "hha_category": {
                 "S": "Pet"
@@ -4126,6 +5029,12 @@
             "name": {
                 "S": "Saddled Bichir"
             },
+            "rate_maximum": {
+                "N": "1"
+            },
+            "rate_minimum": {
+                "N": "1"
+            },
             "saying": {
                 "S": "Wow! A saddled bichir! And me without my tiny riding crop..."
             },
@@ -4141,8 +5050,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "Large"
+            },
             "unique_entry_id": {
                 "S": "bcTmnwZxrw2iJsQmf"
+            },
+            "vision_category": {
+                "S": "Narrow"
             }
         },
         "TableName": "creature_fish"
@@ -4157,6 +5072,9 @@
             },
             "description": {
                 "S": "Ah, salmon! Did you know their coloration is due specifically to their diet? Indeed, this is the case! The more they fill their diet with crustaceans such as krill and shrimp, the deeper shade of pink they are. If they ate a bushel of carrots, might they turn orange?"
+            },
+            "filename_critterpedia": {
+                "S": "FishSake"
             },
             "hha_category": {
                 "S": "Pet"
@@ -4194,6 +5112,12 @@
             "name": {
                 "S": "Salmon"
             },
+            "rate_maximum": {
+                "N": "20"
+            },
+            "rate_minimum": {
+                "N": "20"
+            },
             "saying": {
                 "S": "I caught a salmon! It's all upstream from here!"
             },
@@ -4209,8 +5133,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "Large"
+            },
             "unique_entry_id": {
                 "S": "iwXhnZcSezNxqdNQf"
+            },
+            "vision_category": {
+                "S": "Medium"
             }
         },
         "TableName": "creature_fish"
@@ -4225,6 +5155,9 @@
             },
             "description": {
                 "S": "As you might expect from the name, the saw shark is a shark with a head that resembles a saw. This unusual appendage is used both to dig potential prey out of the sand and as a weapon against said prey. Given that, it seems like a more appropriate name would have been \"shovel-sword shark,\" eh wot?"
+            },
+            "filename_critterpedia": {
+                "S": "FishNokogirizame"
             },
             "hha_category": {
                 "S": "Pet"
@@ -4262,6 +5195,12 @@
             "name": {
                 "S": "Saw Shark"
             },
+            "rate_maximum": {
+                "N": "1"
+            },
+            "rate_minimum": {
+                "N": "1"
+            },
             "saying": {
                 "S": "I caught a saw shark! You could call it a sea saw!"
             },
@@ -4277,8 +5216,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "X-Large w/Fin"
+            },
             "unique_entry_id": {
                 "S": "tsrT7a8cbtwZrmJTz"
+            },
+            "vision_category": {
+                "S": "Very Narrow"
             }
         },
         "TableName": "creature_fish"
@@ -4293,6 +5238,9 @@
             },
             "description": {
                 "S": "Sea bass is a name given to a variety of different species of saltwater fish. They are a varied bunch with some as small as four inches and some as staggeringly ginormous as eight feet! 'Sea bass' is a bit pedestrian though. Many species have better names, such as 'redbanded perch.' Or the delightfully whimsical dusky grouper! Or the potato cod! WILL NO ONE THINK OF THE PINK MAOMAO?!"
+            },
+            "filename_critterpedia": {
+                "S": "FishSuzuki"
             },
             "hha_category": {
                 "S": "Pet"
@@ -4330,6 +5278,12 @@
             "name": {
                 "S": "Sea Bass"
             },
+            "rate_maximum": {
+                "N": "18"
+            },
+            "rate_minimum": {
+                "N": "11"
+            },
             "saying": {
                 "S": "I caught a sea bass! No, wait- it's at least a C+!"
             },
@@ -4345,8 +5299,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "X-Large"
+            },
             "unique_entry_id": {
                 "S": "LkA5hzibm6uiHDB9g"
+            },
+            "vision_category": {
+                "S": "Wide"
             }
         },
         "TableName": "creature_fish"
@@ -4361,6 +5321,9 @@
             },
             "description": {
                 "S": "Such mystery! Such grace! Did you know that the sea butterfly's scientific name is Thecosomata? A very rough translation of that is 'shell body.' Indeed, this illustrious creature is related to snails! However, it reminds me much more of an elegant feathered friend, the way it flies through the water. With such grace in flying, one shouldn't wonder if it's related to the owl, hoo hoo!"
+            },
+            "filename_critterpedia": {
+                "S": "FishKurione"
             },
             "hha_category": {
                 "S": "Pet"
@@ -4398,6 +5361,12 @@
             "name": {
                 "S": "Sea Butterfly"
             },
+            "rate_maximum": {
+                "N": "11"
+            },
+            "rate_minimum": {
+                "N": "10"
+            },
             "saying": {
                 "S": "I caught a sea butterfly! Try not to confuse it for a sea moth!"
             },
@@ -4413,8 +5382,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "X-Small"
+            },
             "unique_entry_id": {
                 "S": "kd5beizyQGeyjeM79"
+            },
+            "vision_category": {
+                "S": "Very Narrow"
             }
         },
         "TableName": "creature_fish"
@@ -4429,6 +5404,9 @@
             },
             "description": {
                 "S": "Ah, a favorite of mine, to be sure! The sea horse is such a very unique creature and is indeed a fish! Though, as far as fish go, sea horses are not great swimmers. The sea horse, you see, has but a wee fin on its back, which propels it through water rather poorly. Thus these fish are often found using their prehensile tails to hold tight in amongst the sea grass. And here's one final fact for you... Sea horses have no stomach and so must constantly feed to stay alive! Indeed, the life of a land horse sounds far easier than that of the hardworking horse of the sea."
+            },
+            "filename_critterpedia": {
+                "S": "FishTatsunootoshigo"
             },
             "hha_category": {
                 "S": "Pet"
@@ -4466,6 +5444,12 @@
             "name": {
                 "S": "Sea Horse"
             },
+            "rate_maximum": {
+                "N": "7"
+            },
+            "rate_minimum": {
+                "N": "5"
+            },
             "saying": {
                 "S": "I caught a sea horse! But...where's its sea jockey?"
             },
@@ -4481,8 +5465,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "X-Small"
+            },
             "unique_entry_id": {
                 "S": "Pw5oZqC29NWEGRfyS"
+            },
+            "vision_category": {
+                "S": "Narrow"
             }
         },
         "TableName": "creature_fish"
@@ -4497,6 +5487,9 @@
             },
             "description": {
                 "S": "The snapping turtle is a large turtle known for its crocodile-like body and long claws. No, wait\u2014it is better known for its ferocious bite, which it can deliver with shocking speed for a turtle. NO, WAIT\u2014it is BEST known for that time one chased me across a parking lot and I had to climb on top of a car."
+            },
+            "filename_critterpedia": {
+                "S": "FishKamitsukigame"
             },
             "hha_category": {
                 "S": "Pet"
@@ -4534,6 +5527,12 @@
             "name": {
                 "S": "Snapping Turtle"
             },
+            "rate_maximum": {
+                "N": "3"
+            },
+            "rate_minimum": {
+                "N": "2"
+            },
             "saying": {
                 "S": "I caught a snapping turtle! How can it snap without fingers?"
             },
@@ -4549,8 +5548,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "Large"
+            },
             "unique_entry_id": {
                 "S": "SJa3LLde3Yuz4H3D7"
+            },
+            "vision_category": {
+                "S": "Medium"
             }
         },
         "TableName": "creature_fish"
@@ -4565,6 +5570,9 @@
             },
             "description": {
                 "S": "The soft-shelled turtle is not one to shy away from biting when provoked. In addition to its powerful bite, this little critter has the ability to breathe both above and below water! It has an unusually long neck which it uses for both breathing and biting. Come to think of it, how did you manage to avoid being bitten? Well, it's a fearsome critter, but just look at that face! Rather silly, wot?"
+            },
+            "filename_critterpedia": {
+                "S": "FishSuppon"
             },
             "hha_category": {
                 "S": "Pet"
@@ -4602,6 +5610,12 @@
             "name": {
                 "S": "Soft-shelled Turtle"
             },
+            "rate_maximum": {
+                "N": "4"
+            },
+            "rate_minimum": {
+                "N": "4"
+            },
             "saying": {
                 "S": "I caught a soft-shelled turtle! It's more sensitive than other turtles.; I caught a soft-shelled turtle! I should take a shellfie!"
             },
@@ -4617,8 +5631,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "Large"
+            },
             "unique_entry_id": {
                 "S": "izuY2f4GtEGT3BtuR"
+            },
+            "vision_category": {
+                "S": "Narrow"
             }
         },
         "TableName": "creature_fish"
@@ -4633,6 +5653,9 @@
             },
             "description": {
                 "S": "Well, first off, squids are members of the mollusk family, just like the octopus. Many mollusks like snails and clams have shells, but the squid's body is almost completely soft. The exception is a long, narrow bit of hard material going through its main body - the last remnant of its shell. Of course, having your shell INSIDE is not a best practice. Perhaps they lost the owner's manual!"
+            },
+            "filename_critterpedia": {
+                "S": "FishIka"
             },
             "hha_category": {
                 "S": "Pet"
@@ -4670,6 +5693,12 @@
             "name": {
                 "S": "Squid"
             },
+            "rate_maximum": {
+                "N": "10"
+            },
+            "rate_minimum": {
+                "N": "7"
+            },
             "saying": {
                 "S": "I caught a squid! It's off the hook!; I caught a squid! I had an inkling I might!; I caught a squid! Do they...not actually \"bloop\"?"
             },
@@ -4685,8 +5714,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "qxHJ6BGgyQujkC28w"
+            },
+            "vision_category": {
+                "S": "Wide"
             }
         },
         "TableName": "creature_fish"
@@ -4701,6 +5736,9 @@
             },
             "description": {
                 "S": "The stringfish grows slowly, but also lives quite a long time for a fish, with up to 15 years being typical. Consequently, while it takes a while, they can get quite large-perhaps even up to six feet long! The stringfish is perhaps the best embodiment in the fish world of 'slow and steady wins the race'"
+            },
+            "filename_critterpedia": {
+                "S": "FishItou"
             },
             "hha_category": {
                 "S": "Pet"
@@ -4738,6 +5776,12 @@
             "name": {
                 "S": "Stringfish"
             },
+            "rate_maximum": {
+                "N": "1"
+            },
+            "rate_minimum": {
+                "N": "1"
+            },
             "saying": {
                 "S": "OH MY GOSH! I caught a stringfish! Five more and I'll have a guitarfish!"
             },
@@ -4753,8 +5797,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "X-Large"
+            },
             "unique_entry_id": {
                 "S": "APXg8kSzjcmoGGWSP"
+            },
+            "vision_category": {
+                "S": "Very Narrow"
             }
         },
         "TableName": "creature_fish"
@@ -4769,6 +5819,9 @@
             },
             "description": {
                 "S": "The sturgeon is a large and long-lived fish which has changed little in the last 300 million years. One curious behavior of theirs is leaping high out of the water and falling back in on their sides. The smacking sounds of their re-entry can be heard for up to half a mile away, likely more underwater! No one knows why they do it, but I like to think it's their impression of bread popping out of a toaster!"
+            },
+            "filename_critterpedia": {
+                "S": "FishTyouzame"
             },
             "hha_category": {
                 "S": "Pet"
@@ -4806,6 +5859,12 @@
             "name": {
                 "S": "Sturgeon"
             },
+            "rate_maximum": {
+                "N": "4"
+            },
+            "rate_minimum": {
+                "N": "1"
+            },
             "saying": {
                 "S": "I caught a sturgeon! Wonder if it can perform sturgery..."
             },
@@ -4821,8 +5880,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "XX-Large"
+            },
             "unique_entry_id": {
                 "S": "XabKYtzYDNSNrFvpw"
+            },
+            "vision_category": {
+                "S": "Very Narrow"
             }
         },
         "TableName": "creature_fish"
@@ -4837,6 +5902,9 @@
             },
             "description": {
                 "S": "The suckerfish is a curious fish that likes to attach itself with its sucker mouth to larger marine animals. The benefit to the suckerfish is that it gets to eat smaller parasites and dead skin off the host's body. Amusingly, some people have used suckerfish on cords to catch large turtles with the fish's own suction! I imagine this practice is the cause of some awkward conversations between fish and turtle, eh wot"
+            },
+            "filename_critterpedia": {
+                "S": "FishKobanzame"
             },
             "hha_category": {
                 "S": "Pet"
@@ -4874,6 +5942,12 @@
             "name": {
                 "S": "Suckerfish"
             },
+            "rate_maximum": {
+                "N": "2"
+            },
+            "rate_minimum": {
+                "N": "2"
+            },
             "saying": {
                 "S": "I caught a suckerfish! I thought it was a shark! Oh, wait - now I get it. \"Sucker\"..."
             },
@@ -4889,8 +5963,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "X-Large w/Fin"
+            },
             "unique_entry_id": {
                 "S": "FPpwmMDn9rYAJazyS"
+            },
+            "vision_category": {
+                "S": "Very Wide"
             }
         },
         "TableName": "creature_fish"
@@ -4905,6 +5985,9 @@
             },
             "description": {
                 "S": "Hoo! Careful, now! These fish are particularly dangerous, despite their seemingly docile appearance. With its saturated blue and yellow tones, the surgeonfish is quite breathtaking. It's got to keep up with all the other vibrant fish that live in the coral too, I wager. Quite the competition! Its spine is sharp as a blade, so care must be taken when handling these beauties..."
+            },
+            "filename_critterpedia": {
+                "S": "FishNanyouhagi"
             },
             "hha_category": {
                 "S": "Pet"
@@ -4942,6 +6025,12 @@
             "name": {
                 "S": "Surgeonfish"
             },
+            "rate_maximum": {
+                "N": "2"
+            },
+            "rate_minimum": {
+                "N": "2"
+            },
             "saying": {
                 "S": "I caught a surgeonfish! Scalpel! Forceps! Fish hook!"
             },
@@ -4957,8 +6046,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "s7iioofF5C7PzCZyF"
+            },
+            "vision_category": {
+                "S": "Medium"
             }
         },
         "TableName": "creature_fish"
@@ -4973,6 +6068,9 @@
             },
             "description": {
                 "S": "Sweetfish are the damp heralds of summer! These slippery fellows appear in numbers when it warms up. They hatch in a river, then swim to the ocean. Once mature, they return to the river where they were born. But when they return depends on the river temperature\u2014 if it's too cold their fishing season will start later. Some even say summer can't start without sweetfish despite the KEY role played by the earth's axial tilt!"
+            },
+            "filename_critterpedia": {
+                "S": "FishAyu"
             },
             "hha_category": {
                 "S": "Pet"
@@ -5010,6 +6108,12 @@
             "name": {
                 "S": "Sweetfish"
             },
+            "rate_maximum": {
+                "N": "10"
+            },
+            "rate_minimum": {
+                "N": "5"
+            },
             "saying": {
                 "S": "I caught a sweetfish! Hope it's not artificially sweet!"
             },
@@ -5025,8 +6129,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "dWgg2bjCicuiZjXW6"
+            },
+            "vision_category": {
+                "S": "Medium"
             }
         },
         "TableName": "creature_fish"
@@ -5041,6 +6151,9 @@
             },
             "description": {
                 "S": "Undoubtedly you know that tadpoles eventually turn into frogs. I must say, I find them impossibly adorable with their squiggly little tails. But even cuter... when they sprout legs! Why, we can witness accelerated evolution in these squirmy little ones. Hoo, it makes me so emotional!"
+            },
+            "filename_critterpedia": {
+                "S": "FishOtamajakusi"
             },
             "hha_category": {
                 "S": "Pet"
@@ -5078,6 +6191,12 @@
             "name": {
                 "S": "Tadpole"
             },
+            "rate_maximum": {
+                "N": "6"
+            },
+            "rate_minimum": {
+                "N": "5"
+            },
             "saying": {
                 "S": "I caught a tadpole... It's just a tad small."
             },
@@ -5093,8 +6212,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "X-Small"
+            },
             "unique_entry_id": {
                 "S": "rb8MsjWopKYWuQK8s"
+            },
+            "vision_category": {
+                "S": "Very Wide"
             }
         },
         "TableName": "creature_fish"
@@ -5109,6 +6234,9 @@
             },
             "description": {
                 "S": "Wherever the waters are warm, the tilapia can be found. It is a highly adaptable river fish. They mainly feed on algae, but they will also eat larvae and dead fish\u2014 or whatever fits in their mouths. I will confess that, as a growing owlet, I similarly defined food as 'anything that fits in my beak.'"
+            },
+            "filename_critterpedia": {
+                "S": "FishThirapia"
             },
             "hha_category": {
                 "S": "Pet"
@@ -5146,6 +6274,12 @@
             "name": {
                 "S": "Tilapia"
             },
+            "rate_maximum": {
+                "N": "9"
+            },
+            "rate_minimum": {
+                "N": "7"
+            },
             "saying": {
                 "S": "I caught a tilapia! It makes me happy-a!"
             },
@@ -5161,8 +6295,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "as78rnkwY3ahrTkBY"
+            },
+            "vision_category": {
+                "S": "Medium"
             }
         },
         "TableName": "creature_fish"
@@ -5177,6 +6317,9 @@
             },
             "description": {
                 "S": "The tuna is a large ocean fish that can reach upwards of nine feet long. Besides its great size, it's notable for continuing to swim even when it's sleeping! Well, to be fair, if it doesn't keep swimming, it won't be able to breathe and will of course die... But sleep should be restful, eh wot! If I were the tuna I would feel very hard done by!"
+            },
+            "filename_critterpedia": {
+                "S": "FishMaguro"
             },
             "hha_category": {
                 "S": "Pet"
@@ -5214,6 +6357,12 @@
             "name": {
                 "S": "Tuna"
             },
+            "rate_maximum": {
+                "N": "2"
+            },
+            "rate_minimum": {
+                "N": "2"
+            },
             "saying": {
                 "S": "I caught a tuna! It's a little off-key!"
             },
@@ -5229,8 +6378,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "XX-Large"
+            },
             "unique_entry_id": {
                 "S": "4PnGXx9DSb866AeCM"
+            },
+            "vision_category": {
+                "S": "Narrow"
             }
         },
         "TableName": "creature_fish"
@@ -5245,6 +6400,9 @@
             },
             "description": {
                 "S": "The mighty whale shark is the largest species of fish in the world with specimens up to 60 feet long! Unlike many of their kin in the shark family, whale sharks are nonviolent, eating only plankton and such. They grow slowly and live long, relaxed lives of filter feeding and leisure in warm waters. So if you ever have to choose a fish as a roommate, you could do worse than the whale shark. Unless you can't swim."
+            },
+            "filename_critterpedia": {
+                "S": "FishJinbeezame"
             },
             "hha_category": {
                 "S": "Pet"
@@ -5282,6 +6440,12 @@
             "name": {
                 "S": "Whale Shark"
             },
+            "rate_maximum": {
+                "N": "1"
+            },
+            "rate_minimum": {
+                "N": "1"
+            },
             "saying": {
                 "S": "Thar she blows! I caught a whale shark! I'm tellin' ya, it was thiiiiiiiiiiiiiiiiiiiis big!"
             },
@@ -5297,8 +6461,14 @@
             "size_2": {
                 "N": "2.0"
             },
+            "size_silhouette": {
+                "S": "X-Large w/Fin"
+            },
             "unique_entry_id": {
                 "S": "r3RAtJsXENwnFvQh7"
+            },
+            "vision_category": {
+                "S": "Very Narrow"
             }
         },
         "TableName": "creature_fish"
@@ -5313,6 +6483,9 @@
             },
             "description": {
                 "S": "The yellow perch is certainly worth squawking about. I find it a sight to behold! That jagged dorsal fin! Those brilliant stripes! Those glorious colours! Hoo, truly it is quite the specimen. I would be thrilled to witness it firsthand in its natural environment... But the yellow perch's peak season is winter, I'm afraid. (So very afraid... of winter's biting chill...)"
+            },
+            "filename_critterpedia": {
+                "S": "FishYellowparch"
             },
             "hha_category": {
                 "S": "Pet"
@@ -5350,6 +6523,12 @@
             "name": {
                 "S": "Yellow Perch"
             },
+            "rate_maximum": {
+                "N": "10"
+            },
+            "rate_minimum": {
+                "N": "7"
+            },
             "saying": {
                 "S": "I caught a yellow perch! Those yellow birds have to sit somewhere!"
             },
@@ -5365,8 +6544,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "bLgE5dicZniF5zZDW"
+            },
+            "vision_category": {
+                "S": "Narrow"
             }
         },
         "TableName": "creature_fish"
@@ -5381,6 +6566,9 @@
             },
             "description": {
                 "S": "The sheer brilliance and diversity found in the aquatic underworld never cease to amaze me. This zebra turkeyfish is as stunning to gaze upon as it is deadly. Those spines that are part of its defining physique are chock-full of venom. Fortunately, zebra turkeyfish are not susceptible to another's venom. Though solitary, I imagine they give one another a mean fin bump when passing each other by."
+            },
+            "filename_critterpedia": {
+                "S": "FishMinokasago"
             },
             "hha_category": {
                 "S": "Pet"
@@ -5418,6 +6606,12 @@
             "name": {
                 "S": "Zebra Turkeyfish"
             },
+            "rate_maximum": {
+                "N": "8"
+            },
+            "rate_minimum": {
+                "N": "6"
+            },
             "saying": {
                 "S": "I caught a zebra turkeyfish! Land, air, water--make up your mind!"
             },
@@ -5433,8 +6627,14 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_silhouette": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "h7fa7Fh3Ay7vAxgE2"
+            },
+            "vision_category": {
+                "S": "Wide"
             }
         },
         "TableName": "creature_fish"

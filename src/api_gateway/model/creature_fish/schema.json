@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 21,
-    "minProperties": 21,
+    "maxProperties": 26,
+    "minProperties": 26,
     "properties": {
         "color_1": {
             "maxLength": 6,
@@ -20,6 +20,13 @@
         "description": {
             "maxLength": 588,
             "minLength": 249,
+            "type": [
+                "string"
+            ]
+        },
+        "filename_critterpedia": {
+            "maxLength": 19,
+            "minLength": 6,
             "type": [
                 "string"
             ]
@@ -98,6 +105,24 @@
                 "string"
             ]
         },
+        "rate_maximum": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 21,
+            "minimum": 1,
+            "type": [
+                "integer"
+            ]
+        },
+        "rate_minimum": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 20,
+            "minimum": 1,
+            "type": [
+                "integer"
+            ]
+        },
         "saying": {
             "maxLength": 132,
             "minLength": 24,
@@ -139,9 +164,23 @@
                 "number"
             ]
         },
+        "size_silhouette": {
+            "maxLength": 13,
+            "minLength": 4,
+            "type": [
+                "string"
+            ]
+        },
         "unique_entry_id": {
             "maxLength": 17,
             "minLength": 17,
+            "type": [
+                "string"
+            ]
+        },
+        "vision_category": {
+            "maxLength": 11,
+            "minLength": 4,
             "type": [
                 "string"
             ]
@@ -151,6 +190,7 @@
         "color_1",
         "color_2",
         "description",
+        "filename_critterpedia",
         "hha_category",
         "hha_concept_1",
         "hha_concept_2",
@@ -163,12 +203,16 @@
         "is_surface",
         "lighting_category",
         "name",
+        "rate_maximum",
+        "rate_minimum",
         "saying",
         "sell_currency",
         "sell_price",
         "size_1",
         "size_2",
-        "unique_entry_id"
+        "size_silhouette",
+        "unique_entry_id",
+        "vision_category"
     ],
     "title": "CreatureFish",
     "type": "object"

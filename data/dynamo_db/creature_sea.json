@@ -10,6 +10,9 @@
             "description": {
                 "S": "My feathers, but the abalone is a most deceptive sea snail, wot wot! After seeing its dull brown shell from the outside, one would think it quite plain.But take a gander inside, and you'll see that the abalone's home is a shimmering beauty to behold! The inner layer of the shell is made of \"nacre,\" or \"mother-of-pearl,\" and, hoo, what a dazzling iridescent hue! Let this be a lesson! You mustn't judge a sea snail by the outside of its shell. Judge it by the inside of its shell instead."
             },
+            "filename_critterpedia": {
+                "S": "DiveFishAwabi"
+            },
             "hha_category": {
                 "S": "Pet"
             },
@@ -49,6 +52,12 @@
             "name": {
                 "S": "Abalone"
             },
+            "rate_maximum": {
+                "N": "6"
+            },
+            "rate_minimum": {
+                "N": "1"
+            },
             "saying": {
                 "S": "I got an abalone! Why do I want a sandwich now?"
             },
@@ -63,6 +72,9 @@
             },
             "size_2": {
                 "N": "1.0"
+            },
+            "size_silhouette": {
+                "S": "Medium"
             },
             "unique_entry_id": {
                 "S": "LnurTYKDSPtsiQr62"
@@ -80,6 +92,9 @@
             },
             "description": {
                 "S": "Do not mistake the acorn barnacle for a relative of the calm. Tut-tut, mollusks they are not. Barnacles are cousins to crabs and lobsters, you see. Though the family resemblance is hard to spot. Acorn barnacles may also seem to live a stationary life, what with being attached to rocks and such. But truth be told, baby barnacles are avid travelers, drifting shell-less about the sea before settling down. Once they find a good rock to affix themselves to, they float free no more. Which begs the question... Do adult acorn barnacles ever look out across the open sea...and long for youthful adventure once more?"
+            },
+            "filename_critterpedia": {
+                "S": "DiveFishFujitsubo"
             },
             "hha_category": {
                 "S": "Pet"
@@ -120,6 +135,12 @@
             "name": {
                 "S": "Acorn Barnacle"
             },
+            "rate_maximum": {
+                "N": "11"
+            },
+            "rate_minimum": {
+                "N": "6"
+            },
             "saying": {
                 "S": "I got an acorn barnacle! Will it grow into an oak barnacle?"
             },
@@ -134,6 +155,9 @@
             },
             "size_2": {
                 "N": "1.0"
+            },
+            "size_silhouette": {
+                "S": "X-Small"
             },
             "unique_entry_id": {
                 "S": "QjvNJrjo5pNqZzuGq"
@@ -151,6 +175,9 @@
             },
             "description": {
                 "S": "The chambered nautilus is perhaps best known for its gorgeous shell. Not only does this shell's interior shine with a pearly luster, it features a near-perfect natural spiral. But those aren't the chambered nautilus's only bragging rights. This cephalopod can have up to 90 tentacles, it's said! These arms come coated with a sticky substance that helps the nautilus capture its prey...Which is far better than using them for overly long hugs, I say."
+            },
+            "filename_critterpedia": {
+                "S": "DiveFishOumugai"
             },
             "hha_category": {
                 "S": "Pet"
@@ -191,6 +218,12 @@
             "name": {
                 "S": "Chambered Nautilus"
             },
+            "rate_maximum": {
+                "N": "5"
+            },
+            "rate_minimum": {
+                "N": "3"
+            },
             "saying": {
                 "S": "I got a chambered nautilus! Is it on the naughty list?"
             },
@@ -205,6 +238,9 @@
             },
             "size_2": {
                 "N": "1.0"
+            },
+            "size_silhouette": {
+                "S": "Medium"
             },
             "unique_entry_id": {
                 "S": "cmNawSTGaZZjRi5sp"
@@ -222,6 +258,9 @@
             },
             "description": {
                 "S": "The Dungeness crab wears a pretty fan-shaped shell that's often done up in purple hues. But eye-catching colors aside, this fellow can be surprisingly hard to spot! That's because the Dungeness crab is something of an expert hider. When scared, it plays a nifty trick! That is, it buries itself beneath the sand with impressive speed. \"Now you see me, now you don't,\" it says as it vanishes before your very eyes!"
+            },
+            "filename_critterpedia": {
+                "S": "DiveFishDungenessCrab"
             },
             "hha_category": {
                 "S": "Pet"
@@ -262,6 +301,12 @@
             "name": {
                 "S": "Dungeness crab"
             },
+            "rate_maximum": {
+                "N": "5"
+            },
+            "rate_minimum": {
+                "N": "3"
+            },
             "saying": {
                 "S": "I got a Dungeness crab! Dun dun duuuun...geness."
             },
@@ -276,6 +321,9 @@
             },
             "size_2": {
                 "N": "1.0"
+            },
+            "size_silhouette": {
+                "S": "Medium"
             },
             "unique_entry_id": {
                 "S": "jTP553H6DNuKBSAKa"
@@ -293,6 +341,9 @@
             },
             "description": {
                 "S": "The firefly squid is a wee migratory squid that barely reaches three inches in length. And though they usually live in deep water, they do venture to the coast to spawn. Like their firefly namesakes, these sparkling squid emit a blue bioluminescent glow. This glow may be used to threaten enemies, communicate with friends, or, perhaps, to lure food in. Truth be told, we do not know for sure why the firefly squid glows. We remain in the dark, as they say."
+            },
+            "filename_critterpedia": {
+                "S": "DiveFishHotaruika"
             },
             "hha_category": {
                 "S": "Pet"
@@ -333,6 +384,12 @@
             "name": {
                 "S": "Firefly Squid"
             },
+            "rate_maximum": {
+                "N": "6"
+            },
+            "rate_minimum": {
+                "N": "6"
+            },
             "saying": {
                 "S": "I got a firefly squid! More like a glowswim squid."
             },
@@ -347,6 +404,9 @@
             },
             "size_2": {
                 "N": "1.0"
+            },
+            "size_silhouette": {
+                "S": "X-Small"
             },
             "unique_entry_id": {
                 "S": "ETuWxdyZNpqeFCYby"
@@ -364,6 +424,9 @@
             },
             "description": {
                 "S": "Flatworms are flat creatures, and while some types look like sea slugs, they have little else in common. Some types are venomous and produce a poison similar to the kind blowfish are famous for. Flatworms are hermaphrodites and mate by fighting to determine the loser, who then bears the eggs."
+            },
+            "filename_critterpedia": {
+                "S": "DiveFishHiramushi"
             },
             "hha_category": {
                 "S": "Pet"
@@ -404,6 +467,12 @@
             "name": {
                 "S": "Flatworm"
             },
+            "rate_maximum": {
+                "N": "8"
+            },
+            "rate_minimum": {
+                "N": "5"
+            },
             "saying": {
                 "S": "I got a flatworm! Guess it forgot its spareworm."
             },
@@ -418,6 +487,9 @@
             },
             "size_2": {
                 "N": "1.0"
+            },
+            "size_silhouette": {
+                "S": "X-Small"
             },
             "unique_entry_id": {
                 "S": "4LAq9YXXj4ZdfkSuK"
@@ -435,6 +507,9 @@
             },
             "description": {
                 "S": "The gazami crab may be better known by its more descriptive name\u2026 the Japanese blue crab. It gets its name from the blue tint sometimes found in its shell and legs. Its paddle-like rear legs are what help it to swim freely and quickly through the water. Of course, this gazami crab couldn't swim enough to get away from you!"
+            },
+            "filename_critterpedia": {
+                "S": "DiveFishGazami"
             },
             "hha_category": {
                 "S": "Pet"
@@ -475,6 +550,12 @@
             "name": {
                 "S": "Gazami Crab"
             },
+            "rate_maximum": {
+                "N": "5"
+            },
+            "rate_minimum": {
+                "N": "2"
+            },
             "saying": {
                 "S": "I got a gazami crab! What a gripping find!"
             },
@@ -489,6 +570,9 @@
             },
             "size_2": {
                 "N": "1.0"
+            },
+            "size_silhouette": {
+                "S": "Medium"
             },
             "unique_entry_id": {
                 "S": "ruLaEghgv3y3obBA2"
@@ -506,6 +590,9 @@
             },
             "description": {
                 "S": "Growing up to nearly 20 inches, the sea-dwelling giant isopod is the world's largest cousin of the pill bug. Twenty inches?! Twenty times as revolting, I say! Making matters worse for those of us who find the pill bug repulsive rather than \"cute\"... The giant isopod can swim shockingly fast and is known for its voracious appetite. In fact, it's most happy when dining on the carcasses of animals that have sunk to the bottom of the sea! This behavior has earned it a nickname... 'the vacuum cleaner of the deep.' Why must nature play such awful pranks on me?"
+            },
+            "filename_critterpedia": {
+                "S": "DiveFishDaiougusokumushi"
             },
             "hha_category": {
                 "S": "Pet"
@@ -546,6 +633,12 @@
             "name": {
                 "S": "Giant Isopod"
             },
+            "rate_maximum": {
+                "N": "1"
+            },
+            "rate_minimum": {
+                "N": "1"
+            },
             "saying": {
                 "S": "GAAAAH! I got a giant isopod! It's the crustodian of the sea."
             },
@@ -560,6 +653,9 @@
             },
             "size_2": {
                 "N": "1.0"
+            },
+            "size_silhouette": {
+                "S": "Medium"
             },
             "unique_entry_id": {
                 "S": "eGLoSDD4EWD2c6SGs"
@@ -577,6 +673,9 @@
             },
             "description": {
                 "S": "Gigas giant clams live in warm-water coral reefs and are the biggest bivalves in the world. Growing as wide as six feet and weighing up to 600 pounds, these clams can live to be 100 years old. And yes, these mighty creatures look as though they could eat a swimmer whole. But they eat plankton instead and get valuable nutrients from an algae they live in symbiosis with. Indeed, these enormous gents get all the sustenance they need by lying face up with their shells half-open. If such was my life, I'd be happy as a clam too."
+            },
+            "filename_critterpedia": {
+                "S": "DiveFishShakogai"
             },
             "hha_category": {
                 "S": "Pet"
@@ -617,6 +716,12 @@
             "name": {
                 "S": "Gigas Giant Clam"
             },
+            "rate_maximum": {
+                "N": "1"
+            },
+            "rate_minimum": {
+                "N": "1"
+            },
             "saying": {
                 "S": "I got a gigas giant clam! It's kind of a big deal."
             },
@@ -631,6 +736,9 @@
             },
             "size_2": {
                 "N": "1.0"
+            },
+            "size_silhouette": {
+                "S": "X-Large"
             },
             "unique_entry_id": {
                 "S": "EQmRaHjokMEGTDC7G"
@@ -648,6 +756,9 @@
             },
             "description": {
                 "S": "Some might say it's good luck to catch a horseshoe crab. But I am NOT among them, eh wot! Though called a \"crab,\" this beast is an arthropod and thus more akin to spiders and scorpions! Its long tail resembles a scorpion stinger, in fact! Though it's quite harmless, they say. A \"living fossil,\" the horseshoe crab has been around since before the dinosaurs. With that tank-like shell, I suppose it WOULD be the one to survive. But here's what truly rattles me to my beak... During breeding season, horseshoe crabs crawl up on the beach and make nests together in the hundreds. HUNDREDS OF HORSESHOE CRABS! And with that I can say no more."
+            },
+            "filename_critterpedia": {
+                "S": "DiveFishKabutogani"
             },
             "hha_category": {
                 "S": "Pet"
@@ -688,6 +799,12 @@
             "name": {
                 "S": "Horseshoe Crab"
             },
+            "rate_maximum": {
+                "N": "5"
+            },
+            "rate_minimum": {
+                "N": "3"
+            },
             "saying": {
                 "S": "I got a horseshoe crab! I hope it's lucky!"
             },
@@ -702,6 +819,9 @@
             },
             "size_2": {
                 "N": "1.0"
+            },
+            "size_silhouette": {
+                "S": "Medium"
             },
             "unique_entry_id": {
                 "S": "bbhHaiT2qwcTy46X5"
@@ -719,6 +839,9 @@
             },
             "description": {
                 "S": "The lobster is rather famous for its two large claws. But did you know that, in fact, it has six claws total? Of course, the four tiny claws aren't as threatening as its large \"crusher claw\" is. That pincer can put a hundred pounds of pressure on in a pinch! Just a little something to bear in mind when a lobster tries to shake your hand."
+            },
+            "filename_critterpedia": {
+                "S": "DiveFishLobster"
             },
             "hha_category": {
                 "S": "Pet"
@@ -759,6 +882,12 @@
             "name": {
                 "S": "Lobster"
             },
+            "rate_maximum": {
+                "N": "2"
+            },
+            "rate_minimum": {
+                "N": "1"
+            },
             "saying": {
                 "S": "I got a lobster! Lobjective complete."
             },
@@ -773,6 +902,9 @@
             },
             "size_2": {
                 "N": "1.0"
+            },
+            "size_silhouette": {
+                "S": "Large"
             },
             "unique_entry_id": {
                 "S": "5DadWMEddJREFyXKo"
@@ -790,6 +922,9 @@
             },
             "description": {
                 "S": "Think carefully before you mock the mantis shrimp for its diminutive size. I warn you, it's itching for a fight! A pugilist through and through, this brightly hued fellow packs a punch unparalleled on land or sea. Not only are its forelimbs shaped like clubs and scythes, its arms are naturally spring-loaded too! Thus the mantis shrimp's high-speed blows crack open crabs and oyster shells with ease. And should you grab it with your hands, you might discover why it's called \"the thumb splitter\" too!"
+            },
+            "filename_critterpedia": {
+                "S": "DiveFishSyako"
             },
             "hha_category": {
                 "S": "Pet"
@@ -830,6 +965,12 @@
             "name": {
                 "S": "Mantis Shrimp"
             },
+            "rate_maximum": {
+                "N": "8"
+            },
+            "rate_minimum": {
+                "N": "2"
+            },
             "saying": {
                 "S": "I got a mantis shrimp! Shrimply amazing!"
             },
@@ -844,6 +985,9 @@
             },
             "size_2": {
                 "N": "1.0"
+            },
+            "size_silhouette": {
+                "S": "Small"
             },
             "unique_entry_id": {
                 "S": "WvZWyzkotj6WQ3tLy"
@@ -861,6 +1005,9 @@
             },
             "description": {
                 "S": "Ah, the moon jellyfish...what's not to love about this pretty floating flower of the sea... Well, I suppose its tentacles do give a sting when touched...but it's only a mild thing to the likes of us. Other creatures may not be so fond of this translucent beauty. Though who can blame them, really? Moon jellyfish have stinging cells called cnidocytes that kill fish and other small critters that float by. And they use their \"oral arms\" to pull these morsels into their mouths and stomachs. Indeed, one need but observe the moon jellyfish to see how brutal AND beautiful nature can be."
+            },
+            "filename_critterpedia": {
+                "S": "DiveFishMizukurage"
             },
             "hha_category": {
                 "S": "Pet"
@@ -901,6 +1048,12 @@
             "name": {
                 "S": "Moon Jellyfish"
             },
+            "rate_maximum": {
+                "N": "12"
+            },
+            "rate_minimum": {
+                "N": "4"
+            },
             "saying": {
                 "S": "I got a moon jellyfish! Now to find a sun peanutbutterfish."
             },
@@ -915,6 +1068,9 @@
             },
             "size_2": {
                 "N": "1.0"
+            },
+            "size_silhouette": {
+                "S": "Small"
             },
             "unique_entry_id": {
                 "S": "iugx8EqNWqiwv73C7"
@@ -932,6 +1088,9 @@
             },
             "description": {
                 "S": "Did you know the mussel has a beard?! Hoo! It's true! Well, partially true, anyway. Mussels have a special gland that secretes a thing called \"bysuss\" or \"byssal thread.\" They use these tough beard-like fibers to anchor themselves to rocks and keep themselves in place. So, you see, the mussel's beard is functional rather than merely stylish. Then again, perhaps all beards should be this way."
+            },
+            "filename_critterpedia": {
+                "S": "DiveFishMuhrugai"
             },
             "hha_category": {
                 "S": "Pet"
@@ -972,6 +1131,12 @@
             "name": {
                 "S": "Mussel"
             },
+            "rate_maximum": {
+                "N": "8"
+            },
+            "rate_minimum": {
+                "N": "3"
+            },
             "saying": {
                 "S": "I got a mussel! It's been working out"
             },
@@ -986,6 +1151,9 @@
             },
             "size_2": {
                 "N": "1.0"
+            },
+            "size_silhouette": {
+                "S": "Small"
             },
             "unique_entry_id": {
                 "S": "M784h47XqSbBSthgT"
@@ -1003,6 +1171,9 @@
             },
             "description": {
                 "S": "With its eight limbs, three hearts, and surprisingly big brain, the octopus is quite the wonder. It is also an escape artist like no other! You see, the octopus has specialized skin cells that can change color and texture with lightening speed. Thus it can look for all the world like a patch of seabed one minute...and a pile of rocks the next! But the deception doesn't stop there, wot wot. When attacked by a predator, the octopus releases a cloud of ink and -POOF- makes its escape. Let's just call the octopus what it is, shall we? The ninja of the deep!"
+            },
+            "filename_critterpedia": {
+                "S": "DiveFishTako"
             },
             "hha_category": {
                 "S": "Pet"
@@ -1043,6 +1214,12 @@
             "name": {
                 "S": "Octopus"
             },
+            "rate_maximum": {
+                "N": "8"
+            },
+            "rate_minimum": {
+                "N": "2"
+            },
             "saying": {
                 "S": "I got an octopus! It can give four hugs at once!"
             },
@@ -1057,6 +1234,9 @@
             },
             "size_2": {
                 "N": "1.0"
+            },
+            "size_silhouette": {
+                "S": "Medium"
             },
             "unique_entry_id": {
                 "S": "f7amqwd7b3fHnvPFA"
@@ -1074,6 +1254,9 @@
             },
             "description": {
                 "S": "Oysters are marvelous mollusks and, in many ways, the social butterflies of the seas. That is, these bivalves tend to live attached to rocks in large groups known as oyster beds. These reef-like structures provide home and habitat for a delightful variety of creatures. Mussels, barnacles, and sea anemones have all been known to set up house. Meanwhile, small fish and crabs hide from predators and even raise their young among the snuggling oysters. With all the hubbub, an oyster bed sounds like the last place one would get some sleep!"
+            },
+            "filename_critterpedia": {
+                "S": "DiveFishOyster"
             },
             "hha_category": {
                 "S": "Pet"
@@ -1114,6 +1297,12 @@
             "name": {
                 "S": "Oyster"
             },
+            "rate_maximum": {
+                "N": "12"
+            },
+            "rate_minimum": {
+                "N": "5"
+            },
             "saying": {
                 "S": "I got an oyster! It's a little shellfish."
             },
@@ -1128,6 +1317,9 @@
             },
             "size_2": {
                 "N": "1.0"
+            },
+            "size_silhouette": {
+                "S": "Small"
             },
             "unique_entry_id": {
                 "S": "aacYapCp5wKdQDCmB"
@@ -1145,6 +1337,9 @@
             },
             "description": {
                 "S": "Hoo, indeed, hoot! What a splendid pearl oyster! Did you know the famed pearl oyster can live for 40 years and grow up to a foot in size? 'Tis true, hootie-hoo! Of course, this briny bivalve is best known for the precious gems it grows within. The pearl-making process begins when an irritant gains access to the delicate insides of the oyster. The intruder is then covered with layer upon layer of \"nacre,\" the same substance used to create its shell. It takes years for a pearl to form, but in the end, the irritant is rendered harmless. Ahh, if only we all had the power to turn things that annoy us... into things of beauty instead."
+            },
+            "filename_critterpedia": {
+                "S": "DiveFishAkoyagai"
             },
             "hha_category": {
                 "S": "Pet"
@@ -1185,6 +1380,12 @@
             "name": {
                 "S": "Pearl Oyster"
             },
+            "rate_maximum": {
+                "N": "4"
+            },
+            "rate_minimum": {
+                "N": "2"
+            },
             "saying": {
                 "S": "I got a pearl oyster! Aw, shucks. Don't clam up now!"
             },
@@ -1199,6 +1400,9 @@
             },
             "size_2": {
                 "N": "1.0"
+            },
+            "size_silhouette": {
+                "S": "Small"
             },
             "unique_entry_id": {
                 "S": "Hr2jZ9XybS3jYFw8H"
@@ -1216,6 +1420,9 @@
             },
             "description": {
                 "S": "The red king crab is a mighty crustacean to be sure. Though it must be said that there is some debate about its royal lineage. King crabs, unlike other crabs, are thought to be descended from hermit crabs, you see. And have you noticed... GASP! They have but eight legs, though conventional crabs have 10! It matters not, I say. For the red king crab is as regal as can be. Weighing up to 20 pounds with a leg span reaching five feet... I bow to this crab's nobility."
+            },
+            "filename_critterpedia": {
+                "S": "DiveFishTarabagani"
             },
             "hha_category": {
                 "S": "Pet"
@@ -1256,6 +1463,12 @@
             "name": {
                 "S": "Red King Crab"
             },
+            "rate_maximum": {
+                "N": "2"
+            },
+            "rate_minimum": {
+                "N": "1"
+            },
             "saying": {
                 "S": "I caught a red king crab! It's royally flushed."
             },
@@ -1270,6 +1483,9 @@
             },
             "size_2": {
                 "N": "1.0"
+            },
+            "size_silhouette": {
+                "S": "Large"
             },
             "unique_entry_id": {
                 "S": "F3XTwHJQcfdrJk4vk"
@@ -1287,6 +1503,9 @@
             },
             "description": {
                 "S": "Ah, the scallop! It just goes to show, you can't keep a good bivalve down. While most members of its family are known for staying put, the scallop is a nimble fellow indeed. When a hungry sea star approaches, the scallop can swim away by clap-clap-clapping its shells together! \"How does a scallop know when a predator approaches?\" you ask. Why, it has 200 eyes to see with! It makes one wonder what else the scallop sees with all those eyes... I fear it sees into my very soul!"
+            },
+            "filename_critterpedia": {
+                "S": "DiveFishHotate"
             },
             "hha_category": {
                 "S": "Pet"
@@ -1327,6 +1546,12 @@
             "name": {
                 "S": "Scallop"
             },
+            "rate_maximum": {
+                "N": "8"
+            },
+            "rate_minimum": {
+                "N": "6"
+            },
             "saying": {
                 "S": "I got a scallop! It otter be savored."
             },
@@ -1341,6 +1566,9 @@
             },
             "size_2": {
                 "N": "1.0"
+            },
+            "size_silhouette": {
+                "S": "Medium"
             },
             "unique_entry_id": {
                 "S": "fMwWEu3Zwy6tZdX2X"
@@ -1358,6 +1586,9 @@
             },
             "description": {
                 "S": "Medusa herself would be impressed by the sea anemone. This pretty predator loves to wave its colorful flowing locks about. But these gorgeous tresses are, in fact, deadly tentacles surrounding a hungry mouth! Triggered by the slightest touch, these tentacles harpoon victims with neurotoxin. The sea anemone then pulls the helpless, hapless prey into its mouth for a spot of lunch! I say, let this be a lesson! Never, ever make an enemy... out of an anemone!"
+            },
+            "filename_critterpedia": {
+                "S": "DiveFishIsogintyaku"
             },
             "hha_category": {
                 "S": "Pet"
@@ -1398,6 +1629,12 @@
             "name": {
                 "S": "Sea Anemone"
             },
+            "rate_maximum": {
+                "N": "14"
+            },
+            "rate_minimum": {
+                "N": "3"
+            },
             "saying": {
                 "S": "I got a sea anemone! The enemy of my anemone is my afrenome!"
             },
@@ -1412,6 +1649,9 @@
             },
             "size_2": {
                 "N": "1.0"
+            },
+            "size_silhouette": {
+                "S": "Large"
             },
             "unique_entry_id": {
                 "S": "fre7kn6ALvnpnH8yC"
@@ -1429,6 +1669,9 @@
             },
             "description": {
                 "S": "The sea cucumber, much like its relatives the sea urchin and sea star, has no heart nor brain. However, unlike its relatives, it has no shell nor spikes to with which to protect itself either. So how does a softy such as this stay safe in the open ocean? Brace yourself I say\u2026 when threatened sea cucumbers jettison their innards out of their backsides! Hoo! Gross but true! The sticky, stringy stuff ensnares predators, allowing the cuke to make its escape and grow its insides back. One might say\u2026the sea cucumber is a GUTSY creature, indeed. Hoo hoo, hee hee! Do forgive me!"
+            },
+            "filename_critterpedia": {
+                "S": "DiveFishNamako"
             },
             "hha_category": {
                 "S": "Pet"
@@ -1469,6 +1712,12 @@
             "name": {
                 "S": "Sea Cucumber"
             },
+            "rate_maximum": {
+                "N": "12"
+            },
+            "rate_minimum": {
+                "N": "4"
+            },
             "saying": {
                 "S": "I got a sea cucumber! It's a bit cumbersome"
             },
@@ -1483,6 +1732,9 @@
             },
             "size_2": {
                 "N": "1.0"
+            },
+            "size_silhouette": {
+                "S": "Medium"
             },
             "unique_entry_id": {
                 "S": "2jxxcGooLMwyyiNQc"
@@ -1500,6 +1752,9 @@
             },
             "description": {
                 "S": "Sea grapes are a marine algae that look much like their landlocked namesake. That is, they are green pearl-like orbs that cluster tightly along underwater vines. And sea grapes, like regular grapes, are a popular snack food too... albeit of the saltier variety. Fans of the briny delicacy enjoy the way the shiny pearls POP when chewed. It makes one wonder whether sea grape juice might have some appeal? 'Twould leave the drinker with sour grapes, I suppose."
+            },
+            "filename_critterpedia": {
+                "S": "DiveFishUmibudou"
             },
             "hha_category": {
                 "S": "Pet"
@@ -1540,6 +1795,12 @@
             "name": {
                 "S": "Sea Grapes"
             },
+            "rate_maximum": {
+                "N": "12"
+            },
+            "rate_minimum": {
+                "N": "4"
+            },
             "saying": {
                 "S": "I got some sea grapes! Can't let these go sour."
             },
@@ -1554,6 +1815,9 @@
             },
             "size_2": {
                 "N": "1.0"
+            },
+            "size_silhouette": {
+                "S": "Small"
             },
             "unique_entry_id": {
                 "S": "eBdtw3eCrMuP9LWyn"
@@ -1571,6 +1835,9 @@
             },
             "description": {
                 "S": "Never have I seen a creature that walks the line between creepy and cute quite like the sea pig does. Sea pigs are, in fact, a type of sea cucumber that lives deep down on the ocean floor. About four inches long, these soft pinkish oddities use tube-like legs and feelers to get around. Thus they snuffle through the mud, slurping up particles from decaying carcasses. Meanwhile, predators be warned... This little piggy tastes like poison."
+            },
+            "filename_critterpedia": {
+                "S": "DiveFishSenjunamako"
             },
             "hha_category": {
                 "S": "Pet"
@@ -1611,6 +1878,12 @@
             "name": {
                 "S": "Sea Pig"
             },
+            "rate_maximum": {
+                "N": "1"
+            },
+            "rate_minimum": {
+                "N": "1"
+            },
             "saying": {
                 "S": "I got a sea pig! What's next? Air pigs?"
             },
@@ -1625,6 +1898,9 @@
             },
             "size_2": {
                 "N": "1.0"
+            },
+            "size_silhouette": {
+                "S": "Small"
             },
             "unique_entry_id": {
                 "S": "kxxguvYvS4G3o7E5x"
@@ -1642,6 +1918,9 @@
             },
             "description": {
                 "S": "Try not to gawk as you look upon the sea pineapple. Its peculiar look is simply one of nature's many jokes. Though it may look like a half-rotten hunk of fruit, the sea pineapple is no plant, shellfish, or even sea slug. It's a tunicate, wot wot...a fancy name for a shallow-water filter feeder with a taste for plankton. It should be noted that the sea pineapple looks like a tadpole when it's young and can still swim about. Alas, its youthful cuteness wears off once it attaches itself for good to a rock. Ah, but let's put insults aside! Sea pineapples are full of water, you sea. And I fear we're asking for a squirt in the eye!"
+            },
+            "filename_critterpedia": {
+                "S": "DiveFishHoya"
             },
             "hha_category": {
                 "S": "Pet"
@@ -1682,6 +1961,12 @@
             "name": {
                 "S": "Sea Pineapple"
             },
+            "rate_maximum": {
+                "N": "6"
+            },
+            "rate_minimum": {
+                "N": "2"
+            },
             "saying": {
                 "S": "I got a sea pineapple! Your move, sea pizzas."
             },
@@ -1696,6 +1981,9 @@
             },
             "size_2": {
                 "N": "1.0"
+            },
+            "size_silhouette": {
+                "S": "Small"
             },
             "unique_entry_id": {
                 "S": "e29uLe7tkErhipLfS"
@@ -1713,6 +2001,9 @@
             },
             "description": {
                 "S": "Imagine, if you will, a land slug...but one dressed in frilly attire full of bold colors, stripes, and spots! That is the sea slug, a gastropod that looks ready to walk the red carpet...or perform beneath a big top. But these clowns are no laughing matter, eh wot. Their garish colors and wild patterns warn predators to steer clear of their stinging, toxic taste. And THAT is how you dress for success, as they say!"
+            },
+            "filename_critterpedia": {
+                "S": "DiveFishUmiushi"
             },
             "hha_category": {
                 "S": "Pet"
@@ -1753,6 +2044,12 @@
             "name": {
                 "S": "Sea Slug"
             },
+            "rate_maximum": {
+                "N": "12"
+            },
+            "rate_minimum": {
+                "N": "1"
+            },
             "saying": {
                 "S": "I got a sea slug! It's kinda salty about that."
             },
@@ -1767,6 +2064,9 @@
             },
             "size_2": {
                 "N": "1.0"
+            },
+            "size_silhouette": {
+                "S": "X-Small"
             },
             "unique_entry_id": {
                 "S": "3YjdEG93fagcXpiuf"
@@ -1784,6 +2084,9 @@
             },
             "description": {
                 "S": "The sea star may appear to have five feet...but those are, in fact, its arms. And though five-armed sea stars are the most common, there are species with 20 or even 40 arms out there! Ah, but the fascinating appendage fats do not end there, wot wot! You see upon each sea star's arm sprout many dozens of tiny feet. YES, FEET! They use these suction-cupped feet not just to move about...but to...eh... grab hold of dinner guests as well. Finally, it should be noted that when a sea star loses an arm, it can grow it back. More impressive yes, a served sea star arm...can sometimes grow an entire sea star body back!"
+            },
+            "filename_critterpedia": {
+                "S": "DiveFishHitode"
             },
             "hha_category": {
                 "S": "Pet"
@@ -1824,6 +2127,12 @@
             "name": {
                 "S": "Sea Star"
             },
+            "rate_maximum": {
+                "N": "10"
+            },
+            "rate_minimum": {
+                "N": "4"
+            },
             "saying": {
                 "S": "I got a sea star! Maybe it'll give me an autograph!"
             },
@@ -1838,6 +2147,9 @@
             },
             "size_2": {
                 "N": "1.0"
+            },
+            "size_silhouette": {
+                "S": "Small"
             },
             "unique_entry_id": {
                 "S": "vAF9BcZt5q8gBQJmj"
@@ -1855,6 +2167,9 @@
             },
             "description": {
                 "S": "Ah, the sea urchin...the unabashed goth of the ocean floor! Indeed, with its mane of dark-hued spikes, it looks for all the world as if it might front a punk-rock band. Perhaps its more demure relatives\u2014the sea cucumber and the sea star\u2014disapprove of its outlandish look? It would certainly explain why sea stars gobble up sea urchins every chance they get! But worry not for our spiky friend. Its venomous spines are an effective deterrent to many a predator."
+            },
+            "filename_critterpedia": {
+                "S": "DiveFishUni"
             },
             "hha_category": {
                 "S": "Pet"
@@ -1895,6 +2210,12 @@
             "name": {
                 "S": "Sea Urchin"
             },
+            "rate_maximum": {
+                "N": "7"
+            },
+            "rate_minimum": {
+                "N": "2"
+            },
             "saying": {
                 "S": "I got a sea urchin! Wasn't even 'earchin for it."
             },
@@ -1909,6 +2230,9 @@
             },
             "size_2": {
                 "N": "1.0"
+            },
+            "size_silhouette": {
+                "S": "Small"
             },
             "unique_entry_id": {
                 "S": "3emjFCipv2bgQ6HaM"
@@ -1926,6 +2250,9 @@
             },
             "description": {
                 "S": "Let it be known that seaweed is a misnomer of the highest order! That is, it is not a noxious weed so much as it is a marine algae most beneficial to life on land and sea. Seaweed, you see, provides essential habitat and food for all manner of marine creatures. And it creates a great deal of the oxygen we land lovers love to breath too, hoo! And yet, I can't help but shudder when the slimy stuff touches my toes during a swim. Hoot! The horror!"
+            },
+            "filename_critterpedia": {
+                "S": "DiveFishWakame"
             },
             "hha_category": {
                 "S": "Pet"
@@ -1966,6 +2293,12 @@
             "name": {
                 "S": "Seaweed"
             },
+            "rate_maximum": {
+                "N": "14"
+            },
+            "rate_minimum": {
+                "N": "3"
+            },
             "saying": {
                 "S": "I got some seaweed! I couldn't kelp myself."
             },
@@ -1980,6 +2313,9 @@
             },
             "size_2": {
                 "N": "1.0"
+            },
+            "size_silhouette": {
+                "S": "Large"
             },
             "unique_entry_id": {
                 "S": "KM4dfXCZ6CvZjEyw9"
@@ -1997,6 +2333,9 @@
             },
             "description": {
                 "S": "Slate Pencil Urchins are a type of sea urchin topped with thick, rounded spines that resemble sticks of chalk. These urchins' spines protect them not only from predators but from violent waves as well. Found in coral reefs, they're usually bright red, brown, or purple in color. For all those bright colors, one would think the slate pencil urchin to be deadly. But all those pretty colors, it seems, are just a pretty show."
+            },
+            "filename_critterpedia": {
+                "S": "DiveFishPaipuuni"
             },
             "hha_category": {
                 "S": "Pet"
@@ -2037,6 +2376,12 @@
             "name": {
                 "S": "Slate Pencil Urchin"
             },
+            "rate_maximum": {
+                "N": "4"
+            },
+            "rate_minimum": {
+                "N": "3"
+            },
             "saying": {
                 "S": "I got a slate pencil urchin! Its handwriting is gorgeous."
             },
@@ -2051,6 +2396,9 @@
             },
             "size_2": {
                 "N": "1.0"
+            },
+            "size_silhouette": {
+                "S": "Medium"
             },
             "unique_entry_id": {
                 "S": "TMftNBRmEGkvhpfnC"
@@ -2068,6 +2416,9 @@
             },
             "description": {
                 "S": "The snow crab truly lives up to its name, wot wot. They are most often found in cold northern seas. Some have even been discovered living in the Arctic Ocean! Indeed, snow crab prefer to live in deep water that never gets more than three degrees above freezing. Hooooo. Just thinking about their icy environs is giving me the chills!"
+            },
+            "filename_critterpedia": {
+                "S": "DiveFishZuwaigani"
             },
             "hha_category": {
                 "S": "Pet"
@@ -2108,6 +2459,12 @@
             "name": {
                 "S": "Snow Crab"
             },
+            "rate_maximum": {
+                "N": "3"
+            },
+            "rate_minimum": {
+                "N": "1"
+            },
             "saying": {
                 "S": "I got a snow crab! It's giving me the cold shoulder."
             },
@@ -2122,6 +2479,9 @@
             },
             "size_2": {
                 "N": "1.0"
+            },
+            "size_silhouette": {
+                "S": "Large"
             },
             "unique_entry_id": {
                 "S": "bQNma5vbcs7wWRqY7"
@@ -2139,6 +2499,9 @@
             },
             "description": {
                 "S": "Hoooot hooot, I do so hope to not hyperventilate as I regale you with the spider crab's qualities. But I would be remiss if I did not point out that this, the largest crab on earth... looks like a GIANT SPIDER! Arachnophobia aside... this crab is a magnificent creature to be sure. Though they can grow up to 12 feet from claw to claw and weigh up to 40 pounds, they're said to be docile. In fact, these gentle giants love to hide, attaching seaweed and sponges to their shell as camouflage. My feathers, if only I could unsee the SPIDER in the spider crab... I'm sure I'd find it charming as can be."
+            },
+            "filename_critterpedia": {
+                "S": "DiveFishTakaashigani"
             },
             "hha_category": {
                 "S": "Pet"
@@ -2179,6 +2542,12 @@
             "name": {
                 "S": "Spider Crab"
             },
+            "rate_maximum": {
+                "N": "2"
+            },
+            "rate_minimum": {
+                "N": "1"
+            },
             "saying": {
                 "S": "I got a spider crab! Water bugs can rest easy."
             },
@@ -2193,6 +2562,9 @@
             },
             "size_2": {
                 "N": "2.0"
+            },
+            "size_silhouette": {
+                "S": "X-Large"
             },
             "unique_entry_id": {
                 "S": "gp2XNvGKNGmR6buT3"
@@ -2210,6 +2582,9 @@
             },
             "description": {
                 "S": "It is the spiny lobster's lengthy antennae that help set it apart from other lobsters. Those two antennae can grow twice as long as the lobster's own body! And what a clever crustacean it is, having found a way to use those antennae as a means of defense. When the spiny lobster senses danger, it rubs its antennae across its exoskeleton. The horrid screeching sound frightens predators away! If someone scratched nails across a chalkboard in your direction, I daresay you'd run too!"
+            },
+            "filename_critterpedia": {
+                "S": "DiveFishIseebi"
             },
             "hha_category": {
                 "S": "Pet"
@@ -2250,6 +2625,12 @@
             "name": {
                 "S": "Spiny Lobster"
             },
+            "rate_maximum": {
+                "N": "5"
+            },
+            "rate_minimum": {
+                "N": "5"
+            },
             "saying": {
                 "S": "I got a spiny lobster! It's got a lot of backbone!"
             },
@@ -2264,6 +2645,9 @@
             },
             "size_2": {
                 "N": "1.0"
+            },
+            "size_silhouette": {
+                "S": "Large"
             },
             "unique_entry_id": {
                 "S": "9n5iphC8vQe6Rar72"
@@ -2281,6 +2665,9 @@
             },
             "description": {
                 "S": "The spotted garden eel is a small eel-shaped fish that loves to burrow in the sandy ocean floor. These silly things are known for popping their heads out of the sand to nibble on plankton drifting by. Some say this makes them look like plants sprouting in a garden...hence the name spotted garden eel. But I think they look more like prairie dogs peeking out of desert hidey-holes. \"Prairie eels\" has a lovely ring, don't you think?"
+            },
+            "filename_critterpedia": {
+                "S": "DiveFishChinanago"
             },
             "hha_category": {
                 "S": "Pet"
@@ -2321,6 +2708,12 @@
             "name": {
                 "S": "Spotted Garden Eel"
             },
+            "rate_maximum": {
+                "N": "8"
+            },
+            "rate_minimum": {
+                "N": "6"
+            },
             "saying": {
                 "S": "I got a spotted garden eel! Was it un-spotted before I saw it?"
             },
@@ -2335,6 +2728,9 @@
             },
             "size_2": {
                 "N": "1.0"
+            },
+            "size_silhouette": {
+                "S": "Small"
             },
             "unique_entry_id": {
                 "S": "zYEHNF5Svak8ZARMW"
@@ -2352,6 +2748,9 @@
             },
             "description": {
                 "S": "The sweet shrimp spends the first few years of its life as a male. It then transitions into a female as it ages. Interestingly, it is hardly alone in this type of development cycle. Indeed, a great variety of marine creatures can change their biological sex as they age. Clown fish, some sea star, and sea bass are among them. Hoo hoo, the ocean is full of a great many wonders. Huzzah to that, I say!"
+            },
+            "filename_critterpedia": {
+                "S": "DiveFishAmaebi"
             },
             "hha_category": {
                 "S": "Pet"
@@ -2392,6 +2791,12 @@
             "name": {
                 "S": "Sweet Shrimp"
             },
+            "rate_maximum": {
+                "N": "12"
+            },
+            "rate_minimum": {
+                "N": "3"
+            },
             "saying": {
                 "S": "I got a sweet shrimp! It's being very considerate."
             },
@@ -2406,6 +2811,9 @@
             },
             "size_2": {
                 "N": "1.0"
+            },
+            "size_silhouette": {
+                "S": "Small"
             },
             "unique_entry_id": {
                 "S": "5v5X2ipAYLaALxMsw"
@@ -2423,6 +2831,9 @@
             },
             "description": {
                 "S": "The tiger prawn is a hearty crustacean found in many places around the world. Named for the stripes on its exoskeleton, it molts out of this shell as it grows in size. If only I could acquire a larger home with such ease! But do you know what I find even more fascinating? The tiger prawn's legs! It has five pairs of swimming legs, five pairs of walking legs, and three pairs of limbs it eats with! How, might I ask, does it not trip over its own 26 feet?"
+            },
+            "filename_critterpedia": {
+                "S": "DiveFishKurumaebi"
             },
             "hha_category": {
                 "S": "Pet"
@@ -2463,6 +2874,12 @@
             "name": {
                 "S": "Tiger Prawn"
             },
+            "rate_maximum": {
+                "N": "4"
+            },
+            "rate_minimum": {
+                "N": "1"
+            },
             "saying": {
                 "S": "I got a tiger prawn! I ain't lion!"
             },
@@ -2477,6 +2894,9 @@
             },
             "size_2": {
                 "N": "1.0"
+            },
+            "size_silhouette": {
+                "S": "Small"
             },
             "unique_entry_id": {
                 "S": "EaMd8ansu3qtzAGbv"
@@ -2494,6 +2914,9 @@
             },
             "description": {
                 "S": "The turban shell is a sea snail with a rather nifty trick up its sleeve...er, shell. You see, this snail carries a hard, round, button-like \"operculum\" with it wherever it goes. What is an operculum, you ask? Why, it is a trapdoor of sorts! When danger approaches, the snail slips into its shell and pulls this trapdoor closed over the opening. Thus it is locked safe and sound inside. And bravo, I say! Bravo! When trouble comes knocking, just do what the turban shell does. Shut the door and turn out the lights!"
+            },
+            "filename_critterpedia": {
+                "S": "DiveFishSazae"
             },
             "hha_category": {
                 "S": "Pet"
@@ -2534,6 +2957,12 @@
             "name": {
                 "S": "Turban Shell"
             },
+            "rate_maximum": {
+                "N": "10"
+            },
+            "rate_minimum": {
+                "N": "2"
+            },
             "saying": {
                 "S": "I got a turban shell! It's totally TURB...ular!"
             },
@@ -2548,6 +2977,9 @@
             },
             "size_2": {
                 "N": "1.0"
+            },
+            "size_silhouette": {
+                "S": "Small"
             },
             "unique_entry_id": {
                 "S": "efXQqEuT2yZApwmGB"
@@ -2565,6 +2997,9 @@
             },
             "description": {
                 "S": "My feathers, could there be a more adorable sea creature than the umbrella octopus? I daresay not! These deep-sea octopuses are on the smallish side and use the cutest ear-like fins to flutter about. Meanwhile, it's the web stretched between their tentacles that gives them their name. Hoo, it's true! With arms stretched wide, they look for all the world like an umbrella! Though surely the last thing the umbrella octopus wants...is to stay dry."
+            },
+            "filename_critterpedia": {
+                "S": "DiveFishMendako"
             },
             "hha_category": {
                 "S": "Pet"
@@ -2605,6 +3040,12 @@
             "name": {
                 "S": "Umbrella Octopus"
             },
+            "rate_maximum": {
+                "N": "3"
+            },
+            "rate_minimum": {
+                "N": "1"
+            },
             "saying": {
                 "S": "I got an umbrella octopus! Too bad I'm already soaked."
             },
@@ -2619,6 +3060,9 @@
             },
             "size_2": {
                 "N": "1.0"
+            },
+            "size_silhouette": {
+                "S": "Small"
             },
             "unique_entry_id": {
                 "S": "kXFeaEJCCEkQ58T2e"
@@ -2636,6 +3080,9 @@
             },
             "description": {
                 "S": "Beware the vampire squid, I say! This eight-armed deep-sea monster is out to drink your blood! Hoo hoo, ha ha! I only jest! Ahem! The Vampire Squid does, in fact, live deep in the ocean where almost no light pervades. But while it looks like it could nibble on your neck...it nibbles on the bits of dead plankton and algae instead. By all accounts, the vampire squid is a a gentle sort who squirts bioluminecesant goo at foes. Sp, how did it get the eerie official name \"Vampyroteuthis inernalis\"? That means \"vampire squid from the heck,\" you see. The problem is that the squid's \"cloak.\" Its arms are webbed with velvet-red skin and lined with toothy spikes. Plainly put, this genial squid looks for all the world like a vampire who went for a swim."
+            },
+            "filename_critterpedia": {
+                "S": "DiveFishKoumoridako"
             },
             "hha_category": {
                 "S": "Pet"
@@ -2676,6 +3123,12 @@
             "name": {
                 "S": "Vampire Squid"
             },
+            "rate_maximum": {
+                "N": "1"
+            },
+            "rate_minimum": {
+                "N": "1"
+            },
             "saying": {
                 "S": "I got a vampire squid! A lot was at stake."
             },
@@ -2690,6 +3143,9 @@
             },
             "size_2": {
                 "N": "1.0"
+            },
+            "size_silhouette": {
+                "S": "Medium"
             },
             "unique_entry_id": {
                 "S": "deJZZk2rxAnePwfzq"
@@ -2707,6 +3163,9 @@
             },
             "description": {
                 "S": "The Venus' flower basket looks like an otherworldly creature one would find on an alien planet. But it is instead a remarkable sea sponge found in the deepest parts of the ocean. Its body is composed of silica and looks like a sculpture or, perhaps, a vase made of glassy mesh. I daresay Venus' flower basket is one of nature's most impressive works of art."
+            },
+            "filename_critterpedia": {
+                "S": "DiveFishKairoudouketsu"
             },
             "hha_category": {
                 "S": "Pet"
@@ -2747,6 +3206,12 @@
             "name": {
                 "S": "Venus' flower basket"
             },
+            "rate_maximum": {
+                "N": "3"
+            },
+            "rate_minimum": {
+                "N": "1"
+            },
             "saying": {
                 "S": "I got a Venus' flower basket! Why was she picking flowers here?"
             },
@@ -2761,6 +3226,9 @@
             },
             "size_2": {
                 "N": "1.0"
+            },
+            "size_silhouette": {
+                "S": "Medium"
             },
             "unique_entry_id": {
                 "S": "mSvTRhay8tmGXseMt"
@@ -2778,6 +3246,9 @@
             },
             "description": {
                 "S": "Whelks are sea snails that migrate from deep water to shallow water when the weather changes. Avid carnivores, they feed on worms, crustaceans, and mollusks. In fact, these wily snails have been known to use their own shells to pry open the shells of their victims! They then use a rough tongue-like organ with thousands of tiny teeth to lick their victims' shells clean. Eh... you might want to put that image out of your mind when it's your turn to dine."
+            },
+            "filename_critterpedia": {
+                "S": "DiveFishBaigai"
             },
             "hha_category": {
                 "S": "Pet"
@@ -2818,6 +3289,12 @@
             "name": {
                 "S": "Whelk"
             },
+            "rate_maximum": {
+                "N": "8"
+            },
+            "rate_minimum": {
+                "N": "1"
+            },
             "saying": {
                 "S": "I got a whelk! Happy snails to ya."
             },
@@ -2832,6 +3309,9 @@
             },
             "size_2": {
                 "N": "1.0"
+            },
+            "size_silhouette": {
+                "S": "Small"
             },
             "unique_entry_id": {
                 "S": "jSidvLMAXdiDAQNs6"
