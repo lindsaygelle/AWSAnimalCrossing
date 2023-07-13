@@ -1,0 +1,351 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema",
+    "maxProperties": 40,
+    "minProperties": 40,
+    "properties": {
+        "body_category": {
+            "maxLength": 16,
+            "minLength": 4,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "buy_currency": {
+            "maxLength": 5,
+            "minLength": 5,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "buy_price": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 800000,
+            "minimum": 300,
+            "type": [
+                "integer",
+                "null"
+            ]
+        },
+        "can_customize_body": {
+            "type": [
+                "boolean"
+            ]
+        },
+        "can_customize_pattern": {
+            "type": [
+                "boolean"
+            ]
+        },
+        "color_1": {
+            "maxLength": 8,
+            "minLength": 3,
+            "type": [
+                "string"
+            ]
+        },
+        "color_2": {
+            "maxLength": 8,
+            "minLength": 3,
+            "type": [
+                "string"
+            ]
+        },
+        "cyrus_currency": {
+            "maxLength": 5,
+            "minLength": 5,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "cyrus_price": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 40000,
+            "minimum": 1000,
+            "type": [
+                "integer",
+                "null"
+            ]
+        },
+        "exchange_currency": {
+            "maxLength": 14,
+            "minLength": 4,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "exchange_price": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 720000,
+            "minimum": 3,
+            "type": [
+                "integer",
+                "null"
+            ]
+        },
+        "filename": {
+            "maxLength": 37,
+            "minLength": 5,
+            "type": [
+                "string"
+            ]
+        },
+        "hha_category": {
+            "maxLength": 17,
+            "minLength": 2,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "hha_concept_1": {
+            "maxLength": 17,
+            "minLength": 3,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "hha_concept_2": {
+            "maxLength": 17,
+            "minLength": 3,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "hha_points": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 573,
+            "minimum": 83,
+            "type": [
+                "integer"
+            ]
+        },
+        "hha_series": {
+            "maxLength": 23,
+            "minLength": 3,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "hha_set": {
+            "maxLength": 15,
+            "minLength": 3,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "image_url": {
+            "maxLength": 76,
+            "minLength": 44,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "internal_id": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 14887,
+            "minimum": 79,
+            "type": [
+                "integer"
+            ]
+        },
+        "internal_label": {
+            "type": [
+                "null"
+            ]
+        },
+        "internal_name": {
+            "type": [
+                "null"
+            ]
+        },
+        "is_craftable": {
+            "type": [
+                "boolean"
+            ]
+        },
+        "is_interactive": {
+            "type": [
+                "boolean"
+            ]
+        },
+        "is_outdoors": {
+            "type": [
+                "boolean"
+            ]
+        },
+        "is_surface": {
+            "type": [
+                "boolean"
+            ]
+        },
+        "is_unlocked": {
+            "type": [
+                "boolean"
+            ]
+        },
+        "kit_category": {
+            "maxLength": 15,
+            "minLength": 6,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "kit_currency": {
+            "maxLength": 5,
+            "minLength": 5,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "kit_price": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 50,
+            "minimum": 1,
+            "type": [
+                "integer",
+                "null"
+            ]
+        },
+        "lighting_category": {
+            "maxLength": 11,
+            "minLength": 6,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "name": {
+            "maxLength": 27,
+            "minLength": 3,
+            "type": [
+                "string"
+            ]
+        },
+        "pattern_category": {
+            "maxLength": 25,
+            "minLength": 3,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "pattern_name": {
+            "maxLength": 26,
+            "minLength": 1,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "sell_currency": {
+            "maxLength": 5,
+            "minLength": 5,
+            "type": [
+                "string"
+            ]
+        },
+        "sell_price": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 250000,
+            "minimum": 20,
+            "type": [
+                "integer"
+            ]
+        },
+        "size_1": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 3.0,
+            "minimum": 1.0,
+            "type": [
+                "number"
+            ]
+        },
+        "size_2": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 3.0,
+            "minimum": 0.5,
+            "type": [
+                "number"
+            ]
+        },
+        "speaker_category": {
+            "maxLength": 5,
+            "minLength": 5,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "unique_entry_id": {
+            "maxLength": 17,
+            "minLength": 17,
+            "type": [
+                "string"
+            ]
+        }
+    },
+    "required": [
+        "body_category",
+        "buy_currency",
+        "buy_price",
+        "can_customize_body",
+        "can_customize_pattern",
+        "color_1",
+        "color_2",
+        "cyrus_currency",
+        "cyrus_price",
+        "exchange_currency",
+        "exchange_price",
+        "filename",
+        "hha_category",
+        "hha_concept_1",
+        "hha_concept_2",
+        "hha_points",
+        "hha_series",
+        "hha_set",
+        "image_url",
+        "internal_id",
+        "internal_label",
+        "internal_name",
+        "is_craftable",
+        "is_interactive",
+        "is_outdoors",
+        "is_surface",
+        "is_unlocked",
+        "kit_category",
+        "kit_currency",
+        "kit_price",
+        "lighting_category",
+        "name",
+        "pattern_category",
+        "pattern_name",
+        "sell_currency",
+        "sell_price",
+        "size_1",
+        "size_2",
+        "speaker_category",
+        "unique_entry_id"
+    ],
+    "title": "FurnitureHousewear",
+    "type": "object"
+}

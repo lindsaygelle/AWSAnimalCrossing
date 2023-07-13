@@ -1,0 +1,206 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema",
+    "maxProperties": 24,
+    "minProperties": 24,
+    "properties": {
+        "buy_currency": {
+            "maxLength": 5,
+            "minLength": 5,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "buy_price": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 4000,
+            "minimum": 700,
+            "type": [
+                "integer",
+                "null"
+            ]
+        },
+        "color_1": {
+            "maxLength": 8,
+            "minLength": 3,
+            "type": [
+                "string"
+            ]
+        },
+        "color_2": {
+            "maxLength": 8,
+            "minLength": 3,
+            "type": [
+                "string"
+            ]
+        },
+        "exchange_currency": {
+            "maxLength": 14,
+            "minLength": 4,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "exchange_price": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 3600,
+            "minimum": 12,
+            "type": [
+                "integer",
+                "null"
+            ]
+        },
+        "filename": {
+            "maxLength": 32,
+            "minLength": 15,
+            "type": [
+                "string"
+            ]
+        },
+        "has_vfx": {
+            "type": [
+                "boolean"
+            ]
+        },
+        "hha_category": {
+            "type": [
+                "null"
+            ]
+        },
+        "hha_concept_1": {
+            "maxLength": 14,
+            "minLength": 3,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "hha_concept_2": {
+            "maxLength": 17,
+            "minLength": 3,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "hha_points": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 573,
+            "minimum": 103,
+            "type": [
+                "integer"
+            ]
+        },
+        "hha_series": {
+            "maxLength": 23,
+            "minLength": 4,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "hha_set": {
+            "type": [
+                "null"
+            ]
+        },
+        "image_url": {
+            "maxLength": 71,
+            "minLength": 54,
+            "type": [
+                "string"
+            ]
+        },
+        "internal_id": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 14897,
+            "minimum": 4797,
+            "type": [
+                "integer"
+            ]
+        },
+        "internal_label": {
+            "type": [
+                "null"
+            ]
+        },
+        "internal_name": {
+            "type": [
+                "null"
+            ]
+        },
+        "is_craftable": {
+            "type": [
+                "boolean"
+            ]
+        },
+        "is_unlocked": {
+            "type": [
+                "boolean"
+            ]
+        },
+        "name": {
+            "maxLength": 29,
+            "minLength": 6,
+            "type": [
+                "string"
+            ]
+        },
+        "sell_currency": {
+            "maxLength": 5,
+            "minLength": 5,
+            "type": [
+                "string"
+            ]
+        },
+        "sell_price": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 40000,
+            "minimum": 120,
+            "type": [
+                "integer"
+            ]
+        },
+        "unique_entry_id": {
+            "maxLength": 17,
+            "minLength": 17,
+            "type": [
+                "string"
+            ]
+        }
+    },
+    "required": [
+        "buy_currency",
+        "buy_price",
+        "color_1",
+        "color_2",
+        "exchange_currency",
+        "exchange_price",
+        "filename",
+        "has_vfx",
+        "hha_category",
+        "hha_concept_1",
+        "hha_concept_2",
+        "hha_points",
+        "hha_series",
+        "hha_set",
+        "image_url",
+        "internal_id",
+        "internal_label",
+        "internal_name",
+        "is_craftable",
+        "is_unlocked",
+        "name",
+        "sell_currency",
+        "sell_price",
+        "unique_entry_id"
+    ],
+    "title": "FurnitureFloor",
+    "type": "object"
+}

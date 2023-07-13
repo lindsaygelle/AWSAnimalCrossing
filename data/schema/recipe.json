@@ -1,0 +1,151 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema",
+    "maxProperties": 16,
+    "minProperties": 16,
+    "properties": {
+        "buy_currency": {
+            "maxLength": 5,
+            "minLength": 5,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "buy_price": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 2000,
+            "minimum": 280,
+            "type": [
+                "integer",
+                "null"
+            ]
+        },
+        "card_color": {
+            "maxLength": 10,
+            "minLength": 3,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "exchange_currency": {
+            "maxLength": 10,
+            "minLength": 10,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "exchange_price": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 6000,
+            "minimum": 800,
+            "type": [
+                "integer",
+                "null"
+            ]
+        },
+        "image_sh_url": {
+            "maxLength": 78,
+            "minLength": 71,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "image_url": {
+            "maxLength": 82,
+            "minLength": 51,
+            "type": [
+                "string"
+            ]
+        },
+        "internal_id": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 1072,
+            "minimum": 6,
+            "type": [
+                "integer"
+            ]
+        },
+        "internal_label": {
+            "type": [
+                "null"
+            ]
+        },
+        "internal_name": {
+            "type": [
+                "null"
+            ]
+        },
+        "is_unlocked": {
+            "type": [
+                "boolean"
+            ]
+        },
+        "name": {
+            "maxLength": 28,
+            "minLength": 3,
+            "type": [
+                "string"
+            ]
+        },
+        "sell_currency": {
+            "maxLength": 5,
+            "minLength": 5,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "sell_price": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 200,
+            "minimum": 200,
+            "type": [
+                "integer",
+                "null"
+            ]
+        },
+        "unique_entry_id": {
+            "maxLength": 17,
+            "minLength": 17,
+            "type": [
+                "string"
+            ]
+        },
+        "unlock_number": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 200,
+            "minimum": 0,
+            "type": [
+                "integer"
+            ]
+        }
+    },
+    "required": [
+        "buy_currency",
+        "buy_price",
+        "card_color",
+        "exchange_currency",
+        "exchange_price",
+        "image_sh_url",
+        "image_url",
+        "internal_id",
+        "internal_label",
+        "internal_name",
+        "is_unlocked",
+        "name",
+        "sell_currency",
+        "sell_price",
+        "unique_entry_id",
+        "unlock_number"
+    ],
+    "title": "Recipe",
+    "type": "object"
+}

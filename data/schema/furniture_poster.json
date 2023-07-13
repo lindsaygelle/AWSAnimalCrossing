@@ -1,0 +1,183 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema",
+    "maxProperties": 22,
+    "minProperties": 22,
+    "properties": {
+        "buy_currency": {
+            "maxLength": 5,
+            "minLength": 5,
+            "type": [
+                "string"
+            ]
+        },
+        "buy_price": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 1000,
+            "minimum": 1000,
+            "type": [
+                "integer"
+            ]
+        },
+        "color_1": {
+            "maxLength": 8,
+            "minLength": 3,
+            "type": [
+                "string"
+            ]
+        },
+        "color_2": {
+            "maxLength": 8,
+            "minLength": 3,
+            "type": [
+                "string"
+            ]
+        },
+        "filename": {
+            "maxLength": 19,
+            "minLength": 14,
+            "type": [
+                "string"
+            ]
+        },
+        "hha_category": {
+            "type": [
+                "null"
+            ]
+        },
+        "hha_concept_1": {
+            "type": [
+                "null"
+            ]
+        },
+        "hha_concept_2": {
+            "type": [
+                "null"
+            ]
+        },
+        "hha_points": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 251,
+            "minimum": 251,
+            "type": [
+                "integer"
+            ]
+        },
+        "hha_series": {
+            "type": [
+                "null"
+            ]
+        },
+        "hha_set": {
+            "type": [
+                "null"
+            ]
+        },
+        "image_url": {
+            "maxLength": 58,
+            "minLength": 53,
+            "type": [
+                "string"
+            ]
+        },
+        "internal_id": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 14869,
+            "minimum": 10312,
+            "type": [
+                "integer"
+            ]
+        },
+        "internal_label": {
+            "type": [
+                "null"
+            ]
+        },
+        "internal_name": {
+            "type": [
+                "null"
+            ]
+        },
+        "is_unlocked": {
+            "type": [
+                "boolean"
+            ]
+        },
+        "name": {
+            "maxLength": 22,
+            "minLength": 11,
+            "type": [
+                "string"
+            ]
+        },
+        "sell_currency": {
+            "maxLength": 5,
+            "minLength": 5,
+            "type": [
+                "string"
+            ]
+        },
+        "sell_price": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 250,
+            "minimum": 250,
+            "type": [
+                "integer"
+            ]
+        },
+        "size_1": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 1.0,
+            "minimum": 1.0,
+            "type": [
+                "number"
+            ]
+        },
+        "size_2": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 1.0,
+            "minimum": 1.0,
+            "type": [
+                "number"
+            ]
+        },
+        "unique_entry_id": {
+            "maxLength": 17,
+            "minLength": 17,
+            "type": [
+                "string"
+            ]
+        }
+    },
+    "required": [
+        "buy_currency",
+        "buy_price",
+        "color_1",
+        "color_2",
+        "filename",
+        "hha_category",
+        "hha_concept_1",
+        "hha_concept_2",
+        "hha_points",
+        "hha_series",
+        "hha_set",
+        "image_url",
+        "internal_id",
+        "internal_label",
+        "internal_name",
+        "is_unlocked",
+        "name",
+        "sell_currency",
+        "sell_price",
+        "size_1",
+        "size_2",
+        "unique_entry_id"
+    ],
+    "title": "FurniturePoster",
+    "type": "object"
+}

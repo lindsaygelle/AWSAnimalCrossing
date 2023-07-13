@@ -1,0 +1,208 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema",
+    "maxProperties": 24,
+    "minProperties": 24,
+    "properties": {
+        "birth_day": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 31,
+            "minimum": 1,
+            "type": [
+                "integer"
+            ]
+        },
+        "birth_month": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 12,
+            "minimum": 1,
+            "type": [
+                "integer"
+            ]
+        },
+        "bubble_color": {
+            "maxLength": 7,
+            "minLength": 7,
+            "type": [
+                "string"
+            ]
+        },
+        "color_1": {
+            "maxLength": 8,
+            "minLength": 3,
+            "type": [
+                "string"
+            ]
+        },
+        "color_2": {
+            "maxLength": 8,
+            "minLength": 3,
+            "type": [
+                "string"
+            ]
+        },
+        "filename": {
+            "maxLength": 5,
+            "minLength": 5,
+            "type": [
+                "string"
+            ]
+        },
+        "floor_name": {
+            "maxLength": 28,
+            "minLength": 6,
+            "type": [
+                "string"
+            ]
+        },
+        "gender": {
+            "maxLength": 6,
+            "minLength": 4,
+            "type": [
+                "string"
+            ]
+        },
+        "hobby_name": {
+            "maxLength": 9,
+            "minLength": 4,
+            "type": [
+                "string"
+            ]
+        },
+        "image_house_url": {
+            "maxLength": 68,
+            "minLength": 58,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "image_icon_url": {
+            "maxLength": 44,
+            "minLength": 44,
+            "type": [
+                "string"
+            ]
+        },
+        "image_photo": {
+            "maxLength": 53,
+            "minLength": 53,
+            "type": [
+                "string"
+            ]
+        },
+        "motto": {
+            "maxLength": 15,
+            "minLength": 3,
+            "type": [
+                "string"
+            ]
+        },
+        "name": {
+            "maxLength": 10,
+            "minLength": 2,
+            "type": [
+                "string"
+            ]
+        },
+        "name_color": {
+            "maxLength": 7,
+            "minLength": 7,
+            "type": [
+                "string"
+            ]
+        },
+        "personality_category": {
+            "maxLength": 1,
+            "minLength": 1,
+            "type": [
+                "string"
+            ]
+        },
+        "personality_name": {
+            "maxLength": 10,
+            "minLength": 4,
+            "type": [
+                "string"
+            ]
+        },
+        "saying": {
+            "maxLength": 77,
+            "minLength": 9,
+            "type": [
+                "string"
+            ]
+        },
+        "song_name": {
+            "maxLength": 16,
+            "minLength": 7,
+            "type": [
+                "string"
+            ]
+        },
+        "species_name": {
+            "maxLength": 10,
+            "minLength": 3,
+            "type": [
+                "string"
+            ]
+        },
+        "style_1": {
+            "maxLength": 8,
+            "minLength": 4,
+            "type": [
+                "string"
+            ]
+        },
+        "style_2": {
+            "maxLength": 8,
+            "minLength": 4,
+            "type": [
+                "string"
+            ]
+        },
+        "unique_entry_id": {
+            "maxLength": 17,
+            "minLength": 17,
+            "type": [
+                "string"
+            ]
+        },
+        "wallpaper_name": {
+            "maxLength": 27,
+            "minLength": 8,
+            "type": [
+                "string"
+            ]
+        }
+    },
+    "required": [
+        "birth_day",
+        "birth_month",
+        "bubble_color",
+        "color_1",
+        "color_2",
+        "filename",
+        "floor_name",
+        "gender",
+        "hobby_name",
+        "image_house_url",
+        "image_icon_url",
+        "image_photo",
+        "motto",
+        "name",
+        "name_color",
+        "personality_category",
+        "personality_name",
+        "saying",
+        "song_name",
+        "species_name",
+        "style_1",
+        "style_2",
+        "unique_entry_id",
+        "wallpaper_name"
+    ],
+    "title": "Villager",
+    "type": "object"
+}
