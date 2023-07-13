@@ -1,0 +1,230 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema",
+    "maxProperties": 27,
+    "minProperties": 27,
+    "properties": {
+        "color_1": {
+            "maxLength": 6,
+            "minLength": 3,
+            "type": [
+                "string"
+            ]
+        },
+        "color_2": {
+            "maxLength": 6,
+            "minLength": 4,
+            "type": [
+                "string"
+            ]
+        },
+        "description": {
+            "maxLength": 603,
+            "minLength": 257,
+            "type": [
+                "string"
+            ]
+        },
+        "filename_critterpedia": {
+            "maxLength": 31,
+            "minLength": 8,
+            "type": [
+                "string"
+            ]
+        },
+        "hha_category": {
+            "maxLength": 3,
+            "minLength": 3,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "hha_concept_1": {
+            "type": [
+                "null"
+            ]
+        },
+        "hha_concept_2": {
+            "type": [
+                "null"
+            ]
+        },
+        "hha_points": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 64,
+            "minimum": 64,
+            "type": [
+                "integer"
+            ]
+        },
+        "hha_series": {
+            "type": [
+                "null"
+            ]
+        },
+        "hha_set": {
+            "type": [
+                "null"
+            ]
+        },
+        "image_critterpedia": {
+            "maxLength": 84,
+            "minLength": 61,
+            "type": [
+                "string"
+            ]
+        },
+        "image_furniture_url": {
+            "maxLength": 80,
+            "minLength": 57,
+            "type": [
+                "string"
+            ]
+        },
+        "image_icon_url": {
+            "maxLength": 45,
+            "minLength": 44,
+            "type": [
+                "string"
+            ]
+        },
+        "internal_id": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 5339,
+            "minimum": 582,
+            "type": [
+                "integer"
+            ]
+        },
+        "internal_label": {
+            "type": [
+                "null"
+            ]
+        },
+        "internal_name": {
+            "type": [
+                "null"
+            ]
+        },
+        "is_surface": {
+            "type": [
+                "boolean"
+            ]
+        },
+        "name": {
+            "maxLength": 26,
+            "minLength": 3,
+            "type": [
+                "string"
+            ]
+        },
+        "rate_maximum": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 200,
+            "minimum": 0,
+            "type": [
+                "integer"
+            ]
+        },
+        "rate_minimum": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 200,
+            "minimum": 0,
+            "type": [
+                "integer"
+            ]
+        },
+        "saying": {
+            "maxLength": 149,
+            "minLength": 36,
+            "type": [
+                "string"
+            ]
+        },
+        "sell_currency": {
+            "maxLength": 5,
+            "minLength": 5,
+            "type": [
+                "string"
+            ]
+        },
+        "sell_price": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 12000,
+            "minimum": 10,
+            "type": [
+                "integer"
+            ]
+        },
+        "size_1": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 1.0,
+            "minimum": 1.0,
+            "type": [
+                "number"
+            ]
+        },
+        "size_2": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 1.0,
+            "minimum": 1.0,
+            "type": [
+                "number"
+            ]
+        },
+        "unique_entry_id": {
+            "maxLength": 17,
+            "minLength": 17,
+            "type": [
+                "string"
+            ]
+        },
+        "unlock_number": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 100,
+            "minimum": 0,
+            "type": [
+                "integer"
+            ]
+        }
+    },
+    "required": [
+        "color_1",
+        "color_2",
+        "description",
+        "filename_critterpedia",
+        "hha_category",
+        "hha_concept_1",
+        "hha_concept_2",
+        "hha_points",
+        "hha_series",
+        "hha_set",
+        "image_critterpedia",
+        "image_furniture_url",
+        "image_icon_url",
+        "internal_id",
+        "internal_label",
+        "internal_name",
+        "is_surface",
+        "name",
+        "rate_maximum",
+        "rate_minimum",
+        "saying",
+        "sell_currency",
+        "sell_price",
+        "size_1",
+        "size_2",
+        "unique_entry_id",
+        "unlock_number"
+    ],
+    "title": "CreatureInsect",
+    "type": "object"
+}

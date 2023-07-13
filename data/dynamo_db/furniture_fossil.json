@@ -40,6 +40,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilFirstFourLegs.png"
+            },
             "internal_id": {
                 "N": "4664"
             },
@@ -54,6 +57,9 @@
             },
             "name": {
                 "S": "Acanthostega"
+            },
+            "room_number": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -114,6 +120,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilAmber.png"
+            },
             "internal_id": {
                 "N": "294"
             },
@@ -128,6 +137,9 @@
             },
             "name": {
                 "S": "Amber"
+            },
+            "room_number": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -188,6 +200,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilAmmonoidea.png"
+            },
             "internal_id": {
                 "N": "295"
             },
@@ -202,6 +217,9 @@
             },
             "name": {
                 "S": "Ammonite"
+            },
+            "room_number": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -262,6 +280,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilAnkylosaurusA.png"
+            },
             "internal_id": {
                 "N": "169"
             },
@@ -276,6 +297,9 @@
             },
             "name": {
                 "S": "Ankylo Skull"
+            },
+            "room_number": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -336,6 +360,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilAnkylosaurusC.png"
+            },
             "internal_id": {
                 "N": "171"
             },
@@ -350,6 +377,9 @@
             },
             "name": {
                 "S": "Ankylo Tail"
+            },
+            "room_number": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -410,6 +440,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilAnkylosaurusB.png"
+            },
             "internal_id": {
                 "N": "170"
             },
@@ -424,6 +457,9 @@
             },
             "name": {
                 "S": "Ankylo Torso"
+            },
+            "room_number": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -484,6 +520,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilAnomalocaris.png"
+            },
             "internal_id": {
                 "N": "4651"
             },
@@ -498,6 +537,9 @@
             },
             "name": {
                 "S": "Anomalocaris"
+            },
+            "room_number": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -558,6 +600,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilArchaeopteryx.png"
+            },
             "internal_id": {
                 "N": "298"
             },
@@ -572,6 +617,9 @@
             },
             "name": {
                 "S": "Archaeopteryx"
+            },
+            "room_number": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -632,6 +680,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilArchelonA.png"
+            },
             "internal_id": {
                 "N": "177"
             },
@@ -646,6 +697,9 @@
             },
             "name": {
                 "S": "Archelon Skull"
+            },
+            "room_number": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -706,6 +760,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilArchelonB.png"
+            },
             "internal_id": {
                 "N": "178"
             },
@@ -720,6 +777,9 @@
             },
             "name": {
                 "S": "Archelon Tail"
+            },
+            "room_number": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -780,6 +840,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilAustralopithecus.png"
+            },
             "internal_id": {
                 "N": "301"
             },
@@ -794,6 +857,9 @@
             },
             "name": {
                 "S": "Australopith"
+            },
+            "room_number": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -854,6 +920,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilBrachiosaurusB.png"
+            },
             "internal_id": {
                 "N": "4689"
             },
@@ -868,6 +937,9 @@
             },
             "name": {
                 "S": "Brachio Chest"
+            },
+            "room_number": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -928,6 +1000,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilBrachiosaurusC.png"
+            },
             "internal_id": {
                 "N": "4690"
             },
@@ -942,6 +1017,9 @@
             },
             "name": {
                 "S": "Brachio Pelvis"
+            },
+            "room_number": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1002,6 +1080,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilBrachiosaurusA.png"
+            },
             "internal_id": {
                 "N": "4688"
             },
@@ -1016,6 +1097,9 @@
             },
             "name": {
                 "S": "Brachio Skull"
+            },
+            "room_number": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1076,6 +1160,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilBrachiosaurusD.png"
+            },
             "internal_id": {
                 "N": "4691"
             },
@@ -1090,6 +1177,9 @@
             },
             "name": {
                 "S": "Brachio Tail"
+            },
+            "room_number": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1150,6 +1240,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilCoprolite.png"
+            },
             "internal_id": {
                 "N": "296"
             },
@@ -1164,6 +1257,9 @@
             },
             "name": {
                 "S": "Coprolite"
+            },
+            "room_number": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1224,6 +1320,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilDeinonychusB.png"
+            },
             "internal_id": {
                 "N": "211"
             },
@@ -1238,6 +1337,9 @@
             },
             "name": {
                 "S": "Deinony Tail"
+            },
+            "room_number": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1298,6 +1400,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilDeinonychusA.png"
+            },
             "internal_id": {
                 "N": "210"
             },
@@ -1312,6 +1417,9 @@
             },
             "name": {
                 "S": "Deinony Torso"
+            },
+            "room_number": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1372,6 +1480,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilDimetrodonA.png"
+            },
             "internal_id": {
                 "N": "184"
             },
@@ -1386,6 +1497,9 @@
             },
             "name": {
                 "S": "Dimetrodon Skull"
+            },
+            "room_number": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1446,6 +1560,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilDimetrodonB.png"
+            },
             "internal_id": {
                 "N": "185"
             },
@@ -1460,6 +1577,9 @@
             },
             "name": {
                 "S": "Dimetrodon Torso"
+            },
+            "room_number": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1520,6 +1640,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilIchnology.png"
+            },
             "internal_id": {
                 "N": "300"
             },
@@ -1534,6 +1657,9 @@
             },
             "name": {
                 "S": "Dinosaur Track"
+            },
+            "room_number": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1594,6 +1720,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilDiplodocusC.png"
+            },
             "internal_id": {
                 "N": "218"
             },
@@ -1608,6 +1737,9 @@
             },
             "name": {
                 "S": "Diplo Chest"
+            },
+            "room_number": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1668,6 +1800,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilDiplodocusB.png"
+            },
             "internal_id": {
                 "N": "217"
             },
@@ -1682,6 +1817,9 @@
             },
             "name": {
                 "S": "Diplo Neck"
+            },
+            "room_number": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1742,6 +1880,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilDiplodocusD.png"
+            },
             "internal_id": {
                 "N": "219"
             },
@@ -1756,6 +1897,9 @@
             },
             "name": {
                 "S": "Diplo Pelvis"
+            },
+            "room_number": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1816,6 +1960,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilDiplodocusA.png"
+            },
             "internal_id": {
                 "N": "216"
             },
@@ -1830,6 +1977,9 @@
             },
             "name": {
                 "S": "Diplo Skull"
+            },
+            "room_number": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1890,6 +2040,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilDiplodocusE.png"
+            },
             "internal_id": {
                 "N": "220"
             },
@@ -1904,6 +2057,9 @@
             },
             "name": {
                 "S": "Diplo Tail"
+            },
+            "room_number": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1964,6 +2120,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilDiplodocusF.png"
+            },
             "internal_id": {
                 "N": "7251"
             },
@@ -1978,6 +2137,9 @@
             },
             "name": {
                 "S": "Diplo Tail Tip"
+            },
+            "room_number": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2038,6 +2200,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilDunkleosteus.png"
+            },
             "internal_id": {
                 "N": "4660"
             },
@@ -2052,6 +2217,9 @@
             },
             "name": {
                 "S": "Dunkleosteus"
+            },
+            "room_number": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2112,6 +2280,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilFirstAmphibian.png"
+            },
             "internal_id": {
                 "N": "4663"
             },
@@ -2126,6 +2297,9 @@
             },
             "name": {
                 "S": "Eusthenopteron"
+            },
+            "room_number": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2186,6 +2360,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilIguanodonA.png"
+            },
             "internal_id": {
                 "N": "188"
             },
@@ -2200,6 +2377,9 @@
             },
             "name": {
                 "S": "Iguanodon Skull"
+            },
+            "room_number": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2260,6 +2440,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilIguanodonC.png"
+            },
             "internal_id": {
                 "N": "190"
             },
@@ -2274,6 +2457,9 @@
             },
             "name": {
                 "S": "Iguanodon Tail"
+            },
+            "room_number": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2334,6 +2520,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilIguanodonB.png"
+            },
             "internal_id": {
                 "N": "189"
             },
@@ -2348,6 +2537,9 @@
             },
             "name": {
                 "S": "Iguanodon Torso"
+            },
+            "room_number": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2408,6 +2600,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilFirstMammal.png"
+            },
             "internal_id": {
                 "N": "4665"
             },
@@ -2422,6 +2617,9 @@
             },
             "name": {
                 "S": "Juramaia"
+            },
+            "room_number": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2482,6 +2680,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilMegalocerosB.png"
+            },
             "internal_id": {
                 "N": "4659"
             },
@@ -2496,6 +2697,9 @@
             },
             "name": {
                 "S": "Left Megalo Side"
+            },
+            "room_number": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2556,6 +2760,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilPteranodonC.png"
+            },
             "internal_id": {
                 "N": "208"
             },
@@ -2570,6 +2777,9 @@
             },
             "name": {
                 "S": "Left Ptera Wing"
+            },
+            "room_number": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2630,6 +2840,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilQuetzalcoatlusC.png"
+            },
             "internal_id": {
                 "N": "4699"
             },
@@ -2644,6 +2857,9 @@
             },
             "name": {
                 "S": "Left Quetzal Wing"
+            },
+            "room_number": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2704,6 +2920,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilMammothA.png"
+            },
             "internal_id": {
                 "N": "195"
             },
@@ -2718,6 +2937,9 @@
             },
             "name": {
                 "S": "Mammoth Skull"
+            },
+            "room_number": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2778,6 +3000,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilMammothB.png"
+            },
             "internal_id": {
                 "N": "196"
             },
@@ -2792,6 +3017,9 @@
             },
             "name": {
                 "S": "Mammoth Torso"
+            },
+            "room_number": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2852,6 +3080,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilBrontotheriumA.png"
+            },
             "internal_id": {
                 "N": "180"
             },
@@ -2866,6 +3097,9 @@
             },
             "name": {
                 "S": "Megacero Skull"
+            },
+            "room_number": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2926,6 +3160,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilBrontotheriumC.png"
+            },
             "internal_id": {
                 "N": "182"
             },
@@ -2940,6 +3177,9 @@
             },
             "name": {
                 "S": "Megacero Tail"
+            },
+            "room_number": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3000,6 +3240,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilBrontotheriumB.png"
+            },
             "internal_id": {
                 "N": "181"
             },
@@ -3014,6 +3257,9 @@
             },
             "name": {
                 "S": "Megacero Torso"
+            },
+            "room_number": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3074,6 +3320,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilFirstFish.png"
+            },
             "internal_id": {
                 "N": "4662"
             },
@@ -3088,6 +3337,9 @@
             },
             "name": {
                 "S": "Myllokunmingia"
+            },
+            "room_number": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3148,6 +3400,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilOphthalmosaurusA.png"
+            },
             "internal_id": {
                 "N": "192"
             },
@@ -3162,6 +3417,9 @@
             },
             "name": {
                 "S": "Ophthalmo Skull"
+            },
+            "room_number": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3222,6 +3480,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilOphthalmosaurusB.png"
+            },
             "internal_id": {
                 "N": "193"
             },
@@ -3236,6 +3497,9 @@
             },
             "name": {
                 "S": "Ophthalmo Torso"
+            },
+            "room_number": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3296,6 +3560,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilPachycephalosaurusA.png"
+            },
             "internal_id": {
                 "N": "198"
             },
@@ -3310,6 +3577,9 @@
             },
             "name": {
                 "S": "Pachy Skull"
+            },
+            "room_number": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3370,6 +3640,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilPachycephalosaurusB.png"
+            },
             "internal_id": {
                 "N": "199"
             },
@@ -3384,6 +3657,9 @@
             },
             "name": {
                 "S": "Pachy Tail"
+            },
+            "room_number": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3444,6 +3720,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilParasaurolophusA.png"
+            },
             "internal_id": {
                 "N": "202"
             },
@@ -3458,6 +3737,9 @@
             },
             "name": {
                 "S": "Parasaur Skull"
+            },
+            "room_number": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3518,6 +3800,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilParasaurolophusC.png"
+            },
             "internal_id": {
                 "N": "204"
             },
@@ -3532,6 +3817,9 @@
             },
             "name": {
                 "S": "Parasaur Tail"
+            },
+            "room_number": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3592,6 +3880,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilParasaurolophusB.png"
+            },
             "internal_id": {
                 "N": "203"
             },
@@ -3606,6 +3897,9 @@
             },
             "name": {
                 "S": "Parasaur Torso"
+            },
+            "room_number": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3666,6 +3960,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilElasmosaurusA.png"
+            },
             "internal_id": {
                 "N": "234"
             },
@@ -3680,6 +3977,9 @@
             },
             "name": {
                 "S": "Plesio Skull"
+            },
+            "room_number": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3740,6 +4040,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilElasmosaurusC.png"
+            },
             "internal_id": {
                 "N": "236"
             },
@@ -3754,6 +4057,9 @@
             },
             "name": {
                 "S": "Plesio Tail"
+            },
+            "room_number": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3814,6 +4120,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilElasmosaurusB.png"
+            },
             "internal_id": {
                 "N": "235"
             },
@@ -3828,6 +4137,9 @@
             },
             "name": {
                 "S": "Plesio Torso"
+            },
+            "room_number": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3888,6 +4200,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilPteranodonA.png"
+            },
             "internal_id": {
                 "N": "206"
             },
@@ -3902,6 +4217,9 @@
             },
             "name": {
                 "S": "Ptera Body"
+            },
+            "room_number": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3962,6 +4280,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilQuetzalcoatlusA.png"
+            },
             "internal_id": {
                 "N": "4697"
             },
@@ -3976,6 +4297,9 @@
             },
             "name": {
                 "S": "Quetzal Torso"
+            },
+            "room_number": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -4036,6 +4360,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilMegalocerosA.png"
+            },
             "internal_id": {
                 "N": "4658"
             },
@@ -4050,6 +4377,9 @@
             },
             "name": {
                 "S": "Right Megalo Side"
+            },
+            "room_number": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -4110,6 +4440,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilPteranodonB.png"
+            },
             "internal_id": {
                 "N": "207"
             },
@@ -4124,6 +4457,9 @@
             },
             "name": {
                 "S": "Right Ptera Wing"
+            },
+            "room_number": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -4184,6 +4520,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilQuetzalcoatlusB.png"
+            },
             "internal_id": {
                 "N": "4698"
             },
@@ -4198,6 +4537,9 @@
             },
             "name": {
                 "S": "Right Quetzal Wing"
+            },
+            "room_number": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -4258,6 +4600,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilSmilodonA.png"
+            },
             "internal_id": {
                 "N": "213"
             },
@@ -4272,6 +4617,9 @@
             },
             "name": {
                 "S": "Sabertooth Skull"
+            },
+            "room_number": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -4332,6 +4680,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilSmilodonB.png"
+            },
             "internal_id": {
                 "N": "214"
             },
@@ -4346,6 +4697,9 @@
             },
             "name": {
                 "S": "Sabertooth Tail"
+            },
+            "room_number": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -4406,6 +4760,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilShark.png"
+            },
             "internal_id": {
                 "N": "302"
             },
@@ -4420,6 +4777,9 @@
             },
             "name": {
                 "S": "Shark-tooth Pattern"
+            },
+            "room_number": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -4480,6 +4840,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilSpinosaurusA.png"
+            },
             "internal_id": {
                 "N": "222"
             },
@@ -4494,6 +4857,9 @@
             },
             "name": {
                 "S": "Spino Skull"
+            },
+            "room_number": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -4554,6 +4920,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilSpinosaurusC.png"
+            },
             "internal_id": {
                 "N": "224"
             },
@@ -4568,6 +4937,9 @@
             },
             "name": {
                 "S": "Spino Tail"
+            },
+            "room_number": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -4628,6 +5000,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilSpinosaurusB.png"
+            },
             "internal_id": {
                 "N": "223"
             },
@@ -4642,6 +5017,9 @@
             },
             "name": {
                 "S": "Spino Torso"
+            },
+            "room_number": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -4702,6 +5080,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilStegosaurusA.png"
+            },
             "internal_id": {
                 "N": "226"
             },
@@ -4716,6 +5097,9 @@
             },
             "name": {
                 "S": "Stego Skull"
+            },
+            "room_number": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -4776,6 +5160,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilStegosaurusC.png"
+            },
             "internal_id": {
                 "N": "228"
             },
@@ -4790,6 +5177,9 @@
             },
             "name": {
                 "S": "Stego Tail"
+            },
+            "room_number": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -4850,6 +5240,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilStegosaurusB.png"
+            },
             "internal_id": {
                 "N": "227"
             },
@@ -4864,6 +5257,9 @@
             },
             "name": {
                 "S": "Stego Torso"
+            },
+            "room_number": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -4924,6 +5320,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilTRexA.png"
+            },
             "internal_id": {
                 "N": "238"
             },
@@ -4938,6 +5337,9 @@
             },
             "name": {
                 "S": "T. rex skull"
+            },
+            "room_number": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -4998,6 +5400,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilTRexC.png"
+            },
             "internal_id": {
                 "N": "240"
             },
@@ -5012,6 +5417,9 @@
             },
             "name": {
                 "S": "T. rex tail"
+            },
+            "room_number": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -5072,6 +5480,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilTRexB.png"
+            },
             "internal_id": {
                 "N": "239"
             },
@@ -5086,6 +5497,9 @@
             },
             "name": {
                 "S": "T. rex torso"
+            },
+            "room_number": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -5146,6 +5560,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilTriceratopsA.png"
+            },
             "internal_id": {
                 "N": "242"
             },
@@ -5160,6 +5577,9 @@
             },
             "name": {
                 "S": "Tricera Skull"
+            },
+            "room_number": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -5220,6 +5640,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilTriceratopsC.png"
+            },
             "internal_id": {
                 "N": "244"
             },
@@ -5234,6 +5657,9 @@
             },
             "name": {
                 "S": "Tricera Tail"
+            },
+            "room_number": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -5294,6 +5720,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilTriceratopsB.png"
+            },
             "internal_id": {
                 "N": "243"
             },
@@ -5308,6 +5737,9 @@
             },
             "name": {
                 "S": "Tricera Torso"
+            },
+            "room_number": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -5368,6 +5800,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFossilTrilobite.png"
+            },
             "internal_id": {
                 "N": "303"
             },
@@ -5382,6 +5817,9 @@
             },
             "name": {
                 "S": "Trilobite"
+            },
+            "room_number": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"

@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 8,
-    "minProperties": 8,
+    "maxProperties": 9,
+    "minProperties": 9,
     "properties": {
         "criteria": {
             "maxLength": 130,
@@ -50,6 +50,15 @@
                 "string"
             ]
         },
+        "tiers": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 6,
+            "minimum": 1,
+            "type": [
+                "integer"
+            ]
+        },
         "unique_entry_id": {
             "maxLength": 17,
             "minLength": 17,
@@ -66,6 +75,7 @@
         "internal_name",
         "is_sequential",
         "name",
+        "tiers",
         "unique_entry_id"
     ],
     "title": "Achievement",

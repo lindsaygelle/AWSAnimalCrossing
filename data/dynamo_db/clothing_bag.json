@@ -43,6 +43,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderAcorn0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderAcorn0.png"
+            },
             "internal_id": {
                 "N": "7492"
             },
@@ -63,6 +69,9 @@
             },
             "name": {
                 "S": "Acorn Pochette"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -132,6 +141,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "NULL": true
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/ToolBagPaperfashion0.png"
+            },
             "internal_id": {
                 "N": "14870"
             },
@@ -152,6 +167,9 @@
             },
             "name": {
                 "S": "Apparel-shop Paper Bag"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -221,6 +239,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "NULL": true
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/ToolBagPaperfashion1.png"
+            },
             "internal_id": {
                 "N": "306"
             },
@@ -241,6 +265,9 @@
             },
             "name": {
                 "S": "Apparel-shop Paper Bag"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -310,6 +337,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderGamaguchiAsian0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderGamaguchiAsian0.png"
+            },
             "internal_id": {
                 "N": "14859"
             },
@@ -330,6 +363,9 @@
             },
             "name": {
                 "S": "Asian-style clasp purse"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -399,6 +435,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderGamaguchiAsian1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderGamaguchiAsian1.png"
+            },
             "internal_id": {
                 "N": "352"
             },
@@ -419,6 +461,9 @@
             },
             "name": {
                 "S": "Asian-style clasp purse"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -488,6 +533,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "NULL": true
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/ToolBagBasket0.png"
+            },
             "internal_id": {
                 "N": "14791"
             },
@@ -508,6 +559,9 @@
             },
             "name": {
                 "S": "Basket Bag"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -577,6 +631,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "NULL": true
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/ToolBagBasket2.png"
+            },
             "internal_id": {
                 "N": "369"
             },
@@ -597,6 +657,9 @@
             },
             "name": {
                 "S": "Basket Bag"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -666,6 +729,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "NULL": true
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/ToolBagBasket1.png"
+            },
             "internal_id": {
                 "N": "368"
             },
@@ -686,6 +755,9 @@
             },
             "name": {
                 "S": "Basket Bag"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -755,6 +827,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackBasket0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackBasket0.png"
+            },
             "internal_id": {
                 "N": "7506"
             },
@@ -775,6 +853,9 @@
             },
             "name": {
                 "S": "Basket Pack"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -844,6 +925,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderGamaguchiBijou0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderGamaguchiBijou0.png"
+            },
             "internal_id": {
                 "N": "14861"
             },
@@ -864,6 +951,9 @@
             },
             "name": {
                 "S": "Beaded Clasp Purse"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -933,6 +1023,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderGamaguchiBijou1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderGamaguchiBijou1.png"
+            },
             "internal_id": {
                 "N": "355"
             },
@@ -953,6 +1049,9 @@
             },
             "name": {
                 "S": "Beaded Clasp Purse"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1022,6 +1121,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderGamaguchiBijou2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderGamaguchiBijou2.png"
+            },
             "internal_id": {
                 "N": "356"
             },
@@ -1042,6 +1147,9 @@
             },
             "name": {
                 "S": "Beaded Clasp Purse"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1111,6 +1219,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackBear0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackBear0.png"
+            },
             "internal_id": {
                 "N": "12877"
             },
@@ -1131,6 +1245,9 @@
             },
             "name": {
                 "S": "Bear Backpack"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1200,6 +1317,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackBear1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackBear1.png"
+            },
             "internal_id": {
                 "N": "339"
             },
@@ -1220,6 +1343,9 @@
             },
             "name": {
                 "S": "Bear Backpack"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1289,6 +1415,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackBear2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackBear2.png"
+            },
             "internal_id": {
                 "N": "714"
             },
@@ -1309,6 +1441,9 @@
             },
             "name": {
                 "S": "Bear Backpack"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1378,6 +1513,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackBear3.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackBear3.png"
+            },
             "internal_id": {
                 "N": "718"
             },
@@ -1398,6 +1539,9 @@
             },
             "name": {
                 "S": "Bear Backpack"
+            },
+            "order": {
+                "N": "4"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1467,6 +1611,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackBear4.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackBear4.png"
+            },
             "internal_id": {
                 "N": "719"
             },
@@ -1487,6 +1637,9 @@
             },
             "name": {
                 "S": "Bear Backpack"
+            },
+            "order": {
+                "N": "5"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1556,6 +1709,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackTownPattern0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackTownPattern0.png"
+            },
             "internal_id": {
                 "N": "14782"
             },
@@ -1576,6 +1735,9 @@
             },
             "name": {
                 "S": "Botanical-print Backpack"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1645,6 +1807,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackTownPattern1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackTownPattern1.png"
+            },
             "internal_id": {
                 "N": "675"
             },
@@ -1665,6 +1833,9 @@
             },
             "name": {
                 "S": "Botanical-print Backpack"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1734,6 +1905,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "NULL": true
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/ToolBagEcobread0.png"
+            },
             "internal_id": {
                 "N": "14813"
             },
@@ -1754,6 +1931,9 @@
             },
             "name": {
                 "S": "Bread-print Eco Bag"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1823,6 +2003,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderCage0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderCage0.png"
+            },
             "internal_id": {
                 "N": "7479"
             },
@@ -1843,6 +2029,9 @@
             },
             "name": {
                 "S": "Bug Cage"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1912,6 +2101,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackEgg0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackEgg0.png"
+            },
             "internal_id": {
                 "N": "12447"
             },
@@ -1932,6 +2127,9 @@
             },
             "name": {
                 "S": "Bunny Day bag"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2001,6 +2199,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackButterfly0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackButterfly0.png"
+            },
             "internal_id": {
                 "N": "7502"
             },
@@ -2021,6 +2225,9 @@
             },
             "name": {
                 "S": "Butterfly Backpack"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2090,6 +2297,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "NULL": true
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/ToolBagTotecamouflage0.png"
+            },
             "internal_id": {
                 "N": "14890"
             },
@@ -2110,6 +2323,9 @@
             },
             "name": {
                 "S": "Camo Tote Bag"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2179,6 +2395,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "NULL": true
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/ToolBagTotecamouflage1.png"
+            },
             "internal_id": {
                 "N": "367"
             },
@@ -2199,6 +2421,9 @@
             },
             "name": {
                 "S": "Camo Tote Bag"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2268,6 +2493,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackTote0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackTote0.png"
+            },
             "internal_id": {
                 "N": "7509"
             },
@@ -2288,6 +2519,9 @@
             },
             "name": {
                 "S": "Canvas Backpack"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2357,6 +2591,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackTownCheck2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackTownCheck2.png"
+            },
             "internal_id": {
                 "N": "702"
             },
@@ -2377,6 +2617,9 @@
             },
             "name": {
                 "S": "Checkered Backpack"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2446,6 +2689,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackTownCheck3.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackTownCheck3.png"
+            },
             "internal_id": {
                 "N": "703"
             },
@@ -2466,6 +2715,9 @@
             },
             "name": {
                 "S": "Checkered Backpack"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2535,6 +2787,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackTownCheck1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackTownCheck1.png"
+            },
             "internal_id": {
                 "N": "701"
             },
@@ -2555,6 +2813,9 @@
             },
             "name": {
                 "S": "Checkered Backpack"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2624,6 +2885,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackTownCheck0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackTownCheck0.png"
+            },
             "internal_id": {
                 "N": "14844"
             },
@@ -2644,6 +2911,9 @@
             },
             "name": {
                 "S": "Checkered Backpack"
+            },
+            "order": {
+                "N": "4"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2713,6 +2983,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderCherryblossoms0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderCherryblossoms0.png"
+            },
             "internal_id": {
                 "N": "7490"
             },
@@ -2733,6 +3009,9 @@
             },
             "name": {
                 "S": "Cherry-blossom Pochette"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2802,6 +3081,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderGamaguchi4.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderGamaguchi4.png"
+            },
             "internal_id": {
                 "N": "345"
             },
@@ -2822,6 +3107,9 @@
             },
             "name": {
                 "S": "Clasp Purse"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2891,6 +3179,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderGamaguchi5.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderGamaguchi5.png"
+            },
             "internal_id": {
                 "N": "346"
             },
@@ -2911,6 +3205,9 @@
             },
             "name": {
                 "S": "Clasp Purse"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2980,6 +3277,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderGamaguchi1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderGamaguchi1.png"
+            },
             "internal_id": {
                 "N": "340"
             },
@@ -3000,6 +3303,9 @@
             },
             "name": {
                 "S": "Clasp Purse"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3069,6 +3375,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderGamaguchi3.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderGamaguchi3.png"
+            },
             "internal_id": {
                 "N": "344"
             },
@@ -3089,6 +3401,9 @@
             },
             "name": {
                 "S": "Clasp Purse"
+            },
+            "order": {
+                "N": "4"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3158,6 +3473,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderGamaguchi2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderGamaguchi2.png"
+            },
             "internal_id": {
                 "N": "342"
             },
@@ -3178,6 +3499,9 @@
             },
             "name": {
                 "S": "Clasp Purse"
+            },
+            "order": {
+                "N": "5"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3247,6 +3571,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderGamaguchi6.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderGamaguchi6.png"
+            },
             "internal_id": {
                 "N": "347"
             },
@@ -3267,6 +3597,9 @@
             },
             "name": {
                 "S": "Clasp Purse"
+            },
+            "order": {
+                "N": "6"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3336,6 +3669,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderGamaguchi0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderGamaguchi0.png"
+            },
             "internal_id": {
                 "N": "14783"
             },
@@ -3356,6 +3695,9 @@
             },
             "name": {
                 "S": "Clasp Purse"
+            },
+            "order": {
+                "N": "7"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3425,6 +3767,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderCanvas2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderCanvas2.png"
+            },
             "internal_id": {
                 "N": "12014"
             },
@@ -3445,6 +3793,9 @@
             },
             "name": {
                 "S": "Cloth Shoulder Bag"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3514,6 +3865,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderCanvas1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderCanvas1.png"
+            },
             "internal_id": {
                 "N": "12013"
             },
@@ -3534,6 +3891,9 @@
             },
             "name": {
                 "S": "Cloth Shoulder Bag"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3603,6 +3963,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderCanvas0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderCanvas0.png"
+            },
             "internal_id": {
                 "N": "7487"
             },
@@ -3623,6 +3989,9 @@
             },
             "name": {
                 "S": "Cloth Shoulder Bag"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3692,6 +4061,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "NULL": true
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/ToolBagSecond0.png"
+            },
             "internal_id": {
                 "N": "14792"
             },
@@ -3712,6 +4087,9 @@
             },
             "name": {
                 "S": "Clutch"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3781,6 +4159,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "NULL": true
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/ToolBagSecond3.png"
+            },
             "internal_id": {
                 "N": "309"
             },
@@ -3801,6 +4185,9 @@
             },
             "name": {
                 "S": "Clutch"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3870,6 +4257,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "NULL": true
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/ToolBagSecond2.png"
+            },
             "internal_id": {
                 "N": "308"
             },
@@ -3890,6 +4283,9 @@
             },
             "name": {
                 "S": "Clutch"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3959,6 +4355,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "NULL": true
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/ToolBagSecond1.png"
+            },
             "internal_id": {
                 "N": "307"
             },
@@ -3979,6 +4381,9 @@
             },
             "name": {
                 "S": "Clutch"
+            },
+            "order": {
+                "N": "4"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -4048,6 +4453,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackBody3.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackBody3.png"
+            },
             "internal_id": {
                 "N": "11982"
             },
@@ -4068,6 +4479,9 @@
             },
             "name": {
                 "S": "Crossbody Bag"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -4137,6 +4551,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackBody0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackBody0.png"
+            },
             "internal_id": {
                 "N": "7483"
             },
@@ -4157,6 +4577,9 @@
             },
             "name": {
                 "S": "Crossbody Bag"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -4226,6 +4649,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackBody2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackBody2.png"
+            },
             "internal_id": {
                 "N": "11981"
             },
@@ -4246,6 +4675,9 @@
             },
             "name": {
                 "S": "Crossbody Bag"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -4315,6 +4747,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackBody1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackBody1.png"
+            },
             "internal_id": {
                 "N": "11980"
             },
@@ -4335,6 +4773,9 @@
             },
             "name": {
                 "S": "Crossbody Bag"
+            },
+            "order": {
+                "N": "4"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -4404,6 +4845,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderDrum0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderDrum0.png"
+            },
             "internal_id": {
                 "N": "7485"
             },
@@ -4424,6 +4871,9 @@
             },
             "name": {
                 "S": "Crossbody Boston Bag"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -4493,6 +4943,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderDrum1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderDrum1.png"
+            },
             "internal_id": {
                 "N": "12011"
             },
@@ -4513,6 +4969,9 @@
             },
             "name": {
                 "S": "Crossbody Boston Bag"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -4582,6 +5041,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackDal0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackDal0.png"
+            },
             "internal_id": {
                 "N": "12131"
             },
@@ -4602,6 +5067,9 @@
             },
             "name": {
                 "S": "DAL backpack"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -4671,6 +5139,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackDelivery0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackDelivery0.png"
+            },
             "internal_id": {
                 "N": "14426"
             },
@@ -4691,6 +5165,9 @@
             },
             "name": {
                 "S": "Delivery Bag"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -4760,6 +5237,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackDelivery5.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackDelivery5.png"
+            },
             "internal_id": {
                 "N": "495"
             },
@@ -4780,6 +5263,9 @@
             },
             "name": {
                 "S": "Delivery Bag"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -4849,6 +5335,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackDelivery3.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackDelivery3.png"
+            },
             "internal_id": {
                 "N": "493"
             },
@@ -4869,6 +5361,9 @@
             },
             "name": {
                 "S": "Delivery Bag"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -4938,6 +5433,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackDelivery2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackDelivery2.png"
+            },
             "internal_id": {
                 "N": "492"
             },
@@ -4958,6 +5459,9 @@
             },
             "name": {
                 "S": "Delivery Bag"
+            },
+            "order": {
+                "N": "4"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -5027,6 +5531,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackDelivery1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackDelivery1.png"
+            },
             "internal_id": {
                 "N": "491"
             },
@@ -5047,6 +5557,9 @@
             },
             "name": {
                 "S": "Delivery Bag"
+            },
+            "order": {
+                "N": "5"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -5116,6 +5629,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackDelivery4.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackDelivery4.png"
+            },
             "internal_id": {
                 "N": "494"
             },
@@ -5136,6 +5655,9 @@
             },
             "name": {
                 "S": "Delivery Bag"
+            },
+            "order": {
+                "N": "6"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -5205,6 +5727,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "NULL": true
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/ToolBagPaperflower0.png"
+            },
             "internal_id": {
                 "N": "14872"
             },
@@ -5225,6 +5753,9 @@
             },
             "name": {
                 "S": "Department-store Paper Bag"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -5294,6 +5825,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "NULL": true
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/ToolBagPaperflower1.png"
+            },
             "internal_id": {
                 "N": "305"
             },
@@ -5314,6 +5851,9 @@
             },
             "name": {
                 "S": "Department-store Paper Bag"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -5383,6 +5923,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "NULL": true
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/ToolBagBasketdiagram0.png"
+            },
             "internal_id": {
                 "N": "14854"
             },
@@ -5403,6 +5949,9 @@
             },
             "name": {
                 "S": "Diamond-weave Basket Bag"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -5472,6 +6021,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackTownYumekawa0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackTownYumekawa0.png"
+            },
             "internal_id": {
                 "N": "14838"
             },
@@ -5492,6 +6047,9 @@
             },
             "name": {
                 "S": "Dreamy Backpack"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -5561,6 +6119,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackTownYumekawa1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackTownYumekawa1.png"
+            },
             "internal_id": {
                 "N": "679"
             },
@@ -5581,6 +6145,9 @@
             },
             "name": {
                 "S": "Dreamy Backpack"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -5650,6 +6217,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderYumekawa0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderYumekawa0.png"
+            },
             "internal_id": {
                 "N": "14825"
             },
@@ -5670,6 +6243,9 @@
             },
             "name": {
                 "S": "Dreamy Pochette"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -5739,6 +6315,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderYumekawaRibbon0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderYumekawaRibbon0.png"
+            },
             "internal_id": {
                 "N": "14883"
             },
@@ -5759,6 +6341,9 @@
             },
             "name": {
                 "S": "Dreamy Ribbon Pochette"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -5828,6 +6413,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderYumekawaUnicorn0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderYumekawaUnicorn0.png"
+            },
             "internal_id": {
                 "N": "14884"
             },
@@ -5848,6 +6439,9 @@
             },
             "name": {
                 "S": "Dreamy Unicorn Pochette"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -5917,6 +6511,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackDry0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackDry0.png"
+            },
             "internal_id": {
                 "N": "7471"
             },
@@ -5937,6 +6537,9 @@
             },
             "name": {
                 "S": "Dry Bag"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -6006,6 +6609,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackDry1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackDry1.png"
+            },
             "internal_id": {
                 "N": "11964"
             },
@@ -6026,6 +6635,9 @@
             },
             "name": {
                 "S": "Dry Bag"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -6095,6 +6707,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "NULL": true
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/ToolBagPaperelectric0.png"
+            },
             "internal_id": {
                 "N": "14871"
             },
@@ -6115,6 +6733,9 @@
             },
             "name": {
                 "S": "Electronics-store Paper Bag"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -6184,6 +6805,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "NULL": true
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/ToolBagPaperelectric1.png"
+            },
             "internal_id": {
                 "N": "727"
             },
@@ -6204,6 +6831,9 @@
             },
             "name": {
                 "S": "Electronics-store Paper Bag"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -6273,6 +6903,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "NULL": true
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/ToolBagPaperelectric3.png"
+            },
             "internal_id": {
                 "N": "733"
             },
@@ -6293,6 +6929,9 @@
             },
             "name": {
                 "S": "Electronics-store Paper Bag"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -6362,6 +7001,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "NULL": true
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/ToolBagPaperelectric2.png"
+            },
             "internal_id": {
                 "N": "732"
             },
@@ -6382,6 +7027,9 @@
             },
             "name": {
                 "S": "Electronics-store Paper Bag"
+            },
+            "order": {
+                "N": "4"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -6451,6 +7099,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderParty2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderParty2.png"
+            },
             "internal_id": {
                 "N": "11977"
             },
@@ -6471,6 +7125,9 @@
             },
             "name": {
                 "S": "Evening Bag"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -6540,6 +7197,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderParty0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderParty0.png"
+            },
             "internal_id": {
                 "N": "7305"
             },
@@ -6560,6 +7223,9 @@
             },
             "name": {
                 "S": "Evening Bag"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -6629,6 +7295,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderParty1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderParty1.png"
+            },
             "internal_id": {
                 "N": "11976"
             },
@@ -6649,6 +7321,9 @@
             },
             "name": {
                 "S": "Evening Bag"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -6718,6 +7393,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackMountain2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackMountain2.png"
+            },
             "internal_id": {
                 "N": "11972"
             },
@@ -6738,6 +7419,9 @@
             },
             "name": {
                 "S": "Extra-large Backpack"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -6807,6 +7491,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackMountain0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackMountain0.png"
+            },
             "internal_id": {
                 "N": "7505"
             },
@@ -6827,6 +7517,9 @@
             },
             "name": {
                 "S": "Extra-large Backpack"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -6896,6 +7589,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackMountain1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackMountain1.png"
+            },
             "internal_id": {
                 "N": "11971"
             },
@@ -6916,6 +7615,9 @@
             },
             "name": {
                 "S": "Extra-large Backpack"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -6985,6 +7687,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackMountain3.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackMountain3.png"
+            },
             "internal_id": {
                 "N": "11973"
             },
@@ -7005,6 +7713,9 @@
             },
             "name": {
                 "S": "Extra-large Backpack"
+            },
+            "order": {
+                "N": "4"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -7074,6 +7785,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderFakefur0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderFakefur0.png"
+            },
             "internal_id": {
                 "N": "7480"
             },
@@ -7094,6 +7811,9 @@
             },
             "name": {
                 "S": "Faux-fur Bag"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -7163,6 +7883,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderFakefur1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderFakefur1.png"
+            },
             "internal_id": {
                 "N": "12003"
             },
@@ -7183,6 +7909,9 @@
             },
             "name": {
                 "S": "Faux-fur Bag"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -7252,6 +7981,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderFish0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderFish0.png"
+            },
             "internal_id": {
                 "N": "7477"
             },
@@ -7272,6 +8007,9 @@
             },
             "name": {
                 "S": "Fish Pochette"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -7341,6 +8079,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "NULL": true
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/ToolBagEcofish0.png"
+            },
             "internal_id": {
                 "N": "14812"
             },
@@ -7361,6 +8105,9 @@
             },
             "name": {
                 "S": "Fish-print Eco Bag"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -7430,6 +8177,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "NULL": true
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/ToolBagEcoflower0.png"
+            },
             "internal_id": {
                 "N": "14814"
             },
@@ -7450,6 +8203,9 @@
             },
             "name": {
                 "S": "Flower-print Eco Bag"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -7519,6 +8275,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackLid2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackLid2.png"
+            },
             "internal_id": {
                 "N": "12017"
             },
@@ -7539,6 +8301,9 @@
             },
             "name": {
                 "S": "Foldover-top Backpack"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -7608,6 +8373,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackLid3.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackLid3.png"
+            },
             "internal_id": {
                 "N": "12018"
             },
@@ -7628,6 +8399,9 @@
             },
             "name": {
                 "S": "Foldover-top Backpack"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -7697,6 +8471,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackLid0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackLid0.png"
+            },
             "internal_id": {
                 "N": "7507"
             },
@@ -7717,6 +8497,9 @@
             },
             "name": {
                 "S": "Foldover-top Backpack"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -7786,6 +8569,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackLid1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackLid1.png"
+            },
             "internal_id": {
                 "N": "12016"
             },
@@ -7806,6 +8595,9 @@
             },
             "name": {
                 "S": "Foldover-top Backpack"
+            },
+            "order": {
+                "N": "4"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -7875,6 +8667,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "NULL": true
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/ToolBagFuroshiki0.png"
+            },
             "internal_id": {
                 "N": "14788"
             },
@@ -7895,6 +8693,9 @@
             },
             "name": {
                 "S": "Furoshiki Bag"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -7964,6 +8765,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "NULL": true
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/ToolBagFuroshiki4.png"
+            },
             "internal_id": {
                 "N": "559"
             },
@@ -7984,6 +8791,9 @@
             },
             "name": {
                 "S": "Furoshiki Bag"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -8053,6 +8863,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "NULL": true
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/ToolBagFuroshiki3.png"
+            },
             "internal_id": {
                 "N": "558"
             },
@@ -8073,6 +8889,9 @@
             },
             "name": {
                 "S": "Furoshiki Bag"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -8142,6 +8961,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "NULL": true
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/ToolBagFuroshiki2.png"
+            },
             "internal_id": {
                 "N": "557"
             },
@@ -8162,6 +8987,9 @@
             },
             "name": {
                 "S": "Furoshiki Bag"
+            },
+            "order": {
+                "N": "4"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -8231,6 +9059,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "NULL": true
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/ToolBagFuroshiki1.png"
+            },
             "internal_id": {
                 "N": "556"
             },
@@ -8251,6 +9085,9 @@
             },
             "name": {
                 "S": "Furoshiki Bag"
+            },
+            "order": {
+                "N": "5"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -8320,6 +9157,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "NULL": true
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/ToolBagFuroshiki5.png"
+            },
             "internal_id": {
                 "N": "560"
             },
@@ -8340,6 +9183,9 @@
             },
             "name": {
                 "S": "Furoshiki Bag"
+            },
+            "order": {
+                "N": "6"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -8409,6 +9255,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackHarvest0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackHarvest0.png"
+            },
             "internal_id": {
                 "N": "12797"
             },
@@ -8429,6 +9281,9 @@
             },
             "name": {
                 "S": "Grape-harvest Basket"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -8498,6 +9353,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderPattern0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderPattern0.png"
+            },
             "internal_id": {
                 "N": "7486"
             },
@@ -8518,6 +9379,9 @@
             },
             "name": {
                 "S": "Gumdrop Shoulder Bag"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -8587,6 +9451,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderPattern1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderPattern1.png"
+            },
             "internal_id": {
                 "N": "12012"
             },
@@ -8607,6 +9477,9 @@
             },
             "name": {
                 "S": "Gumdrop Shoulder Bag"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -8676,6 +9549,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderRace0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderRace0.png"
+            },
             "internal_id": {
                 "N": "7482"
             },
@@ -8696,6 +9575,9 @@
             },
             "name": {
                 "S": "Hand-knit Pouch"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -8765,6 +9647,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderRace1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderRace1.png"
+            },
             "internal_id": {
                 "N": "12004"
             },
@@ -8785,6 +9673,9 @@
             },
             "name": {
                 "S": "Hand-knit Pouch"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -8854,6 +9745,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackHardshell2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackHardshell2.png"
+            },
             "internal_id": {
                 "N": "11946"
             },
@@ -8874,6 +9771,9 @@
             },
             "name": {
                 "S": "Hard-shell Backpack"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -8943,6 +9843,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackHardshell1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackHardshell1.png"
+            },
             "internal_id": {
                 "N": "10184"
             },
@@ -8963,6 +9869,9 @@
             },
             "name": {
                 "S": "Hard-shell Backpack"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -9032,6 +9941,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackHardshell0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackHardshell0.png"
+            },
             "internal_id": {
                 "N": "7512"
             },
@@ -9052,6 +9967,9 @@
             },
             "name": {
                 "S": "Hard-shell Backpack"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -9121,6 +10039,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackHalloween2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackHalloween2.png"
+            },
             "internal_id": {
                 "N": "13409"
             },
@@ -9141,6 +10065,9 @@
             },
             "name": {
                 "S": "Impish Wings"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -9210,6 +10137,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackHalloween5.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackHalloween5.png"
+            },
             "internal_id": {
                 "N": "13412"
             },
@@ -9230,6 +10163,9 @@
             },
             "name": {
                 "S": "Impish Wings"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -9299,6 +10235,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackHalloween4.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackHalloween4.png"
+            },
             "internal_id": {
                 "N": "13411"
             },
@@ -9319,6 +10261,9 @@
             },
             "name": {
                 "S": "Impish Wings"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -9388,6 +10333,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackHalloween0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackHalloween0.png"
+            },
             "internal_id": {
                 "N": "13015"
             },
@@ -9408,6 +10359,9 @@
             },
             "name": {
                 "S": "Impish Wings"
+            },
+            "order": {
+                "N": "4"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -9477,6 +10431,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackHalloween3.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackHalloween3.png"
+            },
             "internal_id": {
                 "N": "13410"
             },
@@ -9497,6 +10457,9 @@
             },
             "name": {
                 "S": "Impish Wings"
+            },
+            "order": {
+                "N": "5"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -9566,6 +10529,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackHalloween1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackHalloween1.png"
+            },
             "internal_id": {
                 "N": "13408"
             },
@@ -9586,6 +10555,9 @@
             },
             "name": {
                 "S": "Impish Wings"
+            },
+            "order": {
+                "N": "6"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -9655,6 +10627,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackMusician0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackMusician0.png"
+            },
             "internal_id": {
                 "N": "14784"
             },
@@ -9675,6 +10653,9 @@
             },
             "name": {
                 "S": "Instrument Case"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -9744,6 +10725,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackMusician1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackMusician1.png"
+            },
             "internal_id": {
                 "N": "348"
             },
@@ -9764,6 +10751,9 @@
             },
             "name": {
                 "S": "Instrument Case"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -9833,6 +10823,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackMusician3.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackMusician3.png"
+            },
             "internal_id": {
                 "N": "350"
             },
@@ -9853,6 +10849,9 @@
             },
             "name": {
                 "S": "Instrument Case"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -9922,6 +10921,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackMusician4.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackMusician4.png"
+            },
             "internal_id": {
                 "N": "351"
             },
@@ -9942,6 +10947,9 @@
             },
             "name": {
                 "S": "Instrument Case"
+            },
+            "order": {
+                "N": "4"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -10011,6 +11019,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackMusician2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackMusician2.png"
+            },
             "internal_id": {
                 "N": "349"
             },
@@ -10031,6 +11045,9 @@
             },
             "name": {
                 "S": "Instrument Case"
+            },
+            "order": {
+                "N": "5"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -10100,6 +11117,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackJet0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackJet0.png"
+            },
             "internal_id": {
                 "N": "14823"
             },
@@ -10120,6 +11143,9 @@
             },
             "name": {
                 "S": "Jet Pack"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -10189,6 +11215,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackJet1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackJet1.png"
+            },
             "internal_id": {
                 "N": "581"
             },
@@ -10209,6 +11241,9 @@
             },
             "name": {
                 "S": "Jet Pack"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -10278,6 +11313,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackJet2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackJet2.png"
+            },
             "internal_id": {
                 "N": "589"
             },
@@ -10298,6 +11339,9 @@
             },
             "name": {
                 "S": "Jet Pack"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -10367,6 +11411,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackKnapsack1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackKnapsack1.png"
+            },
             "internal_id": {
                 "N": "12019"
             },
@@ -10387,6 +11437,9 @@
             },
             "name": {
                 "S": "Knapsack"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -10456,6 +11509,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackKnapsack0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackKnapsack0.png"
+            },
             "internal_id": {
                 "N": "7508"
             },
@@ -10476,6 +11535,9 @@
             },
             "name": {
                 "S": "Knapsack"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -10545,6 +11607,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackGrass0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackGrass0.png"
+            },
             "internal_id": {
                 "N": "7511"
             },
@@ -10565,6 +11633,9 @@
             },
             "name": {
                 "S": "Knitted-grass Backpack"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -10634,6 +11705,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackTownLeopard0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackTownLeopard0.png"
+            },
             "internal_id": {
                 "N": "14839"
             },
@@ -10654,6 +11731,9 @@
             },
             "name": {
                 "S": "Leopard-print Backpack"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -10723,6 +11803,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackTownLeopard1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackTownLeopard1.png"
+            },
             "internal_id": {
                 "N": "680"
             },
@@ -10743,6 +11829,9 @@
             },
             "name": {
                 "S": "Leopard-print Backpack"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -10812,6 +11901,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackTownLeopard2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackTownLeopard2.png"
+            },
             "internal_id": {
                 "N": "681"
             },
@@ -10832,6 +11927,9 @@
             },
             "name": {
                 "S": "Leopard-print Backpack"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -10901,6 +11999,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackTownLeopard3.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackTownLeopard3.png"
+            },
             "internal_id": {
                 "N": "684"
             },
@@ -10921,6 +12025,9 @@
             },
             "name": {
                 "S": "Leopard-print Backpack"
+            },
+            "order": {
+                "N": "4"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -10990,6 +12097,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackWood0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackWood0.png"
+            },
             "internal_id": {
                 "N": "7498"
             },
@@ -11010,6 +12123,9 @@
             },
             "name": {
                 "S": "Log Pack"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -11079,6 +12195,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "NULL": true
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/ToolBagPaper0.png"
+            },
             "internal_id": {
                 "N": "14790"
             },
@@ -11099,6 +12221,9 @@
             },
             "name": {
                 "S": "Logo Paper Bag"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -11168,6 +12293,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "NULL": true
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/ToolBagPaper1.png"
+            },
             "internal_id": {
                 "N": "297"
             },
@@ -11188,6 +12319,9 @@
             },
             "name": {
                 "S": "Logo Paper Bag"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -11257,6 +12391,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "NULL": true
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/ToolBagPaper2.png"
+            },
             "internal_id": {
                 "N": "299"
             },
@@ -11277,6 +12417,9 @@
             },
             "name": {
                 "S": "Logo Paper Bag"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -11346,6 +12489,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "NULL": true
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/ToolBagTotelogo0.png"
+            },
             "internal_id": {
                 "N": "14857"
             },
@@ -11366,6 +12515,9 @@
             },
             "name": {
                 "S": "Logo Tote Bag"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -11435,6 +12587,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "NULL": true
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/ToolBagTotelogo1.png"
+            },
             "internal_id": {
                 "N": "365"
             },
@@ -11455,6 +12613,9 @@
             },
             "name": {
                 "S": "Logo Tote Bag"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -11524,6 +12685,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "NULL": true
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/ToolBagTotelogo2.png"
+            },
             "internal_id": {
                 "N": "366"
             },
@@ -11544,6 +12711,9 @@
             },
             "name": {
                 "S": "Logo Tote Bag"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -11613,6 +12783,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderMaple0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderMaple0.png"
+            },
             "internal_id": {
                 "N": "7491"
             },
@@ -11633,6 +12809,9 @@
             },
             "name": {
                 "S": "Maple-leaf Pochette"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -11702,6 +12881,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderMessenger2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderMessenger2.png"
+            },
             "internal_id": {
                 "N": "11979"
             },
@@ -11722,6 +12907,9 @@
             },
             "name": {
                 "S": "Messenger Bag"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -11791,6 +12979,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderMessenger1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderMessenger1.png"
+            },
             "internal_id": {
                 "N": "11978"
             },
@@ -11811,6 +13005,9 @@
             },
             "name": {
                 "S": "Messenger Bag"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -11880,6 +13077,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderMessenger0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderMessenger0.png"
+            },
             "internal_id": {
                 "N": "7470"
             },
@@ -11900,6 +13103,9 @@
             },
             "name": {
                 "S": "Messenger Bag"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -11969,6 +13175,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackSmall0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackSmall0.png"
+            },
             "internal_id": {
                 "N": "7504"
             },
@@ -11989,6 +13201,9 @@
             },
             "name": {
                 "S": "Mini Pleather Bag"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -12058,6 +13273,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackSmall1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackSmall1.png"
+            },
             "internal_id": {
                 "N": "12015"
             },
@@ -12078,6 +13299,9 @@
             },
             "name": {
                 "S": "Mini Pleather Bag"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -12147,6 +13371,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackQuilt6.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackQuilt6.png"
+            },
             "internal_id": {
                 "N": "12153"
             },
@@ -12167,6 +13397,9 @@
             },
             "name": {
                 "S": "Mom's knapsack"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -12236,6 +13469,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackQuilt1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackQuilt1.png"
+            },
             "internal_id": {
                 "N": "12148"
             },
@@ -12256,6 +13495,9 @@
             },
             "name": {
                 "S": "Mom's knapsack"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -12325,6 +13567,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackQuilt2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackQuilt2.png"
+            },
             "internal_id": {
                 "N": "12149"
             },
@@ -12345,6 +13593,9 @@
             },
             "name": {
                 "S": "Mom's knapsack"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -12414,6 +13665,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackQuilt7.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackQuilt7.png"
+            },
             "internal_id": {
                 "N": "12154"
             },
@@ -12434,6 +13691,9 @@
             },
             "name": {
                 "S": "Mom's knapsack"
+            },
+            "order": {
+                "N": "4"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -12503,6 +13763,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackQuilt0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackQuilt0.png"
+            },
             "internal_id": {
                 "N": "7510"
             },
@@ -12523,6 +13789,9 @@
             },
             "name": {
                 "S": "Mom's knapsack"
+            },
+            "order": {
+                "N": "5"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -12592,6 +13861,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackQuilt4.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackQuilt4.png"
+            },
             "internal_id": {
                 "N": "12151"
             },
@@ -12612,6 +13887,9 @@
             },
             "name": {
                 "S": "Mom's knapsack"
+            },
+            "order": {
+                "N": "6"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -12681,6 +13959,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackQuilt5.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackQuilt5.png"
+            },
             "internal_id": {
                 "N": "12152"
             },
@@ -12701,6 +13985,9 @@
             },
             "name": {
                 "S": "Mom's knapsack"
+            },
+            "order": {
+                "N": "7"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -12770,6 +14057,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackQuilt3.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackQuilt3.png"
+            },
             "internal_id": {
                 "N": "12150"
             },
@@ -12790,6 +14083,9 @@
             },
             "name": {
                 "S": "Mom's knapsack"
+            },
+            "order": {
+                "N": "8"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -12859,6 +14155,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackNook0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackNook0.png"
+            },
             "internal_id": {
                 "N": "9761"
             },
@@ -12879,6 +14181,9 @@
             },
             "name": {
                 "S": "Nook Inc. knapsack"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -12948,6 +14253,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderNook0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderNook0.png"
+            },
             "internal_id": {
                 "N": "14543"
             },
@@ -12968,6 +14279,9 @@
             },
             "name": {
                 "S": "Nook Inc. pochette"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -13037,6 +14351,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackOutdoor1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackOutdoor1.png"
+            },
             "internal_id": {
                 "N": "11969"
             },
@@ -13057,6 +14377,9 @@
             },
             "name": {
                 "S": "Outdoor Backpack"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -13126,6 +14449,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackOutdoor0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackOutdoor0.png"
+            },
             "internal_id": {
                 "N": "7501"
             },
@@ -13146,6 +14475,9 @@
             },
             "name": {
                 "S": "Outdoor Backpack"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -13215,6 +14547,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackOutdoor2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackOutdoor2.png"
+            },
             "internal_id": {
                 "N": "11970"
             },
@@ -13235,6 +14573,9 @@
             },
             "name": {
                 "S": "Outdoor Backpack"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -13304,6 +14645,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackPanda0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackPanda0.png"
+            },
             "internal_id": {
                 "N": "14830"
             },
@@ -13324,6 +14671,9 @@
             },
             "name": {
                 "S": "Panda Backpack"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -13393,6 +14743,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackPanda1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackPanda1.png"
+            },
             "internal_id": {
                 "N": "720"
             },
@@ -13413,6 +14769,9 @@
             },
             "name": {
                 "S": "Panda Backpack"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -13482,6 +14841,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackBodybag1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackBodybag1.png"
+            },
             "internal_id": {
                 "N": "12005"
             },
@@ -13502,6 +14867,9 @@
             },
             "name": {
                 "S": "Pleather Crossbody Bag"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -13571,6 +14939,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackBodybag0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackBodybag0.png"
+            },
             "internal_id": {
                 "N": "7484"
             },
@@ -13591,6 +14965,9 @@
             },
             "name": {
                 "S": "Pleather Crossbody Bag"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -13660,6 +15037,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderFringe1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderFringe1.png"
+            },
             "internal_id": {
                 "N": "12010"
             },
@@ -13680,6 +15063,9 @@
             },
             "name": {
                 "S": "Pleather Fringe Bag"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -13749,6 +15135,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderFringe0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderFringe0.png"
+            },
             "internal_id": {
                 "N": "7481"
             },
@@ -13769,6 +15161,9 @@
             },
             "name": {
                 "S": "Pleather Fringe Bag"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -13838,6 +15233,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "NULL": true
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/ToolBagLeather0.png"
+            },
             "internal_id": {
                 "N": "14789"
             },
@@ -13858,6 +15259,9 @@
             },
             "name": {
                 "S": "Pleather Handbag"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -13927,6 +15331,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "NULL": true
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/ToolBagLeather3.png"
+            },
             "internal_id": {
                 "N": "312"
             },
@@ -13947,6 +15357,9 @@
             },
             "name": {
                 "S": "Pleather Handbag"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -14016,6 +15429,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "NULL": true
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/ToolBagLeather1.png"
+            },
             "internal_id": {
                 "N": "310"
             },
@@ -14036,6 +15455,9 @@
             },
             "name": {
                 "S": "Pleather Handbag"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -14105,6 +15527,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "NULL": true
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/ToolBagLeather4.png"
+            },
             "internal_id": {
                 "N": "313"
             },
@@ -14125,6 +15553,9 @@
             },
             "name": {
                 "S": "Pleather Handbag"
+            },
+            "order": {
+                "N": "4"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -14194,6 +15625,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "NULL": true
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/ToolBagLeather2.png"
+            },
             "internal_id": {
                 "N": "311"
             },
@@ -14214,6 +15651,9 @@
             },
             "name": {
                 "S": "Pleather Handbag"
+            },
+            "order": {
+                "N": "5"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -14283,6 +15723,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "NULL": true
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/ToolBagLeather5.png"
+            },
             "internal_id": {
                 "N": "314"
             },
@@ -14303,6 +15749,9 @@
             },
             "name": {
                 "S": "Pleather Handbag"
+            },
+            "order": {
+                "N": "6"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -14372,6 +15821,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "NULL": true
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/ToolBagLeather6.png"
+            },
             "internal_id": {
                 "N": "315"
             },
@@ -14392,6 +15847,9 @@
             },
             "name": {
                 "S": "Pleather Handbag"
+            },
+            "order": {
+                "N": "7"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -14461,6 +15919,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderLeather1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderLeather1.png"
+            },
             "internal_id": {
                 "N": "12009"
             },
@@ -14481,6 +15945,9 @@
             },
             "name": {
                 "S": "Pleather Shoulder Bag"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -14550,6 +16017,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderLeather0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderLeather0.png"
+            },
             "internal_id": {
                 "N": "7476"
             },
@@ -14570,6 +16043,9 @@
             },
             "name": {
                 "S": "Pleather Shoulder Bag"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -14639,6 +16115,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackTownDot3.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackTownDot3.png"
+            },
             "internal_id": {
                 "N": "695"
             },
@@ -14659,6 +16141,9 @@
             },
             "name": {
                 "S": "Polka-dot Backpack"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -14728,6 +16213,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackTownDot0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackTownDot0.png"
+            },
             "internal_id": {
                 "N": "14842"
             },
@@ -14748,6 +16239,9 @@
             },
             "name": {
                 "S": "Polka-dot Backpack"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -14817,6 +16311,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackTownDot1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackTownDot1.png"
+            },
             "internal_id": {
                 "N": "692"
             },
@@ -14837,6 +16337,9 @@
             },
             "name": {
                 "S": "Polka-dot Backpack"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -14906,6 +16409,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackTownDot2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackTownDot2.png"
+            },
             "internal_id": {
                 "N": "694"
             },
@@ -14926,6 +16435,9 @@
             },
             "name": {
                 "S": "Polka-dot Backpack"
+            },
+            "order": {
+                "N": "4"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -14995,6 +16507,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackTownDot4.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackTownDot4.png"
+            },
             "internal_id": {
                 "N": "697"
             },
@@ -15015,6 +16533,9 @@
             },
             "name": {
                 "S": "Polka-dot Backpack"
+            },
+            "order": {
+                "N": "5"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -15084,6 +16605,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderTasukiprom4.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderTasukiprom4.png"
+            },
             "internal_id": {
                 "N": "14398"
             },
@@ -15104,6 +16631,9 @@
             },
             "name": {
                 "S": "Prom Sash"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -15173,6 +16703,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderTasukiprom5.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderTasukiprom5.png"
+            },
             "internal_id": {
                 "N": "14399"
             },
@@ -15193,6 +16729,9 @@
             },
             "name": {
                 "S": "Prom Sash"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -15262,6 +16801,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderTasukiprom0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderTasukiprom0.png"
+            },
             "internal_id": {
                 "N": "14262"
             },
@@ -15282,6 +16827,9 @@
             },
             "name": {
                 "S": "Prom Sash"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -15351,6 +16899,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderTasukiprom6.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderTasukiprom6.png"
+            },
             "internal_id": {
                 "N": "14400"
             },
@@ -15371,6 +16925,9 @@
             },
             "name": {
                 "S": "Prom Sash"
+            },
+            "order": {
+                "N": "4"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -15440,6 +16997,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderTasukiprom2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderTasukiprom2.png"
+            },
             "internal_id": {
                 "N": "14396"
             },
@@ -15460,6 +17023,9 @@
             },
             "name": {
                 "S": "Prom Sash"
+            },
+            "order": {
+                "N": "5"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -15529,6 +17095,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderTasukiprom1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderTasukiprom1.png"
+            },
             "internal_id": {
                 "N": "14395"
             },
@@ -15549,6 +17121,9 @@
             },
             "name": {
                 "S": "Prom Sash"
+            },
+            "order": {
+                "N": "6"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -15618,6 +17193,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderTasukiprom3.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderTasukiprom3.png"
+            },
             "internal_id": {
                 "N": "14397"
             },
@@ -15638,6 +17219,9 @@
             },
             "name": {
                 "S": "Prom Sash"
+            },
+            "order": {
+                "N": "7"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -15707,6 +17291,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderSquarePython0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderSquarePython0.png"
+            },
             "internal_id": {
                 "N": "14894"
             },
@@ -15727,6 +17317,9 @@
             },
             "name": {
                 "S": "Python-print Shoulder Bag"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -15796,6 +17389,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderSquarePython1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderSquarePython1.png"
+            },
             "internal_id": {
                 "N": "723"
             },
@@ -15816,6 +17415,9 @@
             },
             "name": {
                 "S": "Python-print Shoulder Bag"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -15885,6 +17487,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackRandsel0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackRandsel0.png"
+            },
             "internal_id": {
                 "N": "14366"
             },
@@ -15905,6 +17513,9 @@
             },
             "name": {
                 "S": "Randoseru"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -15974,6 +17585,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackRandsel1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackRandsel1.png"
+            },
             "internal_id": {
                 "N": "254"
             },
@@ -15994,6 +17611,9 @@
             },
             "name": {
                 "S": "Randoseru"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -16063,6 +17683,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackRandsel6.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackRandsel6.png"
+            },
             "internal_id": {
                 "N": "259"
             },
@@ -16083,6 +17709,9 @@
             },
             "name": {
                 "S": "Randoseru"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -16152,6 +17781,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackRandsel3.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackRandsel3.png"
+            },
             "internal_id": {
                 "N": "256"
             },
@@ -16172,6 +17807,9 @@
             },
             "name": {
                 "S": "Randoseru"
+            },
+            "order": {
+                "N": "4"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -16241,6 +17879,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackRandsel5.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackRandsel5.png"
+            },
             "internal_id": {
                 "N": "258"
             },
@@ -16261,6 +17905,9 @@
             },
             "name": {
                 "S": "Randoseru"
+            },
+            "order": {
+                "N": "5"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -16330,6 +17977,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackRandsel4.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackRandsel4.png"
+            },
             "internal_id": {
                 "N": "257"
             },
@@ -16350,6 +18003,9 @@
             },
             "name": {
                 "S": "Randoseru"
+            },
+            "order": {
+                "N": "6"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -16419,6 +18075,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackRandsel7.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackRandsel7.png"
+            },
             "internal_id": {
                 "N": "260"
             },
@@ -16439,6 +18101,9 @@
             },
             "name": {
                 "S": "Randoseru"
+            },
+            "order": {
+                "N": "7"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -16508,6 +18173,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackRandsel2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackRandsel2.png"
+            },
             "internal_id": {
                 "N": "255"
             },
@@ -16528,6 +18199,9 @@
             },
             "name": {
                 "S": "Randoseru"
+            },
+            "order": {
+                "N": "8"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -16597,6 +18271,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderSports1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderSports1.png"
+            },
             "internal_id": {
                 "N": "12007"
             },
@@ -16617,6 +18297,9 @@
             },
             "name": {
                 "S": "Retro Sports Bag"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -16686,6 +18369,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderSports0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderSports0.png"
+            },
             "internal_id": {
                 "N": "7302"
             },
@@ -16706,6 +18395,9 @@
             },
             "name": {
                 "S": "Retro Sports Bag"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -16775,6 +18467,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderSports2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderSports2.png"
+            },
             "internal_id": {
                 "N": "12008"
             },
@@ -16795,6 +18493,9 @@
             },
             "name": {
                 "S": "Retro Sports Bag"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -16864,6 +18565,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderSacosh2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderSacosh2.png"
+            },
             "internal_id": {
                 "N": "11975"
             },
@@ -16884,6 +18591,9 @@
             },
             "name": {
                 "S": "Sacoche Bag"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -16953,6 +18663,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderSacosh1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderSacosh1.png"
+            },
             "internal_id": {
                 "N": "11974"
             },
@@ -16973,6 +18689,9 @@
             },
             "name": {
                 "S": "Sacoche Bag"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -17042,6 +18761,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderSacosh0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderSacosh0.png"
+            },
             "internal_id": {
                 "N": "7304"
             },
@@ -17062,6 +18787,9 @@
             },
             "name": {
                 "S": "Sacoche Bag"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -17131,6 +18859,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackStudent1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackStudent1.png"
+            },
             "internal_id": {
                 "N": "593"
             },
@@ -17151,6 +18885,9 @@
             },
             "name": {
                 "S": "Satchel"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -17220,6 +18957,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackStudent4.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackStudent4.png"
+            },
             "internal_id": {
                 "N": "655"
             },
@@ -17240,6 +18983,9 @@
             },
             "name": {
                 "S": "Satchel"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -17309,6 +19055,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackStudent3.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackStudent3.png"
+            },
             "internal_id": {
                 "N": "654"
             },
@@ -17329,6 +19081,9 @@
             },
             "name": {
                 "S": "Satchel"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -17398,6 +19153,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackStudent0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackStudent0.png"
+            },
             "internal_id": {
                 "N": "14824"
             },
@@ -17418,6 +19179,9 @@
             },
             "name": {
                 "S": "Satchel"
+            },
+            "order": {
+                "N": "4"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -17487,6 +19251,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackStudent2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackStudent2.png"
+            },
             "internal_id": {
                 "N": "629"
             },
@@ -17507,6 +19277,9 @@
             },
             "name": {
                 "S": "Satchel"
+            },
+            "order": {
+                "N": "5"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -17576,6 +19349,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackSchoolbag0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackSchoolbag0.png"
+            },
             "internal_id": {
                 "N": "14367"
             },
@@ -17596,6 +19375,9 @@
             },
             "name": {
                 "S": "Schoolbag"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -17665,6 +19447,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackSchoolbag3.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackSchoolbag3.png"
+            },
             "internal_id": {
                 "N": "263"
             },
@@ -17685,6 +19473,9 @@
             },
             "name": {
                 "S": "Schoolbag"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -17754,6 +19545,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackSchoolbag2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackSchoolbag2.png"
+            },
             "internal_id": {
                 "N": "262"
             },
@@ -17774,6 +19571,9 @@
             },
             "name": {
                 "S": "Schoolbag"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -17843,6 +19643,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackSchoolbag5.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackSchoolbag5.png"
+            },
             "internal_id": {
                 "N": "265"
             },
@@ -17863,6 +19669,9 @@
             },
             "name": {
                 "S": "Schoolbag"
+            },
+            "order": {
+                "N": "4"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -17932,6 +19741,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackSchoolbag1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackSchoolbag1.png"
+            },
             "internal_id": {
                 "N": "261"
             },
@@ -17952,6 +19767,9 @@
             },
             "name": {
                 "S": "Schoolbag"
+            },
+            "order": {
+                "N": "5"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -18021,6 +19839,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackSchoolbag4.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackSchoolbag4.png"
+            },
             "internal_id": {
                 "N": "264"
             },
@@ -18041,6 +19865,9 @@
             },
             "name": {
                 "S": "Schoolbag"
+            },
+            "order": {
+                "N": "6"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -18110,6 +19937,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderShell0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderShell0.png"
+            },
             "internal_id": {
                 "N": "7494"
             },
@@ -18130,6 +19963,9 @@
             },
             "name": {
                 "S": "Shellfish Pochette"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -18199,6 +20035,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackTownSimple0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackTownSimple0.png"
+            },
             "internal_id": {
                 "N": "14843"
             },
@@ -18219,6 +20061,9 @@
             },
             "name": {
                 "S": "Simple Backpack"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -18288,6 +20133,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackTownSimple1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackTownSimple1.png"
+            },
             "internal_id": {
                 "N": "699"
             },
@@ -18308,6 +20159,9 @@
             },
             "name": {
                 "S": "Simple Backpack"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -18377,6 +20231,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackTownSimple2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackTownSimple2.png"
+            },
             "internal_id": {
                 "N": "721"
             },
@@ -18397,6 +20257,9 @@
             },
             "name": {
                 "S": "Simple Backpack"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -18466,6 +20329,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "NULL": true
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/ToolBagTote0.png"
+            },
             "internal_id": {
                 "N": "14787"
             },
@@ -18486,6 +20355,9 @@
             },
             "name": {
                 "S": "Simple Tote Bag"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -18555,6 +20427,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "NULL": true
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/ToolBagTote2.png"
+            },
             "internal_id": {
                 "N": "358"
             },
@@ -18575,6 +20453,9 @@
             },
             "name": {
                 "S": "Simple Tote Bag"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -18644,6 +20525,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "NULL": true
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/ToolBagTote3.png"
+            },
             "internal_id": {
                 "N": "359"
             },
@@ -18664,6 +20551,9 @@
             },
             "name": {
                 "S": "Simple Tote Bag"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -18733,6 +20623,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "NULL": true
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/ToolBagTote1.png"
+            },
             "internal_id": {
                 "N": "357"
             },
@@ -18753,6 +20649,9 @@
             },
             "name": {
                 "S": "Simple Tote Bag"
+            },
+            "order": {
+                "N": "4"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -18822,6 +20721,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "NULL": true
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/ToolBagTote5.png"
+            },
             "internal_id": {
                 "N": "361"
             },
@@ -18842,6 +20747,9 @@
             },
             "name": {
                 "S": "Simple Tote Bag"
+            },
+            "order": {
+                "N": "5"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -18911,6 +20819,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "NULL": true
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/ToolBagTote4.png"
+            },
             "internal_id": {
                 "N": "360"
             },
@@ -18931,6 +20845,9 @@
             },
             "name": {
                 "S": "Simple Tote Bag"
+            },
+            "order": {
+                "N": "6"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -19000,6 +20917,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderSnow0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderSnow0.png"
+            },
             "internal_id": {
                 "N": "7493"
             },
@@ -19020,6 +20943,9 @@
             },
             "name": {
                 "S": "Snowflake Pochette"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -19089,6 +21015,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackTownSpace2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackTownSpace2.png"
+            },
             "internal_id": {
                 "N": "687"
             },
@@ -19109,6 +21041,9 @@
             },
             "name": {
                 "S": "Spacey Backpack"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -19178,6 +21113,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackTownSpace1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackTownSpace1.png"
+            },
             "internal_id": {
                 "N": "686"
             },
@@ -19198,6 +21139,9 @@
             },
             "name": {
                 "S": "Spacey Backpack"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -19267,6 +21211,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackTownSpace0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackTownSpace0.png"
+            },
             "internal_id": {
                 "N": "14840"
             },
@@ -19287,6 +21237,9 @@
             },
             "name": {
                 "S": "Spacey Backpack"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -19356,6 +21309,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackSquare1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackSquare1.png"
+            },
             "internal_id": {
                 "N": "11967"
             },
@@ -19376,6 +21335,9 @@
             },
             "name": {
                 "S": "Square Backpack"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -19445,6 +21407,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackSquare0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackSquare0.png"
+            },
             "internal_id": {
                 "N": "7500"
             },
@@ -19465,6 +21433,9 @@
             },
             "name": {
                 "S": "Square Backpack"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -19534,6 +21505,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackSquare2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackSquare2.png"
+            },
             "internal_id": {
                 "N": "11968"
             },
@@ -19554,6 +21531,9 @@
             },
             "name": {
                 "S": "Square Backpack"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -19623,6 +21603,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderSquare0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderSquare0.png"
+            },
             "internal_id": {
                 "N": "14822"
             },
@@ -19643,6 +21629,9 @@
             },
             "name": {
                 "S": "Square Shoulder Bag"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -19712,6 +21701,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderSquare1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderSquare1.png"
+            },
             "internal_id": {
                 "N": "580"
             },
@@ -19732,6 +21727,9 @@
             },
             "name": {
                 "S": "Square Shoulder Bag"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -19801,6 +21799,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderStar0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderStar0.png"
+            },
             "internal_id": {
                 "N": "7489"
             },
@@ -19821,6 +21825,9 @@
             },
             "name": {
                 "S": "Star Pochette"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -19890,6 +21897,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderRattan0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderRattan0.png"
+            },
             "internal_id": {
                 "N": "7488"
             },
@@ -19910,6 +21923,9 @@
             },
             "name": {
                 "S": "Straw Pochette"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -19979,6 +21995,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "NULL": true
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/ToolBagBasketborder0.png"
+            },
             "internal_id": {
                 "N": "14855"
             },
@@ -19999,6 +22021,9 @@
             },
             "name": {
                 "S": "Striped Basket Bag"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -20068,6 +22093,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "NULL": true
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/ToolBagBasketborder1.png"
+            },
             "internal_id": {
                 "N": "362"
             },
@@ -20088,6 +22119,9 @@
             },
             "name": {
                 "S": "Striped Basket Bag"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -20157,6 +22191,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackStuds1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackStuds1.png"
+            },
             "internal_id": {
                 "N": "12006"
             },
@@ -20177,6 +22217,9 @@
             },
             "name": {
                 "S": "Studded Backpack"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -20246,6 +22289,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackStuds0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackStuds0.png"
+            },
             "internal_id": {
                 "N": "7503"
             },
@@ -20266,6 +22315,9 @@
             },
             "name": {
                 "S": "Studded Backpack"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -20335,6 +22387,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderSword0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderSword0.png"
+            },
             "internal_id": {
                 "N": "14785"
             },
@@ -20355,6 +22413,9 @@
             },
             "name": {
                 "S": "Sword In Scabbard"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -20424,6 +22485,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderSword1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderSword1.png"
+            },
             "internal_id": {
                 "N": "711"
             },
@@ -20444,6 +22511,9 @@
             },
             "name": {
                 "S": "Sword In Scabbard"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -20513,6 +22583,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderSword2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderSword2.png"
+            },
             "internal_id": {
                 "N": "713"
             },
@@ -20533,6 +22609,9 @@
             },
             "name": {
                 "S": "Sword In Scabbard"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -20602,6 +22681,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderFishing0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderFishing0.png"
+            },
             "internal_id": {
                 "N": "7478"
             },
@@ -20622,6 +22707,9 @@
             },
             "name": {
                 "S": "Tackle Bag"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -20691,6 +22779,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "NULL": true
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/ToolBagToteflower0.png"
+            },
             "internal_id": {
                 "N": "14856"
             },
@@ -20711,6 +22805,9 @@
             },
             "name": {
                 "S": "Tiny-flower-print Tote Bag"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -20780,6 +22877,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "NULL": true
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/ToolBagToteflower2.png"
+            },
             "internal_id": {
                 "N": "364"
             },
@@ -20800,6 +22903,9 @@
             },
             "name": {
                 "S": "Tiny-flower-print Tote Bag"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -20869,6 +22975,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "NULL": true
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/ToolBagToteflower1.png"
+            },
             "internal_id": {
                 "N": "363"
             },
@@ -20889,6 +23001,9 @@
             },
             "name": {
                 "S": "Tiny-flower-print Tote Bag"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -20958,6 +23073,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderTool0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderTool0.png"
+            },
             "internal_id": {
                 "N": "7497"
             },
@@ -20978,6 +23099,9 @@
             },
             "name": {
                 "S": "Tool Bag"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -21047,6 +23171,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackTown3.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackTown3.png"
+            },
             "internal_id": {
                 "N": "11945"
             },
@@ -21067,6 +23197,9 @@
             },
             "name": {
                 "S": "Town Backpack"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -21136,6 +23269,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackTown1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackTown1.png"
+            },
             "internal_id": {
                 "N": "6839"
             },
@@ -21156,6 +23295,9 @@
             },
             "name": {
                 "S": "Town Backpack"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -21225,6 +23367,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackTown0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackTown0.png"
+            },
             "internal_id": {
                 "N": "6838"
             },
@@ -21245,6 +23393,9 @@
             },
             "name": {
                 "S": "Town Backpack"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -21314,6 +23465,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackTown2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackTown2.png"
+            },
             "internal_id": {
                 "N": "11944"
             },
@@ -21334,6 +23491,9 @@
             },
             "name": {
                 "S": "Town Backpack"
+            },
+            "order": {
+                "N": "4"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -21403,6 +23563,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderTravel0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderTravel0.png"
+            },
             "internal_id": {
                 "N": "2550"
             },
@@ -21423,6 +23589,9 @@
             },
             "name": {
                 "S": "Travel Pouch"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -21492,6 +23661,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderTravel1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderTravel1.png"
+            },
             "internal_id": {
                 "N": "12000"
             },
@@ -21512,6 +23687,9 @@
             },
             "name": {
                 "S": "Travel Pouch"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -21581,6 +23759,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderTravel2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderTravel2.png"
+            },
             "internal_id": {
                 "N": "12001"
             },
@@ -21601,6 +23785,9 @@
             },
             "name": {
                 "S": "Travel Pouch"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -21670,6 +23857,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderTravel3.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderTravel3.png"
+            },
             "internal_id": {
                 "N": "12002"
             },
@@ -21690,6 +23883,9 @@
             },
             "name": {
                 "S": "Travel Pouch"
+            },
+            "order": {
+                "N": "4"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -21759,6 +23955,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackJourney0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackJourney0.png"
+            },
             "internal_id": {
                 "N": "7499"
             },
@@ -21779,6 +23981,9 @@
             },
             "name": {
                 "S": "Traveler's Backpack"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -21848,6 +24053,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackJourney1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackJourney1.png"
+            },
             "internal_id": {
                 "N": "11965"
             },
@@ -21868,6 +24079,9 @@
             },
             "name": {
                 "S": "Traveler's Backpack"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -21937,6 +24151,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackJourney2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackJourney2.png"
+            },
             "internal_id": {
                 "N": "11966"
             },
@@ -21957,6 +24177,9 @@
             },
             "name": {
                 "S": "Traveler's Backpack"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -22026,6 +24249,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "NULL": true
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/ToolBagEco0.png"
+            },
             "internal_id": {
                 "N": "14642"
             },
@@ -22046,6 +24275,9 @@
             },
             "name": {
                 "S": "Veggie-print Eco Bag"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -22115,6 +24347,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderVine0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderVine0.png"
+            },
             "internal_id": {
                 "N": "14249"
             },
@@ -22135,6 +24373,9 @@
             },
             "name": {
                 "S": "Woven-vine Pochette"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -22204,6 +24445,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackTownZebra0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackTownZebra0.png"
+            },
             "internal_id": {
                 "N": "14841"
             },
@@ -22224,6 +24471,9 @@
             },
             "name": {
                 "S": "Zebra-print Backpack"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -22293,6 +24543,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackTownZebra1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagBackpackTownZebra1.png"
+            },
             "internal_id": {
                 "N": "691"
             },
@@ -22313,6 +24569,9 @@
             },
             "name": {
                 "S": "Zebra-print Backpack"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -22382,6 +24641,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderSquareZebra0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderSquareZebra0.png"
+            },
             "internal_id": {
                 "N": "14895"
             },
@@ -22402,6 +24667,9 @@
             },
             "name": {
                 "S": "Zebra-print Shoulder Bag"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -22471,6 +24739,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderSquareZebra1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderSquareZebra1.png"
+            },
             "internal_id": {
                 "N": "726"
             },
@@ -22491,6 +24765,9 @@
             },
             "name": {
                 "S": "Zebra-print Shoulder Bag"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -22560,6 +24837,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderGamaguchiJapan0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderGamaguchiJapan0.png"
+            },
             "internal_id": {
                 "N": "14860"
             },
@@ -22580,6 +24863,9 @@
             },
             "name": {
                 "S": "Zen Clasp Purse"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -22649,6 +24935,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderGamaguchiJapan1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderGamaguchiJapan1.png"
+            },
             "internal_id": {
                 "N": "353"
             },
@@ -22669,6 +24961,9 @@
             },
             "name": {
                 "S": "Zen Clasp Purse"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -22738,6 +25033,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderGamaguchiJapan2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/BagShoulderGamaguchiJapan2.png"
+            },
             "internal_id": {
                 "N": "354"
             },
@@ -22758,6 +25059,9 @@
             },
             "name": {
                 "S": "Zen Clasp Purse"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"

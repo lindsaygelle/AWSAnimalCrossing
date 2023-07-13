@@ -31,6 +31,15 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectMiirotatehaCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectMiirotatehaCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins6.png"
+            },
             "internal_id": {
                 "N": "620"
             },
@@ -69,6 +78,9 @@
             },
             "unique_entry_id": {
                 "S": "aj95rMzdbSbvZy9A2"
+            },
+            "unlock_number": {
+                "N": "20"
             }
         },
         "TableName": "creature_insect"
@@ -104,6 +116,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectAriCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectAriCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins26.png"
             },
             "internal_id": {
                 "N": "588"
@@ -143,6 +164,9 @@
             },
             "unique_entry_id": {
                 "S": "QZpmczZu4hW2a4Rpv"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_insect"
@@ -178,6 +202,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectYonagunisanCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectYonagunisanCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins10.png"
             },
             "internal_id": {
                 "N": "652"
@@ -217,6 +250,9 @@
             },
             "unique_entry_id": {
                 "S": "u2GhYQJXDCQKp7AQ8"
+            },
+            "unlock_number": {
+                "N": "20"
             }
         },
         "TableName": "creature_insect"
@@ -252,6 +288,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectMinomushiCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectMinomushiCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins36.png"
             },
             "internal_id": {
                 "N": "622"
@@ -291,6 +336,9 @@
             },
             "unique_entry_id": {
                 "S": "QvxgCm82JqHsDknY4"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_insect"
@@ -326,6 +374,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectOniyanmaCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectOniyanmaCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins24.png"
             },
             "internal_id": {
                 "N": "635"
@@ -365,6 +422,9 @@
             },
             "unique_entry_id": {
                 "S": "pCFep58D6QusMSvR7"
+            },
+            "unlock_number": {
+                "N": "50"
             }
         },
         "TableName": "creature_insect"
@@ -400,6 +460,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectSuzumushiCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectSuzumushiCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins31.png"
             },
             "internal_id": {
                 "N": "642"
@@ -439,6 +508,9 @@
             },
             "unique_entry_id": {
                 "S": "d5EQqbQsip82G2CZE"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_insect"
@@ -474,6 +546,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectHousekizoumushiCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectHousekizoumushiCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins80.png"
             },
             "internal_id": {
                 "N": "3485"
@@ -513,6 +594,9 @@
             },
             "unique_entry_id": {
                 "S": "qocWy6r5RXjeThdYy"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_insect"
@@ -548,6 +632,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectAburazemiCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectAburazemiCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins17.png"
             },
             "internal_id": {
                 "N": "582"
@@ -587,6 +680,9 @@
             },
             "unique_entry_id": {
                 "S": "gBLRZ2J2R2wwYWFCk"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_insect"
@@ -622,6 +718,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectMukadeCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectMukadeCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins60.png"
             },
             "internal_id": {
                 "N": "628"
@@ -661,6 +766,9 @@
             },
             "unique_entry_id": {
                 "S": "ubStMQwHMJJcYje38"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_insect"
@@ -696,6 +804,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectSeminonukegaraCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectSeminonukegaraCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins69.png"
             },
             "internal_id": {
                 "N": "641"
@@ -735,6 +852,9 @@
             },
             "unique_entry_id": {
                 "S": "6s3MCahAroqpjGybW"
+            },
+            "unlock_number": {
+                "N": "50"
             }
         },
         "TableName": "creature_insect"
@@ -770,6 +890,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectGomadarakamikiriCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectGomadarakamikiriCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins39.png"
             },
             "internal_id": {
                 "N": "609"
@@ -809,6 +938,9 @@
             },
             "unique_entry_id": {
                 "S": "QR88MPLzYxSCHWZJb"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_insect"
@@ -844,6 +976,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectAosujiagehaCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectAosujiagehaCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins72.png"
             },
             "internal_id": {
                 "N": "3477"
@@ -883,6 +1024,9 @@
             },
             "unique_entry_id": {
                 "S": "vgkW2eovbpxNuGsFZ"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_insect"
@@ -918,6 +1062,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectMonshirochoCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectMonshirochoCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins0.png"
             },
             "internal_id": {
                 "N": "626"
@@ -957,6 +1110,9 @@
             },
             "unique_entry_id": {
                 "S": "tRJxp5N9XbwAGQHZc"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_insect"
@@ -992,6 +1148,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectKohrogiCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectKohrogiCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins30.png"
             },
             "internal_id": {
                 "N": "617"
@@ -1031,6 +1196,9 @@
             },
             "unique_entry_id": {
                 "S": "Lr7eFJzJJZpWRWekm"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_insect"
@@ -1066,6 +1234,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectHosoakakuwagataCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectHosoakakuwagataCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins49.png"
             },
             "internal_id": {
                 "N": "602"
@@ -1105,6 +1282,9 @@
             },
             "unique_entry_id": {
                 "S": "moBevd7J5hwpHeLcs"
+            },
+            "unlock_number": {
+                "N": "100"
             }
         },
         "TableName": "creature_insect"
@@ -1140,6 +1320,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectItotonboCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectItotonboCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins81.png"
             },
             "internal_id": {
                 "N": "5339"
@@ -1179,6 +1368,9 @@
             },
             "unique_entry_id": {
                 "S": "pBmqsa7CyeKzyRjDT"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_insect"
@@ -1214,6 +1406,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectGinyanmaCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectGinyanmaCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins23.png"
             },
             "internal_id": {
                 "N": "595"
@@ -1253,6 +1454,9 @@
             },
             "unique_entry_id": {
                 "S": "723NiWMh4iY9RJtAM"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_insect"
@@ -1288,6 +1492,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectGengorouCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectGengorouCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins28.png"
             },
             "internal_id": {
                 "N": "594"
@@ -1327,6 +1540,9 @@
             },
             "unique_entry_id": {
                 "S": "CBjt7itnPqEtNznrX"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_insect"
@@ -1362,6 +1578,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectKanabunCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectKanabunCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins75.png"
             },
             "internal_id": {
                 "N": "3480"
@@ -1401,6 +1626,9 @@
             },
             "unique_entry_id": {
                 "S": "uXmtRAQgY3g596tov"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_insect"
@@ -1436,6 +1664,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectFunkorogashiCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectFunkorogashiCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins40.png"
             },
             "internal_id": {
                 "N": "604"
@@ -1475,6 +1712,9 @@
             },
             "unique_entry_id": {
                 "S": "p9RhE8wLWpHtcoq5G"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_insect"
@@ -1510,6 +1750,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectOhsenchikoganeCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectSenchikoganeCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins42.png"
             },
             "internal_id": {
                 "N": "614"
@@ -1549,6 +1798,9 @@
             },
             "unique_entry_id": {
                 "S": "k2fqxdYnTF8BpHB7u"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_insect"
@@ -1584,6 +1836,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectMorufuochoCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectMorufuochoCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins5.png"
             },
             "internal_id": {
                 "N": "627"
@@ -1623,6 +1884,9 @@
             },
             "unique_entry_id": {
                 "S": "Lwkf7oQ3mcWYm6eEY"
+            },
+            "unlock_number": {
+                "N": "20"
             }
         },
         "TableName": "creature_insect"
@@ -1658,6 +1922,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectHigurashiCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectHigurashiCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins20.png"
             },
             "internal_id": {
                 "N": "601"
@@ -1697,6 +1970,9 @@
             },
             "unique_entry_id": {
                 "S": "kzX4apD9C3Nq8khzR"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_insect"
@@ -1732,6 +2008,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectHotaruCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectHotaruCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins41.png"
             },
             "internal_id": {
                 "N": "603"
@@ -1771,6 +2056,9 @@
             },
             "unique_entry_id": {
                 "S": "PgiwPqykwafyz5EL6"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_insect"
@@ -1806,6 +2094,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectNomiCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectNomiCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins56.png"
             },
             "internal_id": {
                 "N": "633"
@@ -1845,6 +2142,9 @@
             },
             "unique_entry_id": {
                 "S": "QzDywoJEAJDcjGfEF"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_insect"
@@ -1880,6 +2180,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectHaeCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectHaeCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins59.png"
             },
             "internal_id": {
                 "N": "597"
@@ -1919,6 +2228,9 @@
             },
             "unique_entry_id": {
                 "S": "xdBmuMgXJ6jGxpabK"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_insect"
@@ -1954,6 +2266,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectKumazemiCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectKumazemiCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins65.png"
             },
             "internal_id": {
                 "N": "618"
@@ -1993,6 +2314,9 @@
             },
             "unique_entry_id": {
                 "S": "nPm2r7idGshQW87MN"
+            },
+            "unlock_number": {
+                "N": "20"
             }
         },
         "TableName": "creature_insect"
@@ -2028,6 +2352,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectOhkuwagataCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectOhkuwagataCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins47.png"
             },
             "internal_id": {
                 "N": "637"
@@ -2067,6 +2400,9 @@
             },
             "unique_entry_id": {
                 "S": "KhrTLzayFz23zz2kn"
+            },
+            "unlock_number": {
+                "N": "50"
             }
         },
         "TableName": "creature_insect"
@@ -2102,6 +2438,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectTagameCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectTagameCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins76.png"
             },
             "internal_id": {
                 "N": "5157"
@@ -2141,6 +2486,9 @@
             },
             "unique_entry_id": {
                 "S": "ZsDdBvqAjZMG8EQkZ"
+            },
+            "unlock_number": {
+                "N": "50"
             }
         },
         "TableName": "creature_insect"
@@ -2176,6 +2524,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectGirafanokogirikuwagataCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectGirafanokogirikuwagataCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins77.png"
             },
             "internal_id": {
                 "N": "3482"
@@ -2215,6 +2572,9 @@
             },
             "unique_entry_id": {
                 "S": "PSChjzMhGwhnsHTs4"
+            },
+            "unlock_number": {
+                "N": "100"
             }
         },
         "TableName": "creature_insect"
@@ -2250,6 +2610,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectOugononikuwagataCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectOugononikuwagataCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins50.png"
             },
             "internal_id": {
                 "N": "638"
@@ -2289,6 +2658,9 @@
             },
             "unique_entry_id": {
                 "S": "2C8cSphidFCBPxYEe"
+            },
+            "unlock_number": {
+                "N": "100"
             }
         },
         "TableName": "creature_insect"
@@ -2324,6 +2696,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectGoraiasuohtsunohanamuguriCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectGoraiasuohtsunohanamuguriCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins55.png"
             },
             "internal_id": {
                 "N": "596"
@@ -2363,6 +2744,9 @@
             },
             "unique_entry_id": {
                 "S": "wZQMZfhtRyPFAapmF"
+            },
+            "unlock_number": {
+                "N": "100"
             }
         },
         "TableName": "creature_insect"
@@ -2398,6 +2782,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectKirigirisuCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectKirigirisuCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins32.png"
             },
             "internal_id": {
                 "N": "613"
@@ -2437,6 +2830,9 @@
             },
             "unique_entry_id": {
                 "S": "zkzSLJPkkcwXwShKc"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_insect"
@@ -2472,6 +2868,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectOhmurasakiCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectOhmurasakiCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins74.png"
             },
             "internal_id": {
                 "N": "3479"
@@ -2511,6 +2916,9 @@
             },
             "unique_entry_id": {
                 "S": "ZSre7sheZoRqsJwHQ"
+            },
+            "unlock_number": {
+                "N": "50"
             }
         },
         "TableName": "creature_insect"
@@ -2546,6 +2954,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectYadokariCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectYadokariCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins66.png"
             },
             "internal_id": {
                 "N": "651"
@@ -2585,6 +3002,9 @@
             },
             "unique_entry_id": {
                 "S": "TzbsfYgE4k2qo7fHN"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_insect"
@@ -2620,6 +3040,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectMitsubachiCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectMitsubachiCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins11.png"
             },
             "internal_id": {
                 "N": "623"
@@ -2659,6 +3088,9 @@
             },
             "unique_entry_id": {
                 "S": "yeWiAiqDRwinvumDm"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_insect"
@@ -2694,6 +3126,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectKohkasasuohkabutoCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectKohkasasuohkabutoCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins52.png"
             },
             "internal_id": {
                 "N": "615"
@@ -2733,6 +3174,9 @@
             },
             "unique_entry_id": {
                 "S": "S93y8gxrSHFNCFmwJ"
+            },
+            "unlock_number": {
+                "N": "100"
             }
         },
         "TableName": "creature_insect"
@@ -2768,6 +3212,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectKabutomushiCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectKabutomushiCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins51.png"
             },
             "internal_id": {
                 "N": "612"
@@ -2807,6 +3260,9 @@
             },
             "unique_entry_id": {
                 "S": "zaG8qsKLpbTjysx7D"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_insect"
@@ -2842,6 +3298,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectZoukabutoCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectZoukabutoCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins53.png"
             },
             "internal_id": {
                 "N": "653"
@@ -2881,6 +3346,9 @@
             },
             "unique_entry_id": {
                 "S": "M7SHXNEMf78nJD6fE"
+            },
+            "unlock_number": {
+                "N": "100"
             }
         },
         "TableName": "creature_insect"
@@ -2916,6 +3384,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectHerakuresuohkabutoCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectHerakuresuohkabutoCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins54.png"
             },
             "internal_id": {
                 "N": "600"
@@ -2955,6 +3432,9 @@
             },
             "unique_entry_id": {
                 "S": "TqhEomNEMDZ2wcTpk"
+            },
+            "unlock_number": {
+                "N": "100"
             }
         },
         "TableName": "creature_insect"
@@ -2990,6 +3470,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectTamamushiCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectTamamushiCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins44.png"
             },
             "internal_id": {
                 "N": "645"
@@ -3029,6 +3518,9 @@
             },
             "unique_entry_id": {
                 "S": "TYFowxRG4ydcvotkQ"
+            },
+            "unlock_number": {
+                "N": "20"
             }
         },
         "TableName": "creature_insect"
@@ -3064,6 +3556,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectTentoumushiCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectTentoumushiCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins37.png"
             },
             "internal_id": {
                 "N": "647"
@@ -3103,6 +3604,9 @@
             },
             "unique_entry_id": {
                 "S": "pYSSbvXzkuFneRvQ7"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_insect"
@@ -3138,6 +3642,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectShoryobattaCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectShoryobattaCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins13.png"
             },
             "internal_id": {
                 "N": "644"
@@ -3177,6 +3690,9 @@
             },
             "unique_entry_id": {
                 "S": "Q57sgq4hQTNZAqWXj"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_insect"
@@ -3212,6 +3728,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectNishikiohtsubamegaCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectNishikiohtsubamegaCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins79.png"
             },
             "internal_id": {
                 "N": "3484"
@@ -3251,6 +3776,9 @@
             },
             "unique_entry_id": {
                 "S": "EFWMygLqnJinFoXSW"
+            },
+            "unlock_number": {
+                "N": "20"
             }
         },
         "TableName": "creature_insect"
@@ -3286,6 +3814,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectJinmenkamemushiCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectJinmenkamemushiCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins78.png"
             },
             "internal_id": {
                 "N": "3483"
@@ -3325,6 +3862,9 @@
             },
             "unique_entry_id": {
                 "S": "zvr84Jvf4s6K23XJ5"
+            },
+            "unlock_number": {
+                "N": "20"
             }
         },
         "TableName": "creature_insect"
@@ -3360,6 +3900,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectKamakiriCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectKamakiriCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins15.png"
             },
             "internal_id": {
                 "N": "607"
@@ -3399,6 +3948,9 @@
             },
             "unique_entry_id": {
                 "S": "Qko2mfz7SaESpMcCv"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_insect"
@@ -3434,6 +3986,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectTonosamabattaCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectTonosamabattaCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins14.png"
             },
             "internal_id": {
                 "N": "648"
@@ -3473,6 +4034,9 @@
             },
             "unique_entry_id": {
                 "S": "dkGagcjd7aZwFEszw"
+            },
+            "unlock_number": {
+                "N": "20"
             }
         },
         "TableName": "creature_insect"
@@ -3508,6 +4072,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectMiyamakuwagataCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectMiyamakuwagataCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins45.png"
             },
             "internal_id": {
                 "N": "624"
@@ -3547,6 +4120,9 @@
             },
             "unique_entry_id": {
                 "S": "qRGGm6MfuP4Aqdk3M"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_insect"
@@ -3582,6 +4158,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectOkeraCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectOkeraCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins33.png"
             },
             "internal_id": {
                 "N": "634"
@@ -3621,6 +4206,9 @@
             },
             "unique_entry_id": {
                 "S": "HMWPGeeKw9LP6ucSq"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_insect"
@@ -3656,6 +4244,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectOhkabamadaraCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectOhkabamadaraCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins4.png"
             },
             "internal_id": {
                 "N": "636"
@@ -3695,6 +4292,9 @@
             },
             "unique_entry_id": {
                 "S": "BJPKSZMZ2tkLXkWjL"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_insect"
@@ -3730,6 +4330,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectKaCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectKaCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins58.png"
             },
             "internal_id": {
                 "N": "606"
@@ -3769,6 +4378,9 @@
             },
             "unique_entry_id": {
                 "S": "3mMZ74qpWWnoizJHh"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_insect"
@@ -3804,6 +4416,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectGaCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectGaCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins9.png"
             },
             "internal_id": {
                 "N": "592"
@@ -3843,6 +4464,9 @@
             },
             "unique_entry_id": {
                 "S": "7Kd97rqbYBuzuCHgf"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_insect"
@@ -3878,6 +4502,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectHanakamakiriCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectHanakamakiriCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins16.png"
             },
             "internal_id": {
                 "N": "598"
@@ -3917,6 +4550,9 @@
             },
             "unique_entry_id": {
                 "S": "9b4v6nMrrThHEtNbB"
+            },
+            "unlock_number": {
+                "N": "20"
             }
         },
         "TableName": "creature_insect"
@@ -3952,6 +4588,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectOhgomamadaraCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectOhgomamadaraCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins73.png"
             },
             "internal_id": {
                 "N": "3478"
@@ -3991,6 +4636,9 @@
             },
             "unique_entry_id": {
                 "S": "hzwridDJE99rPHLrZ"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_insect"
@@ -4026,6 +4674,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectKarasuagehaCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectKarasuagehaCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins3.png"
             },
             "internal_id": {
                 "N": "610"
@@ -4065,6 +4722,9 @@
             },
             "unique_entry_id": {
                 "S": "rguKzmnRkGmBMKzyE"
+            },
+            "unlock_number": {
+                "N": "20"
             }
         },
         "TableName": "creature_insect"
@@ -4100,6 +4760,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectDangomushiCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectDangomushiCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins57.png"
             },
             "internal_id": {
                 "N": "590"
@@ -4139,6 +4808,9 @@
             },
             "unique_entry_id": {
                 "S": "SGHXhcTzaNJD2z926"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_insect"
@@ -4174,6 +4846,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectAmenboCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectAmenboCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins27.png"
             },
             "internal_id": {
                 "N": "587"
@@ -4213,6 +4894,9 @@
             },
             "unique_entry_id": {
                 "S": "eSBNwiuZforpxNYem"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_insect"
@@ -4248,6 +4932,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectArekisandoratoribaneagehaCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectArekisandoratoribaneagehaCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins8.png"
             },
             "internal_id": {
                 "N": "586"
@@ -4287,6 +4980,9 @@
             },
             "unique_entry_id": {
                 "S": "PbNXeN9GZuJuow7jv"
+            },
+            "unlock_number": {
+                "N": "50"
             }
         },
         "TableName": "creature_insect"
@@ -4322,6 +5018,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectNijiirokuwagataCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectNijiirokuwagataCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins48.png"
             },
             "internal_id": {
                 "N": "631"
@@ -4361,6 +5066,9 @@
             },
             "unique_entry_id": {
                 "S": "Egfv6BDtFMeGZPmfh"
+            },
+            "unlock_number": {
+                "N": "50"
             }
         },
         "TableName": "creature_insect"
@@ -4396,6 +5104,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectAkaeritoribaneagehaCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectAkaeritoribaneagehaCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins7.png"
             },
             "internal_id": {
                 "N": "584"
@@ -4435,6 +5152,9 @@
             },
             "unique_entry_id": {
                 "S": "gLpHgXT4pPXP4XfWQ"
+            },
+            "unlock_number": {
+                "N": "20"
             }
         },
         "TableName": "creature_insect"
@@ -4470,6 +5190,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectAkiakaneCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectAkiakaneCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins22.png"
             },
             "internal_id": {
                 "N": "585"
@@ -4509,6 +5238,9 @@
             },
             "unique_entry_id": {
                 "S": "PKSHvkPphXteXHKuG"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_insect"
@@ -4544,6 +5276,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectInagoCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectInagoCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins67.png"
             },
             "internal_id": {
                 "N": "605"
@@ -4583,6 +5324,9 @@
             },
             "unique_entry_id": {
                 "S": "ZxXDxrgPvXEHz24Ni"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_insect"
@@ -4618,6 +5362,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectMinminzemiCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectMinminzemiCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins18.png"
             },
             "internal_id": {
                 "N": "621"
@@ -4657,6 +5410,9 @@
             },
             "unique_entry_id": {
                 "S": "cd5ymnRmRvT4n4yjB"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_insect"
@@ -4692,6 +5448,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectRuriboshikamikiriCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectRuriboshikamikiriCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins82.png"
             },
             "internal_id": {
                 "N": "3487"
@@ -4731,6 +5496,9 @@
             },
             "unique_entry_id": {
                 "S": "MSTA9vdJmGoDDADrF"
+            },
+            "unlock_number": {
+                "N": "20"
             }
         },
         "TableName": "creature_insect"
@@ -4766,6 +5534,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectNokogirikuwagataCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectNokogirikuwagataCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins46.png"
             },
             "internal_id": {
                 "N": "632"
@@ -4805,6 +5582,9 @@
             },
             "unique_entry_id": {
                 "S": "YQq3iSiBcBAHTWxc2"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_insect"
@@ -4840,6 +5620,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectPurachinakoganeCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectPurachinakoganeCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins43.png"
             },
             "internal_id": {
                 "N": "639"
@@ -4879,6 +5668,9 @@
             },
             "unique_entry_id": {
                 "S": "2HXdFD8s6BmYYMf4u"
+            },
+            "unlock_number": {
+                "N": "50"
             }
         },
         "TableName": "creature_insect"
@@ -4914,6 +5706,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectSasoriCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectSasoriCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins63.png"
             },
             "internal_id": {
                 "N": "640"
@@ -4953,6 +5754,9 @@
             },
             "unique_entry_id": {
                 "S": "xMzHsHbjvvicZvYxg"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_insect"
@@ -4988,6 +5792,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectKatatsumuriCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectKatatsumuriCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins29.png"
             },
             "internal_id": {
                 "N": "611"
@@ -5027,6 +5840,9 @@
             },
             "unique_entry_id": {
                 "S": "rDNLeQnmJQGxsHpmL"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_insect"
@@ -5062,6 +5878,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectKumoCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectKumoCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins61.png"
             },
             "internal_id": {
                 "N": "619"
@@ -5101,6 +5926,9 @@
             },
             "unique_entry_id": {
                 "S": "s2u8kDoMQx7GbAJTR"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_insect"
@@ -5136,6 +5964,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectKamemushiCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectKamemushiCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins64.png"
             },
             "internal_id": {
                 "N": "608"
@@ -5175,6 +6012,9 @@
             },
             "unique_entry_id": {
                 "S": "4u5GZ4z3CyaHhMgqj"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_insect"
@@ -5210,6 +6050,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectTaranchuraCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectTaranchuraCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins62.png"
             },
             "internal_id": {
                 "N": "646"
@@ -5249,6 +6098,9 @@
             },
             "unique_entry_id": {
                 "S": "4mto3ZvrZYpJxbm4c"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_insect"
@@ -5284,6 +6136,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectHanmyouCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectHanmyouCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins70.png"
             },
             "internal_id": {
                 "N": "599"
@@ -5323,6 +6184,9 @@
             },
             "unique_entry_id": {
                 "S": "zzGvu3797KnMb4LCD"
+            },
+            "unlock_number": {
+                "N": "20"
             }
         },
         "TableName": "creature_insect"
@@ -5358,6 +6222,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectAgehachoCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectAgehachoCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins2.png"
             },
             "internal_id": {
                 "N": "583"
@@ -5397,6 +6270,9 @@
             },
             "unique_entry_id": {
                 "S": "GcSpepwg536mYnNuu"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_insect"
@@ -5432,6 +6308,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectBaiorinmushiCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectBaiorinmushiCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins38.png"
             },
             "internal_id": {
                 "N": "650"
@@ -5471,6 +6356,9 @@
             },
             "unique_entry_id": {
                 "S": "poAcys5Mr35ELp5PS"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_insect"
@@ -5506,6 +6394,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectTsukutsukuhousiCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectTsukutsukuhousiCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins19.png"
             },
             "internal_id": {
                 "N": "649"
@@ -5545,6 +6442,9 @@
             },
             "unique_entry_id": {
                 "S": "QdrL4K7seJHvd4ZZM"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_insect"
@@ -5580,6 +6480,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectKonohamushiCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectKonohamushiCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins34.png"
             },
             "internal_id": {
                 "N": "616"
@@ -5619,6 +6528,9 @@
             },
             "unique_entry_id": {
                 "S": "kuZaMcg2E7ZX56nio"
+            },
+            "unlock_number": {
+                "N": "20"
             }
         },
         "TableName": "creature_insect"
@@ -5654,6 +6566,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectNanafushiCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectNanafushiCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins35.png"
             },
             "internal_id": {
                 "N": "630"
@@ -5693,6 +6614,9 @@
             },
             "unique_entry_id": {
                 "S": "WQjgrjYotbwH59vXG"
+            },
+            "unlock_number": {
+                "N": "20"
             }
         },
         "TableName": "creature_insect"
@@ -5728,6 +6652,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectHachiCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectHachiCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins12.png"
             },
             "internal_id": {
                 "N": "643"
@@ -5767,6 +6700,9 @@
             },
             "unique_entry_id": {
                 "S": "ZEfBHqM6pFEddBezw"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_insect"
@@ -5802,6 +6738,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectFunamushiCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectFunamushiCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins71.png"
             },
             "internal_id": {
                 "N": "591"
@@ -5841,6 +6786,9 @@
             },
             "unique_entry_id": {
                 "S": "2fp9ChfPuPdYefTK3"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_insect"
@@ -5876,6 +6824,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookInsectIcon/InsectMonkichoCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrInsectMonkichoCropped.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Ins1.png"
             },
             "internal_id": {
                 "N": "625"
@@ -5915,6 +6872,9 @@
             },
             "unique_entry_id": {
                 "S": "9d92MqgcnGao8wQjB"
+            },
+            "unlock_number": {
+                "N": "0"
             }
         },
         "TableName": "creature_insect"

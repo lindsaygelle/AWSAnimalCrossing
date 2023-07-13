@@ -43,6 +43,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/TopsTexMarinesuitNormalNGreco3.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/TopsTexMarinesuitNormalNGreco3.png"
+            },
             "internal_id": {
                 "N": "13103"
             },
@@ -64,11 +70,20 @@
             "name": {
                 "S": "Horizontal-striped Wet Suit"
             },
+            "order": {
+                "N": "1"
+            },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "750"
+            },
+            "shape_1": {
+                "S": "Marinesuit"
+            },
+            "shape_2": {
+                "S": "N"
             },
             "size_1": {
                 "N": "1.0"
@@ -132,6 +147,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/TopsTexMarinesuitNormalNGreco0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/TopsTexMarinesuitNormalNGreco0.png"
+            },
             "internal_id": {
                 "N": "12986"
             },
@@ -153,11 +174,20 @@
             "name": {
                 "S": "Horizontal-striped Wet Suit"
             },
+            "order": {
+                "N": "2"
+            },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "750"
+            },
+            "shape_1": {
+                "S": "Marinesuit"
+            },
+            "shape_2": {
+                "S": "N"
             },
             "size_1": {
                 "N": "1.0"
@@ -221,6 +251,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/TopsTexMarinesuitNormalNGreco2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/TopsTexMarinesuitNormalNGreco2.png"
+            },
             "internal_id": {
                 "N": "13102"
             },
@@ -242,11 +278,20 @@
             "name": {
                 "S": "Horizontal-striped Wet Suit"
             },
+            "order": {
+                "N": "3"
+            },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "750"
+            },
+            "shape_1": {
+                "S": "Marinesuit"
+            },
+            "shape_2": {
+                "S": "N"
             },
             "size_1": {
                 "N": "1.0"
@@ -310,6 +355,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/TopsTexMarinesuitNormalNGreco1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/TopsTexMarinesuitNormalNGreco1.png"
+            },
             "internal_id": {
                 "N": "13101"
             },
@@ -331,11 +382,20 @@
             "name": {
                 "S": "Horizontal-striped Wet Suit"
             },
+            "order": {
+                "N": "4"
+            },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "750"
+            },
+            "shape_1": {
+                "S": "Marinesuit"
+            },
+            "shape_2": {
+                "S": "N"
             },
             "size_1": {
                 "N": "1.0"
@@ -399,6 +459,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/TopsTexMarinesuitNormalLRashguard2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/TopsTexMarinesuitNormalLRashguard2.png"
+            },
             "internal_id": {
                 "N": "13099"
             },
@@ -420,11 +486,20 @@
             "name": {
                 "S": "Leaf-print Wet Suit"
             },
+            "order": {
+                "N": "1"
+            },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "750"
+            },
+            "shape_1": {
+                "S": "Marinesuit"
+            },
+            "shape_2": {
+                "S": "L"
             },
             "size_1": {
                 "N": "1.0"
@@ -488,6 +563,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/TopsTexMarinesuitNormalLRashguard3.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/TopsTexMarinesuitNormalLRashguard3.png"
+            },
             "internal_id": {
                 "N": "13100"
             },
@@ -509,11 +590,20 @@
             "name": {
                 "S": "Leaf-print Wet Suit"
             },
+            "order": {
+                "N": "2"
+            },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "750"
+            },
+            "shape_1": {
+                "S": "Marinesuit"
+            },
+            "shape_2": {
+                "S": "L"
             },
             "size_1": {
                 "N": "1.0"
@@ -577,6 +667,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/TopsTexMarinesuitNormalLRashguard0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/TopsTexMarinesuitNormalLRashguard0.png"
+            },
             "internal_id": {
                 "N": "12981"
             },
@@ -598,11 +694,20 @@
             "name": {
                 "S": "Leaf-print Wet Suit"
             },
+            "order": {
+                "N": "3"
+            },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "750"
+            },
+            "shape_1": {
+                "S": "Marinesuit"
+            },
+            "shape_2": {
+                "S": "L"
             },
             "size_1": {
                 "N": "1.0"
@@ -666,6 +771,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/TopsTexMarinesuitNormalLRashguard1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/TopsTexMarinesuitNormalLRashguard1.png"
+            },
             "internal_id": {
                 "N": "13098"
             },
@@ -687,11 +798,20 @@
             "name": {
                 "S": "Leaf-print Wet Suit"
             },
+            "order": {
+                "N": "4"
+            },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "750"
+            },
+            "shape_1": {
+                "S": "Marinesuit"
+            },
+            "shape_2": {
+                "S": "L"
             },
             "size_1": {
                 "N": "1.0"
@@ -755,6 +875,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/TopsTexMarinesuitNormalLNook0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/TopsTexMarinesuitNormalLNook0.png"
+            },
             "internal_id": {
                 "N": "12970"
             },
@@ -776,11 +902,20 @@
             "name": {
                 "S": "Nook Inc. wet suit"
             },
+            "order": {
+                "N": "1"
+            },
             "sell_currency": {
                 "S": "Bells"
             },
             "sell_price": {
                 "N": "4000"
+            },
+            "shape_1": {
+                "S": "Marinesuit"
+            },
+            "shape_2": {
+                "S": "L"
             },
             "size_1": {
                 "N": "1.0"

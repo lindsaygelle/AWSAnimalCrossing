@@ -1,6 +1,9 @@
 [
     {
         "Item": {
+            "challenge_category": {
+                "S": "Very Easy"
+            },
             "color_1": {
                 "S": "Blue"
             },
@@ -31,6 +34,15 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishAntyobiCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishAntyobi.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish81.png"
+            },
             "internal_id": {
                 "N": "4201"
             },
@@ -44,7 +56,7 @@
                 "BOOL": false
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Anchovy"
@@ -76,6 +88,9 @@
             "unique_entry_id": {
                 "S": "LzuWkSQP55uEpRCP5"
             },
+            "unlock_number": {
+                "N": "0"
+            },
             "vision_category": {
                 "S": "Very Wide"
             }
@@ -84,6 +99,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Easy"
+            },
             "color_1": {
                 "S": "Yellow"
             },
@@ -113,6 +131,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishAngelfishCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishAngelfish.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish30.png"
             },
             "internal_id": {
                 "N": "2247"
@@ -159,6 +186,9 @@
             "unique_entry_id": {
                 "S": "XTCFCk2SiuY5YXLZ7"
             },
+            "unlock_number": {
+                "N": "20"
+            },
             "vision_category": {
                 "S": "Medium"
             }
@@ -167,6 +197,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Very Hard"
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -197,6 +230,15 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishPirarukuCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishPiraruku.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish36.png"
+            },
             "internal_id": {
                 "N": "2253"
             },
@@ -210,7 +252,7 @@
                 "BOOL": false
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Arapaima"
@@ -242,6 +284,9 @@
             "unique_entry_id": {
                 "S": "mZy4BES54bqwi97br"
             },
+            "unlock_number": {
+                "N": "50"
+            },
             "vision_category": {
                 "S": "Narrow"
             }
@@ -250,6 +295,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Very Hard"
+            },
             "color_1": {
                 "S": "Yellow"
             },
@@ -279,6 +327,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishArowanaCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishArowana.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish33.png"
             },
             "internal_id": {
                 "N": "2250"
@@ -325,6 +382,9 @@
             "unique_entry_id": {
                 "S": "F68AvCaqddBJL7ZSN"
             },
+            "unlock_number": {
+                "N": "50"
+            },
             "vision_category": {
                 "S": "Medium"
             }
@@ -333,6 +393,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Hard"
+            },
             "color_1": {
                 "S": "White"
             },
@@ -362,6 +425,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishIshidaiCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishIshidai.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish47.png"
             },
             "internal_id": {
                 "N": "2265"
@@ -408,6 +480,9 @@
             "unique_entry_id": {
                 "S": "X3R9SFSAaDzBF4fE3"
             },
+            "unlock_number": {
+                "N": "20"
+            },
             "vision_category": {
                 "S": "Medium"
             }
@@ -416,6 +491,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Very Hard"
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -445,6 +523,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishDemenigisuCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishDemenigisu.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish84.png"
             },
             "internal_id": {
                 "N": "4204"
@@ -491,6 +578,9 @@
             "unique_entry_id": {
                 "S": "BpqTa4zmTjv3Nm4wE"
             },
+            "unlock_number": {
+                "N": "100"
+            },
             "vision_category": {
                 "S": "Very Narrow"
             }
@@ -499,6 +589,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Hard"
+            },
             "color_1": {
                 "S": "Aqua"
             },
@@ -528,6 +621,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishBetaCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishBeta.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish77.png"
             },
             "internal_id": {
                 "N": "4191"
@@ -574,6 +676,9 @@
             "unique_entry_id": {
                 "S": "7QcQXzwZoNGiNA94k"
             },
+            "unlock_number": {
+                "N": "20"
+            },
             "vision_category": {
                 "S": "Narrow"
             }
@@ -582,6 +687,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Hard"
+            },
             "color_1": {
                 "S": "Aqua"
             },
@@ -612,6 +720,15 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishTanagoCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishTanago.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish0.png"
+            },
             "internal_id": {
                 "N": "2215"
             },
@@ -625,7 +742,7 @@
                 "BOOL": false
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Bitterling"
@@ -657,6 +774,9 @@
             "unique_entry_id": {
                 "S": "Drj6eLRBgg4T9KhNx"
             },
+            "unlock_number": {
+                "N": "0"
+            },
             "vision_category": {
                 "S": "Medium"
             }
@@ -665,6 +785,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Medium"
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -694,6 +817,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishBlackbassCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishBlackbass.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish19.png"
             },
             "internal_id": {
                 "N": "2234"
@@ -740,6 +872,9 @@
             "unique_entry_id": {
                 "S": "wAZvfTca7GyaTtLcQ"
             },
+            "unlock_number": {
+                "N": "0"
+            },
             "vision_category": {
                 "S": "Medium"
             }
@@ -748,6 +883,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Medium"
+            },
             "color_1": {
                 "S": "Beige"
             },
@@ -777,6 +915,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishFuguCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishFugu.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish73.png"
             },
             "internal_id": {
                 "N": "2262"
@@ -823,6 +970,9 @@
             "unique_entry_id": {
                 "S": "aDsmTcByApycafxTa"
             },
+            "unlock_number": {
+                "N": "20"
+            },
             "vision_category": {
                 "S": "Very Narrow"
             }
@@ -831,6 +981,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Very Hard"
+            },
             "color_1": {
                 "S": "Blue"
             },
@@ -860,6 +1013,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishKajikiCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishKajiki.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish58.png"
             },
             "internal_id": {
                 "N": "2275"
@@ -906,6 +1068,9 @@
             "unique_entry_id": {
                 "S": "jhtsYRHydAcZnd6bJ"
             },
+            "unlock_number": {
+                "N": "50"
+            },
             "vision_category": {
                 "S": "Narrow"
             }
@@ -914,6 +1079,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Very Easy"
+            },
             "color_1": {
                 "S": "Blue"
             },
@@ -944,6 +1112,15 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishBlueguillCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishBlueguill.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish17.png"
+            },
             "internal_id": {
                 "N": "2232"
             },
@@ -957,7 +1134,7 @@
                 "BOOL": false
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Bluegill"
@@ -989,6 +1166,9 @@
             "unique_entry_id": {
                 "S": "8ygccYFCrWf4hwYGR"
             },
+            "unlock_number": {
+                "N": "0"
+            },
             "vision_category": {
                 "S": "Very Wide"
             }
@@ -997,6 +1177,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Easy"
+            },
             "color_1": {
                 "S": "Yellow"
             },
@@ -1026,6 +1209,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishChouchouuoCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishChouchouuo.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish42.png"
             },
             "internal_id": {
                 "N": "2259"
@@ -1072,6 +1264,9 @@
             "unique_entry_id": {
                 "S": "S4rkio2M3WB5cyy8Y"
             },
+            "unlock_number": {
+                "N": "0"
+            },
             "vision_category": {
                 "S": "Medium"
             }
@@ -1080,6 +1275,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Very Easy"
+            },
             "color_1": {
                 "S": "Gray"
             },
@@ -1109,6 +1307,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishKoiCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishKoi.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish5.png"
             },
             "internal_id": {
                 "N": "2219"
@@ -1155,6 +1362,9 @@
             "unique_entry_id": {
                 "S": "4DwwvGDwPQvZTn9Fb"
             },
+            "unlock_number": {
+                "N": "0"
+            },
             "vision_category": {
                 "S": "Medium"
             }
@@ -1163,6 +1373,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Medium"
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -1192,6 +1405,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishNamazuCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishNamazu.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish14.png"
             },
             "internal_id": {
                 "N": "2229"
@@ -1238,6 +1460,9 @@
             "unique_entry_id": {
                 "S": "nbPtvwf7HCQxA9Nc4"
             },
+            "unlock_number": {
+                "N": "0"
+            },
             "vision_category": {
                 "S": "Medium"
             }
@@ -1246,6 +1471,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Hard"
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -1275,6 +1503,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishOoiwanaCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishOoiwana.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish24.png"
             },
             "internal_id": {
                 "N": "2239"
@@ -1321,6 +1558,9 @@
             "unique_entry_id": {
                 "S": "ahbnwCqp3EZXa96KC"
             },
+            "unlock_number": {
+                "N": "20"
+            },
             "vision_category": {
                 "S": "Narrow"
             }
@@ -1329,6 +1569,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Medium"
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -1358,6 +1601,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishYamameCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishYamame.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish23.png"
             },
             "internal_id": {
                 "N": "2238"
@@ -1404,6 +1656,9 @@
             "unique_entry_id": {
                 "S": "sJyBbeLbpzn7LyzFr"
             },
+            "unlock_number": {
+                "N": "0"
+            },
             "vision_category": {
                 "S": "Narrow"
             }
@@ -1412,6 +1667,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Medium"
+            },
             "color_1": {
                 "S": "Orange"
             },
@@ -1441,6 +1699,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishKumanomiCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishKumanomi.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish40.png"
             },
             "internal_id": {
                 "N": "2257"
@@ -1487,6 +1754,9 @@
             "unique_entry_id": {
                 "S": "L9qxZaMoBhwxvpMyh"
             },
+            "unlock_number": {
+                "N": "0"
+            },
             "vision_category": {
                 "S": "Medium"
             }
@@ -1495,6 +1765,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Very Hard"
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -1524,6 +1797,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishSirakansuCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishSirakansu.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish63.png"
             },
             "internal_id": {
                 "N": "2284"
@@ -1570,6 +1852,9 @@
             "unique_entry_id": {
                 "S": "NjMZQ6Xi9NswEXnHH"
             },
+            "unlock_number": {
+                "N": "100"
+            },
             "vision_category": {
                 "S": "Very Narrow"
             }
@@ -1578,6 +1863,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Very Easy"
+            },
             "color_1": {
                 "S": "Red"
             },
@@ -1607,6 +1895,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishZariganiCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishZarigani.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish10.png"
             },
             "internal_id": {
                 "N": "2223"
@@ -1653,6 +1950,9 @@
             "unique_entry_id": {
                 "S": "W7TrwpycmfgniZipi"
             },
+            "unlock_number": {
+                "N": "0"
+            },
             "vision_category": {
                 "S": "Very Wide"
             }
@@ -1661,6 +1961,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Very Easy"
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -1690,6 +1993,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishFunaCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishFuna.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish2.png"
             },
             "internal_id": {
                 "N": "328"
@@ -1736,6 +2048,9 @@
             "unique_entry_id": {
                 "S": "Pdw7vmJz9PRM4ggbf"
             },
+            "unlock_number": {
+                "N": "0"
+            },
             "vision_category": {
                 "S": "Wide"
             }
@@ -1744,6 +2059,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Easy"
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -1773,6 +2091,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishKareiCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishKarei.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish50.png"
             },
             "internal_id": {
                 "N": "2268"
@@ -1819,6 +2146,9 @@
             "unique_entry_id": {
                 "S": "noA2Kfp8TaFgaLs5n"
             },
+            "unlock_number": {
+                "N": "0"
+            },
             "vision_category": {
                 "S": "Medium"
             }
@@ -1827,6 +2157,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Easy"
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -1856,6 +2189,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishUguiCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishUgui.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish3.png"
             },
             "internal_id": {
                 "N": "2217"
@@ -1902,6 +2244,9 @@
             "unique_entry_id": {
                 "S": "dWmXFdnjByWT5nEok"
             },
+            "unlock_number": {
+                "N": "0"
+            },
             "vision_category": {
                 "S": "Wide"
             }
@@ -1910,6 +2255,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Very Hard"
+            },
             "color_1": {
                 "S": "Yellow"
             },
@@ -1939,6 +2287,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishDoladoCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishDolado.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish34.png"
             },
             "internal_id": {
                 "N": "2251"
@@ -1985,6 +2342,9 @@
             "unique_entry_id": {
                 "S": "G7ZwD67cRMHBwTSKH"
             },
+            "unlock_number": {
+                "N": "100"
+            },
             "vision_category": {
                 "S": "Narrow"
             }
@@ -1993,6 +2353,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Very Easy"
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -2022,6 +2385,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishChouchinankouCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishChouchinankou.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish56.png"
             },
             "internal_id": {
                 "N": "2273"
@@ -2068,6 +2440,9 @@
             "unique_entry_id": {
                 "S": "vQHfve6DygtcYqwdi"
             },
+            "unlock_number": {
+                "N": "20"
+            },
             "vision_category": {
                 "S": "Wide"
             }
@@ -2076,6 +2451,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Very Easy"
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -2105,6 +2483,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishDonkoCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishDonko.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish12.png"
             },
             "internal_id": {
                 "N": "2227"
@@ -2151,6 +2538,9 @@
             "unique_entry_id": {
                 "S": "SfXYNdtaid6hdQhvZ"
             },
+            "unlock_number": {
+                "N": "0"
+            },
             "vision_category": {
                 "S": "Medium"
             }
@@ -2159,6 +2549,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Easy"
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -2188,6 +2581,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishKaeruCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishKaeru.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish11.png"
             },
             "internal_id": {
                 "N": "2226"
@@ -2234,6 +2636,9 @@
             "unique_entry_id": {
                 "S": "LcQLs85qPPdLajLje"
             },
+            "unlock_number": {
+                "N": "0"
+            },
             "vision_category": {
                 "S": "Very Wide"
             }
@@ -2242,6 +2647,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Hard"
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -2271,6 +2679,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishGaCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishGa.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish35.png"
             },
             "internal_id": {
                 "N": "2252"
@@ -2317,6 +2734,9 @@
             "unique_entry_id": {
                 "S": "x5yAYQgMJW9Kf7WyM"
             },
+            "unlock_number": {
+                "N": "50"
+            },
             "vision_category": {
                 "S": "Wide"
             }
@@ -2325,6 +2745,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Hard"
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -2354,6 +2777,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishRaigyoCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishRaigyo.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish16.png"
             },
             "internal_id": {
                 "N": "2231"
@@ -2400,6 +2832,9 @@
             "unique_entry_id": {
                 "S": "KyWQRd8W2FePM42wB"
             },
+            "unlock_number": {
+                "N": "50"
+            },
             "vision_category": {
                 "S": "Medium"
             }
@@ -2408,6 +2843,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Very Hard"
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -2437,6 +2875,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishRouninajiCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishGT.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish70.png"
             },
             "internal_id": {
                 "N": "2276"
@@ -2483,6 +2930,9 @@
             "unique_entry_id": {
                 "S": "53qtm8cMH4RfqJiAH"
             },
+            "unlock_number": {
+                "N": "20"
+            },
             "vision_category": {
                 "S": "Very Narrow"
             }
@@ -2491,6 +2941,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Very Hard"
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -2520,6 +2973,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishGoldenTorautoCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishGoldenTorauto.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish79.png"
             },
             "internal_id": {
                 "N": "4193"
@@ -2566,6 +3028,9 @@
             "unique_entry_id": {
                 "S": "wwGzR7FzWNJ7cDz9X"
             },
+            "unlock_number": {
+                "N": "100"
+            },
             "vision_category": {
                 "S": "Very Narrow"
             }
@@ -2574,6 +3039,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Easy"
+            },
             "color_1": {
                 "S": "Red"
             },
@@ -2604,6 +3072,15 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishKingyoCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishKingyo.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish7.png"
+            },
             "internal_id": {
                 "N": "329"
             },
@@ -2617,7 +3094,7 @@
                 "BOOL": false
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Goldfish"
@@ -2649,6 +3126,9 @@
             "unique_entry_id": {
                 "S": "5NwmwhEQxBNZCPiBR"
             },
+            "unlock_number": {
+                "N": "0"
+            },
             "vision_category": {
                 "S": "Medium"
             }
@@ -2657,6 +3137,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Very Hard"
+            },
             "color_1": {
                 "S": "Blue"
             },
@@ -2687,6 +3170,15 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishSameCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishSame.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish62.png"
+            },
             "internal_id": {
                 "N": "2280"
             },
@@ -2700,7 +3192,7 @@
                 "BOOL": false
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Great White Shark"
@@ -2732,6 +3224,9 @@
             "unique_entry_id": {
                 "S": "EPypAeJGuTDGFJRnx"
             },
+            "unlock_number": {
+                "N": "50"
+            },
             "vision_category": {
                 "S": "Narrow"
             }
@@ -2740,6 +3235,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Easy"
+            },
             "color_1": {
                 "S": "Blue"
             },
@@ -2769,6 +3267,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishGuppiCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishGuppi.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish29.png"
             },
             "internal_id": {
                 "N": "2245"
@@ -2815,6 +3322,9 @@
             "unique_entry_id": {
                 "S": "WtdZnARNxnWRobej2"
             },
+            "unlock_number": {
+                "N": "0"
+            },
             "vision_category": {
                 "S": "Medium"
             }
@@ -2823,6 +3333,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Hard"
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -2852,6 +3365,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishShumokuzameCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishShumokuzame.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish61.png"
             },
             "internal_id": {
                 "N": "2279"
@@ -2898,6 +3420,9 @@
             "unique_entry_id": {
                 "S": "guHT5g6H7tJEyqYzf"
             },
+            "unlock_number": {
+                "N": "20"
+            },
             "vision_category": {
                 "S": "Narrow"
             }
@@ -2906,6 +3431,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Very Easy"
+            },
             "color_1": {
                 "S": "Blue"
             },
@@ -2935,6 +3463,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishAjiCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishAji.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish46.png"
             },
             "internal_id": {
                 "N": "2264"
@@ -2981,6 +3518,9 @@
             "unique_entry_id": {
                 "S": "L24RYPaEcm9ZXkTui"
             },
+            "unlock_number": {
+                "N": "0"
+            },
             "vision_category": {
                 "S": "Wide"
             }
@@ -2989,6 +3529,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Medium"
+            },
             "color_1": {
                 "S": "Yellow"
             },
@@ -3018,6 +3561,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishMedakaCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishMedaka.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish9.png"
             },
             "internal_id": {
                 "N": "2222"
@@ -3064,6 +3616,9 @@
             "unique_entry_id": {
                 "S": "ZR9dsEApEXCjtXu3k"
             },
+            "unlock_number": {
+                "N": "0"
+            },
             "vision_category": {
                 "S": "Medium"
             }
@@ -3072,6 +3627,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Hard"
+            },
             "color_1": {
                 "S": "Gray"
             },
@@ -3101,6 +3659,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishKingsalmonCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishKingsalmon.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish28.png"
             },
             "internal_id": {
                 "N": "2243"
@@ -3147,6 +3714,9 @@
             "unique_entry_id": {
                 "S": "Pf5cXKo8pzdB45rAA"
             },
+            "unlock_number": {
+                "N": "20"
+            },
             "vision_category": {
                 "S": "Medium"
             }
@@ -3155,6 +3725,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Easy"
+            },
             "color_1": {
                 "S": "Red"
             },
@@ -3184,6 +3757,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishNishikigoiCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishNishikigoi.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish6.png"
             },
             "internal_id": {
                 "N": "2220"
@@ -3230,6 +3812,9 @@
             "unique_entry_id": {
                 "S": "kNwjLeqjg8bFevfiG"
             },
+            "unlock_number": {
+                "N": "20"
+            },
             "vision_category": {
                 "S": "Medium"
             }
@@ -3238,6 +3823,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Easy"
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -3268,6 +3856,15 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishDojouCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishDojou.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish13.png"
+            },
             "internal_id": {
                 "N": "2228"
             },
@@ -3281,7 +3878,7 @@
                 "BOOL": false
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Loach"
@@ -3313,6 +3910,9 @@
             "unique_entry_id": {
                 "S": "95yBKrQ4tdyWj4H25"
             },
+            "unlock_number": {
+                "N": "0"
+            },
             "vision_category": {
                 "S": "Wide"
             }
@@ -3321,6 +3921,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Very Hard"
+            },
             "color_1": {
                 "S": "Yellow"
             },
@@ -3350,6 +3953,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishShiiraCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishShiira.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish82.png"
             },
             "internal_id": {
                 "N": "4202"
@@ -3396,6 +4008,9 @@
             "unique_entry_id": {
                 "S": "D7gY39QDo8BBNs2Ne"
             },
+            "unlock_number": {
+                "N": "50"
+            },
             "vision_category": {
                 "S": "Very Narrow"
             }
@@ -3404,6 +4019,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Hard"
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -3434,6 +4052,15 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishSyanhaiganiCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishShanghai.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish66.png"
+            },
             "internal_id": {
                 "N": "2244"
             },
@@ -3447,7 +4074,7 @@
                 "BOOL": false
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Mitten Crab"
@@ -3479,6 +4106,9 @@
             "unique_entry_id": {
                 "S": "s2jqSYbMWBX6qCLDm"
             },
+            "unlock_number": {
+                "N": "20"
+            },
             "vision_category": {
                 "S": "Narrow"
             }
@@ -3487,6 +4117,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Easy"
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -3516,6 +4149,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishUtsuboCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishUtsubo.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish55.png"
             },
             "internal_id": {
                 "N": "2271"
@@ -3562,6 +4204,9 @@
             "unique_entry_id": {
                 "S": "4nLynLTMRtoqcCfh4"
             },
+            "unlock_number": {
+                "N": "20"
+            },
             "vision_category": {
                 "S": "Medium"
             }
@@ -3570,6 +4215,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Hard"
+            },
             "color_1": {
                 "S": "Aqua"
             },
@@ -3599,6 +4247,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishNaporeonfishCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishNaporeonfish.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish43.png"
             },
             "internal_id": {
                 "N": "2260"
@@ -3645,6 +4302,9 @@
             "unique_entry_id": {
                 "S": "dm4THC3AYR6CZ8bvJ"
             },
+            "unlock_number": {
+                "N": "50"
+            },
             "vision_category": {
                 "S": "Medium"
             }
@@ -3653,6 +4313,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Easy"
+            },
             "color_1": {
                 "S": "Aqua"
             },
@@ -3682,6 +4345,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishNeontetoraCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishNeontetora.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish31.png"
             },
             "internal_id": {
                 "N": "2248"
@@ -3728,6 +4400,9 @@
             "unique_entry_id": {
                 "S": "aEyRb96wcz9m8yjFN"
             },
+            "unlock_number": {
+                "N": "0"
+            },
             "vision_category": {
                 "S": "Medium"
             }
@@ -3736,6 +4411,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Medium"
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -3766,6 +4444,15 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishDokutaafishCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishDoctor.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish67.png"
+            },
             "internal_id": {
                 "N": "2246"
             },
@@ -3779,7 +4466,7 @@
                 "BOOL": false
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Nibble Fish"
@@ -3811,6 +4498,9 @@
             "unique_entry_id": {
                 "S": "pkPKYsMiXsTWNz4L4"
             },
+            "unlock_number": {
+                "N": "20"
+            },
             "vision_category": {
                 "S": "Narrow"
             }
@@ -3819,6 +4509,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Hard"
+            },
             "color_1": {
                 "S": "Red"
             },
@@ -3849,6 +4542,15 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishRyuuguunotukaiCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishRyugu.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish69.png"
+            },
             "internal_id": {
                 "N": "2283"
             },
@@ -3862,7 +4564,7 @@
                 "BOOL": false
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Oarfish"
@@ -3894,6 +4596,9 @@
             "unique_entry_id": {
                 "S": "qgvEPGk759xaBqwXP"
             },
+            "unlock_number": {
+                "N": "50"
+            },
             "vision_category": {
                 "S": "Very Narrow"
             }
@@ -3902,6 +4607,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Hard"
+            },
             "color_1": {
                 "S": "Blue"
             },
@@ -3932,6 +4640,15 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishManbouCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishManbou.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish60.png"
+            },
             "internal_id": {
                 "N": "2278"
             },
@@ -3945,7 +4662,7 @@
                 "BOOL": false
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Ocean Sunfish"
@@ -3977,6 +4694,9 @@
             "unique_entry_id": {
                 "S": "6BwK6LHbjFAKzgE82"
             },
+            "unlock_number": {
+                "N": "20"
+            },
             "vision_category": {
                 "S": "Very Narrow"
             }
@@ -3985,6 +4705,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Medium"
+            },
             "color_1": {
                 "S": "Beige"
             },
@@ -4014,6 +4737,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishHirameCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishHirame.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish51.png"
             },
             "internal_id": {
                 "N": "2269"
@@ -4060,6 +4792,9 @@
             "unique_entry_id": {
                 "S": "TXSteKMHuQ9ZfqPXm"
             },
+            "unlock_number": {
+                "N": "0"
+            },
             "vision_category": {
                 "S": "Narrow"
             }
@@ -4068,6 +4803,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Easy"
+            },
             "color_1": {
                 "S": "Blue"
             },
@@ -4098,6 +4836,15 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishOikawaCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishOikawa.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish1.png"
+            },
             "internal_id": {
                 "N": "2216"
             },
@@ -4111,7 +4858,7 @@
                 "BOOL": false
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Pale Chub"
@@ -4143,6 +4890,9 @@
             "unique_entry_id": {
                 "S": "pCn9TLap3rWiLYfnF"
             },
+            "unlock_number": {
+                "N": "0"
+            },
             "vision_category": {
                 "S": "Wide"
             }
@@ -4151,6 +4901,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Medium"
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -4180,6 +4933,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishPaikuCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishPaiku.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish20.png"
             },
             "internal_id": {
                 "N": "2235"
@@ -4226,6 +4988,9 @@
             "unique_entry_id": {
                 "S": "XxrB6iKQPhBkYKaXD"
             },
+            "unlock_number": {
+                "N": "20"
+            },
             "vision_category": {
                 "S": "Medium"
             }
@@ -4234,6 +4999,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Very Easy"
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -4263,6 +5031,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishPiraniaCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishPirania.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish32.png"
             },
             "internal_id": {
                 "N": "2249"
@@ -4309,6 +5086,9 @@
             "unique_entry_id": {
                 "S": "5C59HAFxmwNSjH4Zq"
             },
+            "unlock_number": {
+                "N": "20"
+            },
             "vision_category": {
                 "S": "Very Wide"
             }
@@ -4317,6 +5097,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Easy"
+            },
             "color_1": {
                 "S": "Orange"
             },
@@ -4347,6 +5130,15 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishWakasagiCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishWakasagi.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish21.png"
+            },
             "internal_id": {
                 "N": "2236"
             },
@@ -4360,7 +5152,7 @@
                 "BOOL": false
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Pond Smelt"
@@ -4392,6 +5184,9 @@
             "unique_entry_id": {
                 "S": "DDb2GPEjapPmbYbWG"
             },
+            "unlock_number": {
+                "N": "0"
+            },
             "vision_category": {
                 "S": "Wide"
             }
@@ -4400,6 +5195,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Easy"
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -4430,6 +5228,15 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishDemekinCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishDemekin.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish8.png"
+            },
             "internal_id": {
                 "N": "2221"
             },
@@ -4443,7 +5250,7 @@
                 "BOOL": false
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Pop-eyed Goldfish"
@@ -4475,6 +5282,9 @@
             "unique_entry_id": {
                 "S": "RvqzuA438gGqRJ7NG"
             },
+            "unlock_number": {
+                "N": "0"
+            },
             "vision_category": {
                 "S": "Medium"
             }
@@ -4483,6 +5293,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Easy"
+            },
             "color_1": {
                 "S": "Beige"
             },
@@ -4512,6 +5325,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishHarisenbonCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishHarisenbon.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish45.png"
             },
             "internal_id": {
                 "N": "2263"
@@ -4558,6 +5380,9 @@
             "unique_entry_id": {
                 "S": "jNkgaybfSsv8MkaQ2"
             },
+            "unlock_number": {
+                "N": "0"
+            },
             "vision_category": {
                 "S": "Medium"
             }
@@ -4566,6 +5391,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Hard"
+            },
             "color_1": {
                 "S": "Orange"
             },
@@ -4595,6 +5423,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishRainbowfishCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishRainbowfish.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish80.png"
             },
             "internal_id": {
                 "N": "4194"
@@ -4641,6 +5478,9 @@
             "unique_entry_id": {
                 "S": "XJfkdS4C2MPYiscST"
             },
+            "unlock_number": {
+                "N": "0"
+            },
             "vision_category": {
                 "S": "Narrow"
             }
@@ -4649,6 +5489,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Hard"
+            },
             "color_1": {
                 "S": "Red"
             },
@@ -4679,6 +5522,15 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishRanchuCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishRanchu.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish85.png"
+            },
             "internal_id": {
                 "N": "5254"
             },
@@ -4692,7 +5544,7 @@
                 "BOOL": false
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Ranchu Goldfish"
@@ -4724,6 +5576,9 @@
             "unique_entry_id": {
                 "S": "4NE2SteWKEaBYjgWb"
             },
+            "unlock_number": {
+                "N": "20"
+            },
             "vision_category": {
                 "S": "Narrow"
             }
@@ -4732,6 +5587,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Easy"
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -4761,6 +5619,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishEiCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishEi.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish59.png"
             },
             "internal_id": {
                 "N": "2277"
@@ -4807,6 +5674,9 @@
             "unique_entry_id": {
                 "S": "gP5F7wWFvFqiZzuGw"
             },
+            "unlock_number": {
+                "N": "20"
+            },
             "vision_category": {
                 "S": "Medium"
             }
@@ -4815,6 +5685,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Hard"
+            },
             "color_1": {
                 "S": "Red"
             },
@@ -4844,6 +5717,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishTaiCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishTai.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish49.png"
             },
             "internal_id": {
                 "N": "2267"
@@ -4890,6 +5772,9 @@
             "unique_entry_id": {
                 "S": "iY4zfgojAfLskW4CQ"
             },
+            "unlock_number": {
+                "N": "0"
+            },
             "vision_category": {
                 "S": "Medium"
             }
@@ -4898,6 +5783,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Hard"
+            },
             "color_1": {
                 "S": "Blue"
             },
@@ -4927,6 +5815,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishHanahigeutuboCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishHanahige.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish71.png"
             },
             "internal_id": {
                 "N": "2272"
@@ -4973,6 +5870,9 @@
             "unique_entry_id": {
                 "S": "T9zeSBHpB5qyAZTxu"
             },
+            "unlock_number": {
+                "N": "0"
+            },
             "vision_category": {
                 "S": "Very Narrow"
             }
@@ -4981,6 +5881,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Hard"
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -5010,6 +5913,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishEndorikeriiCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishEndlicheri.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish68.png"
             },
             "internal_id": {
                 "N": "2254"
@@ -5056,6 +5968,9 @@
             "unique_entry_id": {
                 "S": "bcTmnwZxrw2iJsQmf"
             },
+            "unlock_number": {
+                "N": "20"
+            },
             "vision_category": {
                 "S": "Narrow"
             }
@@ -5064,6 +5979,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Medium"
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -5093,6 +6011,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishSakeCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishSake.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish27.png"
             },
             "internal_id": {
                 "N": "2242"
@@ -5139,6 +6066,9 @@
             "unique_entry_id": {
                 "S": "iwXhnZcSezNxqdNQf"
             },
+            "unlock_number": {
+                "N": "0"
+            },
             "vision_category": {
                 "S": "Medium"
             }
@@ -5147,6 +6077,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Hard"
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -5176,6 +6109,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishNokogirizameCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishNokogiri.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish74.png"
             },
             "internal_id": {
                 "N": "2281"
@@ -5222,6 +6164,9 @@
             "unique_entry_id": {
                 "S": "tsrT7a8cbtwZrmJTz"
             },
+            "unlock_number": {
+                "N": "50"
+            },
             "vision_category": {
                 "S": "Very Narrow"
             }
@@ -5230,6 +6175,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Easy"
+            },
             "color_1": {
                 "S": "Gray"
             },
@@ -5259,6 +6207,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishSuzukiCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishSuzuki.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish48.png"
             },
             "internal_id": {
                 "N": "2266"
@@ -5305,6 +6262,9 @@
             "unique_entry_id": {
                 "S": "LkA5hzibm6uiHDB9g"
             },
+            "unlock_number": {
+                "N": "0"
+            },
             "vision_category": {
                 "S": "Wide"
             }
@@ -5313,6 +6273,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Easy"
+            },
             "color_1": {
                 "S": "White"
             },
@@ -5342,6 +6305,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishKurioneCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishKurione.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish37.png"
             },
             "internal_id": {
                 "N": "2255"
@@ -5388,6 +6360,9 @@
             "unique_entry_id": {
                 "S": "kd5beizyQGeyjeM79"
             },
+            "unlock_number": {
+                "N": "0"
+            },
             "vision_category": {
                 "S": "Very Narrow"
             }
@@ -5396,6 +6371,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Medium"
+            },
             "color_1": {
                 "S": "Orange"
             },
@@ -5425,6 +6403,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishTatsunootoshigoCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishTatsunootoshigo.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish39.png"
             },
             "internal_id": {
                 "N": "2256"
@@ -5471,6 +6458,9 @@
             "unique_entry_id": {
                 "S": "Pw5oZqC29NWEGRfyS"
             },
+            "unlock_number": {
+                "N": "0"
+            },
             "vision_category": {
                 "S": "Narrow"
             }
@@ -5479,6 +6469,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Hard"
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -5509,6 +6502,15 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishKamitsukigameCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishKamitukigame.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish78.png"
+            },
             "internal_id": {
                 "N": "4192"
             },
@@ -5522,7 +6524,7 @@
                 "BOOL": false
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Snapping Turtle"
@@ -5554,6 +6556,9 @@
             "unique_entry_id": {
                 "S": "SJa3LLde3Yuz4H3D7"
             },
+            "unlock_number": {
+                "N": "0"
+            },
             "vision_category": {
                 "S": "Medium"
             }
@@ -5562,6 +6567,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Hard"
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -5592,6 +6600,15 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishSupponCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishSuppon.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish65.png"
+            },
             "internal_id": {
                 "N": "2224"
             },
@@ -5605,7 +6622,7 @@
                 "BOOL": false
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Soft-shelled Turtle"
@@ -5637,6 +6654,9 @@
             "unique_entry_id": {
                 "S": "izuY2f4GtEGT3BtuR"
             },
+            "unlock_number": {
+                "N": "20"
+            },
             "vision_category": {
                 "S": "Narrow"
             }
@@ -5645,6 +6665,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Easy"
+            },
             "color_1": {
                 "S": "Beige"
             },
@@ -5674,6 +6697,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishIkaCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishIka.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish52.png"
             },
             "internal_id": {
                 "N": "2270"
@@ -5720,6 +6752,9 @@
             "unique_entry_id": {
                 "S": "qxHJ6BGgyQujkC28w"
             },
+            "unlock_number": {
+                "N": "0"
+            },
             "vision_category": {
                 "S": "Wide"
             }
@@ -5728,6 +6763,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Very Hard"
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -5757,6 +6795,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishItouCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishItou.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish26.png"
             },
             "internal_id": {
                 "N": "2241"
@@ -5803,6 +6850,9 @@
             "unique_entry_id": {
                 "S": "APXg8kSzjcmoGGWSP"
             },
+            "unlock_number": {
+                "N": "100"
+            },
             "vision_category": {
                 "S": "Very Narrow"
             }
@@ -5811,6 +6861,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Very Hard"
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -5840,6 +6893,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishTyouzameCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishTyouzame.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish75.png"
             },
             "internal_id": {
                 "N": "4189"
@@ -5886,6 +6948,9 @@
             "unique_entry_id": {
                 "S": "XabKYtzYDNSNrFvpw"
             },
+            "unlock_number": {
+                "N": "20"
+            },
             "vision_category": {
                 "S": "Very Narrow"
             }
@@ -5894,6 +6959,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Very Easy"
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -5923,6 +6991,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishKobanzameCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishKobanzame.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish83.png"
             },
             "internal_id": {
                 "N": "4203"
@@ -5969,6 +7046,9 @@
             "unique_entry_id": {
                 "S": "FPpwmMDn9rYAJazyS"
             },
+            "unlock_number": {
+                "N": "20"
+            },
             "vision_category": {
                 "S": "Very Wide"
             }
@@ -5977,6 +7057,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Easy"
+            },
             "color_1": {
                 "S": "Blue"
             },
@@ -6006,6 +7089,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishNanyouhagiCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishNanyouhagi.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish41.png"
             },
             "internal_id": {
                 "N": "2258"
@@ -6052,6 +7144,9 @@
             "unique_entry_id": {
                 "S": "s7iioofF5C7PzCZyF"
             },
+            "unlock_number": {
+                "N": "0"
+            },
             "vision_category": {
                 "S": "Medium"
             }
@@ -6060,6 +7155,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Hard"
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -6089,6 +7187,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishAyuCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishAyu.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish22.png"
             },
             "internal_id": {
                 "N": "2237"
@@ -6135,6 +7242,9 @@
             "unique_entry_id": {
                 "S": "dWgg2bjCicuiZjXW6"
             },
+            "unlock_number": {
+                "N": "0"
+            },
             "vision_category": {
                 "S": "Medium"
             }
@@ -6143,6 +7253,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Easy"
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -6173,6 +7286,15 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishOtamajakusiCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishOtama.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish64.png"
+            },
             "internal_id": {
                 "N": "2225"
             },
@@ -6186,7 +7308,7 @@
                 "BOOL": false
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Tadpole"
@@ -6218,6 +7340,9 @@
             "unique_entry_id": {
                 "S": "rb8MsjWopKYWuQK8s"
             },
+            "unlock_number": {
+                "N": "0"
+            },
             "vision_category": {
                 "S": "Very Wide"
             }
@@ -6226,6 +7351,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Hard"
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -6255,6 +7383,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishThirapiaCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishThirapia.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish76.png"
             },
             "internal_id": {
                 "N": "4190"
@@ -6301,6 +7438,9 @@
             "unique_entry_id": {
                 "S": "as78rnkwY3ahrTkBY"
             },
+            "unlock_number": {
+                "N": "0"
+            },
             "vision_category": {
                 "S": "Medium"
             }
@@ -6309,6 +7449,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Very Hard"
+            },
             "color_1": {
                 "S": "Blue"
             },
@@ -6338,6 +7481,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishMaguroCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishMaguro.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish57.png"
             },
             "internal_id": {
                 "N": "2274"
@@ -6384,6 +7536,9 @@
             "unique_entry_id": {
                 "S": "4PnGXx9DSb866AeCM"
             },
+            "unlock_number": {
+                "N": "50"
+            },
             "vision_category": {
                 "S": "Narrow"
             }
@@ -6392,6 +7547,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Very Hard"
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -6422,6 +7580,15 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishJinbeezameCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishJinbee.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish72.png"
+            },
             "internal_id": {
                 "N": "2282"
             },
@@ -6435,7 +7602,7 @@
                 "BOOL": false
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Whale Shark"
@@ -6467,6 +7634,9 @@
             "unique_entry_id": {
                 "S": "r3RAtJsXENwnFvQh7"
             },
+            "unlock_number": {
+                "N": "50"
+            },
             "vision_category": {
                 "S": "Very Narrow"
             }
@@ -6475,6 +7645,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Medium"
+            },
             "color_1": {
                 "S": "Yellow"
             },
@@ -6504,6 +7677,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishYellowparchCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishYellowparch.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish18.png"
             },
             "internal_id": {
                 "N": "2233"
@@ -6550,6 +7732,9 @@
             "unique_entry_id": {
                 "S": "bLgE5dicZniF5zZDW"
             },
+            "unlock_number": {
+                "N": "0"
+            },
             "vision_category": {
                 "S": "Narrow"
             }
@@ -6558,6 +7743,9 @@
     },
     {
         "Item": {
+            "challenge_category": {
+                "S": "Very Easy"
+            },
             "color_1": {
                 "S": "Red"
             },
@@ -6587,6 +7775,15 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_critterpedia": {
+                "S": "https://acnhcdn.com/latest/BookFishIcon/FishMinokasagoCropped.png"
+            },
+            "image_furniture_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrFishMinokasago.png"
+            },
+            "image_icon_url": {
+                "S": "https://acnhcdn.com/latest/MenuIcon/Fish44.png"
             },
             "internal_id": {
                 "N": "2261"
@@ -6632,6 +7829,9 @@
             },
             "unique_entry_id": {
                 "S": "h7fa7Fh3Ay7vAxgE2"
+            },
+            "unlock_number": {
+                "N": "0"
             },
             "vision_category": {
                 "S": "Wide"

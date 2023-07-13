@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 29,
-    "minProperties": 29,
+    "maxProperties": 32,
+    "minProperties": 32,
     "properties": {
         "buy_currency": {
             "maxLength": 5,
@@ -101,6 +101,20 @@
                 "null"
             ]
         },
+        "image_closet": {
+            "maxLength": 76,
+            "minLength": 60,
+            "type": [
+                "string"
+            ]
+        },
+        "image_storage": {
+            "maxLength": 73,
+            "minLength": 57,
+            "type": [
+                "string"
+            ]
+        },
         "internal_id": {
             "exclusiveMaximum": false,
             "exclusiveMinimum": false,
@@ -140,6 +154,15 @@
             "minLength": 3,
             "type": [
                 "string"
+            ]
+        },
+        "order": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 8,
+            "minimum": 1,
+            "type": [
+                "integer"
             ]
         },
         "sell_currency": {
@@ -220,6 +243,8 @@
         "hha_points",
         "hha_series",
         "hha_set",
+        "image_closet",
+        "image_storage",
         "internal_id",
         "internal_label",
         "internal_name",
@@ -227,6 +252,7 @@
         "is_equippable",
         "is_unlocked",
         "name",
+        "order",
         "sell_currency",
         "sell_price",
         "size_1",

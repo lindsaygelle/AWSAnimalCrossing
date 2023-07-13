@@ -31,6 +31,9 @@
             "filename": {
                 "S": "RoomTexWallAbstract00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -48,6 +51,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallAbstract00.png"
             },
             "internal_id": {
                 "N": "4873"
@@ -123,6 +129,9 @@
             "filename": {
                 "S": "RoomSpWallAirplane00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -140,6 +149,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallAirplane00.png"
             },
             "internal_id": {
                 "N": "5497"
@@ -215,6 +227,9 @@
             "filename": {
                 "S": "RoomTexWallEgypt00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -232,6 +247,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallEgypt00.png"
             },
             "internal_id": {
                 "N": "4936"
@@ -307,6 +325,9 @@
             "filename": {
                 "S": "RoomTexWallAntique00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -324,6 +345,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallAntique00.png"
             },
             "internal_id": {
                 "N": "13331"
@@ -399,6 +423,9 @@
             "filename": {
                 "S": "RoomTexWallDisplay00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -416,6 +443,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallDisplay00.png"
             },
             "internal_id": {
                 "N": "12911"
@@ -491,6 +521,9 @@
             "filename": {
                 "S": "RoomTexWallApple00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -508,6 +541,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallApple00.png"
             },
             "internal_id": {
                 "N": "4916"
@@ -583,6 +619,9 @@
             "filename": {
                 "S": "RoomTexWallTile01"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -600,6 +639,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallTile01.png"
             },
             "internal_id": {
                 "N": "4930"
@@ -675,6 +717,9 @@
             "filename": {
                 "S": "RoomSpWallGlass00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -692,6 +737,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallGlass00.png"
             },
             "internal_id": {
                 "N": "5482"
@@ -767,6 +815,9 @@
             "filename": {
                 "S": "RoomSpWallAurora00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -784,6 +835,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallAurora00.png"
             },
             "internal_id": {
                 "N": "13609"
@@ -859,6 +913,9 @@
             "filename": {
                 "S": "RoomSpWallAutumun00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -876,6 +933,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallAutumun00.png"
             },
             "internal_id": {
                 "N": "4905"
@@ -951,6 +1011,9 @@
             "filename": {
                 "S": "RoomSpWallBackyard00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -968,6 +1031,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallBackyard00.png"
             },
             "internal_id": {
                 "N": "5481"
@@ -1043,6 +1109,9 @@
             "filename": {
                 "S": "RoomTexWallBamboo00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -1060,6 +1129,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallBamboo00.png"
             },
             "internal_id": {
                 "N": "4833"
@@ -1135,6 +1207,9 @@
             "filename": {
                 "S": "RoomTexWallChikurin00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -1152,6 +1227,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallChikurin00.png"
             },
             "internal_id": {
                 "N": "4853"
@@ -1227,6 +1305,9 @@
             "filename": {
                 "S": "RoomTexWallRattan00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -1244,6 +1325,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallRattan00.png"
             },
             "internal_id": {
                 "N": "4836"
@@ -1319,6 +1403,9 @@
             "filename": {
                 "S": "RoomTexWallSafeBox00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -1336,6 +1423,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallSafeBox00.png"
             },
             "internal_id": {
                 "N": "4839"
@@ -1411,6 +1501,9 @@
             "filename": {
                 "S": "RoomSpWallSimplePanel00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -1428,6 +1521,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallSimplePanel00.png"
             },
             "internal_id": {
                 "N": "5559"
@@ -1503,6 +1599,9 @@
             "filename": {
                 "S": "RoomTexWallPublicBath00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -1520,6 +1619,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallPublicBath00.png"
             },
             "internal_id": {
                 "N": "4829"
@@ -1595,6 +1697,9 @@
             "filename": {
                 "S": "RoomTexWallBeadsCurtain00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -1612,6 +1717,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallBeadsCurtain00.png"
             },
             "internal_id": {
                 "N": "4877"
@@ -1687,6 +1795,9 @@
             "filename": {
                 "S": "RoomTexWallArtDeco00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -1704,6 +1815,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallArtDeco00.png"
             },
             "internal_id": {
                 "N": "4817"
@@ -1779,6 +1893,9 @@
             "filename": {
                 "S": "RoomTexWallCountry00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -1796,6 +1913,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallCountry00.png"
             },
             "internal_id": {
                 "N": "4831"
@@ -1871,6 +1991,9 @@
             "filename": {
                 "S": "RoomTexWallMorocco00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -1888,6 +2011,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallMorocco00.png"
             },
             "internal_id": {
                 "N": "4834"
@@ -1963,6 +2089,9 @@
             "filename": {
                 "S": "RoomTexWallWoodTile03"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -1980,6 +2109,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallWoodTile03.png"
             },
             "internal_id": {
                 "N": "6877"
@@ -2055,6 +2187,9 @@
             "filename": {
                 "S": "RoomSpWallFrench01"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -2072,6 +2207,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallFrench01.png"
             },
             "internal_id": {
                 "N": "13866"
@@ -2147,6 +2285,9 @@
             "filename": {
                 "S": "RoomTexWallHall03"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -2164,6 +2305,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallHall03.png"
             },
             "internal_id": {
                 "N": "6862"
@@ -2239,6 +2383,9 @@
             "filename": {
                 "S": "RoomTexWallPegboard02"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -2256,6 +2403,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallPegboard02.png"
             },
             "internal_id": {
                 "N": "4922"
@@ -2331,6 +2481,9 @@
             "filename": {
                 "S": "RoomTexWallTwoToneTile06"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -2348,6 +2501,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallTwoToneTile06.png"
             },
             "internal_id": {
                 "N": "6859"
@@ -2423,6 +2579,9 @@
             "filename": {
                 "S": "RoomSpWallWindow01"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -2440,6 +2599,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallWindow01.png"
             },
             "internal_id": {
                 "N": "13438"
@@ -2515,6 +2677,9 @@
             "filename": {
                 "S": "RoomTexWallBrick02"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -2532,6 +2697,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallBrick02.png"
             },
             "internal_id": {
                 "N": "4929"
@@ -2607,6 +2775,9 @@
             "filename": {
                 "S": "RoomTexWallCrown01"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -2624,6 +2795,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallCrown01.png"
             },
             "internal_id": {
                 "N": "4815"
@@ -2699,6 +2873,9 @@
             "filename": {
                 "S": "RoomTexWallBlackBoard00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -2716,6 +2893,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallBlackBoard00.png"
             },
             "internal_id": {
                 "N": "4882"
@@ -2791,6 +2971,9 @@
             "filename": {
                 "S": "RoomTexWallCountry02"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -2808,6 +2991,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallCountry02.png"
             },
             "internal_id": {
                 "N": "4896"
@@ -2883,6 +3069,9 @@
             "filename": {
                 "S": "RoomTexWallCamouflage01"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -2900,6 +3089,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallCamouflage01.png"
             },
             "internal_id": {
                 "N": "4884"
@@ -2975,6 +3167,9 @@
             "filename": {
                 "S": "RoomTexWallManor03"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -2992,6 +3187,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallManor03.png"
             },
             "internal_id": {
                 "N": "6852"
@@ -3067,6 +3265,9 @@
             "filename": {
                 "S": "RoomTexWallDiner00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -3084,6 +3285,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallDiner00.png"
             },
             "internal_id": {
                 "N": "7241"
@@ -3159,6 +3363,9 @@
             "filename": {
                 "S": "RoomTexWallFlower03"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -3176,6 +3383,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallFlower03.png"
             },
             "internal_id": {
                 "N": "6873"
@@ -3251,6 +3461,9 @@
             "filename": {
                 "S": "RoomTexWallHeart00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -3268,6 +3481,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallHeart00.png"
             },
             "internal_id": {
                 "N": "4874"
@@ -3343,6 +3559,9 @@
             "filename": {
                 "S": "RoomTexWallHoneycomb01"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -3360,6 +3579,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallHoneycomb01.png"
             },
             "internal_id": {
                 "N": "4912"
@@ -3435,6 +3657,9 @@
             "filename": {
                 "S": "RoomTexWallFlowerPop00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -3452,6 +3677,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallFlowerPop00.png"
             },
             "internal_id": {
                 "N": "4848"
@@ -3527,6 +3755,9 @@
             "filename": {
                 "S": "RoomTexWallPanelMold01"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -3544,6 +3775,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallPanelMold01.png"
             },
             "internal_id": {
                 "N": "4871"
@@ -3619,6 +3853,9 @@
             "filename": {
                 "S": "RoomTexWallMorocco01"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -3636,6 +3873,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallMorocco01.png"
             },
             "internal_id": {
                 "N": "4835"
@@ -3711,6 +3951,9 @@
             "filename": {
                 "S": "RoomTexWallTadelakt00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -3728,6 +3971,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallTadelakt00.png"
             },
             "internal_id": {
                 "N": "13487"
@@ -3803,6 +4049,9 @@
             "filename": {
                 "S": "RoomTexWallPaintWood00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -3820,6 +4069,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallPaintWood00.png"
             },
             "internal_id": {
                 "N": "4948"
@@ -3895,6 +4147,9 @@
             "filename": {
                 "S": "RoomTexWallToy00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -3912,6 +4167,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallToy00.png"
             },
             "internal_id": {
                 "N": "4888"
@@ -3987,6 +4245,9 @@
             "filename": {
                 "S": "RoomTexWallDollhouse01"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -4004,6 +4265,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallDollhouse01.png"
             },
             "internal_id": {
                 "N": "7277"
@@ -4079,6 +4343,9 @@
             "filename": {
                 "S": "RoomTexWallTin02"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -4096,6 +4363,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallTin02.png"
             },
             "internal_id": {
                 "N": "4925"
@@ -4171,6 +4441,9 @@
             "filename": {
                 "S": "RoomTexWallSimple03"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -4188,6 +4461,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallSimple03.png"
             },
             "internal_id": {
                 "N": "4869"
@@ -4263,6 +4539,9 @@
             "filename": {
                 "S": "RoomTexWallMetro00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -4280,6 +4559,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallMetro00.png"
             },
             "internal_id": {
                 "N": "4940"
@@ -4355,6 +4637,9 @@
             "filename": {
                 "S": "RoomTexWallTile03"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -4372,6 +4657,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallTile03.png"
             },
             "internal_id": {
                 "N": "7127"
@@ -4447,6 +4735,9 @@
             "filename": {
                 "S": "RoomTexWallTwoToneTile05"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -4464,6 +4755,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallTwoToneTile05.png"
             },
             "internal_id": {
                 "N": "6858"
@@ -4539,6 +4833,9 @@
             "filename": {
                 "S": "RoomTexWallCrown00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -4556,6 +4853,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallCrown00.png"
             },
             "internal_id": {
                 "N": "4814"
@@ -4631,6 +4931,9 @@
             "filename": {
                 "S": "RoomTexWallStucco03"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -4648,6 +4951,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallStucco03.png"
             },
             "internal_id": {
                 "N": "4811"
@@ -4723,6 +5029,9 @@
             "filename": {
                 "S": "RoomTexWallRose03"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -4740,6 +5049,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallRose03.png"
             },
             "internal_id": {
                 "N": "6869"
@@ -4815,6 +5127,9 @@
             "filename": {
                 "S": "RoomTexWallStripe03"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -4832,6 +5147,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallStripe03.png"
             },
             "internal_id": {
                 "N": "4945"
@@ -4907,6 +5225,9 @@
             "filename": {
                 "S": "RoomTexWallWoodTile02"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -4924,6 +5245,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallWoodTile02.png"
             },
             "internal_id": {
                 "N": "6876"
@@ -4999,6 +5323,9 @@
             "filename": {
                 "S": "RoomSpWallSchoolyard00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -5016,6 +5343,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallSchoolyard00.png"
             },
             "internal_id": {
                 "N": "12855"
@@ -5091,6 +5421,9 @@
             "filename": {
                 "S": "RoomTexWallWoodTile01"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -5108,6 +5441,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallWoodTile01.png"
             },
             "internal_id": {
                 "N": "4827"
@@ -5183,6 +5519,9 @@
             "filename": {
                 "S": "RoomTexWallDiner03"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -5200,6 +5539,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallDiner03.png"
             },
             "internal_id": {
                 "N": "7244"
@@ -5275,6 +5617,9 @@
             "filename": {
                 "S": "RoomTexWallHall00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -5292,6 +5637,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallHall00.png"
             },
             "internal_id": {
                 "N": "4806"
@@ -5367,6 +5715,9 @@
             "filename": {
                 "S": "RoomTexWallHerringbone00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -5384,6 +5735,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallHerringbone00.png"
             },
             "internal_id": {
                 "N": "4804"
@@ -5459,6 +5813,9 @@
             "filename": {
                 "S": "RoomTexWallTin03"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -5476,6 +5833,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallTin03.png"
             },
             "internal_id": {
                 "N": "4926"
@@ -5551,6 +5911,9 @@
             "filename": {
                 "S": "RoomSpWallChurch01"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -5568,6 +5931,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallChurch01.png"
             },
             "internal_id": {
                 "N": "12468"
@@ -5643,6 +6009,9 @@
             "filename": {
                 "S": "RoomTexWallBrick03"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -5660,6 +6029,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallBrick03.png"
             },
             "internal_id": {
                 "N": "6850"
@@ -5735,6 +6107,9 @@
             "filename": {
                 "S": "RoomTexWallCrown03"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -5752,6 +6127,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallCrown03.png"
             },
             "internal_id": {
                 "N": "6851"
@@ -5827,6 +6205,9 @@
             "filename": {
                 "S": "RoomTexWallEaster00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -5844,6 +6225,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallEaster00.png"
             },
             "internal_id": {
                 "N": "5231"
@@ -5919,6 +6303,9 @@
             "filename": {
                 "S": "RoomTexWallInsect00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -5936,6 +6323,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallInsect00.png"
             },
             "internal_id": {
                 "N": "4880"
@@ -6011,6 +6401,9 @@
             "filename": {
                 "S": "RoomTexWallLog00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -6028,6 +6421,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallLog00.png"
             },
             "internal_id": {
                 "N": "4840"
@@ -6103,6 +6499,9 @@
             "filename": {
                 "S": "RoomSpWallCafe00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -6120,6 +6519,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallCafe00.png"
             },
             "internal_id": {
                 "N": "5483"
@@ -6195,6 +6597,9 @@
             "filename": {
                 "S": "RoomTexWallCamouflage00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -6212,6 +6617,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallCamouflage00.png"
             },
             "internal_id": {
                 "N": "4883"
@@ -6287,6 +6695,9 @@
             "filename": {
                 "S": "RoomSpWallCandle00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -6304,6 +6715,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallCandle00.png"
             },
             "internal_id": {
                 "N": "5492"
@@ -6379,6 +6793,9 @@
             "filename": {
                 "S": "RoomSpWallEmptyLot00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -6396,6 +6813,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallEmptyLot00.png"
             },
             "internal_id": {
                 "N": "5485"
@@ -6471,6 +6891,9 @@
             "filename": {
                 "S": "RoomTexWallCherry00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -6488,6 +6911,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallCherry00.png"
             },
             "internal_id": {
                 "N": "4919"
@@ -6563,6 +6989,9 @@
             "filename": {
                 "S": "RoomSpWallSakura00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -6580,6 +7009,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallSakura00.png"
             },
             "internal_id": {
                 "N": "7205"
@@ -6655,6 +7087,9 @@
             "filename": {
                 "S": "RoomTexWallMud03"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -6672,6 +7107,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallMud03.png"
             },
             "internal_id": {
                 "N": "11176"
@@ -6747,6 +7185,9 @@
             "filename": {
                 "S": "RoomTexWallClassic00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -6764,6 +7205,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallClassic00.png"
             },
             "internal_id": {
                 "N": "4828"
@@ -6839,6 +7283,9 @@
             "filename": {
                 "S": "RoomTexWallHall01"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -6856,6 +7303,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallHall01.png"
             },
             "internal_id": {
                 "N": "4807"
@@ -6931,6 +7381,9 @@
             "filename": {
                 "S": "RoomTexWallHerringbone01"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -6948,6 +7401,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallHerringbone01.png"
             },
             "internal_id": {
                 "N": "4805"
@@ -7023,6 +7479,9 @@
             "filename": {
                 "S": "RoomTexWallCinnamon00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -7040,6 +7499,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallCinnamon00.png"
             },
             "internal_id": {
                 "N": "10172"
@@ -7115,6 +7577,9 @@
             "filename": {
                 "S": "RoomTexWallGeek00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -7132,6 +7597,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallGeek00.png"
             },
             "internal_id": {
                 "N": "4821"
@@ -7207,6 +7675,9 @@
             "filename": {
                 "S": "RoomSpWallSummer00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -7224,6 +7695,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallSummer00.png"
             },
             "internal_id": {
                 "N": "12721"
@@ -7299,6 +7773,9 @@
             "filename": {
                 "S": "RoomSpWallNightView00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -7316,6 +7793,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallNightView00.png"
             },
             "internal_id": {
                 "N": "5400"
@@ -7391,6 +7871,9 @@
             "filename": {
                 "S": "RoomTexWallLibrary00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -7408,6 +7891,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallLibrary00.png"
             },
             "internal_id": {
                 "N": "4837"
@@ -7483,6 +7969,9 @@
             "filename": {
                 "S": "RoomSpWallClub00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -7500,6 +7989,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallClub00.png"
             },
             "internal_id": {
                 "N": "13130"
@@ -7575,6 +8067,9 @@
             "filename": {
                 "S": "RoomTexWallCoffee00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -7592,6 +8087,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallCoffee00.png"
             },
             "internal_id": {
                 "N": "12908"
@@ -7667,6 +8165,9 @@
             "filename": {
                 "S": "RoomTexWallPuzzle01"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -7684,6 +8185,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallPuzzle01.png"
             },
             "internal_id": {
                 "N": "4887"
@@ -7759,6 +8263,9 @@
             "filename": {
                 "S": "RoomTexWallTile02"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -7776,6 +8283,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallTile02.png"
             },
             "internal_id": {
                 "N": "4931"
@@ -7851,6 +8361,9 @@
             "filename": {
                 "S": "RoomTexWallCommon00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -7868,6 +8381,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallCommon00.png"
             },
             "internal_id": {
                 "N": "4795"
@@ -7943,6 +8459,9 @@
             "filename": {
                 "S": "RoomSpWallStand00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -7960,6 +8479,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallStand00.png"
             },
             "internal_id": {
                 "N": "12913"
@@ -8035,6 +8557,9 @@
             "filename": {
                 "S": "RoomTexWallConcrete00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -8052,6 +8577,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallConcrete00.png"
             },
             "internal_id": {
                 "N": "4890"
@@ -8127,6 +8655,9 @@
             "filename": {
                 "S": "RoomTexWallBlueSheet00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -8144,6 +8675,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallBlueSheet00.png"
             },
             "internal_id": {
                 "N": "4843"
@@ -8219,6 +8753,9 @@
             "filename": {
                 "S": "RoomTexWallCrepe00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -8236,6 +8773,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallCrepe00.png"
             },
             "internal_id": {
                 "N": "4841"
@@ -8311,6 +8851,9 @@
             "filename": {
                 "S": "RoomTexWallCute02"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -8328,6 +8871,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallCute02.png"
             },
             "internal_id": {
                 "N": "7217"
@@ -8403,6 +8949,9 @@
             "filename": {
                 "S": "RoomTexWallCute01"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -8420,6 +8969,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallCute01.png"
             },
             "internal_id": {
                 "N": "7216"
@@ -8495,6 +9047,9 @@
             "filename": {
                 "S": "RoomTexWallCute00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -8512,6 +9067,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallCute00.png"
             },
             "internal_id": {
                 "N": "7215"
@@ -8587,6 +9145,9 @@
             "filename": {
                 "S": "RoomTexWallCute03"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -8604,6 +9165,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallCute03.png"
             },
             "internal_id": {
                 "N": "7218"
@@ -8679,6 +9243,9 @@
             "filename": {
                 "S": "RoomTexWallMixPlankWood01"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -8696,6 +9263,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallMixPlankWood01.png"
             },
             "internal_id": {
                 "N": "4860"
@@ -8771,6 +9341,9 @@
             "filename": {
                 "S": "RoomTexWallChocolate00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -8788,6 +9361,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallChocolate00.png"
             },
             "internal_id": {
                 "N": "4932"
@@ -8863,6 +9439,9 @@
             "filename": {
                 "S": "RoomSpWallDesert00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -8880,6 +9459,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallDesert00.png"
             },
             "internal_id": {
                 "N": "5488"
@@ -8955,6 +9537,9 @@
             "filename": {
                 "S": "RoomTexWallStratum00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -8972,6 +9557,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallStratum00.png"
             },
             "internal_id": {
                 "N": "5222"
@@ -9047,6 +9635,9 @@
             "filename": {
                 "S": "RoomTexWallOldSoil00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -9064,6 +9655,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallOldSoil00.png"
             },
             "internal_id": {
                 "N": "4856"
@@ -9139,6 +9733,9 @@
             "filename": {
                 "S": "RoomTexWallBaseboards00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -9156,6 +9753,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallBaseboards00.png"
             },
             "internal_id": {
                 "N": "5227"
@@ -9231,6 +9831,9 @@
             "filename": {
                 "S": "RoomSpWallJail00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -9248,6 +9851,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallJail00.png"
             },
             "internal_id": {
                 "N": "5509"
@@ -9323,6 +9929,9 @@
             "filename": {
                 "S": "RoomTexWallChina00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -9340,6 +9949,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallChina00.png"
             },
             "internal_id": {
                 "N": "4866"
@@ -9415,6 +10027,9 @@
             "filename": {
                 "S": "RoomSpWallSnowy00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -9432,6 +10047,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallSnowy00.png"
             },
             "internal_id": {
                 "N": "13603"
@@ -9507,6 +10125,9 @@
             "filename": {
                 "S": "RoomSpWallFireworks00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -9524,6 +10145,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallFireworks00.png"
             },
             "internal_id": {
                 "N": "13230"
@@ -9599,6 +10223,9 @@
             "filename": {
                 "S": "RoomTexWallMushForest00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -9616,6 +10243,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallMushForest00.png"
             },
             "internal_id": {
                 "N": "7187"
@@ -9691,6 +10321,9 @@
             "filename": {
                 "S": "RoomSpWallFrozenFood00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -9708,6 +10341,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallFrozenFood00.png"
             },
             "internal_id": {
                 "N": "13358"
@@ -9783,6 +10419,9 @@
             "filename": {
                 "S": "RoomSpWallTechnology00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -9800,6 +10439,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallTechnology00.png"
             },
             "internal_id": {
                 "N": "5494"
@@ -9875,6 +10517,9 @@
             "filename": {
                 "S": "RoomTexWallGarbage00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -9892,6 +10537,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallGarbage00.png"
             },
             "internal_id": {
                 "N": "5229"
@@ -9967,6 +10615,9 @@
             "filename": {
                 "S": "RoomSpWallGlowCave00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -9984,6 +10635,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallGlowCave00.png"
             },
             "internal_id": {
                 "N": "13881"
@@ -10059,6 +10713,9 @@
             "filename": {
                 "S": "RoomSpWallGlowMoss00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -10076,6 +10733,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallGlowMoss00.png"
             },
             "internal_id": {
                 "N": "13019"
@@ -10151,6 +10811,9 @@
             "filename": {
                 "S": "RoomSpWallGlowRemains00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -10168,6 +10831,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallGlowRemains00.png"
             },
             "internal_id": {
                 "N": "13874"
@@ -10243,6 +10909,9 @@
             "filename": {
                 "S": "RoomTexWallFusumaGorgeous00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -10260,6 +10929,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallFusumaGorgeous00.png"
             },
             "internal_id": {
                 "N": "4820"
@@ -10335,6 +11007,9 @@
             "filename": {
                 "S": "RoomTexWallGold00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -10352,6 +11027,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallGold00.png"
             },
             "internal_id": {
                 "N": "4894"
@@ -10427,6 +11105,9 @@
             "filename": {
                 "S": "RoomSpWallCemetery00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -10444,6 +11125,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallCemetery00.png"
             },
             "internal_id": {
                 "N": "5511"
@@ -10519,6 +11203,9 @@
             "filename": {
                 "S": "RoomTexWallDiner02"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -10536,6 +11223,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallDiner02.png"
             },
             "internal_id": {
                 "N": "7243"
@@ -10611,6 +11301,9 @@
             "filename": {
                 "S": "RoomTexWallLocker01"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -10628,6 +11321,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallLocker01.png"
             },
             "internal_id": {
                 "N": "13441"
@@ -10703,6 +11399,9 @@
             "filename": {
                 "S": "RoomTexWallPanelMold02"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -10720,6 +11419,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallPanelMold02.png"
             },
             "internal_id": {
                 "N": "4872"
@@ -10795,6 +11497,9 @@
             "filename": {
                 "S": "RoomTexWallTin00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -10812,6 +11517,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallTin00.png"
             },
             "internal_id": {
                 "N": "4923"
@@ -10887,6 +11595,9 @@
             "filename": {
                 "S": "RoomTexWallShelf01"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -10904,6 +11615,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallShelf01.png"
             },
             "internal_id": {
                 "N": "13442"
@@ -10979,6 +11693,9 @@
             "filename": {
                 "S": "RoomTexWallStripe02"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -10996,6 +11713,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallStripe02.png"
             },
             "internal_id": {
                 "N": "4944"
@@ -11071,6 +11791,9 @@
             "filename": {
                 "S": "RoomTexWallCountry03"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -11088,6 +11811,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallCountry03.png"
             },
             "internal_id": {
                 "N": "4903"
@@ -11163,6 +11889,9 @@
             "filename": {
                 "S": "RoomTexWallManor02"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -11180,6 +11909,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallManor02.png"
             },
             "internal_id": {
                 "N": "4898"
@@ -11255,6 +11987,9 @@
             "filename": {
                 "S": "RoomTexWallFlower01"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -11272,6 +12007,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallFlower01.png"
             },
             "internal_id": {
                 "N": "4935"
@@ -11347,6 +12085,9 @@
             "filename": {
                 "S": "RoomTexWallHoneycomb02"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -11364,6 +12105,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallHoneycomb02.png"
             },
             "internal_id": {
                 "N": "4913"
@@ -11439,6 +12183,9 @@
             "filename": {
                 "S": "RoomTexWallFlowerPop02"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -11456,6 +12203,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallFlowerPop02.png"
             },
             "internal_id": {
                 "N": "6878"
@@ -11531,6 +12281,9 @@
             "filename": {
                 "S": "RoomTexWallPanelMold03"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -11548,6 +12301,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallPanelMold03.png"
             },
             "internal_id": {
                 "N": "6854"
@@ -11623,6 +12379,9 @@
             "filename": {
                 "S": "RoomTexWallPaintWood01"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -11640,6 +12399,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallPaintWood01.png"
             },
             "internal_id": {
                 "N": "4949"
@@ -11715,6 +12477,9 @@
             "filename": {
                 "S": "RoomTexWallToy02"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -11732,6 +12497,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallToy02.png"
             },
             "internal_id": {
                 "N": "6866"
@@ -11807,6 +12575,9 @@
             "filename": {
                 "S": "RoomSpWallChurch02"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -11824,6 +12595,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallChurch02.png"
             },
             "internal_id": {
                 "N": "12469"
@@ -11899,6 +12673,9 @@
             "filename": {
                 "S": "RoomTexWallStucco04"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -11916,6 +12693,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallStucco04.png"
             },
             "internal_id": {
                 "N": "4812"
@@ -11991,6 +12771,9 @@
             "filename": {
                 "S": "RoomSpWallGreenHouse00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -12008,6 +12791,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallGreenHouse00.png"
             },
             "internal_id": {
                 "N": "13434"
@@ -12083,6 +12869,9 @@
             "filename": {
                 "S": "RoomTexWallPsyche00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -12100,6 +12889,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallPsyche00.png"
             },
             "internal_id": {
                 "N": "4846"
@@ -12175,6 +12967,9 @@
             "filename": {
                 "S": "RoomTexWallBoard00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -12192,6 +12987,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallBoard00.png"
             },
             "internal_id": {
                 "N": "12848"
@@ -12267,6 +13065,9 @@
             "filename": {
                 "S": "RoomTexWallOriental00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -12284,6 +13085,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallOriental00.png"
             },
             "internal_id": {
                 "N": "11180"
@@ -12359,6 +13163,9 @@
             "filename": {
                 "S": "RoomTexWallThickCurtain00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -12376,6 +13183,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallThickCurtain00.png"
             },
             "internal_id": {
                 "N": "4878"
@@ -12451,6 +13261,9 @@
             "filename": {
                 "S": "RoomTexWallKitty00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -12468,6 +13281,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallKitty00.png"
             },
             "internal_id": {
                 "N": "10171"
@@ -12543,6 +13359,9 @@
             "filename": {
                 "S": "RoomTexWallHoney00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -12560,6 +13379,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallHoney00.png"
             },
             "internal_id": {
                 "N": "4865"
@@ -12635,6 +13457,9 @@
             "filename": {
                 "S": "RoomTexWallHoneycomb00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -12652,6 +13477,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallHoneycomb00.png"
             },
             "internal_id": {
                 "N": "4909"
@@ -12727,6 +13555,9 @@
             "filename": {
                 "S": "RoomSpWallIce00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -12744,6 +13575,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallIce00.png"
             },
             "internal_id": {
                 "N": "5505"
@@ -12819,6 +13653,9 @@
             "filename": {
                 "S": "RoomTexWallIcecream00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -12836,6 +13673,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallIcecream00.png"
             },
             "internal_id": {
                 "N": "12909"
@@ -12911,6 +13751,9 @@
             "filename": {
                 "S": "RoomTexWallIceFloe00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -12928,6 +13771,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallIceFloe00.png"
             },
             "internal_id": {
                 "N": "5662"
@@ -13003,6 +13849,9 @@
             "filename": {
                 "S": "RoomTexWallDynasty00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -13020,6 +13869,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallDynasty00.png"
             },
             "internal_id": {
                 "N": "5224"
@@ -13095,6 +13947,9 @@
             "filename": {
                 "S": "RoomTexWallFactory00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -13112,6 +13967,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallFactory00.png"
             },
             "internal_id": {
                 "N": "4876"
@@ -13187,6 +14045,9 @@
             "filename": {
                 "S": "RoomTexWallIvy00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -13204,6 +14065,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallIvy00.png"
             },
             "internal_id": {
                 "N": "4850"
@@ -13279,6 +14143,9 @@
             "filename": {
                 "S": "RoomSpWallXmas00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -13296,6 +14163,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallXmas00.png"
             },
             "internal_id": {
                 "N": "5230"
@@ -13371,6 +14241,9 @@
             "filename": {
                 "S": "RoomTexWallJungle00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -13388,6 +14261,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallJungle00.png"
             },
             "internal_id": {
                 "N": "5457"
@@ -13463,6 +14339,9 @@
             "filename": {
                 "S": "RoomTexWallKeroppi00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -13480,6 +14359,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallKeroppi00.png"
             },
             "internal_id": {
                 "N": "10175"
@@ -13555,6 +14437,9 @@
             "filename": {
                 "S": "RoomTexWallKikilala00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -13572,6 +14457,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallKikilala00.png"
             },
             "internal_id": {
                 "N": "10176"
@@ -13647,6 +14535,9 @@
             "filename": {
                 "S": "RoomTexWallKiss00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -13664,6 +14555,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallKiss00.png"
             },
             "internal_id": {
                 "N": "4881"
@@ -13739,6 +14633,9 @@
             "filename": {
                 "S": "RoomSpWallLabo00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -13756,6 +14653,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallLabo00.png"
             },
             "internal_id": {
                 "N": "5495"
@@ -13831,6 +14731,9 @@
             "filename": {
                 "S": "RoomTexWallLattice00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -13848,6 +14751,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallLattice00.png"
             },
             "internal_id": {
                 "N": "4830"
@@ -13923,6 +14829,9 @@
             "filename": {
                 "S": "RoomSpWallLimestone00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -13940,6 +14849,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallLimestone00.png"
             },
             "internal_id": {
                 "N": "5507"
@@ -14015,6 +14927,9 @@
             "filename": {
                 "S": "RoomSpWallVolcano00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -14032,6 +14947,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallVolcano00.png"
             },
             "internal_id": {
                 "N": "5506"
@@ -14107,6 +15025,9 @@
             "filename": {
                 "S": "RoomTexWallLibrary01"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -14124,6 +15045,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallLibrary01.png"
             },
             "internal_id": {
                 "N": "4838"
@@ -14199,6 +15123,9 @@
             "filename": {
                 "S": "RoomTexWallMangrove00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -14216,6 +15143,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallMangrove00.png"
             },
             "internal_id": {
                 "N": "5514"
@@ -14291,6 +15221,9 @@
             "filename": {
                 "S": "RoomTexWallFish00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -14308,6 +15241,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallFish00.png"
             },
             "internal_id": {
                 "N": "4879"
@@ -14383,6 +15319,9 @@
             "filename": {
                 "S": "RoomSpWallHighLands00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -14400,6 +15339,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallHighLands00.png"
             },
             "internal_id": {
                 "N": "5484"
@@ -14475,6 +15417,9 @@
             "filename": {
                 "S": "RoomSpWallMermaid00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -14492,6 +15437,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallMermaid00.png"
             },
             "internal_id": {
                 "N": "12566"
@@ -14567,6 +15515,9 @@
             "filename": {
                 "S": "RoomSpWallRain00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -14584,6 +15535,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallRain00.png"
             },
             "internal_id": {
                 "N": "11915"
@@ -14659,6 +15613,9 @@
             "filename": {
                 "S": "RoomTexWallMod00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -14676,6 +15633,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallMod00.png"
             },
             "internal_id": {
                 "N": "4908"
@@ -14751,6 +15711,9 @@
             "filename": {
                 "S": "RoomSpWallShojiModem00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -14768,6 +15731,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallShojiModem00.png"
             },
             "internal_id": {
                 "N": "4864"
@@ -14843,6 +15809,9 @@
             "filename": {
                 "S": "RoomTexWallMud02"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -14860,6 +15829,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallMud02.png"
             },
             "internal_id": {
                 "N": "11178"
@@ -14935,6 +15907,9 @@
             "filename": {
                 "S": "RoomTexWallMixwood00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -14952,6 +15927,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallMixwood00.png"
             },
             "internal_id": {
                 "N": "4904"
@@ -15027,6 +16005,9 @@
             "filename": {
                 "S": "RoomTexWallDot00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -15044,6 +16025,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallDot00.png"
             },
             "internal_id": {
                 "N": "4892"
@@ -15119,6 +16103,9 @@
             "filename": {
                 "S": "RoomTexWallTile00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -15136,6 +16123,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallTile00.png"
             },
             "internal_id": {
                 "N": "4910"
@@ -15211,6 +16201,9 @@
             "filename": {
                 "S": "RoomTexWallPlaster00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -15228,6 +16221,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallPlaster00.png"
             },
             "internal_id": {
                 "N": "5215"
@@ -15303,6 +16299,9 @@
             "filename": {
                 "S": "RoomTexWallMosaicTile00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -15320,6 +16319,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallMosaicTile00.png"
             },
             "internal_id": {
                 "N": "4862"
@@ -15395,6 +16397,9 @@
             "filename": {
                 "S": "RoomTexWallMoss00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -15412,6 +16417,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallMoss00.png"
             },
             "internal_id": {
                 "N": "5458"
@@ -15487,6 +16495,9 @@
             "filename": {
                 "S": "RoomTexWallMuseum00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -15504,6 +16515,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallMuseum00.png"
             },
             "internal_id": {
                 "N": "4842"
@@ -15579,6 +16593,9 @@
             "filename": {
                 "S": "RoomTexWallMush00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -15596,6 +16613,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallMush00.png"
             },
             "internal_id": {
                 "N": "5164"
@@ -15671,6 +16691,9 @@
             "filename": {
                 "S": "RoomSpWallMario00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -15688,6 +16711,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallMario00.png"
             },
             "internal_id": {
                 "N": "13805"
@@ -15763,6 +16789,9 @@
             "filename": {
                 "S": "RoomTexWallMymelody00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -15780,6 +16809,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallMymelody00.png"
             },
             "internal_id": {
                 "N": "10173"
@@ -15855,6 +16887,9 @@
             "filename": {
                 "S": "RoomTexWallFirst00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -15872,6 +16907,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallFirst00.png"
             },
             "internal_id": {
                 "N": "6004"
@@ -15947,6 +16985,9 @@
             "filename": {
                 "S": "RoomSpWallHorizon00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -15964,6 +17005,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallHorizon00.png"
             },
             "internal_id": {
                 "N": "5486"
@@ -16039,6 +17083,9 @@
             "filename": {
                 "S": "RoomTexWallOffice00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -16056,6 +17103,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallOffice00.png"
             },
             "internal_id": {
                 "N": "5218"
@@ -16131,6 +17181,9 @@
             "filename": {
                 "S": "RoomTexWallOld00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -16148,6 +17201,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallOld00.png"
             },
             "internal_id": {
                 "N": "4857"
@@ -16223,6 +17279,9 @@
             "filename": {
                 "S": "RoomTexWallMorocco03"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -16240,6 +17299,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallMorocco03.png"
             },
             "internal_id": {
                 "N": "6863"
@@ -16315,6 +17377,9 @@
             "filename": {
                 "S": "RoomTexWallOperatingRoom00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -16332,6 +17397,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallOperatingRoom00.png"
             },
             "internal_id": {
                 "N": "12851"
@@ -16407,6 +17475,9 @@
             "filename": {
                 "S": "RoomTexWallCamouflage03"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -16424,6 +17495,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallCamouflage03.png"
             },
             "internal_id": {
                 "N": "6855"
@@ -16499,6 +17573,9 @@
             "filename": {
                 "S": "RoomTexWallPanelMold00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -16516,6 +17593,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallPanelMold00.png"
             },
             "internal_id": {
                 "N": "4870"
@@ -16591,6 +17671,9 @@
             "filename": {
                 "S": "RoomTexWallTadelakt01"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -16608,6 +17691,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallTadelakt01.png"
             },
             "internal_id": {
                 "N": "13497"
@@ -16683,6 +17769,9 @@
             "filename": {
                 "S": "RoomTexWallOrange00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -16700,6 +17789,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallOrange00.png"
             },
             "internal_id": {
                 "N": "4915"
@@ -16775,6 +17867,9 @@
             "filename": {
                 "S": "RoomTexWallStucco01"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -16792,6 +17887,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallStucco01.png"
             },
             "internal_id": {
                 "N": "4809"
@@ -16867,6 +17965,9 @@
             "filename": {
                 "S": "RoomTexWallTeahouse00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -16884,6 +17985,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallTeahouse00.png"
             },
             "internal_id": {
                 "N": "12910"
@@ -16959,6 +18063,9 @@
             "filename": {
                 "S": "RoomTexWallAtelier00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -16976,6 +18083,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallAtelier00.png"
             },
             "internal_id": {
                 "N": "4854"
@@ -17051,6 +18161,9 @@
             "filename": {
                 "S": "RoomSpWallPalace00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -17068,6 +18181,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallPalace00.png"
             },
             "internal_id": {
                 "N": "5502"
@@ -17143,6 +18259,9 @@
             "filename": {
                 "S": "RoomTexWallGoldRich00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -17160,6 +18279,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallGoldRich00.png"
             },
             "internal_id": {
                 "N": "13020"
@@ -17235,6 +18357,9 @@
             "filename": {
                 "S": "RoomTexWallParty00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -17252,6 +18377,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallParty00.png"
             },
             "internal_id": {
                 "N": "5226"
@@ -17327,6 +18455,9 @@
             "filename": {
                 "S": "RoomTexWallDot01"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -17344,6 +18475,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallDot01.png"
             },
             "internal_id": {
                 "N": "4899"
@@ -17419,6 +18553,9 @@
             "filename": {
                 "S": "RoomTexWallPuzzle00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -17436,6 +18573,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallPuzzle00.png"
             },
             "internal_id": {
                 "N": "4886"
@@ -17511,6 +18651,9 @@
             "filename": {
                 "S": "RoomTexWallFootmark00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -17528,6 +18671,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallFootmark00.png"
             },
             "internal_id": {
                 "N": "13482"
@@ -17603,6 +18749,9 @@
             "filename": {
                 "S": "RoomTexWallTwoToneTile04"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -17620,6 +18769,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallTwoToneTile04.png"
             },
             "internal_id": {
                 "N": "6857"
@@ -17695,6 +18847,9 @@
             "filename": {
                 "S": "RoomTexWallPeach00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -17712,6 +18867,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallPeach00.png"
             },
             "internal_id": {
                 "N": "4918"
@@ -17787,6 +18945,9 @@
             "filename": {
                 "S": "RoomTexWallPear00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -17804,6 +18965,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallPear00.png"
             },
             "internal_id": {
                 "N": "4917"
@@ -17879,6 +19043,9 @@
             "filename": {
                 "S": "RoomTexWallPegboard01"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -17896,6 +19063,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallPegboard01.png"
             },
             "internal_id": {
                 "N": "4921"
@@ -17971,6 +19141,9 @@
             "filename": {
                 "S": "RoomTexWallMedicineRoom00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -17988,6 +19161,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallMedicineRoom00.png"
             },
             "internal_id": {
                 "N": "12724"
@@ -18063,6 +19239,9 @@
             "filename": {
                 "S": "RoomTexWallCountry01"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -18080,6 +19259,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallCountry01.png"
             },
             "internal_id": {
                 "N": "4895"
@@ -18155,6 +19337,9 @@
             "filename": {
                 "S": "RoomTexWallDiner01"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -18172,6 +19357,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallDiner01.png"
             },
             "internal_id": {
                 "N": "7242"
@@ -18247,6 +19435,9 @@
             "filename": {
                 "S": "RoomTexWallFlower00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -18264,6 +19455,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallFlower00.png"
             },
             "internal_id": {
                 "N": "4893"
@@ -18339,6 +19533,9 @@
             "filename": {
                 "S": "RoomTexWallHeart01"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -18356,6 +19553,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallHeart01.png"
             },
             "internal_id": {
                 "N": "4875"
@@ -18431,6 +19631,9 @@
             "filename": {
                 "S": "RoomTexWallPaintWood02"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -18448,6 +19651,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallPaintWood02.png"
             },
             "internal_id": {
                 "N": "4802"
@@ -18523,6 +19729,9 @@
             "filename": {
                 "S": "RoomTexWallToy01"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -18540,6 +19749,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallToy01.png"
             },
             "internal_id": {
                 "N": "4889"
@@ -18615,6 +19827,9 @@
             "filename": {
                 "S": "RoomTexWallDollhouse00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -18632,6 +19847,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallDollhouse00.png"
             },
             "internal_id": {
                 "N": "7274"
@@ -18707,6 +19925,9 @@
             "filename": {
                 "S": "RoomTexWallTin01"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -18724,6 +19945,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallTin01.png"
             },
             "internal_id": {
                 "N": "4924"
@@ -18799,6 +20023,9 @@
             "filename": {
                 "S": "RoomTexWallSimple02"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -18816,6 +20043,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallSimple02.png"
             },
             "internal_id": {
                 "N": "4868"
@@ -18891,6 +20121,9 @@
             "filename": {
                 "S": "RoomTexWallCrown02"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -18908,6 +20141,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallCrown02.png"
             },
             "internal_id": {
                 "N": "4816"
@@ -18983,6 +20219,9 @@
             "filename": {
                 "S": "RoomTexWallStripe01"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -19000,6 +20239,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallStripe01.png"
             },
             "internal_id": {
                 "N": "4943"
@@ -19075,6 +20317,9 @@
             "filename": {
                 "S": "RoomSpWallPirates00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -19092,6 +20337,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallPirates00.png"
             },
             "internal_id": {
                 "N": "12567"
@@ -19167,6 +20415,9 @@
             "filename": {
                 "S": "RoomTexWallPurin00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -19184,6 +20435,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallPurin00.png"
             },
             "internal_id": {
                 "N": "10174"
@@ -19259,6 +20513,9 @@
             "filename": {
                 "S": "RoomSpWallBallroom00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -19276,6 +20533,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallBallroom00.png"
             },
             "internal_id": {
                 "N": "14252"
@@ -19351,6 +20611,9 @@
             "filename": {
                 "S": "RoomTexWallCamouflage02"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -19368,6 +20631,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallCamouflage02.png"
             },
             "internal_id": {
                 "N": "4885"
@@ -19443,6 +20709,9 @@
             "filename": {
                 "S": "RoomTexWallDot04"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -19460,6 +20729,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallDot04.png"
             },
             "internal_id": {
                 "N": "4902"
@@ -19535,6 +20807,9 @@
             "filename": {
                 "S": "RoomTexWallMorocco02"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -19552,6 +20827,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallMorocco02.png"
             },
             "internal_id": {
                 "N": "6864"
@@ -19627,6 +20905,9 @@
             "filename": {
                 "S": "RoomTexWallPuzzle03"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -19644,6 +20925,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallPuzzle03.png"
             },
             "internal_id": {
                 "N": "6875"
@@ -19719,6 +21003,9 @@
             "filename": {
                 "S": "RoomTexWallDollhouse03"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -19736,6 +21023,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallDollhouse03.png"
             },
             "internal_id": {
                 "N": "7275"
@@ -19811,6 +21101,9 @@
             "filename": {
                 "S": "RoomTexWallRose01"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -19828,6 +21121,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallRose01.png"
             },
             "internal_id": {
                 "N": "4907"
@@ -19903,6 +21199,9 @@
             "filename": {
                 "S": "RoomTexWallHanchiku00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -19920,6 +21219,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallHanchiku00.png"
             },
             "internal_id": {
                 "N": "4845"
@@ -19995,6 +21297,9 @@
             "filename": {
                 "S": "RoomTexWallRuins00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -20012,6 +21317,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallRuins00.png"
             },
             "internal_id": {
                 "N": "5225"
@@ -20087,6 +21395,9 @@
             "filename": {
                 "S": "RoomTexWallArtDeco01"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -20104,6 +21415,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallArtDeco01.png"
             },
             "internal_id": {
                 "N": "4818"
@@ -20179,6 +21493,9 @@
             "filename": {
                 "S": "RoomTexWallManor01"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -20196,6 +21513,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallManor01.png"
             },
             "internal_id": {
                 "N": "4897"
@@ -20271,6 +21591,9 @@
             "filename": {
                 "S": "RoomTexWallDot02"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -20288,6 +21611,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallDot02.png"
             },
             "internal_id": {
                 "N": "4900"
@@ -20363,6 +21689,9 @@
             "filename": {
                 "S": "RoomTexWallHeart03"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -20380,6 +21709,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallHeart03.png"
             },
             "internal_id": {
                 "N": "6870"
@@ -20455,6 +21787,9 @@
             "filename": {
                 "S": "RoomTexWallFlowerPop03"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -20472,6 +21807,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallFlowerPop03.png"
             },
             "internal_id": {
                 "N": "6879"
@@ -20547,6 +21885,9 @@
             "filename": {
                 "S": "RoomTexWallLocker00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -20564,6 +21905,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallLocker00.png"
             },
             "internal_id": {
                 "N": "12849"
@@ -20639,6 +21983,9 @@
             "filename": {
                 "S": "RoomTexWallPegboard03"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -20656,6 +22003,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallPegboard03.png"
             },
             "internal_id": {
                 "N": "6853"
@@ -20731,6 +22081,9 @@
             "filename": {
                 "S": "RoomTexWallTwoToneTile03"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -20748,6 +22101,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallTwoToneTile03.png"
             },
             "internal_id": {
                 "N": "6856"
@@ -20823,6 +22179,9 @@
             "filename": {
                 "S": "RoomTexWallBrick01"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -20840,6 +22199,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallBrick01.png"
             },
             "internal_id": {
                 "N": "4928"
@@ -20915,6 +22277,9 @@
             "filename": {
                 "S": "RoomTexWallKitsch00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -20932,6 +22297,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallKitsch00.png"
             },
             "internal_id": {
                 "N": "4847"
@@ -21007,6 +22375,9 @@
             "filename": {
                 "S": "RoomTexWallRestaurant00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -21024,6 +22395,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallRestaurant00.png"
             },
             "internal_id": {
                 "N": "12907"
@@ -21099,6 +22473,9 @@
             "filename": {
                 "S": "RoomSpWallFarm00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -21116,6 +22493,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallFarm00.png"
             },
             "internal_id": {
                 "N": "5487"
@@ -21191,6 +22571,9 @@
             "filename": {
                 "S": "RoomSpWallWrestling00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -21208,6 +22591,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallWrestling00.png"
             },
             "internal_id": {
                 "N": "5512"
@@ -21283,6 +22669,9 @@
             "filename": {
                 "S": "RoomTexWallRobo00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -21300,6 +22689,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallRobo00.png"
             },
             "internal_id": {
                 "N": "5455"
@@ -21375,6 +22767,9 @@
             "filename": {
                 "S": "RoomTexWallBouldering00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -21392,6 +22787,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallBouldering00.png"
             },
             "internal_id": {
                 "N": "4851"
@@ -21467,6 +22865,9 @@
             "filename": {
                 "S": "RoomSpWallSketch00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -21484,6 +22885,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallSketch00.png"
             },
             "internal_id": {
                 "N": "14896"
@@ -21559,6 +22963,9 @@
             "filename": {
                 "S": "RoomSpWallRopenet00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -21576,6 +22983,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallRopenet00.png"
             },
             "internal_id": {
                 "N": "13875"
@@ -21651,6 +23061,9 @@
             "filename": {
                 "S": "RoomTexWallRose00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -21668,6 +23081,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallRose00.png"
             },
             "internal_id": {
                 "N": "4906"
@@ -21743,6 +23159,9 @@
             "filename": {
                 "S": "RoomTexWallRemains00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -21760,6 +23179,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallRemains00.png"
             },
             "internal_id": {
                 "N": "5228"
@@ -21835,6 +23257,9 @@
             "filename": {
                 "S": "RoomTexWallStone00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -21852,6 +23277,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallStone00.png"
             },
             "internal_id": {
                 "N": "4813"
@@ -21927,6 +23355,9 @@
             "filename": {
                 "S": "RoomTexWallSolidWood00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -21944,6 +23375,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallSolidWood00.png"
             },
             "internal_id": {
                 "N": "4947"
@@ -22019,6 +23453,9 @@
             "filename": {
                 "S": "RoomSpWallSF00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -22036,6 +23473,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallSF00.png"
             },
             "internal_id": {
                 "N": "5510"
@@ -22111,6 +23551,9 @@
             "filename": {
                 "S": "RoomTexWallFusuma00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -22128,6 +23571,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallFusuma00.png"
             },
             "internal_id": {
                 "N": "4819"
@@ -22203,6 +23649,9 @@
             "filename": {
                 "S": "RoomSpWallSeaView00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -22220,6 +23669,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallSeaView00.png"
             },
             "internal_id": {
                 "N": "5501"
@@ -22295,6 +23747,9 @@
             "filename": {
                 "S": "RoomSpWallMonitor00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -22312,6 +23767,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallMonitor00.png"
             },
             "internal_id": {
                 "N": "5491"
@@ -22387,6 +23845,9 @@
             "filename": {
                 "S": "RoomTexWallPuzzle02"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -22404,6 +23865,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallPuzzle02.png"
             },
             "internal_id": {
                 "N": "6874"
@@ -22479,6 +23943,9 @@
             "filename": {
                 "S": "RoomSpWallServer00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -22496,6 +23963,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallServer00.png"
             },
             "internal_id": {
                 "N": "5490"
@@ -22571,6 +24041,9 @@
             "filename": {
                 "S": "RoomSpWallShoji00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -22588,6 +24061,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallShoji00.png"
             },
             "internal_id": {
                 "N": "4863"
@@ -22663,6 +24139,9 @@
             "filename": {
                 "S": "RoomTexWallShutter00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -22680,6 +24159,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallShutter00.png"
             },
             "internal_id": {
                 "N": "4825"
@@ -22755,6 +24237,9 @@
             "filename": {
                 "S": "RoomSpWallGelande00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -22772,6 +24257,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallGelande00.png"
             },
             "internal_id": {
                 "N": "5498"
@@ -22847,6 +24335,9 @@
             "filename": {
                 "S": "RoomSpWallSkull00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -22864,6 +24355,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallSkull00.png"
             },
             "internal_id": {
                 "N": "5520"
@@ -22939,6 +24433,9 @@
             "filename": {
                 "S": "RoomSpWallCloud00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -22956,6 +24453,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallCloud00.png"
             },
             "internal_id": {
                 "N": "5504"
@@ -23031,6 +24531,9 @@
             "filename": {
                 "S": "RoomTexWallSkyscraper00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -23048,6 +24551,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallSkyscraper00.png"
             },
             "internal_id": {
                 "N": "4852"
@@ -23123,6 +24629,9 @@
             "filename": {
                 "S": "RoomTexWallSnowCrystal00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -23140,6 +24649,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallSnowCrystal00.png"
             },
             "internal_id": {
                 "N": "4855"
@@ -23215,6 +24727,9 @@
             "filename": {
                 "S": "RoomTexWallMud01"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -23232,6 +24747,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallMud01.png"
             },
             "internal_id": {
                 "N": "11177"
@@ -23307,6 +24825,9 @@
             "filename": {
                 "S": "RoomTexWallHalloween00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -23324,6 +24845,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallHalloween00.png"
             },
             "internal_id": {
                 "N": "13224"
@@ -23399,6 +24923,9 @@
             "filename": {
                 "S": "RoomTexWallFireWood00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -23416,6 +24943,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallFireWood00.png"
             },
             "internal_id": {
                 "N": "4844"
@@ -23491,6 +25021,9 @@
             "filename": {
                 "S": "RoomSpWallStadium00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -23508,6 +25041,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallStadium00.png"
             },
             "internal_id": {
                 "N": "5503"
@@ -23583,6 +25119,9 @@
             "filename": {
                 "S": "RoomTexWallMud00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -23600,6 +25139,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallMud00.png"
             },
             "internal_id": {
                 "N": "5521"
@@ -23675,6 +25217,9 @@
             "filename": {
                 "S": "RoomSpWallStarPrint00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -23692,6 +25237,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallStarPrint00.png"
             },
             "internal_id": {
                 "N": "5528"
@@ -23767,6 +25315,9 @@
             "filename": {
                 "S": "RoomSpWallStarSky00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -23784,6 +25335,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallStarSky00.png"
             },
             "internal_id": {
                 "N": "5500"
@@ -23859,6 +25413,9 @@
             "filename": {
                 "S": "RoomTexWallRenaissance00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -23876,6 +25433,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallRenaissance00.png"
             },
             "internal_id": {
                 "N": "4861"
@@ -23951,6 +25511,9 @@
             "filename": {
                 "S": "RoomTexWallSteampunk00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -23968,6 +25531,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallSteampunk00.png"
             },
             "internal_id": {
                 "N": "4937"
@@ -24043,6 +25609,9 @@
             "filename": {
                 "S": "RoomTexWallSteel00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -24060,6 +25629,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallSteel00.png"
             },
             "internal_id": {
                 "N": "4801"
@@ -24135,6 +25707,9 @@
             "filename": {
                 "S": "RoomTexWallBasement00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -24152,6 +25727,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallBasement00.png"
             },
             "internal_id": {
                 "N": "5216"
@@ -24227,6 +25805,9 @@
             "filename": {
                 "S": "RoomSpWallThunder00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -24244,6 +25825,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallThunder00.png"
             },
             "internal_id": {
                 "N": "5499"
@@ -24319,6 +25903,9 @@
             "filename": {
                 "S": "RoomTexWallStraw00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -24336,6 +25923,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallStraw00.png"
             },
             "internal_id": {
                 "N": "5217"
@@ -24411,6 +26001,9 @@
             "filename": {
                 "S": "RoomTexWallChocolate02"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -24428,6 +26021,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallChocolate02.png"
             },
             "internal_id": {
                 "N": "4934"
@@ -24503,6 +26099,9 @@
             "filename": {
                 "S": "RoomTexWallStreetArt00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -24520,6 +26119,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallStreetArt00.png"
             },
             "internal_id": {
                 "N": "5221"
@@ -24595,6 +26197,9 @@
             "filename": {
                 "S": "RoomSpWallMountainTop00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -24612,6 +26217,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallMountainTop00.png"
             },
             "internal_id": {
                 "N": "5513"
@@ -24687,6 +26295,9 @@
             "filename": {
                 "S": "RoomTexWallSupermarket00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -24704,6 +26315,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallSupermarket00.png"
             },
             "internal_id": {
                 "N": "5220"
@@ -24779,6 +26393,9 @@
             "filename": {
                 "S": "RoomTexWallGlamping00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -24796,6 +26413,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallGlamping00.png"
             },
             "internal_id": {
                 "N": "13435"
@@ -24871,6 +26491,9 @@
             "filename": {
                 "S": "RoomSpWallTrain00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -24888,6 +26511,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallTrain00.png"
             },
             "internal_id": {
                 "N": "5496"
@@ -24963,6 +26589,9 @@
             "filename": {
                 "S": "RoomTexWallRoadsideTree00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -24980,6 +26609,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallRoadsideTree00.png"
             },
             "internal_id": {
                 "N": "5456"
@@ -25055,6 +26687,9 @@
             "filename": {
                 "S": "RoomSpWallTropical00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -25072,6 +26707,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallTropical00.png"
             },
             "internal_id": {
                 "N": "5661"
@@ -25147,6 +26785,9 @@
             "filename": {
                 "S": "RoomTexWallHarvest00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -25164,6 +26805,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallHarvest00.png"
             },
             "internal_id": {
                 "N": "13318"
@@ -25239,6 +26883,9 @@
             "filename": {
                 "S": "RoomSpWallFishTank00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -25256,6 +26903,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallFishTank00.png"
             },
             "internal_id": {
                 "N": "5508"
@@ -25331,6 +26981,9 @@
             "filename": {
                 "S": "RoomTexWallWaveTile00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -25348,6 +27001,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallWaveTile00.png"
             },
             "internal_id": {
                 "N": "4832"
@@ -25423,6 +27079,9 @@
             "filename": {
                 "S": "RoomTexWallJuneBride00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -25440,6 +27099,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallJuneBride00.png"
             },
             "internal_id": {
                 "N": "12461"
@@ -25515,6 +27177,9 @@
             "filename": {
                 "S": "RoomSpWallWilderness00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -25532,6 +27197,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallWilderness00.png"
             },
             "internal_id": {
                 "N": "5489"
@@ -25607,6 +27275,9 @@
             "filename": {
                 "S": "RoomTexWallWoodTile00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -25624,6 +27295,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallWoodTile00.png"
             },
             "internal_id": {
                 "N": "4826"
@@ -25699,6 +27373,9 @@
             "filename": {
                 "S": "RoomTexWallManor00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -25716,6 +27393,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallManor00.png"
             },
             "internal_id": {
                 "N": "4891"
@@ -25791,6 +27471,9 @@
             "filename": {
                 "S": "RoomSpWallFrench00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -25808,6 +27491,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallFrench00.png"
             },
             "internal_id": {
                 "N": "12906"
@@ -25883,6 +27569,9 @@
             "filename": {
                 "S": "RoomTexWallHall02"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -25900,6 +27589,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallHall02.png"
             },
             "internal_id": {
                 "N": "6861"
@@ -25975,6 +27667,9 @@
             "filename": {
                 "S": "RoomTexWallHoneycomb03"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -25992,6 +27687,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallHoneycomb03.png"
             },
             "internal_id": {
                 "N": "4914"
@@ -26067,6 +27765,9 @@
             "filename": {
                 "S": "RoomTexWallPaintWood03"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -26084,6 +27785,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallPaintWood03.png"
             },
             "internal_id": {
                 "N": "4803"
@@ -26159,6 +27863,9 @@
             "filename": {
                 "S": "RoomTexWallPegboard00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -26176,6 +27883,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallPegboard00.png"
             },
             "internal_id": {
                 "N": "4920"
@@ -26251,6 +27961,9 @@
             "filename": {
                 "S": "RoomTexWallSimple00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -26268,6 +27981,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallSimple00.png"
             },
             "internal_id": {
                 "N": "4939"
@@ -26343,6 +28059,9 @@
             "filename": {
                 "S": "RoomTexWallMetro01"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -26360,6 +28079,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallMetro01.png"
             },
             "internal_id": {
                 "N": "4941"
@@ -26435,6 +28157,9 @@
             "filename": {
                 "S": "RoomSpWallChurch00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -26452,6 +28177,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallChurch00.png"
             },
             "internal_id": {
                 "N": "12466"
@@ -26527,6 +28255,9 @@
             "filename": {
                 "S": "RoomSpWallWindow00"
             },
+            "has_vfx": {
+                "BOOL": true
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -26544,6 +28275,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomSpWallWindow00.png"
             },
             "internal_id": {
                 "N": "13332"
@@ -26619,6 +28353,9 @@
             "filename": {
                 "S": "RoomTexWallBrick00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -26636,6 +28373,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallBrick00.png"
             },
             "internal_id": {
                 "N": "4927"
@@ -26711,6 +28451,9 @@
             "filename": {
                 "S": "RoomTexWallChocolate01"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -26728,6 +28471,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallChocolate01.png"
             },
             "internal_id": {
                 "N": "4933"
@@ -26803,6 +28549,9 @@
             "filename": {
                 "S": "RoomTexWallRose02"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -26820,6 +28569,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallRose02.png"
             },
             "internal_id": {
                 "N": "6868"
@@ -26895,6 +28647,9 @@
             "filename": {
                 "S": "RoomTexWallShelf00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -26912,6 +28667,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallShelf00.png"
             },
             "internal_id": {
                 "N": "12912"
@@ -26987,6 +28745,9 @@
             "filename": {
                 "S": "RoomTexWallWildWood00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -27004,6 +28765,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallWildWood00.png"
             },
             "internal_id": {
                 "N": "4858"
@@ -27079,6 +28843,9 @@
             "filename": {
                 "S": "RoomTexWallCedar00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -27096,6 +28863,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallCedar00.png"
             },
             "internal_id": {
                 "N": "4911"
@@ -27171,6 +28941,9 @@
             "filename": {
                 "S": "RoomTexWallMixPlankWood00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -27188,6 +28961,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallMixPlankWood00.png"
             },
             "internal_id": {
                 "N": "4859"
@@ -27263,6 +29039,9 @@
             "filename": {
                 "S": "RoomTexWallJukai00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -27280,6 +29059,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallJukai00.png"
             },
             "internal_id": {
                 "N": "5223"
@@ -27355,6 +29137,9 @@
             "filename": {
                 "S": "RoomTexWallFlower02"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -27372,6 +29157,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallFlower02.png"
             },
             "internal_id": {
                 "N": "6872"
@@ -27447,6 +29235,9 @@
             "filename": {
                 "S": "RoomTexWallHeart02"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -27464,6 +29255,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallHeart02.png"
             },
             "internal_id": {
                 "N": "6871"
@@ -27539,6 +29333,9 @@
             "filename": {
                 "S": "RoomTexWallFlowerPop01"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -27556,6 +29353,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallFlowerPop01.png"
             },
             "internal_id": {
                 "N": "4849"
@@ -27631,6 +29431,9 @@
             "filename": {
                 "S": "RoomTexWallToy03"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -27648,6 +29451,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallToy03.png"
             },
             "internal_id": {
                 "N": "6865"
@@ -27723,6 +29529,9 @@
             "filename": {
                 "S": "RoomTexWallDollhouse02"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -27740,6 +29549,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallDollhouse02.png"
             },
             "internal_id": {
                 "N": "7276"
@@ -27815,6 +29627,9 @@
             "filename": {
                 "S": "RoomTexWallSimple01"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -27832,6 +29647,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallSimple01.png"
             },
             "internal_id": {
                 "N": "4867"
@@ -27907,6 +29725,9 @@
             "filename": {
                 "S": "RoomTexWallStucco00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -27924,6 +29745,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallStucco00.png"
             },
             "internal_id": {
                 "N": "4808"
@@ -27999,6 +29823,9 @@
             "filename": {
                 "S": "RoomTexWallStripe04"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -28016,6 +29843,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallStripe04.png"
             },
             "internal_id": {
                 "N": "4946"
@@ -28091,6 +29921,9 @@
             "filename": {
                 "S": "RoomTexWallTwotone00"
             },
+            "has_vfx": {
+                "BOOL": false
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -28108,6 +29941,9 @@
             },
             "hha_set": {
                 "NULL": true
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallTwotone00.png"
             },
             "internal_id": {
                 "N": "13333"

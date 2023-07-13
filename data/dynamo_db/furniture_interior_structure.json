@@ -1,6 +1,9 @@
 [
     {
         "Item": {
+            "body_category": {
+                "S": "Brick color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -52,6 +55,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrWallPillarBrick_Remake_0_0.png"
+            },
             "internal_id": {
                 "N": "14596"
             },
@@ -86,10 +92,16 @@
                 "N": "2"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Brick Pillar"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -111,6 +123,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Brick color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -162,6 +177,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrWallPillarBrick_Remake_1_0.png"
+            },
             "internal_id": {
                 "N": "14596"
             },
@@ -196,10 +214,16 @@
                 "N": "2"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Brick Pillar"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -221,6 +245,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Brick color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -272,6 +299,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrWallPillarBrick_Remake_2_0.png"
+            },
             "internal_id": {
                 "N": "14596"
             },
@@ -306,10 +336,16 @@
                 "N": "2"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Brick Pillar"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -331,6 +367,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "NULL": true
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -382,6 +421,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrWallPillarConcrete.png"
+            },
             "internal_id": {
                 "N": "14602"
             },
@@ -416,10 +458,16 @@
                 "NULL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Concrete Pillar"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -441,6 +489,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "NULL": true
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -492,6 +543,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrWallPillarGold.png"
+            },
             "internal_id": {
                 "N": "14600"
             },
@@ -526,10 +580,16 @@
                 "NULL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Golden Pillar"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -551,6 +611,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Brick color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -602,6 +665,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrWallCounterBrickS_Remake_0_0.png"
+            },
             "internal_id": {
                 "N": "13901"
             },
@@ -636,10 +702,16 @@
                 "N": "2"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Low Brick Island Counter"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -661,6 +733,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Brick color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -712,6 +787,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrWallCounterBrickS_Remake_1_0.png"
+            },
             "internal_id": {
                 "N": "13901"
             },
@@ -746,10 +824,16 @@
                 "N": "2"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Low Brick Island Counter"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -771,6 +855,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Brick color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -822,6 +909,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrWallCounterBrickS_Remake_2_0.png"
+            },
             "internal_id": {
                 "N": "13901"
             },
@@ -856,10 +946,16 @@
                 "N": "2"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Low Brick Island Counter"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -881,6 +977,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "NULL": true
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -932,6 +1031,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrWallCounterConcreteS.png"
+            },
             "internal_id": {
                 "N": "13898"
             },
@@ -966,10 +1068,16 @@
                 "NULL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Low Concrete Island Counter"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -991,6 +1099,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "NULL": true
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -1042,6 +1153,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrWallCounterGoldS.png"
+            },
             "internal_id": {
                 "N": "14333"
             },
@@ -1076,10 +1190,16 @@
                 "NULL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Low Golden Island Counter"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1101,6 +1221,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -1152,6 +1275,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrWallCounterMarbleS_Remake_0_0.png"
+            },
             "internal_id": {
                 "N": "14337"
             },
@@ -1186,10 +1312,16 @@
                 "N": "2"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Low Marble Island Counter"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1211,6 +1343,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -1262,6 +1397,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrWallCounterMarbleS_Remake_1_0.png"
+            },
             "internal_id": {
                 "N": "14337"
             },
@@ -1296,10 +1434,16 @@
                 "N": "2"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Low Marble Island Counter"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1321,6 +1465,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -1372,6 +1519,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrWallCounterMarbleS_Remake_2_0.png"
+            },
             "internal_id": {
                 "N": "14337"
             },
@@ -1406,10 +1556,16 @@
                 "N": "2"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Low Marble Island Counter"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1431,6 +1587,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -1482,6 +1641,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrWallCounterPlainS_Remake_0_0.png"
+            },
             "internal_id": {
                 "N": "14308"
             },
@@ -1516,10 +1678,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Low Simple Island Counter"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1541,6 +1709,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -1592,6 +1763,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrWallCounterPlainS_Remake_1_0.png"
+            },
             "internal_id": {
                 "N": "14308"
             },
@@ -1626,10 +1800,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Low Simple Island Counter"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1651,6 +1831,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -1702,6 +1885,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrWallCounterPlainS_Remake_2_0.png"
+            },
             "internal_id": {
                 "N": "14308"
             },
@@ -1736,10 +1922,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Low Simple Island Counter"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1761,6 +1953,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -1812,6 +2007,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrWallCounterPlainS_Remake_3_0.png"
+            },
             "internal_id": {
                 "N": "14308"
             },
@@ -1846,10 +2044,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Low Simple Island Counter"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1871,6 +2075,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -1922,6 +2129,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrWallCounterPlainS_Remake_4_0.png"
+            },
             "internal_id": {
                 "N": "14308"
             },
@@ -1956,10 +2166,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Low Simple Island Counter"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1981,6 +2197,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -2032,6 +2251,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrWallCounterPlainS_Remake_5_0.png"
+            },
             "internal_id": {
                 "N": "14308"
             },
@@ -2066,10 +2288,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Low Simple Island Counter"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2091,6 +2319,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -2142,6 +2373,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrWallCounterPlainS_Remake_6_0.png"
+            },
             "internal_id": {
                 "N": "14308"
             },
@@ -2176,10 +2410,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Low Simple Island Counter"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2201,6 +2441,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -2252,6 +2495,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrWallCounterPlainS_Remake_7_0.png"
+            },
             "internal_id": {
                 "N": "14308"
             },
@@ -2286,10 +2532,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Low Simple Island Counter"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2311,6 +2563,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "NULL": true
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -2362,6 +2617,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrWallCounterSteelS.png"
+            },
             "internal_id": {
                 "N": "14324"
             },
@@ -2396,10 +2654,16 @@
                 "NULL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Low Steel Island Counter"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2421,6 +2685,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Variation"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -2472,6 +2739,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrWallCounterWoodS_Remake_0_0.png"
+            },
             "internal_id": {
                 "N": "14313"
             },
@@ -2506,10 +2776,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Low Wooden Island Counter"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2531,6 +2807,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Variation"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -2582,6 +2861,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrWallCounterWoodS_Remake_1_0.png"
+            },
             "internal_id": {
                 "N": "14313"
             },
@@ -2616,10 +2898,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Low Wooden Island Counter"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2641,6 +2929,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Variation"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -2692,6 +2983,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrWallCounterWoodS_Remake_2_0.png"
+            },
             "internal_id": {
                 "N": "14313"
             },
@@ -2726,10 +3020,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Low Wooden Island Counter"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2751,6 +3051,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -2802,6 +3105,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrWallPillarMarble_Remake_0_0.png"
+            },
             "internal_id": {
                 "N": "14597"
             },
@@ -2836,10 +3142,16 @@
                 "N": "2"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Marble Pillar"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2861,6 +3173,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -2912,6 +3227,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrWallPillarMarble_Remake_1_0.png"
+            },
             "internal_id": {
                 "N": "14597"
             },
@@ -2946,10 +3264,16 @@
                 "N": "2"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Marble Pillar"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2971,6 +3295,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -3022,6 +3349,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrWallPillarMarble_Remake_2_0.png"
+            },
             "internal_id": {
                 "N": "14597"
             },
@@ -3056,10 +3386,16 @@
                 "N": "2"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Marble Pillar"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3081,6 +3417,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "NULL": true
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -3132,6 +3471,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrWallHigh.png"
+            },
             "internal_id": {
                 "N": "12681"
             },
@@ -3166,10 +3508,16 @@
                 "NULL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Partition Wall"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3191,6 +3539,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -3242,6 +3593,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrWallPillarPlain_Remake_0_0.png"
+            },
             "internal_id": {
                 "N": "14598"
             },
@@ -3276,10 +3630,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Simple Pillar"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3301,6 +3661,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -3352,6 +3715,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrWallPillarPlain_Remake_1_0.png"
+            },
             "internal_id": {
                 "N": "14598"
             },
@@ -3386,10 +3752,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Simple Pillar"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3411,6 +3783,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -3462,6 +3837,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrWallPillarPlain_Remake_2_0.png"
+            },
             "internal_id": {
                 "N": "14598"
             },
@@ -3496,10 +3874,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Simple Pillar"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3521,6 +3905,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -3572,6 +3959,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrWallPillarPlain_Remake_3_0.png"
+            },
             "internal_id": {
                 "N": "14598"
             },
@@ -3606,10 +3996,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Simple Pillar"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3631,6 +4027,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -3682,6 +4081,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrWallPillarPlain_Remake_4_0.png"
+            },
             "internal_id": {
                 "N": "14598"
             },
@@ -3716,10 +4118,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Simple Pillar"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3741,6 +4149,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -3792,6 +4203,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrWallPillarPlain_Remake_5_0.png"
+            },
             "internal_id": {
                 "N": "14598"
             },
@@ -3826,10 +4240,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Simple Pillar"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3851,6 +4271,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -3902,6 +4325,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrWallPillarPlain_Remake_6_0.png"
+            },
             "internal_id": {
                 "N": "14598"
             },
@@ -3936,10 +4362,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Simple Pillar"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3961,6 +4393,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -4012,6 +4447,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrWallPillarPlain_Remake_7_0.png"
+            },
             "internal_id": {
                 "N": "14598"
             },
@@ -4046,10 +4484,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Simple Pillar"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -4071,6 +4515,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "NULL": true
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -4122,6 +4569,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrWallPillarSteel.png"
+            },
             "internal_id": {
                 "N": "14599"
             },
@@ -4156,10 +4606,16 @@
                 "NULL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Steel Pillar"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -4181,6 +4637,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Brick color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -4232,6 +4691,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrWallCounterBrickL_Remake_0_0.png"
+            },
             "internal_id": {
                 "N": "13897"
             },
@@ -4266,10 +4728,16 @@
                 "N": "3"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Tall Brick Island Counter"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -4291,6 +4759,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Brick color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -4342,6 +4813,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrWallCounterBrickL_Remake_1_0.png"
+            },
             "internal_id": {
                 "N": "13897"
             },
@@ -4376,10 +4850,16 @@
                 "N": "3"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Tall Brick Island Counter"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -4401,6 +4881,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Brick color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -4452,6 +4935,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrWallCounterBrickL_Remake_2_0.png"
+            },
             "internal_id": {
                 "N": "13897"
             },
@@ -4486,10 +4972,16 @@
                 "N": "3"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Tall Brick Island Counter"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -4511,6 +5003,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "NULL": true
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -4562,6 +5057,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrWallCounterConcreteL.png"
+            },
             "internal_id": {
                 "N": "13895"
             },
@@ -4596,10 +5094,16 @@
                 "NULL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Tall Concrete Island Counter"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -4621,6 +5125,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "NULL": true
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -4672,6 +5179,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrWallCounterGoldL.png"
+            },
             "internal_id": {
                 "N": "14330"
             },
@@ -4706,10 +5216,16 @@
                 "NULL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Tall Golden Island Counter"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -4731,6 +5247,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -4782,6 +5301,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrWallCounterMarbleL_Remake_0_0.png"
+            },
             "internal_id": {
                 "N": "14332"
             },
@@ -4816,10 +5338,16 @@
                 "N": "4"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Tall Marble Island Counter"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -4841,6 +5369,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -4892,6 +5423,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrWallCounterMarbleL_Remake_1_0.png"
+            },
             "internal_id": {
                 "N": "14332"
             },
@@ -4926,10 +5460,16 @@
                 "N": "4"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Tall Marble Island Counter"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -4951,6 +5491,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -5002,6 +5545,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrWallCounterMarbleL_Remake_2_0.png"
+            },
             "internal_id": {
                 "N": "14332"
             },
@@ -5036,10 +5582,16 @@
                 "N": "4"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Tall Marble Island Counter"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -5061,6 +5613,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -5112,6 +5667,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrWallCounterPlainL_Remake_0_0.png"
+            },
             "internal_id": {
                 "N": "14310"
             },
@@ -5146,10 +5704,16 @@
                 "N": "2"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Tall Simple Island Counter"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -5171,6 +5735,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -5222,6 +5789,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrWallCounterPlainL_Remake_1_0.png"
+            },
             "internal_id": {
                 "N": "14310"
             },
@@ -5256,10 +5826,16 @@
                 "N": "2"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Tall Simple Island Counter"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -5281,6 +5857,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -5332,6 +5911,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrWallCounterPlainL_Remake_2_0.png"
+            },
             "internal_id": {
                 "N": "14310"
             },
@@ -5366,10 +5948,16 @@
                 "N": "2"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Tall Simple Island Counter"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -5391,6 +5979,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -5442,6 +6033,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrWallCounterPlainL_Remake_3_0.png"
+            },
             "internal_id": {
                 "N": "14310"
             },
@@ -5476,10 +6070,16 @@
                 "N": "2"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Tall Simple Island Counter"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -5501,6 +6101,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -5552,6 +6155,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrWallCounterPlainL_Remake_4_0.png"
+            },
             "internal_id": {
                 "N": "14310"
             },
@@ -5586,10 +6192,16 @@
                 "N": "2"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Tall Simple Island Counter"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -5611,6 +6223,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -5662,6 +6277,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrWallCounterPlainL_Remake_5_0.png"
+            },
             "internal_id": {
                 "N": "14310"
             },
@@ -5696,10 +6314,16 @@
                 "N": "2"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Tall Simple Island Counter"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -5721,6 +6345,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -5772,6 +6399,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrWallCounterPlainL_Remake_6_0.png"
+            },
             "internal_id": {
                 "N": "14310"
             },
@@ -5806,10 +6436,16 @@
                 "N": "2"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Tall Simple Island Counter"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -5831,6 +6467,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -5882,6 +6521,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrWallCounterPlainL_Remake_7_0.png"
+            },
             "internal_id": {
                 "N": "14310"
             },
@@ -5916,10 +6558,16 @@
                 "N": "2"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Tall Simple Island Counter"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -5941,6 +6589,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "NULL": true
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -5992,6 +6643,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrWallCounterSteelL.png"
+            },
             "internal_id": {
                 "N": "14322"
             },
@@ -6026,10 +6680,16 @@
                 "NULL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Tall Steel Island Counter"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -6051,6 +6711,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Variation"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -6102,6 +6765,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrWallCounterWoodL_Remake_0_0.png"
+            },
             "internal_id": {
                 "N": "13902"
             },
@@ -6136,10 +6802,16 @@
                 "N": "2"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Tall Wooden Island Counter"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -6161,6 +6833,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Variation"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -6212,6 +6887,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrWallCounterWoodL_Remake_1_0.png"
+            },
             "internal_id": {
                 "N": "13902"
             },
@@ -6246,10 +6924,16 @@
                 "N": "2"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Tall Wooden Island Counter"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -6271,6 +6955,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Variation"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -6322,6 +7009,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrWallCounterWoodL_Remake_2_0.png"
+            },
             "internal_id": {
                 "N": "13902"
             },
@@ -6356,10 +7046,16 @@
                 "N": "2"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Tall Wooden Island Counter"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -6381,6 +7077,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Variation"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -6432,6 +7131,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrWallPillarWood_Remake_0_0.png"
+            },
             "internal_id": {
                 "N": "14601"
             },
@@ -6466,10 +7168,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Wooden Pillar"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -6491,6 +7199,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Variation"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -6542,6 +7253,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrWallPillarWood_Remake_1_0.png"
+            },
             "internal_id": {
                 "N": "14601"
             },
@@ -6576,10 +7290,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Wooden Pillar"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -6601,6 +7321,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Variation"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -6652,6 +7375,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrWallPillarWood_Remake_2_0.png"
+            },
             "internal_id": {
                 "N": "14601"
             },
@@ -6686,10 +7412,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Wooden Pillar"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"

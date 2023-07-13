@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 22,
-    "minProperties": 22,
+    "maxProperties": 24,
+    "minProperties": 24,
     "properties": {
         "buy_currency": {
             "maxLength": 5,
@@ -60,6 +60,11 @@
                 "string"
             ]
         },
+        "has_vfx": {
+            "type": [
+                "boolean"
+            ]
+        },
         "hha_category": {
             "type": [
                 "null"
@@ -101,6 +106,13 @@
         "hha_set": {
             "type": [
                 "null"
+            ]
+        },
+        "image_url": {
+            "maxLength": 71,
+            "minLength": 54,
+            "type": [
+                "string"
             ]
         },
         "internal_id": {
@@ -171,12 +183,14 @@
         "exchange_currency",
         "exchange_price",
         "filename",
+        "has_vfx",
         "hha_category",
         "hha_concept_1",
         "hha_concept_2",
         "hha_points",
         "hha_series",
         "hha_set",
+        "image_url",
         "internal_id",
         "internal_label",
         "internal_name",

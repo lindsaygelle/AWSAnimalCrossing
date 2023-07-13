@@ -1,6 +1,9 @@
 [
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -52,6 +55,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaDrumSet00_Remake_0_0.png"
+            },
             "internal_id": {
                 "N": "14074"
             },
@@ -83,10 +89,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Aluminoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -111,6 +123,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -162,6 +177,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaDrumSet00_Remake_1_0.png"
+            },
             "internal_id": {
                 "N": "14074"
             },
@@ -193,10 +211,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Aluminoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -221,6 +245,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -272,6 +299,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaDrumSet00_Remake_2_0.png"
+            },
             "internal_id": {
                 "N": "14074"
             },
@@ -303,10 +333,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Aluminoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -331,6 +367,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -382,6 +421,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaDrumSet00_Remake_3_0.png"
+            },
             "internal_id": {
                 "N": "14074"
             },
@@ -413,10 +455,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Aluminoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -441,6 +489,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -492,6 +543,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody02_Remake_0_0.png"
+            },
             "internal_id": {
                 "N": "14056"
             },
@@ -523,10 +577,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Arfoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -551,6 +611,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -602,6 +665,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody02_Remake_1_0.png"
+            },
             "internal_id": {
                 "N": "14056"
             },
@@ -633,10 +699,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Arfoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -661,6 +733,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -712,6 +787,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody02_Remake_2_0.png"
+            },
             "internal_id": {
                 "N": "14056"
             },
@@ -743,10 +821,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Arfoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -771,6 +855,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -822,6 +909,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody02_Remake_3_0.png"
+            },
             "internal_id": {
                 "N": "14056"
             },
@@ -853,10 +943,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Arfoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -881,6 +977,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -932,6 +1031,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody02_Remake_4_0.png"
+            },
             "internal_id": {
                 "N": "14056"
             },
@@ -963,10 +1065,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Arfoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -991,6 +1099,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -1042,6 +1153,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody01_Remake_0_0.png"
+            },
             "internal_id": {
                 "N": "14047"
             },
@@ -1073,10 +1187,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Babbloid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1101,6 +1221,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -1152,6 +1275,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody01_Remake_1_0.png"
+            },
             "internal_id": {
                 "N": "14047"
             },
@@ -1183,10 +1309,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Babbloid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1211,6 +1343,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -1262,6 +1397,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody01_Remake_2_0.png"
+            },
             "internal_id": {
                 "N": "14047"
             },
@@ -1293,10 +1431,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Babbloid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1321,6 +1465,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -1372,6 +1519,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody01_Remake_3_0.png"
+            },
             "internal_id": {
                 "N": "14047"
             },
@@ -1403,10 +1553,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Babbloid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1431,6 +1587,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -1482,6 +1641,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody01_Remake_4_0.png"
+            },
             "internal_id": {
                 "N": "14047"
             },
@@ -1513,10 +1675,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Babbloid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1541,6 +1709,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -1592,6 +1763,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody01_Remake_5_0.png"
+            },
             "internal_id": {
                 "N": "14047"
             },
@@ -1623,10 +1797,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Babbloid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1651,6 +1831,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -1702,6 +1885,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaKick02_Remake_0_0.png"
+            },
             "internal_id": {
                 "N": "14082"
             },
@@ -1733,10 +1919,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Bendoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1761,6 +1953,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -1812,6 +2007,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaKick02_Remake_1_0.png"
+            },
             "internal_id": {
                 "N": "14082"
             },
@@ -1843,10 +2041,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Bendoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1871,6 +2075,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -1922,6 +2129,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaKick02_Remake_2_0.png"
+            },
             "internal_id": {
                 "N": "14082"
             },
@@ -1953,10 +2163,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Bendoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1981,6 +2197,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -2032,6 +2251,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaKick02_Remake_3_0.png"
+            },
             "internal_id": {
                 "N": "14082"
             },
@@ -2063,10 +2285,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Bendoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2091,6 +2319,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -2142,6 +2373,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaKick02_Remake_4_0.png"
+            },
             "internal_id": {
                 "N": "14082"
             },
@@ -2173,10 +2407,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Bendoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2201,6 +2441,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -2252,6 +2495,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaKick02_Remake_5_0.png"
+            },
             "internal_id": {
                 "N": "14082"
             },
@@ -2283,10 +2529,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Bendoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2311,6 +2563,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -2362,6 +2617,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaSnare00_Remake_0_0.png"
+            },
             "internal_id": {
                 "N": "14086"
             },
@@ -2393,10 +2651,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Bloopoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2421,6 +2685,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -2472,6 +2739,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaSnare00_Remake_1_0.png"
+            },
             "internal_id": {
                 "N": "14086"
             },
@@ -2503,10 +2773,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Bloopoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2531,6 +2807,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -2582,6 +2861,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaSnare00_Remake_2_0.png"
+            },
             "internal_id": {
                 "N": "14086"
             },
@@ -2613,10 +2895,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Bloopoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2641,6 +2929,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -2692,6 +2983,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaSnare00_Remake_3_0.png"
+            },
             "internal_id": {
                 "N": "14086"
             },
@@ -2723,10 +3017,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Bloopoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2751,6 +3051,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -2802,6 +3105,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaCrash00_Remake_0_0.png"
+            },
             "internal_id": {
                 "N": "14098"
             },
@@ -2833,10 +3139,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Boioingoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2861,6 +3173,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -2912,6 +3227,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaCrash00_Remake_1_0.png"
+            },
             "internal_id": {
                 "N": "14098"
             },
@@ -2943,10 +3261,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Boioingoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2971,6 +3295,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -3022,6 +3349,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaCrash00_Remake_2_0.png"
+            },
             "internal_id": {
                 "N": "14098"
             },
@@ -3053,10 +3383,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Boioingoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3081,6 +3417,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -3132,6 +3471,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaCrash00_Remake_3_0.png"
+            },
             "internal_id": {
                 "N": "14098"
             },
@@ -3163,10 +3505,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Boioingoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3191,6 +3539,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -3242,6 +3593,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaCrash00_Remake_4_0.png"
+            },
             "internal_id": {
                 "N": "14098"
             },
@@ -3273,10 +3627,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Boioingoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3301,6 +3661,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -3352,6 +3715,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaCrash00_Remake_5_0.png"
+            },
             "internal_id": {
                 "N": "14098"
             },
@@ -3383,10 +3749,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Boioingoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3411,6 +3783,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -3462,6 +3837,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaKick03_Remake_0_0.png"
+            },
             "internal_id": {
                 "N": "14083"
             },
@@ -3493,10 +3871,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Boomoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3521,6 +3905,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -3572,6 +3959,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaKick03_Remake_1_0.png"
+            },
             "internal_id": {
                 "N": "14083"
             },
@@ -3603,10 +3993,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Boomoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3631,6 +4027,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -3682,6 +4081,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaKick03_Remake_2_0.png"
+            },
             "internal_id": {
                 "N": "14083"
             },
@@ -3713,10 +4115,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Boomoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3741,6 +4149,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -3792,6 +4203,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaKick03_Remake_3_0.png"
+            },
             "internal_id": {
                 "N": "14083"
             },
@@ -3823,10 +4237,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Boomoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3851,6 +4271,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -3902,6 +4325,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaKick03_Remake_4_0.png"
+            },
             "internal_id": {
                 "N": "14083"
             },
@@ -3933,10 +4359,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Boomoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3961,6 +4393,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -4012,6 +4447,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaKick03_Remake_5_0.png"
+            },
             "internal_id": {
                 "N": "14083"
             },
@@ -4043,10 +4481,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Boomoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -4071,6 +4515,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "NULL": true
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -4122,6 +4569,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaSnare04.png"
+            },
             "internal_id": {
                 "N": "14090"
             },
@@ -4153,10 +4603,16 @@
                 "NULL": true
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Brewstoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -4181,6 +4637,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -4232,6 +4691,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody12_Remake_0_0.png"
+            },
             "internal_id": {
                 "N": "14066"
             },
@@ -4263,10 +4725,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Bubbloid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -4291,6 +4759,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -4342,6 +4813,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody12_Remake_1_0.png"
+            },
             "internal_id": {
                 "N": "14066"
             },
@@ -4373,10 +4847,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Bubbloid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -4401,6 +4881,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -4452,6 +4935,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody12_Remake_2_0.png"
+            },
             "internal_id": {
                 "N": "14066"
             },
@@ -4483,10 +4969,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Bubbloid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -4511,6 +5003,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -4562,6 +5057,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody12_Remake_3_0.png"
+            },
             "internal_id": {
                 "N": "14066"
             },
@@ -4593,10 +5091,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Bubbloid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -4621,6 +5125,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -4672,6 +5179,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody12_Remake_4_0.png"
+            },
             "internal_id": {
                 "N": "14066"
             },
@@ -4703,10 +5213,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Bubbloid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -4731,6 +5247,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -4782,6 +5301,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody04_Remake_0_0.png"
+            },
             "internal_id": {
                 "N": "14058"
             },
@@ -4813,10 +5335,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Bwongoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -4841,6 +5369,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -4892,6 +5423,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody04_Remake_1_0.png"
+            },
             "internal_id": {
                 "N": "14058"
             },
@@ -4923,10 +5457,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Bwongoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -4951,6 +5491,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -5002,6 +5545,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody04_Remake_2_0.png"
+            },
             "internal_id": {
                 "N": "14058"
             },
@@ -5033,10 +5579,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Bwongoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -5061,6 +5613,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -5112,6 +5667,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody04_Remake_3_0.png"
+            },
             "internal_id": {
                 "N": "14058"
             },
@@ -5143,10 +5701,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Bwongoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -5171,6 +5735,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -5222,6 +5789,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaSnare03_Remake_0_0.png"
+            },
             "internal_id": {
                 "N": "14089"
             },
@@ -5253,10 +5823,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Clatteroid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -5281,6 +5857,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -5332,6 +5911,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaSnare03_Remake_1_0.png"
+            },
             "internal_id": {
                 "N": "14089"
             },
@@ -5363,10 +5945,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Clatteroid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -5391,6 +5979,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -5442,6 +6033,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaSnare03_Remake_2_0.png"
+            },
             "internal_id": {
                 "N": "14089"
             },
@@ -5473,10 +6067,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Clatteroid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -5501,6 +6101,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -5552,6 +6155,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaSnare03_Remake_3_0.png"
+            },
             "internal_id": {
                 "N": "14089"
             },
@@ -5583,10 +6189,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Clatteroid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -5611,6 +6223,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -5662,6 +6277,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaSnare03_Remake_4_0.png"
+            },
             "internal_id": {
                 "N": "14089"
             },
@@ -5693,10 +6311,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Clatteroid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -5721,6 +6345,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -5772,6 +6399,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaSnare02_Remake_0_0.png"
+            },
             "internal_id": {
                 "N": "14088"
             },
@@ -5803,10 +6433,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Crumploid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -5831,6 +6467,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -5882,6 +6521,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaSnare02_Remake_1_0.png"
+            },
             "internal_id": {
                 "N": "14088"
             },
@@ -5913,10 +6555,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Crumploid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -5941,6 +6589,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -5992,6 +6643,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaSnare02_Remake_2_0.png"
+            },
             "internal_id": {
                 "N": "14088"
             },
@@ -6023,10 +6677,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Crumploid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -6051,6 +6711,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -6102,6 +6765,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaSnare02_Remake_3_0.png"
+            },
             "internal_id": {
                 "N": "14088"
             },
@@ -6133,10 +6799,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Crumploid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -6161,6 +6833,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -6212,6 +6887,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaSnare02_Remake_4_0.png"
+            },
             "internal_id": {
                 "N": "14088"
             },
@@ -6243,10 +6921,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Crumploid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -6271,6 +6955,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -6322,6 +7009,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaSnare02_Remake_5_0.png"
+            },
             "internal_id": {
                 "N": "14088"
             },
@@ -6353,10 +7043,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Crumploid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -6381,6 +7077,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -6432,6 +7131,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaDrumSet03_Remake_0_0.png"
+            },
             "internal_id": {
                 "N": "14077"
             },
@@ -6463,10 +7165,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Dootoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -6491,6 +7199,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -6542,6 +7253,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaDrumSet03_Remake_1_0.png"
+            },
             "internal_id": {
                 "N": "14077"
             },
@@ -6573,10 +7287,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Dootoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -6601,6 +7321,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -6652,6 +7375,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaDrumSet03_Remake_2_0.png"
+            },
             "internal_id": {
                 "N": "14077"
             },
@@ -6683,10 +7409,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Dootoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -6711,6 +7443,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -6762,6 +7497,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaDrumSet03_Remake_3_0.png"
+            },
             "internal_id": {
                 "N": "14077"
             },
@@ -6793,10 +7531,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Dootoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -6821,6 +7565,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -6872,6 +7619,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaDrumSet03_Remake_4_0.png"
+            },
             "internal_id": {
                 "N": "14077"
             },
@@ -6903,10 +7653,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Dootoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -6931,6 +7687,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -6982,6 +7741,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaDrumSet03_Remake_5_0.png"
+            },
             "internal_id": {
                 "N": "14077"
             },
@@ -7013,10 +7775,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Dootoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -7041,6 +7809,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -7092,6 +7863,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaDrumSet03_Remake_6_0.png"
+            },
             "internal_id": {
                 "N": "14077"
             },
@@ -7123,10 +7897,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Dootoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -7151,6 +7931,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -7202,6 +7985,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaDrumSet02_Remake_0_0.png"
+            },
             "internal_id": {
                 "N": "14076"
             },
@@ -7233,10 +8019,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Drummoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -7261,6 +8053,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -7312,6 +8107,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaDrumSet02_Remake_1_0.png"
+            },
             "internal_id": {
                 "N": "14076"
             },
@@ -7343,10 +8141,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Drummoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -7371,6 +8175,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -7422,6 +8229,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaDrumSet02_Remake_2_0.png"
+            },
             "internal_id": {
                 "N": "14076"
             },
@@ -7453,10 +8263,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Drummoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -7481,6 +8297,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -7532,6 +8351,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaDrumSet02_Remake_3_0.png"
+            },
             "internal_id": {
                 "N": "14076"
             },
@@ -7563,10 +8385,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Drummoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -7591,6 +8419,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -7642,6 +8473,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaDrumSet02_Remake_4_0.png"
+            },
             "internal_id": {
                 "N": "14076"
             },
@@ -7673,10 +8507,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Drummoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -7701,6 +8541,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -7752,6 +8595,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaHiHat03_Remake_0_0.png"
+            },
             "internal_id": {
                 "N": "14095"
             },
@@ -7783,10 +8629,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Flutteroid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -7811,6 +8663,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -7862,6 +8717,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaHiHat03_Remake_1_0.png"
+            },
             "internal_id": {
                 "N": "14095"
             },
@@ -7893,10 +8751,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Flutteroid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -7921,6 +8785,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -7972,6 +8839,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaHiHat03_Remake_2_0.png"
+            },
             "internal_id": {
                 "N": "14095"
             },
@@ -8003,10 +8873,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Flutteroid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -8031,6 +8907,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -8082,6 +8961,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaHiHat03_Remake_3_0.png"
+            },
             "internal_id": {
                 "N": "14095"
             },
@@ -8113,10 +8995,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Flutteroid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -8141,6 +9029,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -8192,6 +9083,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaHiHat03_Remake_4_0.png"
+            },
             "internal_id": {
                 "N": "14095"
             },
@@ -8223,10 +9117,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Flutteroid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -8251,6 +9151,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -8302,6 +9205,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaCrash02_Remake_0_0.png"
+            },
             "internal_id": {
                 "N": "14100"
             },
@@ -8333,10 +9239,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Jingloid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -8361,6 +9273,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -8412,6 +9327,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaCrash02_Remake_1_0.png"
+            },
             "internal_id": {
                 "N": "14100"
             },
@@ -8443,10 +9361,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Jingloid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -8471,6 +9395,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -8522,6 +9449,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaCrash02_Remake_2_0.png"
+            },
             "internal_id": {
                 "N": "14100"
             },
@@ -8553,10 +9483,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Jingloid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -8581,6 +9517,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -8632,6 +9571,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaCrash02_Remake_3_0.png"
+            },
             "internal_id": {
                 "N": "14100"
             },
@@ -8663,10 +9605,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Jingloid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -8691,6 +9639,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -8742,6 +9693,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaCrash02_Remake_4_0.png"
+            },
             "internal_id": {
                 "N": "14100"
             },
@@ -8773,10 +9727,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Jingloid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -8801,6 +9761,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -8852,6 +9815,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody06_Remake_0_0.png"
+            },
             "internal_id": {
                 "N": "14060"
             },
@@ -8888,6 +9854,12 @@
             "name": {
                 "S": "Laseroid"
             },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
+            },
             "sell_currency": {
                 "S": "Bells"
             },
@@ -8911,6 +9883,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -8962,6 +9937,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody06_Remake_1_0.png"
+            },
             "internal_id": {
                 "N": "14060"
             },
@@ -8998,6 +9976,12 @@
             "name": {
                 "S": "Laseroid"
             },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
+            },
             "sell_currency": {
                 "S": "Bells"
             },
@@ -9021,6 +10005,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -9072,6 +10059,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody06_Remake_2_0.png"
+            },
             "internal_id": {
                 "N": "14060"
             },
@@ -9108,6 +10098,12 @@
             "name": {
                 "S": "Laseroid"
             },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
+            },
             "sell_currency": {
                 "S": "Bells"
             },
@@ -9131,6 +10127,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -9182,6 +10181,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody06_Remake_3_0.png"
+            },
             "internal_id": {
                 "N": "14060"
             },
@@ -9218,6 +10220,12 @@
             "name": {
                 "S": "Laseroid"
             },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
+            },
             "sell_currency": {
                 "S": "Bells"
             },
@@ -9241,6 +10249,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -9292,6 +10303,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody06_Remake_4_0.png"
+            },
             "internal_id": {
                 "N": "14060"
             },
@@ -9328,6 +10342,12 @@
             "name": {
                 "S": "Laseroid"
             },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
+            },
             "sell_currency": {
                 "S": "Bells"
             },
@@ -9351,6 +10371,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -9402,6 +10425,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody10_Remake_0_0.png"
+            },
             "internal_id": {
                 "N": "14064"
             },
@@ -9433,10 +10459,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Oinkoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -9461,6 +10493,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -9512,6 +10547,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody10_Remake_1_0.png"
+            },
             "internal_id": {
                 "N": "14064"
             },
@@ -9543,10 +10581,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Oinkoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -9571,6 +10615,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -9622,6 +10669,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody10_Remake_2_0.png"
+            },
             "internal_id": {
                 "N": "14064"
             },
@@ -9653,10 +10703,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Oinkoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -9681,6 +10737,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -9732,6 +10791,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody10_Remake_3_0.png"
+            },
             "internal_id": {
                 "N": "14064"
             },
@@ -9763,10 +10825,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Oinkoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -9791,6 +10859,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -9842,6 +10913,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody10_Remake_4_0.png"
+            },
             "internal_id": {
                 "N": "14064"
             },
@@ -9873,10 +10947,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Oinkoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -9901,6 +10981,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -9952,6 +11035,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody10_Remake_5_0.png"
+            },
             "internal_id": {
                 "N": "14064"
             },
@@ -9983,10 +11069,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Oinkoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -10011,6 +11103,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -10062,6 +11157,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody13_Remake_0_0.png"
+            },
             "internal_id": {
                 "N": "14067"
             },
@@ -10093,10 +11191,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Petaloid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -10121,6 +11225,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -10172,6 +11279,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody13_Remake_1_0.png"
+            },
             "internal_id": {
                 "N": "14067"
             },
@@ -10203,10 +11313,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Petaloid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -10231,6 +11347,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -10282,6 +11401,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody13_Remake_2_0.png"
+            },
             "internal_id": {
                 "N": "14067"
             },
@@ -10313,10 +11435,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Petaloid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -10341,6 +11469,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -10392,6 +11523,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody13_Remake_3_0.png"
+            },
             "internal_id": {
                 "N": "14067"
             },
@@ -10423,10 +11557,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Petaloid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -10451,6 +11591,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -10502,6 +11645,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody13_Remake_4_0.png"
+            },
             "internal_id": {
                 "N": "14067"
             },
@@ -10533,10 +11679,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Petaloid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -10561,6 +11713,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -10612,6 +11767,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody13_Remake_5_0.png"
+            },
             "internal_id": {
                 "N": "14067"
             },
@@ -10643,10 +11801,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Petaloid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -10671,6 +11835,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -10722,6 +11889,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody13_Remake_6_0.png"
+            },
             "internal_id": {
                 "N": "14067"
             },
@@ -10753,10 +11923,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Petaloid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -10781,6 +11957,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -10832,6 +12011,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaCrash03_Remake_0_0.png"
+            },
             "internal_id": {
                 "N": "14101"
             },
@@ -10863,10 +12045,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Rattloid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -10891,6 +12079,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -10942,6 +12133,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaCrash03_Remake_1_0.png"
+            },
             "internal_id": {
                 "N": "14101"
             },
@@ -10973,10 +12167,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Rattloid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -11001,6 +12201,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -11052,6 +12255,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaCrash03_Remake_2_0.png"
+            },
             "internal_id": {
                 "N": "14101"
             },
@@ -11083,10 +12289,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Rattloid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -11111,6 +12323,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -11162,6 +12377,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaCrash03_Remake_3_0.png"
+            },
             "internal_id": {
                 "N": "14101"
             },
@@ -11193,10 +12411,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Rattloid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -11221,6 +12445,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -11272,6 +12499,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaCrash03_Remake_4_0.png"
+            },
             "internal_id": {
                 "N": "14101"
             },
@@ -11303,10 +12533,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Rattloid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -11331,6 +12567,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -11382,6 +12621,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaCrash03_Remake_5_0.png"
+            },
             "internal_id": {
                 "N": "14101"
             },
@@ -11413,10 +12655,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Rattloid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -11441,6 +12689,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -11492,6 +12743,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody09_Remake_0_0.png"
+            },
             "internal_id": {
                 "N": "14063"
             },
@@ -11523,10 +12777,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Ringoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -11551,6 +12811,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -11602,6 +12865,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody09_Remake_1_0.png"
+            },
             "internal_id": {
                 "N": "14063"
             },
@@ -11633,10 +12899,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Ringoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -11661,6 +12933,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -11712,6 +12987,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody09_Remake_2_0.png"
+            },
             "internal_id": {
                 "N": "14063"
             },
@@ -11743,10 +13021,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Ringoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -11771,6 +13055,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -11822,6 +13109,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody09_Remake_3_0.png"
+            },
             "internal_id": {
                 "N": "14063"
             },
@@ -11853,10 +13143,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Ringoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -11881,6 +13177,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -11932,6 +13231,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody09_Remake_4_0.png"
+            },
             "internal_id": {
                 "N": "14063"
             },
@@ -11963,10 +13265,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Ringoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -11991,6 +13299,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -12042,6 +13353,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody09_Remake_5_0.png"
+            },
             "internal_id": {
                 "N": "14063"
             },
@@ -12073,10 +13387,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Ringoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -12101,6 +13421,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -12152,6 +13475,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaKick01_Remake_0_0.png"
+            },
             "internal_id": {
                 "N": "14081"
             },
@@ -12183,10 +13509,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Rumbloid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -12211,6 +13543,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -12262,6 +13597,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaKick01_Remake_1_0.png"
+            },
             "internal_id": {
                 "N": "14081"
             },
@@ -12293,10 +13631,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Rumbloid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -12321,6 +13665,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -12372,6 +13719,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaKick01_Remake_2_0.png"
+            },
             "internal_id": {
                 "N": "14081"
             },
@@ -12403,10 +13753,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Rumbloid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -12431,6 +13787,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -12482,6 +13841,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaKick01_Remake_3_0.png"
+            },
             "internal_id": {
                 "N": "14081"
             },
@@ -12513,10 +13875,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Rumbloid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -12541,6 +13909,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -12592,6 +13963,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaKick01_Remake_4_0.png"
+            },
             "internal_id": {
                 "N": "14081"
             },
@@ -12623,10 +13997,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Rumbloid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -12651,6 +14031,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -12702,6 +14085,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaKick01_Remake_5_0.png"
+            },
             "internal_id": {
                 "N": "14081"
             },
@@ -12733,10 +14119,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Rumbloid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -12761,6 +14153,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -12812,6 +14207,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaKick01_Remake_6_0.png"
+            },
             "internal_id": {
                 "N": "14081"
             },
@@ -12843,10 +14241,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Rumbloid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -12871,6 +14275,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -12922,6 +14329,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaHiHat00_Remake_0_0.png"
+            },
             "internal_id": {
                 "N": "14092"
             },
@@ -12953,10 +14363,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Scatteroid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -12981,6 +14397,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -13032,6 +14451,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaHiHat00_Remake_1_0.png"
+            },
             "internal_id": {
                 "N": "14092"
             },
@@ -13063,10 +14485,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Scatteroid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -13091,6 +14519,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -13142,6 +14573,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaHiHat00_Remake_2_0.png"
+            },
             "internal_id": {
                 "N": "14092"
             },
@@ -13173,10 +14607,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Scatteroid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -13201,6 +14641,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -13252,6 +14695,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaHiHat00_Remake_3_0.png"
+            },
             "internal_id": {
                 "N": "14092"
             },
@@ -13283,10 +14729,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Scatteroid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -13311,6 +14763,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -13362,6 +14817,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaHiHat00_Remake_4_0.png"
+            },
             "internal_id": {
                 "N": "14092"
             },
@@ -13393,10 +14851,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Scatteroid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -13421,6 +14885,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -13472,6 +14939,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaHiHat01_Remake_0_0.png"
+            },
             "internal_id": {
                 "N": "14093"
             },
@@ -13503,10 +14973,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Spikenoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -13531,6 +15007,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -13582,6 +15061,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaHiHat01_Remake_1_0.png"
+            },
             "internal_id": {
                 "N": "14093"
             },
@@ -13613,10 +15095,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Spikenoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -13641,6 +15129,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -13692,6 +15183,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaHiHat01_Remake_2_0.png"
+            },
             "internal_id": {
                 "N": "14093"
             },
@@ -13723,10 +15217,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Spikenoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -13751,6 +15251,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -13802,6 +15305,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaHiHat01_Remake_3_0.png"
+            },
             "internal_id": {
                 "N": "14093"
             },
@@ -13833,10 +15339,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Spikenoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -13861,6 +15373,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -13912,6 +15427,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaHiHat01_Remake_4_0.png"
+            },
             "internal_id": {
                 "N": "14093"
             },
@@ -13943,10 +15461,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Spikenoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -13971,6 +15495,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -14022,6 +15549,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaHiHat01_Remake_5_0.png"
+            },
             "internal_id": {
                 "N": "14093"
             },
@@ -14053,10 +15583,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Spikenoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -14081,6 +15617,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -14132,6 +15671,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaHiHat01_Remake_6_0.png"
+            },
             "internal_id": {
                 "N": "14093"
             },
@@ -14163,10 +15705,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Spikenoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -14191,6 +15739,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -14242,6 +15793,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaSnare01_Remake_0_0.png"
+            },
             "internal_id": {
                 "N": "14087"
             },
@@ -14273,10 +15827,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Sproingoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -14301,6 +15861,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -14352,6 +15915,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaSnare01_Remake_1_0.png"
+            },
             "internal_id": {
                 "N": "14087"
             },
@@ -14383,10 +15949,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Sproingoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -14411,6 +15983,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -14462,6 +16037,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaSnare01_Remake_2_0.png"
+            },
             "internal_id": {
                 "N": "14087"
             },
@@ -14493,10 +16071,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Sproingoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -14521,6 +16105,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -14572,6 +16159,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaSnare01_Remake_3_0.png"
+            },
             "internal_id": {
                 "N": "14087"
             },
@@ -14603,10 +16193,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Sproingoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -14631,6 +16227,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -14682,6 +16281,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody07_Remake_0_0.png"
+            },
             "internal_id": {
                 "N": "14061"
             },
@@ -14713,10 +16315,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Squeakoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -14741,6 +16349,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -14792,6 +16403,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody07_Remake_1_0.png"
+            },
             "internal_id": {
                 "N": "14061"
             },
@@ -14823,10 +16437,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Squeakoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -14851,6 +16471,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -14902,6 +16525,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody07_Remake_2_0.png"
+            },
             "internal_id": {
                 "N": "14061"
             },
@@ -14933,10 +16559,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Squeakoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -14961,6 +16593,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -15012,6 +16647,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody07_Remake_3_0.png"
+            },
             "internal_id": {
                 "N": "14061"
             },
@@ -15043,10 +16681,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Squeakoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -15071,6 +16715,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -15122,6 +16769,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody07_Remake_4_0.png"
+            },
             "internal_id": {
                 "N": "14061"
             },
@@ -15153,10 +16803,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Squeakoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -15181,6 +16837,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -15232,6 +16891,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaHiHat02_Remake_0_0.png"
+            },
             "internal_id": {
                 "N": "14094"
             },
@@ -15263,10 +16925,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Squeezoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -15291,6 +16959,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -15342,6 +17013,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaHiHat02_Remake_1_0.png"
+            },
             "internal_id": {
                 "N": "14094"
             },
@@ -15373,10 +17047,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Squeezoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -15401,6 +17081,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -15452,6 +17135,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaHiHat02_Remake_2_0.png"
+            },
             "internal_id": {
                 "N": "14094"
             },
@@ -15483,10 +17169,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Squeezoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -15511,6 +17203,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -15562,6 +17257,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaHiHat02_Remake_3_0.png"
+            },
             "internal_id": {
                 "N": "14094"
             },
@@ -15593,10 +17291,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Squeezoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -15621,6 +17325,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -15672,6 +17379,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaHiHat02_Remake_4_0.png"
+            },
             "internal_id": {
                 "N": "14094"
             },
@@ -15703,10 +17413,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Squeezoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -15731,6 +17447,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -15782,6 +17501,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaHiHat02_Remake_5_0.png"
+            },
             "internal_id": {
                 "N": "14094"
             },
@@ -15813,10 +17535,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Squeezoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -15841,6 +17569,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -15892,6 +17623,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaCrash01_Remake_0_0.png"
+            },
             "internal_id": {
                 "N": "14099"
             },
@@ -15923,10 +17657,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Stelloid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -15951,6 +17691,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -16002,6 +17745,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaCrash01_Remake_1_0.png"
+            },
             "internal_id": {
                 "N": "14099"
             },
@@ -16033,10 +17779,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Stelloid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -16061,6 +17813,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -16112,6 +17867,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaCrash01_Remake_2_0.png"
+            },
             "internal_id": {
                 "N": "14099"
             },
@@ -16143,10 +17901,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Stelloid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -16171,6 +17935,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -16222,6 +17989,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaCrash01_Remake_3_0.png"
+            },
             "internal_id": {
                 "N": "14099"
             },
@@ -16253,10 +18023,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Stelloid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -16281,6 +18057,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -16332,6 +18111,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaCrash01_Remake_4_0.png"
+            },
             "internal_id": {
                 "N": "14099"
             },
@@ -16363,10 +18145,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Stelloid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -16391,6 +18179,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -16442,6 +18233,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaKick00_Remake_0_0.png"
+            },
             "internal_id": {
                 "N": "14080"
             },
@@ -16473,10 +18267,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Thwopoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -16501,6 +18301,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -16552,6 +18355,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaKick00_Remake_1_0.png"
+            },
             "internal_id": {
                 "N": "14080"
             },
@@ -16583,10 +18389,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Thwopoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -16611,6 +18423,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -16662,6 +18477,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaKick00_Remake_2_0.png"
+            },
             "internal_id": {
                 "N": "14080"
             },
@@ -16693,10 +18511,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Thwopoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -16721,6 +18545,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -16772,6 +18599,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaKick00_Remake_3_0.png"
+            },
             "internal_id": {
                 "N": "14080"
             },
@@ -16803,10 +18633,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Thwopoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -16831,6 +18667,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -16882,6 +18721,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody08_Remake_0_0.png"
+            },
             "internal_id": {
                 "N": "14062"
             },
@@ -16913,10 +18755,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Tockoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -16941,6 +18789,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -16992,6 +18843,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody08_Remake_1_0.png"
+            },
             "internal_id": {
                 "N": "14062"
             },
@@ -17023,10 +18877,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Tockoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -17051,6 +18911,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -17102,6 +18965,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody08_Remake_2_0.png"
+            },
             "internal_id": {
                 "N": "14062"
             },
@@ -17133,10 +18999,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Tockoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -17161,6 +19033,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -17212,6 +19087,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody08_Remake_3_0.png"
+            },
             "internal_id": {
                 "N": "14062"
             },
@@ -17243,10 +19121,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Tockoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -17271,6 +19155,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -17322,6 +19209,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody08_Remake_4_0.png"
+            },
             "internal_id": {
                 "N": "14062"
             },
@@ -17353,10 +19243,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Tockoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -17381,6 +19277,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -17432,6 +19331,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody11_Remake_0_0.png"
+            },
             "internal_id": {
                 "N": "14065"
             },
@@ -17463,10 +19365,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Tremoloid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -17491,6 +19399,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -17542,6 +19453,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody11_Remake_1_0.png"
+            },
             "internal_id": {
                 "N": "14065"
             },
@@ -17573,10 +19487,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Tremoloid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -17601,6 +19521,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -17652,6 +19575,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody11_Remake_2_0.png"
+            },
             "internal_id": {
                 "N": "14065"
             },
@@ -17683,10 +19609,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Tremoloid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -17711,6 +19643,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -17762,6 +19697,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody11_Remake_3_0.png"
+            },
             "internal_id": {
                 "N": "14065"
             },
@@ -17793,10 +19731,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Tremoloid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -17821,6 +19765,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -17872,6 +19819,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody11_Remake_4_0.png"
+            },
             "internal_id": {
                 "N": "14065"
             },
@@ -17903,10 +19853,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Tremoloid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -17931,6 +19887,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -17982,6 +19941,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody05_Remake_0_0.png"
+            },
             "internal_id": {
                 "N": "14059"
             },
@@ -18013,10 +19975,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Twangoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -18041,6 +20009,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -18092,6 +20063,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody05_Remake_1_0.png"
+            },
             "internal_id": {
                 "N": "14059"
             },
@@ -18123,10 +20097,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Twangoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -18151,6 +20131,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -18202,6 +20185,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody05_Remake_2_0.png"
+            },
             "internal_id": {
                 "N": "14059"
             },
@@ -18233,10 +20219,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Twangoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -18261,6 +20253,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -18312,6 +20307,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody05_Remake_3_0.png"
+            },
             "internal_id": {
                 "N": "14059"
             },
@@ -18343,10 +20341,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Twangoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -18371,6 +20375,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -18422,6 +20429,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody05_Remake_4_0.png"
+            },
             "internal_id": {
                 "N": "14059"
             },
@@ -18453,10 +20463,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Twangoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -18481,6 +20497,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -18532,6 +20551,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaDrumSet01_Remake_0_0.png"
+            },
             "internal_id": {
                 "N": "14075"
             },
@@ -18563,10 +20585,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Wallopoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -18591,6 +20619,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -18642,6 +20673,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaDrumSet01_Remake_1_0.png"
+            },
             "internal_id": {
                 "N": "14075"
             },
@@ -18673,10 +20707,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Wallopoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -18701,6 +20741,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -18752,6 +20795,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaDrumSet01_Remake_2_0.png"
+            },
             "internal_id": {
                 "N": "14075"
             },
@@ -18783,10 +20829,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Wallopoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -18811,6 +20863,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -18862,6 +20917,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaDrumSet01_Remake_3_0.png"
+            },
             "internal_id": {
                 "N": "14075"
             },
@@ -18893,10 +20951,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Wallopoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -18921,6 +20985,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -18972,6 +21039,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaDrumSet01_Remake_4_0.png"
+            },
             "internal_id": {
                 "N": "14075"
             },
@@ -19003,10 +21073,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Wallopoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -19031,6 +21107,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -19082,6 +21161,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaDrumSet01_Remake_5_0.png"
+            },
             "internal_id": {
                 "N": "14075"
             },
@@ -19113,10 +21195,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Wallopoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -19141,6 +21229,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -19192,6 +21283,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaDrumSet04_Remake_0_0.png"
+            },
             "internal_id": {
                 "N": "14078"
             },
@@ -19223,10 +21317,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Whirroid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -19251,6 +21351,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -19302,6 +21405,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaDrumSet04_Remake_1_0.png"
+            },
             "internal_id": {
                 "N": "14078"
             },
@@ -19333,10 +21439,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Whirroid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -19361,6 +21473,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -19412,6 +21527,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaDrumSet04_Remake_2_0.png"
+            },
             "internal_id": {
                 "N": "14078"
             },
@@ -19443,10 +21561,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Whirroid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -19471,6 +21595,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -19522,6 +21649,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaDrumSet04_Remake_3_0.png"
+            },
             "internal_id": {
                 "N": "14078"
             },
@@ -19553,10 +21683,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Whirroid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -19581,6 +21717,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -19632,6 +21771,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody03_Remake_0_0.png"
+            },
             "internal_id": {
                 "N": "14057"
             },
@@ -19663,10 +21805,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Whistloid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -19691,6 +21839,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -19742,6 +21893,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody03_Remake_1_0.png"
+            },
             "internal_id": {
                 "N": "14057"
             },
@@ -19773,10 +21927,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Whistloid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -19801,6 +21961,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -19852,6 +22015,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody03_Remake_2_0.png"
+            },
             "internal_id": {
                 "N": "14057"
             },
@@ -19883,10 +22049,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Whistloid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -19911,6 +22083,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -19962,6 +22137,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody03_Remake_3_0.png"
+            },
             "internal_id": {
                 "N": "14057"
             },
@@ -19993,10 +22171,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Whistloid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -20021,6 +22205,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -20072,6 +22259,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody03_Remake_4_0.png"
+            },
             "internal_id": {
                 "N": "14057"
             },
@@ -20103,10 +22293,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Whistloid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -20131,6 +22327,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -20182,6 +22381,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody03_Remake_5_0.png"
+            },
             "internal_id": {
                 "N": "14057"
             },
@@ -20213,10 +22415,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Whistloid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -20241,6 +22449,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -20292,6 +22503,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody00_Remake_0_0.png"
+            },
             "internal_id": {
                 "N": "14046"
             },
@@ -20323,10 +22537,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Xylophoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -20351,6 +22571,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -20402,6 +22625,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody00_Remake_1_0.png"
+            },
             "internal_id": {
                 "N": "14046"
             },
@@ -20433,10 +22659,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Xylophoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -20461,6 +22693,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -20512,6 +22747,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody00_Remake_2_0.png"
+            },
             "internal_id": {
                 "N": "14046"
             },
@@ -20543,10 +22781,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Xylophoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -20571,6 +22815,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -20622,6 +22869,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody00_Remake_3_0.png"
+            },
             "internal_id": {
                 "N": "14046"
             },
@@ -20653,10 +22903,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Xylophoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"
@@ -20681,6 +22937,9 @@
     },
     {
         "Item": {
+            "body_category": {
+                "S": "Color"
+            },
             "buy_currency": {
                 "NULL": true
             },
@@ -20732,6 +22991,9 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody00_Remake_4_0.png"
+            },
             "internal_id": {
                 "N": "14046"
             },
@@ -20763,10 +23025,16 @@
                 "N": "1"
             },
             "lighting_category": {
-                "S": "No lighting"
+                "NULL": true
             },
             "name": {
                 "S": "Xylophoid"
+            },
+            "pattern_category": {
+                "NULL": true
+            },
+            "pattern_name": {
+                "NULL": true
             },
             "sell_currency": {
                 "S": "Bells"

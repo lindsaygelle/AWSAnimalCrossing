@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 21,
-    "minProperties": 21,
+    "maxProperties": 22,
+    "minProperties": 22,
     "properties": {
         "buy_currency": {
             "maxLength": 5,
@@ -72,6 +72,13 @@
         "hha_set": {
             "type": [
                 "null"
+            ]
+        },
+        "image_url": {
+            "maxLength": 58,
+            "minLength": 53,
+            "type": [
+                "string"
             ]
         },
         "internal_id": {
@@ -159,6 +166,7 @@
         "hha_points",
         "hha_series",
         "hha_set",
+        "image_url",
         "internal_id",
         "internal_label",
         "internal_name",

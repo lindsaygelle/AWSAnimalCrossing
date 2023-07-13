@@ -1,0 +1,260 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema",
+    "maxProperties": 31,
+    "minProperties": 31,
+    "properties": {
+        "buy_currency": {
+            "maxLength": 5,
+            "minLength": 5,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "buy_price": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 4300,
+            "minimum": 400,
+            "type": [
+                "integer",
+                "null"
+            ]
+        },
+        "color_1": {
+            "maxLength": 8,
+            "minLength": 3,
+            "type": [
+                "string"
+            ]
+        },
+        "color_2": {
+            "maxLength": 8,
+            "minLength": 3,
+            "type": [
+                "string"
+            ]
+        },
+        "exchange_currency": {
+            "maxLength": 4,
+            "minLength": 4,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "exchange_price": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 3900,
+            "minimum": 360,
+            "type": [
+                "integer",
+                "null"
+            ]
+        },
+        "filename": {
+            "maxLength": 38,
+            "minLength": 22,
+            "type": [
+                "string"
+            ]
+        },
+        "gender": {
+            "maxLength": 7,
+            "minLength": 4,
+            "type": [
+                "string"
+            ]
+        },
+        "hha_category": {
+            "type": [
+                "null"
+            ]
+        },
+        "hha_concept_1": {
+            "type": [
+                "null"
+            ]
+        },
+        "hha_concept_2": {
+            "type": [
+                "null"
+            ]
+        },
+        "hha_points": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 451,
+            "minimum": 51,
+            "type": [
+                "integer"
+            ]
+        },
+        "hha_series": {
+            "type": [
+                "null"
+            ]
+        },
+        "hha_set": {
+            "type": [
+                "null"
+            ]
+        },
+        "image_closet": {
+            "maxLength": 80,
+            "minLength": 64,
+            "type": [
+                "string"
+            ]
+        },
+        "image_storage": {
+            "maxLength": 77,
+            "minLength": 61,
+            "type": [
+                "string"
+            ]
+        },
+        "internal_id": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 14982,
+            "minimum": 564,
+            "type": [
+                "integer"
+            ]
+        },
+        "internal_label": {
+            "type": [
+                "null"
+            ]
+        },
+        "internal_name": {
+            "type": [
+                "null"
+            ]
+        },
+        "is_craftable": {
+            "type": [
+                "boolean"
+            ]
+        },
+        "is_equippable": {
+            "type": [
+                "boolean"
+            ]
+        },
+        "is_unlocked": {
+            "type": [
+                "boolean"
+            ]
+        },
+        "name": {
+            "maxLength": 26,
+            "minLength": 4,
+            "type": [
+                "string"
+            ]
+        },
+        "order": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 8,
+            "minimum": 1,
+            "type": [
+                "integer"
+            ]
+        },
+        "sell_currency": {
+            "maxLength": 5,
+            "minLength": 5,
+            "type": [
+                "string"
+            ]
+        },
+        "sell_price": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 1075,
+            "minimum": 10,
+            "type": [
+                "integer"
+            ]
+        },
+        "size_1": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 1.0,
+            "minimum": 1.0,
+            "type": [
+                "number"
+            ]
+        },
+        "size_2": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 1.0,
+            "minimum": 1.0,
+            "type": [
+                "number"
+            ]
+        },
+        "style_1": {
+            "maxLength": 8,
+            "minLength": 4,
+            "type": [
+                "string"
+            ]
+        },
+        "style_2": {
+            "maxLength": 8,
+            "minLength": 4,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "unique_entry_id": {
+            "maxLength": 17,
+            "minLength": 17,
+            "type": [
+                "string"
+            ]
+        }
+    },
+    "required": [
+        "buy_currency",
+        "buy_price",
+        "color_1",
+        "color_2",
+        "exchange_currency",
+        "exchange_price",
+        "filename",
+        "gender",
+        "hha_category",
+        "hha_concept_1",
+        "hha_concept_2",
+        "hha_points",
+        "hha_series",
+        "hha_set",
+        "image_closet",
+        "image_storage",
+        "internal_id",
+        "internal_label",
+        "internal_name",
+        "is_craftable",
+        "is_equippable",
+        "is_unlocked",
+        "name",
+        "order",
+        "sell_currency",
+        "sell_price",
+        "size_1",
+        "size_2",
+        "style_1",
+        "style_2",
+        "unique_entry_id"
+    ],
+    "title": "ClothingBottom",
+    "type": "object"
+}
