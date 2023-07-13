@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 23,
-    "minProperties": 23,
+    "maxProperties": 27,
+    "minProperties": 27,
     "properties": {
         "color_1": {
             "maxLength": 6,
@@ -66,6 +66,27 @@
         "hha_set": {
             "type": [
                 "null"
+            ]
+        },
+        "image_critterpedia": {
+            "maxLength": 84,
+            "minLength": 61,
+            "type": [
+                "string"
+            ]
+        },
+        "image_furniture_url": {
+            "maxLength": 80,
+            "minLength": 57,
+            "type": [
+                "string"
+            ]
+        },
+        "image_icon_url": {
+            "maxLength": 45,
+            "minLength": 44,
+            "type": [
+                "string"
             ]
         },
         "internal_id": {
@@ -164,6 +185,15 @@
             "type": [
                 "string"
             ]
+        },
+        "unlock_number": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 100,
+            "minimum": 0,
+            "type": [
+                "integer"
+            ]
         }
     },
     "required": [
@@ -177,6 +207,9 @@
         "hha_points",
         "hha_series",
         "hha_set",
+        "image_critterpedia",
+        "image_furniture_url",
+        "image_icon_url",
         "internal_id",
         "internal_label",
         "internal_name",
@@ -189,7 +222,8 @@
         "sell_price",
         "size_1",
         "size_2",
-        "unique_entry_id"
+        "unique_entry_id",
+        "unlock_number"
     ],
     "title": "CreatureInsect",
     "type": "object"

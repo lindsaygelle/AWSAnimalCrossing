@@ -1,8 +1,16 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 35,
-    "minProperties": 35,
+    "maxProperties": 39,
+    "minProperties": 39,
     "properties": {
+        "body_category": {
+            "maxLength": 13,
+            "minLength": 3,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
         "buy_currency": {
             "maxLength": 5,
             "minLength": 5,
@@ -136,6 +144,13 @@
                 "string"
             ]
         },
+        "image_url": {
+            "maxLength": 79,
+            "minLength": 49,
+            "type": [
+                "string"
+            ]
+        },
         "internal_id": {
             "exclusiveMaximum": false,
             "exclusiveMinimum": false,
@@ -210,6 +225,7 @@
             "maxLength": 11,
             "minLength": 6,
             "type": [
+                "null",
                 "string"
             ]
         },
@@ -217,6 +233,22 @@
             "maxLength": 27,
             "minLength": 5,
             "type": [
+                "string"
+            ]
+        },
+        "pattern_category": {
+            "maxLength": 15,
+            "minLength": 6,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "pattern_name": {
+            "maxLength": 26,
+            "minLength": 1,
+            "type": [
+                "null",
                 "string"
             ]
         },
@@ -263,6 +295,7 @@
         }
     },
     "required": [
+        "body_category",
         "buy_currency",
         "buy_price",
         "can_customize_body",
@@ -280,6 +313,7 @@
         "hha_points",
         "hha_series",
         "hha_set",
+        "image_url",
         "internal_id",
         "internal_label",
         "internal_name",
@@ -293,6 +327,8 @@
         "kit_price",
         "lighting_category",
         "name",
+        "pattern_category",
+        "pattern_name",
         "sell_currency",
         "sell_price",
         "size_1",

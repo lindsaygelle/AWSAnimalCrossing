@@ -43,6 +43,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassThreed0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassThreed0.png"
+            },
             "internal_id": {
                 "N": "4463"
             },
@@ -63,6 +69,9 @@
             },
             "name": {
                 "S": "3D glasses"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -135,6 +144,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassThreed1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassThreed1.png"
+            },
             "internal_id": {
                 "N": "11020"
             },
@@ -155,6 +170,9 @@
             },
             "name": {
                 "S": "3D glasses"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -227,6 +245,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthHalloween0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryMouthHalloween0.png"
+            },
             "internal_id": {
                 "N": "13018"
             },
@@ -247,6 +271,9 @@
             },
             "name": {
                 "S": "Animal Nose"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -319,6 +346,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassDance0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassDance0.png"
+            },
             "internal_id": {
                 "N": "4561"
             },
@@ -339,6 +372,9 @@
             },
             "name": {
                 "S": "Ballroom Mask"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -411,6 +447,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassDance1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassDance1.png"
+            },
             "internal_id": {
                 "N": "11159"
             },
@@ -431,6 +473,9 @@
             },
             "name": {
                 "S": "Ballroom Mask"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -503,6 +548,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthBandageSkin.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryMouthBandageSkin.png"
+            },
             "internal_id": {
                 "N": "4677"
             },
@@ -523,6 +574,9 @@
             },
             "name": {
                 "S": "Bandage"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -595,6 +649,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthBeakYellow.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryMouthBeakYellow.png"
+            },
             "internal_id": {
                 "N": "3549"
             },
@@ -615,6 +675,9 @@
             },
             "name": {
                 "S": "Beak"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -687,6 +750,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassBirthday2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassBirthday2.png"
+            },
             "internal_id": {
                 "N": "11218"
             },
@@ -707,6 +776,9 @@
             },
             "name": {
                 "S": "Birthday Shades"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -779,6 +851,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassBirthday1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassBirthday1.png"
+            },
             "internal_id": {
                 "N": "11217"
             },
@@ -799,6 +877,9 @@
             },
             "name": {
                 "S": "Birthday Shades"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -871,6 +952,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassBirthday0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassBirthday0.png"
+            },
             "internal_id": {
                 "N": "4510"
             },
@@ -891,6 +978,9 @@
             },
             "name": {
                 "S": "Birthday Shades"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -963,6 +1053,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassBirthday3.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassBirthday3.png"
+            },
             "internal_id": {
                 "N": "11219"
             },
@@ -983,6 +1079,9 @@
             },
             "name": {
                 "S": "Birthday Shades"
+            },
+            "order": {
+                "N": "4"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1055,6 +1154,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassLoose6.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassLoose6.png"
+            },
             "internal_id": {
                 "N": "11086"
             },
@@ -1075,6 +1180,9 @@
             },
             "name": {
                 "S": "Bottom-rimmed Glasses"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1147,6 +1255,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassLoose0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassLoose0.png"
+            },
             "internal_id": {
                 "N": "4597"
             },
@@ -1167,6 +1281,9 @@
             },
             "name": {
                 "S": "Bottom-rimmed Glasses"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1239,6 +1356,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassLoose5.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassLoose5.png"
+            },
             "internal_id": {
                 "N": "11085"
             },
@@ -1259,6 +1382,9 @@
             },
             "name": {
                 "S": "Bottom-rimmed Glasses"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1331,6 +1457,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassLoose4.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassLoose4.png"
+            },
             "internal_id": {
                 "N": "11084"
             },
@@ -1351,6 +1483,9 @@
             },
             "name": {
                 "S": "Bottom-rimmed Glasses"
+            },
+            "order": {
+                "N": "4"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1423,6 +1558,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassLoose2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassLoose2.png"
+            },
             "internal_id": {
                 "N": "11082"
             },
@@ -1443,6 +1584,9 @@
             },
             "name": {
                 "S": "Bottom-rimmed Glasses"
+            },
+            "order": {
+                "N": "5"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1515,6 +1659,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassLoose3.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassLoose3.png"
+            },
             "internal_id": {
                 "N": "11083"
             },
@@ -1535,6 +1685,9 @@
             },
             "name": {
                 "S": "Bottom-rimmed Glasses"
+            },
+            "order": {
+                "N": "6"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1607,6 +1760,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassLoose1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassLoose1.png"
+            },
             "internal_id": {
                 "N": "11081"
             },
@@ -1627,6 +1786,9 @@
             },
             "name": {
                 "S": "Bottom-rimmed Glasses"
+            },
+            "order": {
+                "N": "7"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1699,6 +1861,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassThurmont3.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassThurmont3.png"
+            },
             "internal_id": {
                 "N": "11071"
             },
@@ -1719,6 +1887,9 @@
             },
             "name": {
                 "S": "Browline Glasses"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1791,6 +1962,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassThurmont0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassThurmont0.png"
+            },
             "internal_id": {
                 "N": "4238"
             },
@@ -1811,6 +1988,9 @@
             },
             "name": {
                 "S": "Browline Glasses"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1883,6 +2063,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassThurmont2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassThurmont2.png"
+            },
             "internal_id": {
                 "N": "11070"
             },
@@ -1903,6 +2089,9 @@
             },
             "name": {
                 "S": "Browline Glasses"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1975,6 +2164,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassThurmont1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassThurmont1.png"
+            },
             "internal_id": {
                 "N": "11069"
             },
@@ -1995,6 +2190,9 @@
             },
             "name": {
                 "S": "Browline Glasses"
+            },
+            "order": {
+                "N": "4"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2067,6 +2265,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthBubblegum4.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryMouthBubblegum4.png"
+            },
             "internal_id": {
                 "N": "11030"
             },
@@ -2087,6 +2291,9 @@
             },
             "name": {
                 "S": "Bubblegum"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2159,6 +2366,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthBubblegum0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryMouthBubblegum0.png"
+            },
             "internal_id": {
                 "N": "5738"
             },
@@ -2179,6 +2392,9 @@
             },
             "name": {
                 "S": "Bubblegum"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2251,6 +2467,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthBubblegum2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryMouthBubblegum2.png"
+            },
             "internal_id": {
                 "N": "11028"
             },
@@ -2271,6 +2493,9 @@
             },
             "name": {
                 "S": "Bubblegum"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2343,6 +2568,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthBubblegum3.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryMouthBubblegum3.png"
+            },
             "internal_id": {
                 "N": "11029"
             },
@@ -2363,6 +2594,9 @@
             },
             "name": {
                 "S": "Bubblegum"
+            },
+            "order": {
+                "N": "4"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2435,6 +2669,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthBubblegum1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryMouthBubblegum1.png"
+            },
             "internal_id": {
                 "N": "11027"
             },
@@ -2455,6 +2695,9 @@
             },
             "name": {
                 "S": "Bubblegum"
+            },
+            "order": {
+                "N": "5"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2527,6 +2770,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthRabbit2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryMouthRabbit2.png"
+            },
             "internal_id": {
                 "N": "11024"
             },
@@ -2547,6 +2796,9 @@
             },
             "name": {
                 "S": "Bunny Nose"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2619,6 +2871,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthRabbit0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryMouthRabbit0.png"
+            },
             "internal_id": {
                 "N": "4600"
             },
@@ -2639,6 +2897,9 @@
             },
             "name": {
                 "S": "Bunny Nose"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2711,6 +2972,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthRabbit1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryMouthRabbit1.png"
+            },
             "internal_id": {
                 "N": "11023"
             },
@@ -2731,6 +2998,9 @@
             },
             "name": {
                 "S": "Bunny Nose"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2803,6 +3073,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassButterfly0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassButterfly0.png"
+            },
             "internal_id": {
                 "N": "4608"
             },
@@ -2823,6 +3099,9 @@
             },
             "name": {
                 "S": "Butterfly Shades"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2895,6 +3174,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassButterfly1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassButterfly1.png"
+            },
             "internal_id": {
                 "N": "11503"
             },
@@ -2915,6 +3200,9 @@
             },
             "name": {
                 "S": "Butterfly Shades"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -2987,6 +3275,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassButterfly2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassButterfly2.png"
+            },
             "internal_id": {
                 "N": "11504"
             },
@@ -3007,6 +3301,9 @@
             },
             "name": {
                 "S": "Butterfly Shades"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3079,6 +3376,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassmouthCatrina1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassmouthCatrina1.png"
+            },
             "internal_id": {
                 "N": "11169"
             },
@@ -3099,6 +3402,9 @@
             },
             "name": {
                 "S": "Candy-skull Mask"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3171,6 +3477,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassmouthCatrina2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassmouthCatrina2.png"
+            },
             "internal_id": {
                 "N": "11170"
             },
@@ -3191,6 +3503,9 @@
             },
             "name": {
                 "S": "Candy-skull Mask"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3263,6 +3578,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassmouthCatrina0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassmouthCatrina0.png"
+            },
             "internal_id": {
                 "N": "5666"
             },
@@ -3283,6 +3604,9 @@
             },
             "name": {
                 "S": "Candy-skull Mask"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3355,6 +3679,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthCat0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryMouthCat0.png"
+            },
             "internal_id": {
                 "N": "4483"
             },
@@ -3375,6 +3705,9 @@
             },
             "name": {
                 "S": "Cat Nose"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3447,6 +3780,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthCat2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryMouthCat2.png"
+            },
             "internal_id": {
                 "N": "11022"
             },
@@ -3467,6 +3806,9 @@
             },
             "name": {
                 "S": "Cat Nose"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3539,6 +3881,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthCat1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryMouthCat1.png"
+            },
             "internal_id": {
                 "N": "11021"
             },
@@ -3559,6 +3907,9 @@
             },
             "name": {
                 "S": "Cat Nose"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3631,6 +3982,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthCucumber.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryMouthCucumber.png"
+            },
             "internal_id": {
                 "N": "4491"
             },
@@ -3651,6 +4008,9 @@
             },
             "name": {
                 "S": "Cucumber Pack"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3723,6 +4083,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthRollingmustacheBlack.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryMouthRollingmustacheBlack.png"
+            },
             "internal_id": {
                 "N": "4672"
             },
@@ -3743,6 +4109,9 @@
             },
             "name": {
                 "S": "Curly Mustache"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3815,6 +4184,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassCyber2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassCyber2.png"
+            },
             "internal_id": {
                 "N": "11499"
             },
@@ -3835,6 +4210,9 @@
             },
             "name": {
                 "S": "Cyber Shades"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3907,6 +4285,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassCyber1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassCyber1.png"
+            },
             "internal_id": {
                 "N": "11498"
             },
@@ -3927,6 +4311,9 @@
             },
             "name": {
                 "S": "Cyber Shades"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -3999,6 +4386,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassCyber0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassCyber0.png"
+            },
             "internal_id": {
                 "N": "4552"
             },
@@ -4019,6 +4412,9 @@
             },
             "name": {
                 "S": "Cyber Shades"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -4091,6 +4487,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassCyber5.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassCyber5.png"
+            },
             "internal_id": {
                 "N": "11502"
             },
@@ -4111,6 +4513,9 @@
             },
             "name": {
                 "S": "Cyber Shades"
+            },
+            "order": {
+                "N": "4"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -4183,6 +4588,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassCyber4.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassCyber4.png"
+            },
             "internal_id": {
                 "N": "11501"
             },
@@ -4203,6 +4614,9 @@
             },
             "name": {
                 "S": "Cyber Shades"
+            },
+            "order": {
+                "N": "5"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -4275,6 +4689,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassCyber3.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassCyber3.png"
+            },
             "internal_id": {
                 "N": "11500"
             },
@@ -4295,6 +4715,9 @@
             },
             "name": {
                 "S": "Cyber Shades"
+            },
+            "order": {
+                "N": "6"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -4367,6 +4790,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassDalmask0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassDalmask0.png"
+            },
             "internal_id": {
                 "N": "12128"
             },
@@ -4387,6 +4816,9 @@
             },
             "name": {
                 "S": "DAL eye mask"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -4459,6 +4891,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassDalglass0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassDalglass0.png"
+            },
             "internal_id": {
                 "N": "12129"
             },
@@ -4479,6 +4917,9 @@
             },
             "name": {
                 "S": "DAL sunglasses"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -4551,6 +4992,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthMaskWhite.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryMouthMaskWhite.png"
+            },
             "internal_id": {
                 "N": "4451"
             },
@@ -4571,6 +5018,9 @@
             },
             "name": {
                 "S": "Doctor's Mask"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -4643,6 +5093,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthDog0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryMouthDog0.png"
+            },
             "internal_id": {
                 "N": "5244"
             },
@@ -4663,6 +5119,9 @@
             },
             "name": {
                 "S": "Dog Nose"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -4735,6 +5194,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthDog2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryMouthDog2.png"
+            },
             "internal_id": {
                 "N": "11026"
             },
@@ -4755,6 +5220,9 @@
             },
             "name": {
                 "S": "Dog Nose"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -4827,6 +5295,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthDog1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryMouthDog1.png"
+            },
             "internal_id": {
                 "N": "11025"
             },
@@ -4847,6 +5321,9 @@
             },
             "name": {
                 "S": "Dog Nose"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -4919,6 +5396,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthTissuedouble0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryMouthTissuedouble0.png"
+            },
             "internal_id": {
                 "N": "14247"
             },
@@ -4939,6 +5422,9 @@
             },
             "name": {
                 "S": "Double Nose Tissues"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -5011,6 +5497,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassDoublebridge2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassDoublebridge2.png"
+            },
             "internal_id": {
                 "N": "11077"
             },
@@ -5031,6 +5523,9 @@
             },
             "name": {
                 "S": "Double-bridge Glasses"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -5103,6 +5598,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassDoublebridge0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassDoublebridge0.png"
+            },
             "internal_id": {
                 "N": "4263"
             },
@@ -5123,6 +5624,9 @@
             },
             "name": {
                 "S": "Double-bridge Glasses"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -5195,6 +5699,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassDoublebridge3.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassDoublebridge3.png"
+            },
             "internal_id": {
                 "N": "11078"
             },
@@ -5215,6 +5725,9 @@
             },
             "name": {
                 "S": "Double-bridge Glasses"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -5287,6 +5800,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassDoublebridge1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassDoublebridge1.png"
+            },
             "internal_id": {
                 "N": "11076"
             },
@@ -5307,6 +5826,9 @@
             },
             "name": {
                 "S": "Double-bridge Glasses"
+            },
+            "order": {
+                "N": "4"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -5379,6 +5901,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassmouthStraw3.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassmouthStraw3.png"
+            },
             "internal_id": {
                 "N": "11012"
             },
@@ -5399,6 +5927,9 @@
             },
             "name": {
                 "S": "Drinking-straw Glasses"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -5471,6 +6002,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassmouthStraw2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassmouthStraw2.png"
+            },
             "internal_id": {
                 "N": "11011"
             },
@@ -5491,6 +6028,9 @@
             },
             "name": {
                 "S": "Drinking-straw Glasses"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -5563,6 +6103,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassmouthStraw0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassmouthStraw0.png"
+            },
             "internal_id": {
                 "N": "5773"
             },
@@ -5583,6 +6129,9 @@
             },
             "name": {
                 "S": "Drinking-straw Glasses"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -5655,6 +6204,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassmouthStraw1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassmouthStraw1.png"
+            },
             "internal_id": {
                 "N": "11010"
             },
@@ -5675,6 +6230,9 @@
             },
             "name": {
                 "S": "Drinking-straw Glasses"
+            },
+            "order": {
+                "N": "4"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -5747,6 +6305,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassMasquerade0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassMasquerade0.png"
+            },
             "internal_id": {
                 "N": "6057"
             },
@@ -5767,6 +6331,9 @@
             },
             "name": {
                 "S": "Elegant Masquerade Mask"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -5839,6 +6406,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassMasquerade1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassMasquerade1.png"
+            },
             "internal_id": {
                 "N": "11175"
             },
@@ -5859,6 +6432,9 @@
             },
             "name": {
                 "S": "Elegant Masquerade Mask"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -5931,6 +6507,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassGauze0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassGauze0.png"
+            },
             "internal_id": {
                 "N": "12975"
             },
@@ -5951,6 +6533,9 @@
             },
             "name": {
                 "S": "Eye Gauze"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -6023,6 +6608,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassMask2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassMask2.png"
+            },
             "internal_id": {
                 "N": "11155"
             },
@@ -6043,6 +6634,9 @@
             },
             "name": {
                 "S": "Eye Mask"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -6115,6 +6709,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassMask5.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassMask5.png"
+            },
             "internal_id": {
                 "N": "11158"
             },
@@ -6135,6 +6735,9 @@
             },
             "name": {
                 "S": "Eye Mask"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -6207,6 +6810,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassMask1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassMask1.png"
+            },
             "internal_id": {
                 "N": "11154"
             },
@@ -6227,6 +6836,9 @@
             },
             "name": {
                 "S": "Eye Mask"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -6299,6 +6911,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassMask4.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassMask4.png"
+            },
             "internal_id": {
                 "N": "11157"
             },
@@ -6319,6 +6937,9 @@
             },
             "name": {
                 "S": "Eye Mask"
+            },
+            "order": {
+                "N": "4"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -6391,6 +7012,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassMask3.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassMask3.png"
+            },
             "internal_id": {
                 "N": "11156"
             },
@@ -6411,6 +7038,9 @@
             },
             "name": {
                 "S": "Eye Mask"
+            },
+            "order": {
+                "N": "5"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -6483,6 +7113,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassMask0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassMask0.png"
+            },
             "internal_id": {
                 "N": "4425"
             },
@@ -6503,6 +7139,9 @@
             },
             "name": {
                 "S": "Eye Mask"
+            },
+            "order": {
+                "N": "6"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -6575,6 +7214,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassPatchBlack.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassPatchBlack.png"
+            },
             "internal_id": {
                 "N": "4457"
             },
@@ -6595,6 +7240,9 @@
             },
             "name": {
                 "S": "Eye Patch"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -6667,6 +7315,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassmouthPackWhite.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassmouthPackWhite.png"
+            },
             "internal_id": {
                 "N": "4512"
             },
@@ -6687,6 +7341,9 @@
             },
             "name": {
                 "S": "Facial Mask"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -6759,6 +7416,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassmouthNoseRed.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassmouthNoseRed.png"
+            },
             "internal_id": {
                 "N": "4496"
             },
@@ -6779,6 +7442,9 @@
             },
             "name": {
                 "S": "Fake Nose"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -6851,6 +7517,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassFlower0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassFlower0.png"
+            },
             "internal_id": {
                 "N": "5739"
             },
@@ -6871,6 +7543,9 @@
             },
             "name": {
                 "S": "Flower Sunglasses"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -6943,6 +7618,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassFlower1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassFlower1.png"
+            },
             "internal_id": {
                 "N": "11228"
             },
@@ -6963,6 +7644,9 @@
             },
             "name": {
                 "S": "Flower Sunglasses"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -7035,6 +7719,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassFlower4.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassFlower4.png"
+            },
             "internal_id": {
                 "N": "11231"
             },
@@ -7055,6 +7745,9 @@
             },
             "name": {
                 "S": "Flower Sunglasses"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -7127,6 +7820,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassFlower2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassFlower2.png"
+            },
             "internal_id": {
                 "N": "11229"
             },
@@ -7147,6 +7846,9 @@
             },
             "name": {
                 "S": "Flower Sunglasses"
+            },
+            "order": {
+                "N": "4"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -7219,6 +7921,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassFlower3.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassFlower3.png"
+            },
             "internal_id": {
                 "N": "11230"
             },
@@ -7239,6 +7947,9 @@
             },
             "name": {
                 "S": "Flower Sunglasses"
+            },
+            "order": {
+                "N": "5"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -7311,6 +8022,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthPasta.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryMouthPasta.png"
+            },
             "internal_id": {
                 "N": "5857"
             },
@@ -7331,6 +8048,9 @@
             },
             "name": {
                 "S": "Food Mess"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -7403,6 +8123,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassEyes1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassEyes1.png"
+            },
             "internal_id": {
                 "N": "11008"
             },
@@ -7423,6 +8149,9 @@
             },
             "name": {
                 "S": "Funny Glasses"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -7495,6 +8224,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassEyes2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassEyes2.png"
+            },
             "internal_id": {
                 "N": "11009"
             },
@@ -7515,6 +8250,9 @@
             },
             "name": {
                 "S": "Funny Glasses"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -7587,6 +8325,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassEyes0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassEyes0.png"
+            },
             "internal_id": {
                 "N": "4513"
             },
@@ -7607,6 +8351,9 @@
             },
             "name": {
                 "S": "Funny Glasses"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -7679,6 +8426,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassmouthGasmask0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassmouthGasmask0.png"
+            },
             "internal_id": {
                 "N": "4649"
             },
@@ -7699,6 +8452,9 @@
             },
             "name": {
                 "S": "Gas Mask"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -7771,6 +8527,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassmouthGasmask1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassmouthGasmask1.png"
+            },
             "internal_id": {
                 "N": "11160"
             },
@@ -7791,6 +8553,9 @@
             },
             "name": {
                 "S": "Gas Mask"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -7863,6 +8628,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassBottleBlack.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassBottleBlack.png"
+            },
             "internal_id": {
                 "N": "4282"
             },
@@ -7883,6 +8654,9 @@
             },
             "name": {
                 "S": "Glass-bottle Glasses"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -7955,6 +8729,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthBeardChinBlack.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryMouthBeardChinBlack.png"
+            },
             "internal_id": {
                 "N": "4676"
             },
@@ -7975,6 +8755,9 @@
             },
             "name": {
                 "S": "Goatee"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -8047,6 +8830,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassGoggles0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassGoggles0.png"
+            },
             "internal_id": {
                 "N": "4454"
             },
@@ -8067,6 +8856,9 @@
             },
             "name": {
                 "S": "Goggles"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -8139,6 +8931,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassGoggles5.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassGoggles5.png"
+            },
             "internal_id": {
                 "N": "11488"
             },
@@ -8159,6 +8957,9 @@
             },
             "name": {
                 "S": "Goggles"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -8231,6 +9032,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassGoggles2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassGoggles2.png"
+            },
             "internal_id": {
                 "N": "11485"
             },
@@ -8251,6 +9058,9 @@
             },
             "name": {
                 "S": "Goggles"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -8323,6 +9133,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassGoggles3.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassGoggles3.png"
+            },
             "internal_id": {
                 "N": "11486"
             },
@@ -8343,6 +9159,9 @@
             },
             "name": {
                 "S": "Goggles"
+            },
+            "order": {
+                "N": "4"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -8415,6 +9234,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassGoggles1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassGoggles1.png"
+            },
             "internal_id": {
                 "N": "11484"
             },
@@ -8435,6 +9260,9 @@
             },
             "name": {
                 "S": "Goggles"
+            },
+            "order": {
+                "N": "5"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -8507,6 +9335,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassGoggles4.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassGoggles4.png"
+            },
             "internal_id": {
                 "N": "11487"
             },
@@ -8527,6 +9361,9 @@
             },
             "name": {
                 "S": "Goggles"
+            },
+            "order": {
+                "N": "6"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -8599,6 +9436,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthBeardBlack.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryMouthBeardBlack.png"
+            },
             "internal_id": {
                 "N": "3550"
             },
@@ -8619,6 +9462,9 @@
             },
             "name": {
                 "S": "Handlebar Mustache"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -8691,6 +9537,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassHeart0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassHeart0.png"
+            },
             "internal_id": {
                 "N": "4237"
             },
@@ -8711,6 +9563,9 @@
             },
             "name": {
                 "S": "Heart Shades"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -8783,6 +9638,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassHeart1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassHeart1.png"
+            },
             "internal_id": {
                 "N": "11188"
             },
@@ -8803,6 +9664,9 @@
             },
             "name": {
                 "S": "Heart Shades"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -8875,6 +9739,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassHeart4.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassHeart4.png"
+            },
             "internal_id": {
                 "N": "11191"
             },
@@ -8895,6 +9765,9 @@
             },
             "name": {
                 "S": "Heart Shades"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -8967,6 +9840,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassHeart2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassHeart2.png"
+            },
             "internal_id": {
                 "N": "11189"
             },
@@ -8987,6 +9866,9 @@
             },
             "name": {
                 "S": "Heart Shades"
+            },
+            "order": {
+                "N": "4"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -9059,6 +9941,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassHeart3.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassHeart3.png"
+            },
             "internal_id": {
                 "N": "11190"
             },
@@ -9079,6 +9967,9 @@
             },
             "name": {
                 "S": "Heart Shades"
+            },
+            "order": {
+                "N": "5"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -9151,6 +10042,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassHmdWhite.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassHmdWhite.png"
+            },
             "internal_id": {
                 "N": "5182"
             },
@@ -9171,6 +10068,9 @@
             },
             "name": {
                 "S": "HMD"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -9243,6 +10143,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassmouthPierrot0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassmouthPierrot0.png"
+            },
             "internal_id": {
                 "N": "4678"
             },
@@ -9263,6 +10169,9 @@
             },
             "name": {
                 "S": "Jester's Mask"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -9335,6 +10244,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassmouthPierrot1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassmouthPierrot1.png"
+            },
             "internal_id": {
                 "N": "11166"
             },
@@ -9355,6 +10270,9 @@
             },
             "name": {
                 "S": "Jester's Mask"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -9427,6 +10345,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassmouthPierrot2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassmouthPierrot2.png"
+            },
             "internal_id": {
                 "N": "11167"
             },
@@ -9447,6 +10371,9 @@
             },
             "name": {
                 "S": "Jester's Mask"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -9519,6 +10446,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassmouthPierrot3.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassmouthPierrot3.png"
+            },
             "internal_id": {
                 "N": "11168"
             },
@@ -9539,6 +10472,9 @@
             },
             "name": {
                 "S": "Jester's Mask"
+            },
+            "order": {
+                "N": "4"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -9611,6 +10547,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassKate1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassKate1.png"
+            },
             "internal_id": {
                 "N": "11776"
             },
@@ -9631,6 +10573,9 @@
             },
             "name": {
                 "S": "Labelle sunglasses"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -9703,6 +10648,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassKate2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassKate2.png"
+            },
             "internal_id": {
                 "N": "11777"
             },
@@ -9723,6 +10674,9 @@
             },
             "name": {
                 "S": "Labelle sunglasses"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -9795,6 +10749,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassKate5.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassKate5.png"
+            },
             "internal_id": {
                 "N": "11780"
             },
@@ -9815,6 +10775,9 @@
             },
             "name": {
                 "S": "Labelle sunglasses"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -9887,6 +10850,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassKate4.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassKate4.png"
+            },
             "internal_id": {
                 "N": "11779"
             },
@@ -9907,6 +10876,9 @@
             },
             "name": {
                 "S": "Labelle sunglasses"
+            },
+            "order": {
+                "N": "4"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -9979,6 +10951,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassKate3.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassKate3.png"
+            },
             "internal_id": {
                 "N": "11778"
             },
@@ -9999,6 +10977,9 @@
             },
             "name": {
                 "S": "Labelle sunglasses"
+            },
+            "order": {
+                "N": "5"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -10071,6 +11052,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassKate0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassKate0.png"
+            },
             "internal_id": {
                 "N": "9887"
             },
@@ -10091,6 +11078,9 @@
             },
             "name": {
                 "S": "Labelle sunglasses"
+            },
+            "order": {
+                "N": "6"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -10163,6 +11153,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassBlind0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassBlind0.png"
+            },
             "internal_id": {
                 "N": "4464"
             },
@@ -10183,6 +11179,9 @@
             },
             "name": {
                 "S": "Ladder Shades"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -10255,6 +11254,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassBlind3.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassBlind3.png"
+            },
             "internal_id": {
                 "N": "11004"
             },
@@ -10275,6 +11280,9 @@
             },
             "name": {
                 "S": "Ladder Shades"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -10347,6 +11355,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassBlind4.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassBlind4.png"
+            },
             "internal_id": {
                 "N": "11005"
             },
@@ -10367,6 +11381,9 @@
             },
             "name": {
                 "S": "Ladder Shades"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -10439,6 +11456,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassBlind2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassBlind2.png"
+            },
             "internal_id": {
                 "N": "11003"
             },
@@ -10459,6 +11482,9 @@
             },
             "name": {
                 "S": "Ladder Shades"
+            },
+            "order": {
+                "N": "4"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -10531,6 +11557,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassBlind1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassBlind1.png"
+            },
             "internal_id": {
                 "N": "11002"
             },
@@ -10551,6 +11583,9 @@
             },
             "name": {
                 "S": "Ladder Shades"
+            },
+            "order": {
+                "N": "5"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -10623,6 +11658,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassBlind5.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassBlind5.png"
+            },
             "internal_id": {
                 "N": "11006"
             },
@@ -10643,6 +11684,9 @@
             },
             "name": {
                 "S": "Ladder Shades"
+            },
+            "order": {
+                "N": "6"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -10715,6 +11759,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthLeafGreen.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryMouthLeafGreen.png"
+            },
             "internal_id": {
                 "N": "4682"
             },
@@ -10735,6 +11785,9 @@
             },
             "name": {
                 "S": "Leaf"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -10807,6 +11860,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassmouthLuigi0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassmouthLuigi0.png"
+            },
             "internal_id": {
                 "N": "13559"
             },
@@ -10827,6 +11886,9 @@
             },
             "name": {
                 "S": "Luigi 'stache"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -10899,6 +11961,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassmouthMario0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassmouthMario0.png"
+            },
             "internal_id": {
                 "N": "13558"
             },
@@ -10919,6 +11987,9 @@
             },
             "name": {
                 "S": "Mario 'stache"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -10991,6 +12062,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassVenetian1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassVenetian1.png"
+            },
             "internal_id": {
                 "N": "11161"
             },
@@ -11011,6 +12088,9 @@
             },
             "name": {
                 "S": "Masquerade Mask"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -11083,6 +12163,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassVenetian3.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassVenetian3.png"
+            },
             "internal_id": {
                 "N": "11163"
             },
@@ -11103,6 +12189,9 @@
             },
             "name": {
                 "S": "Masquerade Mask"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -11175,6 +12264,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassVenetian0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassVenetian0.png"
+            },
             "internal_id": {
                 "N": "4667"
             },
@@ -11195,6 +12290,9 @@
             },
             "name": {
                 "S": "Masquerade Mask"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -11267,6 +12365,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassVenetian5.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassVenetian5.png"
+            },
             "internal_id": {
                 "N": "11165"
             },
@@ -11287,6 +12391,9 @@
             },
             "name": {
                 "S": "Masquerade Mask"
+            },
+            "order": {
+                "N": "4"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -11359,6 +12466,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassVenetian4.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassVenetian4.png"
+            },
             "internal_id": {
                 "N": "11164"
             },
@@ -11379,6 +12492,9 @@
             },
             "name": {
                 "S": "Masquerade Mask"
+            },
+            "order": {
+                "N": "5"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -11451,6 +12567,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassVenetian2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassVenetian2.png"
+            },
             "internal_id": {
                 "N": "11162"
             },
@@ -11471,6 +12593,9 @@
             },
             "name": {
                 "S": "Masquerade Mask"
+            },
+            "order": {
+                "N": "6"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -11543,6 +12668,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassMonocle2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassMonocle2.png"
+            },
             "internal_id": {
                 "N": "11001"
             },
@@ -11563,6 +12694,9 @@
             },
             "name": {
                 "S": "Monocle"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -11635,6 +12769,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassMonocle0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassMonocle0.png"
+            },
             "internal_id": {
                 "N": "4462"
             },
@@ -11655,6 +12795,9 @@
             },
             "name": {
                 "S": "Monocle"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -11727,6 +12870,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassMonocle1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassMonocle1.png"
+            },
             "internal_id": {
                 "N": "11000"
             },
@@ -11747,6 +12896,9 @@
             },
             "name": {
                 "S": "Monocle"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -11819,6 +12971,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassNeon0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassNeon0.png"
+            },
             "internal_id": {
                 "N": "14690"
             },
@@ -11839,6 +12997,9 @@
             },
             "name": {
                 "S": "Neon Shades"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -11911,6 +13072,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassNeon2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassNeon2.png"
+            },
             "internal_id": {
                 "N": "271"
             },
@@ -11931,6 +13098,9 @@
             },
             "name": {
                 "S": "Neon Shades"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -12003,6 +13173,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassNeon1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassNeon1.png"
+            },
             "internal_id": {
                 "N": "270"
             },
@@ -12023,6 +13199,9 @@
             },
             "name": {
                 "S": "Neon Shades"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -12095,6 +13274,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassNeon3.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassNeon3.png"
+            },
             "internal_id": {
                 "N": "272"
             },
@@ -12115,6 +13300,9 @@
             },
             "name": {
                 "S": "Neon Shades"
+            },
+            "order": {
+                "N": "4"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -12187,6 +13375,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassNightvisionBlack.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassNightvisionBlack.png"
+            },
             "internal_id": {
                 "N": "5261"
             },
@@ -12207,6 +13401,9 @@
             },
             "name": {
                 "S": "Night-vision Goggles"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -12279,6 +13476,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassNook0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassNook0.png"
+            },
             "internal_id": {
                 "N": "9654"
             },
@@ -12299,6 +13502,9 @@
             },
             "name": {
                 "S": "Nook Inc. eye mask"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -12371,6 +13577,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassmouthNook0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassmouthNook0.png"
+            },
             "internal_id": {
                 "N": "13215"
             },
@@ -12391,6 +13603,9 @@
             },
             "name": {
                 "S": "Nook Inc. snorkel"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -12463,6 +13678,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthJokeDripCyan.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryMouthJokeDripCyan.png"
+            },
             "internal_id": {
                 "N": "5833"
             },
@@ -12483,6 +13704,9 @@
             },
             "name": {
                 "S": "Nose Drip"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -12555,6 +13779,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthTissue0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryMouthTissue0.png"
+            },
             "internal_id": {
                 "N": "12965"
             },
@@ -12575,6 +13805,9 @@
             },
             "name": {
                 "S": "Nose Tissue"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -12647,6 +13880,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassOctagon0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassOctagon0.png"
+            },
             "internal_id": {
                 "N": "4239"
             },
@@ -12667,6 +13906,9 @@
             },
             "name": {
                 "S": "Octagonal Glasses"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -12739,6 +13981,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassOctagon4.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassOctagon4.png"
+            },
             "internal_id": {
                 "N": "11075"
             },
@@ -12759,6 +14007,9 @@
             },
             "name": {
                 "S": "Octagonal Glasses"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -12831,6 +14082,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassOctagon1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassOctagon1.png"
+            },
             "internal_id": {
                 "N": "11072"
             },
@@ -12851,6 +14108,9 @@
             },
             "name": {
                 "S": "Octagonal Glasses"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -12923,6 +14183,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassOctagon2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassOctagon2.png"
+            },
             "internal_id": {
                 "N": "11073"
             },
@@ -12943,6 +14209,9 @@
             },
             "name": {
                 "S": "Octagonal Glasses"
+            },
+            "order": {
+                "N": "4"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -13015,6 +14284,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassOctagon3.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassOctagon3.png"
+            },
             "internal_id": {
                 "N": "11074"
             },
@@ -13035,6 +14310,9 @@
             },
             "name": {
                 "S": "Octagonal Glasses"
+            },
+            "order": {
+                "N": "5"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -13107,6 +14385,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassOval6.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassOval6.png"
+            },
             "internal_id": {
                 "N": "11092"
             },
@@ -13127,6 +14411,9 @@
             },
             "name": {
                 "S": "Oval Glasses"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -13199,6 +14486,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassOval4.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassOval4.png"
+            },
             "internal_id": {
                 "N": "11090"
             },
@@ -13219,6 +14512,9 @@
             },
             "name": {
                 "S": "Oval Glasses"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -13291,6 +14587,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassOval1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassOval1.png"
+            },
             "internal_id": {
                 "N": "11087"
             },
@@ -13311,6 +14613,9 @@
             },
             "name": {
                 "S": "Oval Glasses"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -13383,6 +14688,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassOval5.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassOval5.png"
+            },
             "internal_id": {
                 "N": "11091"
             },
@@ -13403,6 +14714,9 @@
             },
             "name": {
                 "S": "Oval Glasses"
+            },
+            "order": {
+                "N": "4"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -13475,6 +14789,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassOval0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassOval0.png"
+            },
             "internal_id": {
                 "N": "4609"
             },
@@ -13495,6 +14815,9 @@
             },
             "name": {
                 "S": "Oval Glasses"
+            },
+            "order": {
+                "N": "5"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -13567,6 +14890,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassOval2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassOval2.png"
+            },
             "internal_id": {
                 "N": "11088"
             },
@@ -13587,6 +14916,9 @@
             },
             "name": {
                 "S": "Oval Glasses"
+            },
+            "order": {
+                "N": "6"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -13659,6 +14991,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassOval3.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassOval3.png"
+            },
             "internal_id": {
                 "N": "11089"
             },
@@ -13679,6 +15017,9 @@
             },
             "name": {
                 "S": "Oval Glasses"
+            },
+            "order": {
+                "N": "7"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -13751,6 +15092,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthPacifier5.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryMouthPacifier5.png"
+            },
             "internal_id": {
                 "N": "11017"
             },
@@ -13771,6 +15118,9 @@
             },
             "name": {
                 "S": "Pacifier"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -13843,6 +15193,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthPacifier4.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryMouthPacifier4.png"
+            },
             "internal_id": {
                 "N": "11016"
             },
@@ -13863,6 +15219,9 @@
             },
             "name": {
                 "S": "Pacifier"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -13935,6 +15294,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthPacifier0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryMouthPacifier0.png"
+            },
             "internal_id": {
                 "N": "2298"
             },
@@ -13955,6 +15320,9 @@
             },
             "name": {
                 "S": "Pacifier"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -14027,6 +15395,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthPacifier7.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryMouthPacifier7.png"
+            },
             "internal_id": {
                 "N": "11019"
             },
@@ -14047,6 +15421,9 @@
             },
             "name": {
                 "S": "Pacifier"
+            },
+            "order": {
+                "N": "4"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -14119,6 +15496,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthPacifier2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryMouthPacifier2.png"
+            },
             "internal_id": {
                 "N": "11014"
             },
@@ -14139,6 +15522,9 @@
             },
             "name": {
                 "S": "Pacifier"
+            },
+            "order": {
+                "N": "5"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -14211,6 +15597,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthPacifier3.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryMouthPacifier3.png"
+            },
             "internal_id": {
                 "N": "11015"
             },
@@ -14231,6 +15623,9 @@
             },
             "name": {
                 "S": "Pacifier"
+            },
+            "order": {
+                "N": "6"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -14303,6 +15698,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthPacifier1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryMouthPacifier1.png"
+            },
             "internal_id": {
                 "N": "11013"
             },
@@ -14323,6 +15724,9 @@
             },
             "name": {
                 "S": "Pacifier"
+            },
+            "order": {
+                "N": "7"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -14395,6 +15799,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthPacifier6.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryMouthPacifier6.png"
+            },
             "internal_id": {
                 "N": "11018"
             },
@@ -14415,6 +15825,9 @@
             },
             "name": {
                 "S": "Pacifier"
+            },
+            "order": {
+                "N": "8"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -14487,6 +15900,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthPigPink.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryMouthPigPink.png"
+            },
             "internal_id": {
                 "N": "4647"
             },
@@ -14507,6 +15926,9 @@
             },
             "name": {
                 "S": "Pig Nose"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -14579,6 +16001,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassPilot0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassPilot0.png"
+            },
             "internal_id": {
                 "N": "4459"
             },
@@ -14599,6 +16027,9 @@
             },
             "name": {
                 "S": "Pilot Shades"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -14671,6 +16102,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassPilot1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassPilot1.png"
+            },
             "internal_id": {
                 "N": "11214"
             },
@@ -14691,6 +16128,9 @@
             },
             "name": {
                 "S": "Pilot Shades"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -14763,6 +16203,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthPirates0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryMouthPirates0.png"
+            },
             "internal_id": {
                 "N": "12663"
             },
@@ -14783,6 +16229,9 @@
             },
             "name": {
                 "S": "Pirate Beard"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -14855,6 +16304,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassPiratespatch0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassPiratespatch0.png"
+            },
             "internal_id": {
                 "N": "12662"
             },
@@ -14875,6 +16330,9 @@
             },
             "name": {
                 "S": "Pirate Eye Patch"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -14947,6 +16405,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassDot3.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassDot3.png"
+            },
             "internal_id": {
                 "N": "11225"
             },
@@ -14967,6 +16431,9 @@
             },
             "name": {
                 "S": "Pixel Shades"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -15039,6 +16506,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassDot0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassDot0.png"
+            },
             "internal_id": {
                 "N": "4646"
             },
@@ -15059,6 +16532,9 @@
             },
             "name": {
                 "S": "Pixel Shades"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -15131,6 +16607,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassDot1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassDot1.png"
+            },
             "internal_id": {
                 "N": "11223"
             },
@@ -15151,6 +16633,9 @@
             },
             "name": {
                 "S": "Pixel Shades"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -15223,6 +16708,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassDot2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassDot2.png"
+            },
             "internal_id": {
                 "N": "11224"
             },
@@ -15243,6 +16734,9 @@
             },
             "name": {
                 "S": "Pixel Shades"
+            },
+            "order": {
+                "N": "4"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -15315,6 +16809,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthSurgicalmask0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryMouthSurgicalmask0.png"
+            },
             "internal_id": {
                 "N": "12962"
             },
@@ -15335,6 +16835,9 @@
             },
             "name": {
                 "S": "Pleated Mask"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -15407,6 +16910,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthSurgicalmask1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryMouthSurgicalmask1.png"
+            },
             "internal_id": {
                 "N": "14665"
             },
@@ -15427,6 +16936,9 @@
             },
             "name": {
                 "S": "Pleated Mask"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -15499,6 +17011,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthSurgicalmask2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryMouthSurgicalmask2.png"
+            },
             "internal_id": {
                 "N": "14666"
             },
@@ -15519,6 +17037,9 @@
             },
             "name": {
                 "S": "Pleated Mask"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -15591,6 +17112,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthSurgicalmask3.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryMouthSurgicalmask3.png"
+            },
             "internal_id": {
                 "N": "14667"
             },
@@ -15611,6 +17138,9 @@
             },
             "name": {
                 "S": "Pleated Mask"
+            },
+            "order": {
+                "N": "4"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -15683,6 +17213,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthSurgicalmask4.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryMouthSurgicalmask4.png"
+            },
             "internal_id": {
                 "N": "14668"
             },
@@ -15703,6 +17239,9 @@
             },
             "name": {
                 "S": "Pleated Mask"
+            },
+            "order": {
+                "N": "5"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -15775,6 +17314,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthLeatherBlack.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryMouthLeatherBlack.png"
+            },
             "internal_id": {
                 "N": "6040"
             },
@@ -15795,6 +17340,9 @@
             },
             "name": {
                 "S": "Pleather Mask"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -15867,6 +17415,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassEyepatchWhite.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassEyepatchWhite.png"
+            },
             "internal_id": {
                 "N": "4452"
             },
@@ -15887,6 +17441,9 @@
             },
             "name": {
                 "S": "Post-op Patch"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -15959,6 +17516,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthCrowBlack.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryMouthCrowBlack.png"
+            },
             "internal_id": {
                 "N": "4671"
             },
@@ -15979,6 +17542,9 @@
             },
             "name": {
                 "S": "Privacy Mask"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -16051,6 +17617,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassMirrorGray.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassMirrorGray.png"
+            },
             "internal_id": {
                 "N": "6039"
             },
@@ -16071,6 +17643,9 @@
             },
             "name": {
                 "S": "Reflector"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -16143,6 +17718,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassRetro0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassRetro0.png"
+            },
             "internal_id": {
                 "N": "4456"
             },
@@ -16163,6 +17744,9 @@
             },
             "name": {
                 "S": "Retro Shades"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -16235,6 +17819,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassRetro5.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassRetro5.png"
+            },
             "internal_id": {
                 "N": "11213"
             },
@@ -16255,6 +17845,9 @@
             },
             "name": {
                 "S": "Retro Shades"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -16327,6 +17920,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassRetro2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassRetro2.png"
+            },
             "internal_id": {
                 "N": "11210"
             },
@@ -16347,6 +17946,9 @@
             },
             "name": {
                 "S": "Retro Shades"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -16419,6 +18021,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassRetro3.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassRetro3.png"
+            },
             "internal_id": {
                 "N": "11211"
             },
@@ -16439,6 +18047,9 @@
             },
             "name": {
                 "S": "Retro Shades"
+            },
+            "order": {
+                "N": "4"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -16511,6 +18122,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassRetro1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassRetro1.png"
+            },
             "internal_id": {
                 "N": "11209"
             },
@@ -16531,6 +18148,9 @@
             },
             "name": {
                 "S": "Retro Shades"
+            },
+            "order": {
+                "N": "5"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -16603,6 +18223,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassRetro4.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassRetro4.png"
+            },
             "internal_id": {
                 "N": "11212"
             },
@@ -16623,6 +18249,9 @@
             },
             "name": {
                 "S": "Retro Shades"
+            },
+            "order": {
+                "N": "6"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -16695,6 +18324,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassRhinestone0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassRhinestone0.png"
+            },
             "internal_id": {
                 "N": "4683"
             },
@@ -16715,6 +18350,9 @@
             },
             "name": {
                 "S": "Rhinestone Shades"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -16787,6 +18425,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassRhinestone2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassRhinestone2.png"
+            },
             "internal_id": {
                 "N": "11227"
             },
@@ -16807,6 +18451,9 @@
             },
             "name": {
                 "S": "Rhinestone Shades"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -16879,6 +18526,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassRhinestone1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassRhinestone1.png"
+            },
             "internal_id": {
                 "N": "11226"
             },
@@ -16899,6 +18552,9 @@
             },
             "name": {
                 "S": "Rhinestone Shades"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -16971,6 +18627,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassCircle2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassCircle2.png"
+            },
             "internal_id": {
                 "N": "11185"
             },
@@ -16991,6 +18653,9 @@
             },
             "name": {
                 "S": "Rimmed Glasses"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -17063,6 +18728,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassCircle0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassCircle0.png"
+            },
             "internal_id": {
                 "N": "4235"
             },
@@ -17083,6 +18754,9 @@
             },
             "name": {
                 "S": "Rimmed Glasses"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -17155,6 +18829,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassCircle1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassCircle1.png"
+            },
             "internal_id": {
                 "N": "11184"
             },
@@ -17175,6 +18855,9 @@
             },
             "name": {
                 "S": "Rimmed Glasses"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -17247,6 +18930,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassCircle4.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassCircle4.png"
+            },
             "internal_id": {
                 "N": "11187"
             },
@@ -17267,6 +18956,9 @@
             },
             "name": {
                 "S": "Rimmed Glasses"
+            },
+            "order": {
+                "N": "4"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -17339,6 +19031,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassCircle3.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassCircle3.png"
+            },
             "internal_id": {
                 "N": "11186"
             },
@@ -17359,6 +19057,9 @@
             },
             "name": {
                 "S": "Rimmed Glasses"
+            },
+            "order": {
+                "N": "5"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -17431,6 +19132,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassBoston6.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassBoston6.png"
+            },
             "internal_id": {
                 "N": "11201"
             },
@@ -17451,6 +19158,9 @@
             },
             "name": {
                 "S": "Round Shades"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -17523,6 +19233,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassBoston0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassBoston0.png"
+            },
             "internal_id": {
                 "N": "4241"
             },
@@ -17543,6 +19259,9 @@
             },
             "name": {
                 "S": "Round Shades"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -17615,6 +19334,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassBoston5.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassBoston5.png"
+            },
             "internal_id": {
                 "N": "11200"
             },
@@ -17635,6 +19360,9 @@
             },
             "name": {
                 "S": "Round Shades"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -17707,6 +19435,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassBoston4.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassBoston4.png"
+            },
             "internal_id": {
                 "N": "11199"
             },
@@ -17727,6 +19461,9 @@
             },
             "name": {
                 "S": "Round Shades"
+            },
+            "order": {
+                "N": "4"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -17799,6 +19536,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassBoston3.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassBoston3.png"
+            },
             "internal_id": {
                 "N": "11198"
             },
@@ -17819,6 +19562,9 @@
             },
             "name": {
                 "S": "Round Shades"
+            },
+            "order": {
+                "N": "5"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -17891,6 +19637,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassBoston1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassBoston1.png"
+            },
             "internal_id": {
                 "N": "11196"
             },
@@ -17911,6 +19663,9 @@
             },
             "name": {
                 "S": "Round Shades"
+            },
+            "order": {
+                "N": "6"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -17983,6 +19738,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassBoston2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassBoston2.png"
+            },
             "internal_id": {
                 "N": "11197"
             },
@@ -18003,6 +19764,9 @@
             },
             "name": {
                 "S": "Round Shades"
+            },
+            "order": {
+                "N": "7"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -18075,6 +19839,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassBoston7.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassBoston7.png"
+            },
             "internal_id": {
                 "N": "11202"
             },
@@ -18095,6 +19865,9 @@
             },
             "name": {
                 "S": "Round Shades"
+            },
+            "order": {
+                "N": "8"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -18167,6 +19940,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassRound0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassRound0.png"
+            },
             "internal_id": {
                 "N": "4607"
             },
@@ -18187,6 +19966,9 @@
             },
             "name": {
                 "S": "Round Tinted Shades"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -18259,6 +20041,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassRound1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassRound1.png"
+            },
             "internal_id": {
                 "N": "11220"
             },
@@ -18279,6 +20067,9 @@
             },
             "name": {
                 "S": "Round Tinted Shades"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -18351,6 +20142,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassRound3.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassRound3.png"
+            },
             "internal_id": {
                 "N": "11222"
             },
@@ -18371,6 +20168,9 @@
             },
             "name": {
                 "S": "Round Tinted Shades"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -18443,6 +20243,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassRound2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassRound2.png"
+            },
             "internal_id": {
                 "N": "11221"
             },
@@ -18463,6 +20269,9 @@
             },
             "name": {
                 "S": "Round Tinted Shades"
+            },
+            "order": {
+                "N": "4"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -18535,6 +20344,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassWellington2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassWellington2.png"
+            },
             "internal_id": {
                 "N": "149"
             },
@@ -18555,6 +20370,9 @@
             },
             "name": {
                 "S": "Round-frame Glasses"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -18627,6 +20445,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassWellington0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassWellington0.png"
+            },
             "internal_id": {
                 "N": "14272"
             },
@@ -18647,6 +20471,9 @@
             },
             "name": {
                 "S": "Round-frame Glasses"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -18719,6 +20546,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassWellington4.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassWellington4.png"
+            },
             "internal_id": {
                 "N": "151"
             },
@@ -18739,6 +20572,9 @@
             },
             "name": {
                 "S": "Round-frame Glasses"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -18811,6 +20647,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassWellington3.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassWellington3.png"
+            },
             "internal_id": {
                 "N": "150"
             },
@@ -18831,6 +20673,9 @@
             },
             "name": {
                 "S": "Round-frame Glasses"
+            },
+            "order": {
+                "N": "4"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -18903,6 +20748,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassWellington1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassWellington1.png"
+            },
             "internal_id": {
                 "N": "148"
             },
@@ -18923,6 +20774,9 @@
             },
             "name": {
                 "S": "Round-frame Glasses"
+            },
+            "order": {
+                "N": "5"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -18995,6 +20849,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthBeardRoundBlack.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryMouthBeardRoundBlack.png"
+            },
             "internal_id": {
                 "N": "4679"
             },
@@ -19015,6 +20875,9 @@
             },
             "name": {
                 "S": "Rounded Beard"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -19087,6 +20950,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthSanta.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryMouthSanta.png"
+            },
             "internal_id": {
                 "N": "4492"
             },
@@ -19107,6 +20976,9 @@
             },
             "name": {
                 "S": "Santa beard"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -19179,6 +21051,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassShamrock0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassShamrock0.png"
+            },
             "internal_id": {
                 "N": "14238"
             },
@@ -19199,6 +21077,9 @@
             },
             "name": {
                 "S": "Shamrock Sunglasses"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -19271,6 +21152,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassCrackBlack.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassCrackBlack.png"
+            },
             "internal_id": {
                 "N": "4337"
             },
@@ -19291,6 +21178,9 @@
             },
             "name": {
                 "S": "Shattered Glasses"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -19363,6 +21253,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassSolideyes0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassSolideyes0.png"
+            },
             "internal_id": {
                 "N": "14850"
             },
@@ -19383,6 +21279,9 @@
             },
             "name": {
                 "S": "Silly Glasses"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -19455,6 +21354,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassSolideyes2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassSolideyes2.png"
+            },
             "internal_id": {
                 "N": "441"
             },
@@ -19475,6 +21380,9 @@
             },
             "name": {
                 "S": "Silly Glasses"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -19547,6 +21455,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassSolideyes1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassSolideyes1.png"
+            },
             "internal_id": {
                 "N": "440"
             },
@@ -19567,6 +21481,9 @@
             },
             "name": {
                 "S": "Silly Glasses"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -19639,6 +21556,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassSolideyes3.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassSolideyes3.png"
+            },
             "internal_id": {
                 "N": "442"
             },
@@ -19659,6 +21582,9 @@
             },
             "name": {
                 "S": "Silly Glasses"
+            },
+            "order": {
+                "N": "4"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -19731,6 +21657,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassSolideyes4.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassSolideyes4.png"
+            },
             "internal_id": {
                 "N": "443"
             },
@@ -19751,6 +21683,9 @@
             },
             "name": {
                 "S": "Silly Glasses"
+            },
+            "order": {
+                "N": "5"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -19823,6 +21758,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassSolideyes5.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassSolideyes5.png"
+            },
             "internal_id": {
                 "N": "444"
             },
@@ -19843,6 +21784,9 @@
             },
             "name": {
                 "S": "Silly Glasses"
+            },
+            "order": {
+                "N": "6"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -19915,6 +21859,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassNomal0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassNomal0.png"
+            },
             "internal_id": {
                 "N": "14795"
             },
@@ -19935,6 +21885,9 @@
             },
             "name": {
                 "S": "Simple Sunglasses"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -20007,6 +21960,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassNomal4.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassNomal4.png"
+            },
             "internal_id": {
                 "N": "157"
             },
@@ -20027,6 +21986,9 @@
             },
             "name": {
                 "S": "Simple Sunglasses"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -20099,6 +22061,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassNomal5.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassNomal5.png"
+            },
             "internal_id": {
                 "N": "158"
             },
@@ -20119,6 +22087,9 @@
             },
             "name": {
                 "S": "Simple Sunglasses"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -20191,6 +22162,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassNomal2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassNomal2.png"
+            },
             "internal_id": {
                 "N": "155"
             },
@@ -20211,6 +22188,9 @@
             },
             "name": {
                 "S": "Simple Sunglasses"
+            },
+            "order": {
+                "N": "4"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -20283,6 +22263,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassNomal3.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassNomal3.png"
+            },
             "internal_id": {
                 "N": "156"
             },
@@ -20303,6 +22289,9 @@
             },
             "name": {
                 "S": "Simple Sunglasses"
+            },
+            "order": {
+                "N": "5"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -20375,6 +22364,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassNomal1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassNomal1.png"
+            },
             "internal_id": {
                 "N": "154"
             },
@@ -20395,6 +22390,9 @@
             },
             "name": {
                 "S": "Simple Sunglasses"
+            },
+            "order": {
+                "N": "6"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -20467,6 +22465,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassGogglesski1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassGogglesski1.png"
+            },
             "internal_id": {
                 "N": "11479"
             },
@@ -20487,6 +22491,9 @@
             },
             "name": {
                 "S": "Ski Goggles"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -20559,6 +22566,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassGogglesski0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassGogglesski0.png"
+            },
             "internal_id": {
                 "N": "4453"
             },
@@ -20579,6 +22592,9 @@
             },
             "name": {
                 "S": "Ski Goggles"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -20651,6 +22667,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassGogglesski2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassGogglesski2.png"
+            },
             "internal_id": {
                 "N": "11480"
             },
@@ -20671,6 +22693,9 @@
             },
             "name": {
                 "S": "Ski Goggles"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -20743,6 +22768,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassGogglesski5.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassGogglesski5.png"
+            },
             "internal_id": {
                 "N": "11483"
             },
@@ -20763,6 +22794,9 @@
             },
             "name": {
                 "S": "Ski Goggles"
+            },
+            "order": {
+                "N": "4"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -20835,6 +22869,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassGogglesski4.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassGogglesski4.png"
+            },
             "internal_id": {
                 "N": "11482"
             },
@@ -20855,6 +22895,9 @@
             },
             "name": {
                 "S": "Ski Goggles"
+            },
+            "order": {
+                "N": "5"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -20927,6 +22970,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassGogglesski3.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassGogglesski3.png"
+            },
             "internal_id": {
                 "N": "11481"
             },
@@ -20947,6 +22996,9 @@
             },
             "name": {
                 "S": "Ski Goggles"
+            },
+            "order": {
+                "N": "6"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -21019,6 +23071,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassmouthDiver5.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassmouthDiver5.png"
+            },
             "internal_id": {
                 "N": "11497"
             },
@@ -21039,6 +23097,9 @@
             },
             "name": {
                 "S": "Snorkel Mask"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -21111,6 +23172,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassmouthDiver2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassmouthDiver2.png"
+            },
             "internal_id": {
                 "N": "11494"
             },
@@ -21131,6 +23198,9 @@
             },
             "name": {
                 "S": "Snorkel Mask"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -21203,6 +23273,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassmouthDiver3.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassmouthDiver3.png"
+            },
             "internal_id": {
                 "N": "11495"
             },
@@ -21223,6 +23299,9 @@
             },
             "name": {
                 "S": "Snorkel Mask"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -21295,6 +23374,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassmouthDiver1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassmouthDiver1.png"
+            },
             "internal_id": {
                 "N": "11493"
             },
@@ -21315,6 +23400,9 @@
             },
             "name": {
                 "S": "Snorkel Mask"
+            },
+            "order": {
+                "N": "4"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -21387,6 +23475,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassmouthDiver4.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassmouthDiver4.png"
+            },
             "internal_id": {
                 "N": "11496"
             },
@@ -21407,6 +23501,9 @@
             },
             "name": {
                 "S": "Snorkel Mask"
+            },
+            "order": {
+                "N": "5"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -21479,6 +23576,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassmouthDiver0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassmouthDiver0.png"
+            },
             "internal_id": {
                 "N": "4551"
             },
@@ -21499,6 +23602,9 @@
             },
             "name": {
                 "S": "Snorkel Mask"
+            },
+            "order": {
+                "N": "6"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -21571,6 +23677,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassSports1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassSports1.png"
+            },
             "internal_id": {
                 "N": "11489"
             },
@@ -21591,6 +23703,9 @@
             },
             "name": {
                 "S": "Sporty Shades"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -21663,6 +23778,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassSports0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassSports0.png"
+            },
             "internal_id": {
                 "N": "4458"
             },
@@ -21683,6 +23804,9 @@
             },
             "name": {
                 "S": "Sporty Shades"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -21755,6 +23879,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassSports2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassSports2.png"
+            },
             "internal_id": {
                 "N": "11490"
             },
@@ -21775,6 +23905,9 @@
             },
             "name": {
                 "S": "Sporty Shades"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -21847,6 +23980,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassSports3.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassSports3.png"
+            },
             "internal_id": {
                 "N": "11491"
             },
@@ -21867,6 +24006,9 @@
             },
             "name": {
                 "S": "Sporty Shades"
+            },
+            "order": {
+                "N": "4"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -21939,6 +24081,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassSports4.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassSports4.png"
+            },
             "internal_id": {
                 "N": "11492"
             },
@@ -21959,6 +24107,9 @@
             },
             "name": {
                 "S": "Sporty Shades"
+            },
+            "order": {
+                "N": "5"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -22031,6 +24182,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassSquare2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassSquare2.png"
+            },
             "internal_id": {
                 "N": "11067"
             },
@@ -22051,6 +24208,9 @@
             },
             "name": {
                 "S": "Square Glasses"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -22123,6 +24283,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassSquare1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassSquare1.png"
+            },
             "internal_id": {
                 "N": "11066"
             },
@@ -22143,6 +24309,9 @@
             },
             "name": {
                 "S": "Square Glasses"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -22215,6 +24384,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassSquare3.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassSquare3.png"
+            },
             "internal_id": {
                 "N": "11068"
             },
@@ -22235,6 +24410,9 @@
             },
             "name": {
                 "S": "Square Glasses"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -22307,6 +24485,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassSquare0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassSquare0.png"
+            },
             "internal_id": {
                 "N": "4236"
             },
@@ -22327,6 +24511,9 @@
             },
             "name": {
                 "S": "Square Glasses"
+            },
+            "order": {
+                "N": "4"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -22399,6 +24586,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassThurmontsquare3.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassThurmontsquare3.png"
+            },
             "internal_id": {
                 "N": "165"
             },
@@ -22419,6 +24612,9 @@
             },
             "name": {
                 "S": "Squared Browline Glasses"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -22491,6 +24687,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassThurmontsquare0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassThurmontsquare0.png"
+            },
             "internal_id": {
                 "N": "14362"
             },
@@ -22511,6 +24713,9 @@
             },
             "name": {
                 "S": "Squared Browline Glasses"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -22583,6 +24788,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassThurmontsquare2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassThurmontsquare2.png"
+            },
             "internal_id": {
                 "N": "164"
             },
@@ -22603,6 +24814,9 @@
             },
             "name": {
                 "S": "Squared Browline Glasses"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -22675,6 +24889,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassThurmontsquare1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassThurmontsquare1.png"
+            },
             "internal_id": {
                 "N": "163"
             },
@@ -22695,6 +24915,9 @@
             },
             "name": {
                 "S": "Squared Browline Glasses"
+            },
+            "order": {
+                "N": "4"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -22767,6 +24990,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassmouthBeard0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassmouthBeard0.png"
+            },
             "internal_id": {
                 "N": "4501"
             },
@@ -22787,6 +25016,9 @@
             },
             "name": {
                 "S": "Stache & Glasses"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -22859,6 +25091,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassmouthBeard1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassmouthBeard1.png"
+            },
             "internal_id": {
                 "N": "11007"
             },
@@ -22879,6 +25117,9 @@
             },
             "name": {
                 "S": "Stache & Glasses"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -22951,6 +25192,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassStar1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassStar1.png"
+            },
             "internal_id": {
                 "N": "11192"
             },
@@ -22971,6 +25218,9 @@
             },
             "name": {
                 "S": "Star Shades"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -23043,6 +25293,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassStar0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassStar0.png"
+            },
             "internal_id": {
                 "N": "4240"
             },
@@ -23063,6 +25319,9 @@
             },
             "name": {
                 "S": "Star Shades"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -23135,6 +25394,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassStar4.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassStar4.png"
+            },
             "internal_id": {
                 "N": "11195"
             },
@@ -23155,6 +25420,9 @@
             },
             "name": {
                 "S": "Star Shades"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -23227,6 +25495,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassStar2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassStar2.png"
+            },
             "internal_id": {
                 "N": "11193"
             },
@@ -23247,6 +25521,9 @@
             },
             "name": {
                 "S": "Star Shades"
+            },
+            "order": {
+                "N": "4"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -23319,6 +25596,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassStar3.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassStar3.png"
+            },
             "internal_id": {
                 "N": "11194"
             },
@@ -23339,6 +25622,9 @@
             },
             "name": {
                 "S": "Star Shades"
+            },
+            "order": {
+                "N": "5"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -23411,6 +25697,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassSteampunk0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassSteampunk0.png"
+            },
             "internal_id": {
                 "N": "4685"
             },
@@ -23431,6 +25723,9 @@
             },
             "name": {
                 "S": "Steampunk Glasses"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -23503,6 +25798,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassSteampunk1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassSteampunk1.png"
+            },
             "internal_id": {
                 "N": "11505"
             },
@@ -23523,6 +25824,9 @@
             },
             "name": {
                 "S": "Steampunk Glasses"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -23595,6 +25899,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryMouthRice.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryMouthRice.png"
+            },
             "internal_id": {
                 "N": "4652"
             },
@@ -23615,6 +25925,9 @@
             },
             "name": {
                 "S": "Sticky Rice"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -23687,6 +26000,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassSummer0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassSummer0.png"
+            },
             "internal_id": {
                 "N": "13325"
             },
@@ -23707,6 +26026,9 @@
             },
             "name": {
                 "S": "Sunflower Sunglasses"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -23779,6 +26101,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassHeromaskBlack.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassHeromaskBlack.png"
+            },
             "internal_id": {
                 "N": "4684"
             },
@@ -23799,6 +26127,9 @@
             },
             "name": {
                 "S": "Superhero Mask"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -23871,6 +26202,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassMini1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassMini1.png"
+            },
             "internal_id": {
                 "N": "11215"
             },
@@ -23891,6 +26228,9 @@
             },
             "name": {
                 "S": "Tiny Shades"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -23963,6 +26303,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassMini2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassMini2.png"
+            },
             "internal_id": {
                 "N": "11216"
             },
@@ -23983,6 +26329,9 @@
             },
             "name": {
                 "S": "Tiny Shades"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -24055,6 +26404,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassMini0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassMini0.png"
+            },
             "internal_id": {
                 "N": "4461"
             },
@@ -24075,6 +26430,9 @@
             },
             "name": {
                 "S": "Tiny Shades"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -24147,6 +26505,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassTortoiseshell2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassTortoiseshell2.png"
+            },
             "internal_id": {
                 "N": "11080"
             },
@@ -24167,6 +26531,9 @@
             },
             "name": {
                 "S": "Tortoise Specs"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -24239,6 +26606,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassTortoiseshell1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassTortoiseshell1.png"
+            },
             "internal_id": {
                 "N": "11079"
             },
@@ -24259,6 +26632,9 @@
             },
             "name": {
                 "S": "Tortoise Specs"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -24331,6 +26707,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassTortoiseshell0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassTortoiseshell0.png"
+            },
             "internal_id": {
                 "N": "4460"
             },
@@ -24351,6 +26733,9 @@
             },
             "name": {
                 "S": "Tortoise Specs"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -24423,6 +26808,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassTriangle5.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassTriangle5.png"
+            },
             "internal_id": {
                 "N": "11207"
             },
@@ -24443,6 +26834,9 @@
             },
             "name": {
                 "S": "Triangle Shades"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -24515,6 +26909,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassTriangle6.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassTriangle6.png"
+            },
             "internal_id": {
                 "N": "11208"
             },
@@ -24535,6 +26935,9 @@
             },
             "name": {
                 "S": "Triangle Shades"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -24607,6 +27010,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassTriangle0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassTriangle0.png"
+            },
             "internal_id": {
                 "N": "4242"
             },
@@ -24627,6 +27036,9 @@
             },
             "name": {
                 "S": "Triangle Shades"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -24699,6 +27111,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassTriangle1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassTriangle1.png"
+            },
             "internal_id": {
                 "N": "11203"
             },
@@ -24719,6 +27137,9 @@
             },
             "name": {
                 "S": "Triangle Shades"
+            },
+            "order": {
+                "N": "4"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -24791,6 +27212,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassTriangle4.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassTriangle4.png"
+            },
             "internal_id": {
                 "N": "11206"
             },
@@ -24811,6 +27238,9 @@
             },
             "name": {
                 "S": "Triangle Shades"
+            },
+            "order": {
+                "N": "5"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -24883,6 +27313,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassTriangle2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassTriangle2.png"
+            },
             "internal_id": {
                 "N": "11204"
             },
@@ -24903,6 +27339,9 @@
             },
             "name": {
                 "S": "Triangle Shades"
+            },
+            "order": {
+                "N": "6"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -24975,6 +27414,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassTriangle3.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassTriangle3.png"
+            },
             "internal_id": {
                 "N": "11205"
             },
@@ -24995,6 +27440,9 @@
             },
             "name": {
                 "S": "Triangle Shades"
+            },
+            "order": {
+                "N": "7"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -25067,6 +27515,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassmouthVenezia0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassmouthVenezia0.png"
+            },
             "internal_id": {
                 "N": "14753"
             },
@@ -25087,6 +27541,9 @@
             },
             "name": {
                 "S": "Venetian carnival mask"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -25159,6 +27616,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassmouthVenezia3.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassmouthVenezia3.png"
+            },
             "internal_id": {
                 "N": "268"
             },
@@ -25179,6 +27642,9 @@
             },
             "name": {
                 "S": "Venetian carnival mask"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -25251,6 +27717,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassmouthVenezia2.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassmouthVenezia2.png"
+            },
             "internal_id": {
                 "N": "267"
             },
@@ -25271,6 +27743,9 @@
             },
             "name": {
                 "S": "Venetian carnival mask"
+            },
+            "order": {
+                "N": "3"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -25343,6 +27818,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassmouthVenezia1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassmouthVenezia1.png"
+            },
             "internal_id": {
                 "N": "266"
             },
@@ -25363,6 +27844,9 @@
             },
             "name": {
                 "S": "Venetian carnival mask"
+            },
+            "order": {
+                "N": "4"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -25435,6 +27919,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassmouthVenezia4.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassmouthVenezia4.png"
+            },
             "internal_id": {
                 "N": "269"
             },
@@ -25455,6 +27945,9 @@
             },
             "name": {
                 "S": "Venetian carnival mask"
+            },
+            "order": {
+                "N": "5"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -25527,6 +28020,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassmouthWario0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassmouthWario0.png"
+            },
             "internal_id": {
                 "N": "13560"
             },
@@ -25547,6 +28046,9 @@
             },
             "name": {
                 "S": "Wario 'stache"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -25619,6 +28121,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassWood0.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassWood0.png"
+            },
             "internal_id": {
                 "N": "4669"
             },
@@ -25639,6 +28147,9 @@
             },
             "name": {
                 "S": "Wooden-frame Glasses"
+            },
+            "order": {
+                "N": "1"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -25711,6 +28222,12 @@
             "hha_set": {
                 "NULL": true
             },
+            "image_closet": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassWood1.png"
+            },
+            "image_storage": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassWood1.png"
+            },
             "internal_id": {
                 "N": "11093"
             },
@@ -25731,6 +28248,9 @@
             },
             "name": {
                 "S": "Wooden-frame Glasses"
+            },
+            "order": {
+                "N": "2"
             },
             "sell_currency": {
                 "S": "Bells"

@@ -1,8 +1,15 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 26,
-    "minProperties": 26,
+    "maxProperties": 31,
+    "minProperties": 31,
     "properties": {
+        "challenge_category": {
+            "maxLength": 9,
+            "minLength": 4,
+            "type": [
+                "string"
+            ]
+        },
         "color_1": {
             "maxLength": 6,
             "minLength": 3,
@@ -67,6 +74,27 @@
                 "null"
             ]
         },
+        "image_critterpedia": {
+            "maxLength": 70,
+            "minLength": 57,
+            "type": [
+                "string"
+            ]
+        },
+        "image_furniture_url": {
+            "maxLength": 61,
+            "minLength": 48,
+            "type": [
+                "string"
+            ]
+        },
+        "image_icon_url": {
+            "maxLength": 46,
+            "minLength": 45,
+            "type": [
+                "string"
+            ]
+        },
         "internal_id": {
             "exclusiveMaximum": false,
             "exclusiveMinimum": false,
@@ -95,6 +123,7 @@
             "maxLength": 11,
             "minLength": 8,
             "type": [
+                "null",
                 "string"
             ]
         },
@@ -178,6 +207,15 @@
                 "string"
             ]
         },
+        "unlock_number": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 100,
+            "minimum": 0,
+            "type": [
+                "integer"
+            ]
+        },
         "vision_category": {
             "maxLength": 11,
             "minLength": 4,
@@ -187,6 +225,7 @@
         }
     },
     "required": [
+        "challenge_category",
         "color_1",
         "color_2",
         "description",
@@ -197,6 +236,9 @@
         "hha_points",
         "hha_series",
         "hha_set",
+        "image_critterpedia",
+        "image_furniture_url",
+        "image_icon_url",
         "internal_id",
         "internal_label",
         "internal_name",
@@ -212,6 +254,7 @@
         "size_2",
         "size_silhouette",
         "unique_entry_id",
+        "unlock_number",
         "vision_category"
     ],
     "title": "CreatureFish",

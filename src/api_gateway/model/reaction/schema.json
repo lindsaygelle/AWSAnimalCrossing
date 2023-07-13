@@ -1,8 +1,15 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 5,
-    "minProperties": 5,
+    "maxProperties": 6,
+    "minProperties": 6,
     "properties": {
+        "image_url": {
+            "maxLength": 61,
+            "minLength": 44,
+            "type": [
+                "string"
+            ]
+        },
         "internal_id": {
             "exclusiveMaximum": false,
             "exclusiveMinimum": false,
@@ -38,6 +45,7 @@
         }
     },
     "required": [
+        "image_url",
         "internal_id",
         "internal_label",
         "internal_name",

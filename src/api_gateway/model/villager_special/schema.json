@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 12,
-    "minProperties": 12,
+    "maxProperties": 15,
+    "minProperties": 15,
     "properties": {
         "birth_day": {
             "exclusiveMaximum": false,
@@ -28,6 +28,14 @@
                 "string"
             ]
         },
+        "filename_photo": {
+            "maxLength": 9,
+            "minLength": 8,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
         "gender": {
             "maxLength": 6,
             "minLength": 4,
@@ -42,10 +50,26 @@
                 "string"
             ]
         },
-        "hobby_category": {
+        "hobby_name": {
             "maxLength": 9,
             "minLength": 4,
             "type": [
+                "string"
+            ]
+        },
+        "image_icon_url": {
+            "maxLength": 43,
+            "minLength": 42,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "image_photo": {
+            "maxLength": 51,
+            "minLength": 49,
+            "type": [
+                "null",
                 "string"
             ]
         },
@@ -94,9 +118,12 @@
         "birth_day",
         "birth_month",
         "bubble_color",
+        "filename_photo",
         "gender",
         "gender_alternative",
-        "hobby_category",
+        "hobby_name",
+        "image_icon_url",
+        "image_photo",
         "internal_id",
         "internal_label",
         "internal_name",
