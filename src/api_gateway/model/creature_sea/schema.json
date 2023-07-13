@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 22,
-    "minProperties": 22,
+    "maxProperties": 26,
+    "minProperties": 26,
     "properties": {
         "color_1": {
             "type": [
@@ -16,6 +16,13 @@
         "description": {
             "maxLength": 751,
             "minLength": 293,
+            "type": [
+                "string"
+            ]
+        },
+        "filename_critterpedia": {
+            "maxLength": 24,
+            "minLength": 11,
             "type": [
                 "string"
             ]
@@ -99,6 +106,24 @@
                 "string"
             ]
         },
+        "rate_maximum": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 14,
+            "minimum": 1,
+            "type": [
+                "integer"
+            ]
+        },
+        "rate_minimum": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 6,
+            "minimum": 1,
+            "type": [
+                "integer"
+            ]
+        },
         "saying": {
             "maxLength": 63,
             "minLength": 34,
@@ -140,6 +165,13 @@
                 "number"
             ]
         },
+        "size_silhouette": {
+            "maxLength": 7,
+            "minLength": 5,
+            "type": [
+                "string"
+            ]
+        },
         "unique_entry_id": {
             "maxLength": 17,
             "minLength": 17,
@@ -152,6 +184,7 @@
         "color_1",
         "color_2",
         "description",
+        "filename_critterpedia",
         "hha_category",
         "hha_concept_1",
         "hha_concept_2",
@@ -165,11 +198,14 @@
         "is_unlocked",
         "lighting_category",
         "name",
+        "rate_maximum",
+        "rate_minimum",
         "saying",
         "sell_currency",
         "sell_price",
         "size_1",
         "size_2",
+        "size_silhouette",
         "unique_entry_id"
     ],
     "title": "CreatureSea",

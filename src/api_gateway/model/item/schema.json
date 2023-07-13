@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 30,
-    "minProperties": 30,
+    "maxProperties": 32,
+    "minProperties": 32,
     "properties": {
         "buy_currency": {
             "maxLength": 5,
@@ -78,6 +78,13 @@
                 "null"
             ]
         },
+        "filename": {
+            "maxLength": 33,
+            "minLength": 7,
+            "type": [
+                "string"
+            ]
+        },
         "hha_category": {
             "type": [
                 "null"
@@ -135,6 +142,11 @@
             ]
         },
         "is_craftable": {
+            "type": [
+                "boolean"
+            ]
+        },
+        "is_equippable": {
             "type": [
                 "boolean"
             ]
@@ -238,6 +250,7 @@
         "cyrus_price",
         "exchange_currency",
         "exchange_price",
+        "filename",
         "hha_category",
         "hha_concept_1",
         "hha_concept_2",
@@ -248,6 +261,7 @@
         "internal_label",
         "internal_name",
         "is_craftable",
+        "is_equippable",
         "is_unlocked",
         "kit_category",
         "kit_currency",

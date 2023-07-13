@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 22,
-    "minProperties": 22,
+    "maxProperties": 23,
+    "minProperties": 23,
     "properties": {
         "buy_currency": {
             "type": [
@@ -30,6 +30,13 @@
         "description": {
             "maxLength": 612,
             "minLength": 283,
+            "type": [
+                "string"
+            ]
+        },
+        "filename": {
+            "maxLength": 28,
+            "minLength": 14,
             "type": [
                 "string"
             ]
@@ -154,6 +161,7 @@
         "color_1",
         "color_2",
         "description",
+        "filename",
         "fossil_category",
         "hha_category",
         "hha_concept_1",

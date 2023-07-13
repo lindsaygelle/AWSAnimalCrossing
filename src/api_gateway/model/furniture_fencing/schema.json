@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 17,
-    "minProperties": 17,
+    "maxProperties": 18,
+    "minProperties": 18,
     "properties": {
         "buy_currency": {
             "type": [
@@ -34,6 +34,13 @@
             "type": [
                 "integer",
                 "null"
+            ]
+        },
+        "filename": {
+            "maxLength": 34,
+            "minLength": 12,
+            "type": [
+                "string"
             ]
         },
         "internal_id": {
@@ -128,6 +135,7 @@
         "can_customize",
         "cyrus_currency",
         "cyrus_price",
+        "filename",
         "internal_id",
         "internal_label",
         "internal_name",

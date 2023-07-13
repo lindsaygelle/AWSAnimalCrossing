@@ -19,6 +19,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassThreed0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -51,6 +54,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -105,6 +111,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassThreed1"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -137,6 +146,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -191,6 +203,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryMouthHalloween0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -223,6 +238,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -277,6 +295,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassDance0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -309,6 +330,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -363,6 +387,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassDance1"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -395,6 +422,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -449,6 +479,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryMouthBandageSkin"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -480,6 +513,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -535,6 +571,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryMouthBeakYellow"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -566,6 +605,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -621,6 +663,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassBirthday2"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -653,6 +698,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -707,6 +755,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassBirthday1"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -739,6 +790,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -793,6 +847,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassBirthday0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -825,6 +882,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -879,6 +939,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassBirthday3"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -911,6 +974,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -965,6 +1031,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassLoose6"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -997,6 +1066,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -1051,6 +1123,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassLoose0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -1083,6 +1158,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -1137,6 +1215,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassLoose5"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -1169,6 +1250,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -1223,6 +1307,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassLoose4"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -1255,6 +1342,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -1309,6 +1399,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassLoose2"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -1341,6 +1434,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -1395,6 +1491,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassLoose3"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -1427,6 +1526,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -1481,6 +1583,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassLoose1"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -1513,6 +1618,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -1567,6 +1675,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassThurmont3"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -1599,6 +1710,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -1653,6 +1767,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassThurmont0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -1685,6 +1802,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -1739,6 +1859,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassThurmont2"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -1771,6 +1894,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -1825,6 +1951,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassThurmont1"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -1857,6 +1986,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -1911,6 +2043,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryMouthBubblegum4"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -1942,6 +2077,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -1997,6 +2135,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryMouthBubblegum0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -2028,6 +2169,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -2083,6 +2227,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryMouthBubblegum2"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -2114,6 +2261,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -2169,6 +2319,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryMouthBubblegum3"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -2200,6 +2353,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -2255,6 +2411,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryMouthBubblegum1"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -2286,6 +2445,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -2341,6 +2503,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryMouthRabbit2"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -2372,6 +2537,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -2427,6 +2595,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryMouthRabbit0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -2458,6 +2629,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -2513,6 +2687,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryMouthRabbit1"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -2544,6 +2721,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -2599,6 +2779,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassButterfly0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -2631,6 +2814,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -2685,6 +2871,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassButterfly1"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -2717,6 +2906,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -2771,6 +2963,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassButterfly2"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -2803,6 +2998,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -2857,6 +3055,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassmouthCatrina1"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -2888,6 +3089,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -2943,6 +3147,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassmouthCatrina2"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -2974,6 +3181,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -3029,6 +3239,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassmouthCatrina0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -3060,6 +3273,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -3115,6 +3331,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryMouthCat0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -3146,6 +3365,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -3201,6 +3423,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryMouthCat2"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -3232,6 +3457,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -3287,6 +3515,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryMouthCat1"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -3318,6 +3549,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -3373,6 +3607,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryMouthCucumber"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -3404,6 +3641,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -3459,6 +3699,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryMouthRollingmustacheBlack"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -3490,6 +3733,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -3545,6 +3791,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassCyber2"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -3577,6 +3826,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -3631,6 +3883,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassCyber1"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -3663,6 +3918,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -3717,6 +3975,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassCyber0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -3749,6 +4010,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -3803,6 +4067,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassCyber5"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -3835,6 +4102,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -3889,6 +4159,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassCyber4"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -3921,6 +4194,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -3975,6 +4251,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassCyber3"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -4007,6 +4286,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -4061,6 +4343,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassDalmask0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -4093,6 +4378,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -4147,6 +4435,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassDalglass0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -4179,6 +4470,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -4233,6 +4527,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryMouthMaskWhite"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -4264,6 +4561,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -4319,6 +4619,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryMouthDog0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -4350,6 +4653,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -4405,6 +4711,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryMouthDog2"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -4436,6 +4745,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -4491,6 +4803,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryMouthDog1"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -4522,6 +4837,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -4577,6 +4895,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryMouthTissuedouble0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -4608,6 +4929,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -4663,6 +4987,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassDoublebridge2"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -4695,6 +5022,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -4749,6 +5079,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassDoublebridge0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -4781,6 +5114,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -4835,6 +5171,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassDoublebridge3"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -4867,6 +5206,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -4921,6 +5263,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassDoublebridge1"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -4953,6 +5298,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -5007,6 +5355,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassmouthStraw3"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -5038,6 +5389,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -5093,6 +5447,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassmouthStraw2"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -5124,6 +5481,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -5179,6 +5539,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassmouthStraw0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -5210,6 +5573,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -5265,6 +5631,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassmouthStraw1"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -5296,6 +5665,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -5351,6 +5723,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassMasquerade0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -5383,6 +5758,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -5437,6 +5815,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassMasquerade1"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -5469,6 +5850,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -5523,6 +5907,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassGauze0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -5555,6 +5942,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -5609,6 +5999,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassMask2"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -5641,6 +6034,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -5695,6 +6091,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassMask5"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -5727,6 +6126,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -5781,6 +6183,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassMask1"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -5813,6 +6218,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -5867,6 +6275,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassMask4"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -5899,6 +6310,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -5953,6 +6367,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassMask3"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -5985,6 +6402,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -6039,6 +6459,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassMask0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -6071,6 +6494,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -6125,6 +6551,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassPatchBlack"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -6157,6 +6586,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -6211,6 +6643,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassmouthPackWhite"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -6242,6 +6677,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -6297,6 +6735,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassmouthNoseRed"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -6328,6 +6769,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -6383,6 +6827,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassFlower0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -6415,6 +6862,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -6469,6 +6919,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassFlower1"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -6501,6 +6954,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -6555,6 +7011,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassFlower4"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -6587,6 +7046,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -6641,6 +7103,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassFlower2"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -6673,6 +7138,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -6727,6 +7195,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassFlower3"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -6759,6 +7230,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -6813,6 +7287,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryMouthPasta"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -6844,6 +7321,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -6899,6 +7379,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassEyes1"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -6931,6 +7414,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -6985,6 +7471,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassEyes2"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -7017,6 +7506,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -7071,6 +7563,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassEyes0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -7103,6 +7598,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -7157,6 +7655,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassmouthGasmask0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -7188,6 +7689,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -7243,6 +7747,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassmouthGasmask1"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -7274,6 +7781,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -7329,6 +7839,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassBottleBlack"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -7361,6 +7874,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -7415,6 +7931,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryMouthBeardChinBlack"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -7446,6 +7965,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -7501,6 +8023,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassGoggles0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -7533,6 +8058,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -7587,6 +8115,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassGoggles5"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -7619,6 +8150,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -7673,6 +8207,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassGoggles2"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -7705,6 +8242,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -7759,6 +8299,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassGoggles3"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -7791,6 +8334,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -7845,6 +8391,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassGoggles1"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -7877,6 +8426,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -7931,6 +8483,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassGoggles4"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -7963,6 +8518,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -8017,6 +8575,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryMouthBeardBlack"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -8048,6 +8609,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -8103,6 +8667,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassHeart0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -8135,6 +8702,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -8189,6 +8759,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassHeart1"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -8221,6 +8794,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -8275,6 +8851,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassHeart4"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -8307,6 +8886,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -8361,6 +8943,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassHeart2"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -8393,6 +8978,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -8447,6 +9035,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassHeart3"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -8479,6 +9070,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -8533,6 +9127,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassHmdWhite"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -8565,6 +9162,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -8619,6 +9219,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassmouthPierrot0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -8650,6 +9253,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -8705,6 +9311,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassmouthPierrot1"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -8736,6 +9345,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -8791,6 +9403,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassmouthPierrot2"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -8822,6 +9437,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -8877,6 +9495,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassmouthPierrot3"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -8908,6 +9529,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -8963,6 +9587,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassKate1"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -8995,6 +9622,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -9049,6 +9679,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassKate2"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -9081,6 +9714,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -9135,6 +9771,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassKate5"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -9167,6 +9806,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -9221,6 +9863,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassKate4"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -9253,6 +9898,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -9307,6 +9955,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassKate3"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -9339,6 +9990,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -9393,6 +10047,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassKate0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -9425,6 +10082,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -9479,6 +10139,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassBlind0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -9511,6 +10174,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -9565,6 +10231,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassBlind3"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -9597,6 +10266,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -9651,6 +10323,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassBlind4"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -9683,6 +10358,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -9737,6 +10415,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassBlind2"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -9769,6 +10450,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -9823,6 +10507,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassBlind1"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -9855,6 +10542,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -9909,6 +10599,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassBlind5"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -9941,6 +10634,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -9995,6 +10691,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryMouthLeafGreen"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -10027,6 +10726,9 @@
             },
             "is_craftable": {
                 "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -10081,6 +10783,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassmouthLuigi0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -10112,6 +10817,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -10167,6 +10875,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassmouthMario0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -10198,6 +10909,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -10253,6 +10967,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassVenetian1"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -10285,6 +11002,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -10339,6 +11059,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassVenetian3"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -10371,6 +11094,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -10425,6 +11151,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassVenetian0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -10457,6 +11186,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -10511,6 +11243,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassVenetian5"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -10543,6 +11278,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -10597,6 +11335,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassVenetian4"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -10629,6 +11370,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -10683,6 +11427,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassVenetian2"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -10715,6 +11462,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -10769,6 +11519,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassMonocle2"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -10801,6 +11554,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -10855,6 +11611,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassMonocle0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -10887,6 +11646,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -10941,6 +11703,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassMonocle1"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -10973,6 +11738,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -11027,6 +11795,9 @@
             "exchange_price": {
                 "N": "1600"
             },
+            "filename": {
+                "S": "AccessoryGlassNeon0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -11059,6 +11830,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -11113,6 +11887,9 @@
             "exchange_price": {
                 "N": "1600"
             },
+            "filename": {
+                "S": "AccessoryGlassNeon2"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -11145,6 +11922,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -11199,6 +11979,9 @@
             "exchange_price": {
                 "N": "1600"
             },
+            "filename": {
+                "S": "AccessoryGlassNeon1"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -11231,6 +12014,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -11285,6 +12071,9 @@
             "exchange_price": {
                 "N": "1600"
             },
+            "filename": {
+                "S": "AccessoryGlassNeon3"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -11317,6 +12106,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -11371,6 +12163,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassNightvisionBlack"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -11403,6 +12198,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -11457,6 +12255,9 @@
             "exchange_price": {
                 "N": "400"
             },
+            "filename": {
+                "S": "AccessoryGlassNook0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -11489,6 +12290,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -11543,6 +12347,9 @@
             "exchange_price": {
                 "N": "500"
             },
+            "filename": {
+                "S": "AccessoryGlassmouthNook0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -11574,6 +12381,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -11629,6 +12439,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryMouthJokeDripCyan"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -11660,6 +12473,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -11715,6 +12531,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryMouthTissue0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -11746,6 +12565,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -11801,6 +12623,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassOctagon0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -11833,6 +12658,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -11887,6 +12715,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassOctagon4"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -11919,6 +12750,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -11973,6 +12807,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassOctagon1"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -12005,6 +12842,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -12059,6 +12899,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassOctagon2"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -12091,6 +12934,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -12145,6 +12991,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassOctagon3"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -12177,6 +13026,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -12231,6 +13083,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassOval6"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -12263,6 +13118,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -12317,6 +13175,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassOval4"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -12349,6 +13210,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -12403,6 +13267,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassOval1"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -12435,6 +13302,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -12489,6 +13359,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassOval5"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -12521,6 +13394,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -12575,6 +13451,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassOval0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -12607,6 +13486,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -12661,6 +13543,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassOval2"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -12693,6 +13578,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -12747,6 +13635,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassOval3"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -12779,6 +13670,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -12833,6 +13727,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryMouthPacifier5"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -12864,6 +13761,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -12919,6 +13819,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryMouthPacifier4"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -12950,6 +13853,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -13005,6 +13911,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryMouthPacifier0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -13036,6 +13945,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -13091,6 +14003,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryMouthPacifier7"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -13122,6 +14037,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -13177,6 +14095,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryMouthPacifier2"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -13208,6 +14129,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -13263,6 +14187,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryMouthPacifier3"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -13294,6 +14221,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -13349,6 +14279,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryMouthPacifier1"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -13380,6 +14313,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -13435,6 +14371,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryMouthPacifier6"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -13466,6 +14405,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -13521,6 +14463,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryMouthPigPink"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -13552,6 +14497,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -13607,6 +14555,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassPilot0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -13639,6 +14590,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -13693,6 +14647,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassPilot1"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -13725,6 +14682,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -13779,6 +14739,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryMouthPirates0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -13810,6 +14773,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -13865,6 +14831,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassPiratespatch0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -13897,6 +14866,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -13951,6 +14923,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassDot3"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -13983,6 +14958,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -14037,6 +15015,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassDot0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -14069,6 +15050,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -14123,6 +15107,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassDot1"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -14155,6 +15142,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -14209,6 +15199,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassDot2"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -14241,6 +15234,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -14295,6 +15291,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryMouthSurgicalmask0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -14326,6 +15325,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -14381,6 +15383,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryMouthSurgicalmask1"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -14412,6 +15417,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -14467,6 +15475,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryMouthSurgicalmask2"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -14498,6 +15509,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -14553,6 +15567,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryMouthSurgicalmask3"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -14584,6 +15601,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -14639,6 +15659,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryMouthSurgicalmask4"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -14670,6 +15693,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -14725,6 +15751,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryMouthLeatherBlack"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -14756,6 +15785,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -14811,6 +15843,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassEyepatchWhite"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -14843,6 +15878,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -14897,6 +15935,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryMouthCrowBlack"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -14928,6 +15969,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -14983,6 +16027,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassMirrorGray"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -15014,6 +16061,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -15069,6 +16119,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassRetro0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -15101,6 +16154,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -15155,6 +16211,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassRetro5"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -15187,6 +16246,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -15241,6 +16303,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassRetro2"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -15273,6 +16338,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -15327,6 +16395,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassRetro3"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -15359,6 +16430,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -15413,6 +16487,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassRetro1"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -15445,6 +16522,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -15499,6 +16579,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassRetro4"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -15531,6 +16614,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -15585,6 +16671,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassRhinestone0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -15617,6 +16706,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -15671,6 +16763,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassRhinestone2"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -15703,6 +16798,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -15757,6 +16855,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassRhinestone1"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -15789,6 +16890,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -15843,6 +16947,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassCircle2"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -15875,6 +16982,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -15929,6 +17039,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassCircle0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -15961,6 +17074,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -16015,6 +17131,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassCircle1"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -16047,6 +17166,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -16101,6 +17223,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassCircle4"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -16133,6 +17258,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -16187,6 +17315,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassCircle3"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -16219,6 +17350,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -16273,6 +17407,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassBoston6"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -16305,6 +17442,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -16359,6 +17499,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassBoston0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -16391,6 +17534,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -16445,6 +17591,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassBoston5"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -16477,6 +17626,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -16531,6 +17683,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassBoston4"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -16563,6 +17718,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -16617,6 +17775,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassBoston3"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -16649,6 +17810,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -16703,6 +17867,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassBoston1"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -16735,6 +17902,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -16789,6 +17959,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassBoston2"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -16821,6 +17994,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -16875,6 +18051,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassBoston7"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -16907,6 +18086,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -16961,6 +18143,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassRound0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -16993,6 +18178,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -17047,6 +18235,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassRound1"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -17079,6 +18270,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -17133,6 +18327,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassRound3"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -17165,6 +18362,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -17219,6 +18419,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassRound2"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -17251,6 +18454,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -17305,6 +18511,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassWellington2"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -17337,6 +18546,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -17391,6 +18603,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassWellington0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -17423,6 +18638,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -17477,6 +18695,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassWellington4"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -17509,6 +18730,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -17563,6 +18787,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassWellington3"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -17595,6 +18822,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -17649,6 +18879,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassWellington1"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -17681,6 +18914,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -17735,6 +18971,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryMouthBeardRoundBlack"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -17766,6 +19005,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -17821,6 +19063,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryMouthSanta"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -17852,6 +19097,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -17907,6 +19155,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassShamrock0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -17939,6 +19190,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -17993,6 +19247,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassCrackBlack"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -18025,6 +19282,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -18079,6 +19339,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassSolideyes0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -18111,6 +19374,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -18165,6 +19431,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassSolideyes2"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -18197,6 +19466,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -18251,6 +19523,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassSolideyes1"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -18283,6 +19558,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -18337,6 +19615,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassSolideyes3"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -18369,6 +19650,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -18423,6 +19707,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassSolideyes4"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -18455,6 +19742,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -18509,6 +19799,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassSolideyes5"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -18541,6 +19834,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -18595,6 +19891,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassNomal0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -18627,6 +19926,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -18681,6 +19983,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassNomal4"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -18713,6 +20018,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -18767,6 +20075,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassNomal5"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -18799,6 +20110,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -18853,6 +20167,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassNomal2"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -18885,6 +20202,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -18939,6 +20259,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassNomal3"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -18971,6 +20294,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -19025,6 +20351,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassNomal1"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -19057,6 +20386,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -19111,6 +20443,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassGogglesski1"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -19143,6 +20478,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -19197,6 +20535,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassGogglesski0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -19229,6 +20570,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -19283,6 +20627,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassGogglesski2"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -19315,6 +20662,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -19369,6 +20719,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassGogglesski5"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -19401,6 +20754,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -19455,6 +20811,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassGogglesski4"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -19487,6 +20846,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -19541,6 +20903,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassGogglesski3"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -19573,6 +20938,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -19627,6 +20995,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassmouthDiver5"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -19658,6 +21029,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -19713,6 +21087,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassmouthDiver2"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -19744,6 +21121,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -19799,6 +21179,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassmouthDiver3"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -19830,6 +21213,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -19885,6 +21271,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassmouthDiver1"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -19916,6 +21305,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -19971,6 +21363,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassmouthDiver4"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -20002,6 +21397,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -20057,6 +21455,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassmouthDiver0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -20088,6 +21489,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -20143,6 +21547,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassSports1"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -20175,6 +21582,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -20229,6 +21639,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassSports0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -20261,6 +21674,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -20315,6 +21731,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassSports2"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -20347,6 +21766,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -20401,6 +21823,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassSports3"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -20433,6 +21858,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -20487,6 +21915,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassSports4"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -20519,6 +21950,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -20573,6 +22007,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassSquare2"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -20605,6 +22042,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -20659,6 +22099,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassSquare1"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -20691,6 +22134,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -20745,6 +22191,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassSquare3"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -20777,6 +22226,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -20831,6 +22283,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassSquare0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -20863,6 +22318,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -20917,6 +22375,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassThurmontsquare3"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -20949,6 +22410,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -21003,6 +22467,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassThurmontsquare0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -21035,6 +22502,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -21089,6 +22559,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassThurmontsquare2"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -21121,6 +22594,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -21175,6 +22651,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassThurmontsquare1"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -21207,6 +22686,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -21261,6 +22743,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassmouthBeard0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -21293,6 +22778,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -21347,6 +22835,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassmouthBeard1"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -21379,6 +22870,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -21433,6 +22927,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassStar1"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -21465,6 +22962,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -21519,6 +23019,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassStar0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -21551,6 +23054,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -21605,6 +23111,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassStar4"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -21637,6 +23146,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -21691,6 +23203,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassStar2"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -21723,6 +23238,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -21777,6 +23295,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassStar3"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -21809,6 +23330,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -21863,6 +23387,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassSteampunk0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -21895,6 +23422,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -21949,6 +23479,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassSteampunk1"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -21981,6 +23514,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -22035,6 +23571,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryMouthRice"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -22066,6 +23605,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -22121,6 +23663,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassSummer0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -22153,6 +23698,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -22207,6 +23755,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassHeromaskBlack"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -22239,6 +23790,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -22293,6 +23847,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassMini1"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -22325,6 +23882,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -22379,6 +23939,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassMini2"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -22411,6 +23974,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -22465,6 +24031,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassMini0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -22497,6 +24066,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -22551,6 +24123,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassTortoiseshell2"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -22583,6 +24158,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -22637,6 +24215,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassTortoiseshell1"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -22669,6 +24250,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -22723,6 +24307,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassTortoiseshell0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -22755,6 +24342,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -22809,6 +24399,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassTriangle5"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -22841,6 +24434,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -22895,6 +24491,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassTriangle6"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -22927,6 +24526,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -22981,6 +24583,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassTriangle0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -23013,6 +24618,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -23067,6 +24675,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassTriangle1"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -23099,6 +24710,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -23153,6 +24767,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassTriangle4"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -23185,6 +24802,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -23239,6 +24859,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassTriangle2"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -23271,6 +24894,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -23325,6 +24951,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassTriangle3"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -23357,6 +24986,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -23411,6 +25043,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassmouthVenezia0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -23443,6 +25078,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -23497,6 +25135,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassmouthVenezia3"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -23529,6 +25170,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -23583,6 +25227,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassmouthVenezia2"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -23615,6 +25262,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -23669,6 +25319,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassmouthVenezia1"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -23701,6 +25354,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -23755,6 +25411,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassmouthVenezia4"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -23787,6 +25446,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -23841,6 +25503,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassmouthWario0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -23872,6 +25537,9 @@
                 "NULL": true
             },
             "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
                 "BOOL": false
             },
             "is_unlocked": {
@@ -23927,6 +25595,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassWood0"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -23959,6 +25630,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true
@@ -24013,6 +25687,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "AccessoryGlassWood1"
+            },
             "gender": {
                 "S": "Free"
             },
@@ -24045,6 +25722,9 @@
             },
             "is_craftable": {
                 "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
             },
             "is_unlocked": {
                 "BOOL": true

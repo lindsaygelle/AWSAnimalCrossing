@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 26,
-    "minProperties": 26,
+    "maxProperties": 28,
+    "minProperties": 28,
     "properties": {
         "buy_currency": {
             "maxLength": 5,
@@ -51,6 +51,13 @@
             "type": [
                 "integer",
                 "null"
+            ]
+        },
+        "filename": {
+            "maxLength": 38,
+            "minLength": 22,
+            "type": [
+                "string"
             ]
         },
         "gender": {
@@ -114,6 +121,11 @@
             ]
         },
         "is_craftable": {
+            "type": [
+                "boolean"
+            ]
+        },
+        "is_equippable": {
             "type": [
                 "boolean"
             ]
@@ -194,6 +206,7 @@
         "color_2",
         "exchange_currency",
         "exchange_price",
+        "filename",
         "gender",
         "hha_category",
         "hha_concept_1",
@@ -205,6 +218,7 @@
         "internal_label",
         "internal_name",
         "is_craftable",
+        "is_equippable",
         "is_unlocked",
         "name",
         "sell_currency",

@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 26,
-    "minProperties": 26,
+    "maxProperties": 27,
+    "minProperties": 27,
     "properties": {
         "buy_currency": {
             "maxLength": 5,
@@ -36,6 +36,13 @@
         "description": {
             "maxLength": 424,
             "minLength": 150,
+            "type": [
+                "string"
+            ]
+        },
+        "filename": {
+            "maxLength": 28,
+            "minLength": 11,
             "type": [
                 "string"
             ]
@@ -191,6 +198,7 @@
         "color_1",
         "color_2",
         "description",
+        "filename",
         "furniture_category",
         "hha_category",
         "hha_concept_1",

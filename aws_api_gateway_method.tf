@@ -112,6 +112,7 @@ resource "aws_api_gateway_method" "clothing_accessory_GET" {
     "method.request.querystring.internal_label"    = false
     "method.request.querystring.internal_name"     = false
     "method.request.querystring.is_craftable"      = false
+    "method.request.querystring.is_equippable"     = false
     "method.request.querystring.is_unlocked"       = false
     "method.request.querystring.sell_currency"     = false
     "method.request.querystring.sell_price"        = false
@@ -176,6 +177,7 @@ resource "aws_api_gateway_method" "clothing_bag_GET" {
     "method.request.querystring.internal_label"    = false
     "method.request.querystring.internal_name"     = false
     "method.request.querystring.is_craftable"      = false
+    "method.request.querystring.is_equippable"     = false
     "method.request.querystring.is_unlocked"       = false
     "method.request.querystring.sell_currency"     = false
     "method.request.querystring.sell_price"        = false
@@ -239,6 +241,7 @@ resource "aws_api_gateway_method" "clothing_bottom_GET" {
     "method.request.querystring.internal_label"    = false
     "method.request.querystring.internal_name"     = false
     "method.request.querystring.is_craftable"      = false
+    "method.request.querystring.is_equippable"     = false
     "method.request.querystring.is_unlocked"       = false
     "method.request.querystring.sell_currency"     = false
     "method.request.querystring.sell_price"        = false
@@ -302,6 +305,7 @@ resource "aws_api_gateway_method" "clothing_dress_up_GET" {
     "method.request.querystring.internal_label"    = false
     "method.request.querystring.internal_name"     = false
     "method.request.querystring.is_craftable"      = false
+    "method.request.querystring.is_equippable"     = false
     "method.request.querystring.is_unlocked"       = false
     "method.request.querystring.sell_currency"     = false
     "method.request.querystring.sell_price"        = false
@@ -366,6 +370,7 @@ resource "aws_api_gateway_method" "clothing_headwear_GET" {
     "method.request.querystring.internal_label"    = false
     "method.request.querystring.internal_name"     = false
     "method.request.querystring.is_craftable"      = false
+    "method.request.querystring.is_equippable"     = false
     "method.request.querystring.is_unlocked"       = false
     "method.request.querystring.sell_currency"     = false
     "method.request.querystring.sell_price"        = false
@@ -430,6 +435,7 @@ resource "aws_api_gateway_method" "clothing_other_GET" {
     "method.request.querystring.internal_label"    = false
     "method.request.querystring.internal_name"     = false
     "method.request.querystring.is_craftable"      = false
+    "method.request.querystring.is_equippable"     = false
     "method.request.querystring.is_unlocked"       = false
     "method.request.querystring.sell_currency"     = false
     "method.request.querystring.sell_price"        = false
@@ -493,6 +499,7 @@ resource "aws_api_gateway_method" "clothing_shoe_GET" {
     "method.request.querystring.internal_label"    = false
     "method.request.querystring.internal_name"     = false
     "method.request.querystring.is_craftable"      = false
+    "method.request.querystring.is_equippable"     = false
     "method.request.querystring.is_unlocked"       = false
     "method.request.querystring.sell_currency"     = false
     "method.request.querystring.sell_price"        = false
@@ -556,6 +563,7 @@ resource "aws_api_gateway_method" "clothing_sock_GET" {
     "method.request.querystring.internal_label"    = false
     "method.request.querystring.internal_name"     = false
     "method.request.querystring.is_craftable"      = false
+    "method.request.querystring.is_equippable"     = false
     "method.request.querystring.is_unlocked"       = false
     "method.request.querystring.sell_currency"     = false
     "method.request.querystring.sell_price"        = false
@@ -619,6 +627,7 @@ resource "aws_api_gateway_method" "clothing_top_GET" {
     "method.request.querystring.internal_label"    = false
     "method.request.querystring.internal_name"     = false
     "method.request.querystring.is_craftable"      = false
+    "method.request.querystring.is_equippable"     = false
     "method.request.querystring.is_unlocked"       = false
     "method.request.querystring.sell_currency"     = false
     "method.request.querystring.sell_price"        = false
@@ -683,6 +692,7 @@ resource "aws_api_gateway_method" "clothing_umbrella_GET" {
     "method.request.querystring.internal_label"    = false
     "method.request.querystring.internal_name"     = false
     "method.request.querystring.is_craftable"      = false
+    "method.request.querystring.is_equippable"     = false
     "method.request.querystring.is_unlocked"       = false
     "method.request.querystring.sell_currency"     = false
     "method.request.querystring.sell_price"        = false
@@ -782,10 +792,14 @@ resource "aws_api_gateway_method" "creature_fish_GET" {
     "method.request.querystring.internal_name"     = false
     "method.request.querystring.is_surface"        = false
     "method.request.querystring.lighting_category" = false
+    "method.request.querystring.rate_maximum"      = false
+    "method.request.querystring.rate_minimum"      = false
     "method.request.querystring.sell_currency"     = false
     "method.request.querystring.sell_price"        = false
     "method.request.querystring.size_1"            = false
     "method.request.querystring.size_2"            = false
+    "method.request.querystring.size_silhouette"   = false
+    "method.request.querystring.vision_category"   = false
   }
   request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
@@ -837,6 +851,8 @@ resource "aws_api_gateway_method" "creature_insect_GET" {
     "method.request.querystring.internal_label" = false
     "method.request.querystring.internal_name"  = false
     "method.request.querystring.is_surface"     = false
+    "method.request.querystring.rate_maximum"   = false
+    "method.request.querystring.rate_minimum"   = false
     "method.request.querystring.sell_currency"  = false
     "method.request.querystring.sell_price"     = false
     "method.request.querystring.size_1"         = false
@@ -894,10 +910,13 @@ resource "aws_api_gateway_method" "creature_sea_GET" {
     "method.request.querystring.is_surface"        = false
     "method.request.querystring.is_unlocked"       = false
     "method.request.querystring.lighting_category" = false
+    "method.request.querystring.rate_maximum"      = false
+    "method.request.querystring.rate_minimum"      = false
     "method.request.querystring.sell_currency"     = false
     "method.request.querystring.sell_price"        = false
     "method.request.querystring.size_1"            = false
     "method.request.querystring.size_2"            = false
+    "method.request.querystring.size_silhouette"   = false
   }
   request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
@@ -1724,6 +1743,7 @@ resource "aws_api_gateway_method" "furniture_rug_GET" {
     "method.request.querystring.sell_price"        = false
     "method.request.querystring.size_1"            = false
     "method.request.querystring.size_2"            = false
+    "method.request.querystring.size_category"     = false
   }
   request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
@@ -1918,6 +1938,7 @@ resource "aws_api_gateway_method" "item_GET" {
     "method.request.querystring.internal_label"    = false
     "method.request.querystring.internal_name"     = false
     "method.request.querystring.is_craftable"      = false
+    "method.request.querystring.is_equippable"     = false
     "method.request.querystring.is_unlocked"       = false
     "method.request.querystring.kit_category"      = false
     "method.request.querystring.kit_currency"      = false

@@ -1,8 +1,15 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 3,
-    "minProperties": 3,
+    "maxProperties": 4,
+    "minProperties": 4,
     "properties": {
+        "filename": {
+            "maxLength": 5,
+            "minLength": 5,
+            "type": [
+                "string"
+            ]
+        },
         "name": {
             "maxLength": 10,
             "minLength": 2,
@@ -26,6 +33,7 @@
         }
     },
     "required": [
+        "filename",
         "name",
         "song_name",
         "unique_entry_id"

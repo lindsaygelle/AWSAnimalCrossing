@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 20,
-    "minProperties": 20,
+    "maxProperties": 21,
+    "minProperties": 21,
     "properties": {
         "birth_day": {
             "exclusiveMaximum": false,
@@ -38,6 +38,13 @@
         "color_2": {
             "maxLength": 8,
             "minLength": 3,
+            "type": [
+                "string"
+            ]
+        },
+        "filename": {
+            "maxLength": 5,
+            "minLength": 5,
             "type": [
                 "string"
             ]
@@ -154,6 +161,7 @@
         "bubble_color",
         "color_1",
         "color_2",
+        "filename",
         "floor_name",
         "gender",
         "hobby_category",

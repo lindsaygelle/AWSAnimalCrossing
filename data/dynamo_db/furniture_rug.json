@@ -19,6 +19,9 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename": {
+                "S": "RugOtherAcornM00"
+            },
             "hha_category": {
                 "NULL": true
             },
@@ -67,6 +70,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "Y2BtGdBHjHDAZ5aMi"
             }
@@ -92,6 +98,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRectAluminumM00"
             },
             "hha_category": {
                 "NULL": true
@@ -141,6 +150,9 @@
             "size_2": {
                 "N": "2.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "vFkuGbx8Sh2MDLEsq"
             }
@@ -166,6 +178,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugOtherAppleM00"
             },
             "hha_category": {
                 "NULL": true
@@ -215,6 +230,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "5GsjYsaz9NDtQ6QFB"
             }
@@ -240,6 +258,9 @@
             },
             "exchange_price": {
                 "N": "1200"
+            },
+            "filename": {
+                "S": "RugOtherBellM00"
             },
             "hha_category": {
                 "NULL": true
@@ -289,6 +310,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "KfRapmYKpizqQWzCg"
             }
@@ -314,6 +338,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugSquareBlockM03"
             },
             "hha_category": {
                 "NULL": true
@@ -363,6 +390,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "4kj8FXzMTqvZvqEra"
             }
@@ -388,6 +418,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRectDeckM03"
             },
             "hha_category": {
                 "NULL": true
@@ -437,6 +470,9 @@
             "size_2": {
                 "N": "2.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "kQDKkEGfdAjqPxd4w"
             }
@@ -462,6 +498,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRectNativeKitchenS03"
             },
             "hha_category": {
                 "NULL": true
@@ -511,6 +550,9 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_category": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "G7CAPiAEpYv6QKbsL"
             }
@@ -536,6 +578,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRectArgyleL02"
             },
             "hha_category": {
                 "NULL": true
@@ -585,6 +630,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Large"
+            },
             "unique_entry_id": {
                 "S": "uw8DvCwwBia7ozA72"
             }
@@ -610,6 +658,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugSquareBlockM01"
             },
             "hha_category": {
                 "NULL": true
@@ -659,6 +710,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "Mjxd8kenDFZgTFXcm"
             }
@@ -684,6 +738,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRectDotL03"
             },
             "hha_category": {
                 "NULL": true
@@ -733,6 +790,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Large"
+            },
             "unique_entry_id": {
                 "S": "JAAx9zSMrjXKKw2ij"
             }
@@ -758,6 +818,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRectMatM01"
             },
             "hha_category": {
                 "NULL": true
@@ -807,6 +870,9 @@
             "size_2": {
                 "N": "2.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "DdiGJyEREa2QAMXRM"
             }
@@ -832,6 +898,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugSquareHawaiianL00"
             },
             "hha_category": {
                 "NULL": true
@@ -881,6 +950,9 @@
             "size_2": {
                 "N": "4.0"
             },
+            "size_category": {
+                "S": "Large"
+            },
             "unique_entry_id": {
                 "S": "L3nBtt43WwHPYTpDE"
             }
@@ -906,6 +978,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugSquareKirimL01"
             },
             "hha_category": {
                 "NULL": true
@@ -955,6 +1030,9 @@
             "size_2": {
                 "N": "5.0"
             },
+            "size_category": {
+                "S": "Large"
+            },
             "unique_entry_id": {
                 "S": "MhvdxvmyKtddid2G2"
             }
@@ -980,6 +1058,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRectKitchenS02"
             },
             "hha_category": {
                 "NULL": true
@@ -1029,6 +1110,9 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_category": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "SLBDbK365pHRnKE5k"
             }
@@ -1054,6 +1138,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRoundSimpleM02"
             },
             "hha_category": {
                 "NULL": true
@@ -1103,6 +1190,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "JfLKCbWRz4CozZYpH"
             }
@@ -1128,6 +1218,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugOtherMessageS01"
             },
             "hha_category": {
                 "NULL": true
@@ -1177,6 +1270,9 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_category": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "5grLuDzGkNL4DYk4r"
             }
@@ -1202,6 +1298,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugSquarePersianL01"
             },
             "hha_category": {
                 "NULL": true
@@ -1251,6 +1350,9 @@
             "size_2": {
                 "N": "5.0"
             },
+            "size_category": {
+                "S": "Large"
+            },
             "unique_entry_id": {
                 "S": "CDY97qjWg4xG6egyS"
             }
@@ -1276,6 +1378,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugSquareShaggyL02"
             },
             "hha_category": {
                 "NULL": true
@@ -1325,6 +1430,9 @@
             "size_2": {
                 "N": "5.0"
             },
+            "size_category": {
+                "S": "Large"
+            },
             "unique_entry_id": {
                 "S": "v4ZJPY2ToZPHXp6KH"
             }
@@ -1350,6 +1458,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRoundSimpleS02"
             },
             "hha_category": {
                 "NULL": true
@@ -1399,6 +1510,9 @@
             "size_2": {
                 "N": "2.0"
             },
+            "size_category": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "BxaqCsC7TqwGdHpib"
             }
@@ -1424,6 +1538,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRectBorderL02"
             },
             "hha_category": {
                 "NULL": true
@@ -1473,6 +1590,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Large"
+            },
             "unique_entry_id": {
                 "S": "dAHzKeTqwA9wD2yfa"
             }
@@ -1498,6 +1618,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRectVinylM01"
             },
             "hha_category": {
                 "NULL": true
@@ -1547,6 +1670,9 @@
             "size_2": {
                 "N": "2.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "b8xZjiyqLPWJsgt73"
             }
@@ -1572,6 +1698,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRectWaveL02"
             },
             "hha_category": {
                 "NULL": true
@@ -1621,6 +1750,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Large"
+            },
             "unique_entry_id": {
                 "S": "SbRQxAyR7EZSRBb4j"
             }
@@ -1646,6 +1778,9 @@
             },
             "exchange_price": {
                 "N": "4"
+            },
+            "filename": {
+                "S": "RugRectJuneBrideM00"
             },
             "hha_category": {
                 "NULL": true
@@ -1695,6 +1830,9 @@
             "size_2": {
                 "N": "2.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "ghEfAZG8Lt5sb8nt3"
             }
@@ -1720,6 +1858,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRectNativeKitchenS01"
             },
             "hha_category": {
                 "NULL": true
@@ -1769,6 +1910,9 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_category": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "DiEHu3wPobZXzhhp8"
             }
@@ -1794,6 +1938,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugOtherBoneS00"
             },
             "hha_category": {
                 "NULL": true
@@ -1843,6 +1990,9 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_category": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "udGT7fiMezZW5ptrC"
             }
@@ -1868,6 +2018,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRectBotanicalL00"
             },
             "hha_category": {
                 "NULL": true
@@ -1917,6 +2070,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Large"
+            },
             "unique_entry_id": {
                 "S": "nEqsaya7wt6FsWwDC"
             }
@@ -1942,6 +2098,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRectArgyleL03"
             },
             "hha_category": {
                 "NULL": true
@@ -1991,6 +2150,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Large"
+            },
             "unique_entry_id": {
                 "S": "yrQTuyQr2m6axKkr2"
             }
@@ -2016,6 +2178,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugOtherAnimalM00"
             },
             "hha_category": {
                 "NULL": true
@@ -2065,6 +2230,9 @@
             "size_2": {
                 "N": "2.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "KJwqjJp9YWCALKSNd"
             }
@@ -2090,6 +2258,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRectKitchenS00"
             },
             "hha_category": {
                 "NULL": true
@@ -2139,6 +2310,9 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_category": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "2ya9gAeftrSe4YSmE"
             }
@@ -2164,6 +2338,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugSquareShaggyL01"
             },
             "hha_category": {
                 "NULL": true
@@ -2213,6 +2390,9 @@
             "size_2": {
                 "N": "5.0"
             },
+            "size_category": {
+                "S": "Large"
+            },
             "unique_entry_id": {
                 "S": "cAFej6s3C7T3DYykj"
             }
@@ -2238,6 +2418,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRectDeckM00"
             },
             "hha_category": {
                 "NULL": true
@@ -2287,6 +2470,9 @@
             "size_2": {
                 "N": "2.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "MSPQjkRRMRGNRTeEt"
             }
@@ -2312,6 +2498,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugOtherEasterM00"
             },
             "hha_category": {
                 "NULL": true
@@ -2361,6 +2550,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "6tC8Zhswobdah6ftE"
             }
@@ -2386,6 +2578,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugOtherCherryM00"
             },
             "hha_category": {
                 "NULL": true
@@ -2435,6 +2630,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "R9Bxb8FQw7Fj2YuCa"
             }
@@ -2460,6 +2658,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugOtherSakuraM00"
             },
             "hha_category": {
                 "NULL": true
@@ -2509,6 +2710,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "CcifD7vuYJm5bwrZ5"
             }
@@ -2534,6 +2738,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugOtherCinnamonM00"
             },
             "hha_category": {
                 "NULL": true
@@ -2583,6 +2790,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "QGLTyMNpsBoKRTcZ7"
             }
@@ -2608,6 +2818,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRectCoconutmatS00"
             },
             "hha_category": {
                 "NULL": true
@@ -2657,6 +2870,9 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_category": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "EjrmBRgYWehusZa2N"
             }
@@ -2682,6 +2898,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRectVinylM00"
             },
             "hha_category": {
                 "NULL": true
@@ -2731,6 +2950,9 @@
             "size_2": {
                 "N": "2.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "FAAQgrJJM4svoYJb8"
             }
@@ -2756,6 +2978,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRoundBiscuitM00"
             },
             "hha_category": {
                 "NULL": true
@@ -2805,6 +3030,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "fZLyR8EQBdjPaM3DL"
             }
@@ -2830,6 +3058,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRectBambooS01"
             },
             "hha_category": {
                 "NULL": true
@@ -2879,6 +3110,9 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_category": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "Zsefv3Y8qxYqEy3HE"
             }
@@ -2904,6 +3138,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRectBambooM01"
             },
             "hha_category": {
                 "NULL": true
@@ -2953,6 +3190,9 @@
             "size_2": {
                 "N": "2.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "yC3qR56GTSs3PZuJi"
             }
@@ -2978,6 +3218,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugSquareWoodS03"
             },
             "hha_category": {
                 "NULL": true
@@ -3027,6 +3270,9 @@
             "size_2": {
                 "N": "2.0"
             },
+            "size_category": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "RTxLCmZR43xEhpShK"
             }
@@ -3052,6 +3298,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugSquareStoneS01"
             },
             "hha_category": {
                 "NULL": true
@@ -3101,6 +3350,9 @@
             "size_2": {
                 "N": "2.0"
             },
+            "size_category": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "bJHqqykWdvmzJ9EJT"
             }
@@ -3126,6 +3378,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRectDisplayStandS02"
             },
             "hha_category": {
                 "NULL": true
@@ -3175,6 +3430,9 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_category": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "x2syTNwYeaW4Mxq87"
             }
@@ -3200,6 +3458,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugSquareDisplayStandS02"
             },
             "hha_category": {
                 "NULL": true
@@ -3249,6 +3510,9 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_category": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "4mY6nD2swycxSXQku"
             }
@@ -3274,6 +3538,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRoundEarthM00"
             },
             "hha_category": {
                 "NULL": true
@@ -3323,6 +3590,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "RPF9JQeXN8cD4afuE"
             }
@@ -3348,6 +3618,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugSquareElegantL01"
             },
             "hha_category": {
                 "NULL": true
@@ -3397,6 +3670,9 @@
             "size_2": {
                 "N": "4.0"
             },
+            "size_category": {
+                "S": "Large"
+            },
             "unique_entry_id": {
                 "S": "uz8vNGT54vMG3XjvJ"
             }
@@ -3422,6 +3698,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugSquareElegantL02"
             },
             "hha_category": {
                 "NULL": true
@@ -3471,6 +3750,9 @@
             "size_2": {
                 "N": "4.0"
             },
+            "size_category": {
+                "S": "Large"
+            },
             "unique_entry_id": {
                 "S": "FqtWjzFN4t2zfbSFw"
             }
@@ -3496,6 +3778,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugSquareElegantL03"
             },
             "hha_category": {
                 "NULL": true
@@ -3545,6 +3830,9 @@
             "size_2": {
                 "N": "4.0"
             },
+            "size_category": {
+                "S": "Large"
+            },
             "unique_entry_id": {
                 "S": "Lrv8sqJR58fnEBoCH"
             }
@@ -3570,6 +3858,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugSquareElegantL00"
             },
             "hha_category": {
                 "NULL": true
@@ -3619,6 +3910,9 @@
             "size_2": {
                 "N": "4.0"
             },
+            "size_category": {
+                "S": "Large"
+            },
             "unique_entry_id": {
                 "S": "TFoCKovb9EWhomZRA"
             }
@@ -3644,6 +3938,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugSquareChristmasL00"
             },
             "hha_category": {
                 "NULL": true
@@ -3693,6 +3990,9 @@
             "size_2": {
                 "N": "4.0"
             },
+            "size_category": {
+                "S": "Large"
+            },
             "unique_entry_id": {
                 "S": "gtnhB8Je9YTRgmJgE"
             }
@@ -3718,6 +4018,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugOtherFishM00"
             },
             "hha_category": {
                 "NULL": true
@@ -3767,6 +4070,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "iWb2Ca8YMDYnpyDrx"
             }
@@ -3792,6 +4098,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugOtherCloudM00"
             },
             "hha_category": {
                 "NULL": true
@@ -3841,6 +4150,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "DKPzh943uZYKHKsX7"
             }
@@ -3866,6 +4178,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugOtherFootballM00"
             },
             "hha_category": {
                 "NULL": true
@@ -3915,6 +4230,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "r5zaZS3Ar6oHTkTGM"
             }
@@ -3940,6 +4258,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugOtherFossilM00"
             },
             "hha_category": {
                 "NULL": true
@@ -3989,6 +4310,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "P2tKuDsb8sxfpKXh3"
             }
@@ -4014,6 +4338,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugSquareIceS00"
             },
             "hha_category": {
                 "NULL": true
@@ -4063,6 +4390,9 @@
             "size_2": {
                 "N": "2.0"
             },
+            "size_category": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "RLGupv2AHKtPZSiMu"
             }
@@ -4088,6 +4418,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRectGlowMossM00"
             },
             "hha_category": {
                 "NULL": true
@@ -4137,6 +4470,9 @@
             "size_2": {
                 "N": "2.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "h4TbbaAX8yuK99GcD"
             }
@@ -4162,6 +4498,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugSquareBrickS01"
             },
             "hha_category": {
                 "NULL": true
@@ -4211,6 +4550,9 @@
             "size_2": {
                 "N": "2.0"
             },
+            "size_category": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "ioDyQEaC2DhRyXQ67"
             }
@@ -4236,6 +4578,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugSquareTileS00"
             },
             "hha_category": {
                 "NULL": true
@@ -4285,6 +4630,9 @@
             "size_2": {
                 "N": "2.0"
             },
+            "size_category": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "BwxnCvAdHi2ipphjj"
             }
@@ -4310,6 +4658,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRectBambooBathmatS00"
             },
             "hha_category": {
                 "NULL": true
@@ -4359,6 +4710,9 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_category": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "ZB86Sp2wk7jjmPFf8"
             }
@@ -4384,6 +4738,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugSquareCheckQuiltL03"
             },
             "hha_category": {
                 "NULL": true
@@ -4433,6 +4790,9 @@
             "size_2": {
                 "N": "4.0"
             },
+            "size_category": {
+                "S": "Large"
+            },
             "unique_entry_id": {
                 "S": "hAYpTXLShJh7p5gcB"
             }
@@ -4458,6 +4818,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRectMatM02"
             },
             "hha_category": {
                 "NULL": true
@@ -4507,6 +4870,9 @@
             "size_2": {
                 "N": "2.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "x2HEgGGPNS9b5tgGD"
             }
@@ -4532,6 +4898,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRectChinamatS01"
             },
             "hha_category": {
                 "NULL": true
@@ -4581,6 +4950,9 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_category": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "HSAXrcHbfgF4KEG5F"
             }
@@ -4606,6 +4978,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugSquareHawaiianL03"
             },
             "hha_category": {
                 "NULL": true
@@ -4655,6 +5030,9 @@
             "size_2": {
                 "N": "4.0"
             },
+            "size_category": {
+                "S": "Large"
+            },
             "unique_entry_id": {
                 "S": "KosWdPvmbZa9LCDn8"
             }
@@ -4680,6 +5058,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugSquareKirimL02"
             },
             "hha_category": {
                 "NULL": true
@@ -4729,6 +5110,9 @@
             "size_2": {
                 "N": "5.0"
             },
+            "size_category": {
+                "S": "Large"
+            },
             "unique_entry_id": {
                 "S": "86w3TxnYsZLSzeX2q"
             }
@@ -4754,6 +5138,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRectKitchenS03"
             },
             "hha_category": {
                 "NULL": true
@@ -4803,6 +5190,9 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_category": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "QpRcMgKRTNvayFdy9"
             }
@@ -4828,6 +5218,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugSquareShaggyL00"
             },
             "hha_category": {
                 "NULL": true
@@ -4877,6 +5270,9 @@
             "size_2": {
                 "N": "5.0"
             },
+            "size_category": {
+                "S": "Large"
+            },
             "unique_entry_id": {
                 "S": "hNWup2nSxzMMsGfyy"
             }
@@ -4902,6 +5298,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRectBorderL03"
             },
             "hha_category": {
                 "NULL": true
@@ -4951,6 +5350,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Large"
+            },
             "unique_entry_id": {
                 "S": "DEEzqeCYXaxA8i63W"
             }
@@ -4976,6 +5378,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugOtherKittyM00"
             },
             "hha_category": {
                 "NULL": true
@@ -5025,6 +5430,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "gk42LeDJJsjsTeGfv"
             }
@@ -5050,6 +5458,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugSquareChinaL00"
             },
             "hha_category": {
                 "NULL": true
@@ -5099,6 +5510,9 @@
             "size_2": {
                 "N": "4.0"
             },
+            "size_category": {
+                "S": "Large"
+            },
             "unique_entry_id": {
                 "S": "ggoGewuex9epXNZaB"
             }
@@ -5124,6 +5538,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRectIronmatS00"
             },
             "hha_category": {
                 "NULL": true
@@ -5173,6 +5590,9 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_category": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "KaHhjd5QbpmmmhkCg"
             }
@@ -5198,6 +5618,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRoundSimpleM00"
             },
             "hha_category": {
                 "NULL": true
@@ -5247,6 +5670,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "ucw27wEffTFj9DK4v"
             }
@@ -5272,6 +5698,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRectBathmatS00"
             },
             "hha_category": {
                 "NULL": true
@@ -5321,6 +5750,9 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_category": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "iFx2DHj9qJsY8vzsT"
             }
@@ -5346,6 +5778,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRoundSimpleS00"
             },
             "hha_category": {
                 "NULL": true
@@ -5395,6 +5830,9 @@
             "size_2": {
                 "N": "2.0"
             },
+            "size_category": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "8to7AD6FkrkZkaKX5"
             }
@@ -5420,6 +5858,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRoundKeroppiM00"
             },
             "hha_category": {
                 "NULL": true
@@ -5469,6 +5910,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "smABvGpiNirHZ449q"
             }
@@ -5494,6 +5938,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugOtherKikilalaM00"
             },
             "hha_category": {
                 "NULL": true
@@ -5543,6 +5990,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "7t6nDHA4oEok4fjPr"
             }
@@ -5568,6 +6018,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRoundLaceM00"
             },
             "hha_category": {
                 "NULL": true
@@ -5617,6 +6070,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "bzWc6Hh3tAnYcgh3f"
             }
@@ -5642,6 +6098,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRoundLadybirdM00"
             },
             "hha_category": {
                 "NULL": true
@@ -5691,6 +6150,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "T7T3r6GJqfhndy5xp"
             }
@@ -5716,6 +6178,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugOtherMarioBM00"
             },
             "hha_category": {
                 "NULL": true
@@ -5765,6 +6230,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "H66iRYRxAHNP8bZdf"
             }
@@ -5790,6 +6258,9 @@
             },
             "exchange_price": {
                 "N": "1800"
+            },
+            "filename": {
+                "S": "RugSquarePatternL00"
             },
             "hha_category": {
                 "NULL": true
@@ -5839,6 +6310,9 @@
             "size_2": {
                 "N": "4.0"
             },
+            "size_category": {
+                "S": "Large"
+            },
             "unique_entry_id": {
                 "S": "9Nsr7mTBvgd4R7sxR"
             }
@@ -5864,6 +6338,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRectBambooS00"
             },
             "hha_category": {
                 "NULL": true
@@ -5913,6 +6390,9 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_category": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "c8ssiZHTGjWaSrBtw"
             }
@@ -5938,6 +6418,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRectBambooM00"
             },
             "hha_category": {
                 "NULL": true
@@ -5987,6 +6470,9 @@
             "size_2": {
                 "N": "2.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "c34AemWJDW8WvYGrm"
             }
@@ -6012,6 +6498,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugSquareWoodS00"
             },
             "hha_category": {
                 "NULL": true
@@ -6061,6 +6550,9 @@
             "size_2": {
                 "N": "2.0"
             },
+            "size_category": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "iTXijyHZredEYXZDZ"
             }
@@ -6086,6 +6578,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugSquareStoneS00"
             },
             "hha_category": {
                 "NULL": true
@@ -6135,6 +6630,9 @@
             "size_2": {
                 "N": "2.0"
             },
+            "size_category": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "MPfMGMqdjmur7L67z"
             }
@@ -6160,6 +6658,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugOtherAnimalM01"
             },
             "hha_category": {
                 "NULL": true
@@ -6209,6 +6710,9 @@
             "size_2": {
                 "N": "2.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "oe9tHv9xzH3pgEPvJ"
             }
@@ -6234,6 +6738,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRectDisplayStandS00"
             },
             "hha_category": {
                 "NULL": true
@@ -6283,6 +6790,9 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_category": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "E2TyniSoRxLaPTe7P"
             }
@@ -6308,6 +6818,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugSquareDisplayStandS00"
             },
             "hha_category": {
                 "NULL": true
@@ -6357,6 +6870,9 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_category": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "3oPdNhD9Q9ueWso2N"
             }
@@ -6382,6 +6898,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRoundMagicM00"
             },
             "hha_category": {
                 "NULL": true
@@ -6431,6 +6950,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "77PHyfuxLmPTgriT2"
             }
@@ -6456,6 +6978,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugOtherMapleM00"
             },
             "hha_category": {
                 "NULL": true
@@ -6505,6 +7030,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "2SeNZcru6oTK6S8YJ"
             }
@@ -6530,6 +7058,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugOtherMermaidM00"
             },
             "hha_category": {
                 "NULL": true
@@ -6579,6 +7110,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "WfJHsYQ4KETP2yDEs"
             }
@@ -6604,6 +7138,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRectWaveL00"
             },
             "hha_category": {
                 "NULL": true
@@ -6653,6 +7190,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Large"
+            },
             "unique_entry_id": {
                 "S": "tfdJqWZ2ETosBdHem"
             }
@@ -6678,6 +7218,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRectMomS00"
             },
             "hha_category": {
                 "NULL": true
@@ -6727,6 +7270,9 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_category": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "QR6HWdrKgLeoFAkzR"
             }
@@ -6752,6 +7298,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRectMomS02"
             },
             "hha_category": {
                 "NULL": true
@@ -6801,6 +7350,9 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_category": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "MvLXeraTpCoKRqmWA"
             }
@@ -6826,6 +7378,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRectMomS01"
             },
             "hha_category": {
                 "NULL": true
@@ -6875,6 +7430,9 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_category": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "3F5HHssaHXMit7YMH"
             }
@@ -6900,6 +7458,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRectMomS03"
             },
             "hha_category": {
                 "NULL": true
@@ -6949,6 +7510,9 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_category": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "pe2KbbDbmkWPyd56c"
             }
@@ -6974,6 +7538,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRectDotL00"
             },
             "hha_category": {
                 "NULL": true
@@ -7023,6 +7590,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Large"
+            },
             "unique_entry_id": {
                 "S": "n7kdsLeGa9sFzPfYR"
             }
@@ -7048,6 +7618,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRectWaveL01"
             },
             "hha_category": {
                 "NULL": true
@@ -7097,6 +7670,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Large"
+            },
             "unique_entry_id": {
                 "S": "KEQx7PcEYYP5C8QGW"
             }
@@ -7122,6 +7698,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRoundMoonM00"
             },
             "hha_category": {
                 "NULL": true
@@ -7171,6 +7750,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "ZSc6ADmEcAnG92DWv"
             }
@@ -7196,6 +7778,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugOtherMushM00"
             },
             "hha_category": {
                 "NULL": true
@@ -7245,6 +7830,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "deKdNh2bu4udJ5zYx"
             }
@@ -7270,6 +7858,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugOtherMymelodyM00"
             },
             "hha_category": {
                 "NULL": true
@@ -7319,6 +7910,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "yrbMifhEWhbM6A7nv"
             }
@@ -7344,6 +7938,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRectDeckM01"
             },
             "hha_category": {
                 "NULL": true
@@ -7393,6 +7990,9 @@
             "size_2": {
                 "N": "2.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "4xyhHztk2b3GbRKu6"
             }
@@ -7418,6 +8018,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRectDisplayStandS01"
             },
             "hha_category": {
                 "NULL": true
@@ -7467,6 +8070,9 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_category": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "AZNySSdAmQkzWn6XX"
             }
@@ -7492,6 +8098,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugSquareDisplayStandS01"
             },
             "hha_category": {
                 "NULL": true
@@ -7541,6 +8150,9 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_category": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "pfHmxKED8rbMj57XC"
             }
@@ -7566,6 +8178,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugSquareWoodS02"
             },
             "hha_category": {
                 "NULL": true
@@ -7615,6 +8230,9 @@
             "size_2": {
                 "N": "2.0"
             },
+            "size_category": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "yhxQcsvCcLgMFcCmN"
             }
@@ -7640,6 +8258,9 @@
             },
             "exchange_price": {
                 "N": "1000"
+            },
+            "filename": {
+                "S": "RugOtherTanukiM00"
             },
             "hha_category": {
                 "NULL": true
@@ -7689,6 +8310,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "WiHenFMXuxj7q2rgq"
             }
@@ -7714,6 +8338,9 @@
             },
             "exchange_price": {
                 "N": "1000"
+            },
+            "filename": {
+                "S": "RugOtherLeafM00"
             },
             "hha_category": {
                 "NULL": true
@@ -7763,6 +8390,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "HFmdcXn43ApSRKdk4"
             }
@@ -7788,6 +8418,9 @@
             },
             "exchange_price": {
                 "N": "600"
+            },
+            "filename": {
+                "S": "RugRectTanukiL00"
             },
             "hha_category": {
                 "NULL": true
@@ -7837,6 +8470,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Large"
+            },
             "unique_entry_id": {
                 "S": "XQ72LLzAakWbavKFr"
             }
@@ -7862,6 +8498,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugOtherOrangeM00"
             },
             "hha_category": {
                 "NULL": true
@@ -7911,6 +8550,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "cXGa9CDpwXcCMzQw2"
             }
@@ -7936,6 +8578,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugOtherCountryS00"
             },
             "hha_category": {
                 "NULL": true
@@ -7985,6 +8630,9 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_category": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "TJaw3inQooLN9DXGt"
             }
@@ -8010,6 +8658,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugSquareCheckQuiltL02"
             },
             "hha_category": {
                 "NULL": true
@@ -8059,6 +8710,9 @@
             "size_2": {
                 "N": "4.0"
             },
+            "size_category": {
+                "S": "Large"
+            },
             "unique_entry_id": {
                 "S": "QLtQLYyCeg7A28tzC"
             }
@@ -8084,6 +8738,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugOtherPeachM00"
             },
             "hha_category": {
                 "NULL": true
@@ -8133,6 +8790,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "tqGgxHpeDfRCGRrjY"
             }
@@ -8158,6 +8818,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRectBorderL01"
             },
             "hha_category": {
                 "NULL": true
@@ -8207,6 +8870,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Large"
+            },
             "unique_entry_id": {
                 "S": "LGhZCR8PgGQJYqST9"
             }
@@ -8232,6 +8898,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugOtherPearM00"
             },
             "hha_category": {
                 "NULL": true
@@ -8281,6 +8950,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "hLakk5wPNF2RHRCHR"
             }
@@ -8306,6 +8978,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugSquareHawaiianL02"
             },
             "hha_category": {
                 "NULL": true
@@ -8355,6 +9030,9 @@
             "size_2": {
                 "N": "4.0"
             },
+            "size_category": {
+                "S": "Large"
+            },
             "unique_entry_id": {
                 "S": "SRMw5MpysCbKEKg8t"
             }
@@ -8380,6 +9058,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugOtherHeartM00"
             },
             "hha_category": {
                 "NULL": true
@@ -8429,6 +9110,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "TY5kKqhPpxgifmRJF"
             }
@@ -8454,6 +9138,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugOtherRoseM00"
             },
             "hha_category": {
                 "NULL": true
@@ -8503,6 +9190,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "adYBsXgG3etWwtsds"
             }
@@ -8528,6 +9218,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRectPiratesM00"
             },
             "hha_category": {
                 "NULL": true
@@ -8577,6 +9270,9 @@
             "size_2": {
                 "N": "2.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "RPasRWt9A7bb4h4yv"
             }
@@ -8602,6 +9298,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugOtherPurinM00"
             },
             "hha_category": {
                 "NULL": true
@@ -8651,6 +9350,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "updiXar2svW2mCdva"
             }
@@ -8676,6 +9378,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugOtherHeartM02"
             },
             "hha_category": {
                 "NULL": true
@@ -8725,6 +9430,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "LzB8y9NY5cwZJETQy"
             }
@@ -8750,6 +9458,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugSquarePersianL03"
             },
             "hha_category": {
                 "NULL": true
@@ -8799,6 +9510,9 @@
             "size_2": {
                 "N": "5.0"
             },
+            "size_category": {
+                "S": "Large"
+            },
             "unique_entry_id": {
                 "S": "QzKyWFwcBF6DNoMQS"
             }
@@ -8824,6 +9538,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugSquareShaggyL03"
             },
             "hha_category": {
                 "NULL": true
@@ -8873,6 +9590,9 @@
             "size_2": {
                 "N": "5.0"
             },
+            "size_category": {
+                "S": "Large"
+            },
             "unique_entry_id": {
                 "S": "jYsKTqR44uCHSGbnE"
             }
@@ -8898,6 +9618,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRoundRecordM00"
             },
             "hha_category": {
                 "NULL": true
@@ -8947,6 +9670,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "qj27J9JpEkG9g25Rm"
             }
@@ -8972,6 +9698,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRectArgyleL01"
             },
             "hha_category": {
                 "NULL": true
@@ -9021,6 +9750,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Large"
+            },
             "unique_entry_id": {
                 "S": "JcnvagFXFrtRojuX5"
             }
@@ -9046,6 +9778,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugSquareBlockM00"
             },
             "hha_category": {
                 "NULL": true
@@ -9095,6 +9830,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "PWaKA8fJZfRLdgBjP"
             }
@@ -9120,6 +9858,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugSquareBrickS00"
             },
             "hha_category": {
                 "NULL": true
@@ -9169,6 +9910,9 @@
             "size_2": {
                 "N": "2.0"
             },
+            "size_category": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "8NahbkoGyfbwoySfM"
             }
@@ -9194,6 +9938,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRectElegantM00"
             },
             "hha_category": {
                 "NULL": true
@@ -9243,6 +9990,9 @@
             "size_2": {
                 "N": "2.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "DrZgYBvviB7CGP3nx"
             }
@@ -9268,6 +10018,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRectDotL02"
             },
             "hha_category": {
                 "NULL": true
@@ -9317,6 +10070,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Large"
+            },
             "unique_entry_id": {
                 "S": "6KoyAtx4QA2BuXKea"
             }
@@ -9342,6 +10098,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRectMatM03"
             },
             "hha_category": {
                 "NULL": true
@@ -9391,6 +10150,9 @@
             "size_2": {
                 "N": "2.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "NaSNe8vRWZbAZoebM"
             }
@@ -9416,6 +10178,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRectChinamatS00"
             },
             "hha_category": {
                 "NULL": true
@@ -9465,6 +10230,9 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_category": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "Nn6qx5QZw239ML4j2"
             }
@@ -9490,6 +10258,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugSquareKirimL00"
             },
             "hha_category": {
                 "NULL": true
@@ -9539,6 +10310,9 @@
             "size_2": {
                 "N": "5.0"
             },
+            "size_category": {
+                "S": "Large"
+            },
             "unique_entry_id": {
                 "S": "dhvJNNbRm9qDxXrpJ"
             }
@@ -9564,6 +10338,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRoundSimpleM01"
             },
             "hha_category": {
                 "NULL": true
@@ -9613,6 +10390,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "Ev2FGNQPGqW8Nn7fk"
             }
@@ -9638,6 +10418,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugOtherMessageS03"
             },
             "hha_category": {
                 "NULL": true
@@ -9687,6 +10470,9 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_category": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "uYJPL9oP3tgpZHNhL"
             }
@@ -9712,6 +10498,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugSquarePersianL00"
             },
             "hha_category": {
                 "NULL": true
@@ -9761,6 +10550,9 @@
             "size_2": {
                 "N": "5.0"
             },
+            "size_category": {
+                "S": "Large"
+            },
             "unique_entry_id": {
                 "S": "ToTG8debi3YH93yqJ"
             }
@@ -9786,6 +10578,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugOtherRoseM01"
             },
             "hha_category": {
                 "NULL": true
@@ -9835,6 +10630,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "cXt7bSZGo8G4MWZ3x"
             }
@@ -9860,6 +10658,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRoundSimpleS01"
             },
             "hha_category": {
                 "NULL": true
@@ -9909,6 +10710,9 @@
             "size_2": {
                 "N": "2.0"
             },
+            "size_category": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "z6C8NBYbSkshNZG7J"
             }
@@ -9934,6 +10738,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRectVinylM02"
             },
             "hha_category": {
                 "NULL": true
@@ -9983,6 +10790,9 @@
             "size_2": {
                 "N": "2.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "2tPPLjzq42Z8wjtNv"
             }
@@ -10008,6 +10818,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugOtherWatermelonM00"
             },
             "hha_category": {
                 "NULL": true
@@ -10057,6 +10870,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "uAFL2apYYrYEZksq3"
             }
@@ -10082,6 +10898,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRectWaveL03"
             },
             "hha_category": {
                 "NULL": true
@@ -10131,6 +10950,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Large"
+            },
             "unique_entry_id": {
                 "S": "pPTXqs45y6k23f62j"
             }
@@ -10156,6 +10978,9 @@
             },
             "exchange_price": {
                 "N": "4"
+            },
+            "filename": {
+                "S": "RugRectJuneBrideM02"
             },
             "hha_category": {
                 "NULL": true
@@ -10205,6 +11030,9 @@
             "size_2": {
                 "N": "2.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "LmxrQZwL5HrEzsHqK"
             }
@@ -10230,6 +11058,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugSquareCheckQuiltL00"
             },
             "hha_category": {
                 "NULL": true
@@ -10279,6 +11110,9 @@
             "size_2": {
                 "N": "4.0"
             },
+            "size_category": {
+                "S": "Large"
+            },
             "unique_entry_id": {
                 "S": "zrouM9QCzYKg3kBcc"
             }
@@ -10304,6 +11138,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRectNativeKitchenS00"
             },
             "hha_category": {
                 "NULL": true
@@ -10353,6 +11190,9 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_category": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "7KtKd8P5tbGSfG2qZ"
             }
@@ -10378,6 +11218,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRectDotL01"
             },
             "hha_category": {
                 "NULL": true
@@ -10427,6 +11270,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Large"
+            },
             "unique_entry_id": {
                 "S": "29Pm3PcqEJ3nP36sh"
             }
@@ -10452,6 +11298,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRectDoormatS00"
             },
             "hha_category": {
                 "NULL": true
@@ -10501,6 +11350,9 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_category": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "oEg77tXhJ6GReb7gp"
             }
@@ -10526,6 +11378,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRoundGlowMossS00"
             },
             "hha_category": {
                 "NULL": true
@@ -10575,6 +11430,9 @@
             "size_2": {
                 "N": "2.0"
             },
+            "size_category": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "hBAApWnka5p3taup2"
             }
@@ -10600,6 +11458,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRoundVineS00"
             },
             "hha_category": {
                 "NULL": true
@@ -10649,6 +11510,9 @@
             "size_2": {
                 "N": "2.0"
             },
+            "size_category": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "4swv5cokrfFG3Pvpw"
             }
@@ -10674,6 +11538,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRectRubberScraperS00"
             },
             "hha_category": {
                 "NULL": true
@@ -10723,6 +11590,9 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_category": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "Er4wGFd53SAq3zsGX"
             }
@@ -10748,6 +11618,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugOtherShamrockM00"
             },
             "hha_category": {
                 "NULL": true
@@ -10797,6 +11670,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "FcnuoWDXY7oGanq74"
             }
@@ -10822,6 +11698,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugSquareOldStrawL00"
             },
             "hha_category": {
                 "NULL": true
@@ -10871,6 +11750,9 @@
             "size_2": {
                 "N": "4.0"
             },
+            "size_category": {
+                "S": "Large"
+            },
             "unique_entry_id": {
                 "S": "jLR8r3aHpRe4yJyxA"
             }
@@ -10896,6 +11778,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugOtherShellM00"
             },
             "hha_category": {
                 "NULL": true
@@ -10945,6 +11830,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "kC3KJRKazh5c6m2uN"
             }
@@ -10970,6 +11858,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRectEntranceS00"
             },
             "hha_category": {
                 "NULL": true
@@ -11019,6 +11910,9 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_category": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "sgqHLSNKe9ezJFrnL"
             }
@@ -11044,6 +11938,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRectBathmatS03"
             },
             "hha_category": {
                 "NULL": true
@@ -11093,6 +11990,9 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_category": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "zfRhHqsvfBg5D6CJA"
             }
@@ -11118,6 +12018,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugSquareSimpleM03"
             },
             "hha_category": {
                 "NULL": true
@@ -11167,6 +12070,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "9BzJWMCmruohLvY8x"
             }
@@ -11192,6 +12098,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugSquareSimpleM07"
             },
             "hha_category": {
                 "NULL": true
@@ -11241,6 +12150,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "Nmx4FN5RX5LJ2xRF8"
             }
@@ -11266,6 +12178,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugSquareSimpleM02"
             },
             "hha_category": {
                 "NULL": true
@@ -11315,6 +12230,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "7nEjDqYTsZdF3n8Ky"
             }
@@ -11340,6 +12258,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugSquareSimpleM01"
             },
             "hha_category": {
                 "NULL": true
@@ -11389,6 +12310,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "FAqsC7JonfkPt3jc2"
             }
@@ -11414,6 +12338,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugSquareSimpleM05"
             },
             "hha_category": {
                 "NULL": true
@@ -11463,6 +12390,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "Bt6N5gWJJNtdNg8TC"
             }
@@ -11488,6 +12418,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugSquareSimpleM06"
             },
             "hha_category": {
                 "NULL": true
@@ -11537,6 +12470,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "9WryqBnvAMiSF7vJ6"
             }
@@ -11562,6 +12498,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugSquareSimpleM04"
             },
             "hha_category": {
                 "NULL": true
@@ -11611,6 +12550,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "yB22Mz4KP2wbzjYtv"
             }
@@ -11636,6 +12578,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRectBathmatS01"
             },
             "hha_category": {
                 "NULL": true
@@ -11685,6 +12630,9 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_category": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "AZQdF6gMi89DXP9K3"
             }
@@ -11710,6 +12658,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRectBathmatS02"
             },
             "hha_category": {
                 "NULL": true
@@ -11759,6 +12710,9 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_category": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "Lqze8wPcmFatBMFDw"
             }
@@ -11784,6 +12738,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugSquareSimpleS03"
             },
             "hha_category": {
                 "NULL": true
@@ -11833,6 +12790,9 @@
             "size_2": {
                 "N": "2.0"
             },
+            "size_category": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "PKfPEbTw8C55Qc5oH"
             }
@@ -11858,6 +12818,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugSquareSimpleS07"
             },
             "hha_category": {
                 "NULL": true
@@ -11907,6 +12870,9 @@
             "size_2": {
                 "N": "2.0"
             },
+            "size_category": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "uSGDYs7hCuxMBTZbi"
             }
@@ -11932,6 +12898,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugSquareSimpleS02"
             },
             "hha_category": {
                 "NULL": true
@@ -11981,6 +12950,9 @@
             "size_2": {
                 "N": "2.0"
             },
+            "size_category": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "Q7FSQ4q6Hzt2YihKH"
             }
@@ -12006,6 +12978,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugSquareSimpleS01"
             },
             "hha_category": {
                 "NULL": true
@@ -12055,6 +13030,9 @@
             "size_2": {
                 "N": "2.0"
             },
+            "size_category": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "aKCpcBCjrn6wWcyw2"
             }
@@ -12080,6 +13058,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugSquareSimpleS05"
             },
             "hha_category": {
                 "NULL": true
@@ -12129,6 +13110,9 @@
             "size_2": {
                 "N": "2.0"
             },
+            "size_category": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "WomwFGQsQgogZNtQf"
             }
@@ -12154,6 +13138,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugSquareSimpleS06"
             },
             "hha_category": {
                 "NULL": true
@@ -12203,6 +13190,9 @@
             "size_2": {
                 "N": "2.0"
             },
+            "size_category": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "h7wpDFdwKgJs2BvgG"
             }
@@ -12228,6 +13218,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugSquareSimpleS04"
             },
             "hha_category": {
                 "NULL": true
@@ -12277,6 +13270,9 @@
             "size_2": {
                 "N": "2.0"
             },
+            "size_category": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "nRakPP7nXacJB3YHX"
             }
@@ -12302,6 +13298,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugOtherSkullM00"
             },
             "hha_category": {
                 "NULL": true
@@ -12351,6 +13350,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "45XdJjQY2JqipTQ9F"
             }
@@ -12376,6 +13378,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugOtherSloppyL00"
             },
             "hha_category": {
                 "NULL": true
@@ -12425,6 +13430,9 @@
             "size_2": {
                 "N": "4.0"
             },
+            "size_category": {
+                "S": "Large"
+            },
             "unique_entry_id": {
                 "S": "337rrvb9iapfJC4nb"
             }
@@ -12450,6 +13458,9 @@
             },
             "exchange_price": {
                 "N": "900"
+            },
+            "filename": {
+                "S": "RugRectPatternS00"
             },
             "hha_category": {
                 "NULL": true
@@ -12499,6 +13510,9 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_category": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "pTEGa3pxpuMwuwLmJ"
             }
@@ -12524,6 +13538,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRoundSnowM00"
             },
             "hha_category": {
                 "NULL": true
@@ -12573,6 +13590,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "upNaAkxPwQRHP6NXi"
             }
@@ -12598,6 +13618,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugSquareHalloweenL00"
             },
             "hha_category": {
                 "NULL": true
@@ -12647,6 +13670,9 @@
             "size_2": {
                 "N": "4.0"
             },
+            "size_category": {
+                "S": "Large"
+            },
             "unique_entry_id": {
                 "S": "vgzmZDqaGRtrDN7Pv"
             }
@@ -12672,6 +13698,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRoundStageM00"
             },
             "hha_category": {
                 "NULL": true
@@ -12721,6 +13750,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "5ooaYbBht82jjATW9"
             }
@@ -12746,6 +13778,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRoundZodiacM00"
             },
             "hha_category": {
                 "NULL": true
@@ -12795,6 +13830,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "xzKfkAfhP9hgzsRXw"
             }
@@ -12820,6 +13858,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugOtherShellSnailM00"
             },
             "hha_category": {
                 "NULL": true
@@ -12869,6 +13910,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "fBGGF9Cqbudi6cmsk"
             }
@@ -12894,6 +13938,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugOtherSunflowerM00"
             },
             "hha_category": {
                 "NULL": true
@@ -12943,6 +13990,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "D8jXWc5Nq678JDmpr"
             }
@@ -12968,6 +14018,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRectTatamiM00"
             },
             "hha_category": {
                 "NULL": true
@@ -13017,6 +14070,9 @@
             "size_2": {
                 "N": "2.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "m7efgfNG3HZR6G29s"
             }
@@ -13042,6 +14098,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugOtherStumpM00"
             },
             "hha_category": {
                 "NULL": true
@@ -13091,6 +14150,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "LeZfLvbzy4LHMFotw"
             }
@@ -13116,6 +14178,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRoundIslandM00"
             },
             "hha_category": {
                 "NULL": true
@@ -13165,6 +14230,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "tjgfDcBRhWQrxhjzk"
             }
@@ -13190,6 +14258,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugSquareHarvestL00"
             },
             "hha_category": {
                 "NULL": true
@@ -13239,6 +14310,9 @@
             "size_2": {
                 "N": "4.0"
             },
+            "size_category": {
+                "S": "Large"
+            },
             "unique_entry_id": {
                 "S": "S3E3mJ2PfFsqN6FPq"
             }
@@ -13264,6 +14338,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugOtherHeartM01"
             },
             "hha_category": {
                 "NULL": true
@@ -13313,6 +14390,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "MeN8d4a4YKoFc2zDW"
             }
@@ -13338,6 +14418,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRectMatM00"
             },
             "hha_category": {
                 "NULL": true
@@ -13387,6 +14470,9 @@
             "size_2": {
                 "N": "2.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "PTEdMjQ6RhLp5JNQt"
             }
@@ -13412,6 +14498,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugOtherHeartM03"
             },
             "hha_category": {
                 "NULL": true
@@ -13461,6 +14550,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "ur5qNz9QEkkCEPRDQ"
             }
@@ -13486,6 +14578,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugOtherMessageS00"
             },
             "hha_category": {
                 "NULL": true
@@ -13535,6 +14630,9 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_category": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "ey5h5kDoaHvTgEdkj"
             }
@@ -13560,6 +14658,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugOtherRoseM03"
             },
             "hha_category": {
                 "NULL": true
@@ -13609,6 +14710,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "fWrizz9CC3Lg8apM2"
             }
@@ -13634,6 +14738,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugSquareSimpleM00"
             },
             "hha_category": {
                 "NULL": true
@@ -13683,6 +14790,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "vXD2oADv2fg4QRCp6"
             }
@@ -13708,6 +14818,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugSquareSimpleS00"
             },
             "hha_category": {
                 "NULL": true
@@ -13757,6 +14870,9 @@
             "size_2": {
                 "N": "2.0"
             },
+            "size_category": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "vhxZi6oAZWm9gxRfK"
             }
@@ -13782,6 +14898,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugSquareWoodS01"
             },
             "hha_category": {
                 "NULL": true
@@ -13831,6 +14950,9 @@
             "size_2": {
                 "N": "2.0"
             },
+            "size_category": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "AybYhmrNqDQF7nmwA"
             }
@@ -13856,6 +14978,9 @@
             },
             "exchange_price": {
                 "N": "4"
+            },
+            "filename": {
+                "S": "RugRectJuneBrideM03"
             },
             "hha_category": {
                 "NULL": true
@@ -13905,6 +15030,9 @@
             "size_2": {
                 "N": "2.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "At7cbGksXn6rvhkQr"
             }
@@ -13930,6 +15058,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRectDeckM02"
             },
             "hha_category": {
                 "NULL": true
@@ -13979,6 +15110,9 @@
             "size_2": {
                 "N": "2.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "nmBMJkGHnxGdzYzzP"
             }
@@ -14004,6 +15138,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRectDisplayStandS03"
             },
             "hha_category": {
                 "NULL": true
@@ -14053,6 +15190,9 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_category": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "MnwwbhGePuQcNsm7C"
             }
@@ -14078,6 +15218,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugSquareDisplayStandS03"
             },
             "hha_category": {
                 "NULL": true
@@ -14127,6 +15270,9 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_category": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "QDuruxueRohGJyFPh"
             }
@@ -14152,6 +15298,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRectArgyleL00"
             },
             "hha_category": {
                 "NULL": true
@@ -14201,6 +15350,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Large"
+            },
             "unique_entry_id": {
                 "S": "TEzohiZZfTSxoSNpd"
             }
@@ -14226,6 +15378,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRectBambooBathmatS01"
             },
             "hha_category": {
                 "NULL": true
@@ -14275,6 +15430,9 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_category": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "hKGKs9oChoax3Qkqp"
             }
@@ -14300,6 +15458,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugSquareBlockM02"
             },
             "hha_category": {
                 "NULL": true
@@ -14349,6 +15510,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "Gb4rwvjZv74CDT8qE"
             }
@@ -14374,6 +15538,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugSquareCheckQuiltL01"
             },
             "hha_category": {
                 "NULL": true
@@ -14423,6 +15590,9 @@
             "size_2": {
                 "N": "4.0"
             },
+            "size_category": {
+                "S": "Large"
+            },
             "unique_entry_id": {
                 "S": "GdqeFkwTpKJLFQpyK"
             }
@@ -14448,6 +15618,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugSquareHawaiianL01"
             },
             "hha_category": {
                 "NULL": true
@@ -14497,6 +15670,9 @@
             "size_2": {
                 "N": "4.0"
             },
+            "size_category": {
+                "S": "Large"
+            },
             "unique_entry_id": {
                 "S": "rsqpEquuEaidZAdjW"
             }
@@ -14522,6 +15698,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugSquareKirimL03"
             },
             "hha_category": {
                 "NULL": true
@@ -14571,6 +15750,9 @@
             "size_2": {
                 "N": "5.0"
             },
+            "size_category": {
+                "S": "Large"
+            },
             "unique_entry_id": {
                 "S": "274gPov62L9zR3onG"
             }
@@ -14596,6 +15778,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRectKitchenS01"
             },
             "hha_category": {
                 "NULL": true
@@ -14645,6 +15830,9 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_category": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "CyGFnLgFnD3jrgKio"
             }
@@ -14670,6 +15858,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRoundSimpleM03"
             },
             "hha_category": {
                 "NULL": true
@@ -14719,6 +15910,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "TfKNppy5CiswuZGSw"
             }
@@ -14744,6 +15938,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugOtherMessageS02"
             },
             "hha_category": {
                 "NULL": true
@@ -14793,6 +15990,9 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_category": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "6NpR38JASvkZDezYq"
             }
@@ -14818,6 +16018,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugSquarePersianL02"
             },
             "hha_category": {
                 "NULL": true
@@ -14867,6 +16070,9 @@
             "size_2": {
                 "N": "5.0"
             },
+            "size_category": {
+                "S": "Large"
+            },
             "unique_entry_id": {
                 "S": "HdsBjfD2ongYrBt5m"
             }
@@ -14892,6 +16098,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugOtherRoseM02"
             },
             "hha_category": {
                 "NULL": true
@@ -14941,6 +16150,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "jta8sYzY36aqcjp3T"
             }
@@ -14966,6 +16178,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRoundSimpleS03"
             },
             "hha_category": {
                 "NULL": true
@@ -15015,6 +16230,9 @@
             "size_2": {
                 "N": "2.0"
             },
+            "size_category": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "FS2ZvZLcRQDHp6hHr"
             }
@@ -15040,6 +16258,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugOtherStarM00"
             },
             "hha_category": {
                 "NULL": true
@@ -15089,6 +16310,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "7CPoE3KPnJ3SqK4Mk"
             }
@@ -15114,6 +16338,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRectBorderL00"
             },
             "hha_category": {
                 "NULL": true
@@ -15163,6 +16390,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Large"
+            },
             "unique_entry_id": {
                 "S": "mJP9gz2YZAcQsWELE"
             }
@@ -15188,6 +16418,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRectVinylM03"
             },
             "hha_category": {
                 "NULL": true
@@ -15237,6 +16470,9 @@
             "size_2": {
                 "N": "2.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "8tMeC24TcYdot9ZuC"
             }
@@ -15262,6 +16498,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugOtherWatermelonM01"
             },
             "hha_category": {
                 "NULL": true
@@ -15311,6 +16550,9 @@
             "size_2": {
                 "N": "3.0"
             },
+            "size_category": {
+                "S": "Medium"
+            },
             "unique_entry_id": {
                 "S": "a7xgXP8K6df43NCBQ"
             }
@@ -15336,6 +16578,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugRectNativeKitchenS02"
             },
             "hha_category": {
                 "NULL": true
@@ -15385,6 +16630,9 @@
             "size_2": {
                 "N": "1.0"
             },
+            "size_category": {
+                "S": "Small"
+            },
             "unique_entry_id": {
                 "S": "B76hfTkYR2vm96Hfd"
             }
@@ -15410,6 +16658,9 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename": {
+                "S": "RugOtherMarioAM00"
             },
             "hha_category": {
                 "NULL": true
@@ -15458,6 +16709,9 @@
             },
             "size_2": {
                 "N": "3.0"
+            },
+            "size_category": {
+                "S": "Medium"
             },
             "unique_entry_id": {
                 "S": "CfuABFvYQYNAKQcR6"
