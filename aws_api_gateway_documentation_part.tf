@@ -15,7 +15,7 @@ resource "aws_api_gateway_documentation_part" "achievement_GET" {
     path   = "/achievement"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/achievement/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -38,7 +38,7 @@ resource "aws_api_gateway_documentation_part" "achievement_POST" {
     path   = "/achievement"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/POST/achievement/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -71,7 +71,7 @@ resource "aws_api_gateway_documentation_part" "achievement_id_GET" {
     path   = "/achievement/{id}"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/achievement/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -113,7 +113,7 @@ resource "aws_api_gateway_documentation_part" "card_GET" {
     path   = "/card"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/card/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -136,7 +136,7 @@ resource "aws_api_gateway_documentation_part" "card_POST" {
     path   = "/card"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/POST/card/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -169,7 +169,7 @@ resource "aws_api_gateway_documentation_part" "card_id_GET" {
     path   = "/card/{id}"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/card/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -202,7 +202,7 @@ resource "aws_api_gateway_documentation_part" "clothing_accessory_GET" {
     path   = "/clothing_accessory"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/clothing_accessory/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -225,7 +225,7 @@ resource "aws_api_gateway_documentation_part" "clothing_accessory_POST" {
     path   = "/clothing_accessory"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/POST/clothing_accessory/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -258,7 +258,7 @@ resource "aws_api_gateway_documentation_part" "clothing_accessory_id_GET" {
     path   = "/clothing_accessory/{id}"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/clothing_accessory/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -291,7 +291,7 @@ resource "aws_api_gateway_documentation_part" "clothing_bag_GET" {
     path   = "/clothing_bag"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/clothing_bag/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -314,7 +314,7 @@ resource "aws_api_gateway_documentation_part" "clothing_bag_POST" {
     path   = "/clothing_bag"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/POST/clothing_bag/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -347,7 +347,7 @@ resource "aws_api_gateway_documentation_part" "clothing_bag_id_GET" {
     path   = "/clothing_bag/{id}"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/clothing_bag/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -380,7 +380,7 @@ resource "aws_api_gateway_documentation_part" "clothing_bottom_GET" {
     path   = "/clothing_bottom"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/clothing_bottom/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -403,7 +403,7 @@ resource "aws_api_gateway_documentation_part" "clothing_bottom_POST" {
     path   = "/clothing_bottom"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/POST/clothing_bottom/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -436,7 +436,7 @@ resource "aws_api_gateway_documentation_part" "clothing_bottom_id_GET" {
     path   = "/clothing_bottom/{id}"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/clothing_bottom/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -469,7 +469,7 @@ resource "aws_api_gateway_documentation_part" "clothing_dress_up_GET" {
     path   = "/clothing_dress_up"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/clothing_dress_up/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -492,7 +492,7 @@ resource "aws_api_gateway_documentation_part" "clothing_dress_up_POST" {
     path   = "/clothing_dress_up"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/POST/clothing_dress_up/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -525,7 +525,7 @@ resource "aws_api_gateway_documentation_part" "clothing_dress_up_id_GET" {
     path   = "/clothing_dress_up/{id}"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/clothing_dress_up/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -558,7 +558,7 @@ resource "aws_api_gateway_documentation_part" "clothing_headwear_GET" {
     path   = "/clothing_headwear"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/clothing_headwear/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -581,7 +581,7 @@ resource "aws_api_gateway_documentation_part" "clothing_headwear_POST" {
     path   = "/clothing_headwear"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/POST/clothing_headwear/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -614,7 +614,7 @@ resource "aws_api_gateway_documentation_part" "clothing_headwear_id_GET" {
     path   = "/clothing_headwear/{id}"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/clothing_headwear/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -647,7 +647,7 @@ resource "aws_api_gateway_documentation_part" "clothing_other_GET" {
     path   = "/clothing_other"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/clothing_other/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -670,7 +670,7 @@ resource "aws_api_gateway_documentation_part" "clothing_other_POST" {
     path   = "/clothing_other"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/POST/clothing_other/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -703,7 +703,7 @@ resource "aws_api_gateway_documentation_part" "clothing_other_id_GET" {
     path   = "/clothing_other/{id}"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/clothing_other/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -736,7 +736,7 @@ resource "aws_api_gateway_documentation_part" "clothing_shoe_GET" {
     path   = "/clothing_shoe"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/clothing_shoe/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -759,7 +759,7 @@ resource "aws_api_gateway_documentation_part" "clothing_shoe_POST" {
     path   = "/clothing_shoe"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/POST/clothing_shoe/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -792,7 +792,7 @@ resource "aws_api_gateway_documentation_part" "clothing_shoe_id_GET" {
     path   = "/clothing_shoe/{id}"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/clothing_shoe/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -825,7 +825,7 @@ resource "aws_api_gateway_documentation_part" "clothing_sock_GET" {
     path   = "/clothing_sock"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/clothing_sock/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -848,7 +848,7 @@ resource "aws_api_gateway_documentation_part" "clothing_sock_POST" {
     path   = "/clothing_sock"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/POST/clothing_sock/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -881,7 +881,7 @@ resource "aws_api_gateway_documentation_part" "clothing_sock_id_GET" {
     path   = "/clothing_sock/{id}"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/clothing_sock/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -914,7 +914,7 @@ resource "aws_api_gateway_documentation_part" "clothing_top_GET" {
     path   = "/clothing_top"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/clothing_top/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -937,7 +937,7 @@ resource "aws_api_gateway_documentation_part" "clothing_top_POST" {
     path   = "/clothing_top"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/POST/clothing_top/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -970,7 +970,7 @@ resource "aws_api_gateway_documentation_part" "clothing_top_id_GET" {
     path   = "/clothing_top/{id}"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/clothing_top/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1003,7 +1003,7 @@ resource "aws_api_gateway_documentation_part" "clothing_umbrella_GET" {
     path   = "/clothing_umbrella"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/clothing_umbrella/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1026,7 +1026,7 @@ resource "aws_api_gateway_documentation_part" "clothing_umbrella_POST" {
     path   = "/clothing_umbrella"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/POST/clothing_umbrella/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1059,7 +1059,7 @@ resource "aws_api_gateway_documentation_part" "clothing_umbrella_id_GET" {
     path   = "/clothing_umbrella/{id}"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/clothing_umbrella/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1092,7 +1092,7 @@ resource "aws_api_gateway_documentation_part" "construction_GET" {
     path   = "/construction"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/construction/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1115,7 +1115,7 @@ resource "aws_api_gateway_documentation_part" "construction_POST" {
     path   = "/construction"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/POST/construction/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1148,7 +1148,7 @@ resource "aws_api_gateway_documentation_part" "construction_id_GET" {
     path   = "/construction/{id}"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/construction/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1181,7 +1181,7 @@ resource "aws_api_gateway_documentation_part" "creature_fish_GET" {
     path   = "/creature_fish"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/creature_fish/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1204,7 +1204,7 @@ resource "aws_api_gateway_documentation_part" "creature_fish_POST" {
     path   = "/creature_fish"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/POST/creature_fish/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1237,7 +1237,7 @@ resource "aws_api_gateway_documentation_part" "creature_fish_id_GET" {
     path   = "/creature_fish/{id}"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/creature_fish/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1270,7 +1270,7 @@ resource "aws_api_gateway_documentation_part" "creature_insect_GET" {
     path   = "/creature_insect"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/creature_insect/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1293,7 +1293,7 @@ resource "aws_api_gateway_documentation_part" "creature_insect_POST" {
     path   = "/creature_insect"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/POST/creature_insect/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1326,7 +1326,7 @@ resource "aws_api_gateway_documentation_part" "creature_insect_id_GET" {
     path   = "/creature_insect/{id}"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/creature_insect/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1359,7 +1359,7 @@ resource "aws_api_gateway_documentation_part" "creature_sea_GET" {
     path   = "/creature_sea"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/creature_sea/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1382,7 +1382,7 @@ resource "aws_api_gateway_documentation_part" "creature_sea_POST" {
     path   = "/creature_sea"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/POST/creature_sea/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1415,7 +1415,7 @@ resource "aws_api_gateway_documentation_part" "creature_sea_id_GET" {
     path   = "/creature_sea/{id}"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/creature_sea/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1448,7 +1448,7 @@ resource "aws_api_gateway_documentation_part" "furniture_artwork_GET" {
     path   = "/furniture_artwork"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/furniture_artwork/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1471,7 +1471,7 @@ resource "aws_api_gateway_documentation_part" "furniture_artwork_POST" {
     path   = "/furniture_artwork"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/POST/furniture_artwork/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1504,7 +1504,7 @@ resource "aws_api_gateway_documentation_part" "furniture_artwork_id_GET" {
     path   = "/furniture_artwork/{id}"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/furniture_artwork/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1537,7 +1537,7 @@ resource "aws_api_gateway_documentation_part" "furniture_ceiling_GET" {
     path   = "/furniture_ceiling"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/furniture_ceiling/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1560,7 +1560,7 @@ resource "aws_api_gateway_documentation_part" "furniture_ceiling_POST" {
     path   = "/furniture_ceiling"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/POST/furniture_ceiling/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1593,7 +1593,7 @@ resource "aws_api_gateway_documentation_part" "furniture_ceiling_id_GET" {
     path   = "/furniture_ceiling/{id}"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/furniture_ceiling/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1626,7 +1626,7 @@ resource "aws_api_gateway_documentation_part" "furniture_fencing_GET" {
     path   = "/furniture_fencing"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/furniture_fencing/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1649,7 +1649,7 @@ resource "aws_api_gateway_documentation_part" "furniture_fencing_POST" {
     path   = "/furniture_fencing"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/POST/furniture_fencing/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1682,7 +1682,7 @@ resource "aws_api_gateway_documentation_part" "furniture_fencing_id_GET" {
     path   = "/furniture_fencing/{id}"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/furniture_fencing/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1715,7 +1715,7 @@ resource "aws_api_gateway_documentation_part" "furniture_floor_GET" {
     path   = "/furniture_floor"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/furniture_floor/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1738,7 +1738,7 @@ resource "aws_api_gateway_documentation_part" "furniture_floor_POST" {
     path   = "/furniture_floor"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/POST/furniture_floor/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1771,7 +1771,7 @@ resource "aws_api_gateway_documentation_part" "furniture_floor_id_GET" {
     path   = "/furniture_floor/{id}"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/furniture_floor/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1804,7 +1804,7 @@ resource "aws_api_gateway_documentation_part" "furniture_fossil_GET" {
     path   = "/furniture_fossil"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/furniture_fossil/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1827,7 +1827,7 @@ resource "aws_api_gateway_documentation_part" "furniture_fossil_POST" {
     path   = "/furniture_fossil"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/POST/furniture_fossil/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1860,7 +1860,7 @@ resource "aws_api_gateway_documentation_part" "furniture_fossil_id_GET" {
     path   = "/furniture_fossil/{id}"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/furniture_fossil/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1893,7 +1893,7 @@ resource "aws_api_gateway_documentation_part" "furniture_gyroid_GET" {
     path   = "/furniture_gyroid"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/furniture_gyroid/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1916,7 +1916,7 @@ resource "aws_api_gateway_documentation_part" "furniture_gyroid_POST" {
     path   = "/furniture_gyroid"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/POST/furniture_gyroid/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1949,7 +1949,7 @@ resource "aws_api_gateway_documentation_part" "furniture_gyroid_id_GET" {
     path   = "/furniture_gyroid/{id}"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/furniture_gyroid/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1982,7 +1982,7 @@ resource "aws_api_gateway_documentation_part" "furniture_housewear_GET" {
     path   = "/furniture_housewear"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/furniture_housewear/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2005,7 +2005,7 @@ resource "aws_api_gateway_documentation_part" "furniture_housewear_POST" {
     path   = "/furniture_housewear"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/POST/furniture_housewear/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2038,7 +2038,7 @@ resource "aws_api_gateway_documentation_part" "furniture_housewear_id_GET" {
     path   = "/furniture_housewear/{id}"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/furniture_housewear/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2071,7 +2071,7 @@ resource "aws_api_gateway_documentation_part" "furniture_interior_structure_GET"
     path   = "/furniture_interior_structure"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/furniture_interior_structure/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2094,7 +2094,7 @@ resource "aws_api_gateway_documentation_part" "furniture_interior_structure_POST
     path   = "/furniture_interior_structure"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/POST/furniture_interior_structure/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2127,7 +2127,7 @@ resource "aws_api_gateway_documentation_part" "furniture_interior_structure_id_G
     path   = "/furniture_interior_structure/{id}"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/furniture_interior_structure/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2160,7 +2160,7 @@ resource "aws_api_gateway_documentation_part" "furniture_miscellaneous_GET" {
     path   = "/furniture_miscellaneous"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/furniture_miscellaneous/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2183,7 +2183,7 @@ resource "aws_api_gateway_documentation_part" "furniture_miscellaneous_POST" {
     path   = "/furniture_miscellaneous"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/POST/furniture_miscellaneous/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2216,7 +2216,7 @@ resource "aws_api_gateway_documentation_part" "furniture_miscellaneous_id_GET" {
     path   = "/furniture_miscellaneous/{id}"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/furniture_miscellaneous/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2249,7 +2249,7 @@ resource "aws_api_gateway_documentation_part" "furniture_music_GET" {
     path   = "/furniture_music"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/furniture_music/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2272,7 +2272,7 @@ resource "aws_api_gateway_documentation_part" "furniture_music_POST" {
     path   = "/furniture_music"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/POST/furniture_music/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2305,7 +2305,7 @@ resource "aws_api_gateway_documentation_part" "furniture_music_id_GET" {
     path   = "/furniture_music/{id}"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/furniture_music/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2338,7 +2338,7 @@ resource "aws_api_gateway_documentation_part" "furniture_photo_GET" {
     path   = "/furniture_photo"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/furniture_photo/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2361,7 +2361,7 @@ resource "aws_api_gateway_documentation_part" "furniture_photo_POST" {
     path   = "/furniture_photo"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/POST/furniture_photo/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2394,7 +2394,7 @@ resource "aws_api_gateway_documentation_part" "furniture_photo_id_GET" {
     path   = "/furniture_photo/{id}"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/furniture_photo/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2427,7 +2427,7 @@ resource "aws_api_gateway_documentation_part" "furniture_poster_GET" {
     path   = "/furniture_poster"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/furniture_poster/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2450,7 +2450,7 @@ resource "aws_api_gateway_documentation_part" "furniture_poster_POST" {
     path   = "/furniture_poster"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/POST/furniture_poster/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2483,7 +2483,7 @@ resource "aws_api_gateway_documentation_part" "furniture_poster_id_GET" {
     path   = "/furniture_poster/{id}"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/furniture_poster/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2516,7 +2516,7 @@ resource "aws_api_gateway_documentation_part" "furniture_rug_GET" {
     path   = "/furniture_rug"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/furniture_rug/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2539,7 +2539,7 @@ resource "aws_api_gateway_documentation_part" "furniture_rug_POST" {
     path   = "/furniture_rug"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/POST/furniture_rug/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2572,7 +2572,7 @@ resource "aws_api_gateway_documentation_part" "furniture_rug_id_GET" {
     path   = "/furniture_rug/{id}"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/furniture_rug/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2605,7 +2605,7 @@ resource "aws_api_gateway_documentation_part" "furniture_wall_mounted_GET" {
     path   = "/furniture_wall_mounted"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/furniture_wall_mounted/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2628,7 +2628,7 @@ resource "aws_api_gateway_documentation_part" "furniture_wall_mounted_POST" {
     path   = "/furniture_wall_mounted"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/POST/furniture_wall_mounted/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2661,7 +2661,7 @@ resource "aws_api_gateway_documentation_part" "furniture_wall_mounted_id_GET" {
     path   = "/furniture_wall_mounted/{id}"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/furniture_wall_mounted/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2694,7 +2694,7 @@ resource "aws_api_gateway_documentation_part" "furniture_wallpaper_GET" {
     path   = "/furniture_wallpaper"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/furniture_wallpaper/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2717,7 +2717,7 @@ resource "aws_api_gateway_documentation_part" "furniture_wallpaper_POST" {
     path   = "/furniture_wallpaper"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/POST/furniture_wallpaper/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2750,7 +2750,7 @@ resource "aws_api_gateway_documentation_part" "furniture_wallpaper_id_GET" {
     path   = "/furniture_wallpaper/{id}"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/furniture_wallpaper/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2783,7 +2783,7 @@ resource "aws_api_gateway_documentation_part" "item_GET" {
     path   = "/item"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/item/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2806,7 +2806,7 @@ resource "aws_api_gateway_documentation_part" "item_POST" {
     path   = "/item"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/POST/item/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2839,7 +2839,7 @@ resource "aws_api_gateway_documentation_part" "item_id_GET" {
     path   = "/item/{id}"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/item/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2872,7 +2872,7 @@ resource "aws_api_gateway_documentation_part" "item_other_GET" {
     path   = "/item_other"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/item_other/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2895,7 +2895,7 @@ resource "aws_api_gateway_documentation_part" "item_other_POST" {
     path   = "/item_other"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/POST/item_other/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2928,7 +2928,7 @@ resource "aws_api_gateway_documentation_part" "item_other_id_GET" {
     path   = "/item_other/{id}"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/item_other/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2961,7 +2961,7 @@ resource "aws_api_gateway_documentation_part" "occasion_GET" {
     path   = "/occasion"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/occasion/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2984,7 +2984,7 @@ resource "aws_api_gateway_documentation_part" "occasion_POST" {
     path   = "/occasion"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/POST/occasion/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -3017,7 +3017,7 @@ resource "aws_api_gateway_documentation_part" "occasion_id_GET" {
     path   = "/occasion/{id}"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/occasion/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -3050,7 +3050,7 @@ resource "aws_api_gateway_documentation_part" "paradise_planning_GET" {
     path   = "/paradise_planning"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/paradise_planning/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -3073,7 +3073,7 @@ resource "aws_api_gateway_documentation_part" "paradise_planning_POST" {
     path   = "/paradise_planning"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/POST/paradise_planning/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -3106,7 +3106,7 @@ resource "aws_api_gateway_documentation_part" "paradise_planning_id_GET" {
     path   = "/paradise_planning/{id}"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/paradise_planning/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -3139,7 +3139,7 @@ resource "aws_api_gateway_documentation_part" "reaction_GET" {
     path   = "/reaction"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/reaction/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -3162,7 +3162,7 @@ resource "aws_api_gateway_documentation_part" "reaction_POST" {
     path   = "/reaction"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/POST/reaction/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -3195,7 +3195,7 @@ resource "aws_api_gateway_documentation_part" "reaction_id_GET" {
     path   = "/reaction/{id}"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/reaction/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -3228,7 +3228,7 @@ resource "aws_api_gateway_documentation_part" "recipe_GET" {
     path   = "/recipe"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/recipe/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -3251,7 +3251,7 @@ resource "aws_api_gateway_documentation_part" "recipe_POST" {
     path   = "/recipe"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/POST/recipe/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -3284,7 +3284,7 @@ resource "aws_api_gateway_documentation_part" "recipe_id_GET" {
     path   = "/recipe/{id}"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/recipe/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -3317,7 +3317,7 @@ resource "aws_api_gateway_documentation_part" "villager_GET" {
     path   = "/villager"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/villager/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -3340,7 +3340,7 @@ resource "aws_api_gateway_documentation_part" "villager_POST" {
     path   = "/villager"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/POST/villager/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -3373,7 +3373,7 @@ resource "aws_api_gateway_documentation_part" "villager_id_GET" {
     path   = "/villager/{id}"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/villager/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -3406,7 +3406,7 @@ resource "aws_api_gateway_documentation_part" "villager_special_GET" {
     path   = "/villager_special"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/villager_special/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -3429,7 +3429,7 @@ resource "aws_api_gateway_documentation_part" "villager_special_POST" {
     path   = "/villager_special"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/POST/villager_special/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -3462,7 +3462,7 @@ resource "aws_api_gateway_documentation_part" "villager_special_id_GET" {
     path   = "/villager_special/{id}"
     type   = "METHOD"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method/GET/villager_special/id/documentation.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
