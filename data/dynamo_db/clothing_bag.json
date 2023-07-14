@@ -7,6 +7,9 @@
             "buy_price": {
                 "NULL": true
             },
+            "collection_id": {
+                "N": "980"
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -20,6 +23,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderAcorn0"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderAcorn0"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderAcorn0"
             },
             "gender": {
@@ -105,6 +114,9 @@
             "buy_price": {
                 "N": "720"
             },
+            "collection_id": {
+                "N": "1510"
+            },
             "color_1": {
                 "S": "White"
             },
@@ -118,6 +130,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "ToolBagPaperfashion0"
+            },
+            "filename_closet_image": {
+                "NULL": true
+            },
+            "filename_storage_image": {
                 "S": "ToolBagPaperfashion0"
             },
             "gender": {
@@ -203,6 +221,9 @@
             "buy_price": {
                 "N": "720"
             },
+            "collection_id": {
+                "N": "1510"
+            },
             "color_1": {
                 "S": "White"
             },
@@ -216,6 +237,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "ToolBagPaperfashion1"
+            },
+            "filename_closet_image": {
+                "NULL": true
+            },
+            "filename_storage_image": {
                 "S": "ToolBagPaperfashion1"
             },
             "gender": {
@@ -301,6 +328,9 @@
             "buy_price": {
                 "N": "960"
             },
+            "collection_id": {
+                "N": "1490"
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -314,6 +344,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderGamaguchiAsian0"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderGamaguchiAsian0"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderGamaguchiAsian0"
             },
             "gender": {
@@ -399,6 +435,9 @@
             "buy_price": {
                 "N": "960"
             },
+            "collection_id": {
+                "N": "1490"
+            },
             "color_1": {
                 "S": "Blue"
             },
@@ -412,6 +451,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderGamaguchiAsian1"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderGamaguchiAsian1"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderGamaguchiAsian1"
             },
             "gender": {
@@ -497,6 +542,9 @@
             "buy_price": {
                 "N": "1120"
             },
+            "collection_id": {
+                "N": "1503"
+            },
             "color_1": {
                 "S": "Beige"
             },
@@ -510,6 +558,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "ToolBagBasket0"
+            },
+            "filename_closet_image": {
+                "NULL": true
+            },
+            "filename_storage_image": {
                 "S": "ToolBagBasket0"
             },
             "gender": {
@@ -595,6 +649,9 @@
             "buy_price": {
                 "N": "1120"
             },
+            "collection_id": {
+                "N": "1503"
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -608,6 +665,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "ToolBagBasket2"
+            },
+            "filename_closet_image": {
+                "NULL": true
+            },
+            "filename_storage_image": {
                 "S": "ToolBagBasket2"
             },
             "gender": {
@@ -693,6 +756,9 @@
             "buy_price": {
                 "N": "1120"
             },
+            "collection_id": {
+                "N": "1503"
+            },
             "color_1": {
                 "S": "White"
             },
@@ -706,6 +772,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "ToolBagBasket1"
+            },
+            "filename_closet_image": {
+                "NULL": true
+            },
+            "filename_storage_image": {
                 "S": "ToolBagBasket1"
             },
             "gender": {
@@ -791,6 +863,9 @@
             "buy_price": {
                 "NULL": true
             },
+            "collection_id": {
+                "N": "995"
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -804,6 +879,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackBasket0"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackBasket0"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackBasket0"
             },
             "gender": {
@@ -889,6 +970,9 @@
             "buy_price": {
                 "N": "960"
             },
+            "collection_id": {
+                "N": "1492"
+            },
             "color_1": {
                 "S": "Purple"
             },
@@ -902,6 +986,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderGamaguchiBijou0"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderGamaguchiBijou0"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderGamaguchiBijou0"
             },
             "gender": {
@@ -987,6 +1077,9 @@
             "buy_price": {
                 "N": "960"
             },
+            "collection_id": {
+                "N": "1492"
+            },
             "color_1": {
                 "S": "Pink"
             },
@@ -1000,6 +1093,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderGamaguchiBijou1"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderGamaguchiBijou1"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderGamaguchiBijou1"
             },
             "gender": {
@@ -1085,6 +1184,9 @@
             "buy_price": {
                 "N": "960"
             },
+            "collection_id": {
+                "N": "1492"
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -1098,6 +1200,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderGamaguchiBijou2"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderGamaguchiBijou2"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderGamaguchiBijou2"
             },
             "gender": {
@@ -1183,6 +1291,9 @@
             "buy_price": {
                 "N": "1300"
             },
+            "collection_id": {
+                "N": "1238"
+            },
             "color_1": {
                 "S": "Beige"
             },
@@ -1196,6 +1307,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackBear0"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackBear0"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackBear0"
             },
             "gender": {
@@ -1281,6 +1398,9 @@
             "buy_price": {
                 "N": "1300"
             },
+            "collection_id": {
+                "N": "1238"
+            },
             "color_1": {
                 "S": "White"
             },
@@ -1294,6 +1414,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackBear1"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackBear1"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackBear1"
             },
             "gender": {
@@ -1379,6 +1505,9 @@
             "buy_price": {
                 "N": "1300"
             },
+            "collection_id": {
+                "N": "1238"
+            },
             "color_1": {
                 "S": "Pink"
             },
@@ -1392,6 +1521,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackBear2"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackBear2"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackBear2"
             },
             "gender": {
@@ -1477,6 +1612,9 @@
             "buy_price": {
                 "N": "1300"
             },
+            "collection_id": {
+                "N": "1238"
+            },
             "color_1": {
                 "S": "Aqua"
             },
@@ -1490,6 +1628,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackBear3"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackBear3"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackBear3"
             },
             "gender": {
@@ -1575,6 +1719,9 @@
             "buy_price": {
                 "N": "1300"
             },
+            "collection_id": {
+                "N": "1238"
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -1588,6 +1735,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackBear4"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackBear4"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackBear4"
             },
             "gender": {
@@ -1673,6 +1826,9 @@
             "buy_price": {
                 "N": "1280"
             },
+            "collection_id": {
+                "N": "1455"
+            },
             "color_1": {
                 "S": "Yellow"
             },
@@ -1686,6 +1842,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackTownPattern0"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackTownPattern0"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackTownPattern0"
             },
             "gender": {
@@ -1771,6 +1933,9 @@
             "buy_price": {
                 "N": "1280"
             },
+            "collection_id": {
+                "N": "1455"
+            },
             "color_1": {
                 "S": "Red"
             },
@@ -1784,6 +1949,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackTownPattern1"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackTownPattern1"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackTownPattern1"
             },
             "gender": {
@@ -1869,6 +2040,9 @@
             "buy_price": {
                 "N": "840"
             },
+            "collection_id": {
+                "N": "1519"
+            },
             "color_1": {
                 "S": "White"
             },
@@ -1882,6 +2056,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "ToolBagEcobread0"
+            },
+            "filename_closet_image": {
+                "NULL": true
+            },
+            "filename_storage_image": {
                 "S": "ToolBagEcobread0"
             },
             "gender": {
@@ -1967,6 +2147,9 @@
             "buy_price": {
                 "NULL": true
             },
+            "collection_id": {
+                "N": "967"
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -1980,6 +2163,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderCage0"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderCage0"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderCage0"
             },
             "gender": {
@@ -2065,6 +2254,9 @@
             "buy_price": {
                 "NULL": true
             },
+            "collection_id": {
+                "N": "1203"
+            },
             "color_1": {
                 "S": "Colorful"
             },
@@ -2078,6 +2270,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackEgg0"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackEgg0"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackEgg0"
             },
             "gender": {
@@ -2163,6 +2361,9 @@
             "buy_price": {
                 "NULL": true
             },
+            "collection_id": {
+                "N": "991"
+            },
             "color_1": {
                 "S": "Pink"
             },
@@ -2176,6 +2377,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackButterfly0"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackButterfly0"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackButterfly0"
             },
             "gender": {
@@ -2261,6 +2468,9 @@
             "buy_price": {
                 "N": "980"
             },
+            "collection_id": {
+                "N": "1514"
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -2274,6 +2484,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "ToolBagTotecamouflage0"
+            },
+            "filename_closet_image": {
+                "NULL": true
+            },
+            "filename_storage_image": {
                 "S": "ToolBagTotecamouflage0"
             },
             "gender": {
@@ -2359,6 +2575,9 @@
             "buy_price": {
                 "N": "980"
             },
+            "collection_id": {
+                "N": "1514"
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -2372,6 +2591,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "ToolBagTotecamouflage1"
+            },
+            "filename_closet_image": {
+                "NULL": true
+            },
+            "filename_storage_image": {
                 "S": "ToolBagTotecamouflage1"
             },
             "gender": {
@@ -2457,6 +2682,9 @@
             "buy_price": {
                 "N": "1300"
             },
+            "collection_id": {
+                "N": "998"
+            },
             "color_1": {
                 "S": "White"
             },
@@ -2470,6 +2698,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackTote0"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackTote0"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackTote0"
             },
             "gender": {
@@ -2555,6 +2789,9 @@
             "buy_price": {
                 "N": "1200"
             },
+            "collection_id": {
+                "N": "1480"
+            },
             "color_1": {
                 "S": "Gray"
             },
@@ -2568,6 +2805,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackTownCheck2"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackTownCheck2"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackTownCheck2"
             },
             "gender": {
@@ -2653,6 +2896,9 @@
             "buy_price": {
                 "N": "1200"
             },
+            "collection_id": {
+                "N": "1480"
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -2666,6 +2912,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackTownCheck3"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackTownCheck3"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackTownCheck3"
             },
             "gender": {
@@ -2751,6 +3003,9 @@
             "buy_price": {
                 "N": "1200"
             },
+            "collection_id": {
+                "N": "1480"
+            },
             "color_1": {
                 "S": "Aqua"
             },
@@ -2764,6 +3019,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackTownCheck1"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackTownCheck1"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackTownCheck1"
             },
             "gender": {
@@ -2849,6 +3110,9 @@
             "buy_price": {
                 "N": "1200"
             },
+            "collection_id": {
+                "N": "1480"
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -2862,6 +3126,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackTownCheck0"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackTownCheck0"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackTownCheck0"
             },
             "gender": {
@@ -2947,6 +3217,9 @@
             "buy_price": {
                 "NULL": true
             },
+            "collection_id": {
+                "N": "978"
+            },
             "color_1": {
                 "S": "Pink"
             },
@@ -2960,6 +3233,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderCherryblossoms0"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderCherryblossoms0"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderCherryblossoms0"
             },
             "gender": {
@@ -3045,6 +3324,9 @@
             "buy_price": {
                 "N": "880"
             },
+            "collection_id": {
+                "N": "1456"
+            },
             "color_1": {
                 "S": "White"
             },
@@ -3058,6 +3340,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderGamaguchi4"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderGamaguchi4"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderGamaguchi4"
             },
             "gender": {
@@ -3143,6 +3431,9 @@
             "buy_price": {
                 "N": "880"
             },
+            "collection_id": {
+                "N": "1456"
+            },
             "color_1": {
                 "S": "Gray"
             },
@@ -3156,6 +3447,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderGamaguchi5"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderGamaguchi5"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderGamaguchi5"
             },
             "gender": {
@@ -3241,6 +3538,9 @@
             "buy_price": {
                 "N": "880"
             },
+            "collection_id": {
+                "N": "1456"
+            },
             "color_1": {
                 "S": "Red"
             },
@@ -3254,6 +3554,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderGamaguchi1"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderGamaguchi1"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderGamaguchi1"
             },
             "gender": {
@@ -3339,6 +3645,9 @@
             "buy_price": {
                 "N": "880"
             },
+            "collection_id": {
+                "N": "1456"
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -3352,6 +3661,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderGamaguchi3"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderGamaguchi3"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderGamaguchi3"
             },
             "gender": {
@@ -3437,6 +3752,9 @@
             "buy_price": {
                 "N": "880"
             },
+            "collection_id": {
+                "N": "1456"
+            },
             "color_1": {
                 "S": "Blue"
             },
@@ -3450,6 +3768,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderGamaguchi2"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderGamaguchi2"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderGamaguchi2"
             },
             "gender": {
@@ -3535,6 +3859,9 @@
             "buy_price": {
                 "N": "880"
             },
+            "collection_id": {
+                "N": "1456"
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -3548,6 +3875,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderGamaguchi6"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderGamaguchi6"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderGamaguchi6"
             },
             "gender": {
@@ -3633,6 +3966,9 @@
             "buy_price": {
                 "N": "880"
             },
+            "collection_id": {
+                "N": "1456"
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -3646,6 +3982,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderGamaguchi0"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderGamaguchi0"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderGamaguchi0"
             },
             "gender": {
@@ -3731,6 +4073,9 @@
             "buy_price": {
                 "N": "1400"
             },
+            "collection_id": {
+                "N": "975"
+            },
             "color_1": {
                 "S": "White"
             },
@@ -3744,6 +4089,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderCanvas2"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderCanvas2"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderCanvas2"
             },
             "gender": {
@@ -3829,6 +4180,9 @@
             "buy_price": {
                 "N": "1400"
             },
+            "collection_id": {
+                "N": "975"
+            },
             "color_1": {
                 "S": "Orange"
             },
@@ -3842,6 +4196,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderCanvas1"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderCanvas1"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderCanvas1"
             },
             "gender": {
@@ -3927,6 +4287,9 @@
             "buy_price": {
                 "N": "1400"
             },
+            "collection_id": {
+                "N": "975"
+            },
             "color_1": {
                 "S": "Aqua"
             },
@@ -3940,6 +4303,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderCanvas0"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderCanvas0"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderCanvas0"
             },
             "gender": {
@@ -4025,6 +4394,9 @@
             "buy_price": {
                 "N": "2200"
             },
+            "collection_id": {
+                "N": "1512"
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -4038,6 +4410,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "ToolBagSecond0"
+            },
+            "filename_closet_image": {
+                "NULL": true
+            },
+            "filename_storage_image": {
                 "S": "ToolBagSecond0"
             },
             "gender": {
@@ -4123,6 +4501,9 @@
             "buy_price": {
                 "N": "2200"
             },
+            "collection_id": {
+                "N": "1512"
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -4136,6 +4517,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "ToolBagSecond3"
+            },
+            "filename_closet_image": {
+                "NULL": true
+            },
+            "filename_storage_image": {
                 "S": "ToolBagSecond3"
             },
             "gender": {
@@ -4221,6 +4608,9 @@
             "buy_price": {
                 "N": "2200"
             },
+            "collection_id": {
+                "N": "1512"
+            },
             "color_1": {
                 "S": "Red"
             },
@@ -4234,6 +4624,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "ToolBagSecond2"
+            },
+            "filename_closet_image": {
+                "NULL": true
+            },
+            "filename_storage_image": {
                 "S": "ToolBagSecond2"
             },
             "gender": {
@@ -4319,6 +4715,9 @@
             "buy_price": {
                 "N": "2200"
             },
+            "collection_id": {
+                "N": "1512"
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -4332,6 +4731,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "ToolBagSecond1"
+            },
+            "filename_closet_image": {
+                "NULL": true
+            },
+            "filename_storage_image": {
                 "S": "ToolBagSecond1"
             },
             "gender": {
@@ -4417,6 +4822,9 @@
             "buy_price": {
                 "N": "700"
             },
+            "collection_id": {
+                "N": "971"
+            },
             "color_1": {
                 "S": "White"
             },
@@ -4430,6 +4838,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackBody3"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackBody3"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackBody3"
             },
             "gender": {
@@ -4515,6 +4929,9 @@
             "buy_price": {
                 "N": "700"
             },
+            "collection_id": {
+                "N": "971"
+            },
             "color_1": {
                 "S": "Pink"
             },
@@ -4528,6 +4945,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackBody0"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackBody0"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackBody0"
             },
             "gender": {
@@ -4613,6 +5036,9 @@
             "buy_price": {
                 "N": "700"
             },
+            "collection_id": {
+                "N": "971"
+            },
             "color_1": {
                 "S": "Yellow"
             },
@@ -4626,6 +5052,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackBody2"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackBody2"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackBody2"
             },
             "gender": {
@@ -4711,6 +5143,9 @@
             "buy_price": {
                 "N": "700"
             },
+            "collection_id": {
+                "N": "971"
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -4724,6 +5159,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackBody1"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackBody1"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackBody1"
             },
             "gender": {
@@ -4809,6 +5250,9 @@
             "buy_price": {
                 "N": "1680"
             },
+            "collection_id": {
+                "N": "973"
+            },
             "color_1": {
                 "S": "Red"
             },
@@ -4822,6 +5266,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderDrum0"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderDrum0"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderDrum0"
             },
             "gender": {
@@ -4907,6 +5357,9 @@
             "buy_price": {
                 "N": "1680"
             },
+            "collection_id": {
+                "N": "973"
+            },
             "color_1": {
                 "S": "Blue"
             },
@@ -4920,6 +5373,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderDrum1"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderDrum1"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderDrum1"
             },
             "gender": {
@@ -5005,6 +5464,9 @@
             "buy_price": {
                 "NULL": true
             },
+            "collection_id": {
+                "N": "1185"
+            },
             "color_1": {
                 "S": "Blue"
             },
@@ -5018,6 +5480,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackDal0"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackDal0"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackDal0"
             },
             "gender": {
@@ -5103,6 +5571,9 @@
             "buy_price": {
                 "N": "1320"
             },
+            "collection_id": {
+                "N": "1410"
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -5116,6 +5587,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackDelivery0"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackDelivery0"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackDelivery0"
             },
             "gender": {
@@ -5201,6 +5678,9 @@
             "buy_price": {
                 "N": "1320"
             },
+            "collection_id": {
+                "N": "1410"
+            },
             "color_1": {
                 "S": "Pink"
             },
@@ -5214,6 +5694,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackDelivery5"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackDelivery5"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackDelivery5"
             },
             "gender": {
@@ -5299,6 +5785,9 @@
             "buy_price": {
                 "N": "1320"
             },
+            "collection_id": {
+                "N": "1410"
+            },
             "color_1": {
                 "S": "Yellow"
             },
@@ -5312,6 +5801,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackDelivery3"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackDelivery3"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackDelivery3"
             },
             "gender": {
@@ -5397,6 +5892,9 @@
             "buy_price": {
                 "N": "1320"
             },
+            "collection_id": {
+                "N": "1410"
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -5410,6 +5908,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackDelivery2"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackDelivery2"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackDelivery2"
             },
             "gender": {
@@ -5495,6 +5999,9 @@
             "buy_price": {
                 "N": "1320"
             },
+            "collection_id": {
+                "N": "1410"
+            },
             "color_1": {
                 "S": "Blue"
             },
@@ -5508,6 +6015,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackDelivery1"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackDelivery1"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackDelivery1"
             },
             "gender": {
@@ -5593,6 +6106,9 @@
             "buy_price": {
                 "N": "1320"
             },
+            "collection_id": {
+                "N": "1410"
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -5606,6 +6122,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackDelivery4"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackDelivery4"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackDelivery4"
             },
             "gender": {
@@ -5691,6 +6213,9 @@
             "buy_price": {
                 "N": "640"
             },
+            "collection_id": {
+                "N": "1511"
+            },
             "color_1": {
                 "S": "White"
             },
@@ -5704,6 +6229,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "ToolBagPaperflower0"
+            },
+            "filename_closet_image": {
+                "NULL": true
+            },
+            "filename_storage_image": {
                 "S": "ToolBagPaperflower0"
             },
             "gender": {
@@ -5789,6 +6320,9 @@
             "buy_price": {
                 "N": "640"
             },
+            "collection_id": {
+                "N": "1511"
+            },
             "color_1": {
                 "S": "White"
             },
@@ -5802,6 +6336,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "ToolBagPaperflower1"
+            },
+            "filename_closet_image": {
+                "NULL": true
+            },
+            "filename_storage_image": {
                 "S": "ToolBagPaperflower1"
             },
             "gender": {
@@ -5887,6 +6427,9 @@
             "buy_price": {
                 "N": "1280"
             },
+            "collection_id": {
+                "N": "1505"
+            },
             "color_1": {
                 "S": "Beige"
             },
@@ -5900,6 +6443,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "ToolBagBasketdiagram0"
+            },
+            "filename_closet_image": {
+                "NULL": true
+            },
+            "filename_storage_image": {
                 "S": "ToolBagBasketdiagram0"
             },
             "gender": {
@@ -5985,6 +6534,9 @@
             "buy_price": {
                 "N": "1280"
             },
+            "collection_id": {
+                "N": "1483"
+            },
             "color_1": {
                 "S": "Pink"
             },
@@ -5998,6 +6550,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackTownYumekawa0"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackTownYumekawa0"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackTownYumekawa0"
             },
             "gender": {
@@ -6083,6 +6641,9 @@
             "buy_price": {
                 "N": "1280"
             },
+            "collection_id": {
+                "N": "1483"
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -6096,6 +6657,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackTownYumekawa1"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackTownYumekawa1"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackTownYumekawa1"
             },
             "gender": {
@@ -6181,6 +6748,9 @@
             "buy_price": {
                 "N": "1080"
             },
+            "collection_id": {
+                "N": "1472"
+            },
             "color_1": {
                 "S": "Pink"
             },
@@ -6194,6 +6764,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderYumekawa0"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderYumekawa0"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderYumekawa0"
             },
             "gender": {
@@ -6279,6 +6855,9 @@
             "buy_price": {
                 "N": "1080"
             },
+            "collection_id": {
+                "N": "1493"
+            },
             "color_1": {
                 "S": "Pink"
             },
@@ -6292,6 +6871,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderYumekawaRibbon0"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderYumekawaRibbon0"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderYumekawaRibbon0"
             },
             "gender": {
@@ -6377,6 +6962,9 @@
             "buy_price": {
                 "N": "1160"
             },
+            "collection_id": {
+                "N": "1494"
+            },
             "color_1": {
                 "S": "Yellow"
             },
@@ -6390,6 +6978,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderYumekawaUnicorn0"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderYumekawaUnicorn0"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderYumekawaUnicorn0"
             },
             "gender": {
@@ -6475,6 +7069,9 @@
             "buy_price": {
                 "N": "1040"
             },
+            "collection_id": {
+                "N": "963"
+            },
             "color_1": {
                 "S": "Yellow"
             },
@@ -6488,6 +7085,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackDry0"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackDry0"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackDry0"
             },
             "gender": {
@@ -6573,6 +7176,9 @@
             "buy_price": {
                 "N": "1040"
             },
+            "collection_id": {
+                "N": "963"
+            },
             "color_1": {
                 "S": "Blue"
             },
@@ -6586,6 +7192,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackDry1"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackDry1"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackDry1"
             },
             "gender": {
@@ -6671,6 +7283,9 @@
             "buy_price": {
                 "N": "600"
             },
+            "collection_id": {
+                "N": "1509"
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -6684,6 +7299,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "ToolBagPaperelectric0"
+            },
+            "filename_closet_image": {
+                "NULL": true
+            },
+            "filename_storage_image": {
                 "S": "ToolBagPaperelectric0"
             },
             "gender": {
@@ -6769,6 +7390,9 @@
             "buy_price": {
                 "N": "600"
             },
+            "collection_id": {
+                "N": "1509"
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -6782,6 +7406,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "ToolBagPaperelectric1"
+            },
+            "filename_closet_image": {
+                "NULL": true
+            },
+            "filename_storage_image": {
                 "S": "ToolBagPaperelectric1"
             },
             "gender": {
@@ -6867,6 +7497,9 @@
             "buy_price": {
                 "N": "600"
             },
+            "collection_id": {
+                "N": "1509"
+            },
             "color_1": {
                 "S": "White"
             },
@@ -6880,6 +7513,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "ToolBagPaperelectric3"
+            },
+            "filename_closet_image": {
+                "NULL": true
+            },
+            "filename_storage_image": {
                 "S": "ToolBagPaperelectric3"
             },
             "gender": {
@@ -6965,6 +7604,9 @@
             "buy_price": {
                 "N": "600"
             },
+            "collection_id": {
+                "N": "1509"
+            },
             "color_1": {
                 "S": "White"
             },
@@ -6978,6 +7620,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "ToolBagPaperelectric2"
+            },
+            "filename_closet_image": {
+                "NULL": true
+            },
+            "filename_storage_image": {
                 "S": "ToolBagPaperelectric2"
             },
             "gender": {
@@ -7063,6 +7711,9 @@
             "buy_price": {
                 "N": "1250"
             },
+            "collection_id": {
+                "N": "986"
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -7076,6 +7727,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderParty2"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderParty2"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderParty2"
             },
             "gender": {
@@ -7161,6 +7818,9 @@
             "buy_price": {
                 "N": "1250"
             },
+            "collection_id": {
+                "N": "986"
+            },
             "color_1": {
                 "S": "Pink"
             },
@@ -7174,6 +7834,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderParty0"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderParty0"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderParty0"
             },
             "gender": {
@@ -7259,6 +7925,9 @@
             "buy_price": {
                 "N": "1250"
             },
+            "collection_id": {
+                "N": "986"
+            },
             "color_1": {
                 "S": "Blue"
             },
@@ -7272,6 +7941,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderParty1"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderParty1"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderParty1"
             },
             "gender": {
@@ -7357,6 +8032,9 @@
             "buy_price": {
                 "N": "2100"
             },
+            "collection_id": {
+                "N": "994"
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -7370,6 +8048,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackMountain2"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackMountain2"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackMountain2"
             },
             "gender": {
@@ -7455,6 +8139,9 @@
             "buy_price": {
                 "N": "2100"
             },
+            "collection_id": {
+                "N": "994"
+            },
             "color_1": {
                 "S": "Red"
             },
@@ -7468,6 +8155,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackMountain0"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackMountain0"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackMountain0"
             },
             "gender": {
@@ -7553,6 +8246,9 @@
             "buy_price": {
                 "N": "2100"
             },
+            "collection_id": {
+                "N": "994"
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -7566,6 +8262,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackMountain1"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackMountain1"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackMountain1"
             },
             "gender": {
@@ -7651,6 +8353,9 @@
             "buy_price": {
                 "N": "2100"
             },
+            "collection_id": {
+                "N": "994"
+            },
             "color_1": {
                 "S": "Blue"
             },
@@ -7664,6 +8369,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackMountain3"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackMountain3"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackMountain3"
             },
             "gender": {
@@ -7749,6 +8460,9 @@
             "buy_price": {
                 "N": "1400"
             },
+            "collection_id": {
+                "N": "968"
+            },
             "color_1": {
                 "S": "Pink"
             },
@@ -7762,6 +8476,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderFakefur0"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderFakefur0"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderFakefur0"
             },
             "gender": {
@@ -7847,6 +8567,9 @@
             "buy_price": {
                 "N": "1400"
             },
+            "collection_id": {
+                "N": "968"
+            },
             "color_1": {
                 "S": "Purple"
             },
@@ -7860,6 +8583,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderFakefur1"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderFakefur1"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderFakefur1"
             },
             "gender": {
@@ -7945,6 +8674,9 @@
             "buy_price": {
                 "NULL": true
             },
+            "collection_id": {
+                "N": "965"
+            },
             "color_1": {
                 "S": "Aqua"
             },
@@ -7958,6 +8690,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderFish0"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderFish0"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderFish0"
             },
             "gender": {
@@ -8043,6 +8781,9 @@
             "buy_price": {
                 "N": "840"
             },
+            "collection_id": {
+                "N": "1518"
+            },
             "color_1": {
                 "S": "Aqua"
             },
@@ -8056,6 +8797,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "ToolBagEcofish0"
+            },
+            "filename_closet_image": {
+                "NULL": true
+            },
+            "filename_storage_image": {
                 "S": "ToolBagEcofish0"
             },
             "gender": {
@@ -8141,6 +8888,9 @@
             "buy_price": {
                 "N": "840"
             },
+            "collection_id": {
+                "N": "1520"
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -8154,6 +8904,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "ToolBagEcoflower0"
+            },
+            "filename_closet_image": {
+                "NULL": true
+            },
+            "filename_storage_image": {
                 "S": "ToolBagEcoflower0"
             },
             "gender": {
@@ -8239,6 +8995,9 @@
             "buy_price": {
                 "N": "1300"
             },
+            "collection_id": {
+                "N": "996"
+            },
             "color_1": {
                 "S": "Gray"
             },
@@ -8252,6 +9011,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackLid2"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackLid2"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackLid2"
             },
             "gender": {
@@ -8337,6 +9102,9 @@
             "buy_price": {
                 "N": "1300"
             },
+            "collection_id": {
+                "N": "996"
+            },
             "color_1": {
                 "S": "Pink"
             },
@@ -8350,6 +9118,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackLid3"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackLid3"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackLid3"
             },
             "gender": {
@@ -8435,6 +9209,9 @@
             "buy_price": {
                 "N": "1300"
             },
+            "collection_id": {
+                "N": "996"
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -8448,6 +9225,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackLid0"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackLid0"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackLid0"
             },
             "gender": {
@@ -8533,6 +9316,9 @@
             "buy_price": {
                 "N": "1300"
             },
+            "collection_id": {
+                "N": "996"
+            },
             "color_1": {
                 "S": "Blue"
             },
@@ -8546,6 +9332,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackLid1"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackLid1"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackLid1"
             },
             "gender": {
@@ -8631,6 +9423,9 @@
             "buy_price": {
                 "N": "880"
             },
+            "collection_id": {
+                "N": "1506"
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -8644,6 +9439,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "ToolBagFuroshiki0"
+            },
+            "filename_closet_image": {
+                "NULL": true
+            },
+            "filename_storage_image": {
                 "S": "ToolBagFuroshiki0"
             },
             "gender": {
@@ -8729,6 +9530,9 @@
             "buy_price": {
                 "N": "880"
             },
+            "collection_id": {
+                "N": "1506"
+            },
             "color_1": {
                 "S": "White"
             },
@@ -8742,6 +9546,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "ToolBagFuroshiki4"
+            },
+            "filename_closet_image": {
+                "NULL": true
+            },
+            "filename_storage_image": {
                 "S": "ToolBagFuroshiki4"
             },
             "gender": {
@@ -8827,6 +9637,9 @@
             "buy_price": {
                 "N": "880"
             },
+            "collection_id": {
+                "N": "1506"
+            },
             "color_1": {
                 "S": "Red"
             },
@@ -8840,6 +9653,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "ToolBagFuroshiki3"
+            },
+            "filename_closet_image": {
+                "NULL": true
+            },
+            "filename_storage_image": {
                 "S": "ToolBagFuroshiki3"
             },
             "gender": {
@@ -8925,6 +9744,9 @@
             "buy_price": {
                 "N": "880"
             },
+            "collection_id": {
+                "N": "1506"
+            },
             "color_1": {
                 "S": "Purple"
             },
@@ -8938,6 +9760,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "ToolBagFuroshiki2"
+            },
+            "filename_closet_image": {
+                "NULL": true
+            },
+            "filename_storage_image": {
                 "S": "ToolBagFuroshiki2"
             },
             "gender": {
@@ -9023,6 +9851,9 @@
             "buy_price": {
                 "N": "880"
             },
+            "collection_id": {
+                "N": "1506"
+            },
             "color_1": {
                 "S": "Blue"
             },
@@ -9036,6 +9867,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "ToolBagFuroshiki1"
+            },
+            "filename_closet_image": {
+                "NULL": true
+            },
+            "filename_storage_image": {
                 "S": "ToolBagFuroshiki1"
             },
             "gender": {
@@ -9121,6 +9958,9 @@
             "buy_price": {
                 "N": "880"
             },
+            "collection_id": {
+                "N": "1506"
+            },
             "color_1": {
                 "S": "Yellow"
             },
@@ -9134,6 +9974,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "ToolBagFuroshiki5"
+            },
+            "filename_closet_image": {
+                "NULL": true
+            },
+            "filename_storage_image": {
                 "S": "ToolBagFuroshiki5"
             },
             "gender": {
@@ -9219,6 +10065,9 @@
             "buy_price": {
                 "N": "800"
             },
+            "collection_id": {
+                "N": "1233"
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -9232,6 +10081,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackHarvest0"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackHarvest0"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackHarvest0"
             },
             "gender": {
@@ -9317,6 +10172,9 @@
             "buy_price": {
                 "N": "2000"
             },
+            "collection_id": {
+                "N": "974"
+            },
             "color_1": {
                 "S": "Pink"
             },
@@ -9330,6 +10188,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderPattern0"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderPattern0"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderPattern0"
             },
             "gender": {
@@ -9415,6 +10279,9 @@
             "buy_price": {
                 "N": "2000"
             },
+            "collection_id": {
+                "N": "974"
+            },
             "color_1": {
                 "S": "Purple"
             },
@@ -9428,6 +10295,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderPattern1"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderPattern1"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderPattern1"
             },
             "gender": {
@@ -9513,6 +10386,9 @@
             "buy_price": {
                 "N": "1250"
             },
+            "collection_id": {
+                "N": "970"
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -9526,6 +10402,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderRace0"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderRace0"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderRace0"
             },
             "gender": {
@@ -9611,6 +10493,9 @@
             "buy_price": {
                 "N": "1250"
             },
+            "collection_id": {
+                "N": "970"
+            },
             "color_1": {
                 "S": "Purple"
             },
@@ -9624,6 +10509,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderRace1"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderRace1"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderRace1"
             },
             "gender": {
@@ -9709,6 +10600,9 @@
             "buy_price": {
                 "N": "1680"
             },
+            "collection_id": {
+                "N": "1001"
+            },
             "color_1": {
                 "S": "Gray"
             },
@@ -9722,6 +10616,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackHardshell2"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackHardshell2"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackHardshell2"
             },
             "gender": {
@@ -9807,6 +10707,9 @@
             "buy_price": {
                 "N": "1680"
             },
+            "collection_id": {
+                "N": "1001"
+            },
             "color_1": {
                 "S": "Red"
             },
@@ -9820,6 +10723,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackHardshell1"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackHardshell1"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackHardshell1"
             },
             "gender": {
@@ -9905,6 +10814,9 @@
             "buy_price": {
                 "N": "1680"
             },
+            "collection_id": {
+                "N": "1001"
+            },
             "color_1": {
                 "S": "Blue"
             },
@@ -9918,6 +10830,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackHardshell0"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackHardshell0"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackHardshell0"
             },
             "gender": {
@@ -10003,6 +10921,9 @@
             "buy_price": {
                 "N": "1000"
             },
+            "collection_id": {
+                "N": "1268"
+            },
             "color_1": {
                 "S": "White"
             },
@@ -10016,6 +10937,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackHalloween2"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackHalloween2"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackHalloween2"
             },
             "gender": {
@@ -10101,6 +11028,9 @@
             "buy_price": {
                 "N": "1000"
             },
+            "collection_id": {
+                "N": "1268"
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -10114,6 +11044,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackHalloween5"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackHalloween5"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackHalloween5"
             },
             "gender": {
@@ -10199,6 +11135,9 @@
             "buy_price": {
                 "N": "1000"
             },
+            "collection_id": {
+                "N": "1268"
+            },
             "color_1": {
                 "S": "Red"
             },
@@ -10212,6 +11151,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackHalloween4"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackHalloween4"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackHalloween4"
             },
             "gender": {
@@ -10297,6 +11242,9 @@
             "buy_price": {
                 "N": "1000"
             },
+            "collection_id": {
+                "N": "1268"
+            },
             "color_1": {
                 "S": "Orange"
             },
@@ -10310,6 +11258,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackHalloween0"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackHalloween0"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackHalloween0"
             },
             "gender": {
@@ -10395,6 +11349,9 @@
             "buy_price": {
                 "N": "1000"
             },
+            "collection_id": {
+                "N": "1268"
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -10408,6 +11365,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackHalloween3"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackHalloween3"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackHalloween3"
             },
             "gender": {
@@ -10493,6 +11456,9 @@
             "buy_price": {
                 "N": "1000"
             },
+            "collection_id": {
+                "N": "1268"
+            },
             "color_1": {
                 "S": "Purple"
             },
@@ -10506,6 +11472,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackHalloween1"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackHalloween1"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackHalloween1"
             },
             "gender": {
@@ -10591,6 +11563,9 @@
             "buy_price": {
                 "N": "3200"
             },
+            "collection_id": {
+                "N": "1457"
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -10604,6 +11579,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackMusician0"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackMusician0"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackMusician0"
             },
             "gender": {
@@ -10689,6 +11670,9 @@
             "buy_price": {
                 "N": "3200"
             },
+            "collection_id": {
+                "N": "1457"
+            },
             "color_1": {
                 "S": "White"
             },
@@ -10702,6 +11686,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackMusician1"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackMusician1"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackMusician1"
             },
             "gender": {
@@ -10787,6 +11777,9 @@
             "buy_price": {
                 "N": "3200"
             },
+            "collection_id": {
+                "N": "1457"
+            },
             "color_1": {
                 "S": "Red"
             },
@@ -10800,6 +11793,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackMusician3"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackMusician3"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackMusician3"
             },
             "gender": {
@@ -10885,6 +11884,9 @@
             "buy_price": {
                 "N": "3200"
             },
+            "collection_id": {
+                "N": "1457"
+            },
             "color_1": {
                 "S": "Pink"
             },
@@ -10898,6 +11900,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackMusician4"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackMusician4"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackMusician4"
             },
             "gender": {
@@ -10983,6 +11991,9 @@
             "buy_price": {
                 "N": "3200"
             },
+            "collection_id": {
+                "N": "1457"
+            },
             "color_1": {
                 "S": "Blue"
             },
@@ -10996,6 +12007,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackMusician2"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackMusician2"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackMusician2"
             },
             "gender": {
@@ -11081,6 +12098,9 @@
             "buy_price": {
                 "N": "12000"
             },
+            "collection_id": {
+                "N": "1470"
+            },
             "color_1": {
                 "S": "Gray"
             },
@@ -11094,6 +12114,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackJet0"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackJet0"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackJet0"
             },
             "gender": {
@@ -11179,6 +12205,9 @@
             "buy_price": {
                 "N": "12000"
             },
+            "collection_id": {
+                "N": "1470"
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -11192,6 +12221,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackJet1"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackJet1"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackJet1"
             },
             "gender": {
@@ -11277,6 +12312,9 @@
             "buy_price": {
                 "N": "12000"
             },
+            "collection_id": {
+                "N": "1470"
+            },
             "color_1": {
                 "S": "White"
             },
@@ -11290,6 +12328,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackJet2"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackJet2"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackJet2"
             },
             "gender": {
@@ -11375,6 +12419,9 @@
             "buy_price": {
                 "N": "630"
             },
+            "collection_id": {
+                "N": "997"
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -11388,6 +12435,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackKnapsack1"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackKnapsack1"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackKnapsack1"
             },
             "gender": {
@@ -11473,6 +12526,9 @@
             "buy_price": {
                 "N": "630"
             },
+            "collection_id": {
+                "N": "997"
+            },
             "color_1": {
                 "S": "Blue"
             },
@@ -11486,6 +12542,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackKnapsack0"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackKnapsack0"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackKnapsack0"
             },
             "gender": {
@@ -11571,6 +12633,9 @@
             "buy_price": {
                 "NULL": true
             },
+            "collection_id": {
+                "N": "1000"
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -11584,6 +12649,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackGrass0"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackGrass0"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackGrass0"
             },
             "gender": {
@@ -11669,6 +12740,9 @@
             "buy_price": {
                 "N": "1680"
             },
+            "collection_id": {
+                "N": "1477"
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -11682,6 +12756,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackTownLeopard0"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackTownLeopard0"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackTownLeopard0"
             },
             "gender": {
@@ -11767,6 +12847,9 @@
             "buy_price": {
                 "N": "1680"
             },
+            "collection_id": {
+                "N": "1477"
+            },
             "color_1": {
                 "S": "Gray"
             },
@@ -11780,6 +12863,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackTownLeopard1"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackTownLeopard1"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackTownLeopard1"
             },
             "gender": {
@@ -11865,6 +12954,9 @@
             "buy_price": {
                 "N": "1680"
             },
+            "collection_id": {
+                "N": "1477"
+            },
             "color_1": {
                 "S": "Pink"
             },
@@ -11878,6 +12970,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackTownLeopard2"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackTownLeopard2"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackTownLeopard2"
             },
             "gender": {
@@ -11963,6 +13061,9 @@
             "buy_price": {
                 "N": "1680"
             },
+            "collection_id": {
+                "N": "1477"
+            },
             "color_1": {
                 "S": "Yellow"
             },
@@ -11976,6 +13077,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackTownLeopard3"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackTownLeopard3"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackTownLeopard3"
             },
             "gender": {
@@ -12061,6 +13168,9 @@
             "buy_price": {
                 "NULL": true
             },
+            "collection_id": {
+                "N": "987"
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -12074,6 +13184,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackWood0"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackWood0"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackWood0"
             },
             "gender": {
@@ -12159,6 +13275,9 @@
             "buy_price": {
                 "N": "600"
             },
+            "collection_id": {
+                "N": "1508"
+            },
             "color_1": {
                 "S": "Beige"
             },
@@ -12172,6 +13291,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "ToolBagPaper0"
+            },
+            "filename_closet_image": {
+                "NULL": true
+            },
+            "filename_storage_image": {
                 "S": "ToolBagPaper0"
             },
             "gender": {
@@ -12257,6 +13382,9 @@
             "buy_price": {
                 "N": "600"
             },
+            "collection_id": {
+                "N": "1508"
+            },
             "color_1": {
                 "S": "Beige"
             },
@@ -12270,6 +13398,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "ToolBagPaper1"
+            },
+            "filename_closet_image": {
+                "NULL": true
+            },
+            "filename_storage_image": {
                 "S": "ToolBagPaper1"
             },
             "gender": {
@@ -12355,6 +13489,9 @@
             "buy_price": {
                 "N": "600"
             },
+            "collection_id": {
+                "N": "1508"
+            },
             "color_1": {
                 "S": "Beige"
             },
@@ -12368,6 +13505,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "ToolBagPaper2"
+            },
+            "filename_closet_image": {
+                "NULL": true
+            },
+            "filename_storage_image": {
                 "S": "ToolBagPaper2"
             },
             "gender": {
@@ -12453,6 +13596,9 @@
             "buy_price": {
                 "N": "980"
             },
+            "collection_id": {
+                "N": "1516"
+            },
             "color_1": {
                 "S": "Gray"
             },
@@ -12466,6 +13612,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "ToolBagTotelogo0"
+            },
+            "filename_closet_image": {
+                "NULL": true
+            },
+            "filename_storage_image": {
                 "S": "ToolBagTotelogo0"
             },
             "gender": {
@@ -12551,6 +13703,9 @@
             "buy_price": {
                 "N": "980"
             },
+            "collection_id": {
+                "N": "1516"
+            },
             "color_1": {
                 "S": "Red"
             },
@@ -12564,6 +13719,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "ToolBagTotelogo1"
+            },
+            "filename_closet_image": {
+                "NULL": true
+            },
+            "filename_storage_image": {
                 "S": "ToolBagTotelogo1"
             },
             "gender": {
@@ -12649,6 +13810,9 @@
             "buy_price": {
                 "N": "980"
             },
+            "collection_id": {
+                "N": "1516"
+            },
             "color_1": {
                 "S": "Blue"
             },
@@ -12662,6 +13826,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "ToolBagTotelogo2"
+            },
+            "filename_closet_image": {
+                "NULL": true
+            },
+            "filename_storage_image": {
                 "S": "ToolBagTotelogo2"
             },
             "gender": {
@@ -12747,6 +13917,9 @@
             "buy_price": {
                 "NULL": true
             },
+            "collection_id": {
+                "N": "979"
+            },
             "color_1": {
                 "S": "Orange"
             },
@@ -12760,6 +13933,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderMaple0"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderMaple0"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderMaple0"
             },
             "gender": {
@@ -12845,6 +14024,9 @@
             "buy_price": {
                 "N": "840"
             },
+            "collection_id": {
+                "N": "962"
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -12858,6 +14040,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderMessenger2"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderMessenger2"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderMessenger2"
             },
             "gender": {
@@ -12943,6 +14131,9 @@
             "buy_price": {
                 "N": "840"
             },
+            "collection_id": {
+                "N": "962"
+            },
             "color_1": {
                 "S": "Orange"
             },
@@ -12956,6 +14147,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderMessenger1"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderMessenger1"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderMessenger1"
             },
             "gender": {
@@ -13041,6 +14238,9 @@
             "buy_price": {
                 "N": "840"
             },
+            "collection_id": {
+                "N": "962"
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -13054,6 +14254,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderMessenger0"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderMessenger0"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderMessenger0"
             },
             "gender": {
@@ -13139,6 +14345,9 @@
             "buy_price": {
                 "N": "1600"
             },
+            "collection_id": {
+                "N": "993"
+            },
             "color_1": {
                 "S": "White"
             },
@@ -13152,6 +14361,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackSmall0"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackSmall0"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackSmall0"
             },
             "gender": {
@@ -13237,6 +14452,9 @@
             "buy_price": {
                 "N": "1600"
             },
+            "collection_id": {
+                "N": "993"
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -13250,6 +14468,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackSmall1"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackSmall1"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackSmall1"
             },
             "gender": {
@@ -13335,6 +14559,9 @@
             "buy_price": {
                 "NULL": true
             },
+            "collection_id": {
+                "N": "999"
+            },
             "color_1": {
                 "S": "White"
             },
@@ -13348,6 +14575,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackQuilt6"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackQuilt6"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackQuilt6"
             },
             "gender": {
@@ -13433,6 +14666,9 @@
             "buy_price": {
                 "NULL": true
             },
+            "collection_id": {
+                "N": "999"
+            },
             "color_1": {
                 "S": "Gray"
             },
@@ -13446,6 +14682,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackQuilt1"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackQuilt1"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackQuilt1"
             },
             "gender": {
@@ -13531,6 +14773,9 @@
             "buy_price": {
                 "NULL": true
             },
+            "collection_id": {
+                "N": "999"
+            },
             "color_1": {
                 "S": "Pink"
             },
@@ -13544,6 +14789,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackQuilt2"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackQuilt2"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackQuilt2"
             },
             "gender": {
@@ -13629,6 +14880,9 @@
             "buy_price": {
                 "NULL": true
             },
+            "collection_id": {
+                "N": "999"
+            },
             "color_1": {
                 "S": "Orange"
             },
@@ -13642,6 +14896,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackQuilt7"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackQuilt7"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackQuilt7"
             },
             "gender": {
@@ -13727,6 +14987,9 @@
             "buy_price": {
                 "NULL": true
             },
+            "collection_id": {
+                "N": "999"
+            },
             "color_1": {
                 "S": "Yellow"
             },
@@ -13740,6 +15003,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackQuilt0"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackQuilt0"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackQuilt0"
             },
             "gender": {
@@ -13825,6 +15094,9 @@
             "buy_price": {
                 "NULL": true
             },
+            "collection_id": {
+                "N": "999"
+            },
             "color_1": {
                 "S": "Aqua"
             },
@@ -13838,6 +15110,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackQuilt4"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackQuilt4"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackQuilt4"
             },
             "gender": {
@@ -13923,6 +15201,9 @@
             "buy_price": {
                 "NULL": true
             },
+            "collection_id": {
+                "N": "999"
+            },
             "color_1": {
                 "S": "Blue"
             },
@@ -13936,6 +15217,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackQuilt5"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackQuilt5"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackQuilt5"
             },
             "gender": {
@@ -14021,6 +15308,9 @@
             "buy_price": {
                 "NULL": true
             },
+            "collection_id": {
+                "N": "999"
+            },
             "color_1": {
                 "S": "Colorful"
             },
@@ -14034,6 +15324,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackQuilt3"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackQuilt3"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackQuilt3"
             },
             "gender": {
@@ -14119,6 +15415,9 @@
             "buy_price": {
                 "NULL": true
             },
+            "collection_id": {
+                "N": "1150"
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -14132,6 +15431,12 @@
                 "N": "800"
             },
             "filename": {
+                "S": "BagBackpackNook0"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackNook0"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackNook0"
             },
             "gender": {
@@ -14217,6 +15522,9 @@
             "buy_price": {
                 "NULL": true
             },
+            "collection_id": {
+                "N": "1425"
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -14230,6 +15538,12 @@
                 "N": "50"
             },
             "filename": {
+                "S": "BagShoulderNook0"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderNook0"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderNook0"
             },
             "gender": {
@@ -14315,6 +15629,9 @@
             "buy_price": {
                 "N": "1560"
             },
+            "collection_id": {
+                "N": "990"
+            },
             "color_1": {
                 "S": "Orange"
             },
@@ -14328,6 +15645,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackOutdoor1"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackOutdoor1"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackOutdoor1"
             },
             "gender": {
@@ -14413,6 +15736,9 @@
             "buy_price": {
                 "N": "1560"
             },
+            "collection_id": {
+                "N": "990"
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -14426,6 +15752,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackOutdoor0"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackOutdoor0"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackOutdoor0"
             },
             "gender": {
@@ -14511,6 +15843,9 @@
             "buy_price": {
                 "N": "1560"
             },
+            "collection_id": {
+                "N": "990"
+            },
             "color_1": {
                 "S": "Blue"
             },
@@ -14524,6 +15859,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackOutdoor2"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackOutdoor2"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackOutdoor2"
             },
             "gender": {
@@ -14609,6 +15950,9 @@
             "buy_price": {
                 "N": "1300"
             },
+            "collection_id": {
+                "N": "1473"
+            },
             "color_1": {
                 "S": "White"
             },
@@ -14622,6 +15966,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackPanda0"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackPanda0"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackPanda0"
             },
             "gender": {
@@ -14707,6 +16057,9 @@
             "buy_price": {
                 "N": "1300"
             },
+            "collection_id": {
+                "N": "1473"
+            },
             "color_1": {
                 "S": "Yellow"
             },
@@ -14720,6 +16073,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackPanda1"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackPanda1"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackPanda1"
             },
             "gender": {
@@ -14805,6 +16164,9 @@
             "buy_price": {
                 "N": "1120"
             },
+            "collection_id": {
+                "N": "972"
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -14818,6 +16180,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackBodybag1"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackBodybag1"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackBodybag1"
             },
             "gender": {
@@ -14903,6 +16271,9 @@
             "buy_price": {
                 "N": "1120"
             },
+            "collection_id": {
+                "N": "972"
+            },
             "color_1": {
                 "S": "Blue"
             },
@@ -14916,6 +16287,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackBodybag0"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackBodybag0"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackBodybag0"
             },
             "gender": {
@@ -15001,6 +16378,9 @@
             "buy_price": {
                 "N": "2400"
             },
+            "collection_id": {
+                "N": "969"
+            },
             "color_1": {
                 "S": "White"
             },
@@ -15014,6 +16394,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderFringe1"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderFringe1"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderFringe1"
             },
             "gender": {
@@ -15099,6 +16485,9 @@
             "buy_price": {
                 "N": "2400"
             },
+            "collection_id": {
+                "N": "969"
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -15112,6 +16501,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderFringe0"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderFringe0"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderFringe0"
             },
             "gender": {
@@ -15197,6 +16592,9 @@
             "buy_price": {
                 "N": "2400"
             },
+            "collection_id": {
+                "N": "1507"
+            },
             "color_1": {
                 "S": "Red"
             },
@@ -15210,6 +16608,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "ToolBagLeather0"
+            },
+            "filename_closet_image": {
+                "NULL": true
+            },
+            "filename_storage_image": {
                 "S": "ToolBagLeather0"
             },
             "gender": {
@@ -15295,6 +16699,9 @@
             "buy_price": {
                 "N": "2400"
             },
+            "collection_id": {
+                "N": "1507"
+            },
             "color_1": {
                 "S": "Pink"
             },
@@ -15308,6 +16715,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "ToolBagLeather3"
+            },
+            "filename_closet_image": {
+                "NULL": true
+            },
+            "filename_storage_image": {
                 "S": "ToolBagLeather3"
             },
             "gender": {
@@ -15393,6 +16806,9 @@
             "buy_price": {
                 "N": "2400"
             },
+            "collection_id": {
+                "N": "1507"
+            },
             "color_1": {
                 "S": "Orange"
             },
@@ -15406,6 +16822,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "ToolBagLeather1"
+            },
+            "filename_closet_image": {
+                "NULL": true
+            },
+            "filename_storage_image": {
                 "S": "ToolBagLeather1"
             },
             "gender": {
@@ -15491,6 +16913,9 @@
             "buy_price": {
                 "N": "2400"
             },
+            "collection_id": {
+                "N": "1507"
+            },
             "color_1": {
                 "S": "Yellow"
             },
@@ -15504,6 +16929,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "ToolBagLeather4"
+            },
+            "filename_closet_image": {
+                "NULL": true
+            },
+            "filename_storage_image": {
                 "S": "ToolBagLeather4"
             },
             "gender": {
@@ -15589,6 +17020,9 @@
             "buy_price": {
                 "N": "2400"
             },
+            "collection_id": {
+                "N": "1507"
+            },
             "color_1": {
                 "S": "Aqua"
             },
@@ -15602,6 +17036,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "ToolBagLeather2"
+            },
+            "filename_closet_image": {
+                "NULL": true
+            },
+            "filename_storage_image": {
                 "S": "ToolBagLeather2"
             },
             "gender": {
@@ -15687,6 +17127,9 @@
             "buy_price": {
                 "N": "2400"
             },
+            "collection_id": {
+                "N": "1507"
+            },
             "color_1": {
                 "S": "Gray"
             },
@@ -15700,6 +17143,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "ToolBagLeather5"
+            },
+            "filename_closet_image": {
+                "NULL": true
+            },
+            "filename_storage_image": {
                 "S": "ToolBagLeather5"
             },
             "gender": {
@@ -15785,6 +17234,9 @@
             "buy_price": {
                 "N": "2400"
             },
+            "collection_id": {
+                "N": "1507"
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -15798,6 +17250,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "ToolBagLeather6"
+            },
+            "filename_closet_image": {
+                "NULL": true
+            },
+            "filename_storage_image": {
                 "S": "ToolBagLeather6"
             },
             "gender": {
@@ -15883,6 +17341,9 @@
             "buy_price": {
                 "N": "2400"
             },
+            "collection_id": {
+                "N": "964"
+            },
             "color_1": {
                 "S": "Blue"
             },
@@ -15896,6 +17357,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderLeather1"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderLeather1"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderLeather1"
             },
             "gender": {
@@ -15981,6 +17448,9 @@
             "buy_price": {
                 "N": "2400"
             },
+            "collection_id": {
+                "N": "964"
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -15994,6 +17464,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderLeather0"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderLeather0"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderLeather0"
             },
             "gender": {
@@ -16079,6 +17555,9 @@
             "buy_price": {
                 "N": "1200"
             },
+            "collection_id": {
+                "N": "1481"
+            },
             "color_1": {
                 "S": "Red"
             },
@@ -16092,6 +17571,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackTownDot3"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackTownDot3"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackTownDot3"
             },
             "gender": {
@@ -16177,6 +17662,9 @@
             "buy_price": {
                 "N": "1200"
             },
+            "collection_id": {
+                "N": "1481"
+            },
             "color_1": {
                 "S": "Yellow"
             },
@@ -16190,6 +17678,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackTownDot0"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackTownDot0"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackTownDot0"
             },
             "gender": {
@@ -16275,6 +17769,9 @@
             "buy_price": {
                 "N": "1200"
             },
+            "collection_id": {
+                "N": "1481"
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -16288,6 +17785,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackTownDot1"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackTownDot1"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackTownDot1"
             },
             "gender": {
@@ -16373,6 +17876,9 @@
             "buy_price": {
                 "N": "1200"
             },
+            "collection_id": {
+                "N": "1481"
+            },
             "color_1": {
                 "S": "Aqua"
             },
@@ -16386,6 +17892,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackTownDot2"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackTownDot2"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackTownDot2"
             },
             "gender": {
@@ -16471,6 +17983,9 @@
             "buy_price": {
                 "N": "1200"
             },
+            "collection_id": {
+                "N": "1481"
+            },
             "color_1": {
                 "S": "Blue"
             },
@@ -16484,6 +17999,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackTownDot4"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackTownDot4"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackTownDot4"
             },
             "gender": {
@@ -16569,6 +18090,9 @@
             "buy_price": {
                 "N": "3500"
             },
+            "collection_id": {
+                "N": "1362"
+            },
             "color_1": {
                 "S": "White"
             },
@@ -16582,6 +18106,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderTasukiprom4"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderTasukiprom4"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderTasukiprom4"
             },
             "gender": {
@@ -16667,6 +18197,9 @@
             "buy_price": {
                 "N": "3500"
             },
+            "collection_id": {
+                "N": "1362"
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -16680,6 +18213,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderTasukiprom5"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderTasukiprom5"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderTasukiprom5"
             },
             "gender": {
@@ -16765,6 +18304,9 @@
             "buy_price": {
                 "N": "3500"
             },
+            "collection_id": {
+                "N": "1362"
+            },
             "color_1": {
                 "S": "Red"
             },
@@ -16778,6 +18320,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderTasukiprom0"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderTasukiprom0"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderTasukiprom0"
             },
             "gender": {
@@ -16863,6 +18411,9 @@
             "buy_price": {
                 "N": "3500"
             },
+            "collection_id": {
+                "N": "1362"
+            },
             "color_1": {
                 "S": "Yellow"
             },
@@ -16876,6 +18427,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderTasukiprom6"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderTasukiprom6"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderTasukiprom6"
             },
             "gender": {
@@ -16961,6 +18518,9 @@
             "buy_price": {
                 "N": "3500"
             },
+            "collection_id": {
+                "N": "1362"
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -16974,6 +18534,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderTasukiprom2"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderTasukiprom2"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderTasukiprom2"
             },
             "gender": {
@@ -17059,6 +18625,9 @@
             "buy_price": {
                 "N": "3500"
             },
+            "collection_id": {
+                "N": "1362"
+            },
             "color_1": {
                 "S": "Blue"
             },
@@ -17072,6 +18641,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderTasukiprom1"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderTasukiprom1"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderTasukiprom1"
             },
             "gender": {
@@ -17157,6 +18732,9 @@
             "buy_price": {
                 "N": "3500"
             },
+            "collection_id": {
+                "N": "1362"
+            },
             "color_1": {
                 "S": "Purple"
             },
@@ -17170,6 +18748,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderTasukiprom3"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderTasukiprom3"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderTasukiprom3"
             },
             "gender": {
@@ -17255,6 +18839,9 @@
             "buy_price": {
                 "N": "1480"
             },
+            "collection_id": {
+                "N": "1498"
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -17268,6 +18855,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderSquarePython0"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderSquarePython0"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderSquarePython0"
             },
             "gender": {
@@ -17353,6 +18946,9 @@
             "buy_price": {
                 "N": "1480"
             },
+            "collection_id": {
+                "N": "1498"
+            },
             "color_1": {
                 "S": "Gray"
             },
@@ -17366,6 +18962,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderSquarePython1"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderSquarePython1"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderSquarePython1"
             },
             "gender": {
@@ -17451,6 +19053,9 @@
             "buy_price": {
                 "N": "2600"
             },
+            "collection_id": {
+                "N": "1395"
+            },
             "color_1": {
                 "S": "Red"
             },
@@ -17464,6 +19069,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackRandsel0"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackRandsel0"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackRandsel0"
             },
             "gender": {
@@ -17549,6 +19160,9 @@
             "buy_price": {
                 "N": "2600"
             },
+            "collection_id": {
+                "N": "1395"
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -17562,6 +19176,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackRandsel1"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackRandsel1"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackRandsel1"
             },
             "gender": {
@@ -17647,6 +19267,9 @@
             "buy_price": {
                 "N": "2600"
             },
+            "collection_id": {
+                "N": "1395"
+            },
             "color_1": {
                 "S": "Pink"
             },
@@ -17660,6 +19283,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackRandsel6"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackRandsel6"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackRandsel6"
             },
             "gender": {
@@ -17745,6 +19374,9 @@
             "buy_price": {
                 "N": "2600"
             },
+            "collection_id": {
+                "N": "1395"
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -17758,6 +19390,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackRandsel3"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackRandsel3"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackRandsel3"
             },
             "gender": {
@@ -17843,6 +19481,9 @@
             "buy_price": {
                 "N": "2600"
             },
+            "collection_id": {
+                "N": "1395"
+            },
             "color_1": {
                 "S": "Aqua"
             },
@@ -17856,6 +19497,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackRandsel5"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackRandsel5"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackRandsel5"
             },
             "gender": {
@@ -17941,6 +19588,9 @@
             "buy_price": {
                 "N": "2600"
             },
+            "collection_id": {
+                "N": "1395"
+            },
             "color_1": {
                 "S": "Blue"
             },
@@ -17954,6 +19604,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackRandsel4"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackRandsel4"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackRandsel4"
             },
             "gender": {
@@ -18039,6 +19695,9 @@
             "buy_price": {
                 "N": "2600"
             },
+            "collection_id": {
+                "N": "1395"
+            },
             "color_1": {
                 "S": "Purple"
             },
@@ -18052,6 +19711,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackRandsel7"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackRandsel7"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackRandsel7"
             },
             "gender": {
@@ -18137,6 +19802,9 @@
             "buy_price": {
                 "N": "2600"
             },
+            "collection_id": {
+                "N": "1395"
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -18150,6 +19818,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackRandsel2"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackRandsel2"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackRandsel2"
             },
             "gender": {
@@ -18235,6 +19909,9 @@
             "buy_price": {
                 "N": "1400"
             },
+            "collection_id": {
+                "N": "984"
+            },
             "color_1": {
                 "S": "White"
             },
@@ -18248,6 +19925,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderSports1"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderSports1"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderSports1"
             },
             "gender": {
@@ -18333,6 +20016,9 @@
             "buy_price": {
                 "N": "1400"
             },
+            "collection_id": {
+                "N": "984"
+            },
             "color_1": {
                 "S": "White"
             },
@@ -18346,6 +20032,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderSports0"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderSports0"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderSports0"
             },
             "gender": {
@@ -18431,6 +20123,9 @@
             "buy_price": {
                 "N": "1400"
             },
+            "collection_id": {
+                "N": "984"
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -18444,6 +20139,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderSports2"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderSports2"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderSports2"
             },
             "gender": {
@@ -18529,6 +20230,9 @@
             "buy_price": {
                 "N": "980"
             },
+            "collection_id": {
+                "N": "985"
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -18542,6 +20246,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderSacosh2"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderSacosh2"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderSacosh2"
             },
             "gender": {
@@ -18627,6 +20337,9 @@
             "buy_price": {
                 "N": "980"
             },
+            "collection_id": {
+                "N": "985"
+            },
             "color_1": {
                 "S": "Red"
             },
@@ -18640,6 +20353,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderSacosh1"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderSacosh1"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderSacosh1"
             },
             "gender": {
@@ -18725,6 +20444,9 @@
             "buy_price": {
                 "N": "980"
             },
+            "collection_id": {
+                "N": "985"
+            },
             "color_1": {
                 "S": "Blue"
             },
@@ -18738,6 +20460,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderSacosh0"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderSacosh0"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderSacosh0"
             },
             "gender": {
@@ -18823,6 +20551,9 @@
             "buy_price": {
                 "N": "2200"
             },
+            "collection_id": {
+                "N": "1471"
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -18836,6 +20567,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackStudent1"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackStudent1"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackStudent1"
             },
             "gender": {
@@ -18921,6 +20658,9 @@
             "buy_price": {
                 "N": "2200"
             },
+            "collection_id": {
+                "N": "1471"
+            },
             "color_1": {
                 "S": "Red"
             },
@@ -18934,6 +20674,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackStudent4"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackStudent4"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackStudent4"
             },
             "gender": {
@@ -19019,6 +20765,9 @@
             "buy_price": {
                 "N": "2200"
             },
+            "collection_id": {
+                "N": "1471"
+            },
             "color_1": {
                 "S": "Blue"
             },
@@ -19032,6 +20781,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackStudent3"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackStudent3"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackStudent3"
             },
             "gender": {
@@ -19117,6 +20872,9 @@
             "buy_price": {
                 "N": "2200"
             },
+            "collection_id": {
+                "N": "1471"
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -19130,6 +20888,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackStudent0"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackStudent0"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackStudent0"
             },
             "gender": {
@@ -19215,6 +20979,9 @@
             "buy_price": {
                 "N": "2200"
             },
+            "collection_id": {
+                "N": "1471"
+            },
             "color_1": {
                 "S": "Beige"
             },
@@ -19228,6 +20995,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackStudent2"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackStudent2"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackStudent2"
             },
             "gender": {
@@ -19313,6 +21086,9 @@
             "buy_price": {
                 "N": "1040"
             },
+            "collection_id": {
+                "N": "1396"
+            },
             "color_1": {
                 "S": "Blue"
             },
@@ -19326,6 +21102,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackSchoolbag0"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackSchoolbag0"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackSchoolbag0"
             },
             "gender": {
@@ -19411,6 +21193,9 @@
             "buy_price": {
                 "N": "1040"
             },
+            "collection_id": {
+                "N": "1396"
+            },
             "color_1": {
                 "S": "Gray"
             },
@@ -19424,6 +21209,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackSchoolbag3"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackSchoolbag3"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackSchoolbag3"
             },
             "gender": {
@@ -19509,6 +21300,9 @@
             "buy_price": {
                 "N": "1040"
             },
+            "collection_id": {
+                "N": "1396"
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -19522,6 +21316,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackSchoolbag2"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackSchoolbag2"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackSchoolbag2"
             },
             "gender": {
@@ -19607,6 +21407,9 @@
             "buy_price": {
                 "N": "1040"
             },
+            "collection_id": {
+                "N": "1396"
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -19620,6 +21423,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackSchoolbag5"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackSchoolbag5"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackSchoolbag5"
             },
             "gender": {
@@ -19705,6 +21514,9 @@
             "buy_price": {
                 "N": "1040"
             },
+            "collection_id": {
+                "N": "1396"
+            },
             "color_1": {
                 "S": "Blue"
             },
@@ -19718,6 +21530,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackSchoolbag1"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackSchoolbag1"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackSchoolbag1"
             },
             "gender": {
@@ -19803,6 +21621,9 @@
             "buy_price": {
                 "N": "1040"
             },
+            "collection_id": {
+                "N": "1396"
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -19816,6 +21637,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackSchoolbag4"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackSchoolbag4"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackSchoolbag4"
             },
             "gender": {
@@ -19901,6 +21728,9 @@
             "buy_price": {
                 "NULL": true
             },
+            "collection_id": {
+                "N": "982"
+            },
             "color_1": {
                 "S": "White"
             },
@@ -19914,6 +21744,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderShell0"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderShell0"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderShell0"
             },
             "gender": {
@@ -19999,6 +21835,9 @@
             "buy_price": {
                 "N": "1040"
             },
+            "collection_id": {
+                "N": "1479"
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -20012,6 +21851,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackTownSimple0"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackTownSimple0"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackTownSimple0"
             },
             "gender": {
@@ -20097,6 +21942,9 @@
             "buy_price": {
                 "N": "1040"
             },
+            "collection_id": {
+                "N": "1479"
+            },
             "color_1": {
                 "S": "Gray"
             },
@@ -20110,6 +21958,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackTownSimple1"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackTownSimple1"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackTownSimple1"
             },
             "gender": {
@@ -20195,6 +22049,9 @@
             "buy_price": {
                 "N": "1040"
             },
+            "collection_id": {
+                "N": "1479"
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -20208,6 +22065,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackTownSimple2"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackTownSimple2"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackTownSimple2"
             },
             "gender": {
@@ -20293,6 +22156,9 @@
             "buy_price": {
                 "N": "920"
             },
+            "collection_id": {
+                "N": "1513"
+            },
             "color_1": {
                 "S": "White"
             },
@@ -20306,6 +22172,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "ToolBagTote0"
+            },
+            "filename_closet_image": {
+                "NULL": true
+            },
+            "filename_storage_image": {
                 "S": "ToolBagTote0"
             },
             "gender": {
@@ -20391,6 +22263,9 @@
             "buy_price": {
                 "N": "920"
             },
+            "collection_id": {
+                "N": "1513"
+            },
             "color_1": {
                 "S": "White"
             },
@@ -20404,6 +22279,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "ToolBagTote2"
+            },
+            "filename_closet_image": {
+                "NULL": true
+            },
+            "filename_storage_image": {
                 "S": "ToolBagTote2"
             },
             "gender": {
@@ -20489,6 +22370,9 @@
             "buy_price": {
                 "N": "920"
             },
+            "collection_id": {
+                "N": "1513"
+            },
             "color_1": {
                 "S": "White"
             },
@@ -20502,6 +22386,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "ToolBagTote3"
+            },
+            "filename_closet_image": {
+                "NULL": true
+            },
+            "filename_storage_image": {
                 "S": "ToolBagTote3"
             },
             "gender": {
@@ -20587,6 +22477,9 @@
             "buy_price": {
                 "N": "920"
             },
+            "collection_id": {
+                "N": "1513"
+            },
             "color_1": {
                 "S": "White"
             },
@@ -20600,6 +22493,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "ToolBagTote1"
+            },
+            "filename_closet_image": {
+                "NULL": true
+            },
+            "filename_storage_image": {
                 "S": "ToolBagTote1"
             },
             "gender": {
@@ -20685,6 +22584,9 @@
             "buy_price": {
                 "N": "920"
             },
+            "collection_id": {
+                "N": "1513"
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -20698,6 +22600,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "ToolBagTote5"
+            },
+            "filename_closet_image": {
+                "NULL": true
+            },
+            "filename_storage_image": {
                 "S": "ToolBagTote5"
             },
             "gender": {
@@ -20783,6 +22691,9 @@
             "buy_price": {
                 "N": "920"
             },
+            "collection_id": {
+                "N": "1513"
+            },
             "color_1": {
                 "S": "Beige"
             },
@@ -20796,6 +22707,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "ToolBagTote4"
+            },
+            "filename_closet_image": {
+                "NULL": true
+            },
+            "filename_storage_image": {
                 "S": "ToolBagTote4"
             },
             "gender": {
@@ -20881,6 +22798,9 @@
             "buy_price": {
                 "NULL": true
             },
+            "collection_id": {
+                "N": "981"
+            },
             "color_1": {
                 "S": "Aqua"
             },
@@ -20894,6 +22814,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderSnow0"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderSnow0"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderSnow0"
             },
             "gender": {
@@ -20979,6 +22905,9 @@
             "buy_price": {
                 "N": "1280"
             },
+            "collection_id": {
+                "N": "1482"
+            },
             "color_1": {
                 "S": "Pink"
             },
@@ -20992,6 +22921,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackTownSpace2"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackTownSpace2"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackTownSpace2"
             },
             "gender": {
@@ -21077,6 +23012,9 @@
             "buy_price": {
                 "N": "1280"
             },
+            "collection_id": {
+                "N": "1482"
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -21090,6 +23028,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackTownSpace1"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackTownSpace1"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackTownSpace1"
             },
             "gender": {
@@ -21175,6 +23119,9 @@
             "buy_price": {
                 "N": "1280"
             },
+            "collection_id": {
+                "N": "1482"
+            },
             "color_1": {
                 "S": "Blue"
             },
@@ -21188,6 +23135,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackTownSpace0"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackTownSpace0"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackTownSpace0"
             },
             "gender": {
@@ -21273,6 +23226,9 @@
             "buy_price": {
                 "N": "1300"
             },
+            "collection_id": {
+                "N": "989"
+            },
             "color_1": {
                 "S": "Pink"
             },
@@ -21286,6 +23242,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackSquare1"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackSquare1"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackSquare1"
             },
             "gender": {
@@ -21371,6 +23333,9 @@
             "buy_price": {
                 "N": "1300"
             },
+            "collection_id": {
+                "N": "989"
+            },
             "color_1": {
                 "S": "Yellow"
             },
@@ -21384,6 +23349,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackSquare0"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackSquare0"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackSquare0"
             },
             "gender": {
@@ -21469,6 +23440,9 @@
             "buy_price": {
                 "N": "1300"
             },
+            "collection_id": {
+                "N": "989"
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -21482,6 +23456,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackSquare2"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackSquare2"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackSquare2"
             },
             "gender": {
@@ -21567,6 +23547,9 @@
             "buy_price": {
                 "N": "920"
             },
+            "collection_id": {
+                "N": "1469"
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -21580,6 +23563,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderSquare0"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderSquare0"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderSquare0"
             },
             "gender": {
@@ -21665,6 +23654,9 @@
             "buy_price": {
                 "N": "920"
             },
+            "collection_id": {
+                "N": "1469"
+            },
             "color_1": {
                 "S": "Beige"
             },
@@ -21678,6 +23670,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderSquare1"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderSquare1"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderSquare1"
             },
             "gender": {
@@ -21763,6 +23761,9 @@
             "buy_price": {
                 "NULL": true
             },
+            "collection_id": {
+                "N": "977"
+            },
             "color_1": {
                 "S": "Yellow"
             },
@@ -21776,6 +23777,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderStar0"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderStar0"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderStar0"
             },
             "gender": {
@@ -21861,6 +23868,9 @@
             "buy_price": {
                 "N": "980"
             },
+            "collection_id": {
+                "N": "976"
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -21874,6 +23884,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderRattan0"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderRattan0"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderRattan0"
             },
             "gender": {
@@ -21959,6 +23975,9 @@
             "buy_price": {
                 "N": "1280"
             },
+            "collection_id": {
+                "N": "1504"
+            },
             "color_1": {
                 "S": "Beige"
             },
@@ -21972,6 +23991,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "ToolBagBasketborder0"
+            },
+            "filename_closet_image": {
+                "NULL": true
+            },
+            "filename_storage_image": {
                 "S": "ToolBagBasketborder0"
             },
             "gender": {
@@ -22057,6 +24082,9 @@
             "buy_price": {
                 "N": "1280"
             },
+            "collection_id": {
+                "N": "1504"
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -22070,6 +24098,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "ToolBagBasketborder1"
+            },
+            "filename_closet_image": {
+                "NULL": true
+            },
+            "filename_storage_image": {
                 "S": "ToolBagBasketborder1"
             },
             "gender": {
@@ -22155,6 +24189,9 @@
             "buy_price": {
                 "N": "1560"
             },
+            "collection_id": {
+                "N": "992"
+            },
             "color_1": {
                 "S": "White"
             },
@@ -22168,6 +24205,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackStuds1"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackStuds1"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackStuds1"
             },
             "gender": {
@@ -22253,6 +24296,9 @@
             "buy_price": {
                 "N": "1560"
             },
+            "collection_id": {
+                "N": "992"
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -22266,6 +24312,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackStuds0"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackStuds0"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackStuds0"
             },
             "gender": {
@@ -22351,6 +24403,9 @@
             "buy_price": {
                 "N": "9800"
             },
+            "collection_id": {
+                "N": "1458"
+            },
             "color_1": {
                 "S": "Red"
             },
@@ -22364,6 +24419,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderSword0"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderSword0"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderSword0"
             },
             "gender": {
@@ -22449,6 +24510,9 @@
             "buy_price": {
                 "N": "9800"
             },
+            "collection_id": {
+                "N": "1458"
+            },
             "color_1": {
                 "S": "Blue"
             },
@@ -22462,6 +24526,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderSword1"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderSword1"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderSword1"
             },
             "gender": {
@@ -22547,6 +24617,9 @@
             "buy_price": {
                 "N": "9800"
             },
+            "collection_id": {
+                "N": "1458"
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -22560,6 +24633,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderSword2"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderSword2"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderSword2"
             },
             "gender": {
@@ -22645,6 +24724,9 @@
             "buy_price": {
                 "NULL": true
             },
+            "collection_id": {
+                "N": "966"
+            },
             "color_1": {
                 "S": "Blue"
             },
@@ -22658,6 +24740,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderFishing0"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderFishing0"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderFishing0"
             },
             "gender": {
@@ -22743,6 +24831,9 @@
             "buy_price": {
                 "N": "980"
             },
+            "collection_id": {
+                "N": "1515"
+            },
             "color_1": {
                 "S": "White"
             },
@@ -22756,6 +24847,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "ToolBagToteflower0"
+            },
+            "filename_closet_image": {
+                "NULL": true
+            },
+            "filename_storage_image": {
                 "S": "ToolBagToteflower0"
             },
             "gender": {
@@ -22841,6 +24938,9 @@
             "buy_price": {
                 "N": "980"
             },
+            "collection_id": {
+                "N": "1515"
+            },
             "color_1": {
                 "S": "White"
             },
@@ -22854,6 +24954,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "ToolBagToteflower2"
+            },
+            "filename_closet_image": {
+                "NULL": true
+            },
+            "filename_storage_image": {
                 "S": "ToolBagToteflower2"
             },
             "gender": {
@@ -22939,6 +25045,9 @@
             "buy_price": {
                 "N": "980"
             },
+            "collection_id": {
+                "N": "1515"
+            },
             "color_1": {
                 "S": "White"
             },
@@ -22952,6 +25061,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "ToolBagToteflower1"
+            },
+            "filename_closet_image": {
+                "NULL": true
+            },
+            "filename_storage_image": {
                 "S": "ToolBagToteflower1"
             },
             "gender": {
@@ -23037,6 +25152,9 @@
             "buy_price": {
                 "N": "910"
             },
+            "collection_id": {
+                "N": "983"
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -23050,6 +25168,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderTool0"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderTool0"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderTool0"
             },
             "gender": {
@@ -23135,6 +25259,9 @@
             "buy_price": {
                 "N": "1040"
             },
+            "collection_id": {
+                "N": "957"
+            },
             "color_1": {
                 "S": "Red"
             },
@@ -23148,6 +25275,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackTown3"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackTown3"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackTown3"
             },
             "gender": {
@@ -23233,6 +25366,9 @@
             "buy_price": {
                 "N": "1040"
             },
+            "collection_id": {
+                "N": "957"
+            },
             "color_1": {
                 "S": "Orange"
             },
@@ -23246,6 +25382,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackTown1"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackTown1"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackTown1"
             },
             "gender": {
@@ -23331,6 +25473,9 @@
             "buy_price": {
                 "N": "1040"
             },
+            "collection_id": {
+                "N": "957"
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -23344,6 +25489,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackTown0"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackTown0"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackTown0"
             },
             "gender": {
@@ -23429,6 +25580,9 @@
             "buy_price": {
                 "N": "1040"
             },
+            "collection_id": {
+                "N": "957"
+            },
             "color_1": {
                 "S": "Blue"
             },
@@ -23442,6 +25596,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackTown2"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackTown2"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackTown2"
             },
             "gender": {
@@ -23527,6 +25687,9 @@
             "buy_price": {
                 "N": "840"
             },
+            "collection_id": {
+                "N": "958"
+            },
             "color_1": {
                 "S": "Pink"
             },
@@ -23540,6 +25703,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderTravel0"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderTravel0"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderTravel0"
             },
             "gender": {
@@ -23625,6 +25794,9 @@
             "buy_price": {
                 "N": "840"
             },
+            "collection_id": {
+                "N": "958"
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -23638,6 +25810,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderTravel1"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderTravel1"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderTravel1"
             },
             "gender": {
@@ -23723,6 +25901,9 @@
             "buy_price": {
                 "N": "840"
             },
+            "collection_id": {
+                "N": "958"
+            },
             "color_1": {
                 "S": "Aqua"
             },
@@ -23736,6 +25917,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderTravel2"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderTravel2"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderTravel2"
             },
             "gender": {
@@ -23821,6 +26008,9 @@
             "buy_price": {
                 "N": "840"
             },
+            "collection_id": {
+                "N": "958"
+            },
             "color_1": {
                 "S": "Purple"
             },
@@ -23834,6 +26024,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderTravel3"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderTravel3"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderTravel3"
             },
             "gender": {
@@ -23919,6 +26115,9 @@
             "buy_price": {
                 "N": "2940"
             },
+            "collection_id": {
+                "N": "988"
+            },
             "color_1": {
                 "S": "Orange"
             },
@@ -23932,6 +26131,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackJourney0"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackJourney0"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackJourney0"
             },
             "gender": {
@@ -24017,6 +26222,9 @@
             "buy_price": {
                 "N": "2940"
             },
+            "collection_id": {
+                "N": "988"
+            },
             "color_1": {
                 "S": "Blue"
             },
@@ -24030,6 +26238,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackJourney1"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackJourney1"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackJourney1"
             },
             "gender": {
@@ -24115,6 +26329,9 @@
             "buy_price": {
                 "N": "2940"
             },
+            "collection_id": {
+                "N": "988"
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -24128,6 +26345,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackJourney2"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackJourney2"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackJourney2"
             },
             "gender": {
@@ -24213,6 +26436,9 @@
             "buy_price": {
                 "N": "840"
             },
+            "collection_id": {
+                "N": "1517"
+            },
             "color_1": {
                 "S": "White"
             },
@@ -24226,6 +26452,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "ToolBagEco0"
+            },
+            "filename_closet_image": {
+                "NULL": true
+            },
+            "filename_storage_image": {
                 "S": "ToolBagEco0"
             },
             "gender": {
@@ -24311,6 +26543,9 @@
             "buy_price": {
                 "NULL": true
             },
+            "collection_id": {
+                "N": "1358"
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -24324,6 +26559,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderVine0"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderVine0"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderVine0"
             },
             "gender": {
@@ -24409,6 +26650,9 @@
             "buy_price": {
                 "N": "1680"
             },
+            "collection_id": {
+                "N": "1478"
+            },
             "color_1": {
                 "S": "White"
             },
@@ -24422,6 +26666,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackTownZebra0"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackTownZebra0"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackTownZebra0"
             },
             "gender": {
@@ -24507,6 +26757,9 @@
             "buy_price": {
                 "N": "1680"
             },
+            "collection_id": {
+                "N": "1478"
+            },
             "color_1": {
                 "S": "Yellow"
             },
@@ -24520,6 +26773,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagBackpackTownZebra1"
+            },
+            "filename_closet_image": {
+                "S": "BagBackpackTownZebra1"
+            },
+            "filename_storage_image": {
                 "S": "BagBackpackTownZebra1"
             },
             "gender": {
@@ -24605,6 +26864,9 @@
             "buy_price": {
                 "N": "1480"
             },
+            "collection_id": {
+                "N": "1499"
+            },
             "color_1": {
                 "S": "White"
             },
@@ -24618,6 +26880,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderSquareZebra0"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderSquareZebra0"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderSquareZebra0"
             },
             "gender": {
@@ -24703,6 +26971,9 @@
             "buy_price": {
                 "N": "1480"
             },
+            "collection_id": {
+                "N": "1499"
+            },
             "color_1": {
                 "S": "Yellow"
             },
@@ -24716,6 +26987,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderSquareZebra1"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderSquareZebra1"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderSquareZebra1"
             },
             "gender": {
@@ -24801,6 +27078,9 @@
             "buy_price": {
                 "N": "960"
             },
+            "collection_id": {
+                "N": "1491"
+            },
             "color_1": {
                 "S": "Blue"
             },
@@ -24814,6 +27094,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderGamaguchiJapan0"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderGamaguchiJapan0"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderGamaguchiJapan0"
             },
             "gender": {
@@ -24899,6 +27185,9 @@
             "buy_price": {
                 "N": "960"
             },
+            "collection_id": {
+                "N": "1491"
+            },
             "color_1": {
                 "S": "Yellow"
             },
@@ -24912,6 +27201,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderGamaguchiJapan1"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderGamaguchiJapan1"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderGamaguchiJapan1"
             },
             "gender": {
@@ -24997,6 +27292,9 @@
             "buy_price": {
                 "N": "960"
             },
+            "collection_id": {
+                "N": "1491"
+            },
             "color_1": {
                 "S": "Aqua"
             },
@@ -25010,6 +27308,12 @@
                 "NULL": true
             },
             "filename": {
+                "S": "BagShoulderGamaguchiJapan2"
+            },
+            "filename_closet_image": {
+                "S": "BagShoulderGamaguchiJapan2"
+            },
+            "filename_storage_image": {
                 "S": "BagShoulderGamaguchiJapan2"
             },
             "gender": {

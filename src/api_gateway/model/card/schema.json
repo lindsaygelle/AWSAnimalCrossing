@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 16,
-    "minProperties": 16,
+    "maxProperties": 17,
+    "minProperties": 17,
     "properties": {
         "back_color": {
             "maxLength": 7,
@@ -34,6 +34,13 @@
             "type": [
                 "integer",
                 "null"
+            ]
+        },
+        "filename_image": {
+            "maxLength": 22,
+            "minLength": 8,
+            "type": [
+                "string"
             ]
         },
         "foot_color": {
@@ -124,6 +131,7 @@
         "body_color",
         "buy_currency",
         "buy_price",
+        "filename_image",
         "foot_color",
         "head_color",
         "image_url",

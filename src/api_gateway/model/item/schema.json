@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 37,
-    "minProperties": 37,
+    "maxProperties": 38,
+    "minProperties": 38,
     "properties": {
         "body_category": {
             "maxLength": 13,
@@ -96,6 +96,13 @@
             ]
         },
         "filename": {
+            "maxLength": 33,
+            "minLength": 7,
+            "type": [
+                "string"
+            ]
+        },
+        "filename_image": {
             "maxLength": 33,
             "minLength": 7,
             "type": [
@@ -296,6 +303,7 @@
         "exchange_currency",
         "exchange_price",
         "filename",
+        "filename_image",
         "food_strength",
         "hha_category",
         "hha_concept_1",

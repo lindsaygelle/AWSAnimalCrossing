@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 16,
-    "minProperties": 16,
+    "maxProperties": 18,
+    "minProperties": 18,
     "properties": {
         "buy_currency": {
             "maxLength": 5,
@@ -45,6 +45,21 @@
             "type": [
                 "integer",
                 "null"
+            ]
+        },
+        "filename_image": {
+            "maxLength": 37,
+            "minLength": 6,
+            "type": [
+                "string"
+            ]
+        },
+        "filename_image_sh": {
+            "maxLength": 33,
+            "minLength": 26,
+            "type": [
+                "null",
+                "string"
             ]
         },
         "image_sh_url": {
@@ -134,6 +149,8 @@
         "card_color",
         "exchange_currency",
         "exchange_price",
+        "filename_image",
+        "filename_image_sh",
         "image_sh_url",
         "image_url",
         "internal_id",

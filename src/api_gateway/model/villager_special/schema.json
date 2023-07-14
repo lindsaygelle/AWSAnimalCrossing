@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 15,
-    "minProperties": 15,
+    "maxProperties": 17,
+    "minProperties": 17,
     "properties": {
         "birth_day": {
             "exclusiveMaximum": false,
@@ -28,7 +28,23 @@
                 "string"
             ]
         },
+        "filename_icon_image": {
+            "maxLength": 4,
+            "minLength": 3,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
         "filename_photo": {
+            "maxLength": 9,
+            "minLength": 8,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "filename_photo_image": {
             "maxLength": 9,
             "minLength": 8,
             "type": [
@@ -118,7 +134,9 @@
         "birth_day",
         "birth_month",
         "bubble_color",
+        "filename_icon_image",
         "filename_photo",
+        "filename_photo_image",
         "gender",
         "gender_alternative",
         "hobby_name",

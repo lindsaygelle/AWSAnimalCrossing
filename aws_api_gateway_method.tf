@@ -98,6 +98,7 @@ resource "aws_api_gateway_method" "clothing_accessory_GET" {
   request_parameters = {
     "method.request.querystring.buy_currency"      = false
     "method.request.querystring.buy_price"         = false
+    "method.request.querystring.collection_id"     = false
     "method.request.querystring.color_1"           = false
     "method.request.querystring.color_2"           = false
     "method.request.querystring.exchange_currency" = false
@@ -164,6 +165,7 @@ resource "aws_api_gateway_method" "clothing_bag_GET" {
   request_parameters = {
     "method.request.querystring.buy_currency"      = false
     "method.request.querystring.buy_price"         = false
+    "method.request.querystring.collection_id"     = false
     "method.request.querystring.color_1"           = false
     "method.request.querystring.color_2"           = false
     "method.request.querystring.exchange_currency" = false
@@ -229,6 +231,7 @@ resource "aws_api_gateway_method" "clothing_bottom_GET" {
   request_parameters = {
     "method.request.querystring.buy_currency"      = false
     "method.request.querystring.buy_price"         = false
+    "method.request.querystring.collection_id"     = false
     "method.request.querystring.color_1"           = false
     "method.request.querystring.color_2"           = false
     "method.request.querystring.exchange_currency" = false
@@ -294,6 +297,7 @@ resource "aws_api_gateway_method" "clothing_dress_up_GET" {
   request_parameters = {
     "method.request.querystring.buy_currency"      = false
     "method.request.querystring.buy_price"         = false
+    "method.request.querystring.collection_id"     = false
     "method.request.querystring.color_1"           = false
     "method.request.querystring.color_2"           = false
     "method.request.querystring.exchange_currency" = false
@@ -362,6 +366,7 @@ resource "aws_api_gateway_method" "clothing_headwear_GET" {
   request_parameters = {
     "method.request.querystring.buy_currency"      = false
     "method.request.querystring.buy_price"         = false
+    "method.request.querystring.collection_id"     = false
     "method.request.querystring.color_1"           = false
     "method.request.querystring.color_2"           = false
     "method.request.querystring.exchange_currency" = false
@@ -428,6 +433,7 @@ resource "aws_api_gateway_method" "clothing_other_GET" {
   request_parameters = {
     "method.request.querystring.buy_currency"      = false
     "method.request.querystring.buy_price"         = false
+    "method.request.querystring.collection_id"     = false
     "method.request.querystring.color_1"           = false
     "method.request.querystring.color_2"           = false
     "method.request.querystring.exchange_currency" = false
@@ -495,6 +501,7 @@ resource "aws_api_gateway_method" "clothing_shoe_GET" {
   request_parameters = {
     "method.request.querystring.buy_currency"      = false
     "method.request.querystring.buy_price"         = false
+    "method.request.querystring.collection_id"     = false
     "method.request.querystring.color_1"           = false
     "method.request.querystring.color_2"           = false
     "method.request.querystring.exchange_currency" = false
@@ -560,6 +567,7 @@ resource "aws_api_gateway_method" "clothing_sock_GET" {
   request_parameters = {
     "method.request.querystring.buy_currency"      = false
     "method.request.querystring.buy_price"         = false
+    "method.request.querystring.collection_id"     = false
     "method.request.querystring.color_1"           = false
     "method.request.querystring.color_2"           = false
     "method.request.querystring.exchange_currency" = false
@@ -625,6 +633,7 @@ resource "aws_api_gateway_method" "clothing_top_GET" {
   request_parameters = {
     "method.request.querystring.buy_currency"      = false
     "method.request.querystring.buy_price"         = false
+    "method.request.querystring.collection_id"     = false
     "method.request.querystring.color_1"           = false
     "method.request.querystring.color_2"           = false
     "method.request.querystring.exchange_currency" = false
