@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 32,
-    "minProperties": 32,
+    "maxProperties": 35,
+    "minProperties": 35,
     "properties": {
         "buy_currency": {
             "maxLength": 5,
@@ -19,6 +19,15 @@
             "type": [
                 "integer",
                 "null"
+            ]
+        },
+        "collection_id": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 1496,
+            "minimum": 6,
+            "type": [
+                "integer"
             ]
         },
         "color_1": {
@@ -54,6 +63,20 @@
             ]
         },
         "filename": {
+            "maxLength": 35,
+            "minLength": 19,
+            "type": [
+                "string"
+            ]
+        },
+        "filename_closet_image": {
+            "maxLength": 35,
+            "minLength": 19,
+            "type": [
+                "string"
+            ]
+        },
+        "filename_storage_image": {
             "maxLength": 35,
             "minLength": 19,
             "type": [
@@ -233,11 +256,14 @@
     "required": [
         "buy_currency",
         "buy_price",
+        "collection_id",
         "color_1",
         "color_2",
         "exchange_currency",
         "exchange_price",
         "filename",
+        "filename_closet_image",
+        "filename_storage_image",
         "gender",
         "hha_category",
         "hha_concept_1",

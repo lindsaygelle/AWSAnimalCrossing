@@ -22,6 +22,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "DIYAcorn"
+            },
+            "filename_storage_image": {
+                "S": "DIYAcorn"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -102,6 +108,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "Apple"
+            },
+            "filename_storage_image": {
+                "S": "Apple"
+            },
             "food_strength": {
                 "N": "1"
             },
@@ -180,6 +192,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "PltApple"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -262,6 +280,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "StarpieceAquarius"
+            },
+            "filename_storage_image": {
+                "S": "StarpieceAquarius"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -341,6 +365,12 @@
             },
             "exchange_price": {
                 "N": "2000"
+            },
+            "filename_inventory_image": {
+                "S": "Helmet"
+            },
+            "filename_storage_image": {
+                "NULL": true
             },
             "food_strength": {
                 "NULL": true
@@ -422,6 +452,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "StarpieceAries"
+            },
+            "filename_storage_image": {
+                "S": "StarpieceAries"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -501,6 +537,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "DIYBamboo"
+            },
+            "filename_storage_image": {
+                "S": "DIYBamboo"
             },
             "food_strength": {
                 "NULL": true
@@ -582,6 +624,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "BanbooShoot"
+            },
+            "filename_storage_image": {
+                "S": "BambooShoot"
+            },
             "food_strength": {
                 "N": "1"
             },
@@ -660,6 +708,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "PltBamboo"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -742,6 +796,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "NULL": true
+            },
+            "filename_storage_image": {
+                "S": "Cookingbook1"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -821,6 +881,12 @@
             },
             "exchange_price": {
                 "N": "2000"
+            },
+            "filename_inventory_image": {
+                "S": "DIYRecipePlus"
+            },
+            "filename_storage_image": {
+                "NULL": true
             },
             "food_strength": {
                 "NULL": true
@@ -902,6 +968,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "MoneyBag010"
+            },
+            "filename_storage_image": {
+                "S": "PhotoStudioBellBag"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -981,6 +1053,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "Coin"
+            },
+            "filename_storage_image": {
+                "S": "PhotoStudioBell"
             },
             "food_strength": {
                 "NULL": true
@@ -1062,6 +1140,12 @@
             "exchange_price": {
                 "N": "500"
             },
+            "filename_inventory_image": {
+                "S": "BellExchangeTicket"
+            },
+            "filename_storage_image": {
+                "S": "BellExchangeTicket"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -1141,6 +1225,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "Cosmos5"
+            },
+            "filename_storage_image": {
+                "S": "FlwCosmosBlack"
             },
             "food_strength": {
                 "NULL": true
@@ -1222,6 +1312,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "Yuri5"
+            },
+            "filename_storage_image": {
+                "S": "FlwYuriBlack"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -1301,6 +1397,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "Rose6"
+            },
+            "filename_storage_image": {
+                "S": "FlwRoseBlack"
             },
             "food_strength": {
                 "NULL": true
@@ -1382,6 +1484,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "Turip5"
+            },
+            "filename_storage_image": {
+                "S": "FlwTulipBlack"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -1462,6 +1570,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "WPaperBlack"
+            },
+            "filename_storage_image": {
+                "S": "WPaperBlack"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -1540,6 +1654,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "PltCosmos5"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -1622,6 +1742,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "PltYuri5"
+            },
+            "filename_storage_image": {
+                "NULL": true
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -1700,6 +1826,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "PltRose6"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -1782,6 +1914,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "PltTurip5"
+            },
+            "filename_storage_image": {
+                "NULL": true
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -1860,6 +1998,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "TentWhite"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -1942,6 +2086,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "FeatherBlu"
+            },
+            "filename_storage_image": {
+                "S": "FeatherBlue"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -2021,6 +2171,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "Hyacinth6"
+            },
+            "filename_storage_image": {
+                "S": "FlwHyacinthBlue"
             },
             "food_strength": {
                 "NULL": true
@@ -2102,6 +2258,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "ChristmasOrnamentB"
+            },
+            "filename_storage_image": {
+                "S": "DIYOrnamentBlue"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -2181,6 +2343,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "Pansi5"
+            },
+            "filename_storage_image": {
+                "S": "FlwPansyBlue"
             },
             "food_strength": {
                 "NULL": true
@@ -2262,6 +2430,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "Rose7"
+            },
+            "filename_storage_image": {
+                "S": "FlwRoseBlue"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -2341,6 +2515,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "Anemone5"
+            },
+            "filename_storage_image": {
+                "S": "FlwAnemonesBlue"
             },
             "food_strength": {
                 "NULL": true
@@ -2422,6 +2602,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "WPaperBlue"
+            },
+            "filename_storage_image": {
+                "S": "WPaperBlue"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -2500,6 +2686,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "PltHyacinth6"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -2582,6 +2774,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "PltHydrangeaBlue"
+            },
+            "filename_storage_image": {
+                "NULL": true
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -2662,6 +2860,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "SeedHydrangeaBlue"
+            },
+            "filename_storage_image": {
+                "S": "SeedHydrangeaBlue"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -2740,6 +2944,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "PltPansi5"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -2822,6 +3032,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "PltRose7"
+            },
+            "filename_storage_image": {
+                "NULL": true
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -2900,6 +3116,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "PltAnemone5"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -2982,6 +3204,12 @@
             "exchange_price": {
                 "N": "2400"
             },
+            "filename_inventory_image": {
+                "S": "HowtoBookHair"
+            },
+            "filename_storage_image": {
+                "NULL": true
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -3061,6 +3289,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "OtoshidamaOpenKr"
+            },
+            "filename_storage_image": {
+                "S": "OtoshidamaKr"
             },
             "food_strength": {
                 "NULL": true
@@ -3142,6 +3376,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "Boots"
+            },
+            "filename_storage_image": {
+                "S": "TrashBoot"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -3222,6 +3462,12 @@
             "exchange_price": {
                 "N": "2000"
             },
+            "filename_inventory_image": {
+                "S": "Helmet"
+            },
+            "filename_storage_image": {
+                "NULL": true
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -3300,6 +3546,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "TentWhite"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -3382,6 +3634,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "TentWhite"
+            },
+            "filename_storage_image": {
+                "NULL": true
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -3461,6 +3719,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "FlourSugarbrown"
+            },
+            "filename_storage_image": {
+                "S": "FlourSugarbrown"
             },
             "food_strength": {
                 "NULL": true
@@ -3542,6 +3806,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "WPaperBrown"
+            },
+            "filename_storage_image": {
+                "S": "WPaperBrown"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -3620,6 +3890,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "TentWhite"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -3702,6 +3978,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "TentWhite"
+            },
+            "filename_storage_image": {
+                "NULL": true
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -3781,6 +4063,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "StarpieceCancer"
+            },
+            "filename_storage_image": {
+                "S": "StarpieceCancer"
             },
             "food_strength": {
                 "NULL": true
@@ -3862,6 +4150,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "Candy"
+            },
+            "filename_storage_image": {
+                "S": "Candy"
+            },
             "food_strength": {
                 "N": "1"
             },
@@ -3941,6 +4235,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "StarpieceCapricornus"
+            },
+            "filename_storage_image": {
+                "S": "StarpieceCapricornus"
             },
             "food_strength": {
                 "NULL": true
@@ -4022,6 +4322,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "Carrot"
+            },
+            "filename_storage_image": {
+                "S": "Carrot"
+            },
             "food_strength": {
                 "N": "1"
             },
@@ -4101,6 +4407,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "SeedlingVegetable"
+            },
+            "filename_storage_image": {
+                "S": "SeedCarrot"
             },
             "food_strength": {
                 "NULL": true
@@ -4182,6 +4494,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "SeedlingConifer"
+            },
+            "filename_storage_image": {
+                "S": "SeedCedar"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -4260,6 +4578,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "PltConifer"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -4342,6 +4666,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "WPaperLightGreen"
+            },
+            "filename_storage_image": {
+                "S": "WPaperLightGreen"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -4422,6 +4752,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "Cherry"
+            },
+            "filename_storage_image": {
+                "S": "Cherry"
+            },
             "food_strength": {
                 "N": "1"
             },
@@ -4500,6 +4836,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "PltCherry"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -4582,6 +4924,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "Sakurapetal"
+            },
+            "filename_storage_image": {
+                "S": "Sakurapetal"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -4661,6 +5009,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "OreClay"
+            },
+            "filename_storage_image": {
+                "S": "DIYClay"
             },
             "food_strength": {
                 "NULL": true
@@ -4742,6 +5096,12 @@
             "exchange_price": {
                 "N": "6000"
             },
+            "filename_inventory_image": {
+                "S": "ToolCliffMaker"
+            },
+            "filename_storage_image": {
+                "NULL": true
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -4821,6 +5181,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "Weed"
+            },
+            "filename_storage_image": {
+                "S": "PltWeed"
             },
             "food_strength": {
                 "NULL": true
@@ -4902,6 +5268,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "Coconut"
+            },
+            "filename_storage_image": {
+                "S": "Coconut"
+            },
             "food_strength": {
                 "N": "1"
             },
@@ -4980,6 +5352,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "PltPalm"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -5062,6 +5440,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "PirateQuest"
+            },
+            "filename_storage_image": {
+                "NULL": true
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -5140,6 +5524,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "JohnyParts"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -5222,6 +5612,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "Shell1"
+            },
+            "filename_storage_image": {
+                "S": "ShellDriftHora"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -5301,6 +5697,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "Shell3"
+            },
+            "filename_storage_image": {
+                "S": "ShellDriftSango"
             },
             "food_strength": {
                 "NULL": true
@@ -5382,6 +5784,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "Shell7"
+            },
+            "filename_storage_image": {
+                "S": "ShellDriftTakara"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -5461,6 +5869,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "NULL": true
+            },
+            "filename_storage_image": {
+                "S": "DIYbookHarvest"
             },
             "food_strength": {
                 "NULL": true
@@ -5542,6 +5956,12 @@
             "exchange_price": {
                 "N": "2300"
             },
+            "filename_inventory_image": {
+                "S": "Helmet"
+            },
+            "filename_storage_image": {
+                "NULL": true
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -5621,6 +6041,12 @@
             },
             "exchange_price": {
                 "N": "800"
+            },
+            "filename_inventory_image": {
+                "S": "MyDesignPro"
+            },
+            "filename_storage_image": {
+                "NULL": true
             },
             "food_strength": {
                 "NULL": true
@@ -5702,6 +6128,12 @@
             "exchange_price": {
                 "N": "2000"
             },
+            "filename_inventory_image": {
+                "S": "MyDesignPro"
+            },
+            "filename_storage_image": {
+                "NULL": true
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -5781,6 +6213,12 @@
             },
             "exchange_price": {
                 "N": "1800"
+            },
+            "filename_inventory_image": {
+                "S": "MyDesignPro"
+            },
+            "filename_storage_image": {
+                "NULL": true
             },
             "food_strength": {
                 "NULL": true
@@ -5862,6 +6300,12 @@
             "exchange_price": {
                 "N": "300"
             },
+            "filename_inventory_image": {
+                "S": "MyDesignPro"
+            },
+            "filename_storage_image": {
+                "NULL": true
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -5941,6 +6385,12 @@
             },
             "exchange_price": {
                 "N": "2500"
+            },
+            "filename_inventory_image": {
+                "S": "HowtoBookExpansion"
+            },
+            "filename_storage_image": {
+                "NULL": true
             },
             "food_strength": {
                 "NULL": true
@@ -6022,6 +6472,12 @@
             "exchange_price": {
                 "N": "1800"
             },
+            "filename_inventory_image": {
+                "S": "SmartphoneCase"
+            },
+            "filename_storage_image": {
+                "S": "SmartphoneCase_Remake_0_0"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -6101,6 +6557,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "RemakeKit"
+            },
+            "filename_storage_image": {
+                "S": "RemakeKit"
             },
             "food_strength": {
                 "NULL": true
@@ -6182,6 +6644,12 @@
             "exchange_price": {
                 "N": "2000"
             },
+            "filename_inventory_image": {
+                "S": "Helmet"
+            },
+            "filename_storage_image": {
+                "NULL": true
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -6260,6 +6728,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "Cardboard"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -6342,6 +6816,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "OneroomCardboard"
+            },
+            "filename_storage_image": {
+                "NULL": true
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -6420,6 +6900,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "Present2"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -6502,6 +6988,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "NULL": true
+            },
+            "filename_storage_image": {
+                "S": "DIYbook1"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -6581,6 +7073,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "DreamBellExchangeTicket"
+            },
+            "filename_storage_image": {
+                "S": "DreamBellExchangeTicket"
             },
             "food_strength": {
                 "NULL": true
@@ -6662,6 +7160,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "EggGround"
+            },
+            "filename_storage_image": {
+                "S": "EggGround"
+            },
             "food_strength": {
                 "N": "1"
             },
@@ -6740,6 +7244,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "MessageBottleEgg"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -6822,6 +7332,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "Mush0"
+            },
+            "filename_storage_image": {
+                "S": "MushSplendid"
+            },
             "food_strength": {
                 "N": "1"
             },
@@ -6901,6 +7417,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "Can"
+            },
+            "filename_storage_image": {
+                "S": "TrashCan"
             },
             "food_strength": {
                 "NULL": true
@@ -6982,6 +7504,12 @@
             "exchange_price": {
                 "N": "2400"
             },
+            "filename_inventory_image": {
+                "S": "HowtoBookHair"
+            },
+            "filename_storage_image": {
+                "NULL": true
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -7061,6 +7589,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "WPaperOrnament"
+            },
+            "filename_storage_image": {
+                "S": "WPaperOrnament"
             },
             "food_strength": {
                 "NULL": true
@@ -7142,6 +7676,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "FishBait"
+            },
+            "filename_storage_image": {
+                "S": "FishBait"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -7221,6 +7761,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "Mush3"
+            },
+            "filename_storage_image": {
+                "S": "MushFlat"
             },
             "food_strength": {
                 "N": "1"
@@ -7302,6 +7848,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "FlourWheat"
+            },
+            "filename_storage_image": {
+                "S": "FlourWheat"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -7381,6 +7933,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "Fossil"
+            },
+            "filename_storage_image": {
+                "S": "Fossil"
             },
             "food_strength": {
                 "NULL": true
@@ -7462,6 +8020,12 @@
             "exchange_price": {
                 "N": "500"
             },
+            "filename_inventory_image": {
+                "S": "PutHanabi"
+            },
+            "filename_storage_image": {
+                "S": "Fireworks"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -7541,6 +8105,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "StarpieceGemini"
+            },
+            "filename_storage_image": {
+                "S": "StarpieceGemini"
             },
             "food_strength": {
                 "NULL": true
@@ -7622,6 +8192,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "Shell2"
+            },
+            "filename_storage_image": {
+                "S": "ShellDriftSyako"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -7701,6 +8277,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "WBagOrnament"
+            },
+            "filename_storage_image": {
+                "S": "DummyWrappingOrnament"
             },
             "food_strength": {
                 "NULL": true
@@ -7782,6 +8364,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "PltWeedLight"
+            },
+            "filename_storage_image": {
+                "S": "PltWeedLight"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -7861,6 +8449,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "Gold_Ore"
+            },
+            "filename_storage_image": {
+                "S": "DIYGold"
             },
             "food_strength": {
                 "NULL": true
@@ -7942,6 +8536,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "ChristmasOrnamentC"
+            },
+            "filename_storage_image": {
+                "S": "DIYOrnamentGold"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -8021,6 +8621,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "GoldenRose"
+            },
+            "filename_storage_image": {
+                "S": "FlwRoseGold"
             },
             "food_strength": {
                 "NULL": true
@@ -8102,6 +8708,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "WPaperGold"
+            },
+            "filename_storage_image": {
+                "S": "WPaperGold"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -8180,6 +8792,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "PltGoldenRose"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -8262,6 +8880,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "WPaperGray"
+            },
+            "filename_storage_image": {
+                "S": "WPaperGray"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -8341,6 +8965,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "FeatherGrn"
+            },
+            "filename_storage_image": {
+                "S": "FeatherGreen"
             },
             "food_strength": {
                 "NULL": true
@@ -8422,6 +9052,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "Mum4"
+            },
+            "filename_storage_image": {
+                "S": "FlwMumGreen"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -8501,6 +9137,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "SquashGreen"
+            },
+            "filename_storage_image": {
+                "S": "SquashGreen"
             },
             "food_strength": {
                 "N": "1"
@@ -8582,6 +9224,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "WPaperGreen"
+            },
+            "filename_storage_image": {
+                "S": "WPaperGreen"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -8660,6 +9308,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "PltMum4"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -8742,6 +9396,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "HaniwaPiece"
+            },
+            "filename_storage_image": {
+                "S": "HaniwaPiece"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -8822,6 +9482,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "DIYWoodHard"
+            },
+            "filename_storage_image": {
+                "S": "DIYWoodHard"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -8900,6 +9566,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "PltOak"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -8982,6 +9654,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "Love"
+            },
+            "filename_storage_image": {
+                "S": "Love"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -9062,6 +9740,12 @@
             "exchange_price": {
                 "N": "2700"
             },
+            "filename_inventory_image": {
+                "S": "HowtoBookExpansion"
+            },
+            "filename_storage_image": {
+                "NULL": true
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -9140,6 +9824,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "PltHolly"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -9222,6 +9912,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "SeedHolly"
+            },
+            "filename_storage_image": {
+                "S": "SeedHolly"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -9300,6 +9996,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "TentWhite"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -9382,6 +10084,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "TentWhite"
+            },
+            "filename_storage_image": {
+                "NULL": true
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -9461,6 +10169,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "OreIron"
+            },
+            "filename_storage_image": {
+                "S": "DIYIron"
             },
             "food_strength": {
                 "NULL": true
@@ -9542,6 +10256,12 @@
             "exchange_price": {
                 "N": "400"
             },
+            "filename_inventory_image": {
+                "S": "LifeSupport"
+            },
+            "filename_storage_image": {
+                "NULL": true
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -9621,6 +10341,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "SnowCrystalLarge"
+            },
+            "filename_storage_image": {
+                "S": "SnowCrystalLarge"
             },
             "food_strength": {
                 "NULL": true
@@ -9702,6 +10428,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "StarPieceRare"
+            },
+            "filename_storage_image": {
+                "S": "StarpieceRare"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -9781,6 +10513,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "EggLeaf"
+            },
+            "filename_storage_image": {
+                "S": "EggLeaf"
             },
             "food_strength": {
                 "N": "1"
@@ -9862,6 +10600,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "StarpieceLeo"
+            },
+            "filename_storage_image": {
+                "S": "StarpieceLeo"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -9941,6 +10685,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "StarpieceLibra"
+            },
+            "filename_storage_image": {
+                "S": "StarpieceLibra"
             },
             "food_strength": {
                 "NULL": true
@@ -10022,6 +10772,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "WPaperLightBlue"
+            },
+            "filename_storage_image": {
+                "S": "WPaperLightBlue"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -10100,6 +10856,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "PltSuzuran"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -10182,6 +10944,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "Lollipop"
+            },
+            "filename_storage_image": {
+                "S": "Lollipop"
+            },
             "food_strength": {
                 "N": "1"
             },
@@ -10260,6 +11028,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "Porch"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -10342,6 +11116,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "Book"
+            },
+            "filename_storage_image": {
+                "NULL": true
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -10420,6 +11200,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "LostQuestMemo"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -10502,6 +11288,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "OtoshidamaSealCh"
+            },
+            "filename_storage_image": {
+                "NULL": true
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -10581,6 +11373,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "OtoshidamaOpenCh"
+            },
+            "filename_storage_image": {
+                "S": "OtoshidamaCh"
             },
             "food_strength": {
                 "NULL": true
@@ -10662,6 +11460,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "ShellFishAsari"
+            },
+            "filename_storage_image": {
+                "S": "FtrShellFishAsari"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -10741,6 +11545,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "AutumnLeaf"
+            },
+            "filename_storage_image": {
+                "S": "AutumnLeaf"
             },
             "food_strength": {
                 "NULL": true
@@ -10822,6 +11632,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "Medicine"
+            },
+            "filename_storage_image": {
+                "S": "ItemMedicine"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -10900,6 +11716,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "BottleRecipe"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -10982,6 +11804,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "WPaperMint"
+            },
+            "filename_storage_image": {
+                "S": "WPaperMint"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -11060,6 +11888,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "PltMoney"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -11142,6 +11976,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "TentWhite"
+            },
+            "filename_storage_image": {
+                "NULL": true
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -11220,6 +12060,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "TentWhite"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -11302,6 +12148,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "WPaperNavy"
+            },
+            "filename_storage_image": {
+                "S": "WPaperNavy"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -11381,6 +12233,12 @@
             },
             "exchange_price": {
                 "N": "3300"
+            },
+            "filename_inventory_image": {
+                "S": "HowtoBookExpansion"
+            },
+            "filename_storage_image": {
+                "NULL": true
             },
             "food_strength": {
                 "NULL": true
@@ -11462,6 +12320,12 @@
             "exchange_price": {
                 "N": "2000"
             },
+            "filename_inventory_image": {
+                "S": "PlaneTicket"
+            },
+            "filename_storage_image": {
+                "S": "MilePlaneTicket"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -11541,6 +12405,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "Tire"
+            },
+            "filename_storage_image": {
+                "S": "TrashTire"
             },
             "food_strength": {
                 "NULL": true
@@ -11622,6 +12492,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "Orange"
+            },
+            "filename_storage_image": {
+                "S": "Orange"
+            },
             "food_strength": {
                 "N": "1"
             },
@@ -11701,6 +12577,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "Cosmos4"
+            },
+            "filename_storage_image": {
+                "S": "FlwCosmosOrange"
             },
             "food_strength": {
                 "NULL": true
@@ -11782,6 +12664,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "Hyacinth3"
+            },
+            "filename_storage_image": {
+                "S": "FlwHyacinthOrange"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -11861,6 +12749,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "Yuri3"
+            },
+            "filename_storage_image": {
+                "S": "FlwYuriOrange"
             },
             "food_strength": {
                 "NULL": true
@@ -11942,6 +12836,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "Pansi4"
+            },
+            "filename_storage_image": {
+                "S": "FlwPansyRedYellow"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -12021,6 +12921,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "SquashOrange"
+            },
+            "filename_storage_image": {
+                "S": "SquashOrange"
             },
             "food_strength": {
                 "N": "1"
@@ -12102,6 +13008,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "Rose4"
+            },
+            "filename_storage_image": {
+                "S": "FlwRoseOrange"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -12180,6 +13092,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "PltOrange"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -12262,6 +13180,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "Turip6"
+            },
+            "filename_storage_image": {
+                "S": "FlwTulipOrange"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -12341,6 +13265,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "Anemone2"
+            },
+            "filename_storage_image": {
+                "S": "FlwAnemonesOrange"
             },
             "food_strength": {
                 "NULL": true
@@ -12422,6 +13352,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "WPaperOrange"
+            },
+            "filename_storage_image": {
+                "S": "WPaperOrange"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -12500,6 +13436,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "PltCosmos4"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -12582,6 +13524,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "PltHyacinth3"
+            },
+            "filename_storage_image": {
+                "NULL": true
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -12660,6 +13608,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "PltYuri3"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -12742,6 +13696,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "PltPansi4"
+            },
+            "filename_storage_image": {
+                "NULL": true
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -12820,6 +13780,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "PltRose4"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -12902,6 +13868,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "PltBushOsmathusOrange"
+            },
+            "filename_storage_image": {
+                "NULL": true
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -12982,6 +13954,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "SeedBushOsmathusOrange"
+            },
+            "filename_storage_image": {
+                "S": "SeedBushOsmathusOrange"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -13060,6 +14038,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "PltTurip6"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -13142,6 +14126,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "SeedPaperbag3"
+            },
+            "filename_storage_image": {
+                "S": "SeedAnemonesOrange"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -13220,6 +14210,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "PltAnemone2"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -13302,6 +14298,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "OtoshidamaSealJp"
+            },
+            "filename_storage_image": {
+                "NULL": true
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -13381,6 +14383,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "OtoshidamaOpenJp"
+            },
+            "filename_storage_image": {
+                "S": "OtoshidamaJp"
             },
             "food_strength": {
                 "NULL": true
@@ -13462,6 +14470,12 @@
             "exchange_price": {
                 "N": "2200"
             },
+            "filename_inventory_image": {
+                "S": "SmartphoneCaseOtg"
+            },
+            "filename_storage_image": {
+                "S": "SmartphoneCaseOtg"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -13542,6 +14556,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "Peach"
+            },
+            "filename_storage_image": {
+                "S": "Peach"
+            },
             "food_strength": {
                 "N": "1"
             },
@@ -13620,6 +14640,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "PltPeach"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -13702,6 +14728,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "Pear"
+            },
+            "filename_storage_image": {
+                "S": "Pear"
+            },
             "food_strength": {
                 "N": "1"
             },
@@ -13780,6 +14812,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "PltPear"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -13862,6 +14900,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "Pearl"
+            },
+            "filename_storage_image": {
+                "S": "Pearl"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -13941,6 +14985,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "DIYPinecone"
+            },
+            "filename_storage_image": {
+                "S": "DIYPinecone"
             },
             "food_strength": {
                 "NULL": true
@@ -14022,6 +15072,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "Cosmos3"
+            },
+            "filename_storage_image": {
+                "S": "FlwCosmosPink"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -14101,6 +15157,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "Hyacinth4"
+            },
+            "filename_storage_image": {
+                "S": "FlwHyacinthPink"
             },
             "food_strength": {
                 "NULL": true
@@ -14182,6 +15244,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "Yuri4"
+            },
+            "filename_storage_image": {
+                "S": "FlwYuriPink"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -14261,6 +15329,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "Mum3"
+            },
+            "filename_storage_image": {
+                "S": "FlwMumPink"
             },
             "food_strength": {
                 "NULL": true
@@ -14342,6 +15416,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "Rose3"
+            },
+            "filename_storage_image": {
+                "S": "FlwRosePink"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -14421,6 +15501,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "Turip3"
+            },
+            "filename_storage_image": {
+                "S": "FlwTulipPink"
             },
             "food_strength": {
                 "NULL": true
@@ -14502,6 +15588,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "Anemone3"
+            },
+            "filename_storage_image": {
+                "S": "FlwAnemonesPink"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -14582,6 +15674,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "WPaperPink"
+            },
+            "filename_storage_image": {
+                "S": "WPaperPink"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -14660,6 +15758,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "PltAzaleaPink"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -14742,6 +15846,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "SeedAzaleaPink"
+            },
+            "filename_storage_image": {
+                "S": "SeedAzaleaPink"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -14820,6 +15930,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "PltBushCamelliaPink"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -14902,6 +16018,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "SeedBushCamelliaPink"
+            },
+            "filename_storage_image": {
+                "S": "SeedBushCamelliaPink"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -14980,6 +16102,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "PltCosmos3"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -15062,6 +16190,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "PltHyacinth4"
+            },
+            "filename_storage_image": {
+                "NULL": true
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -15140,6 +16274,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "PltHydrangeaPink"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -15222,6 +16362,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "SeedHydrangeaPink"
+            },
+            "filename_storage_image": {
+                "S": "SeedHydrangeaPink"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -15300,6 +16446,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "PltYuri4"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -15382,6 +16534,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "PltMum3"
+            },
+            "filename_storage_image": {
+                "NULL": true
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -15460,6 +16618,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "PltBushPlumeriaPink"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -15542,6 +16706,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "SeedBushPlumeriaPink"
+            },
+            "filename_storage_image": {
+                "S": "SeedBushPlumeriaPink"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -15620,6 +16790,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "PltRose3"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -15702,6 +16878,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "PltTurip3"
+            },
+            "filename_storage_image": {
+                "NULL": true
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -15780,6 +16962,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "PltAnemone3"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -15862,6 +17050,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "StarpiecePisces"
+            },
+            "filename_storage_image": {
+                "S": "StarpiecePisces"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -15942,6 +17136,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "SeedPitfall"
+            },
+            "filename_storage_image": {
+                "S": "PitfallSeed"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -16020,6 +17220,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "TentWhite"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -16102,6 +17308,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "TentWhite"
+            },
+            "filename_storage_image": {
+                "NULL": true
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -16180,6 +17392,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "TentWhite"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -16262,6 +17480,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "SmartphoneCaseComp"
+            },
+            "filename_storage_image": {
+                "S": "SmartphoneCaseComp"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -16341,6 +17565,12 @@
             },
             "exchange_price": {
                 "N": "5000"
+            },
+            "filename_inventory_image": {
+                "S": "HowtoBookExpansion"
+            },
+            "filename_storage_image": {
+                "NULL": true
             },
             "food_strength": {
                 "NULL": true
@@ -16422,6 +17652,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "Potato"
+            },
+            "filename_storage_image": {
+                "S": "Potato"
+            },
             "food_strength": {
                 "N": "1"
             },
@@ -16500,6 +17736,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "Present"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -16582,6 +17824,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "WBagBlack"
+            },
+            "filename_storage_image": {
+                "S": "DummyWrappingBlack"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -16661,6 +17909,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "WBagBlue"
+            },
+            "filename_storage_image": {
+                "S": "DummyWrappingBlue"
             },
             "food_strength": {
                 "NULL": true
@@ -16742,6 +17996,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "WBagBrown"
+            },
+            "filename_storage_image": {
+                "S": "DummyWrappingBrown"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -16821,6 +18081,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "WBagLightGreen"
+            },
+            "filename_storage_image": {
+                "S": "DummyWrappingLightGreen"
             },
             "food_strength": {
                 "NULL": true
@@ -16902,6 +18168,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "WBagGold"
+            },
+            "filename_storage_image": {
+                "S": "DummyWrappingGold"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -16981,6 +18253,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "WBagGary"
+            },
+            "filename_storage_image": {
+                "S": "DummyWrappingGary"
             },
             "food_strength": {
                 "NULL": true
@@ -17062,6 +18340,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "WBagGreen"
+            },
+            "filename_storage_image": {
+                "S": "DummyWrappingGreen"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -17141,6 +18425,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "WBagLightBlue"
+            },
+            "filename_storage_image": {
+                "S": "DummyWrappingLightBlue"
             },
             "food_strength": {
                 "NULL": true
@@ -17222,6 +18512,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "WBagMint"
+            },
+            "filename_storage_image": {
+                "S": "DummyWrappingMint"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -17301,6 +18597,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "WBagNavy"
+            },
+            "filename_storage_image": {
+                "S": "DummyWrappingNavy"
             },
             "food_strength": {
                 "NULL": true
@@ -17382,6 +18684,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "WBagOrange"
+            },
+            "filename_storage_image": {
+                "S": "DummyWrappingOrange"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -17461,6 +18769,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "WBagPink"
+            },
+            "filename_storage_image": {
+                "S": "DummyWrappingPink"
             },
             "food_strength": {
                 "NULL": true
@@ -17542,6 +18856,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "WBagPurple"
+            },
+            "filename_storage_image": {
+                "S": "DummyWrappingPurple"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -17621,6 +18941,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "WBagRed"
+            },
+            "filename_storage_image": {
+                "S": "DummyWrappingRed"
             },
             "food_strength": {
                 "NULL": true
@@ -17702,6 +19028,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "WBagWhite"
+            },
+            "filename_storage_image": {
+                "S": "DummyWrappingWhite"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -17781,6 +19113,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "WBagYellow"
+            },
+            "filename_storage_image": {
+                "S": "DummyWrappingYellow"
             },
             "food_strength": {
                 "NULL": true
@@ -17862,6 +19200,12 @@
             "exchange_price": {
                 "N": "3000"
             },
+            "filename_inventory_image": {
+                "S": "BookRecipe"
+            },
+            "filename_storage_image": {
+                "NULL": true
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -17941,6 +19285,12 @@
             },
             "exchange_price": {
                 "N": "1500"
+            },
+            "filename_inventory_image": {
+                "S": "CameraAppPro"
+            },
+            "filename_storage_image": {
+                "NULL": true
             },
             "food_strength": {
                 "NULL": true
@@ -18022,6 +19372,12 @@
             "exchange_price": {
                 "N": "3000"
             },
+            "filename_inventory_image": {
+                "S": "HowtoBookExpansion"
+            },
+            "filename_storage_image": {
+                "NULL": true
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -18101,6 +19457,12 @@
             },
             "exchange_price": {
                 "N": "2500"
+            },
+            "filename_inventory_image": {
+                "S": "HowtoBookExpansion"
+            },
+            "filename_storage_image": {
+                "NULL": true
             },
             "food_strength": {
                 "NULL": true
@@ -18182,6 +19544,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "SeedlingVegetable"
+            },
+            "filename_storage_image": {
+                "S": "SeedSquash"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -18261,6 +19629,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "FeatherPpl"
+            },
+            "filename_storage_image": {
+                "S": "FeatherPurple"
             },
             "food_strength": {
                 "NULL": true
@@ -18342,6 +19716,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "Hyacinth5"
+            },
+            "filename_storage_image": {
+                "S": "FlwHyacinthPurple"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -18421,6 +19801,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "Mum5"
+            },
+            "filename_storage_image": {
+                "S": "FlwMumPurple"
             },
             "food_strength": {
                 "NULL": true
@@ -18502,6 +19888,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "Pansi3"
+            },
+            "filename_storage_image": {
+                "S": "FlwPansyPurple"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -18581,6 +19973,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "Rose5"
+            },
+            "filename_storage_image": {
+                "S": "FlwRosePurple"
             },
             "food_strength": {
                 "NULL": true
@@ -18662,6 +20060,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "Turip4"
+            },
+            "filename_storage_image": {
+                "S": "FlwTulipPurple"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -18741,6 +20145,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "Anemone4"
+            },
+            "filename_storage_image": {
+                "S": "FlwAnemonesPurple"
             },
             "food_strength": {
                 "NULL": true
@@ -18822,6 +20232,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "WPaperPurple"
+            },
+            "filename_storage_image": {
+                "S": "WPaperPurple"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -18900,6 +20316,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "PltHyacinth5"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -18982,6 +20404,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "PltMum5"
+            },
+            "filename_storage_image": {
+                "NULL": true
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -19060,6 +20488,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "PltPansi3"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -19142,6 +20576,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "PltRose5"
+            },
+            "filename_storage_image": {
+                "NULL": true
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -19220,6 +20660,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "PltTurip4"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -19302,6 +20748,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "PltAnemone4"
+            },
+            "filename_storage_image": {
+                "NULL": true
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -19381,6 +20833,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "FeatherRainbow"
+            },
+            "filename_storage_image": {
+                "S": "FeatherRainbow"
             },
             "food_strength": {
                 "NULL": true
@@ -19462,6 +20920,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "Mush4"
+            },
+            "filename_storage_image": {
+                "S": "MushRare"
+            },
             "food_strength": {
                 "N": "1"
             },
@@ -19541,6 +21005,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "Cosmos1"
+            },
+            "filename_storage_image": {
+                "S": "FlwCosmosRed"
             },
             "food_strength": {
                 "NULL": true
@@ -19622,6 +21092,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "FeatherRed"
+            },
+            "filename_storage_image": {
+                "S": "FeatherRed"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -19701,6 +21177,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "Hyacinth2"
+            },
+            "filename_storage_image": {
+                "S": "FlwHyacinthRed"
             },
             "food_strength": {
                 "NULL": true
@@ -19782,6 +21264,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "Yuri2"
+            },
+            "filename_storage_image": {
+                "S": "FlwYuriRed"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -19861,6 +21349,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "Mum2"
+            },
+            "filename_storage_image": {
+                "S": "FlwMumRed"
             },
             "food_strength": {
                 "NULL": true
@@ -19942,6 +21436,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "ChristmasOrnamentA"
+            },
+            "filename_storage_image": {
+                "S": "DIYOrnamentRed"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -20021,6 +21521,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "Pansi2"
+            },
+            "filename_storage_image": {
+                "S": "FlwPansyRed"
             },
             "food_strength": {
                 "NULL": true
@@ -20102,6 +21608,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "Rose0"
+            },
+            "filename_storage_image": {
+                "S": "FlwRoseRed"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -20181,6 +21693,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "Turip0"
+            },
+            "filename_storage_image": {
+                "S": "FlwTulipRed"
             },
             "food_strength": {
                 "NULL": true
@@ -20262,6 +21780,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "Anemone1"
+            },
+            "filename_storage_image": {
+                "S": "FlwAnemonesRed"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -20342,6 +21866,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "WPaperRed"
+            },
+            "filename_storage_image": {
+                "S": "WPaperRed"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -20420,6 +21950,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "PltBushCamelliaRed"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -20502,6 +22038,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "SeedBushCamelliaRed"
+            },
+            "filename_storage_image": {
+                "S": "SeedBushCamelliaRed"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -20582,6 +22124,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "SeedPaperbag0"
+            },
+            "filename_storage_image": {
+                "S": "SeedCosmosRed"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -20660,6 +22208,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "PltCosmos1"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -20742,6 +22296,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "PltHibiscusRed"
+            },
+            "filename_storage_image": {
+                "NULL": true
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -20821,6 +22381,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "SeedHibiscusRed"
+            },
+            "filename_storage_image": {
+                "S": "SeedHibiscusRed"
             },
             "food_strength": {
                 "NULL": true
@@ -20902,6 +22468,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "SeedPaperbag0"
+            },
+            "filename_storage_image": {
+                "S": "SeedHyacinthRed"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -20980,6 +22552,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "PltHyacinth2"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -21062,6 +22640,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "SeedPaperbag0"
+            },
+            "filename_storage_image": {
+                "S": "SeedYuriRed"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -21140,6 +22724,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "PltYuri2"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -21222,6 +22812,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "SeedPaperbag0"
+            },
+            "filename_storage_image": {
+                "S": "SeedMumRed"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -21300,6 +22896,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "PltMum2"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -21382,6 +22984,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "SeedPaperbag0"
+            },
+            "filename_storage_image": {
+                "S": "SeedPansyRed"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -21460,6 +23068,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "PltPansi2"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -21542,6 +23156,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "SeedPaperbag0"
+            },
+            "filename_storage_image": {
+                "S": "SeedRoseRed"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -21620,6 +23240,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "PltRose0"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -21702,6 +23328,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "SeedPaperbag0"
+            },
+            "filename_storage_image": {
+                "S": "SeedTulipRed"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -21780,6 +23412,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "PltTurip0"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -21862,6 +23500,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "SeedPaperbag0"
+            },
+            "filename_storage_image": {
+                "S": "SeedAnemonesRed"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -21940,6 +23584,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "PltAnemone1"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -22022,6 +23672,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "PltCarrot"
+            },
+            "filename_storage_image": {
+                "NULL": true
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -22100,6 +23756,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "PltSquashGreen"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -22182,6 +23844,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "PltSquashOrange"
+            },
+            "filename_storage_image": {
+                "NULL": true
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -22260,6 +23928,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "PltPotato"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -22342,6 +24016,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "PltSugarCane"
+            },
+            "filename_storage_image": {
+                "NULL": true
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -22420,6 +24100,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "PltTomato"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -22502,6 +24188,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "PltWheat"
+            },
+            "filename_storage_image": {
+                "NULL": true
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -22580,6 +24272,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "PltSquashWhite"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -22662,6 +24360,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "PltSquashYellow"
+            },
+            "filename_storage_image": {
+                "NULL": true
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -22741,6 +24445,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "Mush1"
+            },
+            "filename_storage_image": {
+                "S": "MushRound"
             },
             "food_strength": {
                 "N": "1"
@@ -22822,6 +24532,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "JohnnyQuestDust1"
+            },
+            "filename_storage_image": {
+                "S": "JohnnyQuestDust1"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -22901,6 +24617,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "StarpieceSagittarius"
+            },
+            "filename_storage_image": {
+                "S": "StarpieceSagittarius"
             },
             "food_strength": {
                 "NULL": true
@@ -22982,6 +24704,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "RollanTicket"
+            },
+            "filename_storage_image": {
+                "S": "RollanTicket"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -23061,6 +24789,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "Shell8"
+            },
+            "filename_storage_image": {
+                "S": "ShellDriftSanddollar"
             },
             "food_strength": {
                 "NULL": true
@@ -23142,6 +24876,12 @@
             "exchange_price": {
                 "N": "2000"
             },
+            "filename_inventory_image": {
+                "S": "Helmet"
+            },
+            "filename_storage_image": {
+                "NULL": true
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -23221,6 +24961,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "Seedling"
+            },
+            "filename_storage_image": {
+                "S": "SeedOak"
             },
             "food_strength": {
                 "NULL": true
@@ -23302,6 +25048,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "StarpieceScorpio"
+            },
+            "filename_storage_image": {
+                "S": "StarpieceScorpio"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -23382,6 +25134,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "Shell6"
+            },
+            "filename_storage_image": {
+                "S": "ShellDriftEbisu"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -23460,6 +25218,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "OtoshidamaSealKr"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -23542,6 +25306,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "SeedlingVegetable"
+            },
+            "filename_storage_image": {
+                "S": "SeedPotato"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -23620,6 +25390,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "TentWhite"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -23702,6 +25478,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "TentWhite"
+            },
+            "filename_storage_image": {
+                "NULL": true
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -23781,6 +25563,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "Mush2"
+            },
+            "filename_storage_image": {
+                "S": "MushSlender"
             },
             "food_strength": {
                 "N": "1"
@@ -23862,6 +25650,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "EggSky"
+            },
+            "filename_storage_image": {
+                "S": "EggSky"
+            },
             "food_strength": {
                 "N": "1"
             },
@@ -23941,6 +25735,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "SnowCrystal"
+            },
+            "filename_storage_image": {
+                "S": "SnowCrystal"
             },
             "food_strength": {
                 "NULL": true
@@ -24022,6 +25822,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "DIYWoodSoft"
+            },
+            "filename_storage_image": {
+                "S": "DIYWoodSoft"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -24101,6 +25907,12 @@
             },
             "exchange_price": {
                 "N": "800"
+            },
+            "filename_inventory_image": {
+                "S": "SouvenirChocolate"
+            },
+            "filename_storage_image": {
+                "S": "SouvenirChocolate"
             },
             "food_strength": {
                 "N": "1"
@@ -24182,6 +25994,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "BadKabu"
+            },
+            "filename_storage_image": {
+                "S": "Kabu_Spoil"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -24261,6 +26079,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "StarPiece"
+            },
+            "filename_storage_image": {
+                "S": "Starpiece"
             },
             "food_strength": {
                 "NULL": true
@@ -24342,6 +26166,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "OreStone"
+            },
+            "filename_storage_image": {
+                "S": "DIYStone"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -24421,6 +26251,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "EggRock"
+            },
+            "filename_storage_image": {
+                "S": "EggRock"
             },
             "food_strength": {
                 "N": "1"
@@ -24502,6 +26338,12 @@
             "exchange_price": {
                 "N": "2000"
             },
+            "filename_inventory_image": {
+                "S": "Helmet"
+            },
+            "filename_storage_image": {
+                "NULL": true
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -24581,6 +26423,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "FlourSugar"
+            },
+            "filename_storage_image": {
+                "S": "FlourSugar"
             },
             "food_strength": {
                 "NULL": true
@@ -24662,6 +26510,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "SugarCane"
+            },
+            "filename_storage_image": {
+                "S": "SugarCane"
+            },
             "food_strength": {
                 "N": "1"
             },
@@ -24741,6 +26595,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "SeedlingVegetable"
+            },
+            "filename_storage_image": {
+                "S": "SeedSugarCane"
             },
             "food_strength": {
                 "NULL": true
@@ -24822,6 +26682,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "ShellSummer"
+            },
+            "filename_storage_image": {
+                "S": "ShellDriftSummer"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -24900,6 +26766,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "TentWhite"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -24982,6 +26854,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "TentWhite"
+            },
+            "filename_storage_image": {
+                "NULL": true
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -25061,6 +26939,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "TailorTicket"
+            },
+            "filename_storage_image": {
+                "S": "TailorTicket"
             },
             "food_strength": {
                 "NULL": true
@@ -25142,6 +27026,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "StarpieceTaurus"
+            },
+            "filename_storage_image": {
+                "S": "StarpieceTaurus"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -25220,6 +27110,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "Tent"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -25302,6 +27198,12 @@
             "exchange_price": {
                 "N": "2000"
             },
+            "filename_inventory_image": {
+                "S": "Helmet"
+            },
+            "filename_storage_image": {
+                "NULL": true
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -25381,6 +27283,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "NULL": true
+            },
+            "filename_storage_image": {
+                "S": "DIYbook2"
             },
             "food_strength": {
                 "NULL": true
@@ -25462,6 +27370,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "Tomato"
+            },
+            "filename_storage_image": {
+                "S": "Tomato"
+            },
             "food_strength": {
                 "N": "1"
             },
@@ -25541,6 +27455,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "SeedlingVegetable"
+            },
+            "filename_storage_image": {
+                "S": "SeedTomato"
             },
             "food_strength": {
                 "NULL": true
@@ -25622,6 +27542,12 @@
             "exchange_price": {
                 "N": "800"
             },
+            "filename_inventory_image": {
+                "S": "HowtoBookExpansion"
+            },
+            "filename_storage_image": {
+                "NULL": true
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -25701,6 +27627,12 @@
             },
             "exchange_price": {
                 "N": "1200"
+            },
+            "filename_inventory_image": {
+                "S": "HowtoBookHair"
+            },
+            "filename_storage_image": {
+                "NULL": true
             },
             "food_strength": {
                 "NULL": true
@@ -25782,6 +27714,12 @@
             "exchange_price": {
                 "N": "1800"
             },
+            "filename_inventory_image": {
+                "S": "HowtoBookHair"
+            },
+            "filename_storage_image": {
+                "NULL": true
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -25861,6 +27799,12 @@
             },
             "exchange_price": {
                 "N": "2400"
+            },
+            "filename_inventory_image": {
+                "S": "HowtoBookHair"
+            },
+            "filename_storage_image": {
+                "NULL": true
             },
             "food_strength": {
                 "NULL": true
@@ -25942,6 +27886,12 @@
             "exchange_price": {
                 "N": "2400"
             },
+            "filename_inventory_image": {
+                "S": "HowtoBookHair"
+            },
+            "filename_storage_image": {
+                "NULL": true
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -26022,6 +27972,12 @@
             "exchange_price": {
                 "N": "3000"
             },
+            "filename_inventory_image": {
+                "S": "HowtoBookHair"
+            },
+            "filename_storage_image": {
+                "NULL": true
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -26100,6 +28056,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "TentWhite"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -26182,6 +28144,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "Present2"
+            },
+            "filename_storage_image": {
+                "NULL": true
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -26261,6 +28229,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "DIYBranch"
+            },
+            "filename_storage_image": {
+                "S": "DIYBranch"
             },
             "food_strength": {
                 "NULL": true
@@ -26342,6 +28316,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "NULL": true
+            },
+            "filename_storage_image": {
+                "S": "CookingbookHarvest"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -26421,6 +28401,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "Kabu"
+            },
+            "filename_storage_image": {
+                "S": "PhotoStudioKabu"
             },
             "food_strength": {
                 "N": "10"
@@ -26502,6 +28488,12 @@
             "exchange_price": {
                 "N": "8000"
             },
+            "filename_inventory_image": {
+                "S": "HowtoBookExpansion"
+            },
+            "filename_storage_image": {
+                "NULL": true
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -26581,6 +28573,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "Cinder"
+            },
+            "filename_storage_image": {
+                "S": "Cinder"
             },
             "food_strength": {
                 "NULL": true
@@ -26662,6 +28660,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "Shell4"
+            },
+            "filename_storage_image": {
+                "S": "ShellDriftHone"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -26741,6 +28745,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "PltVine"
+            },
+            "filename_storage_image": {
+                "S": "PltVine"
             },
             "food_strength": {
                 "NULL": true
@@ -26822,6 +28832,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "StarpieceVirgo"
+            },
+            "filename_storage_image": {
+                "S": "StarpieceVirgo"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -26901,6 +28917,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "HowtoBookExpansion"
+            },
+            "filename_storage_image": {
+                "S": "HowtoBookReactionCarnival"
             },
             "food_strength": {
                 "NULL": true
@@ -26982,6 +29004,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "Honeycomb"
+            },
+            "filename_storage_image": {
+                "S": "Honeycomb"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -27061,6 +29089,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "EggFish"
+            },
+            "filename_storage_image": {
+                "S": "EggFish"
             },
             "food_strength": {
                 "N": "1"
@@ -27142,6 +29176,12 @@
             "exchange_price": {
                 "N": "6000"
             },
+            "filename_inventory_image": {
+                "S": "ToolRiverMaker"
+            },
+            "filename_storage_image": {
+                "NULL": true
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -27221,6 +29261,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "Porch"
+            },
+            "filename_storage_image": {
+                "S": "LostQuestBagDust"
             },
             "food_strength": {
                 "NULL": true
@@ -27302,6 +29348,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "Book"
+            },
+            "filename_storage_image": {
+                "S": "LostQuestBookDust"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -27382,6 +29434,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "LostQuestMemo"
+            },
+            "filename_storage_image": {
+                "S": "LostQuestNoteDust"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -27460,6 +29518,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "Present2"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -27542,6 +29606,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "Wheat"
+            },
+            "filename_storage_image": {
+                "S": "Wheat"
+            },
             "food_strength": {
                 "N": "1"
             },
@@ -27621,6 +29691,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "SeedlingVegetable"
+            },
+            "filename_storage_image": {
+                "S": "SeedWheat"
             },
             "food_strength": {
                 "NULL": true
@@ -27702,6 +29778,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "Cosmos0"
+            },
+            "filename_storage_image": {
+                "S": "FlwCosmosWhite"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -27781,6 +29863,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "Hyacinth0"
+            },
+            "filename_storage_image": {
+                "S": "FlwHyacinthWhite"
             },
             "food_strength": {
                 "NULL": true
@@ -27862,6 +29950,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "Yuri0"
+            },
+            "filename_storage_image": {
+                "S": "FlwYuriWhite"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -27941,6 +30035,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "Mum0"
+            },
+            "filename_storage_image": {
+                "S": "FlwMumWhite"
             },
             "food_strength": {
                 "NULL": true
@@ -28022,6 +30122,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "Pansi0"
+            },
+            "filename_storage_image": {
+                "S": "FlwPansyWhite"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -28101,6 +30207,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "SquashWhite"
+            },
+            "filename_storage_image": {
+                "S": "SquashWhite"
             },
             "food_strength": {
                 "N": "1"
@@ -28182,6 +30294,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "Rose1"
+            },
+            "filename_storage_image": {
+                "S": "FlwRoseWhite"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -28261,6 +30379,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "Turip1"
+            },
+            "filename_storage_image": {
+                "S": "FlwTulipWhite"
             },
             "food_strength": {
                 "NULL": true
@@ -28342,6 +30466,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "Anemone0"
+            },
+            "filename_storage_image": {
+                "S": "FlwAnemonesWhite"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -28422,6 +30552,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "WPaperWhite"
+            },
+            "filename_storage_image": {
+                "S": "WPaperWhite"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -28500,6 +30636,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "PltAzaleaWhite"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -28582,6 +30724,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "SeedAzaleaWhite"
+            },
+            "filename_storage_image": {
+                "S": "SeedAzaleaWhite"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -28662,6 +30810,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "SeedPaperbag1"
+            },
+            "filename_storage_image": {
+                "S": "SeedCosmosWhite"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -28740,6 +30894,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "PltCosmos0"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -28822,6 +30982,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "SeedPaperbag1"
+            },
+            "filename_storage_image": {
+                "S": "SeedHyacinthWhite"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -28900,6 +31066,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "PltHyacinth0"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -28982,6 +31154,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "SeedPaperbag1"
+            },
+            "filename_storage_image": {
+                "S": "SeedYuriWhite"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -29060,6 +31238,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "PltYuri0"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -29142,6 +31326,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "SeedPaperbag1"
+            },
+            "filename_storage_image": {
+                "S": "SeedMumWhite"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -29220,6 +31410,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "PltMum0"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -29302,6 +31498,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "SeedPaperbag1"
+            },
+            "filename_storage_image": {
+                "S": "SeedPansyWhite"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -29380,6 +31582,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "PltPansi0"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -29462,6 +31670,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "PltBushPlumeriaWhite"
+            },
+            "filename_storage_image": {
+                "NULL": true
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -29541,6 +31755,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "SeedBushPlumeriaWhite"
+            },
+            "filename_storage_image": {
+                "S": "SeedBushPlumeriaWhite"
             },
             "food_strength": {
                 "NULL": true
@@ -29622,6 +31842,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "SeedPaperbag1"
+            },
+            "filename_storage_image": {
+                "S": "SeedRoseWhite"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -29700,6 +31926,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "PltRose1"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -29782,6 +32014,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "SeedPaperbag1"
+            },
+            "filename_storage_image": {
+                "S": "SeedTulipWhite"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -29860,6 +32098,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "PltTurip1"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -29942,6 +32186,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "SeedPaperbag1"
+            },
+            "filename_storage_image": {
+                "S": "SeedAnemonesWhite"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -30020,6 +32270,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "PltAnemone0"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -30102,6 +32358,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "FlourWheatwhole"
+            },
+            "filename_storage_image": {
+                "S": "FlourWheatwhole"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -30182,6 +32444,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "NULL": true
+            },
+            "filename_storage_image": {
+                "S": "DIYbook3"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -30260,6 +32528,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "YutaroWisp"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -30342,6 +32616,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "DIYWoodNormal"
+            },
+            "filename_storage_image": {
+                "S": "DIYWoodNormal"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -30421,6 +32701,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "EggForest"
+            },
+            "filename_storage_image": {
+                "S": "EggForest"
             },
             "food_strength": {
                 "N": "1"
@@ -30502,6 +32788,12 @@
             "exchange_price": {
                 "N": "2000"
             },
+            "filename_inventory_image": {
+                "S": "Helmet"
+            },
+            "filename_storage_image": {
+                "NULL": true
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -30581,6 +32873,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "Cosmos2"
+            },
+            "filename_storage_image": {
+                "S": "FlwCosmosYellow"
             },
             "food_strength": {
                 "NULL": true
@@ -30662,6 +32960,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "Hyacinth1"
+            },
+            "filename_storage_image": {
+                "S": "FlwHyacinthYellow"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -30741,6 +33045,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "Yuri1"
+            },
+            "filename_storage_image": {
+                "S": "FlwYuriYellow"
             },
             "food_strength": {
                 "NULL": true
@@ -30822,6 +33132,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "Mum1"
+            },
+            "filename_storage_image": {
+                "S": "FlwMumYellow"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -30901,6 +33217,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "Pansi1"
+            },
+            "filename_storage_image": {
+                "S": "FlwPansyYellow"
             },
             "food_strength": {
                 "NULL": true
@@ -30982,6 +33304,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "SquashYellow"
+            },
+            "filename_storage_image": {
+                "S": "SquashYellow"
+            },
             "food_strength": {
                 "N": "1"
             },
@@ -31061,6 +33389,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "Rose2"
+            },
+            "filename_storage_image": {
+                "S": "FlwRoseYellow"
             },
             "food_strength": {
                 "NULL": true
@@ -31142,6 +33476,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "Turip2"
+            },
+            "filename_storage_image": {
+                "S": "FlwTulipYellow"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -31221,6 +33561,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "WPaperYellow"
+            },
+            "filename_storage_image": {
+                "S": "WPaperYellow"
             },
             "food_strength": {
                 "NULL": true
@@ -31302,6 +33648,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "SeedPaperbag2"
+            },
+            "filename_storage_image": {
+                "S": "SeedCosmosYellow"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -31380,6 +33732,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "PltCosmos2"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -31462,6 +33820,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "PltHibiscusYellow"
+            },
+            "filename_storage_image": {
+                "NULL": true
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -31541,6 +33905,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "SeedHibiscusYellow"
+            },
+            "filename_storage_image": {
+                "S": "SeedHibiscusYellow"
             },
             "food_strength": {
                 "NULL": true
@@ -31622,6 +33992,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "SeedPaperbag2"
+            },
+            "filename_storage_image": {
+                "S": "SeedHyacinthYellow"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -31700,6 +34076,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "PltHyacinth1"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -31782,6 +34164,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "SeedPaperbag2"
+            },
+            "filename_storage_image": {
+                "S": "SeedYuriYellow"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -31860,6 +34248,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "PltYuri1"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -31942,6 +34336,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "SeedPaperbag2"
+            },
+            "filename_storage_image": {
+                "S": "SeedMumYellow"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -32020,6 +34420,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "PltMum1"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -32102,6 +34508,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "SeedPaperbag2"
+            },
+            "filename_storage_image": {
+                "S": "SeedPansyYellow"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -32180,6 +34592,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "PltPansi1"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -32262,6 +34680,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "SeedPaperbag2"
+            },
+            "filename_storage_image": {
+                "S": "SeedRoseYellow"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -32340,6 +34764,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "PltRose2"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -32422,6 +34852,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "PltBushOsmathusYellow"
+            },
+            "filename_storage_image": {
+                "NULL": true
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -32501,6 +34937,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "SeedBushOsmathusYellow"
+            },
+            "filename_storage_image": {
+                "S": "SeedBushOsmathusYellow"
             },
             "food_strength": {
                 "NULL": true
@@ -32582,6 +35024,12 @@
             "exchange_price": {
                 "NULL": true
             },
+            "filename_inventory_image": {
+                "S": "SeedPaperbag2"
+            },
+            "filename_storage_image": {
+                "S": "SeedTulipYellow"
+            },
             "food_strength": {
                 "NULL": true
             },
@@ -32660,6 +35108,12 @@
                 "NULL": true
             },
             "exchange_price": {
+                "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "PltTurip2"
+            },
+            "filename_storage_image": {
                 "NULL": true
             },
             "food_strength": {
@@ -32741,6 +35195,12 @@
             },
             "exchange_price": {
                 "NULL": true
+            },
+            "filename_inventory_image": {
+                "S": "DIYBambooSpring"
+            },
+            "filename_storage_image": {
+                "S": "DIYBambooSpring"
             },
             "food_strength": {
                 "NULL": true

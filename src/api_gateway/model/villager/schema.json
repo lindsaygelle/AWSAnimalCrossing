@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 24,
-    "minProperties": 24,
+    "maxProperties": 27,
+    "minProperties": 27,
     "properties": {
         "birth_day": {
             "exclusiveMaximum": false,
@@ -45,6 +45,28 @@
         "filename": {
             "maxLength": 5,
             "minLength": 5,
+            "type": [
+                "string"
+            ]
+        },
+        "filename_house_image": {
+            "maxLength": 19,
+            "minLength": 10,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "filename_icon_image": {
+            "maxLength": 5,
+            "minLength": 5,
+            "type": [
+                "string"
+            ]
+        },
+        "filename_photo_image": {
+            "maxLength": 11,
+            "minLength": 11,
             "type": [
                 "string"
             ]
@@ -184,6 +206,9 @@
         "color_1",
         "color_2",
         "filename",
+        "filename_house_image",
+        "filename_icon_image",
+        "filename_photo_image",
         "floor_name",
         "gender",
         "hobby_name",

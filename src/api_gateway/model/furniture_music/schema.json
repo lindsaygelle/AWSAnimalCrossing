@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 23,
-    "minProperties": 23,
+    "maxProperties": 25,
+    "minProperties": 25,
     "properties": {
         "buy_currency": {
             "maxLength": 5,
@@ -41,6 +41,22 @@
             "maxLength": 19,
             "minLength": 7,
             "type": [
+                "string"
+            ]
+        },
+        "filename_albumn_image": {
+            "maxLength": 19,
+            "minLength": 7,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "filename_framed_image": {
+            "maxLength": 19,
+            "minLength": 7,
+            "type": [
+                "null",
                 "string"
             ]
         },
@@ -175,6 +191,8 @@
         "color_1",
         "color_2",
         "filename",
+        "filename_albumn_image",
+        "filename_framed_image",
         "hha_category",
         "hha_concept_1",
         "hha_concept_2",

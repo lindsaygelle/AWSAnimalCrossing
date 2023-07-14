@@ -22,6 +22,9 @@
             "filename": {
                 "S": "RoomTexFloorTile01"
             },
+            "filename_image": {
+                "S": "RoomTexFloorTile01"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -97,6 +100,9 @@
                 "N": "1900"
             },
             "filename": {
+                "S": "RoomTexFloorArabesque00"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorArabesque00"
             },
             "has_vfx": {
@@ -176,6 +182,9 @@
             "filename": {
                 "S": "RoomTexFloorArchBrick00"
             },
+            "filename_image": {
+                "S": "RoomTexFloorArchBrick00"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -251,6 +260,9 @@
                 "N": "1600"
             },
             "filename": {
+                "S": "RoomTexFloorTileWood00"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorTileWood00"
             },
             "has_vfx": {
@@ -330,6 +342,9 @@
             "filename": {
                 "S": "RoomTexFloorParquetArt00"
             },
+            "filename_image": {
+                "S": "RoomTexFloorParquetArt00"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -405,6 +420,9 @@
                 "NULL": true
             },
             "filename": {
+                "S": "RoomTexFloorLawn00"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorLawn00"
             },
             "has_vfx": {
@@ -484,6 +502,9 @@
             "filename": {
                 "S": "RoomTexFloorBamboo00"
             },
+            "filename_image": {
+                "S": "RoomTexFloorBamboo00"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -559,6 +580,9 @@
                 "NULL": true
             },
             "filename": {
+                "S": "RoomTexFloorBasement00"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorBasement00"
             },
             "has_vfx": {
@@ -638,6 +662,9 @@
             "filename": {
                 "S": "RoomTexFloorMorocco00"
             },
+            "filename_image": {
+                "S": "RoomTexFloorMorocco00"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -713,6 +740,9 @@
                 "NULL": true
             },
             "filename": {
+                "S": "RoomTexFloorChocolate02"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorChocolate02"
             },
             "has_vfx": {
@@ -792,6 +822,9 @@
             "filename": {
                 "S": "RoomTexFloorBirch00"
             },
+            "filename_image": {
+                "S": "RoomTexFloorBirch00"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -867,6 +900,9 @@
                 "N": "2100"
             },
             "filename": {
+                "S": "RoomTexFloorParquetIron02"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorParquetIron02"
             },
             "has_vfx": {
@@ -946,6 +982,9 @@
             "filename": {
                 "S": "RoomTexFloorBrick02"
             },
+            "filename_image": {
+                "S": "RoomTexFloorBrick02"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -1021,6 +1060,9 @@
                 "NULL": true
             },
             "filename": {
+                "S": "RoomTexFloorMario00"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorMario00"
             },
             "has_vfx": {
@@ -1100,6 +1142,9 @@
             "filename": {
                 "S": "RoomTexFloorCamouflage01"
             },
+            "filename_image": {
+                "S": "RoomTexFloorCamouflage01"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -1175,6 +1220,9 @@
                 "N": "720"
             },
             "filename": {
+                "S": "RoomTexFloorDot04"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorDot04"
             },
             "has_vfx": {
@@ -1254,6 +1302,9 @@
             "filename": {
                 "S": "RoomTexFloorDecoWood01"
             },
+            "filename_image": {
+                "S": "RoomTexFloorDecoWood01"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -1329,6 +1380,9 @@
                 "N": "1300"
             },
             "filename": {
+                "S": "RoomTexFloorHoneycomb01"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorHoneycomb01"
             },
             "has_vfx": {
@@ -1408,6 +1462,9 @@
             "filename": {
                 "S": "RoomTexFloorMorocco01"
             },
+            "filename_image": {
+                "S": "RoomTexFloorMorocco01"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -1483,6 +1540,9 @@
                 "N": "810"
             },
             "filename": {
+                "S": "RoomTexFloorTile03"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorTile03"
             },
             "has_vfx": {
@@ -1562,6 +1622,9 @@
             "filename": {
                 "S": "RoomTexFloorRubber01"
             },
+            "filename_image": {
+                "S": "RoomTexFloorRubber01"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -1637,6 +1700,9 @@
                 "N": "940"
             },
             "filename": {
+                "S": "RoomTexFloorPaintWood00"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorPaintWood00"
             },
             "has_vfx": {
@@ -1716,6 +1782,9 @@
             "filename": {
                 "S": "RoomTexFloorWrestling00"
             },
+            "filename_image": {
+                "S": "RoomTexFloorWrestling00"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -1791,6 +1860,9 @@
                 "NULL": true
             },
             "filename": {
+                "S": "RoomTexFloorCemetery00"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorCemetery00"
             },
             "has_vfx": {
@@ -1870,6 +1942,9 @@
             "filename": {
                 "S": "RoomTexFloorArgyleTile01"
             },
+            "filename_image": {
+                "S": "RoomTexFloorArgyleTile01"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -1945,6 +2020,9 @@
                 "N": "1400"
             },
             "filename": {
+                "S": "RoomTexFloorDecoWood02"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorDecoWood02"
             },
             "has_vfx": {
@@ -2024,6 +2102,9 @@
             "filename": {
                 "S": "RoomTexFloorHoneycomb00"
             },
+            "filename_image": {
+                "S": "RoomTexFloorHoneycomb00"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -2099,6 +2180,9 @@
                 "N": "2100"
             },
             "filename": {
+                "S": "RoomTexFloorParquetIron01"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorParquetIron01"
             },
             "has_vfx": {
@@ -2178,6 +2262,9 @@
             "filename": {
                 "S": "RoomTexFloorMarbleTile01"
             },
+            "filename_image": {
+                "S": "RoomTexFloorMarbleTile01"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -2253,6 +2340,9 @@
                 "N": "940"
             },
             "filename": {
+                "S": "RoomTexFloorBrick03"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorBrick03"
             },
             "has_vfx": {
@@ -2332,6 +2422,9 @@
             "filename": {
                 "S": "RoomTexFloorEaster00"
             },
+            "filename_image": {
+                "S": "RoomTexFloorEaster00"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -2407,6 +2500,9 @@
                 "N": "1200"
             },
             "filename": {
+                "S": "RoomTexFloorCamouflage00"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorCamouflage00"
             },
             "has_vfx": {
@@ -2486,6 +2582,9 @@
             "filename": {
                 "S": "RoomTexFloorSakura00"
             },
+            "filename_image": {
+                "S": "RoomTexFloorSakura00"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -2561,6 +2660,9 @@
                 "NULL": true
             },
             "filename": {
+                "S": "RoomTexFloorCinnamon00"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorCinnamon00"
             },
             "has_vfx": {
@@ -2640,6 +2742,9 @@
             "filename": {
                 "S": "RoomTexFloorGeek00"
             },
+            "filename_image": {
+                "S": "RoomTexFloorGeek00"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -2715,6 +2820,9 @@
                 "NULL": true
             },
             "filename": {
+                "S": "RoomTexFloorSummer00"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorSummer00"
             },
             "has_vfx": {
@@ -2794,6 +2902,9 @@
             "filename": {
                 "S": "RoomSpFloorCloud00"
             },
+            "filename_image": {
+                "S": "RoomSpFloorCloud00"
+            },
             "has_vfx": {
                 "BOOL": true
             },
@@ -2869,6 +2980,9 @@
                 "NULL": true
             },
             "filename": {
+                "S": "RoomSpFloorClub00"
+            },
+            "filename_image": {
                 "S": "RoomSpFloorClub00"
             },
             "has_vfx": {
@@ -2948,6 +3062,9 @@
             "filename": {
                 "S": "RoomTexFloorAutumun00"
             },
+            "filename_image": {
+                "S": "RoomTexFloorAutumun00"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -3023,6 +3140,9 @@
                 "N": "810"
             },
             "filename": {
+                "S": "RoomTexFloorTile02"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorTile02"
             },
             "has_vfx": {
@@ -3102,6 +3222,9 @@
             "filename": {
                 "S": "RoomTexFloorPuzzleMat01"
             },
+            "filename_image": {
+                "S": "RoomTexFloorPuzzleMat01"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -3177,6 +3300,9 @@
                 "N": "1500"
             },
             "filename": {
+                "S": "RoomTexFloorPanel01"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorPanel01"
             },
             "has_vfx": {
@@ -3256,6 +3382,9 @@
             "filename": {
                 "S": "RoomTexFloorCommon00"
             },
+            "filename_image": {
+                "S": "RoomTexFloorCommon00"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -3331,6 +3460,9 @@
                 "N": "740"
             },
             "filename": {
+                "S": "RoomTexFloorConcrete00"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorConcrete00"
             },
             "has_vfx": {
@@ -3410,6 +3542,9 @@
             "filename": {
                 "S": "RoomTexFloorConstruction00"
             },
+            "filename_image": {
+                "S": "RoomTexFloorConstruction00"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -3485,6 +3620,9 @@
                 "N": "1000"
             },
             "filename": {
+                "S": "RoomTexFloorTileChecker03"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorTileChecker03"
             },
             "has_vfx": {
@@ -3564,6 +3702,9 @@
             "filename": {
                 "S": "RoomTexFloorColorfulWood01"
             },
+            "filename_image": {
+                "S": "RoomTexFloorColorfulWood01"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -3639,6 +3780,9 @@
                 "N": "1400"
             },
             "filename": {
+                "S": "RoomTexFloorCork00"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorCork00"
             },
             "has_vfx": {
@@ -3718,6 +3862,9 @@
             "filename": {
                 "S": "RoomTexFloorCropCircles00"
             },
+            "filename_image": {
+                "S": "RoomTexFloorCropCircles00"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -3793,6 +3940,9 @@
                 "NULL": true
             },
             "filename": {
+                "S": "RoomTexFloorSidewalk00"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorSidewalk00"
             },
             "has_vfx": {
@@ -3872,6 +4022,9 @@
             "filename": {
                 "S": "RoomTexFloorHoneycombWood00"
             },
+            "filename_image": {
+                "S": "RoomTexFloorHoneycombWood00"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -3947,6 +4100,9 @@
                 "N": "700"
             },
             "filename": {
+                "S": "RoomTexFloorCute02"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorCute02"
             },
             "has_vfx": {
@@ -4026,6 +4182,9 @@
             "filename": {
                 "S": "RoomTexFloorCute01"
             },
+            "filename_image": {
+                "S": "RoomTexFloorCute01"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -4101,6 +4260,9 @@
                 "N": "700"
             },
             "filename": {
+                "S": "RoomTexFloorCute00"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorCute00"
             },
             "has_vfx": {
@@ -4180,6 +4342,9 @@
             "filename": {
                 "S": "RoomTexFloorCute03"
             },
+            "filename_image": {
+                "S": "RoomTexFloorCute03"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -4255,6 +4420,9 @@
                 "N": "2000"
             },
             "filename": {
+                "S": "RoomTexFloorColorfulWood00"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorColorfulWood00"
             },
             "has_vfx": {
@@ -4334,6 +4502,9 @@
             "filename": {
                 "S": "RoomTexFloorGrassland00"
             },
+            "filename_image": {
+                "S": "RoomTexFloorGrassland00"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -4409,6 +4580,9 @@
                 "N": "1100"
             },
             "filename": {
+                "S": "RoomTexFloorHerringbone01"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorHerringbone01"
             },
             "has_vfx": {
@@ -4488,6 +4662,9 @@
             "filename": {
                 "S": "RoomTexFloorCountry01"
             },
+            "filename_image": {
+                "S": "RoomTexFloorCountry01"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -4563,6 +4740,9 @@
                 "N": "1400"
             },
             "filename": {
+                "S": "RoomTexFloorSimpleParquet01"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorSimpleParquet01"
             },
             "has_vfx": {
@@ -4642,6 +4822,9 @@
             "filename": {
                 "S": "RoomTexFloorParquet01"
             },
+            "filename_image": {
+                "S": "RoomTexFloorParquet01"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -4717,6 +4900,9 @@
                 "NULL": true
             },
             "filename": {
+                "S": "RoomTexFloorChocolate00"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorChocolate00"
             },
             "has_vfx": {
@@ -4796,6 +4982,9 @@
             "filename": {
                 "S": "RoomTexFloorStratum00"
             },
+            "filename_image": {
+                "S": "RoomTexFloorStratum00"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -4871,6 +5060,9 @@
                 "NULL": true
             },
             "filename": {
+                "S": "RoomTexFloorCottonSoil00"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorCottonSoil00"
             },
             "has_vfx": {
@@ -4950,6 +5142,9 @@
             "filename": {
                 "S": "RoomTexFloorTheater00"
             },
+            "filename_image": {
+                "S": "RoomTexFloorTheater00"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -5025,6 +5220,9 @@
                 "NULL": true
             },
             "filename": {
+                "S": "RoomTexFloorFarm00"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorFarm00"
             },
             "has_vfx": {
@@ -5104,6 +5302,9 @@
             "filename": {
                 "S": "RoomTexFloorFlagStone00"
             },
+            "filename_image": {
+                "S": "RoomTexFloorFlagStone00"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -5179,6 +5380,9 @@
                 "N": "970"
             },
             "filename": {
+                "S": "RoomTexFloorMosaicTile00"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorMosaicTile00"
             },
             "has_vfx": {
@@ -5258,6 +5462,9 @@
             "filename": {
                 "S": "RoomTexFloorRush00"
             },
+            "filename_image": {
+                "S": "RoomTexFloorRush00"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -5333,6 +5540,9 @@
                 "NULL": true
             },
             "filename": {
+                "S": "RoomSpFloorRiver00"
+            },
+            "filename_image": {
                 "S": "RoomSpFloorRiver00"
             },
             "has_vfx": {
@@ -5412,6 +5622,9 @@
             "filename": {
                 "S": "RoomTexFloorMushForest00"
             },
+            "filename_image": {
+                "S": "RoomTexFloorMushForest00"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -5487,6 +5700,9 @@
                 "NULL": true
             },
             "filename": {
+                "S": "RoomSpFloorTechnology00"
+            },
+            "filename_image": {
                 "S": "RoomSpFloorTechnology00"
             },
             "has_vfx": {
@@ -5566,6 +5782,9 @@
             "filename": {
                 "S": "RoomSpFloorGalaxy00"
             },
+            "filename_image": {
+                "S": "RoomSpFloorGalaxy00"
+            },
             "has_vfx": {
                 "BOOL": true
             },
@@ -5641,6 +5860,9 @@
                 "NULL": true
             },
             "filename": {
+                "S": "RoomTexFloorGarbage00"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorGarbage00"
             },
             "has_vfx": {
@@ -5720,6 +5942,9 @@
             "filename": {
                 "S": "RoomTexFloorAnimal01"
             },
+            "filename_image": {
+                "S": "RoomTexFloorAnimal01"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -5795,6 +6020,9 @@
                 "NULL": true
             },
             "filename": {
+                "S": "RoomSpFloorGlowMoss00"
+            },
+            "filename_image": {
                 "S": "RoomSpFloorGlowMoss00"
             },
             "has_vfx": {
@@ -5874,6 +6102,9 @@
             "filename": {
                 "S": "RoomTexFloorParquetIron00"
             },
+            "filename_image": {
+                "S": "RoomTexFloorParquetIron00"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -5949,6 +6180,9 @@
                 "NULL": true
             },
             "filename": {
+                "S": "RoomTexFloorGold00"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorGold00"
             },
             "has_vfx": {
@@ -6028,6 +6262,9 @@
             "filename": {
                 "S": "RoomTexFloorGravel00"
             },
+            "filename_image": {
+                "S": "RoomTexFloorGravel00"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -6103,6 +6340,9 @@
                 "N": "1300"
             },
             "filename": {
+                "S": "RoomTexFloorArgyleTile00"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorArgyleTile00"
             },
             "has_vfx": {
@@ -6182,6 +6422,9 @@
             "filename": {
                 "S": "RoomTexFloorTileChecker00"
             },
+            "filename_image": {
+                "S": "RoomTexFloorTileChecker00"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -6257,6 +6500,9 @@
                 "N": "1400"
             },
             "filename": {
+                "S": "RoomTexFloorDecoWood03"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorDecoWood03"
             },
             "has_vfx": {
@@ -6336,6 +6582,9 @@
             "filename": {
                 "S": "RoomTexFloorHoneycomb02"
             },
+            "filename_image": {
+                "S": "RoomTexFloorHoneycomb02"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -6411,6 +6660,9 @@
                 "N": "1400"
             },
             "filename": {
+                "S": "RoomTexFloorKitchen01"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorKitchen01"
             },
             "has_vfx": {
@@ -6490,6 +6742,9 @@
             "filename": {
                 "S": "RoomTexFloorRubber00"
             },
+            "filename_image": {
+                "S": "RoomTexFloorRubber00"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -6565,6 +6820,9 @@
                 "N": "1000"
             },
             "filename": {
+                "S": "RoomTexFloorTileChecker02"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorTileChecker02"
             },
             "has_vfx": {
@@ -6644,6 +6902,9 @@
             "filename": {
                 "S": "RoomTexFloorMarbleTile02"
             },
+            "filename_image": {
+                "S": "RoomTexFloorMarbleTile02"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -6719,6 +6980,9 @@
                 "N": "940"
             },
             "filename": {
+                "S": "RoomTexFloorPaintWood01"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorPaintWood01"
             },
             "has_vfx": {
@@ -6798,6 +7062,9 @@
             "filename": {
                 "S": "RoomTexFloorSchoolgym00"
             },
+            "filename_image": {
+                "S": "RoomTexFloorSchoolgym00"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -6873,6 +7140,9 @@
                 "NULL": true
             },
             "filename": {
+                "S": "RoomTexFloorKitty00"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorKitty00"
             },
             "has_vfx": {
@@ -6952,6 +7222,9 @@
             "filename": {
                 "S": "RoomTexFloorHempTile00"
             },
+            "filename_image": {
+                "S": "RoomTexFloorHempTile00"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -7027,6 +7300,9 @@
                 "NULL": true
             },
             "filename": {
+                "S": "RoomTexFloorHighway00"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorHighway00"
             },
             "has_vfx": {
@@ -7106,6 +7382,9 @@
             "filename": {
                 "S": "RoomTexFloorHoney00"
             },
+            "filename_image": {
+                "S": "RoomTexFloorHoney00"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -7181,6 +7460,9 @@
                 "NULL": true
             },
             "filename": {
+                "S": "RoomTexFloorSchoolyard00"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorSchoolyard00"
             },
             "has_vfx": {
@@ -7260,6 +7542,9 @@
             "filename": {
                 "S": "RoomSpFloorIce00"
             },
+            "filename_image": {
+                "S": "RoomSpFloorIce00"
+            },
             "has_vfx": {
                 "BOOL": true
             },
@@ -7335,6 +7620,9 @@
                 "NULL": true
             },
             "filename": {
+                "S": "RoomSpFloorIceFloe00"
+            },
+            "filename_image": {
                 "S": "RoomSpFloorIceFloe00"
             },
             "has_vfx": {
@@ -7414,6 +7702,9 @@
             "filename": {
                 "S": "RoomTexFloorDynasty00"
             },
+            "filename_image": {
+                "S": "RoomTexFloorDynasty00"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -7489,6 +7780,9 @@
                 "N": "940"
             },
             "filename": {
+                "S": "RoomTexFloorJointMat00"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorJointMat00"
             },
             "has_vfx": {
@@ -7568,6 +7862,9 @@
             "filename": {
                 "S": "RoomTexFloorJungle00"
             },
+            "filename_image": {
+                "S": "RoomTexFloorJungle00"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -7643,6 +7940,9 @@
                 "NULL": true
             },
             "filename": {
+                "S": "RoomTexFloorKeroppi00"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorKeroppi00"
             },
             "has_vfx": {
@@ -7722,6 +8022,9 @@
             "filename": {
                 "S": "RoomTexFloorKikilala00"
             },
+            "filename_image": {
+                "S": "RoomTexFloorKikilala00"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -7797,6 +8100,9 @@
                 "N": "1200"
             },
             "filename": {
+                "S": "RoomTexFloorKitschTile00"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorKitschTile00"
             },
             "has_vfx": {
@@ -7876,6 +8182,9 @@
             "filename": {
                 "S": "RoomSpFloorVolcano00"
             },
+            "filename_image": {
+                "S": "RoomSpFloorVolcano00"
+            },
             "has_vfx": {
                 "BOOL": true
             },
@@ -7951,6 +8260,9 @@
                 "N": "1200"
             },
             "filename": {
+                "S": "RoomTexFloorAnimal00"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorAnimal00"
             },
             "has_vfx": {
@@ -8030,6 +8342,9 @@
             "filename": {
                 "S": "RoomTexFloorHerringbone00"
             },
+            "filename_image": {
+                "S": "RoomTexFloorHerringbone00"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -8105,6 +8420,9 @@
                 "N": "1400"
             },
             "filename": {
+                "S": "RoomTexFloorCountry00"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorCountry00"
             },
             "has_vfx": {
@@ -8184,6 +8502,9 @@
             "filename": {
                 "S": "RoomTexFloorSimpleParquet00"
             },
+            "filename_image": {
+                "S": "RoomTexFloorSimpleParquet00"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -8259,6 +8580,9 @@
                 "NULL": true
             },
             "filename": {
+                "S": "RoomTexFloorLobby00"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorLobby00"
             },
             "has_vfx": {
@@ -8338,6 +8662,9 @@
             "filename": {
                 "S": "RoomTexFloorLunar00"
             },
+            "filename_image": {
+                "S": "RoomTexFloorLunar00"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -8413,6 +8740,9 @@
                 "NULL": true
             },
             "filename": {
+                "S": "RoomSpFloorMagic00"
+            },
+            "filename_image": {
                 "S": "RoomSpFloorMagic00"
             },
             "has_vfx": {
@@ -8492,6 +8822,9 @@
             "filename": {
                 "S": "RoomTexFloorFishPop00"
             },
+            "filename_image": {
+                "S": "RoomTexFloorFishPop00"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -8567,6 +8900,9 @@
                 "NULL": true
             },
             "filename": {
+                "S": "RoomSpFloorMermaid00"
+            },
+            "filename_image": {
                 "S": "RoomSpFloorMermaid00"
             },
             "has_vfx": {
@@ -8646,6 +8982,9 @@
             "filename": {
                 "S": "RoomTexFloorDot01"
             },
+            "filename_image": {
+                "S": "RoomTexFloorDot01"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -8721,6 +9060,9 @@
                 "N": "1200"
             },
             "filename": {
+                "S": "RoomTexFloorMixwood00"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorMixwood00"
             },
             "has_vfx": {
@@ -8800,6 +9142,9 @@
             "filename": {
                 "S": "RoomTexFloorBill00"
             },
+            "filename_image": {
+                "S": "RoomTexFloorBill00"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -8875,6 +9220,9 @@
                 "N": "720"
             },
             "filename": {
+                "S": "RoomTexFloorDot00"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorDot00"
             },
             "has_vfx": {
@@ -8954,6 +9302,9 @@
             "filename": {
                 "S": "RoomTexFloorPanel00"
             },
+            "filename_image": {
+                "S": "RoomTexFloorPanel00"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -9029,6 +9380,9 @@
                 "NULL": true
             },
             "filename": {
+                "S": "RoomTexFloorMoroccanSquareTile00"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorMoroccanSquareTile00"
             },
             "has_vfx": {
@@ -9108,6 +9462,9 @@
             "filename": {
                 "S": "RoomTexFloorMoss00"
             },
+            "filename_image": {
+                "S": "RoomTexFloorMoss00"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -9183,6 +9540,9 @@
                 "NULL": true
             },
             "filename": {
+                "S": "RoomTexFloorMymelody00"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorMymelody00"
             },
             "has_vfx": {
@@ -9262,6 +9622,9 @@
             "filename": {
                 "S": "RoomTexFloorClassroom00"
             },
+            "filename_image": {
+                "S": "RoomTexFloorClassroom00"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -9337,6 +9700,9 @@
                 "N": "1200"
             },
             "filename": {
+                "S": "RoomTexFloorParquet00"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorParquet00"
             },
             "has_vfx": {
@@ -9416,6 +9782,9 @@
             "filename": {
                 "S": "RoomTexFloorFirst00"
             },
+            "filename_image": {
+                "S": "RoomTexFloorFirst00"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -9491,6 +9860,9 @@
                 "NULL": true
             },
             "filename": {
+                "S": "RoomSpFloorOasis00"
+            },
+            "filename_image": {
                 "S": "RoomSpFloorOasis00"
             },
             "has_vfx": {
@@ -9570,6 +9942,9 @@
             "filename": {
                 "S": "RoomTexFloorOldBoard00"
             },
+            "filename_image": {
+                "S": "RoomTexFloorOldBoard00"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -9645,6 +10020,9 @@
                 "NULL": true
             },
             "filename": {
+                "S": "RoomTexFloorLabo00"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorLabo00"
             },
             "has_vfx": {
@@ -9724,6 +10102,9 @@
             "filename": {
                 "S": "RoomTexFloorMorocco03"
             },
+            "filename_image": {
+                "S": "RoomTexFloorMorocco03"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -9799,6 +10180,9 @@
                 "NULL": true
             },
             "filename": {
+                "S": "RoomTexFloorOperatingRoom00"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorOperatingRoom00"
             },
             "has_vfx": {
@@ -9878,6 +10262,9 @@
             "filename": {
                 "S": "RoomTexFloorCamouflage03"
             },
+            "filename_image": {
+                "S": "RoomTexFloorCamouflage03"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -9953,6 +10340,9 @@
                 "N": "1400"
             },
             "filename": {
+                "S": "RoomTexFloorKitchen00"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorKitchen00"
             },
             "has_vfx": {
@@ -10032,6 +10422,9 @@
             "filename": {
                 "S": "RoomTexFloorAtelier00"
             },
+            "filename_image": {
+                "S": "RoomTexFloorAtelier00"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -10107,6 +10500,9 @@
                 "NULL": true
             },
             "filename": {
+                "S": "RoomTexFloorPalace00"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorPalace00"
             },
             "has_vfx": {
@@ -10186,6 +10582,9 @@
             "filename": {
                 "S": "RoomTexFloorGoldRich00"
             },
+            "filename_image": {
+                "S": "RoomTexFloorGoldRich00"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -10261,6 +10660,9 @@
                 "NULL": true
             },
             "filename": {
+                "S": "RoomTexFloorParking00"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorParking00"
             },
             "has_vfx": {
@@ -10340,6 +10742,9 @@
             "filename": {
                 "S": "RoomTexFloorParty00"
             },
+            "filename_image": {
+                "S": "RoomTexFloorParty00"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -10415,6 +10820,9 @@
                 "N": "1300"
             },
             "filename": {
+                "S": "RoomTexFloorPuzzleMat00"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorPuzzleMat00"
             },
             "has_vfx": {
@@ -10494,6 +10902,9 @@
             "filename": {
                 "S": "RoomTexFloorPatchworkTile00"
             },
+            "filename_image": {
+                "S": "RoomTexFloorPatchworkTile00"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -10569,6 +10980,9 @@
                 "NULL": true
             },
             "filename": {
+                "S": "RoomTexFloorHospitalRoom00"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorHospitalRoom00"
             },
             "has_vfx": {
@@ -10648,6 +11062,9 @@
             "filename": {
                 "S": "RoomTexFloorSimple00"
             },
+            "filename_image": {
+                "S": "RoomTexFloorSimple00"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -10723,6 +11140,9 @@
                 "N": "940"
             },
             "filename": {
+                "S": "RoomTexFloorPaintWood02"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorPaintWood02"
             },
             "has_vfx": {
@@ -10802,6 +11222,9 @@
             "filename": {
                 "S": "RoomTexFloorPirates00"
             },
+            "filename_image": {
+                "S": "RoomTexFloorPirates00"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -10877,6 +11300,9 @@
                 "NULL": true
             },
             "filename": {
+                "S": "RoomTexFloorPurin00"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorPurin00"
             },
             "has_vfx": {
@@ -10956,6 +11382,9 @@
             "filename": {
                 "S": "RoomTexFloorBallroom00"
             },
+            "filename_image": {
+                "S": "RoomTexFloorBallroom00"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -11031,6 +11460,9 @@
                 "N": "1200"
             },
             "filename": {
+                "S": "RoomTexFloorCamouflage02"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorCamouflage02"
             },
             "has_vfx": {
@@ -11110,6 +11542,9 @@
             "filename": {
                 "S": "RoomTexFloorMorocco02"
             },
+            "filename_image": {
+                "S": "RoomTexFloorMorocco02"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -11185,6 +11620,9 @@
                 "N": "1300"
             },
             "filename": {
+                "S": "RoomTexFloorPuzzleMat03"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorPuzzleMat03"
             },
             "has_vfx": {
@@ -11264,6 +11702,9 @@
             "filename": {
                 "S": "RoomTexFloorEgypt00"
             },
+            "filename_image": {
+                "S": "RoomTexFloorEgypt00"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -11339,6 +11780,9 @@
                 "NULL": true
             },
             "filename": {
+                "S": "RoomTexFloorAthletics00"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorAthletics00"
             },
             "has_vfx": {
@@ -11418,6 +11862,9 @@
             "filename": {
                 "S": "RoomTexFloorRuins00"
             },
+            "filename_image": {
+                "S": "RoomTexFloorRuins00"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -11493,6 +11940,9 @@
                 "N": "1200"
             },
             "filename": {
+                "S": "RoomTexFloorSquareTile00"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorSquareTile00"
             },
             "has_vfx": {
@@ -11572,6 +12022,9 @@
             "filename": {
                 "S": "RoomTexFloorRattan00"
             },
+            "filename_image": {
+                "S": "RoomTexFloorRattan00"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -11647,6 +12100,9 @@
                 "N": "720"
             },
             "filename": {
+                "S": "RoomTexFloorDot02"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorDot02"
             },
             "has_vfx": {
@@ -11726,6 +12182,9 @@
             "filename": {
                 "S": "RoomTexFloorTileChecker01"
             },
+            "filename_image": {
+                "S": "RoomTexFloorTileChecker01"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -11801,6 +12260,9 @@
                 "N": "940"
             },
             "filename": {
+                "S": "RoomTexFloorBrick01"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorBrick01"
             },
             "has_vfx": {
@@ -11880,6 +12342,9 @@
             "filename": {
                 "S": "RoomTexFloorCookery00"
             },
+            "filename_image": {
+                "S": "RoomTexFloorCookery00"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -11955,6 +12420,9 @@
                 "NULL": true
             },
             "filename": {
+                "S": "RoomTexFloorRobo00"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorRobo00"
             },
             "has_vfx": {
@@ -12034,6 +12502,9 @@
             "filename": {
                 "S": "RoomTexFloorRock00"
             },
+            "filename_image": {
+                "S": "RoomTexFloorRock00"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -12109,6 +12580,9 @@
                 "N": "2700"
             },
             "filename": {
+                "S": "RoomSpFloorSketch00"
+            },
+            "filename_image": {
                 "S": "RoomSpFloorSketch00"
             },
             "has_vfx": {
@@ -12188,6 +12662,9 @@
             "filename": {
                 "S": "RoomSpFloorRopenet00"
             },
+            "filename_image": {
+                "S": "RoomSpFloorRopenet00"
+            },
             "has_vfx": {
                 "BOOL": true
             },
@@ -12263,6 +12740,9 @@
                 "N": "2000"
             },
             "filename": {
+                "S": "RoomTexFloorRoseCarpet00"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorRoseCarpet00"
             },
             "has_vfx": {
@@ -12342,6 +12822,9 @@
             "filename": {
                 "S": "RoomTexFloorRoseWood00"
             },
+            "filename_image": {
+                "S": "RoomTexFloorRoseWood00"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -12417,6 +12900,9 @@
                 "N": "630"
             },
             "filename": {
+                "S": "RoomTexFloorRubberTile00"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorRubberTile00"
             },
             "has_vfx": {
@@ -12496,6 +12982,9 @@
             "filename": {
                 "S": "RoomTexFloorTatami01"
             },
+            "filename_image": {
+                "S": "RoomTexFloorTatami01"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -12571,6 +13060,9 @@
                 "N": "2000"
             },
             "filename": {
+                "S": "RoomTexFloorTatamiPanel01"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorTatamiPanel01"
             },
             "has_vfx": {
@@ -12650,6 +13142,9 @@
             "filename": {
                 "S": "RoomTexFloorDesert00"
             },
+            "filename_image": {
+                "S": "RoomTexFloorDesert00"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -12725,6 +13220,9 @@
                 "NULL": true
             },
             "filename": {
+                "S": "RoomTexFloorSolidWood00"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorSolidWood00"
             },
             "has_vfx": {
@@ -12804,6 +13302,9 @@
             "filename": {
                 "S": "RoomTexFloorEmptyLot00"
             },
+            "filename_image": {
+                "S": "RoomTexFloorEmptyLot00"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -12879,6 +13380,9 @@
                 "NULL": true
             },
             "filename": {
+                "S": "RoomTexFloorSand00"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorSand00"
             },
             "has_vfx": {
@@ -12958,6 +13462,9 @@
             "filename": {
                 "S": "RoomSpFloorSF00"
             },
+            "filename_image": {
+                "S": "RoomSpFloorSF00"
+            },
             "has_vfx": {
                 "BOOL": true
             },
@@ -13033,6 +13540,9 @@
                 "NULL": true
             },
             "filename": {
+                "S": "RoomTexFloorScramble00"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorScramble00"
             },
             "has_vfx": {
@@ -13112,6 +13622,9 @@
             "filename": {
                 "S": "RoomTexFloorPuzzleMat02"
             },
+            "filename_image": {
+                "S": "RoomTexFloorPuzzleMat02"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -13187,6 +13700,9 @@
                 "N": "3600"
             },
             "filename": {
+                "S": "RoomTexFloorSeaView00"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorSeaView00"
             },
             "has_vfx": {
@@ -13266,6 +13782,9 @@
             "filename": {
                 "S": "RoomTexFloorSidewalk01"
             },
+            "filename_image": {
+                "S": "RoomTexFloorSidewalk01"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -13341,6 +13860,9 @@
                 "N": "1400"
             },
             "filename": {
+                "S": "RoomTexFloorSimpleCarpet01"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorSimpleCarpet01"
             },
             "has_vfx": {
@@ -13420,6 +13942,9 @@
             "filename": {
                 "S": "RoomTexFloorSimpleCarpet03"
             },
+            "filename_image": {
+                "S": "RoomTexFloorSimpleCarpet03"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -13495,6 +14020,9 @@
                 "N": "1400"
             },
             "filename": {
+                "S": "RoomTexFloorSimpleCarpet00"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorSimpleCarpet00"
             },
             "has_vfx": {
@@ -13574,6 +14102,9 @@
             "filename": {
                 "S": "RoomTexFloorSimpleCarpet04"
             },
+            "filename_image": {
+                "S": "RoomTexFloorSimpleCarpet04"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -13649,6 +14180,9 @@
                 "NULL": true
             },
             "filename": {
+                "S": "RoomTexFloorGelande00"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorGelande00"
             },
             "has_vfx": {
@@ -13728,6 +14262,9 @@
             "filename": {
                 "S": "RoomTexFloorSkull00"
             },
+            "filename_image": {
+                "S": "RoomTexFloorSkull00"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -13803,6 +14340,9 @@
                 "N": "1200"
             },
             "filename": {
+                "S": "RoomTexFloorSlate00"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorSlate00"
             },
             "has_vfx": {
@@ -13882,6 +14422,9 @@
             "filename": {
                 "S": "RoomTexFloorHalloween00"
             },
+            "filename_image": {
+                "S": "RoomTexFloorHalloween00"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -13957,6 +14500,9 @@
                 "NULL": true
             },
             "filename": {
+                "S": "RoomTexFloorSandStar00"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorSandStar00"
             },
             "has_vfx": {
@@ -14036,6 +14582,9 @@
             "filename": {
                 "S": "RoomTexFloorSteampunk00"
             },
+            "filename_image": {
+                "S": "RoomTexFloorSteampunk00"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -14111,6 +14660,9 @@
                 "NULL": true
             },
             "filename": {
+                "S": "RoomTexFloorSteel00"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorSteel00"
             },
             "has_vfx": {
@@ -14190,6 +14742,9 @@
             "filename": {
                 "S": "RoomTexFloorMarble00"
             },
+            "filename_image": {
+                "S": "RoomTexFloorMarble00"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -14265,6 +14820,9 @@
                 "N": "1100"
             },
             "filename": {
+                "S": "RoomTexFloorStripe00"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorStripe00"
             },
             "has_vfx": {
@@ -14344,6 +14902,9 @@
             "filename": {
                 "S": "RoomTexFloorArena00"
             },
+            "filename_image": {
+                "S": "RoomTexFloorArena00"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -14419,6 +14980,9 @@
                 "NULL": true
             },
             "filename": {
+                "S": "RoomTexFloorBog00"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorBog00"
             },
             "has_vfx": {
@@ -14498,6 +15062,9 @@
             "filename": {
                 "S": "RoomTexFloorTatami00"
             },
+            "filename_image": {
+                "S": "RoomTexFloorTatami00"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -14573,6 +15140,9 @@
                 "N": "2000"
             },
             "filename": {
+                "S": "RoomTexFloorTatamiPanel00"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorTatamiPanel00"
             },
             "has_vfx": {
@@ -14652,6 +15222,9 @@
             "filename": {
                 "S": "RoomTexFloorGlamping00"
             },
+            "filename_image": {
+                "S": "RoomTexFloorGlamping00"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -14727,6 +15300,9 @@
                 "N": "1600"
             },
             "filename": {
+                "S": "RoomTexFloorTileTerracotta00"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorTileTerracotta00"
             },
             "has_vfx": {
@@ -14806,6 +15382,9 @@
             "filename": {
                 "S": "RoomTexFloorAnimal03"
             },
+            "filename_image": {
+                "S": "RoomTexFloorAnimal03"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -14881,6 +15460,9 @@
                 "NULL": true
             },
             "filename": {
+                "S": "RoomTexFloorPlatform00"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorPlatform00"
             },
             "has_vfx": {
@@ -14960,6 +15542,9 @@
             "filename": {
                 "S": "RoomTexFloorHarvest00"
             },
+            "filename_image": {
+                "S": "RoomTexFloorHarvest00"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -15035,6 +15620,9 @@
                 "NULL": true
             },
             "filename": {
+                "S": "RoomSpFloorFishTank00"
+            },
+            "filename_image": {
                 "S": "RoomSpFloorFishTank00"
             },
             "has_vfx": {
@@ -15114,6 +15702,9 @@
             "filename": {
                 "S": "RoomSpFloorWater00"
             },
+            "filename_image": {
+                "S": "RoomSpFloorWater00"
+            },
             "has_vfx": {
                 "BOOL": true
             },
@@ -15189,6 +15780,9 @@
                 "NULL": true
             },
             "filename": {
+                "S": "RoomTexFloorWilderness00"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorWilderness00"
             },
             "has_vfx": {
@@ -15268,6 +15862,9 @@
             "filename": {
                 "S": "RoomTexFloorHoneycomb03"
             },
+            "filename_image": {
+                "S": "RoomTexFloorHoneycomb03"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -15343,6 +15940,9 @@
                 "N": "2100"
             },
             "filename": {
+                "S": "RoomTexFloorParquetIron03"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorParquetIron03"
             },
             "has_vfx": {
@@ -15422,6 +16022,9 @@
             "filename": {
                 "S": "RoomTexFloorTile00"
             },
+            "filename_image": {
+                "S": "RoomTexFloorTile00"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -15497,6 +16100,9 @@
                 "N": "12"
             },
             "filename": {
+                "S": "RoomTexFloorMarbleTile00"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorMarbleTile00"
             },
             "has_vfx": {
@@ -15576,6 +16182,9 @@
             "filename": {
                 "S": "RoomTexFloorBrick00"
             },
+            "filename_image": {
+                "S": "RoomTexFloorBrick00"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -15651,6 +16260,9 @@
                 "NULL": true
             },
             "filename": {
+                "S": "RoomTexFloorChocolate01"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorChocolate01"
             },
             "has_vfx": {
@@ -15730,6 +16342,9 @@
             "filename": {
                 "S": "RoomTexFloorPaintWood03"
             },
+            "filename_image": {
+                "S": "RoomTexFloorPaintWood03"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -15805,6 +16420,9 @@
                 "NULL": true
             },
             "filename": {
+                "S": "RoomTexFloorGrassland01"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorGrassland01"
             },
             "has_vfx": {
@@ -15884,6 +16502,9 @@
             "filename": {
                 "S": "RoomTexFloorCedar00"
             },
+            "filename_image": {
+                "S": "RoomTexFloorCedar00"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -15961,6 +16582,9 @@
             "filename": {
                 "S": "RoomTexFloorDecoWood00"
             },
+            "filename_image": {
+                "S": "RoomTexFloorDecoWood00"
+            },
             "has_vfx": {
                 "BOOL": false
             },
@@ -16036,6 +16660,9 @@
                 "N": "1200"
             },
             "filename": {
+                "S": "RoomTexFloorAnimal02"
+            },
+            "filename_image": {
                 "S": "RoomTexFloorAnimal02"
             },
             "has_vfx": {

@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 32,
-    "minProperties": 32,
+    "maxProperties": 33,
+    "minProperties": 33,
     "properties": {
         "artist_name": {
             "maxLength": 29,
@@ -69,6 +69,13 @@
             ]
         },
         "filename": {
+            "maxLength": 28,
+            "minLength": 11,
+            "type": [
+                "string"
+            ]
+        },
+        "filename_image": {
             "maxLength": 28,
             "minLength": 11,
             "type": [
@@ -234,6 +241,7 @@
         "color_2",
         "description",
         "filename",
+        "filename_image",
         "furniture_category",
         "hha_category",
         "hha_concept_1",

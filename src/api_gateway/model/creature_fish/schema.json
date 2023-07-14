@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 31,
-    "minProperties": 31,
+    "maxProperties": 34,
+    "minProperties": 34,
     "properties": {
         "challenge_category": {
             "maxLength": 9,
@@ -34,6 +34,27 @@
         "filename_critterpedia": {
             "maxLength": 19,
             "minLength": 6,
+            "type": [
+                "string"
+            ]
+        },
+        "filename_critterpedia_image": {
+            "maxLength": 26,
+            "minLength": 13,
+            "type": [
+                "string"
+            ]
+        },
+        "filename_furniture_image": {
+            "maxLength": 22,
+            "minLength": 9,
+            "type": [
+                "string"
+            ]
+        },
+        "filename_icon_image": {
+            "maxLength": 6,
+            "minLength": 5,
             "type": [
                 "string"
             ]
@@ -230,6 +251,9 @@
         "color_2",
         "description",
         "filename_critterpedia",
+        "filename_critterpedia_image",
+        "filename_furniture_image",
+        "filename_icon_image",
         "hha_category",
         "hha_concept_1",
         "hha_concept_2",
