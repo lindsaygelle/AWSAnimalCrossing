@@ -1,3 +1,23 @@
+#set($allowedParams = [
+    "body_category",
+    "buy_currency",
+    "buy_price",
+    "can_customize",
+    "capacity",
+    "catalog_category",
+    "cyrus_currency",
+    "cyrus_price",
+    "internal_id",
+    "internal_label",
+    "internal_name",
+    "is_craftable",
+    "is_unlocked",
+    "kit_category",
+    "kit_currency",
+    "kit_price",
+    "sell_currency",
+    "sell_price"
+])
 {
     "body": {
         "table": "AnimalCrossingFurnitureFencing"
@@ -21,8 +41,10 @@
     },
     "queryStringParameters": {
         #foreach($key in $input.params().querystring.keySet())
+        #if($allowedParams.contains($key))
         "$key": "$util.escapeJavaScript($input.params().querystring.get($key))"
         #if($foreach.hasNext),#end
+        #end
         #end
     },
     "resource": "$context.resourcePath",

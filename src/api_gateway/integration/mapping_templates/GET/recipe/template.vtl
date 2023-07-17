@@ -1,3 +1,16 @@
+#set($allowedParams = [
+    "buy_currency",
+    "buy_price",
+    "exchange_currency",
+    "exchange_price",
+    "internal_id",
+    "internal_label",
+    "internal_name",
+    "is_unlocked",
+    "sell_currency",
+    "sell_price",
+    "unlock_number"
+])
 {
     "body": {
         "table": "AnimalCrossingRecipe"
@@ -21,8 +34,10 @@
     },
     "queryStringParameters": {
         #foreach($key in $input.params().querystring.keySet())
+        #if($allowedParams.contains($key))
         "$key": "$util.escapeJavaScript($input.params().querystring.get($key))"
         #if($foreach.hasNext),#end
+        #end
         #end
     },
     "resource": "$context.resourcePath",

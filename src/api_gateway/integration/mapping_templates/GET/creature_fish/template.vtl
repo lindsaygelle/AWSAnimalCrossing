@@ -1,3 +1,28 @@
+#set($allowedParams = [
+    "challenge_category",
+    "color_1",
+    "color_2",
+    "hha_category",
+    "hha_concept_1",
+    "hha_concept_2",
+    "hha_points",
+    "hha_series",
+    "hha_set",
+    "internal_id",
+    "internal_label",
+    "internal_name",
+    "is_surface",
+    "lighting_category",
+    "rate_maximum",
+    "rate_minimum",
+    "sell_currency",
+    "sell_price",
+    "size_1",
+    "size_2",
+    "size_silhouette",
+    "unlock_number",
+    "vision_category"
+])
 {
     "body": {
         "table": "AnimalCrossingCreatureFish"
@@ -21,8 +46,10 @@
     },
     "queryStringParameters": {
         #foreach($key in $input.params().querystring.keySet())
+        #if($allowedParams.contains($key))
         "$key": "$util.escapeJavaScript($input.params().querystring.get($key))"
         #if($foreach.hasNext),#end
+        #end
         #end
     },
     "resource": "$context.resourcePath",

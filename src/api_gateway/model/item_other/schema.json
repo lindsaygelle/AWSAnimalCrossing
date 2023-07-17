@@ -132,7 +132,7 @@
                 "string"
             ]
         },
-        "image_storage": {
+        "image_storage_url": {
             "maxLength": 64,
             "minLength": 43,
             "type": [
@@ -220,7 +220,7 @@
         "hha_series",
         "hha_set",
         "image_inventory_url",
-        "image_storage",
+        "image_storage_url",
         "internal_id",
         "internal_label",
         "internal_name",

@@ -115,7 +115,7 @@
                 "null"
             ]
         },
-        "image_storage": {
+        "image_storage_url": {
             "maxLength": 61,
             "minLength": 51,
             "type": [
@@ -229,7 +229,7 @@
         "hha_points",
         "hha_series",
         "hha_set",
-        "image_storage",
+        "image_storage_url",
         "internal_id",
         "internal_label",
         "internal_name",

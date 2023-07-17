@@ -1,3 +1,40 @@
+#set($allowedParams = [
+    "body_category",
+    "buy_currency",
+    "buy_price",
+    "can_customize_body",
+    "can_customize_pattern",
+    "catalog_category",
+    "color_1",
+    "color_2",
+    "cyrus_currency",
+    "cyrus_price",
+    "exchange_currency",
+    "exchange_price",
+    "hha_category",
+    "hha_concept_1",
+    "hha_concept_2",
+    "hha_points",
+    "hha_series",
+    "hha_set",
+    "internal_id",
+    "internal_label",
+    "internal_name",
+    "is_craftable",
+    "is_interactive",
+    "is_outdoors",
+    "is_unlocked",
+    "kit_category",
+    "kit_currency",
+    "kit_price",
+    "lighting_category",
+    "pattern_category",
+    "pattern_name",
+    "sell_currency",
+    "sell_price",
+    "size_1",
+    "size_2"
+])
 {
     "body": {
         "table": "AnimalCrossingFurnitureCeiling"
@@ -21,8 +58,10 @@
     },
     "queryStringParameters": {
         #foreach($key in $input.params().querystring.keySet())
+        #if($allowedParams.contains($key))
         "$key": "$util.escapeJavaScript($input.params().querystring.get($key))"
         #if($foreach.hasNext),#end
+        #end
         #end
     },
     "resource": "$context.resourcePath",
