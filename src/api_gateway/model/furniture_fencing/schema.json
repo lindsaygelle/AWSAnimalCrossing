@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 22,
-    "minProperties": 22,
+    "maxProperties": 23,
+    "minProperties": 23,
     "properties": {
         "body_category": {
             "maxLength": 15,
@@ -33,6 +33,13 @@
             "minimum": 50,
             "type": [
                 "integer"
+            ]
+        },
+        "catalog_category": {
+            "maxLength": 12,
+            "minLength": 12,
+            "type": [
+                "string"
             ]
         },
         "cyrus_currency": {
@@ -166,6 +173,7 @@
         "buy_price",
         "can_customize",
         "capacity",
+        "catalog_category",
         "cyrus_currency",
         "cyrus_price",
         "filename",
