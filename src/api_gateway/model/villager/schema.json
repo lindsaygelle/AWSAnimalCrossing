@@ -116,7 +116,7 @@
                 "string"
             ]
         },
-        "image_photo": {
+        "image_photo_url": {
             "maxLength": 53,
             "minLength": 53,
             "type": [
@@ -231,7 +231,7 @@
         "hobby_name",
         "image_house_url",
         "image_icon_url",
-        "image_photo",
+        "image_photo_url",
         "motto",
         "name",
         "name_color",

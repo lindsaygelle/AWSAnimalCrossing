@@ -1,3 +1,33 @@
+#set($allowedParams = [
+    "buy_currency",
+    "buy_price",
+    "catalog_category",
+    "ceiling_category",
+    "color_1",
+    "color_2",
+    "curtain_category",
+    "curtain_color",
+    "exchange_currency",
+    "exchange_price",
+    "has_vfx",
+    "hha_category",
+    "hha_concept_1",
+    "hha_concept_2",
+    "hha_points",
+    "hha_series",
+    "hha_set",
+    "internal_id",
+    "internal_label",
+    "internal_name",
+    "is_craftable",
+    "is_unlocked",
+    "pane_category",
+    "sell_currency",
+    "sell_price",
+    "vfx_category",
+    "window_category",
+    "window_color"
+])
 {
     "body": {
         "table": "AnimalCrossingFurnitureWallpaper"
@@ -21,8 +51,10 @@
     },
     "queryStringParameters": {
         #foreach($key in $input.params().querystring.keySet())
+        #if($allowedParams.contains($key))
         "$key": "$util.escapeJavaScript($input.params().querystring.get($key))"
         #if($foreach.hasNext),#end
+        #end
         #end
     },
     "resource": "$context.resourcePath",

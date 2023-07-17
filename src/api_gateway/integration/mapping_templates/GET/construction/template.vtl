@@ -1,3 +1,7 @@
+#set($allowedParams = [
+    "buy_currency",
+    "buy_price"
+])
 {
     "body": {
         "table": "AnimalCrossingConstruction"
@@ -21,8 +25,10 @@
     },
     "queryStringParameters": {
         #foreach($key in $input.params().querystring.keySet())
+        #if($allowedParams.contains($key))
         "$key": "$util.escapeJavaScript($input.params().querystring.get($key))"
         #if($foreach.hasNext),#end
+        #end
         #end
     },
     "resource": "$context.resourcePath",

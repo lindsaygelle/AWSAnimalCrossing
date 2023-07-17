@@ -89,7 +89,7 @@
                 "null"
             ]
         },
-        "image_critterpedia": {
+        "image_critterpedia_url": {
             "maxLength": 84,
             "minLength": 61,
             "type": [
@@ -231,7 +231,7 @@
         "hha_points",
         "hha_series",
         "hha_set",
-        "image_critterpedia",
+        "image_critterpedia_url",
         "image_furniture_url",
         "image_icon_url",
         "internal_id",

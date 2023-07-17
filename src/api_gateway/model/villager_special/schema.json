@@ -81,7 +81,7 @@
                 "string"
             ]
         },
-        "image_photo": {
+        "image_photo_url": {
             "maxLength": 51,
             "minLength": 49,
             "type": [
@@ -141,7 +141,7 @@
         "gender_alternative",
         "hobby_name",
         "image_icon_url",
-        "image_photo",
+        "image_photo_url",
         "internal_id",
         "internal_label",
         "internal_name",
