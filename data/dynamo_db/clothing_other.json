@@ -7,6 +7,9 @@
             "buy_price": {
                 "N": "3000"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "collection_id": {
                 "N": "1260"
             },
@@ -119,6 +122,9 @@
             },
             "buy_price": {
                 "N": "3000"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "collection_id": {
                 "N": "1260"
@@ -233,6 +239,9 @@
             "buy_price": {
                 "N": "3000"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "collection_id": {
                 "N": "1260"
             },
@@ -345,6 +354,9 @@
             },
             "buy_price": {
                 "N": "3000"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "collection_id": {
                 "N": "1260"
@@ -459,6 +471,9 @@
             "buy_price": {
                 "N": "3000"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "collection_id": {
                 "N": "1259"
             },
@@ -571,6 +586,9 @@
             },
             "buy_price": {
                 "N": "3000"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "collection_id": {
                 "N": "1259"
@@ -685,6 +703,9 @@
             "buy_price": {
                 "N": "3000"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "collection_id": {
                 "N": "1259"
             },
@@ -798,6 +819,9 @@
             "buy_price": {
                 "N": "3000"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "collection_id": {
                 "N": "1259"
             },
@@ -910,6 +934,9 @@
             },
             "buy_price": {
                 "NULL": true
+            },
+            "catalog_category": {
+                "S": "Not for sale"
             },
             "collection_id": {
                 "N": "1258"

@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 40,
-    "minProperties": 40,
+    "maxProperties": 41,
+    "minProperties": 41,
     "properties": {
         "body_category": {
             "maxLength": 5,
@@ -29,6 +29,13 @@
         "can_customize_pattern": {
             "type": [
                 "boolean"
+            ]
+        },
+        "catalog_category": {
+            "maxLength": 12,
+            "minLength": 12,
+            "type": [
+                "string"
             ]
         },
         "color_1": {
@@ -273,6 +280,7 @@
         "buy_price",
         "can_customize_body",
         "can_customize_pattern",
+        "catalog_category",
         "color_1",
         "color_2",
         "cyrus_currency",
