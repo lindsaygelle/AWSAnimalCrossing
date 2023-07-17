@@ -1,3 +1,19 @@
+#set($allowedParams = [
+    "birth_day",
+    "birth_month",
+    "color_1",
+    "color_2",
+    "floor_name",
+    "gender",
+    "hobby_name",
+    "personality_category",
+    "personality_name",
+    "song_name",
+    "species_name",
+    "style_1",
+    "style_2",
+    "wallpaper_name"
+])
 {
     "body": {
         "table": "AnimalCrossingVillager"
@@ -21,8 +37,10 @@
     },
     "queryStringParameters": {
         #foreach($key in $input.params().querystring.keySet())
+        #if($allowedParams.contains($key))
         "$key": "$util.escapeJavaScript($input.params().querystring.get($key))"
         #if($foreach.hasNext),#end
+        #end
         #end
     },
     "resource": "$context.resourcePath",

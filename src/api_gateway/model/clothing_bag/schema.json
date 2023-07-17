@@ -132,7 +132,7 @@
                 "null"
             ]
         },
-        "image_closet": {
+        "image_closet_url": {
             "maxLength": 69,
             "minLength": 57,
             "type": [
@@ -140,7 +140,7 @@
                 "string"
             ]
         },
-        "image_storage": {
+        "image_storage_url": {
             "maxLength": 66,
             "minLength": 50,
             "type": [
@@ -272,8 +272,8 @@
         "hha_points",
         "hha_series",
         "hha_set",
-        "image_closet",
-        "image_storage",
+        "image_closet_url",
+        "image_storage_url",
         "internal_id",
         "internal_label",
         "internal_name",

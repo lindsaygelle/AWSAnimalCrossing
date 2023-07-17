@@ -52,7 +52,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/DIYAcorn.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/DIYAcorn.png"
             },
             "internal_id": {
@@ -138,7 +138,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Apple.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/Apple.png"
             },
             "internal_id": {
@@ -224,7 +224,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltApple.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -310,7 +310,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/StarpieceAquarius.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/StarpieceAquarius.png"
             },
             "internal_id": {
@@ -396,7 +396,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Helmet.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -482,7 +482,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/StarpieceAries.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/StarpieceAries.png"
             },
             "internal_id": {
@@ -568,7 +568,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/DIYBamboo.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/DIYBamboo.png"
             },
             "internal_id": {
@@ -654,7 +654,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/BanbooShoot.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/BambooShoot.png"
             },
             "internal_id": {
@@ -740,7 +740,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltBamboo.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -826,7 +826,7 @@
             "image_inventory_url": {
                 "NULL": true
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/Cookingbook1.png"
             },
             "internal_id": {
@@ -912,7 +912,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/DIYRecipePlus.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -998,7 +998,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/MoneyBag010.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/PhotoStudioBellBag.png"
             },
             "internal_id": {
@@ -1084,7 +1084,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Coin.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/PhotoStudioBell.png"
             },
             "internal_id": {
@@ -1170,7 +1170,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/BellExchangeTicket.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/BellExchangeTicket.png"
             },
             "internal_id": {
@@ -1256,7 +1256,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Cosmos5.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FlwCosmosBlack.png"
             },
             "internal_id": {
@@ -1342,7 +1342,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Yuri5.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FlwYuriBlack.png"
             },
             "internal_id": {
@@ -1428,7 +1428,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Rose6.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FlwRoseBlack.png"
             },
             "internal_id": {
@@ -1514,7 +1514,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Turip5.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FlwTulipBlack.png"
             },
             "internal_id": {
@@ -1600,7 +1600,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/WPaperBlack.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/WPaperBlack.png"
             },
             "internal_id": {
@@ -1686,7 +1686,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltCosmos5.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -1772,7 +1772,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltYuri5.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -1858,7 +1858,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltRose6.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -1944,7 +1944,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltTurip5.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -2030,7 +2030,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/TentWhite.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -2116,7 +2116,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/FeatherBlu.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FeatherBlue.png"
             },
             "internal_id": {
@@ -2202,7 +2202,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Hyacinth6.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FlwHyacinthBlue.png"
             },
             "internal_id": {
@@ -2288,7 +2288,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/ChristmasOrnamentB.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/DIYOrnamentBlue.png"
             },
             "internal_id": {
@@ -2374,7 +2374,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Pansi5.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FlwPansyBlue.png"
             },
             "internal_id": {
@@ -2460,7 +2460,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Rose7.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FlwRoseBlue.png"
             },
             "internal_id": {
@@ -2546,7 +2546,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Anemone5.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FlwAnemonesBlue.png"
             },
             "internal_id": {
@@ -2632,7 +2632,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/WPaperBlue.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/WPaperBlue.png"
             },
             "internal_id": {
@@ -2718,7 +2718,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltHyacinth6.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -2804,7 +2804,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltHydrangeaBlue.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -2890,7 +2890,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/ShopPlant/SeedHydrangeaBlue.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/SeedHydrangeaBlue.png"
             },
             "internal_id": {
@@ -2976,7 +2976,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltPansi5.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -3062,7 +3062,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltRose7.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -3148,7 +3148,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltAnemone5.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -3234,7 +3234,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/HowtoBookHair.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -3320,7 +3320,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/OtoshidamaOpenKr.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/OtoshidamaKr.png"
             },
             "internal_id": {
@@ -3406,7 +3406,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Boots.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/TrashBoot.png"
             },
             "internal_id": {
@@ -3492,7 +3492,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Helmet.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -3578,7 +3578,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/TentWhite.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -3664,7 +3664,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/TentWhite.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -3750,7 +3750,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/FlourSugarbrown.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FlourSugarbrown.png"
             },
             "internal_id": {
@@ -3836,7 +3836,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/WPaperBrown.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/WPaperBrown.png"
             },
             "internal_id": {
@@ -3922,7 +3922,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/TentWhite.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -4008,7 +4008,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/TentWhite.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -4094,7 +4094,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/StarpieceCancer.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/StarpieceCancer.png"
             },
             "internal_id": {
@@ -4180,7 +4180,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Candy.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/Candy.png"
             },
             "internal_id": {
@@ -4266,7 +4266,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/StarpieceCapricornus.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/StarpieceCapricornus.png"
             },
             "internal_id": {
@@ -4352,7 +4352,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Carrot.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/Carrot.png"
             },
             "internal_id": {
@@ -4438,7 +4438,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/SeedlingVegetable.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/SeedCarrot.png"
             },
             "internal_id": {
@@ -4524,7 +4524,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/SeedlingConifer.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/SeedCedar.png"
             },
             "internal_id": {
@@ -4610,7 +4610,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltConifer.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -4696,7 +4696,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/WPaperLightGreen.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/WPaperLightGreen.png"
             },
             "internal_id": {
@@ -4782,7 +4782,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Cherry.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/Cherry.png"
             },
             "internal_id": {
@@ -4868,7 +4868,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltCherry.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -4954,7 +4954,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Sakurapetal.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/Sakurapetal.png"
             },
             "internal_id": {
@@ -5040,7 +5040,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/OreClay.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/DIYClay.png"
             },
             "internal_id": {
@@ -5126,7 +5126,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/ToolCliffMaker.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -5212,7 +5212,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Weed.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/PltWeed.png"
             },
             "internal_id": {
@@ -5298,7 +5298,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Coconut.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/Coconut.png"
             },
             "internal_id": {
@@ -5384,7 +5384,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltPalm.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -5470,7 +5470,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PirateQuest.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -5556,7 +5556,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/JohnyParts.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -5642,7 +5642,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Shell1.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/ShellDriftHora.png"
             },
             "internal_id": {
@@ -5728,7 +5728,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Shell3.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/ShellDriftSango.png"
             },
             "internal_id": {
@@ -5814,7 +5814,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Shell7.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/ShellDriftTakara.png"
             },
             "internal_id": {
@@ -5900,7 +5900,7 @@
             "image_inventory_url": {
                 "NULL": true
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/DIYbookHarvest.png"
             },
             "internal_id": {
@@ -5986,7 +5986,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Helmet.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -6072,7 +6072,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/MyDesignPro.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -6158,7 +6158,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/MyDesignPro.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -6244,7 +6244,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/MyDesignPro.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -6330,7 +6330,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/MyDesignPro.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -6416,7 +6416,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/HowtoBookExpansion.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -6502,7 +6502,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/SmartphoneCase.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/SmartphoneCase_Remake_0_0.png"
             },
             "internal_id": {
@@ -6588,7 +6588,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/RemakeKit.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/RemakeKit.png"
             },
             "internal_id": {
@@ -6674,7 +6674,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Helmet.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -6760,7 +6760,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Cardboard.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -6846,7 +6846,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/OneroomCardboard.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -6932,7 +6932,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Present2.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -7018,7 +7018,7 @@
             "image_inventory_url": {
                 "NULL": true
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/DIYbook1.png"
             },
             "internal_id": {
@@ -7104,7 +7104,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/DreamBellExchangeTicket.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/DreamBellExchangeTicket.png"
             },
             "internal_id": {
@@ -7190,7 +7190,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/EggGround.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/EggGround.png"
             },
             "internal_id": {
@@ -7276,7 +7276,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/MessageBottleEgg.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -7362,7 +7362,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Mush0.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/MushSplendid.png"
             },
             "internal_id": {
@@ -7448,7 +7448,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Can.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/TrashCan.png"
             },
             "internal_id": {
@@ -7534,7 +7534,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/HowtoBookHair.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -7620,7 +7620,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/WPaperOrnament.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/WPaperOrnament.png"
             },
             "internal_id": {
@@ -7706,7 +7706,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/FishBait.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FishBait.png"
             },
             "internal_id": {
@@ -7792,7 +7792,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Mush3.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/MushFlat.png"
             },
             "internal_id": {
@@ -7878,7 +7878,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/FlourWheat.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FlourWheat.png"
             },
             "internal_id": {
@@ -7964,7 +7964,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Fossil.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/Fossil.png"
             },
             "internal_id": {
@@ -8050,7 +8050,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PutHanabi.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/Fireworks.png"
             },
             "internal_id": {
@@ -8136,7 +8136,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/StarpieceGemini.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/StarpieceGemini.png"
             },
             "internal_id": {
@@ -8222,7 +8222,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Shell2.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/ShellDriftSyako.png"
             },
             "internal_id": {
@@ -8308,7 +8308,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/WBagOrnament.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/DummyWrappingOrnament.png"
             },
             "internal_id": {
@@ -8394,7 +8394,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltWeedLight.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/PltWeedLight.png"
             },
             "internal_id": {
@@ -8480,7 +8480,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Gold_Ore.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/DIYGold.png"
             },
             "internal_id": {
@@ -8566,7 +8566,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/ChristmasOrnamentC.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/DIYOrnamentGold.png"
             },
             "internal_id": {
@@ -8652,7 +8652,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/GoldenRose.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FlwRoseGold.png"
             },
             "internal_id": {
@@ -8738,7 +8738,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/WPaperGold.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/WPaperGold.png"
             },
             "internal_id": {
@@ -8824,7 +8824,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltGoldenRose.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -8910,7 +8910,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/WPaperGray.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/WPaperGray.png"
             },
             "internal_id": {
@@ -8996,7 +8996,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/FeatherGrn.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FeatherGreen.png"
             },
             "internal_id": {
@@ -9082,7 +9082,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Mum4.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FlwMumGreen.png"
             },
             "internal_id": {
@@ -9168,7 +9168,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/SquashGreen.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/SquashGreen.png"
             },
             "internal_id": {
@@ -9254,7 +9254,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/WPaperGreen.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/WPaperGreen.png"
             },
             "internal_id": {
@@ -9340,7 +9340,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltMum4.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -9426,7 +9426,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/HaniwaPiece.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/HaniwaPiece.png"
             },
             "internal_id": {
@@ -9512,7 +9512,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/DIYWoodHard.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/DIYWoodHard.png"
             },
             "internal_id": {
@@ -9598,7 +9598,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltOak.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -9684,7 +9684,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Love.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/Love.png"
             },
             "internal_id": {
@@ -9770,7 +9770,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/HowtoBookExpansion.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -9856,7 +9856,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltHolly.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -9942,7 +9942,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/ShopPlant/SeedHolly.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/SeedHolly.png"
             },
             "internal_id": {
@@ -10028,7 +10028,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/TentWhite.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -10114,7 +10114,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/TentWhite.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -10200,7 +10200,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/OreIron.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/DIYIron.png"
             },
             "internal_id": {
@@ -10286,7 +10286,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/LifeSupport.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -10372,7 +10372,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/SnowCrystalLarge.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/SnowCrystalLarge.png"
             },
             "internal_id": {
@@ -10458,7 +10458,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/StarPieceRare.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/StarpieceRare.png"
             },
             "internal_id": {
@@ -10544,7 +10544,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/EggLeaf.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/EggLeaf.png"
             },
             "internal_id": {
@@ -10630,7 +10630,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/StarpieceLeo.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/StarpieceLeo.png"
             },
             "internal_id": {
@@ -10716,7 +10716,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/StarpieceLibra.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/StarpieceLibra.png"
             },
             "internal_id": {
@@ -10802,7 +10802,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/WPaperLightBlue.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/WPaperLightBlue.png"
             },
             "internal_id": {
@@ -10888,7 +10888,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltSuzuran.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -10974,7 +10974,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Lollipop.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/Lollipop.png"
             },
             "internal_id": {
@@ -11060,7 +11060,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Porch.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -11146,7 +11146,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Book.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -11232,7 +11232,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/LostQuestMemo.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -11318,7 +11318,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/OtoshidamaSealCh.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -11404,7 +11404,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/OtoshidamaOpenCh.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/OtoshidamaCh.png"
             },
             "internal_id": {
@@ -11490,7 +11490,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/ShellFishAsari.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FtrShellFishAsari.png"
             },
             "internal_id": {
@@ -11576,7 +11576,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/AutumnLeaf.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/AutumnLeaf.png"
             },
             "internal_id": {
@@ -11662,7 +11662,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Medicine.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/ItemMedicine.png"
             },
             "internal_id": {
@@ -11748,7 +11748,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/BottleRecipe.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -11834,7 +11834,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/WPaperMint.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/WPaperMint.png"
             },
             "internal_id": {
@@ -11920,7 +11920,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltMoney.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -12006,7 +12006,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/TentWhite.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -12092,7 +12092,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/TentWhite.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -12178,7 +12178,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/WPaperNavy.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/WPaperNavy.png"
             },
             "internal_id": {
@@ -12264,7 +12264,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/HowtoBookExpansion.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -12350,7 +12350,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PlaneTicket.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/MilePlaneTicket.png"
             },
             "internal_id": {
@@ -12436,7 +12436,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Tire.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/TrashTire.png"
             },
             "internal_id": {
@@ -12522,7 +12522,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Orange.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/Orange.png"
             },
             "internal_id": {
@@ -12608,7 +12608,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Cosmos4.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FlwCosmosOrange.png"
             },
             "internal_id": {
@@ -12694,7 +12694,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Hyacinth3.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FlwHyacinthOrange.png"
             },
             "internal_id": {
@@ -12780,7 +12780,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Yuri3.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FlwYuriOrange.png"
             },
             "internal_id": {
@@ -12866,7 +12866,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Pansi4.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FlwPansyRedYellow.png"
             },
             "internal_id": {
@@ -12952,7 +12952,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/SquashOrange.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/SquashOrange.png"
             },
             "internal_id": {
@@ -13038,7 +13038,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Rose4.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FlwRoseOrange.png"
             },
             "internal_id": {
@@ -13124,7 +13124,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltOrange.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -13210,7 +13210,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Turip6.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FlwTulipOrange.png"
             },
             "internal_id": {
@@ -13296,7 +13296,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Anemone2.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FlwAnemonesOrange.png"
             },
             "internal_id": {
@@ -13382,7 +13382,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/WPaperOrange.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/WPaperOrange.png"
             },
             "internal_id": {
@@ -13468,7 +13468,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltCosmos4.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -13554,7 +13554,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltHyacinth3.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -13640,7 +13640,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltYuri3.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -13726,7 +13726,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltPansi4.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -13812,7 +13812,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltRose4.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -13898,7 +13898,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltBushOsmathusOrange.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -13984,7 +13984,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/ShopPlant/SeedBushOsmathusOrange.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/SeedBushOsmathusOrange.png"
             },
             "internal_id": {
@@ -14070,7 +14070,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltTurip6.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -14156,7 +14156,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/SeedPaperbag3.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/SeedAnemonesOrange.png"
             },
             "internal_id": {
@@ -14242,7 +14242,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltAnemone2.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -14328,7 +14328,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/OtoshidamaSealJp.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -14414,7 +14414,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/OtoshidamaOpenJp.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/OtoshidamaJp.png"
             },
             "internal_id": {
@@ -14500,7 +14500,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/SmartphoneCaseOtg.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/SmartphoneCaseOtg.png"
             },
             "internal_id": {
@@ -14586,7 +14586,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Peach.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/Peach.png"
             },
             "internal_id": {
@@ -14672,7 +14672,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltPeach.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -14758,7 +14758,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Pear.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/Pear.png"
             },
             "internal_id": {
@@ -14844,7 +14844,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltPear.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -14930,7 +14930,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Pearl.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/Pearl.png"
             },
             "internal_id": {
@@ -15016,7 +15016,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/DIYPinecone.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/DIYPinecone.png"
             },
             "internal_id": {
@@ -15102,7 +15102,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Cosmos3.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FlwCosmosPink.png"
             },
             "internal_id": {
@@ -15188,7 +15188,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Hyacinth4.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FlwHyacinthPink.png"
             },
             "internal_id": {
@@ -15274,7 +15274,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Yuri4.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FlwYuriPink.png"
             },
             "internal_id": {
@@ -15360,7 +15360,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Mum3.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FlwMumPink.png"
             },
             "internal_id": {
@@ -15446,7 +15446,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Rose3.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FlwRosePink.png"
             },
             "internal_id": {
@@ -15532,7 +15532,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Turip3.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FlwTulipPink.png"
             },
             "internal_id": {
@@ -15618,7 +15618,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Anemone3.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FlwAnemonesPink.png"
             },
             "internal_id": {
@@ -15704,7 +15704,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/WPaperPink.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/WPaperPink.png"
             },
             "internal_id": {
@@ -15790,7 +15790,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltAzaleaPink.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -15876,7 +15876,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/ShopPlant/SeedAzaleaPink.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/SeedAzaleaPink.png"
             },
             "internal_id": {
@@ -15962,7 +15962,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltBushCamelliaPink.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -16048,7 +16048,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/ShopPlant/SeedBushCamelliaPink.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/SeedBushCamelliaPink.png"
             },
             "internal_id": {
@@ -16134,7 +16134,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltCosmos3.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -16220,7 +16220,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltHyacinth4.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -16306,7 +16306,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltHydrangeaPink.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -16392,7 +16392,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/ShopPlant/SeedHydrangeaPink.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/SeedHydrangeaPink.png"
             },
             "internal_id": {
@@ -16478,7 +16478,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltYuri4.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -16564,7 +16564,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltMum3.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -16650,7 +16650,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltBushPlumeriaPink.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -16736,7 +16736,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/ShopPlant/SeedBushPlumeriaPink.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/SeedBushPlumeriaPink.png"
             },
             "internal_id": {
@@ -16822,7 +16822,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltRose3.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -16908,7 +16908,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltTurip3.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -16994,7 +16994,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltAnemone3.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -17080,7 +17080,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/StarpiecePisces.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/StarpiecePisces.png"
             },
             "internal_id": {
@@ -17166,7 +17166,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/SeedPitfall.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/PitfallSeed.png"
             },
             "internal_id": {
@@ -17252,7 +17252,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/TentWhite.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -17338,7 +17338,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/TentWhite.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -17424,7 +17424,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/TentWhite.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -17510,7 +17510,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/SmartphoneCaseComp.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/SmartphoneCaseComp.png"
             },
             "internal_id": {
@@ -17596,7 +17596,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/HowtoBookExpansion.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -17682,7 +17682,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Potato.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/Potato.png"
             },
             "internal_id": {
@@ -17768,7 +17768,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Present.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -17854,7 +17854,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/WBagBlack.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/DummyWrappingBlack.png"
             },
             "internal_id": {
@@ -17940,7 +17940,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/WBagBlue.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/DummyWrappingBlue.png"
             },
             "internal_id": {
@@ -18026,7 +18026,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/WBagBrown.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/DummyWrappingBrown.png"
             },
             "internal_id": {
@@ -18112,7 +18112,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/WBagLightGreen.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/DummyWrappingLightGreen.png"
             },
             "internal_id": {
@@ -18198,7 +18198,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/WBagGold.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/DummyWrappingGold.png"
             },
             "internal_id": {
@@ -18284,7 +18284,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/WBagGary.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/DummyWrappingGary.png"
             },
             "internal_id": {
@@ -18370,7 +18370,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/WBagGreen.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/DummyWrappingGreen.png"
             },
             "internal_id": {
@@ -18456,7 +18456,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/WBagLightBlue.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/DummyWrappingLightBlue.png"
             },
             "internal_id": {
@@ -18542,7 +18542,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/WBagMint.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/DummyWrappingMint.png"
             },
             "internal_id": {
@@ -18628,7 +18628,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/WBagNavy.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/DummyWrappingNavy.png"
             },
             "internal_id": {
@@ -18714,7 +18714,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/WBagOrange.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/DummyWrappingOrange.png"
             },
             "internal_id": {
@@ -18800,7 +18800,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/WBagPink.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/DummyWrappingPink.png"
             },
             "internal_id": {
@@ -18886,7 +18886,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/WBagPurple.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/DummyWrappingPurple.png"
             },
             "internal_id": {
@@ -18972,7 +18972,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/WBagRed.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/DummyWrappingRed.png"
             },
             "internal_id": {
@@ -19058,7 +19058,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/WBagWhite.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/DummyWrappingWhite.png"
             },
             "internal_id": {
@@ -19144,7 +19144,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/WBagYellow.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/DummyWrappingYellow.png"
             },
             "internal_id": {
@@ -19230,7 +19230,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/BookRecipe.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -19316,7 +19316,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/CameraAppPro.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -19402,7 +19402,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/HowtoBookExpansion.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -19488,7 +19488,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/HowtoBookExpansion.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -19574,7 +19574,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/SeedlingVegetable.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/SeedSquash.png"
             },
             "internal_id": {
@@ -19660,7 +19660,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/FeatherPpl.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FeatherPurple.png"
             },
             "internal_id": {
@@ -19746,7 +19746,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Hyacinth5.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FlwHyacinthPurple.png"
             },
             "internal_id": {
@@ -19832,7 +19832,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Mum5.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FlwMumPurple.png"
             },
             "internal_id": {
@@ -19918,7 +19918,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Pansi3.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FlwPansyPurple.png"
             },
             "internal_id": {
@@ -20004,7 +20004,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Rose5.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FlwRosePurple.png"
             },
             "internal_id": {
@@ -20090,7 +20090,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Turip4.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FlwTulipPurple.png"
             },
             "internal_id": {
@@ -20176,7 +20176,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Anemone4.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FlwAnemonesPurple.png"
             },
             "internal_id": {
@@ -20262,7 +20262,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/WPaperPurple.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/WPaperPurple.png"
             },
             "internal_id": {
@@ -20348,7 +20348,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltHyacinth5.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -20434,7 +20434,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltMum5.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -20520,7 +20520,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltPansi3.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -20606,7 +20606,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltRose5.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -20692,7 +20692,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltTurip4.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -20778,7 +20778,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltAnemone4.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -20864,7 +20864,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/FeatherRainbow.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FeatherRainbow.png"
             },
             "internal_id": {
@@ -20950,7 +20950,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Mush4.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/MushRare.png"
             },
             "internal_id": {
@@ -21036,7 +21036,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Cosmos1.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FlwCosmosRed.png"
             },
             "internal_id": {
@@ -21122,7 +21122,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/FeatherRed.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FeatherRed.png"
             },
             "internal_id": {
@@ -21208,7 +21208,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Hyacinth2.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FlwHyacinthRed.png"
             },
             "internal_id": {
@@ -21294,7 +21294,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Yuri2.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FlwYuriRed.png"
             },
             "internal_id": {
@@ -21380,7 +21380,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Mum2.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FlwMumRed.png"
             },
             "internal_id": {
@@ -21466,7 +21466,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/ChristmasOrnamentA.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/DIYOrnamentRed.png"
             },
             "internal_id": {
@@ -21552,7 +21552,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Pansi2.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FlwPansyRed.png"
             },
             "internal_id": {
@@ -21638,7 +21638,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Rose0.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FlwRoseRed.png"
             },
             "internal_id": {
@@ -21724,7 +21724,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Turip0.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FlwTulipRed.png"
             },
             "internal_id": {
@@ -21810,7 +21810,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Anemone1.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FlwAnemonesRed.png"
             },
             "internal_id": {
@@ -21896,7 +21896,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/WPaperRed.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/WPaperRed.png"
             },
             "internal_id": {
@@ -21982,7 +21982,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltBushCamelliaRed.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -22068,7 +22068,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/ShopPlant/SeedBushCamelliaRed.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/SeedBushCamelliaRed.png"
             },
             "internal_id": {
@@ -22154,7 +22154,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/SeedPaperbag0.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/SeedCosmosRed.png"
             },
             "internal_id": {
@@ -22240,7 +22240,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltCosmos1.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -22326,7 +22326,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltHibiscusRed.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -22412,7 +22412,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/ShopPlant/SeedHibiscusRed.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/SeedHibiscusRed.png"
             },
             "internal_id": {
@@ -22498,7 +22498,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/SeedPaperbag0.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/SeedHyacinthRed.png"
             },
             "internal_id": {
@@ -22584,7 +22584,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltHyacinth2.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -22670,7 +22670,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/SeedPaperbag0.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/SeedYuriRed.png"
             },
             "internal_id": {
@@ -22756,7 +22756,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltYuri2.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -22842,7 +22842,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/SeedPaperbag0.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/SeedMumRed.png"
             },
             "internal_id": {
@@ -22928,7 +22928,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltMum2.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -23014,7 +23014,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/SeedPaperbag0.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/SeedPansyRed.png"
             },
             "internal_id": {
@@ -23100,7 +23100,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltPansi2.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -23186,7 +23186,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/SeedPaperbag0.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/SeedRoseRed.png"
             },
             "internal_id": {
@@ -23272,7 +23272,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltRose0.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -23358,7 +23358,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/SeedPaperbag0.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/SeedTulipRed.png"
             },
             "internal_id": {
@@ -23444,7 +23444,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltTurip0.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -23530,7 +23530,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/SeedPaperbag0.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/SeedAnemonesRed.png"
             },
             "internal_id": {
@@ -23616,7 +23616,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltAnemone1.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -23702,7 +23702,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltCarrot.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -23788,7 +23788,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltSquashGreen.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -23874,7 +23874,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltSquashOrange.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -23960,7 +23960,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltPotato.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -24046,7 +24046,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltSugarCane.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -24132,7 +24132,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltTomato.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -24218,7 +24218,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltWheat.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -24304,7 +24304,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltSquashWhite.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -24390,7 +24390,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltSquashYellow.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -24476,7 +24476,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Mush1.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/MushRound.png"
             },
             "internal_id": {
@@ -24562,7 +24562,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/JohnnyQuestDust1.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/JohnnyQuestDust1.png"
             },
             "internal_id": {
@@ -24648,7 +24648,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/StarpieceSagittarius.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/StarpieceSagittarius.png"
             },
             "internal_id": {
@@ -24734,7 +24734,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/RollanTicket.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/RollanTicket.png"
             },
             "internal_id": {
@@ -24820,7 +24820,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Shell8.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/ShellDriftSanddollar.png"
             },
             "internal_id": {
@@ -24906,7 +24906,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Helmet.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -24992,7 +24992,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Seedling.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/SeedOak.png"
             },
             "internal_id": {
@@ -25078,7 +25078,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/StarpieceScorpio.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/StarpieceScorpio.png"
             },
             "internal_id": {
@@ -25164,7 +25164,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Shell6.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/ShellDriftEbisu.png"
             },
             "internal_id": {
@@ -25250,7 +25250,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/OtoshidamaSealKr.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -25336,7 +25336,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/SeedlingVegetable.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/SeedPotato.png"
             },
             "internal_id": {
@@ -25422,7 +25422,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/TentWhite.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -25508,7 +25508,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/TentWhite.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -25594,7 +25594,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Mush2.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/MushSlender.png"
             },
             "internal_id": {
@@ -25680,7 +25680,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/EggSky.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/EggSky.png"
             },
             "internal_id": {
@@ -25766,7 +25766,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/SnowCrystal.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/SnowCrystal.png"
             },
             "internal_id": {
@@ -25852,7 +25852,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/DIYWoodSoft.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/DIYWoodSoft.png"
             },
             "internal_id": {
@@ -25938,7 +25938,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/SouvenirChocolate.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/SouvenirChocolate.png"
             },
             "internal_id": {
@@ -26024,7 +26024,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/BadKabu.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/Kabu_Spoil.png"
             },
             "internal_id": {
@@ -26110,7 +26110,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/StarPiece.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/Starpiece.png"
             },
             "internal_id": {
@@ -26196,7 +26196,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/OreStone.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/DIYStone.png"
             },
             "internal_id": {
@@ -26282,7 +26282,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/EggRock.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/EggRock.png"
             },
             "internal_id": {
@@ -26368,7 +26368,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Helmet.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -26454,7 +26454,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/FlourSugar.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FlourSugar.png"
             },
             "internal_id": {
@@ -26540,7 +26540,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/SugarCane.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/SugarCane.png"
             },
             "internal_id": {
@@ -26626,7 +26626,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/SeedlingVegetable.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/SeedSugarCane.png"
             },
             "internal_id": {
@@ -26712,7 +26712,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/ShellSummer.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/ShellDriftSummer.png"
             },
             "internal_id": {
@@ -26798,7 +26798,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/TentWhite.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -26884,7 +26884,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/TentWhite.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -26970,7 +26970,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/TailorTicket.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/TailorTicket.png"
             },
             "internal_id": {
@@ -27056,7 +27056,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/StarpieceTaurus.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/StarpieceTaurus.png"
             },
             "internal_id": {
@@ -27142,7 +27142,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Tent.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -27228,7 +27228,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Helmet.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -27314,7 +27314,7 @@
             "image_inventory_url": {
                 "NULL": true
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/DIYbook2.png"
             },
             "internal_id": {
@@ -27400,7 +27400,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Tomato.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/Tomato.png"
             },
             "internal_id": {
@@ -27486,7 +27486,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/SeedlingVegetable.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/SeedTomato.png"
             },
             "internal_id": {
@@ -27572,7 +27572,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/HowtoBookExpansion.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -27658,7 +27658,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/HowtoBookHair.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -27744,7 +27744,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/HowtoBookHair.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -27830,7 +27830,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/HowtoBookHair.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -27916,7 +27916,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/HowtoBookHair.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -28002,7 +28002,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/HowtoBookHair.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -28088,7 +28088,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/TentWhite.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -28174,7 +28174,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Present2.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -28260,7 +28260,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/DIYBranch.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/DIYBranch.png"
             },
             "internal_id": {
@@ -28346,7 +28346,7 @@
             "image_inventory_url": {
                 "NULL": true
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/CookingbookHarvest.png"
             },
             "internal_id": {
@@ -28432,7 +28432,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Kabu.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/PhotoStudioKabu.png"
             },
             "internal_id": {
@@ -28518,7 +28518,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/HowtoBookExpansion.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -28604,7 +28604,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Cinder.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/Cinder.png"
             },
             "internal_id": {
@@ -28690,7 +28690,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Shell4.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/ShellDriftHone.png"
             },
             "internal_id": {
@@ -28776,7 +28776,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltVine.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/PltVine.png"
             },
             "internal_id": {
@@ -28862,7 +28862,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/StarpieceVirgo.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/StarpieceVirgo.png"
             },
             "internal_id": {
@@ -28948,7 +28948,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/HowtoBookExpansion.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/HowtoBookReactionCarnival.png"
             },
             "internal_id": {
@@ -29034,7 +29034,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Honeycomb.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/Honeycomb.png"
             },
             "internal_id": {
@@ -29120,7 +29120,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/EggFish.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/EggFish.png"
             },
             "internal_id": {
@@ -29206,7 +29206,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/ToolRiverMaker.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -29292,7 +29292,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Porch.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/LostQuestBagDust.png"
             },
             "internal_id": {
@@ -29378,7 +29378,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Book.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/LostQuestBookDust.png"
             },
             "internal_id": {
@@ -29464,7 +29464,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/LostQuestMemo.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/LostQuestNoteDust.png"
             },
             "internal_id": {
@@ -29550,7 +29550,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Present2.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -29636,7 +29636,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Wheat.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/Wheat.png"
             },
             "internal_id": {
@@ -29722,7 +29722,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/SeedlingVegetable.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/SeedWheat.png"
             },
             "internal_id": {
@@ -29808,7 +29808,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Cosmos0.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FlwCosmosWhite.png"
             },
             "internal_id": {
@@ -29894,7 +29894,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Hyacinth0.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FlwHyacinthWhite.png"
             },
             "internal_id": {
@@ -29980,7 +29980,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Yuri0.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FlwYuriWhite.png"
             },
             "internal_id": {
@@ -30066,7 +30066,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Mum0.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FlwMumWhite.png"
             },
             "internal_id": {
@@ -30152,7 +30152,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Pansi0.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FlwPansyWhite.png"
             },
             "internal_id": {
@@ -30238,7 +30238,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/SquashWhite.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/SquashWhite.png"
             },
             "internal_id": {
@@ -30324,7 +30324,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Rose1.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FlwRoseWhite.png"
             },
             "internal_id": {
@@ -30410,7 +30410,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Turip1.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FlwTulipWhite.png"
             },
             "internal_id": {
@@ -30496,7 +30496,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Anemone0.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FlwAnemonesWhite.png"
             },
             "internal_id": {
@@ -30582,7 +30582,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/WPaperWhite.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/WPaperWhite.png"
             },
             "internal_id": {
@@ -30668,7 +30668,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltAzaleaWhite.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -30754,7 +30754,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/ShopPlant/SeedAzaleaWhite.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/SeedAzaleaWhite.png"
             },
             "internal_id": {
@@ -30840,7 +30840,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/SeedPaperbag1.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/SeedCosmosWhite.png"
             },
             "internal_id": {
@@ -30926,7 +30926,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltCosmos0.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -31012,7 +31012,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/SeedPaperbag1.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/SeedHyacinthWhite.png"
             },
             "internal_id": {
@@ -31098,7 +31098,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltHyacinth0.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -31184,7 +31184,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/SeedPaperbag1.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/SeedYuriWhite.png"
             },
             "internal_id": {
@@ -31270,7 +31270,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltYuri0.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -31356,7 +31356,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/SeedPaperbag1.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/SeedMumWhite.png"
             },
             "internal_id": {
@@ -31442,7 +31442,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltMum0.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -31528,7 +31528,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/SeedPaperbag1.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/SeedPansyWhite.png"
             },
             "internal_id": {
@@ -31614,7 +31614,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltPansi0.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -31700,7 +31700,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltBushPlumeriaWhite.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -31786,7 +31786,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/ShopPlant/SeedBushPlumeriaWhite.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/SeedBushPlumeriaWhite.png"
             },
             "internal_id": {
@@ -31872,7 +31872,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/SeedPaperbag1.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/SeedRoseWhite.png"
             },
             "internal_id": {
@@ -31958,7 +31958,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltRose1.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -32044,7 +32044,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/SeedPaperbag1.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/SeedTulipWhite.png"
             },
             "internal_id": {
@@ -32130,7 +32130,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltTurip1.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -32216,7 +32216,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/SeedPaperbag1.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/SeedAnemonesWhite.png"
             },
             "internal_id": {
@@ -32302,7 +32302,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltAnemone0.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -32388,7 +32388,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/FlourWheatwhole.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FlourWheatwhole.png"
             },
             "internal_id": {
@@ -32474,7 +32474,7 @@
             "image_inventory_url": {
                 "NULL": true
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/DIYbook3.png"
             },
             "internal_id": {
@@ -32560,7 +32560,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/YutaroWisp.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -32646,7 +32646,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/DIYWoodNormal.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/DIYWoodNormal.png"
             },
             "internal_id": {
@@ -32732,7 +32732,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/EggForest.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/EggForest.png"
             },
             "internal_id": {
@@ -32818,7 +32818,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Helmet.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -32904,7 +32904,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Cosmos2.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FlwCosmosYellow.png"
             },
             "internal_id": {
@@ -32990,7 +32990,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Hyacinth1.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FlwHyacinthYellow.png"
             },
             "internal_id": {
@@ -33076,7 +33076,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Yuri1.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FlwYuriYellow.png"
             },
             "internal_id": {
@@ -33162,7 +33162,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Mum1.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FlwMumYellow.png"
             },
             "internal_id": {
@@ -33248,7 +33248,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Pansi1.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FlwPansyYellow.png"
             },
             "internal_id": {
@@ -33334,7 +33334,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/SquashYellow.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/SquashYellow.png"
             },
             "internal_id": {
@@ -33420,7 +33420,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Rose2.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FlwRoseYellow.png"
             },
             "internal_id": {
@@ -33506,7 +33506,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/Turip2.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FlwTulipYellow.png"
             },
             "internal_id": {
@@ -33592,7 +33592,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/WPaperYellow.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/WPaperYellow.png"
             },
             "internal_id": {
@@ -33678,7 +33678,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/SeedPaperbag2.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/SeedCosmosYellow.png"
             },
             "internal_id": {
@@ -33764,7 +33764,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltCosmos2.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -33850,7 +33850,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltHibiscusYellow.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -33936,7 +33936,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/ShopPlant/SeedHibiscusYellow.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/SeedHibiscusYellow.png"
             },
             "internal_id": {
@@ -34022,7 +34022,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/SeedPaperbag2.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/SeedHyacinthYellow.png"
             },
             "internal_id": {
@@ -34108,7 +34108,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltHyacinth1.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -34194,7 +34194,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/SeedPaperbag2.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/SeedYuriYellow.png"
             },
             "internal_id": {
@@ -34280,7 +34280,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltYuri1.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -34366,7 +34366,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/SeedPaperbag2.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/SeedMumYellow.png"
             },
             "internal_id": {
@@ -34452,7 +34452,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltMum1.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -34538,7 +34538,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/SeedPaperbag2.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/SeedPansyYellow.png"
             },
             "internal_id": {
@@ -34624,7 +34624,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltPansi1.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -34710,7 +34710,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/SeedPaperbag2.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/SeedRoseYellow.png"
             },
             "internal_id": {
@@ -34796,7 +34796,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltRose2.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -34882,7 +34882,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltBushOsmathusYellow.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -34968,7 +34968,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/ShopPlant/SeedBushOsmathusYellow.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/SeedBushOsmathusYellow.png"
             },
             "internal_id": {
@@ -35054,7 +35054,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/SeedPaperbag2.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/SeedTulipYellow.png"
             },
             "internal_id": {
@@ -35140,7 +35140,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/PltTurip2.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "NULL": true
             },
             "internal_id": {
@@ -35226,7 +35226,7 @@
             "image_inventory_url": {
                 "S": "https://acnhcdn.com/latest/MenuIcon/DIYBambooSpring.png"
             },
-            "image_storage": {
+            "image_storage_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/DIYBambooSpring.png"
             },
             "internal_id": {

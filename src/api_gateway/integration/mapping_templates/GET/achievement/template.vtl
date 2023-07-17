@@ -1,3 +1,10 @@
+#set($allowedParams = [
+    "internal_id",
+    "internal_label",
+    "internal_name",
+    "is_sequential",
+    "tiers"
+])
 {
     "body": {
         "table": "AnimalCrossingAchievement"
@@ -21,8 +28,10 @@
     },
     "queryStringParameters": {
         #foreach($key in $input.params().querystring.keySet())
+        #if($allowedParams.contains($key))
         "$key": "$util.escapeJavaScript($input.params().querystring.get($key))"
         #if($foreach.hasNext),#end
+        #end
         #end
     },
     "resource": "$context.resourcePath",
