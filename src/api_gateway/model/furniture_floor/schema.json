@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 25,
-    "minProperties": 25,
+    "maxProperties": 26,
+    "minProperties": 26,
     "properties": {
         "buy_currency": {
             "maxLength": 5,
@@ -19,6 +19,13 @@
             "type": [
                 "integer",
                 "null"
+            ]
+        },
+        "catalog_category": {
+            "maxLength": 14,
+            "minLength": 8,
+            "type": [
+                "string"
             ]
         },
         "color_1": {
@@ -185,6 +192,7 @@
     "required": [
         "buy_currency",
         "buy_price",
+        "catalog_category",
         "color_1",
         "color_2",
         "exchange_currency",

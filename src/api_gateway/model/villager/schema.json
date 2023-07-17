@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 27,
-    "minProperties": 27,
+    "maxProperties": 29,
+    "minProperties": 29,
     "properties": {
         "birth_day": {
             "exclusiveMaximum": false,
@@ -26,6 +26,15 @@
             "minLength": 7,
             "type": [
                 "string"
+            ]
+        },
+        "clothing_top_id": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 13759,
+            "minimum": 2401,
+            "type": [
+                "integer"
             ]
         },
         "color_1": {
@@ -184,6 +193,13 @@
                 "string"
             ]
         },
+        "umbrella_name": {
+            "maxLength": 26,
+            "minLength": 12,
+            "type": [
+                "string"
+            ]
+        },
         "unique_entry_id": {
             "maxLength": 17,
             "minLength": 17,
@@ -203,6 +219,7 @@
         "birth_day",
         "birth_month",
         "bubble_color",
+        "clothing_top_id",
         "color_1",
         "color_2",
         "filename",
@@ -225,6 +242,7 @@
         "species_name",
         "style_1",
         "style_2",
+        "umbrella_name",
         "unique_entry_id",
         "wallpaper_name"
     ],

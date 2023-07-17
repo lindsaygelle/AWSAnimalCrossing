@@ -7,6 +7,9 @@
             "buy_price": {
                 "NULL": true
             },
+            "catalog_category": {
+                "S": "Not for sale"
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -92,6 +95,9 @@
             },
             "buy_price": {
                 "N": "1500"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Gray"
@@ -179,6 +185,9 @@
             "buy_price": {
                 "NULL": true
             },
+            "catalog_category": {
+                "S": "Not for sale"
+            },
             "color_1": {
                 "S": "Red"
             },
@@ -264,6 +273,9 @@
             },
             "buy_price": {
                 "NULL": true
+            },
+            "catalog_category": {
+                "S": "Not for sale"
             },
             "color_1": {
                 "S": "Yellow"
@@ -351,6 +363,9 @@
             "buy_price": {
                 "N": "1500"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -436,6 +451,9 @@
             },
             "buy_price": {
                 "N": "1500"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Black"
@@ -523,6 +541,9 @@
             "buy_price": {
                 "N": "1000"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -608,6 +629,9 @@
             },
             "buy_price": {
                 "N": "2000"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Blue"
@@ -695,6 +719,9 @@
             "buy_price": {
                 "N": "1500"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Blue"
             },
@@ -780,6 +807,9 @@
             },
             "buy_price": {
                 "N": "2000"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Blue"
@@ -867,6 +897,9 @@
             "buy_price": {
                 "N": "1500"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Blue"
             },
@@ -952,6 +985,9 @@
             },
             "buy_price": {
                 "N": "2000"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Aqua"
@@ -1039,6 +1075,9 @@
             "buy_price": {
                 "N": "2000"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Blue"
             },
@@ -1124,6 +1163,9 @@
             },
             "buy_price": {
                 "N": "1000"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Blue"
@@ -1211,6 +1253,9 @@
             "buy_price": {
                 "N": "1500"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Blue"
             },
@@ -1296,6 +1341,9 @@
             },
             "buy_price": {
                 "N": "1000"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Blue"
@@ -1383,6 +1431,9 @@
             "buy_price": {
                 "N": "2000"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Blue"
             },
@@ -1468,6 +1519,9 @@
             },
             "buy_price": {
                 "N": "2000"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Blue"
@@ -1555,6 +1609,9 @@
             "buy_price": {
                 "N": "1000"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Blue"
             },
@@ -1640,6 +1697,9 @@
             },
             "buy_price": {
                 "N": "2000"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Blue"
@@ -1727,6 +1787,9 @@
             "buy_price": {
                 "N": "1500"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Blue"
             },
@@ -1812,6 +1875,9 @@
             },
             "buy_price": {
                 "N": "2000"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Blue"
@@ -1899,6 +1965,9 @@
             "buy_price": {
                 "NULL": true
             },
+            "catalog_category": {
+                "S": "Not for sale"
+            },
             "color_1": {
                 "S": "Aqua"
             },
@@ -1984,6 +2053,9 @@
             },
             "buy_price": {
                 "N": "1000"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Blue"
@@ -2071,6 +2143,9 @@
             "buy_price": {
                 "N": "1000"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -2156,6 +2231,9 @@
             },
             "buy_price": {
                 "N": "2000"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Green"
@@ -2243,6 +2321,9 @@
             "buy_price": {
                 "N": "2000"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -2328,6 +2409,9 @@
             },
             "buy_price": {
                 "N": "1500"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Brown"
@@ -2415,6 +2499,9 @@
             "buy_price": {
                 "N": "1000"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -2500,6 +2587,9 @@
             },
             "buy_price": {
                 "N": "2000"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Brown"
@@ -2587,6 +2677,9 @@
             "buy_price": {
                 "N": "1500"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -2672,6 +2765,9 @@
             },
             "buy_price": {
                 "NULL": true
+            },
+            "catalog_category": {
+                "S": "Not for sale"
             },
             "color_1": {
                 "S": "Colorful"
@@ -2759,6 +2855,9 @@
             "buy_price": {
                 "NULL": true
             },
+            "catalog_category": {
+                "S": "Not for sale"
+            },
             "color_1": {
                 "S": "Red"
             },
@@ -2844,6 +2943,9 @@
             },
             "buy_price": {
                 "NULL": true
+            },
+            "catalog_category": {
+                "S": "Not for sale"
             },
             "color_1": {
                 "S": "Pink"
@@ -2931,6 +3033,9 @@
             "buy_price": {
                 "N": "1500"
             },
+            "catalog_category": {
+                "S": "Not in catalog"
+            },
             "color_1": {
                 "S": "White"
             },
@@ -3016,6 +3121,9 @@
             },
             "buy_price": {
                 "N": "1000"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Brown"
@@ -3103,6 +3211,9 @@
             "buy_price": {
                 "N": "1500"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Colorful"
             },
@@ -3188,6 +3299,9 @@
             },
             "buy_price": {
                 "N": "1500"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Orange"
@@ -3275,6 +3389,9 @@
             "buy_price": {
                 "NULL": true
             },
+            "catalog_category": {
+                "S": "Not for sale"
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -3360,6 +3477,9 @@
             },
             "buy_price": {
                 "NULL": true
+            },
+            "catalog_category": {
+                "S": "Not for sale"
             },
             "color_1": {
                 "S": "Brown"
@@ -3447,6 +3567,9 @@
             "buy_price": {
                 "N": "1000"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -3532,6 +3655,9 @@
             },
             "buy_price": {
                 "N": "1000"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Black"
@@ -3619,6 +3745,9 @@
             "buy_price": {
                 "N": "1000"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -3704,6 +3833,9 @@
             },
             "buy_price": {
                 "N": "1000"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Brown"
@@ -3791,6 +3923,9 @@
             "buy_price": {
                 "N": "1500"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Blue"
             },
@@ -3876,6 +4011,9 @@
             },
             "buy_price": {
                 "N": "2000"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Beige"
@@ -3963,6 +4101,9 @@
             "buy_price": {
                 "N": "2000"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -4048,6 +4189,9 @@
             },
             "buy_price": {
                 "N": "2000"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Blue"
@@ -4135,6 +4279,9 @@
             "buy_price": {
                 "N": "2000"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -4220,6 +4367,9 @@
             },
             "buy_price": {
                 "NULL": true
+            },
+            "catalog_category": {
+                "S": "Not for sale"
             },
             "color_1": {
                 "S": "Brown"
@@ -4307,6 +4457,9 @@
             "buy_price": {
                 "NULL": true
             },
+            "catalog_category": {
+                "S": "Not for sale"
+            },
             "color_1": {
                 "S": "Aqua"
             },
@@ -4392,6 +4545,9 @@
             },
             "buy_price": {
                 "N": "1500"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "White"
@@ -4479,6 +4635,9 @@
             "buy_price": {
                 "N": "2000"
             },
+            "catalog_category": {
+                "S": "Seasonal"
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -4564,6 +4723,9 @@
             },
             "buy_price": {
                 "N": "1500"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Purple"
@@ -4651,6 +4813,9 @@
             "buy_price": {
                 "NULL": true
             },
+            "catalog_category": {
+                "S": "Not for sale"
+            },
             "color_1": {
                 "S": "Aqua"
             },
@@ -4736,6 +4901,9 @@
             },
             "buy_price": {
                 "NULL": true
+            },
+            "catalog_category": {
+                "S": "Not for sale"
             },
             "color_1": {
                 "S": "Green"
@@ -4823,6 +4991,9 @@
             "buy_price": {
                 "N": "1000"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Gray"
             },
@@ -4908,6 +5079,9 @@
             },
             "buy_price": {
                 "N": "1000"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Black"
@@ -4995,6 +5169,9 @@
             "buy_price": {
                 "NULL": true
             },
+            "catalog_category": {
+                "S": "Not for sale"
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -5080,6 +5257,9 @@
             },
             "buy_price": {
                 "N": "2000"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Green"
@@ -5167,6 +5347,9 @@
             "buy_price": {
                 "N": "1500"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -5252,6 +5435,9 @@
             },
             "buy_price": {
                 "N": "1000"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Green"
@@ -5339,6 +5525,9 @@
             "buy_price": {
                 "N": "2000"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -5424,6 +5613,9 @@
             },
             "buy_price": {
                 "N": "2000"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Green"
@@ -5511,6 +5703,9 @@
             "buy_price": {
                 "N": "1000"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -5596,6 +5791,9 @@
             },
             "buy_price": {
                 "N": "2000"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Green"
@@ -5683,6 +5881,9 @@
             "buy_price": {
                 "N": "2000"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -5768,6 +5969,9 @@
             },
             "buy_price": {
                 "N": "1500"
+            },
+            "catalog_category": {
+                "S": "Not in catalog"
             },
             "color_1": {
                 "S": "White"
@@ -5855,6 +6059,9 @@
             "buy_price": {
                 "N": "2000"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Red"
             },
@@ -5940,6 +6147,9 @@
             },
             "buy_price": {
                 "N": "1000"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Black"
@@ -6027,6 +6237,9 @@
             "buy_price": {
                 "N": "1500"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Beige"
             },
@@ -6112,6 +6325,9 @@
             },
             "buy_price": {
                 "N": "1000"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Beige"
@@ -6199,6 +6415,9 @@
             "buy_price": {
                 "N": "1000"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Beige"
             },
@@ -6284,6 +6503,9 @@
             },
             "buy_price": {
                 "N": "1500"
+            },
+            "catalog_category": {
+                "S": "Not in catalog"
             },
             "color_1": {
                 "S": "Green"
@@ -6371,6 +6593,9 @@
             "buy_price": {
                 "N": "1500"
             },
+            "catalog_category": {
+                "S": "Not in catalog"
+            },
             "color_1": {
                 "S": "Pink"
             },
@@ -6456,6 +6681,9 @@
             },
             "buy_price": {
                 "N": "1500"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Beige"
@@ -6543,6 +6771,9 @@
             "buy_price": {
                 "NULL": true
             },
+            "catalog_category": {
+                "S": "Not for sale"
+            },
             "color_1": {
                 "S": "Red"
             },
@@ -6628,6 +6859,9 @@
             },
             "buy_price": {
                 "N": "1500"
+            },
+            "catalog_category": {
+                "S": "Not in catalog"
             },
             "color_1": {
                 "S": "White"
@@ -6715,6 +6949,9 @@
             "buy_price": {
                 "NULL": true
             },
+            "catalog_category": {
+                "S": "Not for sale"
+            },
             "color_1": {
                 "S": "Red"
             },
@@ -6800,6 +7037,9 @@
             },
             "buy_price": {
                 "NULL": true
+            },
+            "catalog_category": {
+                "S": "Not for sale"
             },
             "color_1": {
                 "S": "Beige"
@@ -6887,6 +7127,9 @@
             "buy_price": {
                 "NULL": true
             },
+            "catalog_category": {
+                "S": "Not for sale"
+            },
             "color_1": {
                 "S": "Beige"
             },
@@ -6972,6 +7215,9 @@
             },
             "buy_price": {
                 "N": "1000"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Beige"
@@ -7059,6 +7305,9 @@
             "buy_price": {
                 "N": "1000"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Gray"
             },
@@ -7144,6 +7393,9 @@
             },
             "buy_price": {
                 "N": "1500"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Brown"
@@ -7231,6 +7483,9 @@
             "buy_price": {
                 "N": "1000"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Beige"
             },
@@ -7316,6 +7571,9 @@
             },
             "buy_price": {
                 "N": "1000"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Beige"
@@ -7403,6 +7661,9 @@
             "buy_price": {
                 "N": "1500"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Purple"
             },
@@ -7488,6 +7749,9 @@
             },
             "buy_price": {
                 "NULL": true
+            },
+            "catalog_category": {
+                "S": "Not for sale"
             },
             "color_1": {
                 "S": "Red"
@@ -7575,6 +7839,9 @@
             "buy_price": {
                 "NULL": true
             },
+            "catalog_category": {
+                "S": "Not for sale"
+            },
             "color_1": {
                 "S": "Aqua"
             },
@@ -7660,6 +7927,9 @@
             },
             "buy_price": {
                 "N": "2000"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Colorful"
@@ -7747,6 +8017,9 @@
             "buy_price": {
                 "NULL": true
             },
+            "catalog_category": {
+                "S": "Not for sale"
+            },
             "color_1": {
                 "S": "Aqua"
             },
@@ -7832,6 +8105,9 @@
             },
             "buy_price": {
                 "NULL": true
+            },
+            "catalog_category": {
+                "S": "Not for sale"
             },
             "color_1": {
                 "S": "Yellow"
@@ -7919,6 +8195,9 @@
             "buy_price": {
                 "NULL": true
             },
+            "catalog_category": {
+                "S": "Not for sale"
+            },
             "color_1": {
                 "S": "Pink"
             },
@@ -8004,6 +8283,9 @@
             },
             "buy_price": {
                 "NULL": true
+            },
+            "catalog_category": {
+                "S": "Not for sale"
             },
             "color_1": {
                 "S": "Purple"
@@ -8091,6 +8373,9 @@
             "buy_price": {
                 "N": "2000"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -8176,6 +8461,9 @@
             },
             "buy_price": {
                 "N": "2000"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Black"
@@ -8263,6 +8551,9 @@
             "buy_price": {
                 "N": "2000"
             },
+            "catalog_category": {
+                "S": "Seasonal"
+            },
             "color_1": {
                 "S": "Yellow"
             },
@@ -8348,6 +8639,9 @@
             },
             "buy_price": {
                 "N": "1500"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Red"
@@ -8435,6 +8729,9 @@
             "buy_price": {
                 "N": "1500"
             },
+            "catalog_category": {
+                "S": "Not in catalog"
+            },
             "color_1": {
                 "S": "Pink"
             },
@@ -8520,6 +8817,9 @@
             },
             "buy_price": {
                 "N": "1500"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Brown"
@@ -8607,6 +8907,9 @@
             "buy_price": {
                 "N": "1000"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Beige"
             },
@@ -8692,6 +8995,9 @@
             },
             "buy_price": {
                 "N": "1000"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Beige"
@@ -8779,6 +9085,9 @@
             "buy_price": {
                 "N": "1000"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -8864,6 +9173,9 @@
             },
             "buy_price": {
                 "NULL": true
+            },
+            "catalog_category": {
+                "S": "Not for sale"
             },
             "color_1": {
                 "S": "Yellow"
@@ -8951,6 +9263,9 @@
             "buy_price": {
                 "NULL": true
             },
+            "catalog_category": {
+                "S": "Not for sale"
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -9036,6 +9351,9 @@
             },
             "buy_price": {
                 "NULL": true
+            },
+            "catalog_category": {
+                "S": "Not for sale"
             },
             "color_1": {
                 "S": "Green"
@@ -9123,6 +9441,9 @@
             "buy_price": {
                 "NULL": true
             },
+            "catalog_category": {
+                "S": "Not for sale"
+            },
             "color_1": {
                 "S": "Orange"
             },
@@ -9208,6 +9529,9 @@
             },
             "buy_price": {
                 "N": "1000"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Blue"
@@ -9295,6 +9619,9 @@
             "buy_price": {
                 "N": "2000"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Pink"
             },
@@ -9380,6 +9707,9 @@
             },
             "buy_price": {
                 "NULL": true
+            },
+            "catalog_category": {
+                "S": "Not for sale"
             },
             "color_1": {
                 "S": "Pink"
@@ -9467,6 +9797,9 @@
             "buy_price": {
                 "N": "2000"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Pink"
             },
@@ -9552,6 +9885,9 @@
             },
             "buy_price": {
                 "NULL": true
+            },
+            "catalog_category": {
+                "S": "Not for sale"
             },
             "color_1": {
                 "S": "Green"
@@ -9639,6 +9975,9 @@
             "buy_price": {
                 "N": "2000"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Pink"
             },
@@ -9724,6 +10063,9 @@
             },
             "buy_price": {
                 "N": "1500"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Pink"
@@ -9811,6 +10153,9 @@
             "buy_price": {
                 "N": "1500"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Pink"
             },
@@ -9896,6 +10241,9 @@
             },
             "buy_price": {
                 "NULL": true
+            },
+            "catalog_category": {
+                "S": "Not for sale"
             },
             "color_1": {
                 "S": "Beige"
@@ -9983,6 +10331,9 @@
             "buy_price": {
                 "N": "1500"
             },
+            "catalog_category": {
+                "S": "Not in catalog"
+            },
             "color_1": {
                 "S": "Yellow"
             },
@@ -10068,6 +10419,9 @@
             },
             "buy_price": {
                 "N": "1500"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Purple"
@@ -10155,6 +10509,9 @@
             "buy_price": {
                 "N": "2000"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Purple"
             },
@@ -10240,6 +10597,9 @@
             },
             "buy_price": {
                 "N": "2000"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Purple"
@@ -10327,6 +10687,9 @@
             "buy_price": {
                 "N": "1500"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -10412,6 +10775,9 @@
             },
             "buy_price": {
                 "N": "2000"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Red"
@@ -10499,6 +10865,9 @@
             "buy_price": {
                 "N": "1500"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Red"
             },
@@ -10584,6 +10953,9 @@
             },
             "buy_price": {
                 "N": "1000"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Red"
@@ -10671,6 +11043,9 @@
             "buy_price": {
                 "N": "1500"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Red"
             },
@@ -10756,6 +11131,9 @@
             },
             "buy_price": {
                 "N": "2000"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Red"
@@ -10843,6 +11221,9 @@
             "buy_price": {
                 "N": "1500"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Red"
             },
@@ -10928,6 +11309,9 @@
             },
             "buy_price": {
                 "N": "1000"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Red"
@@ -11015,6 +11399,9 @@
             "buy_price": {
                 "N": "2000"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Red"
             },
@@ -11100,6 +11487,9 @@
             },
             "buy_price": {
                 "N": "1500"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Red"
@@ -11187,6 +11577,9 @@
             "buy_price": {
                 "N": "1000"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Red"
             },
@@ -11272,6 +11665,9 @@
             },
             "buy_price": {
                 "N": "2000"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Red"
@@ -11359,6 +11755,9 @@
             "buy_price": {
                 "N": "1500"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Red"
             },
@@ -11444,6 +11843,9 @@
             },
             "buy_price": {
                 "N": "1000"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Red"
@@ -11531,6 +11933,9 @@
             "buy_price": {
                 "N": "1500"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Red"
             },
@@ -11616,6 +12021,9 @@
             },
             "buy_price": {
                 "N": "1500"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Red"
@@ -11703,6 +12111,9 @@
             "buy_price": {
                 "N": "2000"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Red"
             },
@@ -11788,6 +12199,9 @@
             },
             "buy_price": {
                 "NULL": true
+            },
+            "catalog_category": {
+                "S": "Not for sale"
             },
             "color_1": {
                 "S": "Red"
@@ -11875,6 +12289,9 @@
             "buy_price": {
                 "N": "2000"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Red"
             },
@@ -11960,6 +12377,9 @@
             },
             "buy_price": {
                 "N": "1000"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Red"
@@ -12047,6 +12467,9 @@
             "buy_price": {
                 "N": "2000"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -12132,6 +12555,9 @@
             },
             "buy_price": {
                 "N": "1000"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Brown"
@@ -12219,6 +12645,9 @@
             "buy_price": {
                 "NULL": true
             },
+            "catalog_category": {
+                "S": "Not for sale"
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -12304,6 +12733,9 @@
             },
             "buy_price": {
                 "NULL": true
+            },
+            "catalog_category": {
+                "S": "Not for sale"
             },
             "color_1": {
                 "S": "Green"
@@ -12391,6 +12823,9 @@
             "buy_price": {
                 "N": "1000"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -12476,6 +12911,9 @@
             },
             "buy_price": {
                 "N": "1500"
+            },
+            "catalog_category": {
+                "S": "Seasonal"
             },
             "color_1": {
                 "S": "Green"
@@ -12563,6 +13001,9 @@
             "buy_price": {
                 "N": "2000"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -12648,6 +13089,9 @@
             },
             "buy_price": {
                 "NULL": true
+            },
+            "catalog_category": {
+                "S": "Not for sale"
             },
             "color_1": {
                 "S": "Beige"
@@ -12735,6 +13179,9 @@
             "buy_price": {
                 "N": "1000"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -12820,6 +13267,9 @@
             },
             "buy_price": {
                 "N": "1000"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Green"
@@ -12907,6 +13357,9 @@
             "buy_price": {
                 "N": "1500"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -12992,6 +13445,9 @@
             },
             "buy_price": {
                 "N": "1500"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Black"
@@ -13079,6 +13535,9 @@
             "buy_price": {
                 "N": "1500"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Blue"
             },
@@ -13164,6 +13623,9 @@
             },
             "buy_price": {
                 "N": "1500"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Brown"
@@ -13251,6 +13713,9 @@
             "buy_price": {
                 "N": "1500"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Orange"
             },
@@ -13336,6 +13801,9 @@
             },
             "buy_price": {
                 "N": "1500"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Purple"
@@ -13423,6 +13891,9 @@
             "buy_price": {
                 "N": "1500"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Red"
             },
@@ -13508,6 +13979,9 @@
             },
             "buy_price": {
                 "N": "1000"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Gray"
@@ -13595,6 +14069,9 @@
             "buy_price": {
                 "N": "1000"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Pink"
             },
@@ -13680,6 +14157,9 @@
             },
             "buy_price": {
                 "N": "1000"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Green"
@@ -13767,6 +14247,9 @@
             "buy_price": {
                 "N": "1000"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -13852,6 +14335,9 @@
             },
             "buy_price": {
                 "N": "1000"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Blue"
@@ -13939,6 +14425,9 @@
             "buy_price": {
                 "N": "1000"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -14024,6 +14513,9 @@
             },
             "buy_price": {
                 "N": "1000"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Orange"
@@ -14111,6 +14603,9 @@
             "buy_price": {
                 "N": "1000"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Purple"
             },
@@ -14196,6 +14691,9 @@
             },
             "buy_price": {
                 "N": "1000"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Red"
@@ -14283,6 +14781,9 @@
             "buy_price": {
                 "N": "1500"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Gray"
             },
@@ -14368,6 +14869,9 @@
             },
             "buy_price": {
                 "N": "2000"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Aqua"
@@ -14455,6 +14959,9 @@
             "buy_price": {
                 "NULL": true
             },
+            "catalog_category": {
+                "S": "Not for sale"
+            },
             "color_1": {
                 "S": "Red"
             },
@@ -14540,6 +15047,9 @@
             },
             "buy_price": {
                 "N": "1500"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Aqua"
@@ -14627,6 +15137,9 @@
             "buy_price": {
                 "NULL": true
             },
+            "catalog_category": {
+                "S": "Not for sale"
+            },
             "color_1": {
                 "S": "Orange"
             },
@@ -14712,6 +15225,9 @@
             },
             "buy_price": {
                 "N": "1500"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Colorful"
@@ -14799,6 +15315,9 @@
             "buy_price": {
                 "NULL": true
             },
+            "catalog_category": {
+                "S": "Not for sale"
+            },
             "color_1": {
                 "S": "Blue"
             },
@@ -14884,6 +15403,9 @@
             },
             "buy_price": {
                 "NULL": true
+            },
+            "catalog_category": {
+                "S": "Not for sale"
             },
             "color_1": {
                 "S": "Aqua"
@@ -14971,6 +15493,9 @@
             "buy_price": {
                 "N": "1500"
             },
+            "catalog_category": {
+                "S": "Seasonal"
+            },
             "color_1": {
                 "S": "Yellow"
             },
@@ -15056,6 +15581,9 @@
             },
             "buy_price": {
                 "N": "1500"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Green"
@@ -15143,6 +15671,9 @@
             "buy_price": {
                 "NULL": true
             },
+            "catalog_category": {
+                "S": "Not for sale"
+            },
             "color_1": {
                 "S": "Beige"
             },
@@ -15228,6 +15759,9 @@
             },
             "buy_price": {
                 "N": "1500"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Green"
@@ -15315,6 +15849,9 @@
             "buy_price": {
                 "NULL": true
             },
+            "catalog_category": {
+                "S": "Not for sale"
+            },
             "color_1": {
                 "S": "Beige"
             },
@@ -15400,6 +15937,9 @@
             },
             "buy_price": {
                 "N": "1500"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Aqua"
@@ -15487,6 +16027,9 @@
             "buy_price": {
                 "N": "1500"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "White"
             },
@@ -15572,6 +16115,9 @@
             },
             "buy_price": {
                 "N": "1500"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "White"
@@ -15659,6 +16205,9 @@
             "buy_price": {
                 "N": "1000"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "White"
             },
@@ -15744,6 +16293,9 @@
             },
             "buy_price": {
                 "N": "1500"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "White"
@@ -15831,6 +16383,9 @@
             "buy_price": {
                 "N": "1500"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Beige"
             },
@@ -15916,6 +16471,9 @@
             },
             "buy_price": {
                 "N": "1000"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Beige"
@@ -16003,6 +16561,9 @@
             "buy_price": {
                 "N": "1000"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "White"
             },
@@ -16088,6 +16649,9 @@
             },
             "buy_price": {
                 "NULL": true
+            },
+            "catalog_category": {
+                "S": "Not for sale"
             },
             "color_1": {
                 "S": "White"
@@ -16175,6 +16739,9 @@
             "buy_price": {
                 "N": "1500"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "White"
             },
@@ -16260,6 +16827,9 @@
             },
             "buy_price": {
                 "N": "1000"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "White"
@@ -16347,6 +16917,9 @@
             "buy_price": {
                 "N": "1000"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "White"
             },
@@ -16432,6 +17005,9 @@
             },
             "buy_price": {
                 "N": "2000"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Yellow"
@@ -16519,6 +17095,9 @@
             "buy_price": {
                 "NULL": true
             },
+            "catalog_category": {
+                "S": "Not for sale"
+            },
             "color_1": {
                 "S": "Yellow"
             },
@@ -16604,6 +17183,9 @@
             },
             "buy_price": {
                 "N": "1500"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Yellow"
@@ -16691,6 +17273,9 @@
             "buy_price": {
                 "N": "2000"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Yellow"
             },
@@ -16776,6 +17361,9 @@
             },
             "buy_price": {
                 "N": "2000"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Yellow"
@@ -16863,6 +17451,9 @@
             "buy_price": {
                 "N": "2000"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Yellow"
             },
@@ -16948,6 +17539,9 @@
             },
             "buy_price": {
                 "N": "1000"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Yellow"
@@ -17035,6 +17629,9 @@
             "buy_price": {
                 "N": "1500"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Yellow"
             },
@@ -17120,6 +17717,9 @@
             },
             "buy_price": {
                 "N": "1000"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Yellow"
@@ -17207,6 +17807,9 @@
             "buy_price": {
                 "N": "2000"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Yellow"
             },
@@ -17292,6 +17895,9 @@
             },
             "buy_price": {
                 "N": "1500"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Yellow"
@@ -17379,6 +17985,9 @@
             "buy_price": {
                 "N": "1000"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Yellow"
             },
@@ -17464,6 +18073,9 @@
             },
             "buy_price": {
                 "NULL": true
+            },
+            "catalog_category": {
+                "S": "Not for sale"
             },
             "color_1": {
                 "S": "Yellow"
@@ -17551,6 +18163,9 @@
             "buy_price": {
                 "N": "2000"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Yellow"
             },
@@ -17636,6 +18251,9 @@
             },
             "buy_price": {
                 "N": "1500"
+            },
+            "catalog_category": {
+                "S": "For sale"
             },
             "color_1": {
                 "S": "Yellow"
@@ -17723,6 +18341,9 @@
             "buy_price": {
                 "N": "1500"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Yellow"
             },
@@ -17809,6 +18430,9 @@
             "buy_price": {
                 "N": "1000"
             },
+            "catalog_category": {
+                "S": "For sale"
+            },
             "color_1": {
                 "S": "Yellow"
             },
@@ -17894,6 +18518,9 @@
             },
             "buy_price": {
                 "N": "1500"
+            },
+            "catalog_category": {
+                "S": "Not in catalog"
             },
             "color_1": {
                 "S": "Green"
