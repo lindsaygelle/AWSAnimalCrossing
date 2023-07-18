@@ -67,6 +67,9 @@
             "lighting_category": {
                 "NULL": true
             },
+            "location_name": {
+                "S": "Sea"
+            },
             "name": {
                 "S": "Anchovy"
             },
@@ -173,6 +176,9 @@
             },
             "lighting_category": {
                 "S": "Fluorescent"
+            },
+            "location_name": {
+                "S": "River"
             },
             "name": {
                 "S": "Angelfish"
@@ -281,6 +287,9 @@
             "lighting_category": {
                 "NULL": true
             },
+            "location_name": {
+                "S": "River"
+            },
             "name": {
                 "S": "Arapaima"
             },
@@ -387,6 +396,9 @@
             },
             "lighting_category": {
                 "S": "Fluorescent"
+            },
+            "location_name": {
+                "S": "River"
             },
             "name": {
                 "S": "Arowana"
@@ -495,6 +507,9 @@
             "lighting_category": {
                 "S": "Fluorescent"
             },
+            "location_name": {
+                "S": "Sea"
+            },
             "name": {
                 "S": "Barred Knifejaw"
             },
@@ -601,6 +616,9 @@
             },
             "lighting_category": {
                 "S": "Fluorescent"
+            },
+            "location_name": {
+                "S": "Sea"
             },
             "name": {
                 "S": "Barreleye"
@@ -709,6 +727,9 @@
             "lighting_category": {
                 "S": "Fluorescent"
             },
+            "location_name": {
+                "S": "River"
+            },
             "name": {
                 "S": "Betta"
             },
@@ -815,6 +836,9 @@
             },
             "lighting_category": {
                 "NULL": true
+            },
+            "location_name": {
+                "S": "River"
             },
             "name": {
                 "S": "Bitterling"
@@ -923,6 +947,9 @@
             "lighting_category": {
                 "S": "Fluorescent"
             },
+            "location_name": {
+                "S": "River"
+            },
             "name": {
                 "S": "Black Bass"
             },
@@ -1029,6 +1056,9 @@
             },
             "lighting_category": {
                 "S": "Fluorescent"
+            },
+            "location_name": {
+                "S": "Sea"
             },
             "name": {
                 "S": "Blowfish"
@@ -1137,6 +1167,9 @@
             "lighting_category": {
                 "S": "Fluorescent"
             },
+            "location_name": {
+                "S": "Pier"
+            },
             "name": {
                 "S": "Blue Marlin"
             },
@@ -1243,6 +1276,9 @@
             },
             "lighting_category": {
                 "NULL": true
+            },
+            "location_name": {
+                "S": "River"
             },
             "name": {
                 "S": "Bluegill"
@@ -1351,6 +1387,9 @@
             "lighting_category": {
                 "S": "Fluorescent"
             },
+            "location_name": {
+                "S": "Sea"
+            },
             "name": {
                 "S": "Butterfly Fish"
             },
@@ -1457,6 +1496,9 @@
             },
             "lighting_category": {
                 "S": "Fluorescent"
+            },
+            "location_name": {
+                "S": "Pond"
             },
             "name": {
                 "S": "Carp"
@@ -1565,6 +1607,9 @@
             "lighting_category": {
                 "S": "Fluorescent"
             },
+            "location_name": {
+                "S": "Pond"
+            },
             "name": {
                 "S": "Catfish"
             },
@@ -1671,6 +1716,9 @@
             },
             "lighting_category": {
                 "S": "Fluorescent"
+            },
+            "location_name": {
+                "S": "River"
             },
             "name": {
                 "S": "Char"
@@ -1779,6 +1827,9 @@
             "lighting_category": {
                 "S": "Fluorescent"
             },
+            "location_name": {
+                "S": "River"
+            },
             "name": {
                 "S": "Cherry Salmon"
             },
@@ -1885,6 +1936,9 @@
             },
             "lighting_category": {
                 "S": "Fluorescent"
+            },
+            "location_name": {
+                "S": "Sea"
             },
             "name": {
                 "S": "Clown Fish"
@@ -1993,6 +2047,9 @@
             "lighting_category": {
                 "S": "Fluorescent"
             },
+            "location_name": {
+                "S": "Sea"
+            },
             "name": {
                 "S": "Coelacanth"
             },
@@ -2099,6 +2156,9 @@
             },
             "lighting_category": {
                 "S": "Fluorescent"
+            },
+            "location_name": {
+                "S": "Pond"
             },
             "name": {
                 "S": "Crawfish"
@@ -2207,6 +2267,9 @@
             "lighting_category": {
                 "S": "Fluorescent"
             },
+            "location_name": {
+                "S": "River"
+            },
             "name": {
                 "S": "Crucian Carp"
             },
@@ -2313,6 +2376,9 @@
             },
             "lighting_category": {
                 "S": "Fluorescent"
+            },
+            "location_name": {
+                "S": "Sea"
             },
             "name": {
                 "S": "Dab"
@@ -2421,6 +2487,9 @@
             "lighting_category": {
                 "S": "Fluorescent"
             },
+            "location_name": {
+                "S": "River"
+            },
             "name": {
                 "S": "Dace"
             },
@@ -2527,6 +2596,9 @@
             },
             "lighting_category": {
                 "S": "Fluorescent"
+            },
+            "location_name": {
+                "S": "River"
             },
             "name": {
                 "S": "Dorado"
@@ -2635,6 +2707,9 @@
             "lighting_category": {
                 "S": "Emission"
             },
+            "location_name": {
+                "S": "Sea"
+            },
             "name": {
                 "S": "Football Fish"
             },
@@ -2741,6 +2816,9 @@
             },
             "lighting_category": {
                 "S": "Fluorescent"
+            },
+            "location_name": {
+                "S": "River"
             },
             "name": {
                 "S": "Freshwater Goby"
@@ -2849,6 +2927,9 @@
             "lighting_category": {
                 "S": "Fluorescent"
             },
+            "location_name": {
+                "S": "Pond"
+            },
             "name": {
                 "S": "Frog"
             },
@@ -2955,6 +3036,9 @@
             },
             "lighting_category": {
                 "S": "Fluorescent"
+            },
+            "location_name": {
+                "S": "Pond"
             },
             "name": {
                 "S": "Gar"
@@ -3063,6 +3147,9 @@
             "lighting_category": {
                 "S": "Fluorescent"
             },
+            "location_name": {
+                "S": "Pond"
+            },
             "name": {
                 "S": "Giant Snakehead"
             },
@@ -3169,6 +3256,9 @@
             },
             "lighting_category": {
                 "S": "Fluorescent"
+            },
+            "location_name": {
+                "S": "Pier"
             },
             "name": {
                 "S": "Giant Trevally"
@@ -3277,6 +3367,9 @@
             "lighting_category": {
                 "S": "Fluorescent"
             },
+            "location_name": {
+                "S": "River"
+            },
             "name": {
                 "S": "Golden Trout"
             },
@@ -3383,6 +3476,9 @@
             },
             "lighting_category": {
                 "NULL": true
+            },
+            "location_name": {
+                "S": "Pond"
             },
             "name": {
                 "S": "Goldfish"
@@ -3491,6 +3587,9 @@
             "lighting_category": {
                 "NULL": true
             },
+            "location_name": {
+                "S": "Sea"
+            },
             "name": {
                 "S": "Great White Shark"
             },
@@ -3597,6 +3696,9 @@
             },
             "lighting_category": {
                 "S": "Fluorescent"
+            },
+            "location_name": {
+                "S": "River"
             },
             "name": {
                 "S": "Guppy"
@@ -3705,6 +3807,9 @@
             "lighting_category": {
                 "S": "Fluorescent"
             },
+            "location_name": {
+                "S": "Sea"
+            },
             "name": {
                 "S": "Hammerhead Shark"
             },
@@ -3811,6 +3916,9 @@
             },
             "lighting_category": {
                 "S": "Fluorescent"
+            },
+            "location_name": {
+                "S": "Sea"
             },
             "name": {
                 "S": "Horse Mackerel"
@@ -3919,6 +4027,9 @@
             "lighting_category": {
                 "S": "Fluorescent"
             },
+            "location_name": {
+                "S": "Pond"
+            },
             "name": {
                 "S": "Killifish"
             },
@@ -4025,6 +4136,9 @@
             },
             "lighting_category": {
                 "S": "Fluorescent"
+            },
+            "location_name": {
+                "S": "River"
             },
             "name": {
                 "S": "King Salmon"
@@ -4133,6 +4247,9 @@
             "lighting_category": {
                 "S": "Fluorescent"
             },
+            "location_name": {
+                "S": "Pond"
+            },
             "name": {
                 "S": "Koi"
             },
@@ -4239,6 +4356,9 @@
             },
             "lighting_category": {
                 "NULL": true
+            },
+            "location_name": {
+                "S": "River"
             },
             "name": {
                 "S": "Loach"
@@ -4347,6 +4467,9 @@
             "lighting_category": {
                 "S": "Fluorescent"
             },
+            "location_name": {
+                "S": "Pier"
+            },
             "name": {
                 "S": "Mahi-mahi"
             },
@@ -4453,6 +4576,9 @@
             },
             "lighting_category": {
                 "NULL": true
+            },
+            "location_name": {
+                "S": "River"
             },
             "name": {
                 "S": "Mitten Crab"
@@ -4561,6 +4687,9 @@
             "lighting_category": {
                 "S": "Fluorescent"
             },
+            "location_name": {
+                "S": "Sea"
+            },
             "name": {
                 "S": "Moray Eel"
             },
@@ -4667,6 +4796,9 @@
             },
             "lighting_category": {
                 "S": "Fluorescent"
+            },
+            "location_name": {
+                "S": "Sea"
             },
             "name": {
                 "S": "Napoleonfish"
@@ -4775,6 +4907,9 @@
             "lighting_category": {
                 "S": "Fluorescent"
             },
+            "location_name": {
+                "S": "River"
+            },
             "name": {
                 "S": "Neon Tetra"
             },
@@ -4881,6 +5016,9 @@
             },
             "lighting_category": {
                 "NULL": true
+            },
+            "location_name": {
+                "S": "River"
             },
             "name": {
                 "S": "Nibble Fish"
@@ -4989,6 +5127,9 @@
             "lighting_category": {
                 "NULL": true
             },
+            "location_name": {
+                "S": "Sea"
+            },
             "name": {
                 "S": "Oarfish"
             },
@@ -5095,6 +5236,9 @@
             },
             "lighting_category": {
                 "NULL": true
+            },
+            "location_name": {
+                "S": "Sea"
             },
             "name": {
                 "S": "Ocean Sunfish"
@@ -5203,6 +5347,9 @@
             "lighting_category": {
                 "S": "Fluorescent"
             },
+            "location_name": {
+                "S": "Sea"
+            },
             "name": {
                 "S": "Olive Flounder"
             },
@@ -5309,6 +5456,9 @@
             },
             "lighting_category": {
                 "NULL": true
+            },
+            "location_name": {
+                "S": "River"
             },
             "name": {
                 "S": "Pale Chub"
@@ -5417,6 +5567,9 @@
             "lighting_category": {
                 "S": "Fluorescent"
             },
+            "location_name": {
+                "S": "River"
+            },
             "name": {
                 "S": "Pike"
             },
@@ -5523,6 +5676,9 @@
             },
             "lighting_category": {
                 "S": "Fluorescent"
+            },
+            "location_name": {
+                "S": "River"
             },
             "name": {
                 "S": "Piranha"
@@ -5631,6 +5787,9 @@
             "lighting_category": {
                 "NULL": true
             },
+            "location_name": {
+                "S": "River"
+            },
             "name": {
                 "S": "Pond Smelt"
             },
@@ -5737,6 +5896,9 @@
             },
             "lighting_category": {
                 "NULL": true
+            },
+            "location_name": {
+                "S": "Pond"
             },
             "name": {
                 "S": "Pop-eyed Goldfish"
@@ -5845,6 +6007,9 @@
             "lighting_category": {
                 "S": "Fluorescent"
             },
+            "location_name": {
+                "S": "Sea"
+            },
             "name": {
                 "S": "Puffer Fish"
             },
@@ -5951,6 +6116,9 @@
             },
             "lighting_category": {
                 "S": "Fluorescent"
+            },
+            "location_name": {
+                "S": "River"
             },
             "name": {
                 "S": "Rainbowfish"
@@ -6059,6 +6227,9 @@
             "lighting_category": {
                 "NULL": true
             },
+            "location_name": {
+                "S": "Pond"
+            },
             "name": {
                 "S": "Ranchu Goldfish"
             },
@@ -6165,6 +6336,9 @@
             },
             "lighting_category": {
                 "S": "Fluorescent"
+            },
+            "location_name": {
+                "S": "Sea"
             },
             "name": {
                 "S": "Ray"
@@ -6273,6 +6447,9 @@
             "lighting_category": {
                 "S": "Fluorescent"
             },
+            "location_name": {
+                "S": "Sea"
+            },
             "name": {
                 "S": "Red Snapper"
             },
@@ -6379,6 +6556,9 @@
             },
             "lighting_category": {
                 "S": "Fluorescent"
+            },
+            "location_name": {
+                "S": "Sea"
             },
             "name": {
                 "S": "Ribbon Eel"
@@ -6487,6 +6667,9 @@
             "lighting_category": {
                 "S": "Fluorescent"
             },
+            "location_name": {
+                "S": "River"
+            },
             "name": {
                 "S": "Saddled Bichir"
             },
@@ -6593,6 +6776,9 @@
             },
             "lighting_category": {
                 "S": "Fluorescent"
+            },
+            "location_name": {
+                "S": "River"
             },
             "name": {
                 "S": "Salmon"
@@ -6701,6 +6887,9 @@
             "lighting_category": {
                 "S": "Fluorescent"
             },
+            "location_name": {
+                "S": "Sea"
+            },
             "name": {
                 "S": "Saw Shark"
             },
@@ -6807,6 +6996,9 @@
             },
             "lighting_category": {
                 "S": "Fluorescent"
+            },
+            "location_name": {
+                "S": "Sea"
             },
             "name": {
                 "S": "Sea Bass"
@@ -6915,6 +7107,9 @@
             "lighting_category": {
                 "S": "Fluorescent"
             },
+            "location_name": {
+                "S": "Sea"
+            },
             "name": {
                 "S": "Sea Butterfly"
             },
@@ -7021,6 +7216,9 @@
             },
             "lighting_category": {
                 "S": "Fluorescent"
+            },
+            "location_name": {
+                "S": "Sea"
             },
             "name": {
                 "S": "Sea Horse"
@@ -7129,6 +7327,9 @@
             "lighting_category": {
                 "NULL": true
             },
+            "location_name": {
+                "S": "River"
+            },
             "name": {
                 "S": "Snapping Turtle"
             },
@@ -7235,6 +7436,9 @@
             },
             "lighting_category": {
                 "NULL": true
+            },
+            "location_name": {
+                "S": "River"
             },
             "name": {
                 "S": "Soft-shelled Turtle"
@@ -7343,6 +7547,9 @@
             "lighting_category": {
                 "S": "Fluorescent"
             },
+            "location_name": {
+                "S": "Sea"
+            },
             "name": {
                 "S": "Squid"
             },
@@ -7449,6 +7656,9 @@
             },
             "lighting_category": {
                 "S": "Fluorescent"
+            },
+            "location_name": {
+                "S": "River"
             },
             "name": {
                 "S": "Stringfish"
@@ -7557,6 +7767,9 @@
             "lighting_category": {
                 "S": "Fluorescent"
             },
+            "location_name": {
+                "S": "River"
+            },
             "name": {
                 "S": "Sturgeon"
             },
@@ -7663,6 +7876,9 @@
             },
             "lighting_category": {
                 "S": "Fluorescent"
+            },
+            "location_name": {
+                "S": "Sea"
             },
             "name": {
                 "S": "Suckerfish"
@@ -7771,6 +7987,9 @@
             "lighting_category": {
                 "S": "Fluorescent"
             },
+            "location_name": {
+                "S": "Sea"
+            },
             "name": {
                 "S": "Surgeonfish"
             },
@@ -7877,6 +8096,9 @@
             },
             "lighting_category": {
                 "S": "Fluorescent"
+            },
+            "location_name": {
+                "S": "River"
             },
             "name": {
                 "S": "Sweetfish"
@@ -7985,6 +8207,9 @@
             "lighting_category": {
                 "NULL": true
             },
+            "location_name": {
+                "S": "Pond"
+            },
             "name": {
                 "S": "Tadpole"
             },
@@ -8091,6 +8316,9 @@
             },
             "lighting_category": {
                 "S": "Fluorescent"
+            },
+            "location_name": {
+                "S": "River"
             },
             "name": {
                 "S": "Tilapia"
@@ -8199,6 +8427,9 @@
             "lighting_category": {
                 "S": "Fluorescent"
             },
+            "location_name": {
+                "S": "Pier"
+            },
             "name": {
                 "S": "Tuna"
             },
@@ -8305,6 +8536,9 @@
             },
             "lighting_category": {
                 "NULL": true
+            },
+            "location_name": {
+                "S": "Sea"
             },
             "name": {
                 "S": "Whale Shark"
@@ -8413,6 +8647,9 @@
             "lighting_category": {
                 "S": "Fluorescent"
             },
+            "location_name": {
+                "S": "River"
+            },
             "name": {
                 "S": "Yellow Perch"
             },
@@ -8519,6 +8756,9 @@
             },
             "lighting_category": {
                 "S": "Fluorescent"
+            },
+            "location_name": {
+                "S": "Sea"
             },
             "name": {
                 "S": "Zebra Turkeyfish"

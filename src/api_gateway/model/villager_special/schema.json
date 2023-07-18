@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 17,
-    "minProperties": 17,
+    "maxProperties": 18,
+    "minProperties": 18,
     "properties": {
         "birth_day": {
             "exclusiveMaximum": false,
@@ -122,6 +122,13 @@
                 "string"
             ]
         },
+        "species_name": {
+            "maxLength": 19,
+            "minLength": 3,
+            "type": [
+                "string"
+            ]
+        },
         "unique_entry_id": {
             "maxLength": 17,
             "minLength": 17,
@@ -147,6 +154,7 @@
         "internal_name",
         "name",
         "name_color",
+        "species_name",
         "unique_entry_id"
     ],
     "title": "VillagerSpecial",
