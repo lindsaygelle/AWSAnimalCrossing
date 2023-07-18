@@ -34,11 +34,11 @@
             "filename": {
                 "S": "FtrArtVitruvianMan"
             },
-            "filename_image": {
+            "filename_artwork_image": {
                 "S": "FtrArtVitruvianMan"
             },
-            "filename_image_artwork": {
-                "NULL": true
+            "filename_image": {
+                "S": "FtrArtVitruvianMan"
             },
             "furniture_category": {
                 "S": "furniture_wall_mounted"
@@ -62,7 +62,7 @@
                 "NULL": true
             },
             "image_artwork_url": {
-                "NULL": true
+                "S": "https://acnhcdn.com/art/FtrArtVitruvianMan.png"
             },
             "image_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtVitruvianMan.png"
@@ -147,11 +147,11 @@
             "filename": {
                 "S": "FtrArtVitruvianManFake"
             },
-            "filename_image": {
+            "filename_artwork_image": {
                 "S": "FtrArtVitruvianManFake"
             },
-            "filename_image_artwork": {
-                "NULL": true
+            "filename_image": {
+                "S": "FtrArtVitruvianManFake"
             },
             "furniture_category": {
                 "S": "furniture_wall_mounted"
@@ -175,7 +175,7 @@
                 "NULL": true
             },
             "image_artwork_url": {
-                "NULL": true
+                "S": "https://acnhcdn.com/art/FtrArtVitruvianManFake.png"
             },
             "image_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtVitruvianManFake.png"
@@ -260,11 +260,11 @@
             "filename": {
                 "S": "FtrArtNightWatch"
             },
-            "filename_image": {
+            "filename_artwork_image": {
                 "S": "FtrArtNightWatch"
             },
-            "filename_image_artwork": {
-                "NULL": true
+            "filename_image": {
+                "S": "FtrArtNightWatch"
             },
             "furniture_category": {
                 "S": "furniture_wall_mounted"
@@ -288,7 +288,7 @@
                 "NULL": true
             },
             "image_artwork_url": {
-                "NULL": true
+                "S": "https://acnhcdn.com/art/FtrArtNightWatch.png"
             },
             "image_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtNightWatch.png"
@@ -373,11 +373,11 @@
             "filename": {
                 "S": "FtrArtNightWatchFake"
             },
-            "filename_image": {
+            "filename_artwork_image": {
                 "S": "FtrArtNightWatchFake"
             },
-            "filename_image_artwork": {
-                "NULL": true
+            "filename_image": {
+                "S": "FtrArtNightWatchFake"
             },
             "furniture_category": {
                 "S": "furniture_wall_mounted"
@@ -401,7 +401,7 @@
                 "NULL": true
             },
             "image_artwork_url": {
-                "NULL": true
+                "S": "https://acnhcdn.com/art/FtrArtNightWatchFake.png"
             },
             "image_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtNightWatchFake.png"
@@ -486,11 +486,11 @@
             "filename": {
                 "S": "FtrSculptureDoguu"
             },
+            "filename_artwork_image": {
+                "NULL": true
+            },
             "filename_image": {
                 "S": "FtrSculptureDoguu"
-            },
-            "filename_image_artwork": {
-                "NULL": true
             },
             "furniture_category": {
                 "S": "furniture_miscellaneous"
@@ -599,11 +599,11 @@
             "filename": {
                 "S": "FtrSculptureDoguuFake"
             },
+            "filename_artwork_image": {
+                "NULL": true
+            },
             "filename_image": {
                 "S": "FtrSculptureDoguuFake"
-            },
-            "filename_image_artwork": {
-                "NULL": true
             },
             "furniture_category": {
                 "S": "furniture_miscellaneous"
@@ -712,11 +712,11 @@
             "filename": {
                 "S": "FtrArtBlueBoy"
             },
-            "filename_image": {
+            "filename_artwork_image": {
                 "S": "FtrArtBlueBoy"
             },
-            "filename_image_artwork": {
-                "NULL": true
+            "filename_image": {
+                "S": "FtrArtBlueBoy"
             },
             "furniture_category": {
                 "S": "furniture_wall_mounted"
@@ -740,7 +740,7 @@
                 "NULL": true
             },
             "image_artwork_url": {
-                "NULL": true
+                "S": "https://acnhcdn.com/art/FtrArtBlueBoy.png"
             },
             "image_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtBlueBoy.png"
@@ -825,11 +825,11 @@
             "filename": {
                 "S": "FtrArtBlueBoyFake"
             },
-            "filename_image": {
+            "filename_artwork_image": {
                 "S": "FtrArtBlueBoyFake"
             },
-            "filename_image_artwork": {
-                "NULL": true
+            "filename_image": {
+                "S": "FtrArtBlueBoyFake"
             },
             "furniture_category": {
                 "S": "furniture_wall_mounted"
@@ -853,7 +853,7 @@
                 "NULL": true
             },
             "image_artwork_url": {
-                "NULL": true
+                "S": "https://acnhcdn.com/art/FtrArtBlueBoyFake.png"
             },
             "image_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtBlueBoyFake.png"
@@ -938,11 +938,11 @@
             "filename": {
                 "S": "FtrSculptureMilo"
             },
+            "filename_artwork_image": {
+                "NULL": true
+            },
             "filename_image": {
                 "S": "FtrSculptureMilo"
-            },
-            "filename_image_artwork": {
-                "NULL": true
             },
             "furniture_category": {
                 "S": "furniture_housewear"
@@ -1051,11 +1051,11 @@
             "filename": {
                 "S": "FtrSculptureMiloFake"
             },
+            "filename_artwork_image": {
+                "NULL": true
+            },
             "filename_image": {
                 "S": "FtrSculptureMiloFake"
-            },
-            "filename_image_artwork": {
-                "NULL": true
             },
             "furniture_category": {
                 "S": "furniture_housewear"
@@ -1164,11 +1164,11 @@
             "filename": {
                 "S": "FtrArtSundayOn"
             },
-            "filename_image": {
+            "filename_artwork_image": {
                 "S": "FtrArtSundayOn"
             },
-            "filename_image_artwork": {
-                "NULL": true
+            "filename_image": {
+                "S": "FtrArtSundayOn"
             },
             "furniture_category": {
                 "S": "furniture_wall_mounted"
@@ -1192,7 +1192,7 @@
                 "NULL": true
             },
             "image_artwork_url": {
-                "NULL": true
+                "S": "https://acnhcdn.com/art/FtrArtSundayOn.png"
             },
             "image_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtSundayOn.png"
@@ -1277,11 +1277,11 @@
             "filename": {
                 "S": "FtrArtGleaners"
             },
-            "filename_image": {
+            "filename_artwork_image": {
                 "S": "FtrArtGleaners"
             },
-            "filename_image_artwork": {
-                "NULL": true
+            "filename_image": {
+                "S": "FtrArtGleaners"
             },
             "furniture_category": {
                 "S": "furniture_wall_mounted"
@@ -1305,7 +1305,7 @@
                 "NULL": true
             },
             "image_artwork_url": {
-                "NULL": true
+                "S": "https://acnhcdn.com/art/FtrArtGleaners.png"
             },
             "image_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtGleaners.png"
@@ -1390,11 +1390,11 @@
             "filename": {
                 "S": "FtrArtAjisaisoukeizu"
             },
-            "filename_image": {
+            "filename_artwork_image": {
                 "S": "FtrArtAjisaisoukeizu"
             },
-            "filename_image_artwork": {
-                "NULL": true
+            "filename_image": {
+                "S": "FtrArtAjisaisoukeizu"
             },
             "furniture_category": {
                 "S": "furniture_wall_mounted"
@@ -1418,7 +1418,7 @@
                 "NULL": true
             },
             "image_artwork_url": {
-                "NULL": true
+                "S": "https://acnhcdn.com/art/FtrArtAjisaisoukeizu.png"
             },
             "image_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtAjisaisoukeizu.png"
@@ -1503,11 +1503,11 @@
             "filename": {
                 "S": "FtrArtAjisaisoukeizuFake"
             },
-            "filename_image": {
+            "filename_artwork_image": {
                 "S": "FtrArtAjisaisoukeizuFake"
             },
-            "filename_image_artwork": {
-                "NULL": true
+            "filename_image": {
+                "S": "FtrArtAjisaisoukeizuFake"
             },
             "furniture_category": {
                 "S": "furniture_wall_mounted"
@@ -1531,7 +1531,7 @@
                 "NULL": true
             },
             "image_artwork_url": {
-                "NULL": true
+                "S": "https://acnhcdn.com/art/FtrArtAjisaisoukeizuFake.png"
             },
             "image_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtAjisaisoukeizuFake.png"
@@ -1616,11 +1616,11 @@
             "filename": {
                 "S": "FtrArtKanagawaOki"
             },
-            "filename_image": {
+            "filename_artwork_image": {
                 "S": "FtrArtKanagawaOki"
             },
-            "filename_image_artwork": {
-                "NULL": true
+            "filename_image": {
+                "S": "FtrArtKanagawaOki"
             },
             "furniture_category": {
                 "S": "furniture_wall_mounted"
@@ -1644,7 +1644,7 @@
                 "NULL": true
             },
             "image_artwork_url": {
-                "NULL": true
+                "S": "https://acnhcdn.com/art/FtrArtKanagawaOki.png"
             },
             "image_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtKanagawaOki.png"
@@ -1729,11 +1729,11 @@
             "filename": {
                 "S": "FtrSculptureThinker"
             },
+            "filename_artwork_image": {
+                "NULL": true
+            },
             "filename_image": {
                 "S": "FtrSculptureThinker"
-            },
-            "filename_image_artwork": {
-                "NULL": true
             },
             "furniture_category": {
                 "S": "furniture_housewear"
@@ -1842,11 +1842,11 @@
             "filename": {
                 "S": "FtrArtMonaLisa"
             },
-            "filename_image": {
+            "filename_artwork_image": {
                 "S": "FtrArtMonaLisa"
             },
-            "filename_image_artwork": {
-                "NULL": true
+            "filename_image": {
+                "S": "FtrArtMonaLisa"
             },
             "furniture_category": {
                 "S": "furniture_wall_mounted"
@@ -1870,7 +1870,7 @@
                 "NULL": true
             },
             "image_artwork_url": {
-                "NULL": true
+                "S": "https://acnhcdn.com/art/FtrArtMonaLisa.png"
             },
             "image_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtMonaLisa.png"
@@ -1955,11 +1955,11 @@
             "filename": {
                 "S": "FtrArtMonaLisaFake"
             },
-            "filename_image": {
+            "filename_artwork_image": {
                 "S": "FtrArtMonaLisaFake"
             },
-            "filename_image_artwork": {
-                "NULL": true
+            "filename_image": {
+                "S": "FtrArtMonaLisaFake"
             },
             "furniture_category": {
                 "S": "furniture_wall_mounted"
@@ -1983,7 +1983,7 @@
                 "NULL": true
             },
             "image_artwork_url": {
-                "NULL": true
+                "S": "https://acnhcdn.com/art/FtrArtMonaLisaFake.png"
             },
             "image_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtMonaLisaFake.png"
@@ -2068,11 +2068,11 @@
             "filename": {
                 "S": "FtrArtSunflower"
             },
-            "filename_image": {
+            "filename_artwork_image": {
                 "S": "FtrArtSunflower"
             },
-            "filename_image_artwork": {
-                "NULL": true
+            "filename_image": {
+                "S": "FtrArtSunflower"
             },
             "furniture_category": {
                 "S": "furniture_wall_mounted"
@@ -2096,7 +2096,7 @@
                 "NULL": true
             },
             "image_artwork_url": {
-                "NULL": true
+                "S": "https://acnhcdn.com/art/FtrArtSunflower.png"
             },
             "image_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtSunflower.png"
@@ -2181,11 +2181,11 @@
             "filename": {
                 "S": "FtrSculptureDavid"
             },
+            "filename_artwork_image": {
+                "NULL": true
+            },
             "filename_image": {
                 "S": "FtrSculptureDavid"
-            },
-            "filename_image_artwork": {
-                "NULL": true
             },
             "furniture_category": {
                 "S": "furniture_housewear"
@@ -2294,11 +2294,11 @@
             "filename": {
                 "S": "FtrSculptureDavidFake"
             },
+            "filename_artwork_image": {
+                "NULL": true
+            },
             "filename_image": {
                 "S": "FtrSculptureDavidFake"
-            },
-            "filename_image_artwork": {
-                "NULL": true
             },
             "furniture_category": {
                 "S": "furniture_housewear"
@@ -2407,11 +2407,11 @@
             "filename": {
                 "S": "FtrArtFightingTemeraire"
             },
-            "filename_image": {
+            "filename_artwork_image": {
                 "S": "FtrArtFightingTemeraire"
             },
-            "filename_image_artwork": {
-                "NULL": true
+            "filename_image": {
+                "S": "FtrArtFightingTemeraire"
             },
             "furniture_category": {
                 "S": "furniture_wall_mounted"
@@ -2435,7 +2435,7 @@
                 "NULL": true
             },
             "image_artwork_url": {
-                "NULL": true
+                "S": "https://acnhcdn.com/art/FtrArtFightingTemeraire.png"
             },
             "image_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtFightingTemeraire.png"
@@ -2520,11 +2520,11 @@
             "filename": {
                 "S": "FtrArtMikaeri"
             },
-            "filename_image": {
+            "filename_artwork_image": {
                 "S": "FtrArtMikaeri"
             },
-            "filename_image_artwork": {
-                "NULL": true
+            "filename_image": {
+                "S": "FtrArtMikaeri"
             },
             "furniture_category": {
                 "S": "furniture_wall_mounted"
@@ -2548,7 +2548,7 @@
                 "NULL": true
             },
             "image_artwork_url": {
-                "NULL": true
+                "S": "https://acnhcdn.com/art/FtrArtMikaeri.png"
             },
             "image_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtMikaeri.png"
@@ -2633,11 +2633,11 @@
             "filename": {
                 "S": "FtrArtMikaeriFake"
             },
-            "filename_image": {
+            "filename_artwork_image": {
                 "S": "FtrArtMikaeriFake"
             },
-            "filename_image_artwork": {
-                "NULL": true
+            "filename_image": {
+                "S": "FtrArtMikaeriFake"
             },
             "furniture_category": {
                 "S": "furniture_wall_mounted"
@@ -2661,7 +2661,7 @@
                 "NULL": true
             },
             "image_artwork_url": {
-                "NULL": true
+                "S": "https://acnhcdn.com/art/FtrArtMikaeriFake.png"
             },
             "image_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtMikaeriFake.png"
@@ -2746,11 +2746,11 @@
             "filename": {
                 "S": "FtrSculptureKamehameha"
             },
+            "filename_artwork_image": {
+                "NULL": true
+            },
             "filename_image": {
                 "S": "FtrSculptureKamehameha"
-            },
-            "filename_image_artwork": {
-                "NULL": true
             },
             "furniture_category": {
                 "S": "furniture_housewear"
@@ -2859,11 +2859,11 @@
             "filename": {
                 "S": "FtrSculptureRosettaStone"
             },
+            "filename_artwork_image": {
+                "NULL": true
+            },
             "filename_image": {
                 "S": "FtrSculptureRosettaStone"
-            },
-            "filename_image_artwork": {
-                "NULL": true
             },
             "furniture_category": {
                 "S": "furniture_housewear"
@@ -2972,11 +2972,11 @@
             "filename": {
                 "S": "FtrSculptureRosettaStoneFake"
             },
+            "filename_artwork_image": {
+                "NULL": true
+            },
             "filename_image": {
                 "S": "FtrSculptureRosettaStoneFake"
-            },
-            "filename_image_artwork": {
-                "NULL": true
             },
             "furniture_category": {
                 "S": "furniture_housewear"
@@ -3085,11 +3085,11 @@
             "filename": {
                 "S": "FtrArtSummer"
             },
-            "filename_image": {
+            "filename_artwork_image": {
                 "S": "FtrArtSummer"
             },
-            "filename_image_artwork": {
-                "NULL": true
+            "filename_image": {
+                "S": "FtrArtSummer"
             },
             "furniture_category": {
                 "S": "furniture_wall_mounted"
@@ -3113,7 +3113,7 @@
                 "NULL": true
             },
             "image_artwork_url": {
-                "NULL": true
+                "S": "https://acnhcdn.com/art/FtrArtSummer.png"
             },
             "image_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtSummer.png"
@@ -3198,11 +3198,11 @@
             "filename": {
                 "S": "FtrArtSummerFake"
             },
-            "filename_image": {
+            "filename_artwork_image": {
                 "S": "FtrArtSummerFake"
             },
-            "filename_image_artwork": {
-                "NULL": true
+            "filename_image": {
+                "S": "FtrArtSummerFake"
             },
             "furniture_category": {
                 "S": "furniture_wall_mounted"
@@ -3226,7 +3226,7 @@
                 "NULL": true
             },
             "image_artwork_url": {
-                "NULL": true
+                "S": "https://acnhcdn.com/art/FtrArtSummerFake.png"
             },
             "image_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtSummerFake.png"
@@ -3311,11 +3311,11 @@
             "filename": {
                 "S": "FtrArtSlower"
             },
-            "filename_image": {
+            "filename_artwork_image": {
                 "S": "FtrArtSlower"
             },
-            "filename_image_artwork": {
-                "NULL": true
+            "filename_image": {
+                "S": "FtrArtSlower"
             },
             "furniture_category": {
                 "S": "furniture_wall_mounted"
@@ -3339,7 +3339,7 @@
                 "NULL": true
             },
             "image_artwork_url": {
-                "NULL": true
+                "S": "https://acnhcdn.com/art/FtrArtSlower.png"
             },
             "image_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtSlower.png"
@@ -3424,11 +3424,11 @@
             "filename": {
                 "S": "FtrSculptureCapitolini"
             },
+            "filename_artwork_image": {
+                "NULL": true
+            },
             "filename_image": {
                 "S": "FtrSculptureCapitolini"
-            },
-            "filename_image_artwork": {
-                "NULL": true
             },
             "furniture_category": {
                 "S": "furniture_housewear"
@@ -3537,11 +3537,11 @@
             "filename": {
                 "S": "FtrSculptureCapitoliniFake"
             },
+            "filename_artwork_image": {
+                "NULL": true
+            },
             "filename_image": {
                 "S": "FtrSculptureCapitoliniFake"
-            },
-            "filename_image_artwork": {
-                "NULL": true
             },
             "furniture_category": {
                 "S": "furniture_housewear"
@@ -3650,11 +3650,11 @@
             "filename": {
                 "S": "FtrArtBirthVenus"
             },
-            "filename_image": {
+            "filename_artwork_image": {
                 "S": "FtrArtBirthVenus"
             },
-            "filename_image_artwork": {
-                "NULL": true
+            "filename_image": {
+                "S": "FtrArtBirthVenus"
             },
             "furniture_category": {
                 "S": "furniture_wall_mounted"
@@ -3678,7 +3678,7 @@
                 "NULL": true
             },
             "image_artwork_url": {
-                "NULL": true
+                "S": "https://acnhcdn.com/art/FtrArtBirthVenus.png"
             },
             "image_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtBirthVenus.png"
@@ -3763,11 +3763,11 @@
             "filename": {
                 "S": "FtrArtBirthVenusFake"
             },
-            "filename_image": {
+            "filename_artwork_image": {
                 "S": "FtrArtBirthVenusFake"
             },
-            "filename_image_artwork": {
-                "NULL": true
+            "filename_image": {
+                "S": "FtrArtBirthVenusFake"
             },
             "furniture_category": {
                 "S": "furniture_wall_mounted"
@@ -3791,7 +3791,7 @@
                 "NULL": true
             },
             "image_artwork_url": {
-                "NULL": true
+                "S": "https://acnhcdn.com/art/FtrArtBirthVenusFake.png"
             },
             "image_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtBirthVenusFake.png"
@@ -3876,11 +3876,11 @@
             "filename": {
                 "S": "FtrArtIsleOfDead"
             },
-            "filename_image": {
+            "filename_artwork_image": {
                 "S": "FtrArtIsleOfDead"
             },
-            "filename_image_artwork": {
-                "NULL": true
+            "filename_image": {
+                "S": "FtrArtIsleOfDead"
             },
             "furniture_category": {
                 "S": "furniture_wall_mounted"
@@ -3904,7 +3904,7 @@
                 "NULL": true
             },
             "image_artwork_url": {
-                "NULL": true
+                "S": "https://acnhcdn.com/art/FtrArtIsleOfDead.png"
             },
             "image_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtIsleOfDead.png"
@@ -3989,11 +3989,11 @@
             "filename": {
                 "S": "FtrSculptureNefertiti"
             },
+            "filename_artwork_image": {
+                "NULL": true
+            },
             "filename_image": {
                 "S": "FtrSculptureNefertiti"
-            },
-            "filename_image_artwork": {
-                "NULL": true
             },
             "furniture_category": {
                 "S": "furniture_miscellaneous"
@@ -4102,11 +4102,11 @@
             "filename": {
                 "S": "FtrSculptureNefertitiFake"
             },
+            "filename_artwork_image": {
+                "NULL": true
+            },
             "filename_image": {
                 "S": "FtrSculptureNefertitiFake"
-            },
-            "filename_image_artwork": {
-                "NULL": true
             },
             "furniture_category": {
                 "S": "furniture_miscellaneous"
@@ -4215,11 +4215,11 @@
             "filename": {
                 "S": "FtrArtFifePlayer"
             },
-            "filename_image": {
+            "filename_artwork_image": {
                 "S": "FtrArtFifePlayer"
             },
-            "filename_image_artwork": {
-                "NULL": true
+            "filename_image": {
+                "S": "FtrArtFifePlayer"
             },
             "furniture_category": {
                 "S": "furniture_wall_mounted"
@@ -4243,7 +4243,7 @@
                 "NULL": true
             },
             "image_artwork_url": {
-                "NULL": true
+                "S": "https://acnhcdn.com/art/FtrArtFifePlayer.png"
             },
             "image_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtFifePlayer.png"
@@ -4328,11 +4328,11 @@
             "filename": {
                 "S": "FtrArtAppleOrange"
             },
-            "filename_image": {
+            "filename_artwork_image": {
                 "S": "FtrArtAppleOrange"
             },
-            "filename_image_artwork": {
-                "NULL": true
+            "filename_image": {
+                "S": "FtrArtAppleOrange"
             },
             "furniture_category": {
                 "S": "furniture_wall_mounted"
@@ -4356,7 +4356,7 @@
                 "NULL": true
             },
             "image_artwork_url": {
-                "NULL": true
+                "S": "https://acnhcdn.com/art/FtrArtAppleOrange.png"
             },
             "image_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtAppleOrange.png"
@@ -4441,11 +4441,11 @@
             "filename": {
                 "S": "FtrArtBarFB"
             },
-            "filename_image": {
+            "filename_artwork_image": {
                 "S": "FtrArtBarFB"
             },
-            "filename_image_artwork": {
-                "NULL": true
+            "filename_image": {
+                "S": "FtrArtBarFB"
             },
             "furniture_category": {
                 "S": "furniture_wall_mounted"
@@ -4469,7 +4469,7 @@
                 "NULL": true
             },
             "image_artwork_url": {
-                "NULL": true
+                "S": "https://acnhcdn.com/art/FtrArtBarFB.png"
             },
             "image_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtBarFB.png"
@@ -4554,11 +4554,11 @@
             "filename": {
                 "S": "FtrArtMilkmaid"
             },
-            "filename_image": {
+            "filename_artwork_image": {
                 "S": "FtrArtMilkmaid"
             },
-            "filename_image_artwork": {
-                "NULL": true
+            "filename_image": {
+                "S": "FtrArtMilkmaid"
             },
             "furniture_category": {
                 "S": "furniture_wall_mounted"
@@ -4582,7 +4582,7 @@
                 "NULL": true
             },
             "image_artwork_url": {
-                "NULL": true
+                "S": "https://acnhcdn.com/art/FtrArtMilkmaid.png"
             },
             "image_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtMilkmaid.png"
@@ -4667,11 +4667,11 @@
             "filename": {
                 "S": "FtrArtMilkmaidFake"
             },
-            "filename_image": {
+            "filename_artwork_image": {
                 "S": "FtrArtMilkmaidFake"
             },
-            "filename_image_artwork": {
-                "NULL": true
+            "filename_image": {
+                "S": "FtrArtMilkmaidFake"
             },
             "furniture_category": {
                 "S": "furniture_wall_mounted"
@@ -4695,7 +4695,7 @@
                 "NULL": true
             },
             "image_artwork_url": {
-                "NULL": true
+                "S": "https://acnhcdn.com/art/FtrArtMilkmaidFake.png"
             },
             "image_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtMilkmaidFake.png"
@@ -4780,11 +4780,11 @@
             "filename": {
                 "S": "FtrSculptureDiskobolos"
             },
+            "filename_artwork_image": {
+                "NULL": true
+            },
             "filename_image": {
                 "S": "FtrSculptureDiskobolos"
-            },
-            "filename_image_artwork": {
-                "NULL": true
             },
             "furniture_category": {
                 "S": "furniture_housewear"
@@ -4893,11 +4893,11 @@
             "filename": {
                 "S": "FtrSculptureDiskobolosFake"
             },
+            "filename_artwork_image": {
+                "NULL": true
+            },
             "filename_image": {
                 "S": "FtrSculptureDiskobolosFake"
-            },
-            "filename_image_artwork": {
-                "NULL": true
             },
             "furniture_category": {
                 "S": "furniture_housewear"
@@ -5006,11 +5006,11 @@
             "filename": {
                 "S": "FtrSculptureOlmecaHead"
             },
+            "filename_artwork_image": {
+                "NULL": true
+            },
             "filename_image": {
                 "S": "FtrSculptureOlmecaHead"
-            },
-            "filename_image_artwork": {
-                "NULL": true
             },
             "furniture_category": {
                 "S": "furniture_housewear"
@@ -5119,11 +5119,11 @@
             "filename": {
                 "S": "FtrSculptureOlmecaHeadFake"
             },
+            "filename_artwork_image": {
+                "NULL": true
+            },
             "filename_image": {
                 "S": "FtrSculptureOlmecaHeadFake"
-            },
-            "filename_image_artwork": {
-                "NULL": true
             },
             "furniture_category": {
                 "S": "furniture_housewear"
@@ -5232,11 +5232,11 @@
             "filename": {
                 "S": "FtrArtOotaniOniji"
             },
-            "filename_image": {
+            "filename_artwork_image": {
                 "S": "FtrArtOotaniOniji"
             },
-            "filename_image_artwork": {
-                "NULL": true
+            "filename_image": {
+                "S": "FtrArtOotaniOniji"
             },
             "furniture_category": {
                 "S": "furniture_wall_mounted"
@@ -5260,7 +5260,7 @@
                 "NULL": true
             },
             "image_artwork_url": {
-                "NULL": true
+                "S": "https://acnhcdn.com/art/FtrArtOotaniOniji.png"
             },
             "image_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtOotaniOniji.png"
@@ -5345,11 +5345,11 @@
             "filename": {
                 "S": "FtrArtOotaniOnijiFake"
             },
-            "filename_image": {
+            "filename_artwork_image": {
                 "S": "FtrArtOotaniOnijiFake"
             },
-            "filename_image_artwork": {
-                "NULL": true
+            "filename_image": {
+                "S": "FtrArtOotaniOnijiFake"
             },
             "furniture_category": {
                 "S": "furniture_wall_mounted"
@@ -5373,7 +5373,7 @@
                 "NULL": true
             },
             "image_artwork_url": {
-                "NULL": true
+                "S": "https://acnhcdn.com/art/FtrArtOotaniOnijiFake.png"
             },
             "image_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtOotaniOnijiFake.png"
@@ -5458,11 +5458,11 @@
             "filename": {
                 "S": "FtrArtHunterSnow"
             },
-            "filename_image": {
+            "filename_artwork_image": {
                 "S": "FtrArtHunterSnow"
             },
-            "filename_image_artwork": {
-                "NULL": true
+            "filename_image": {
+                "S": "FtrArtHunterSnow"
             },
             "furniture_category": {
                 "S": "furniture_wall_mounted"
@@ -5486,7 +5486,7 @@
                 "NULL": true
             },
             "image_artwork_url": {
-                "NULL": true
+                "S": "https://acnhcdn.com/art/FtrArtHunterSnow.png"
             },
             "image_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtHunterSnow.png"
@@ -5571,11 +5571,11 @@
             "filename": {
                 "S": "FtrArtHunterSnowFake"
             },
-            "filename_image": {
+            "filename_artwork_image": {
                 "S": "FtrArtHunterSnowFake"
             },
-            "filename_image_artwork": {
-                "NULL": true
+            "filename_image": {
+                "S": "FtrArtHunterSnowFake"
             },
             "furniture_category": {
                 "S": "furniture_wall_mounted"
@@ -5599,7 +5599,7 @@
                 "NULL": true
             },
             "image_artwork_url": {
-                "NULL": true
+                "S": "https://acnhcdn.com/art/FtrArtHunterSnowFake.png"
             },
             "image_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtHunterSnowFake.png"
@@ -5684,11 +5684,11 @@
             "filename": {
                 "S": "FtrArtPortraitCecilia"
             },
-            "filename_image": {
+            "filename_artwork_image": {
                 "S": "FtrArtPortraitCecilia"
             },
-            "filename_image_artwork": {
-                "NULL": true
+            "filename_image": {
+                "S": "FtrArtPortraitCecilia"
             },
             "furniture_category": {
                 "S": "furniture_wall_mounted"
@@ -5712,7 +5712,7 @@
                 "NULL": true
             },
             "image_artwork_url": {
-                "NULL": true
+                "S": "https://acnhcdn.com/art/FtrArtPortraitCecilia.png"
             },
             "image_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtPortraitCecilia.png"
@@ -5797,11 +5797,11 @@
             "filename": {
                 "S": "FtrArtPortraitCeciliaFake"
             },
-            "filename_image": {
+            "filename_artwork_image": {
                 "S": "FtrArtPortraitCeciliaFake"
             },
-            "filename_image_artwork": {
-                "NULL": true
+            "filename_image": {
+                "S": "FtrArtPortraitCeciliaFake"
             },
             "furniture_category": {
                 "S": "furniture_wall_mounted"
@@ -5825,7 +5825,7 @@
                 "NULL": true
             },
             "image_artwork_url": {
-                "NULL": true
+                "S": "https://acnhcdn.com/art/FtrArtPortraitCeciliaFake.png"
             },
             "image_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtPortraitCeciliaFake.png"
@@ -5910,11 +5910,11 @@
             "filename": {
                 "S": "FtrArtOphelia"
             },
-            "filename_image": {
+            "filename_artwork_image": {
                 "S": "FtrArtOphelia"
             },
-            "filename_image_artwork": {
-                "NULL": true
+            "filename_image": {
+                "S": "FtrArtOphelia"
             },
             "furniture_category": {
                 "S": "furniture_wall_mounted"
@@ -5938,7 +5938,7 @@
                 "NULL": true
             },
             "image_artwork_url": {
-                "NULL": true
+                "S": "https://acnhcdn.com/art/FtrArtOphelia.png"
             },
             "image_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtOphelia.png"
@@ -6023,11 +6023,11 @@
             "filename": {
                 "S": "FtrArtLasMeninas"
             },
-            "filename_image": {
+            "filename_artwork_image": {
                 "S": "FtrArtLasMeninas"
             },
-            "filename_image_artwork": {
-                "NULL": true
+            "filename_image": {
+                "S": "FtrArtLasMeninas"
             },
             "furniture_category": {
                 "S": "furniture_wall_mounted"
@@ -6051,7 +6051,7 @@
                 "NULL": true
             },
             "image_artwork_url": {
-                "NULL": true
+                "S": "https://acnhcdn.com/art/FtrArtLasMeninas.png"
             },
             "image_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtLasMeninas.png"
@@ -6136,11 +6136,11 @@
             "filename": {
                 "S": "FtrArtLasMeninasFake"
             },
-            "filename_image": {
+            "filename_artwork_image": {
                 "S": "FtrArtLasMeninasFake"
             },
-            "filename_image_artwork": {
-                "NULL": true
+            "filename_image": {
+                "S": "FtrArtLasMeninasFake"
             },
             "furniture_category": {
                 "S": "furniture_wall_mounted"
@@ -6164,7 +6164,7 @@
                 "NULL": true
             },
             "image_artwork_url": {
-                "NULL": true
+                "S": "https://acnhcdn.com/art/FtrArtLasMeninasFake.png"
             },
             "image_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtLasMeninasFake.png"
@@ -6249,11 +6249,11 @@
             "filename": {
                 "S": "FtrSculptureHoumuwuDing"
             },
+            "filename_artwork_image": {
+                "NULL": true
+            },
             "filename_image": {
                 "S": "FtrSculptureHoumuwuDing"
-            },
-            "filename_image_artwork": {
-                "NULL": true
             },
             "furniture_category": {
                 "S": "furniture_housewear"
@@ -6362,11 +6362,11 @@
             "filename": {
                 "S": "FtrSculptureHoumuwuDingFake"
             },
+            "filename_artwork_image": {
+                "NULL": true
+            },
             "filename_image": {
                 "S": "FtrSculptureHoumuwuDingFake"
-            },
-            "filename_image_artwork": {
-                "NULL": true
             },
             "furniture_category": {
                 "S": "furniture_housewear"
@@ -6475,11 +6475,11 @@
             "filename": {
                 "S": "FtrArtStarryNight"
             },
-            "filename_image": {
+            "filename_artwork_image": {
                 "S": "FtrArtStarryNight"
             },
-            "filename_image_artwork": {
-                "NULL": true
+            "filename_image": {
+                "S": "FtrArtStarryNight"
             },
             "furniture_category": {
                 "S": "furniture_wall_mounted"
@@ -6503,7 +6503,7 @@
                 "NULL": true
             },
             "image_artwork_url": {
-                "NULL": true
+                "S": "https://acnhcdn.com/art/FtrArtStarryNight.png"
             },
             "image_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtStarryNight.png"
@@ -6588,11 +6588,11 @@
             "filename": {
                 "S": "FtrSculptureSamothrace"
             },
+            "filename_artwork_image": {
+                "NULL": true
+            },
             "filename_image": {
                 "S": "FtrSculptureSamothrace"
-            },
-            "filename_image_artwork": {
-                "NULL": true
             },
             "furniture_category": {
                 "S": "furniture_housewear"
@@ -6701,11 +6701,11 @@
             "filename": {
                 "S": "FtrSculptureSamothraceFake"
             },
+            "filename_artwork_image": {
+                "NULL": true
+            },
             "filename_image": {
                 "S": "FtrSculptureSamothraceFake"
-            },
-            "filename_image_artwork": {
-                "NULL": true
             },
             "furniture_category": {
                 "S": "furniture_housewear"
@@ -6814,11 +6814,11 @@
             "filename": {
                 "S": "FtrArtClothedMaja"
             },
-            "filename_image": {
+            "filename_artwork_image": {
                 "S": "FtrArtClothedMaja"
             },
-            "filename_image_artwork": {
-                "NULL": true
+            "filename_image": {
+                "S": "FtrArtClothedMaja"
             },
             "furniture_category": {
                 "S": "furniture_wall_mounted"
@@ -6842,7 +6842,7 @@
                 "NULL": true
             },
             "image_artwork_url": {
-                "NULL": true
+                "S": "https://acnhcdn.com/art/FtrArtClothedMaja.png"
             },
             "image_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtClothedMaja.png"
@@ -6927,11 +6927,11 @@
             "filename": {
                 "S": "FtrSculptureHeibayo"
             },
+            "filename_artwork_image": {
+                "NULL": true
+            },
             "filename_image": {
                 "S": "FtrSculptureHeibayo"
-            },
-            "filename_image_artwork": {
-                "NULL": true
             },
             "furniture_category": {
                 "S": "furniture_housewear"
@@ -7040,11 +7040,11 @@
             "filename": {
                 "S": "FtrSculptureHeibayoFake"
             },
+            "filename_artwork_image": {
+                "NULL": true
+            },
             "filename_image": {
                 "S": "FtrSculptureHeibayoFake"
-            },
-            "filename_image_artwork": {
-                "NULL": true
             },
             "furniture_category": {
                 "S": "furniture_housewear"
@@ -7153,11 +7153,11 @@
             "filename": {
                 "S": "FtrArtRaijin"
             },
-            "filename_image": {
+            "filename_artwork_image": {
                 "S": "FtrArtRaijin"
             },
-            "filename_image_artwork": {
-                "NULL": true
+            "filename_image": {
+                "S": "FtrArtRaijin"
             },
             "furniture_category": {
                 "S": "furniture_housewear"
@@ -7181,7 +7181,7 @@
                 "NULL": true
             },
             "image_artwork_url": {
-                "NULL": true
+                "S": "https://acnhcdn.com/art/FtrArtRaijin.png"
             },
             "image_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtRaijin.png"
@@ -7266,11 +7266,11 @@
             "filename": {
                 "S": "FtrArtRaijinFake"
             },
-            "filename_image": {
+            "filename_artwork_image": {
                 "S": "FtrArtRaijinFake"
             },
-            "filename_image_artwork": {
-                "NULL": true
+            "filename_image": {
+                "S": "FtrArtRaijinFake"
             },
             "furniture_category": {
                 "S": "furniture_housewear"
@@ -7294,7 +7294,7 @@
                 "NULL": true
             },
             "image_artwork_url": {
-                "NULL": true
+                "S": "https://acnhcdn.com/art/FtrArtRaijinFake.png"
             },
             "image_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtRaijinFake.png"
@@ -7379,11 +7379,11 @@
             "filename": {
                 "S": "FtrArtFuujin"
             },
-            "filename_image": {
+            "filename_artwork_image": {
                 "S": "FtrArtFuujin"
             },
-            "filename_image_artwork": {
-                "NULL": true
+            "filename_image": {
+                "S": "FtrArtFuujin"
             },
             "furniture_category": {
                 "S": "furniture_housewear"
@@ -7407,7 +7407,7 @@
                 "NULL": true
             },
             "image_artwork_url": {
-                "NULL": true
+                "S": "https://acnhcdn.com/art/FtrArtFuujin.png"
             },
             "image_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtFuujin.png"
@@ -7492,11 +7492,11 @@
             "filename": {
                 "S": "FtrArtFuujinFake"
             },
-            "filename_image": {
+            "filename_artwork_image": {
                 "S": "FtrArtFuujinFake"
             },
-            "filename_image_artwork": {
-                "NULL": true
+            "filename_image": {
+                "S": "FtrArtFuujinFake"
             },
             "furniture_category": {
                 "S": "furniture_housewear"
@@ -7520,7 +7520,7 @@
                 "NULL": true
             },
             "image_artwork_url": {
-                "NULL": true
+                "S": "https://acnhcdn.com/art/FtrArtFuujinFake.png"
             },
             "image_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtFuujinFake.png"
@@ -7605,11 +7605,11 @@
             "filename": {
                 "S": "FtrArtPearlEarring"
             },
-            "filename_image": {
+            "filename_artwork_image": {
                 "S": "FtrArtPearlEarring"
             },
-            "filename_image_artwork": {
-                "NULL": true
+            "filename_image": {
+                "S": "FtrArtPearlEarring"
             },
             "furniture_category": {
                 "S": "furniture_wall_mounted"
@@ -7633,7 +7633,7 @@
                 "NULL": true
             },
             "image_artwork_url": {
-                "NULL": true
+                "S": "https://acnhcdn.com/art/FtrArtPearlEarring.png"
             },
             "image_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtPearlEarring.png"
@@ -7718,11 +7718,11 @@
             "filename": {
                 "S": "FtrArtPearlEarringFake"
             },
-            "filename_image": {
+            "filename_artwork_image": {
                 "S": "FtrArtPearlEarringFake"
             },
-            "filename_image_artwork": {
-                "NULL": true
+            "filename_image": {
+                "S": "FtrArtPearlEarringFake"
             },
             "furniture_category": {
                 "S": "furniture_wall_mounted"
@@ -7746,7 +7746,7 @@
                 "NULL": true
             },
             "image_artwork_url": {
-                "NULL": true
+                "S": "https://acnhcdn.com/art/FtrArtPearlEarringFake.png"
             },
             "image_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtPearlEarringFake.png"
@@ -7831,11 +7831,11 @@
             "filename": {
                 "S": "FtrArtLibertyLeading"
             },
-            "filename_image": {
+            "filename_artwork_image": {
                 "S": "FtrArtLibertyLeading"
             },
-            "filename_image_artwork": {
-                "NULL": true
+            "filename_image": {
+                "S": "FtrArtLibertyLeading"
             },
             "furniture_category": {
                 "S": "furniture_wall_mounted"
@@ -7859,7 +7859,7 @@
                 "NULL": true
             },
             "image_artwork_url": {
-                "NULL": true
+                "S": "https://acnhcdn.com/art/FtrArtLibertyLeading.png"
             },
             "image_url": {
                 "S": "https://acnhcdn.com/latest/FtrIcon/FtrArtLibertyLeading.png"
