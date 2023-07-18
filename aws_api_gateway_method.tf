@@ -826,6 +826,7 @@ resource "aws_api_gateway_method" "creature_fish_GET" {
     "method.request.querystring.internal_name"      = false
     "method.request.querystring.is_surface"         = false
     "method.request.querystring.lighting_category"  = false
+    "method.request.querystring.location_name"      = false
     "method.request.querystring.rate_maximum"       = false
     "method.request.querystring.rate_minimum"       = false
     "method.request.querystring.sell_currency"      = false
@@ -946,6 +947,7 @@ resource "aws_api_gateway_method" "creature_sea_GET" {
     "method.request.querystring.is_surface"        = false
     "method.request.querystring.is_unlocked"       = false
     "method.request.querystring.lighting_category" = false
+    "method.request.querystring.location_name"     = false
     "method.request.querystring.movement_category" = false
     "method.request.querystring.rate_maximum"      = false
     "method.request.querystring.rate_minimum"      = false
@@ -2372,6 +2374,7 @@ resource "aws_api_gateway_method" "villager_special_GET" {
     "method.request.querystring.internal_id"        = false
     "method.request.querystring.internal_label"     = false
     "method.request.querystring.internal_name"      = false
+    "method.request.querystring.species_name"       = false
   }
   request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
