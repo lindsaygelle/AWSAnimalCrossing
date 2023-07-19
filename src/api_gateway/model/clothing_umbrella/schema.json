@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 30,
-    "minProperties": 30,
+    "maxProperties": 31,
+    "minProperties": 31,
     "properties": {
         "buy_currency": {
             "maxLength": 5,
@@ -151,6 +151,11 @@
                 "boolean"
             ]
         },
+        "is_seasonal": {
+            "type": [
+                "boolean"
+            ]
+        },
         "is_unlocked": {
             "type": [
                 "boolean"
@@ -235,6 +240,7 @@
         "internal_name",
         "is_craftable",
         "is_equippable",
+        "is_seasonal",
         "is_unlocked",
         "name",
         "sell_currency",

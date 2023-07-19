@@ -142,7 +142,7 @@
                 "string"
             ]
         },
-        "location_name": {
+        "location_category": {
             "maxLength": 3,
             "minLength": 3,
             "type": [
@@ -269,7 +269,7 @@
         "is_surface",
         "is_unlocked",
         "lighting_category",
-        "location_name",
+        "location_category",
         "movement_category",
         "name",
         "rate_maximum",

@@ -27,6 +27,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -40,7 +41,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Drum set",
-        "unique_entry_id": "kkfW3mkDqaSJ6oZyX"
+        "unique_entry_id": "kkfW3mkDqaSJ6oZyX",
+        "variant_id": "0_0",
+        "variant_name": "Silver"
     },
     {
         "body_category": "Color",
@@ -70,6 +73,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -83,7 +87,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Drum set",
-        "unique_entry_id": "3yc99fYfgeEEuEpmE"
+        "unique_entry_id": "3yc99fYfgeEEuEpmE",
+        "variant_id": "1_0",
+        "variant_name": "Copper"
     },
     {
         "body_category": "Color",
@@ -113,6 +119,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -126,7 +133,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Drum set",
-        "unique_entry_id": "d2S8TAMtdyn2otNvv"
+        "unique_entry_id": "d2S8TAMtdyn2otNvv",
+        "variant_id": "2_0",
+        "variant_name": "Blue"
     },
     {
         "body_category": "Color",
@@ -156,6 +165,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -169,7 +179,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Drum set",
-        "unique_entry_id": "CFL93pob3zvkoxaMu"
+        "unique_entry_id": "CFL93pob3zvkoxaMu",
+        "variant_id": "3_0",
+        "variant_name": "Black"
     },
     {
         "body_category": "Color",
@@ -199,6 +211,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -212,7 +225,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "JzeaDWnEw5PmA9HsR"
+        "unique_entry_id": "JzeaDWnEw5PmA9HsR",
+        "variant_id": "0_0",
+        "variant_name": "Yellow"
     },
     {
         "body_category": "Color",
@@ -242,6 +257,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -255,7 +271,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "j7fH8LTP7eE7xpkcD"
+        "unique_entry_id": "j7fH8LTP7eE7xpkcD",
+        "variant_id": "1_0",
+        "variant_name": "Brown"
     },
     {
         "body_category": "Color",
@@ -285,6 +303,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -298,7 +317,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "BcuaRWuFvnx23qbEu"
+        "unique_entry_id": "BcuaRWuFvnx23qbEu",
+        "variant_id": "2_0",
+        "variant_name": "Green"
     },
     {
         "body_category": "Color",
@@ -328,6 +349,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -341,7 +363,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "CHfXBgGM5JJ2ZNYv9"
+        "unique_entry_id": "CHfXBgGM5JJ2ZNYv9",
+        "variant_id": "3_0",
+        "variant_name": "Pink"
     },
     {
         "body_category": "Color",
@@ -371,6 +395,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -384,7 +409,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "B3pxocyqgxwjJtd6u"
+        "unique_entry_id": "B3pxocyqgxwjJtd6u",
+        "variant_id": "4_0",
+        "variant_name": "Blue"
     },
     {
         "body_category": "Color",
@@ -414,6 +441,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -427,7 +455,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "9W6sgmuK9FAoYnAgJ"
+        "unique_entry_id": "9W6sgmuK9FAoYnAgJ",
+        "variant_id": "0_0",
+        "variant_name": "Blue"
     },
     {
         "body_category": "Color",
@@ -457,6 +487,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -470,7 +501,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "wqePHxASM2D5MzkhW"
+        "unique_entry_id": "wqePHxASM2D5MzkhW",
+        "variant_id": "1_0",
+        "variant_name": "Pink"
     },
     {
         "body_category": "Color",
@@ -500,6 +533,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -513,7 +547,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "RaJnNHN9vtyitfNRp"
+        "unique_entry_id": "RaJnNHN9vtyitfNRp",
+        "variant_id": "2_0",
+        "variant_name": "Green"
     },
     {
         "body_category": "Color",
@@ -543,6 +579,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -556,7 +593,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "7DcmhrnFjsMKyhyvs"
+        "unique_entry_id": "7DcmhrnFjsMKyhyvs",
+        "variant_id": "3_0",
+        "variant_name": "Purple"
     },
     {
         "body_category": "Color",
@@ -586,6 +625,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -599,7 +639,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "iRFDM7XADzxAamc5h"
+        "unique_entry_id": "iRFDM7XADzxAamc5h",
+        "variant_id": "4_0",
+        "variant_name": "Brown"
     },
     {
         "body_category": "Color",
@@ -629,6 +671,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -642,7 +685,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "dK69jDDFGqLJ5gfEw"
+        "unique_entry_id": "dK69jDDFGqLJ5gfEw",
+        "variant_id": "5_0",
+        "variant_name": "White"
     },
     {
         "body_category": "Color",
@@ -672,6 +717,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -685,7 +731,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Kick",
-        "unique_entry_id": "nzZ8BhZMNuRXNGxkA"
+        "unique_entry_id": "nzZ8BhZMNuRXNGxkA",
+        "variant_id": "0_0",
+        "variant_name": "Orange"
     },
     {
         "body_category": "Color",
@@ -715,6 +763,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -728,7 +777,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Kick",
-        "unique_entry_id": "iBnNNvC7nGWL7tryz"
+        "unique_entry_id": "iBnNNvC7nGWL7tryz",
+        "variant_id": "1_0",
+        "variant_name": "Beige"
     },
     {
         "body_category": "Color",
@@ -758,6 +809,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -771,7 +823,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Kick",
-        "unique_entry_id": "twv95nheGWR57tSKf"
+        "unique_entry_id": "twv95nheGWR57tSKf",
+        "variant_id": "2_0",
+        "variant_name": "Green"
     },
     {
         "body_category": "Color",
@@ -801,6 +855,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -814,7 +869,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Kick",
-        "unique_entry_id": "7ips4Bj26grdqknHj"
+        "unique_entry_id": "7ips4Bj26grdqknHj",
+        "variant_id": "3_0",
+        "variant_name": "Brown"
     },
     {
         "body_category": "Color",
@@ -844,6 +901,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -857,7 +915,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Kick",
-        "unique_entry_id": "sx5w3astuWQSZPwHY"
+        "unique_entry_id": "sx5w3astuWQSZPwHY",
+        "variant_id": "4_0",
+        "variant_name": "Blue"
     },
     {
         "body_category": "Color",
@@ -887,6 +947,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -900,7 +961,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Kick",
-        "unique_entry_id": "rLx8Bvw5KYfbAoDCW"
+        "unique_entry_id": "rLx8Bvw5KYfbAoDCW",
+        "variant_id": "5_0",
+        "variant_name": "Gray"
     },
     {
         "body_category": "Color",
@@ -930,6 +993,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -943,7 +1007,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Snare",
-        "unique_entry_id": "jJ5qYcuccjfRXTuAj"
+        "unique_entry_id": "jJ5qYcuccjfRXTuAj",
+        "variant_id": "0_0",
+        "variant_name": "Blue"
     },
     {
         "body_category": "Color",
@@ -973,6 +1039,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -986,7 +1053,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Snare",
-        "unique_entry_id": "4ygoAekmHeQR6qsx2"
+        "unique_entry_id": "4ygoAekmHeQR6qsx2",
+        "variant_id": "1_0",
+        "variant_name": "Red"
     },
     {
         "body_category": "Color",
@@ -1016,6 +1085,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -1029,7 +1099,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Snare",
-        "unique_entry_id": "jLoixeQfRW76YwRam"
+        "unique_entry_id": "jLoixeQfRW76YwRam",
+        "variant_id": "2_0",
+        "variant_name": "Green"
     },
     {
         "body_category": "Color",
@@ -1059,6 +1131,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -1072,7 +1145,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Snare",
-        "unique_entry_id": "HxpcrjDmFaaaLaDze"
+        "unique_entry_id": "HxpcrjDmFaaaLaDze",
+        "variant_id": "3_0",
+        "variant_name": "Purple"
     },
     {
         "body_category": "Color",
@@ -1102,6 +1177,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -1115,7 +1191,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Crash",
-        "unique_entry_id": "Phox4Q4uxne3f7RNZ"
+        "unique_entry_id": "Phox4Q4uxne3f7RNZ",
+        "variant_id": "0_0",
+        "variant_name": "Orange"
     },
     {
         "body_category": "Color",
@@ -1145,6 +1223,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -1158,7 +1237,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Crash",
-        "unique_entry_id": "dFRdhcbbpH9MAsLz8"
+        "unique_entry_id": "dFRdhcbbpH9MAsLz8",
+        "variant_id": "1_0",
+        "variant_name": "Green"
     },
     {
         "body_category": "Color",
@@ -1188,6 +1269,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -1201,7 +1283,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Crash",
-        "unique_entry_id": "r9zWRJ27owu68fJeC"
+        "unique_entry_id": "r9zWRJ27owu68fJeC",
+        "variant_id": "2_0",
+        "variant_name": "Blue"
     },
     {
         "body_category": "Color",
@@ -1231,6 +1315,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -1244,7 +1329,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Crash",
-        "unique_entry_id": "iK6eTwafFNsFQ7itR"
+        "unique_entry_id": "iK6eTwafFNsFQ7itR",
+        "variant_id": "3_0",
+        "variant_name": "Purple"
     },
     {
         "body_category": "Color",
@@ -1274,6 +1361,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -1287,7 +1375,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Crash",
-        "unique_entry_id": "PJyZFnEnQhuQMfNjc"
+        "unique_entry_id": "PJyZFnEnQhuQMfNjc",
+        "variant_id": "4_0",
+        "variant_name": "Black"
     },
     {
         "body_category": "Color",
@@ -1317,6 +1407,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -1330,7 +1421,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Crash",
-        "unique_entry_id": "o93EYRxwspQqwXzBB"
+        "unique_entry_id": "o93EYRxwspQqwXzBB",
+        "variant_id": "5_0",
+        "variant_name": "Wood"
     },
     {
         "body_category": "Color",
@@ -1360,6 +1453,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -1373,7 +1467,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Kick",
-        "unique_entry_id": "tf32LnJeHNvsRkfX3"
+        "unique_entry_id": "tf32LnJeHNvsRkfX3",
+        "variant_id": "0_0",
+        "variant_name": "Brown"
     },
     {
         "body_category": "Color",
@@ -1403,6 +1499,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -1416,7 +1513,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Kick",
-        "unique_entry_id": "4a3Ku9Po9Kybzioqq"
+        "unique_entry_id": "4a3Ku9Po9Kybzioqq",
+        "variant_id": "1_0",
+        "variant_name": "Camel"
     },
     {
         "body_category": "Color",
@@ -1446,6 +1545,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -1459,7 +1559,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Kick",
-        "unique_entry_id": "En8kpWp2HtBSyggzS"
+        "unique_entry_id": "En8kpWp2HtBSyggzS",
+        "variant_id": "2_0",
+        "variant_name": "Green"
     },
     {
         "body_category": "Color",
@@ -1489,6 +1591,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -1502,7 +1605,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Kick",
-        "unique_entry_id": "4dJAhBXMjbGYhowW4"
+        "unique_entry_id": "4dJAhBXMjbGYhowW4",
+        "variant_id": "3_0",
+        "variant_name": "Blue"
     },
     {
         "body_category": "Color",
@@ -1532,6 +1637,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -1545,7 +1651,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Kick",
-        "unique_entry_id": "hMs8n9zwDaNWAaTuJ"
+        "unique_entry_id": "hMs8n9zwDaNWAaTuJ",
+        "variant_id": "4_0",
+        "variant_name": "Purple"
     },
     {
         "body_category": "Color",
@@ -1575,6 +1683,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -1588,7 +1697,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Kick",
-        "unique_entry_id": "hGuW5Y4MBKAPAop5i"
+        "unique_entry_id": "hGuW5Y4MBKAPAop5i",
+        "variant_id": "5_0",
+        "variant_name": "Black"
     },
     {
         "body_category": null,
@@ -1618,6 +1729,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": null,
         "kit_currency": null,
@@ -1631,7 +1743,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Snare",
-        "unique_entry_id": "8bTnQQq6orJEegzWZ"
+        "unique_entry_id": "8bTnQQq6orJEegzWZ",
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": "Color",
@@ -1661,6 +1775,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -1674,7 +1789,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "LJfA5BTFhyFCrD4By"
+        "unique_entry_id": "LJfA5BTFhyFCrD4By",
+        "variant_id": "0_0",
+        "variant_name": "Brown"
     },
     {
         "body_category": "Color",
@@ -1704,6 +1821,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -1717,7 +1835,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "MwTRAZJt6zPgGLqEx"
+        "unique_entry_id": "MwTRAZJt6zPgGLqEx",
+        "variant_id": "1_0",
+        "variant_name": "Green"
     },
     {
         "body_category": "Color",
@@ -1747,6 +1867,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -1760,7 +1881,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "g2BLkiDYHnoddAwJA"
+        "unique_entry_id": "g2BLkiDYHnoddAwJA",
+        "variant_id": "2_0",
+        "variant_name": "Pink"
     },
     {
         "body_category": "Color",
@@ -1790,6 +1913,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -1803,7 +1927,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "QZJ44szMGx2rpa9ar"
+        "unique_entry_id": "QZJ44szMGx2rpa9ar",
+        "variant_id": "3_0",
+        "variant_name": "Purple"
     },
     {
         "body_category": "Color",
@@ -1833,6 +1959,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -1846,7 +1973,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "utsjEsjRDFna29drm"
+        "unique_entry_id": "utsjEsjRDFna29drm",
+        "variant_id": "4_0",
+        "variant_name": "White"
     },
     {
         "body_category": "Color",
@@ -1876,6 +2005,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -1889,7 +2019,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "HJiRPPSmtnofjcdsG"
+        "unique_entry_id": "HJiRPPSmtnofjcdsG",
+        "variant_id": "0_0",
+        "variant_name": "Brown"
     },
     {
         "body_category": "Color",
@@ -1919,6 +2051,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -1932,7 +2065,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "Xx8hum9au5hx5vwo3"
+        "unique_entry_id": "Xx8hum9au5hx5vwo3",
+        "variant_id": "1_0",
+        "variant_name": "Yellow"
     },
     {
         "body_category": "Color",
@@ -1962,6 +2097,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -1975,7 +2111,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "MwiwsdWNmyGpKJKkt"
+        "unique_entry_id": "MwiwsdWNmyGpKJKkt",
+        "variant_id": "2_0",
+        "variant_name": "Green"
     },
     {
         "body_category": "Color",
@@ -2005,6 +2143,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -2018,7 +2157,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "CimmAva3yZRKy5LLA"
+        "unique_entry_id": "CimmAva3yZRKy5LLA",
+        "variant_id": "3_0",
+        "variant_name": "Blue"
     },
     {
         "body_category": "Color",
@@ -2048,6 +2189,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -2061,7 +2203,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Snare",
-        "unique_entry_id": "7J25rfm8vr9QhbbkS"
+        "unique_entry_id": "7J25rfm8vr9QhbbkS",
+        "variant_id": "0_0",
+        "variant_name": "Pop"
     },
     {
         "body_category": "Color",
@@ -2091,6 +2235,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -2104,7 +2249,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Snare",
-        "unique_entry_id": "oqiuuGcqkHTRxGGYw"
+        "unique_entry_id": "oqiuuGcqkHTRxGGYw",
+        "variant_id": "1_0",
+        "variant_name": "Natural"
     },
     {
         "body_category": "Color",
@@ -2134,6 +2281,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -2147,7 +2295,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Snare",
-        "unique_entry_id": "mTaSLHRrsJeDk5WJr"
+        "unique_entry_id": "mTaSLHRrsJeDk5WJr",
+        "variant_id": "2_0",
+        "variant_name": "Cool"
     },
     {
         "body_category": "Color",
@@ -2177,6 +2327,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -2190,7 +2341,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Snare",
-        "unique_entry_id": "zC6zNREBCsaqKdeC7"
+        "unique_entry_id": "zC6zNREBCsaqKdeC7",
+        "variant_id": "3_0",
+        "variant_name": "Cute"
     },
     {
         "body_category": "Color",
@@ -2220,6 +2373,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -2233,7 +2387,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Snare",
-        "unique_entry_id": "ML7RwjzsXpLtZgmQW"
+        "unique_entry_id": "ML7RwjzsXpLtZgmQW",
+        "variant_id": "4_0",
+        "variant_name": "Chic"
     },
     {
         "body_category": "Color",
@@ -2263,6 +2419,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -2276,7 +2433,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Snare",
-        "unique_entry_id": "em76obCKYxcMYSHbr"
+        "unique_entry_id": "em76obCKYxcMYSHbr",
+        "variant_id": "0_0",
+        "variant_name": "Yellow"
     },
     {
         "body_category": "Color",
@@ -2306,6 +2465,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -2319,7 +2479,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Snare",
-        "unique_entry_id": "yeAKxwpHdTWSv7uNn"
+        "unique_entry_id": "yeAKxwpHdTWSv7uNn",
+        "variant_id": "1_0",
+        "variant_name": "Brown"
     },
     {
         "body_category": "Color",
@@ -2349,6 +2511,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -2362,7 +2525,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Snare",
-        "unique_entry_id": "ucYoB3AWT4gEj2iZQ"
+        "unique_entry_id": "ucYoB3AWT4gEj2iZQ",
+        "variant_id": "2_0",
+        "variant_name": "Blue"
     },
     {
         "body_category": "Color",
@@ -2392,6 +2557,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -2405,7 +2571,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Snare",
-        "unique_entry_id": "NamEj8SET5d4PjAJE"
+        "unique_entry_id": "NamEj8SET5d4PjAJE",
+        "variant_id": "3_0",
+        "variant_name": "Red"
     },
     {
         "body_category": "Color",
@@ -2435,6 +2603,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -2448,7 +2617,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Snare",
-        "unique_entry_id": "dXXhoyCQgq3wMLApR"
+        "unique_entry_id": "dXXhoyCQgq3wMLApR",
+        "variant_id": "4_0",
+        "variant_name": "Green"
     },
     {
         "body_category": "Color",
@@ -2478,6 +2649,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -2491,7 +2663,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Snare",
-        "unique_entry_id": "6S9RxwtPqaByY8g7b"
+        "unique_entry_id": "6S9RxwtPqaByY8g7b",
+        "variant_id": "5_0",
+        "variant_name": "Black"
     },
     {
         "body_category": "Color",
@@ -2521,6 +2695,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -2534,7 +2709,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Drum set",
-        "unique_entry_id": "x5WMC9bCWExRtzLMK"
+        "unique_entry_id": "x5WMC9bCWExRtzLMK",
+        "variant_id": "0_0",
+        "variant_name": "Gray"
     },
     {
         "body_category": "Color",
@@ -2564,6 +2741,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -2577,7 +2755,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Drum set",
-        "unique_entry_id": "DAodQEs2cMXLxrbgP"
+        "unique_entry_id": "DAodQEs2cMXLxrbgP",
+        "variant_id": "1_0",
+        "variant_name": "Brown"
     },
     {
         "body_category": "Color",
@@ -2607,6 +2787,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -2620,7 +2801,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Drum set",
-        "unique_entry_id": "qJ4mDCDp5tvFuuv3L"
+        "unique_entry_id": "qJ4mDCDp5tvFuuv3L",
+        "variant_id": "2_0",
+        "variant_name": "Green"
     },
     {
         "body_category": "Color",
@@ -2650,6 +2833,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -2663,7 +2847,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Drum set",
-        "unique_entry_id": "SDosepCRXEnuL3moe"
+        "unique_entry_id": "SDosepCRXEnuL3moe",
+        "variant_id": "3_0",
+        "variant_name": "Pink"
     },
     {
         "body_category": "Color",
@@ -2693,6 +2879,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -2706,7 +2893,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Drum set",
-        "unique_entry_id": "YsHeBQo7KB9kcqJTq"
+        "unique_entry_id": "YsHeBQo7KB9kcqJTq",
+        "variant_id": "4_0",
+        "variant_name": "Blue"
     },
     {
         "body_category": "Color",
@@ -2736,6 +2925,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -2749,7 +2939,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Drum set",
-        "unique_entry_id": "jRKoogv4aPaDyXnFR"
+        "unique_entry_id": "jRKoogv4aPaDyXnFR",
+        "variant_id": "5_0",
+        "variant_name": "White"
     },
     {
         "body_category": "Color",
@@ -2779,6 +2971,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -2792,7 +2985,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Drum set",
-        "unique_entry_id": "oJ4Xgtsje6QB5KQTy"
+        "unique_entry_id": "oJ4Xgtsje6QB5KQTy",
+        "variant_id": "6_0",
+        "variant_name": "Black"
     },
     {
         "body_category": "Color",
@@ -2822,6 +3017,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -2835,7 +3031,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Drum set",
-        "unique_entry_id": "3FxTEEABz9pzypv6e"
+        "unique_entry_id": "3FxTEEABz9pzypv6e",
+        "variant_id": "0_0",
+        "variant_name": "Blue"
     },
     {
         "body_category": "Color",
@@ -2865,6 +3063,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -2878,7 +3077,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Drum set",
-        "unique_entry_id": "8ZZXNwQnAS6bh6hF7"
+        "unique_entry_id": "8ZZXNwQnAS6bh6hF7",
+        "variant_id": "1_0",
+        "variant_name": "Green"
     },
     {
         "body_category": "Color",
@@ -2908,6 +3109,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -2921,7 +3123,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Drum set",
-        "unique_entry_id": "LmLwAqrn2gmyy94CG"
+        "unique_entry_id": "LmLwAqrn2gmyy94CG",
+        "variant_id": "2_0",
+        "variant_name": "Brown"
     },
     {
         "body_category": "Color",
@@ -2951,6 +3155,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -2964,7 +3169,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Drum set",
-        "unique_entry_id": "wL8H5i45pvaN4ez43"
+        "unique_entry_id": "wL8H5i45pvaN4ez43",
+        "variant_id": "3_0",
+        "variant_name": "Purple"
     },
     {
         "body_category": "Color",
@@ -2994,6 +3201,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -3007,7 +3215,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Drum set",
-        "unique_entry_id": "PtxT2A6XiDPi7sDrr"
+        "unique_entry_id": "PtxT2A6XiDPi7sDrr",
+        "variant_id": "4_0",
+        "variant_name": "Gray"
     },
     {
         "body_category": "Color",
@@ -3037,6 +3247,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -3050,7 +3261,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Hi-hat",
-        "unique_entry_id": "PnANnG3CmoM7bbYo5"
+        "unique_entry_id": "PnANnG3CmoM7bbYo5",
+        "variant_id": "0_0",
+        "variant_name": "Orange"
     },
     {
         "body_category": "Color",
@@ -3080,6 +3293,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -3093,7 +3307,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Hi-hat",
-        "unique_entry_id": "pYQn6jhuzQWLM4xaS"
+        "unique_entry_id": "pYQn6jhuzQWLM4xaS",
+        "variant_id": "1_0",
+        "variant_name": "Yellow"
     },
     {
         "body_category": "Color",
@@ -3123,6 +3339,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -3136,7 +3353,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Hi-hat",
-        "unique_entry_id": "KofmhMtLMLxjzg9s9"
+        "unique_entry_id": "KofmhMtLMLxjzg9s9",
+        "variant_id": "2_0",
+        "variant_name": "Green"
     },
     {
         "body_category": "Color",
@@ -3166,6 +3385,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -3179,7 +3399,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Hi-hat",
-        "unique_entry_id": "NJe72u8Funhrzi2pX"
+        "unique_entry_id": "NJe72u8Funhrzi2pX",
+        "variant_id": "3_0",
+        "variant_name": "Pink"
     },
     {
         "body_category": "Color",
@@ -3209,6 +3431,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -3222,7 +3445,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Hi-hat",
-        "unique_entry_id": "KbTCmZxTdRTzx4WrD"
+        "unique_entry_id": "KbTCmZxTdRTzx4WrD",
+        "variant_id": "4_0",
+        "variant_name": "Purple"
     },
     {
         "body_category": "Color",
@@ -3252,6 +3477,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -3265,7 +3491,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Crash",
-        "unique_entry_id": "SHBN9jqjR6Yu5kw7X"
+        "unique_entry_id": "SHBN9jqjR6Yu5kw7X",
+        "variant_id": "0_0",
+        "variant_name": "Purple"
     },
     {
         "body_category": "Color",
@@ -3295,6 +3523,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -3308,7 +3537,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Crash",
-        "unique_entry_id": "QH2JzvyktqnyTRGAk"
+        "unique_entry_id": "QH2JzvyktqnyTRGAk",
+        "variant_id": "1_0",
+        "variant_name": "Gold"
     },
     {
         "body_category": "Color",
@@ -3338,6 +3569,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -3351,7 +3583,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Crash",
-        "unique_entry_id": "uoeXQ6YpWKZguELii"
+        "unique_entry_id": "uoeXQ6YpWKZguELii",
+        "variant_id": "2_0",
+        "variant_name": "Pink"
     },
     {
         "body_category": "Color",
@@ -3381,6 +3615,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -3394,7 +3629,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Crash",
-        "unique_entry_id": "NLaYePxeua5ewfTKM"
+        "unique_entry_id": "NLaYePxeua5ewfTKM",
+        "variant_id": "3_0",
+        "variant_name": "Silver"
     },
     {
         "body_category": "Color",
@@ -3424,6 +3661,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -3437,7 +3675,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Crash",
-        "unique_entry_id": "Y82RxftBpcAwTFFGB"
+        "unique_entry_id": "Y82RxftBpcAwTFFGB",
+        "variant_id": "4_0",
+        "variant_name": "Blue"
     },
     {
         "body_category": "Color",
@@ -3467,6 +3707,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -3480,7 +3721,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "TfJzAoKKah2XtstCg"
+        "unique_entry_id": "TfJzAoKKah2XtstCg",
+        "variant_id": "0_0",
+        "variant_name": "Green"
     },
     {
         "body_category": "Color",
@@ -3510,6 +3753,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -3523,7 +3767,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "dcD6eb3GLPoAHWD3i"
+        "unique_entry_id": "dcD6eb3GLPoAHWD3i",
+        "variant_id": "1_0",
+        "variant_name": "Yellow"
     },
     {
         "body_category": "Color",
@@ -3553,6 +3799,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -3566,7 +3813,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "TZThNwk4MZEJ6QcRN"
+        "unique_entry_id": "TZThNwk4MZEJ6QcRN",
+        "variant_id": "2_0",
+        "variant_name": "Pink"
     },
     {
         "body_category": "Color",
@@ -3596,6 +3845,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -3609,7 +3859,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "YxheX9JpfrYA9XGk2"
+        "unique_entry_id": "YxheX9JpfrYA9XGk2",
+        "variant_id": "3_0",
+        "variant_name": "Blue"
     },
     {
         "body_category": "Color",
@@ -3639,6 +3891,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -3652,7 +3905,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "y2NfpzKhnwhMmg7KY"
+        "unique_entry_id": "y2NfpzKhnwhMmg7KY",
+        "variant_id": "4_0",
+        "variant_name": "Silver"
     },
     {
         "body_category": "Color",
@@ -3682,6 +3937,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -3695,7 +3951,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "CvNnWjCvnDJaTn8NL"
+        "unique_entry_id": "CvNnWjCvnDJaTn8NL",
+        "variant_id": "0_0",
+        "variant_name": "Beige"
     },
     {
         "body_category": "Color",
@@ -3725,6 +3983,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -3738,7 +3997,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "XkPAZ2ZPwwj9qjEcj"
+        "unique_entry_id": "XkPAZ2ZPwwj9qjEcj",
+        "variant_id": "1_0",
+        "variant_name": "Brown"
     },
     {
         "body_category": "Color",
@@ -3768,6 +4029,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -3781,7 +4043,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "TYq3Sy3J6BiSYnGg9"
+        "unique_entry_id": "TYq3Sy3J6BiSYnGg9",
+        "variant_id": "2_0",
+        "variant_name": "Yellow"
     },
     {
         "body_category": "Color",
@@ -3811,6 +4075,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -3824,7 +4089,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "dYSvLEQvhfysTyqZ7"
+        "unique_entry_id": "dYSvLEQvhfysTyqZ7",
+        "variant_id": "3_0",
+        "variant_name": "Blue"
     },
     {
         "body_category": "Color",
@@ -3854,6 +4121,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -3867,7 +4135,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "G7NZZTHmyBbiaq4N8"
+        "unique_entry_id": "G7NZZTHmyBbiaq4N8",
+        "variant_id": "4_0",
+        "variant_name": "Pink"
     },
     {
         "body_category": "Color",
@@ -3897,6 +4167,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -3910,7 +4181,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "Tfj8TThfSfoht39xy"
+        "unique_entry_id": "Tfj8TThfSfoht39xy",
+        "variant_id": "5_0",
+        "variant_name": "Black"
     },
     {
         "body_category": "Color",
@@ -3940,6 +4213,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -3953,7 +4227,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "eT455JwgBZ96y2PpL"
+        "unique_entry_id": "eT455JwgBZ96y2PpL",
+        "variant_id": "0_0",
+        "variant_name": "Green"
     },
     {
         "body_category": "Color",
@@ -3983,6 +4259,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -3996,7 +4273,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "bTNGy796xgNJFBK44"
+        "unique_entry_id": "bTNGy796xgNJFBK44",
+        "variant_id": "1_0",
+        "variant_name": "Brown"
     },
     {
         "body_category": "Color",
@@ -4026,6 +4305,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -4039,7 +4319,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "BCnbn4NgpFyosNjzS"
+        "unique_entry_id": "BCnbn4NgpFyosNjzS",
+        "variant_id": "2_0",
+        "variant_name": "Yellow"
     },
     {
         "body_category": "Color",
@@ -4069,6 +4351,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -4082,7 +4365,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "nYsxTGJ8x8ch4sfHt"
+        "unique_entry_id": "nYsxTGJ8x8ch4sfHt",
+        "variant_id": "3_0",
+        "variant_name": "Blue"
     },
     {
         "body_category": "Color",
@@ -4112,6 +4397,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -4125,7 +4411,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "xx4YpiQEoW3QLTDHi"
+        "unique_entry_id": "xx4YpiQEoW3QLTDHi",
+        "variant_id": "4_0",
+        "variant_name": "Pink"
     },
     {
         "body_category": "Color",
@@ -4155,6 +4443,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -4168,7 +4457,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "daHiapjHoRfAg5q89"
+        "unique_entry_id": "daHiapjHoRfAg5q89",
+        "variant_id": "5_0",
+        "variant_name": "Purple"
     },
     {
         "body_category": "Color",
@@ -4198,6 +4489,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -4211,7 +4503,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "okcZ7zr7HNiZnGMPT"
+        "unique_entry_id": "okcZ7zr7HNiZnGMPT",
+        "variant_id": "6_0",
+        "variant_name": "White"
     },
     {
         "body_category": "Color",
@@ -4241,6 +4535,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -4254,7 +4549,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Crash",
-        "unique_entry_id": "8fJBG54PLzNR7eNwT"
+        "unique_entry_id": "8fJBG54PLzNR7eNwT",
+        "variant_id": "0_0",
+        "variant_name": "Red"
     },
     {
         "body_category": "Color",
@@ -4284,6 +4581,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -4297,7 +4595,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Crash",
-        "unique_entry_id": "YZvg2phjfBH3K6H49"
+        "unique_entry_id": "YZvg2phjfBH3K6H49",
+        "variant_id": "1_0",
+        "variant_name": "Brown"
     },
     {
         "body_category": "Color",
@@ -4327,6 +4627,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -4340,7 +4641,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Crash",
-        "unique_entry_id": "uShTToJcco2N3Fw4u"
+        "unique_entry_id": "uShTToJcco2N3Fw4u",
+        "variant_id": "2_0",
+        "variant_name": "White"
     },
     {
         "body_category": "Color",
@@ -4370,6 +4673,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -4383,7 +4687,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Crash",
-        "unique_entry_id": "GbrCHWpKxigRRw3sx"
+        "unique_entry_id": "GbrCHWpKxigRRw3sx",
+        "variant_id": "3_0",
+        "variant_name": "Blue"
     },
     {
         "body_category": "Color",
@@ -4413,6 +4719,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -4426,7 +4733,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Crash",
-        "unique_entry_id": "bS6i5MmvfLPJrRyXN"
+        "unique_entry_id": "bS6i5MmvfLPJrRyXN",
+        "variant_id": "4_0",
+        "variant_name": "Green"
     },
     {
         "body_category": "Color",
@@ -4456,6 +4765,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -4469,7 +4779,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Crash",
-        "unique_entry_id": "RJE9WXB6HxcydqsDT"
+        "unique_entry_id": "RJE9WXB6HxcydqsDT",
+        "variant_id": "5_0",
+        "variant_name": "Black"
     },
     {
         "body_category": "Color",
@@ -4499,6 +4811,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -4512,7 +4825,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "dTPEbXWszDXsYJPYE"
+        "unique_entry_id": "dTPEbXWszDXsYJPYE",
+        "variant_id": "0_0",
+        "variant_name": "Red"
     },
     {
         "body_category": "Color",
@@ -4542,6 +4857,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -4555,7 +4871,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "4zYMSwioGjc9g59MJ"
+        "unique_entry_id": "4zYMSwioGjc9g59MJ",
+        "variant_id": "1_0",
+        "variant_name": "Yellow"
     },
     {
         "body_category": "Color",
@@ -4585,6 +4903,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -4598,7 +4917,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "3vMtcnGjgDJfDFSqC"
+        "unique_entry_id": "3vMtcnGjgDJfDFSqC",
+        "variant_id": "2_0",
+        "variant_name": "Green"
     },
     {
         "body_category": "Color",
@@ -4628,6 +4949,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -4641,7 +4963,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "8BQcnoj9AdBwM3J3B"
+        "unique_entry_id": "8BQcnoj9AdBwM3J3B",
+        "variant_id": "3_0",
+        "variant_name": "Blue"
     },
     {
         "body_category": "Color",
@@ -4671,6 +4995,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -4684,7 +5009,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "A4krXyNkJb849WX8z"
+        "unique_entry_id": "A4krXyNkJb849WX8z",
+        "variant_id": "4_0",
+        "variant_name": "Purple"
     },
     {
         "body_category": "Color",
@@ -4714,6 +5041,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -4727,7 +5055,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "qRnR2wqxJzdaEwEXE"
+        "unique_entry_id": "qRnR2wqxJzdaEwEXE",
+        "variant_id": "5_0",
+        "variant_name": "White"
     },
     {
         "body_category": "Color",
@@ -4757,6 +5087,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -4770,7 +5101,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Kick",
-        "unique_entry_id": "vjMiNcLibjYECkxkq"
+        "unique_entry_id": "vjMiNcLibjYECkxkq",
+        "variant_id": "0_0",
+        "variant_name": "Purple"
     },
     {
         "body_category": "Color",
@@ -4800,6 +5133,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -4813,7 +5147,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Kick",
-        "unique_entry_id": "LMiF4qrxGBsa7YPFG"
+        "unique_entry_id": "LMiF4qrxGBsa7YPFG",
+        "variant_id": "1_0",
+        "variant_name": "Yellow"
     },
     {
         "body_category": "Color",
@@ -4843,6 +5179,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -4856,7 +5193,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Kick",
-        "unique_entry_id": "y6ugmmeCGHhrpku2N"
+        "unique_entry_id": "y6ugmmeCGHhrpku2N",
+        "variant_id": "2_0",
+        "variant_name": "Green"
     },
     {
         "body_category": "Color",
@@ -4886,6 +5225,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -4899,7 +5239,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Kick",
-        "unique_entry_id": "MMGyK7b3mm6GMZBTH"
+        "unique_entry_id": "MMGyK7b3mm6GMZBTH",
+        "variant_id": "3_0",
+        "variant_name": "Pink"
     },
     {
         "body_category": "Color",
@@ -4929,6 +5271,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -4942,7 +5285,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Kick",
-        "unique_entry_id": "jTBhNGbMyJT25JcFW"
+        "unique_entry_id": "jTBhNGbMyJT25JcFW",
+        "variant_id": "4_0",
+        "variant_name": "Blue"
     },
     {
         "body_category": "Color",
@@ -4972,6 +5317,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -4985,7 +5331,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Kick",
-        "unique_entry_id": "SnXZijYWJPyywzceB"
+        "unique_entry_id": "SnXZijYWJPyywzceB",
+        "variant_id": "5_0",
+        "variant_name": "White"
     },
     {
         "body_category": "Color",
@@ -5015,6 +5363,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -5028,7 +5377,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Kick",
-        "unique_entry_id": "ziF4XCu4d6AuHnxrR"
+        "unique_entry_id": "ziF4XCu4d6AuHnxrR",
+        "variant_id": "6_0",
+        "variant_name": "Gray"
     },
     {
         "body_category": "Color",
@@ -5058,6 +5409,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -5071,7 +5423,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Hi-hat",
-        "unique_entry_id": "uqdcnDFeKLM3agHpj"
+        "unique_entry_id": "uqdcnDFeKLM3agHpj",
+        "variant_id": "0_0",
+        "variant_name": "Light Brown"
     },
     {
         "body_category": "Color",
@@ -5101,6 +5455,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -5114,7 +5469,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Hi-hat",
-        "unique_entry_id": "c8gD5b5bJumYEvjJh"
+        "unique_entry_id": "c8gD5b5bJumYEvjJh",
+        "variant_id": "1_0",
+        "variant_name": "Brown"
     },
     {
         "body_category": "Color",
@@ -5144,6 +5501,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -5157,7 +5515,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Hi-hat",
-        "unique_entry_id": "mDhHB5jRyYW583Ds8"
+        "unique_entry_id": "mDhHB5jRyYW583Ds8",
+        "variant_id": "2_0",
+        "variant_name": "Green"
     },
     {
         "body_category": "Color",
@@ -5187,6 +5547,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -5200,7 +5561,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Hi-hat",
-        "unique_entry_id": "uZhmStH2rYAipTGw6"
+        "unique_entry_id": "uZhmStH2rYAipTGw6",
+        "variant_id": "3_0",
+        "variant_name": "Pink"
     },
     {
         "body_category": "Color",
@@ -5230,6 +5593,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -5243,7 +5607,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Hi-hat",
-        "unique_entry_id": "4LBKu9CfFnmuCWF9f"
+        "unique_entry_id": "4LBKu9CfFnmuCWF9f",
+        "variant_id": "4_0",
+        "variant_name": "White"
     },
     {
         "body_category": "Color",
@@ -5273,6 +5639,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -5286,7 +5653,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Hi-hat",
-        "unique_entry_id": "7wqLb9iDPfxNPCQ7J"
+        "unique_entry_id": "7wqLb9iDPfxNPCQ7J",
+        "variant_id": "0_0",
+        "variant_name": "Green"
     },
     {
         "body_category": "Color",
@@ -5316,6 +5685,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -5329,7 +5699,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Hi-hat",
-        "unique_entry_id": "fpWbxosn7wCN7D69x"
+        "unique_entry_id": "fpWbxosn7wCN7D69x",
+        "variant_id": "1_0",
+        "variant_name": "Orange"
     },
     {
         "body_category": "Color",
@@ -5359,6 +5731,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -5372,7 +5745,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Hi-hat",
-        "unique_entry_id": "qRynut9Adq235zZNf"
+        "unique_entry_id": "qRynut9Adq235zZNf",
+        "variant_id": "2_0",
+        "variant_name": "Brown"
     },
     {
         "body_category": "Color",
@@ -5402,6 +5777,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -5415,7 +5791,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Hi-hat",
-        "unique_entry_id": "gGZdx5ewXg4y7H5h3"
+        "unique_entry_id": "gGZdx5ewXg4y7H5h3",
+        "variant_id": "3_0",
+        "variant_name": "Light Green"
     },
     {
         "body_category": "Color",
@@ -5445,6 +5823,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -5458,7 +5837,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Hi-hat",
-        "unique_entry_id": "qDPHppg6AHoCtXoxg"
+        "unique_entry_id": "qDPHppg6AHoCtXoxg",
+        "variant_id": "4_0",
+        "variant_name": "Blue"
     },
     {
         "body_category": "Color",
@@ -5488,6 +5869,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -5501,7 +5883,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Hi-hat",
-        "unique_entry_id": "hsERyTLqcNS9Q9vFS"
+        "unique_entry_id": "hsERyTLqcNS9Q9vFS",
+        "variant_id": "5_0",
+        "variant_name": "Camel"
     },
     {
         "body_category": "Color",
@@ -5531,6 +5915,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -5544,7 +5929,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Hi-hat",
-        "unique_entry_id": "fobHgEXsH5jZHTbAM"
+        "unique_entry_id": "fobHgEXsH5jZHTbAM",
+        "variant_id": "6_0",
+        "variant_name": "Gray"
     },
     {
         "body_category": "Color",
@@ -5574,6 +5961,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -5587,7 +5975,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Snare",
-        "unique_entry_id": "izp6P8ee5aoQDoDtj"
+        "unique_entry_id": "izp6P8ee5aoQDoDtj",
+        "variant_id": "0_0",
+        "variant_name": "Camel"
     },
     {
         "body_category": "Color",
@@ -5617,6 +6007,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -5630,7 +6021,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Snare",
-        "unique_entry_id": "QQtuywNY4nKtwuyXR"
+        "unique_entry_id": "QQtuywNY4nKtwuyXR",
+        "variant_id": "1_0",
+        "variant_name": "Green"
     },
     {
         "body_category": "Color",
@@ -5660,6 +6053,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -5673,7 +6067,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Snare",
-        "unique_entry_id": "gzmYYERemNzmgS4jo"
+        "unique_entry_id": "gzmYYERemNzmgS4jo",
+        "variant_id": "2_0",
+        "variant_name": "Red"
     },
     {
         "body_category": "Color",
@@ -5703,6 +6099,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -5716,7 +6113,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Snare",
-        "unique_entry_id": "L96gQcAnqNFzA7kQZ"
+        "unique_entry_id": "L96gQcAnqNFzA7kQZ",
+        "variant_id": "3_0",
+        "variant_name": "Blue"
     },
     {
         "body_category": "Color",
@@ -5746,6 +6145,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -5759,7 +6159,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "eYCP55udxWgnRCuNH"
+        "unique_entry_id": "eYCP55udxWgnRCuNH",
+        "variant_id": "0_0",
+        "variant_name": "Yellow"
     },
     {
         "body_category": "Color",
@@ -5789,6 +6191,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -5802,7 +6205,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "unhzZtbYT7eecDwLv"
+        "unique_entry_id": "unhzZtbYT7eecDwLv",
+        "variant_id": "1_0",
+        "variant_name": "White"
     },
     {
         "body_category": "Color",
@@ -5832,6 +6237,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -5845,7 +6251,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "tahFmnPKvGPPivbfy"
+        "unique_entry_id": "tahFmnPKvGPPivbfy",
+        "variant_id": "2_0",
+        "variant_name": "Brown"
     },
     {
         "body_category": "Color",
@@ -5875,6 +6283,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -5888,7 +6297,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "SmYTnQkSYc7n3WLLs"
+        "unique_entry_id": "SmYTnQkSYc7n3WLLs",
+        "variant_id": "3_0",
+        "variant_name": "Pink"
     },
     {
         "body_category": "Color",
@@ -5918,6 +6329,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -5931,7 +6343,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "GnhxiXe9qGT3cgn5L"
+        "unique_entry_id": "GnhxiXe9qGT3cgn5L",
+        "variant_id": "4_0",
+        "variant_name": "Blue"
     },
     {
         "body_category": "Color",
@@ -5961,6 +6375,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -5974,7 +6389,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Hi-hat",
-        "unique_entry_id": "SGpxaN9kgJpZ2hba7"
+        "unique_entry_id": "SGpxaN9kgJpZ2hba7",
+        "variant_id": "0_0",
+        "variant_name": "Beige"
     },
     {
         "body_category": "Color",
@@ -6004,6 +6421,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -6017,7 +6435,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Hi-hat",
-        "unique_entry_id": "WrWB42QYBEMsaxGaR"
+        "unique_entry_id": "WrWB42QYBEMsaxGaR",
+        "variant_id": "1_0",
+        "variant_name": "Yellow"
     },
     {
         "body_category": "Color",
@@ -6047,6 +6467,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -6060,7 +6481,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Hi-hat",
-        "unique_entry_id": "28KjoqrjgtpKs9PdN"
+        "unique_entry_id": "28KjoqrjgtpKs9PdN",
+        "variant_id": "2_0",
+        "variant_name": "Pink"
     },
     {
         "body_category": "Color",
@@ -6090,6 +6513,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -6103,7 +6527,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Hi-hat",
-        "unique_entry_id": "EmAhuAb3RWdnnWPcr"
+        "unique_entry_id": "EmAhuAb3RWdnnWPcr",
+        "variant_id": "3_0",
+        "variant_name": "Blue"
     },
     {
         "body_category": "Color",
@@ -6133,6 +6559,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -6146,7 +6573,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Hi-hat",
-        "unique_entry_id": "xXAgKWMoxgmc9ExLA"
+        "unique_entry_id": "xXAgKWMoxgmc9ExLA",
+        "variant_id": "4_0",
+        "variant_name": "White"
     },
     {
         "body_category": "Color",
@@ -6176,6 +6605,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -6189,7 +6619,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Hi-hat",
-        "unique_entry_id": "JdKRPgvRE4MKKzwkX"
+        "unique_entry_id": "JdKRPgvRE4MKKzwkX",
+        "variant_id": "5_0",
+        "variant_name": "Black"
     },
     {
         "body_category": "Color",
@@ -6219,6 +6651,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -6232,7 +6665,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Crash",
-        "unique_entry_id": "Ju5Lizt89WDsngGXg"
+        "unique_entry_id": "Ju5Lizt89WDsngGXg",
+        "variant_id": "0_0",
+        "variant_name": "Green"
     },
     {
         "body_category": "Color",
@@ -6262,6 +6697,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -6275,7 +6711,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Crash",
-        "unique_entry_id": "c6dspWAnLKbhTWmQ7"
+        "unique_entry_id": "c6dspWAnLKbhTWmQ7",
+        "variant_id": "1_0",
+        "variant_name": "Yellow"
     },
     {
         "body_category": "Color",
@@ -6305,6 +6743,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -6318,7 +6757,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Crash",
-        "unique_entry_id": "XEeNcKzHy3puyiwcM"
+        "unique_entry_id": "XEeNcKzHy3puyiwcM",
+        "variant_id": "2_0",
+        "variant_name": "Blue"
     },
     {
         "body_category": "Color",
@@ -6348,6 +6789,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -6361,7 +6803,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Crash",
-        "unique_entry_id": "JDiZmMYwd8EN8rCpB"
+        "unique_entry_id": "JDiZmMYwd8EN8rCpB",
+        "variant_id": "3_0",
+        "variant_name": "White"
     },
     {
         "body_category": "Color",
@@ -6391,6 +6835,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -6404,7 +6849,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Crash",
-        "unique_entry_id": "99n8GEX2zCEkaPqjc"
+        "unique_entry_id": "99n8GEX2zCEkaPqjc",
+        "variant_id": "4_0",
+        "variant_name": "Black"
     },
     {
         "body_category": "Color",
@@ -6434,6 +6881,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -6447,7 +6895,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Kick",
-        "unique_entry_id": "RkSNMk3vQqZPMxnTd"
+        "unique_entry_id": "RkSNMk3vQqZPMxnTd",
+        "variant_id": "0_0",
+        "variant_name": "Pink"
     },
     {
         "body_category": "Color",
@@ -6477,6 +6927,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -6490,7 +6941,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Kick",
-        "unique_entry_id": "hoPPafWBSt4dFPqww"
+        "unique_entry_id": "hoPPafWBSt4dFPqww",
+        "variant_id": "1_0",
+        "variant_name": "Beige"
     },
     {
         "body_category": "Color",
@@ -6520,6 +6973,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -6533,7 +6987,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Kick",
-        "unique_entry_id": "xB9xcd3YbgkeTyHxs"
+        "unique_entry_id": "xB9xcd3YbgkeTyHxs",
+        "variant_id": "2_0",
+        "variant_name": "Green"
     },
     {
         "body_category": "Color",
@@ -6563,6 +7019,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -6576,7 +7033,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Kick",
-        "unique_entry_id": "k9qheXA3nekhxK7qN"
+        "unique_entry_id": "k9qheXA3nekhxK7qN",
+        "variant_id": "3_0",
+        "variant_name": "Gray"
     },
     {
         "body_category": "Color",
@@ -6606,6 +7065,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -6619,7 +7079,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "vgkd37jWYPAuTf45e"
+        "unique_entry_id": "vgkd37jWYPAuTf45e",
+        "variant_id": "0_0",
+        "variant_name": "Pop"
     },
     {
         "body_category": "Color",
@@ -6649,6 +7111,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -6662,7 +7125,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "Fo8YKMc7tve2xEEFb"
+        "unique_entry_id": "Fo8YKMc7tve2xEEFb",
+        "variant_id": "1_0",
+        "variant_name": "Natural"
     },
     {
         "body_category": "Color",
@@ -6692,6 +7157,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -6705,7 +7171,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "tar6Q5dianc9z7tWE"
+        "unique_entry_id": "tar6Q5dianc9z7tWE",
+        "variant_id": "2_0",
+        "variant_name": "Cool"
     },
     {
         "body_category": "Color",
@@ -6735,6 +7203,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -6748,7 +7217,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "yoqhTXby3wpDPN3Wg"
+        "unique_entry_id": "yoqhTXby3wpDPN3Wg",
+        "variant_id": "3_0",
+        "variant_name": "Cute"
     },
     {
         "body_category": "Color",
@@ -6778,6 +7249,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -6791,7 +7263,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "g86Kc4SgpX3MXvYcn"
+        "unique_entry_id": "g86Kc4SgpX3MXvYcn",
+        "variant_id": "4_0",
+        "variant_name": "Chic"
     },
     {
         "body_category": "Color",
@@ -6821,6 +7295,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -6834,7 +7309,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "x3FLSndkAMvtkQDT5"
+        "unique_entry_id": "x3FLSndkAMvtkQDT5",
+        "variant_id": "0_0",
+        "variant_name": "Blue"
     },
     {
         "body_category": "Color",
@@ -6864,6 +7341,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -6877,7 +7355,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "292St2TCXP2e4FB6s"
+        "unique_entry_id": "292St2TCXP2e4FB6s",
+        "variant_id": "1_0",
+        "variant_name": "Yellow"
     },
     {
         "body_category": "Color",
@@ -6907,6 +7387,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -6920,7 +7401,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "bsojZ7Nso77tSGNLF"
+        "unique_entry_id": "bsojZ7Nso77tSGNLF",
+        "variant_id": "2_0",
+        "variant_name": "Green"
     },
     {
         "body_category": "Color",
@@ -6950,6 +7433,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -6963,7 +7447,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "iuCGmtkroEd7w3yGB"
+        "unique_entry_id": "iuCGmtkroEd7w3yGB",
+        "variant_id": "3_0",
+        "variant_name": "Purple"
     },
     {
         "body_category": "Color",
@@ -6993,6 +7479,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -7006,7 +7493,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "qkZtMnBgpF6h2HX96"
+        "unique_entry_id": "qkZtMnBgpF6h2HX96",
+        "variant_id": "4_0",
+        "variant_name": "White"
     },
     {
         "body_category": "Color",
@@ -7036,6 +7525,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -7049,7 +7539,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "mQmNuA8udomfPdMyM"
+        "unique_entry_id": "mQmNuA8udomfPdMyM",
+        "variant_id": "0_0",
+        "variant_name": "Brown"
     },
     {
         "body_category": "Color",
@@ -7079,6 +7571,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -7092,7 +7585,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "WoxSqB5oFXXF485hC"
+        "unique_entry_id": "WoxSqB5oFXXF485hC",
+        "variant_id": "1_0",
+        "variant_name": "Yellow"
     },
     {
         "body_category": "Color",
@@ -7122,6 +7617,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -7135,7 +7631,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "DC23XDgR8vZevdkva"
+        "unique_entry_id": "DC23XDgR8vZevdkva",
+        "variant_id": "2_0",
+        "variant_name": "Green"
     },
     {
         "body_category": "Color",
@@ -7165,6 +7663,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -7178,7 +7677,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "qRSyqQt3Qmub68cyY"
+        "unique_entry_id": "qRSyqQt3Qmub68cyY",
+        "variant_id": "3_0",
+        "variant_name": "Blue"
     },
     {
         "body_category": "Color",
@@ -7208,6 +7709,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -7221,7 +7723,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "ZB5Q5hq8QQ2SKWBfJ"
+        "unique_entry_id": "ZB5Q5hq8QQ2SKWBfJ",
+        "variant_id": "4_0",
+        "variant_name": "Black"
     },
     {
         "body_category": "Color",
@@ -7251,6 +7755,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -7264,7 +7769,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Drum set",
-        "unique_entry_id": "XuJSMaA3duE3PCpcy"
+        "unique_entry_id": "XuJSMaA3duE3PCpcy",
+        "variant_id": "0_0",
+        "variant_name": "Camel"
     },
     {
         "body_category": "Color",
@@ -7294,6 +7801,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -7307,7 +7815,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Drum set",
-        "unique_entry_id": "qZaCGLDMsccBoS4hG"
+        "unique_entry_id": "qZaCGLDMsccBoS4hG",
+        "variant_id": "1_0",
+        "variant_name": "Brown"
     },
     {
         "body_category": "Color",
@@ -7337,6 +7847,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -7350,7 +7861,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Drum set",
-        "unique_entry_id": "hWyFMenaNriQJ7p5b"
+        "unique_entry_id": "hWyFMenaNriQJ7p5b",
+        "variant_id": "2_0",
+        "variant_name": "Green"
     },
     {
         "body_category": "Color",
@@ -7380,6 +7893,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -7393,7 +7907,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Drum set",
-        "unique_entry_id": "zfgGWbLjYKkkomPEH"
+        "unique_entry_id": "zfgGWbLjYKkkomPEH",
+        "variant_id": "3_0",
+        "variant_name": "Blue"
     },
     {
         "body_category": "Color",
@@ -7423,6 +7939,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -7436,7 +7953,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Drum set",
-        "unique_entry_id": "eBmgYB9BNTSGGRQS3"
+        "unique_entry_id": "eBmgYB9BNTSGGRQS3",
+        "variant_id": "4_0",
+        "variant_name": "White"
     },
     {
         "body_category": "Color",
@@ -7466,6 +7985,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -7479,7 +7999,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Drum set",
-        "unique_entry_id": "xotcjsMf53SQ29aDf"
+        "unique_entry_id": "xotcjsMf53SQ29aDf",
+        "variant_id": "5_0",
+        "variant_name": "Black"
     },
     {
         "body_category": "Color",
@@ -7509,6 +8031,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -7522,7 +8045,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Drum set",
-        "unique_entry_id": "vmvaJpxu3Fn4ajdfK"
+        "unique_entry_id": "vmvaJpxu3Fn4ajdfK",
+        "variant_id": "0_0",
+        "variant_name": "Blue"
     },
     {
         "body_category": "Color",
@@ -7552,6 +8077,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -7565,7 +8091,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Drum set",
-        "unique_entry_id": "7EuhpxDDrpzggXZjm"
+        "unique_entry_id": "7EuhpxDDrpzggXZjm",
+        "variant_id": "1_0",
+        "variant_name": "Red"
     },
     {
         "body_category": "Color",
@@ -7595,6 +8123,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -7608,7 +8137,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Drum set",
-        "unique_entry_id": "Qix3oTA2REPSSRt2Z"
+        "unique_entry_id": "Qix3oTA2REPSSRt2Z",
+        "variant_id": "2_0",
+        "variant_name": "Gold"
     },
     {
         "body_category": "Color",
@@ -7638,6 +8169,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -7651,7 +8183,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Drum set",
-        "unique_entry_id": "JR7hnbShE9McLoThT"
+        "unique_entry_id": "JR7hnbShE9McLoThT",
+        "variant_id": "3_0",
+        "variant_name": "Silver"
     },
     {
         "body_category": "Color",
@@ -7681,6 +8215,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -7694,7 +8229,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "Dx4Sog9gFTaCjtjJQ"
+        "unique_entry_id": "Dx4Sog9gFTaCjtjJQ",
+        "variant_id": "0_0",
+        "variant_name": "Blue"
     },
     {
         "body_category": "Color",
@@ -7724,6 +8261,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -7737,7 +8275,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "yLrmxceegmPpxfSu7"
+        "unique_entry_id": "yLrmxceegmPpxfSu7",
+        "variant_id": "1_0",
+        "variant_name": "Brown"
     },
     {
         "body_category": "Color",
@@ -7767,6 +8307,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -7780,7 +8321,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "SZ7anchqB2suN8SKj"
+        "unique_entry_id": "SZ7anchqB2suN8SKj",
+        "variant_id": "2_0",
+        "variant_name": "Yellow"
     },
     {
         "body_category": "Color",
@@ -7810,6 +8353,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -7823,7 +8367,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "PeGr2ce8BNW7q6G64"
+        "unique_entry_id": "PeGr2ce8BNW7q6G64",
+        "variant_id": "3_0",
+        "variant_name": "Green"
     },
     {
         "body_category": "Color",
@@ -7853,6 +8399,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -7866,7 +8413,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "e7QSeTQ4dJnQuWcJ6"
+        "unique_entry_id": "e7QSeTQ4dJnQuWcJ6",
+        "variant_id": "4_0",
+        "variant_name": "Pink"
     },
     {
         "body_category": "Color",
@@ -7896,6 +8445,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -7909,7 +8459,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "qG2qzyEwT97mS9CLL"
+        "unique_entry_id": "qG2qzyEwT97mS9CLL",
+        "variant_id": "5_0",
+        "variant_name": "White"
     },
     {
         "body_category": "Color",
@@ -7939,6 +8491,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -7952,7 +8505,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "nEot8dYGCy7exGuaA"
+        "unique_entry_id": "nEot8dYGCy7exGuaA",
+        "variant_id": "0_0",
+        "variant_name": "Yellow"
     },
     {
         "body_category": "Color",
@@ -7982,6 +8537,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -7995,7 +8551,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "pFA6oQgA5CFYSbje6"
+        "unique_entry_id": "pFA6oQgA5CFYSbje6",
+        "variant_id": "1_0",
+        "variant_name": "Blue"
     },
     {
         "body_category": "Color",
@@ -8025,6 +8583,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -8038,7 +8597,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "PbxGNexhtrJXCWBP7"
+        "unique_entry_id": "PbxGNexhtrJXCWBP7",
+        "variant_id": "2_0",
+        "variant_name": "Pink"
     },
     {
         "body_category": "Color",
@@ -8068,6 +8629,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -8081,7 +8643,9 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "27huQwjK8BSR3b87Y"
+        "unique_entry_id": "27huQwjK8BSR3b87Y",
+        "variant_id": "3_0",
+        "variant_name": "White"
     },
     {
         "body_category": "Color",
@@ -8111,6 +8675,7 @@
         "is_craftable": false,
         "is_interactive": true,
         "is_outdoors": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "kit_category": "Normal",
         "kit_currency": "Bells",
@@ -8124,6 +8689,8 @@
         "size_1": 1.0,
         "size_2": 1.0,
         "sound_category": "Melody",
-        "unique_entry_id": "Kt2cGKRAwAtzQPQ4N"
+        "unique_entry_id": "Kt2cGKRAwAtzQPQ4N",
+        "variant_id": "4_0",
+        "variant_name": "Brown"
     }
 ]

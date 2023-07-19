@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 41,
-    "minProperties": 41,
+    "maxProperties": 44,
+    "minProperties": 44,
     "properties": {
         "body_category": {
             "maxLength": 13,
@@ -204,6 +204,11 @@
                 "boolean"
             ]
         },
+        "is_seasonal": {
+            "type": [
+                "boolean"
+            ]
+        },
         "is_unlocked": {
             "type": [
                 "boolean"
@@ -306,6 +311,22 @@
             "type": [
                 "string"
             ]
+        },
+        "variant_id": {
+            "maxLength": 3,
+            "minLength": 3,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "variant_name": {
+            "maxLength": 25,
+            "minLength": 1,
+            "type": [
+                "null",
+                "string"
+            ]
         }
     },
     "required": [
@@ -337,6 +358,7 @@
         "is_door_decoration",
         "is_interactive",
         "is_outdoors",
+        "is_seasonal",
         "is_unlocked",
         "kit_category",
         "kit_currency",
@@ -349,7 +371,9 @@
         "sell_price",
         "size_1",
         "size_2",
-        "unique_entry_id"
+        "unique_entry_id",
+        "variant_id",
+        "variant_name"
     ],
     "title": "FurnitureWallMounted",
     "type": "object"

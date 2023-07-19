@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 44,
-    "minProperties": 44,
+    "maxProperties": 47,
+    "minProperties": 47,
     "properties": {
         "body_category": {
             "maxLength": 19,
@@ -221,6 +221,11 @@
                 "boolean"
             ]
         },
+        "is_seasonal": {
+            "type": [
+                "boolean"
+            ]
+        },
         "is_surface": {
             "type": [
                 "boolean"
@@ -336,6 +341,22 @@
             "type": [
                 "string"
             ]
+        },
+        "variant_id": {
+            "maxLength": 3,
+            "minLength": 3,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "variant_name": {
+            "maxLength": 27,
+            "minLength": 3,
+            "type": [
+                "null",
+                "string"
+            ]
         }
     },
     "required": [
@@ -368,6 +389,7 @@
         "is_craftable",
         "is_interactive",
         "is_outdoors",
+        "is_seasonal",
         "is_surface",
         "is_unlocked",
         "kit_category",
@@ -382,7 +404,9 @@
         "size_1",
         "size_2",
         "speaker_category",
-        "unique_entry_id"
+        "unique_entry_id",
+        "variant_id",
+        "variant_name"
     ],
     "title": "FurnitureMiscellaneous",
     "type": "object"

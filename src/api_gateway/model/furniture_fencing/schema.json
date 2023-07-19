@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 23,
-    "minProperties": 23,
+    "maxProperties": 26,
+    "minProperties": 26,
     "properties": {
         "body_category": {
             "maxLength": 15,
@@ -105,6 +105,11 @@
                 "boolean"
             ]
         },
+        "is_seasonal": {
+            "type": [
+                "boolean"
+            ]
+        },
         "is_unlocked": {
             "type": [
                 "boolean"
@@ -165,6 +170,22 @@
             "type": [
                 "string"
             ]
+        },
+        "variant_id": {
+            "maxLength": 3,
+            "minLength": 3,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "variant_name": {
+            "maxLength": 14,
+            "minLength": 3,
+            "type": [
+                "null",
+                "string"
+            ]
         }
     },
     "required": [
@@ -183,6 +204,7 @@
         "internal_label",
         "internal_name",
         "is_craftable",
+        "is_seasonal",
         "is_unlocked",
         "kit_category",
         "kit_currency",
@@ -190,7 +212,9 @@
         "name",
         "sell_currency",
         "sell_price",
-        "unique_entry_id"
+        "unique_entry_id",
+        "variant_id",
+        "variant_name"
     ],
     "title": "FurnitureFencing",
     "type": "object"

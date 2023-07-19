@@ -46,6 +46,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -69,6 +72,12 @@
             },
             "unique_entry_id": {
                 "S": "XaLnmQsQ47HfHQ9g5"
+            },
+            "variant_id": {
+                "NULL": true
+            },
+            "variant_name": {
+                "NULL": true
             }
         },
         "TableName": "furniture_fencing"
@@ -120,6 +129,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -143,6 +155,12 @@
             },
             "unique_entry_id": {
                 "S": "ziM6qEMjHMDPruzz6"
+            },
+            "variant_id": {
+                "NULL": true
+            },
+            "variant_name": {
+                "NULL": true
             }
         },
         "TableName": "furniture_fencing"
@@ -194,6 +212,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -217,6 +238,12 @@
             },
             "unique_entry_id": {
                 "S": "dNgibaR9jFqaDwuDZ"
+            },
+            "variant_id": {
+                "NULL": true
+            },
+            "variant_name": {
+                "NULL": true
             }
         },
         "TableName": "furniture_fencing"
@@ -268,6 +295,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -291,6 +321,12 @@
             },
             "unique_entry_id": {
                 "S": "mKD2vgrBbXSNNPGJ4"
+            },
+            "variant_id": {
+                "NULL": true
+            },
+            "variant_name": {
+                "NULL": true
             }
         },
         "TableName": "furniture_fencing"
@@ -342,6 +378,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -365,6 +404,12 @@
             },
             "unique_entry_id": {
                 "S": "WAzanA7e5MREzJdMh"
+            },
+            "variant_id": {
+                "NULL": true
+            },
+            "variant_name": {
+                "NULL": true
             }
         },
         "TableName": "furniture_fencing"
@@ -416,6 +461,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": true
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -439,6 +487,12 @@
             },
             "unique_entry_id": {
                 "S": "CLQGhAfSNykpxrh3a"
+            },
+            "variant_id": {
+                "NULL": true
+            },
+            "variant_name": {
+                "NULL": true
             }
         },
         "TableName": "furniture_fencing"
@@ -490,6 +544,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -513,6 +570,12 @@
             },
             "unique_entry_id": {
                 "S": "rqwqYy7Aphvh5zBSA"
+            },
+            "variant_id": {
+                "NULL": true
+            },
+            "variant_name": {
+                "NULL": true
             }
         },
         "TableName": "furniture_fencing"
@@ -564,6 +627,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -587,6 +653,12 @@
             },
             "unique_entry_id": {
                 "S": "sbRoLarfMrE5YkCL9"
+            },
+            "variant_id": {
+                "S": "0_0"
+            },
+            "variant_name": {
+                "S": "Gray"
             }
         },
         "TableName": "furniture_fencing"
@@ -638,6 +710,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -661,6 +736,12 @@
             },
             "unique_entry_id": {
                 "S": "tH2nZ6dspXXTRZ65A"
+            },
+            "variant_id": {
+                "S": "1_0"
+            },
+            "variant_name": {
+                "S": "Yellow"
             }
         },
         "TableName": "furniture_fencing"
@@ -712,6 +793,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -735,6 +819,12 @@
             },
             "unique_entry_id": {
                 "S": "bxWiSjQEdzwvHJGXH"
+            },
+            "variant_id": {
+                "S": "2_0"
+            },
+            "variant_name": {
+                "S": "Green"
             }
         },
         "TableName": "furniture_fencing"
@@ -786,6 +876,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -809,6 +902,12 @@
             },
             "unique_entry_id": {
                 "S": "ZNwYpAk3yKtvcYb5t"
+            },
+            "variant_id": {
+                "S": "3_0"
+            },
+            "variant_name": {
+                "S": "Blue"
             }
         },
         "TableName": "furniture_fencing"
@@ -860,6 +959,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -883,6 +985,12 @@
             },
             "unique_entry_id": {
                 "S": "b4wCAGpeiKNQKn2tN"
+            },
+            "variant_id": {
+                "S": "4_0"
+            },
+            "variant_name": {
+                "S": "Red"
             }
         },
         "TableName": "furniture_fencing"
@@ -934,6 +1042,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -957,6 +1068,12 @@
             },
             "unique_entry_id": {
                 "S": "taWDpCYbwtnxqr68T"
+            },
+            "variant_id": {
+                "S": "5_0"
+            },
+            "variant_name": {
+                "S": "White"
             }
         },
         "TableName": "furniture_fencing"
@@ -1008,6 +1125,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -1031,6 +1151,12 @@
             },
             "unique_entry_id": {
                 "S": "Q9aQS7h5HtJ5jEZQq"
+            },
+            "variant_id": {
+                "S": "6_0"
+            },
+            "variant_name": {
+                "S": "Black"
             }
         },
         "TableName": "furniture_fencing"
@@ -1082,6 +1208,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -1105,6 +1234,12 @@
             },
             "unique_entry_id": {
                 "S": "TsjJXwxTniq3FWZnR"
+            },
+            "variant_id": {
+                "S": "7_0"
+            },
+            "variant_name": {
+                "S": "Brown"
             }
         },
         "TableName": "furniture_fencing"
@@ -1156,6 +1291,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -1179,6 +1317,12 @@
             },
             "unique_entry_id": {
                 "S": "twwkbWJ8YsoJEy3j8"
+            },
+            "variant_id": {
+                "NULL": true
+            },
+            "variant_name": {
+                "NULL": true
             }
         },
         "TableName": "furniture_fencing"
@@ -1230,6 +1374,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": true
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -1253,6 +1400,12 @@
             },
             "unique_entry_id": {
                 "S": "ECXSEhvtE5XqvDLdW"
+            },
+            "variant_id": {
+                "S": "0_0"
+            },
+            "variant_name": {
+                "S": "Ice"
             }
         },
         "TableName": "furniture_fencing"
@@ -1304,6 +1457,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": true
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -1327,6 +1483,12 @@
             },
             "unique_entry_id": {
                 "S": "kEgodfCvnHHwz9rdj"
+            },
+            "variant_id": {
+                "S": "1_0"
+            },
+            "variant_name": {
+                "S": "Ice Blue"
             }
         },
         "TableName": "furniture_fencing"
@@ -1378,6 +1540,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": true
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -1401,6 +1566,12 @@
             },
             "unique_entry_id": {
                 "S": "gpnuvutoCkkMppzxz"
+            },
+            "variant_id": {
+                "S": "2_0"
+            },
+            "variant_name": {
+                "S": "Ice Pink"
             }
         },
         "TableName": "furniture_fencing"
@@ -1452,6 +1623,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": true
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -1475,6 +1649,12 @@
             },
             "unique_entry_id": {
                 "S": "qvbWqne5MX4Ddrdvn"
+            },
+            "variant_id": {
+                "S": "3_0"
+            },
+            "variant_name": {
+                "S": "Ice Yellow"
             }
         },
         "TableName": "furniture_fencing"
@@ -1526,6 +1706,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": true
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -1549,6 +1732,12 @@
             },
             "unique_entry_id": {
                 "S": "nkFQQ4hRxxRHF38DD"
+            },
+            "variant_id": {
+                "S": "4_0"
+            },
+            "variant_name": {
+                "S": "Ice Orange"
             }
         },
         "TableName": "furniture_fencing"
@@ -1600,6 +1789,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": true
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -1623,6 +1815,12 @@
             },
             "unique_entry_id": {
                 "S": "Cq4BQyuvbqHvzDy8y"
+            },
+            "variant_id": {
+                "S": "5_0"
+            },
+            "variant_name": {
+                "S": "Ice Green"
             }
         },
         "TableName": "furniture_fencing"
@@ -1674,6 +1872,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": true
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -1697,6 +1898,12 @@
             },
             "unique_entry_id": {
                 "S": "mGFKRECMp9YowP2Tv"
+            },
+            "variant_id": {
+                "S": "6_0"
+            },
+            "variant_name": {
+                "S": "Ice Purple"
             }
         },
         "TableName": "furniture_fencing"
@@ -1748,6 +1955,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -1771,6 +1981,12 @@
             },
             "unique_entry_id": {
                 "S": "LhbRFhRy7eQiPbcSZ"
+            },
+            "variant_id": {
+                "NULL": true
+            },
+            "variant_name": {
+                "NULL": true
             }
         },
         "TableName": "furniture_fencing"
@@ -1822,6 +2038,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -1845,6 +2064,12 @@
             },
             "unique_entry_id": {
                 "S": "TphLYSh2MdogHdheg"
+            },
+            "variant_id": {
+                "NULL": true
+            },
+            "variant_name": {
+                "NULL": true
             }
         },
         "TableName": "furniture_fencing"
@@ -1896,6 +2121,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -1919,6 +2147,12 @@
             },
             "unique_entry_id": {
                 "S": "fHqt7TXfbhfKnPbwG"
+            },
+            "variant_id": {
+                "NULL": true
+            },
+            "variant_name": {
+                "NULL": true
             }
         },
         "TableName": "furniture_fencing"
@@ -1970,6 +2204,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -1993,6 +2230,12 @@
             },
             "unique_entry_id": {
                 "S": "RL5hL24NbwzE7zv3R"
+            },
+            "variant_id": {
+                "S": "0_0"
+            },
+            "variant_name": {
+                "S": "Light Blue"
             }
         },
         "TableName": "furniture_fencing"
@@ -2044,6 +2287,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -2067,6 +2313,12 @@
             },
             "unique_entry_id": {
                 "S": "MQmNibiLC5ujWPTjP"
+            },
+            "variant_id": {
+                "S": "1_0"
+            },
+            "variant_name": {
+                "S": "Red"
             }
         },
         "TableName": "furniture_fencing"
@@ -2118,6 +2370,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -2141,6 +2396,12 @@
             },
             "unique_entry_id": {
                 "S": "HEZZxvoKnMYyTRCeL"
+            },
+            "variant_id": {
+                "S": "2_0"
+            },
+            "variant_name": {
+                "S": "Green"
             }
         },
         "TableName": "furniture_fencing"
@@ -2192,6 +2453,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -2215,6 +2479,12 @@
             },
             "unique_entry_id": {
                 "S": "dBoh8bTZLMfGJ44MX"
+            },
+            "variant_id": {
+                "S": "3_0"
+            },
+            "variant_name": {
+                "S": "Yellow"
             }
         },
         "TableName": "furniture_fencing"
@@ -2266,6 +2536,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -2289,6 +2562,12 @@
             },
             "unique_entry_id": {
                 "S": "abxXLg4FGa52zwAA6"
+            },
+            "variant_id": {
+                "S": "4_0"
+            },
+            "variant_name": {
+                "S": "Blue"
             }
         },
         "TableName": "furniture_fencing"
@@ -2340,6 +2619,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -2363,6 +2645,12 @@
             },
             "unique_entry_id": {
                 "S": "rJyoLsjrqB3j2Nwdt"
+            },
+            "variant_id": {
+                "S": "5_0"
+            },
+            "variant_name": {
+                "S": "Orange"
             }
         },
         "TableName": "furniture_fencing"
@@ -2414,6 +2702,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -2437,6 +2728,12 @@
             },
             "unique_entry_id": {
                 "S": "3hjxsDtdySLQGH5Ec"
+            },
+            "variant_id": {
+                "S": "6_0"
+            },
+            "variant_name": {
+                "S": "White"
             }
         },
         "TableName": "furniture_fencing"
@@ -2488,6 +2785,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -2511,6 +2811,12 @@
             },
             "unique_entry_id": {
                 "S": "dtP7xARX2PdA7RtTx"
+            },
+            "variant_id": {
+                "S": "7_0"
+            },
+            "variant_name": {
+                "S": "Black"
             }
         },
         "TableName": "furniture_fencing"
@@ -2562,6 +2868,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -2585,6 +2894,12 @@
             },
             "unique_entry_id": {
                 "S": "kjSa4R6JQz2DtWQ2C"
+            },
+            "variant_id": {
+                "NULL": true
+            },
+            "variant_name": {
+                "NULL": true
             }
         },
         "TableName": "furniture_fencing"
@@ -2636,6 +2951,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -2659,6 +2977,12 @@
             },
             "unique_entry_id": {
                 "S": "wABzTyF5CaorKLJq4"
+            },
+            "variant_id": {
+                "S": "0_0"
+            },
+            "variant_name": {
+                "S": "Natural"
             }
         },
         "TableName": "furniture_fencing"
@@ -2710,6 +3034,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -2733,6 +3060,12 @@
             },
             "unique_entry_id": {
                 "S": "haq4bAhYphv6KZWAR"
+            },
+            "variant_id": {
+                "S": "1_0"
+            },
+            "variant_name": {
+                "S": "White"
             }
         },
         "TableName": "furniture_fencing"
@@ -2784,6 +3117,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -2807,6 +3143,12 @@
             },
             "unique_entry_id": {
                 "S": "nYAHybQMLgyFoiLRW"
+            },
+            "variant_id": {
+                "S": "2_0"
+            },
+            "variant_name": {
+                "S": "Brown"
             }
         },
         "TableName": "furniture_fencing"
@@ -2858,6 +3200,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -2881,6 +3226,12 @@
             },
             "unique_entry_id": {
                 "S": "tKSabkRhFJePzcoEP"
+            },
+            "variant_id": {
+                "S": "3_0"
+            },
+            "variant_name": {
+                "S": "Black"
             }
         },
         "TableName": "furniture_fencing"
@@ -2932,6 +3283,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -2955,6 +3309,12 @@
             },
             "unique_entry_id": {
                 "S": "w2yhQpiefWQrFjwFJ"
+            },
+            "variant_id": {
+                "S": "4_0"
+            },
+            "variant_name": {
+                "S": "Blue"
             }
         },
         "TableName": "furniture_fencing"
@@ -3006,6 +3366,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -3029,6 +3392,12 @@
             },
             "unique_entry_id": {
                 "S": "AmFmL5pujXKGcPbZn"
+            },
+            "variant_id": {
+                "S": "5_0"
+            },
+            "variant_name": {
+                "S": "Dark Brown"
             }
         },
         "TableName": "furniture_fencing"
@@ -3080,6 +3449,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -3103,6 +3475,12 @@
             },
             "unique_entry_id": {
                 "S": "5DqcA5RgRoDxhDtSk"
+            },
+            "variant_id": {
+                "S": "6_0"
+            },
+            "variant_name": {
+                "S": "Green"
             }
         },
         "TableName": "furniture_fencing"
@@ -3154,6 +3532,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -3177,6 +3558,12 @@
             },
             "unique_entry_id": {
                 "S": "TNLhzsvuSoQ5jd7ac"
+            },
+            "variant_id": {
+                "S": "7_0"
+            },
+            "variant_name": {
+                "S": "Purple"
             }
         },
         "TableName": "furniture_fencing"
@@ -3228,6 +3615,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -3251,6 +3641,12 @@
             },
             "unique_entry_id": {
                 "S": "qBrhYgaCnEiQYouP6"
+            },
+            "variant_id": {
+                "S": "0_0"
+            },
+            "variant_name": {
+                "S": "Natural"
             }
         },
         "TableName": "furniture_fencing"
@@ -3302,6 +3698,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -3325,6 +3724,12 @@
             },
             "unique_entry_id": {
                 "S": "ebx7dWqi7wZaobni3"
+            },
+            "variant_id": {
+                "S": "1_0"
+            },
+            "variant_name": {
+                "S": "White"
             }
         },
         "TableName": "furniture_fencing"
@@ -3376,6 +3781,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -3399,6 +3807,12 @@
             },
             "unique_entry_id": {
                 "S": "fK8rCXmhRdph5aMaq"
+            },
+            "variant_id": {
+                "S": "2_0"
+            },
+            "variant_name": {
+                "S": "Black"
             }
         },
         "TableName": "furniture_fencing"
@@ -3450,6 +3864,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -3473,6 +3890,12 @@
             },
             "unique_entry_id": {
                 "S": "aWJZvPEGR8J2QumhB"
+            },
+            "variant_id": {
+                "S": "3_0"
+            },
+            "variant_name": {
+                "S": "Blue"
             }
         },
         "TableName": "furniture_fencing"
@@ -3524,6 +3947,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -3547,6 +3973,12 @@
             },
             "unique_entry_id": {
                 "S": "NobD4hcBxcfJmQzJp"
+            },
+            "variant_id": {
+                "S": "4_0"
+            },
+            "variant_name": {
+                "S": "Pink"
             }
         },
         "TableName": "furniture_fencing"
@@ -3598,6 +4030,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -3621,6 +4056,12 @@
             },
             "unique_entry_id": {
                 "S": "3E8SKqfFCTxB8re3S"
+            },
+            "variant_id": {
+                "S": "5_0"
+            },
+            "variant_name": {
+                "S": "Light Blue"
             }
         },
         "TableName": "furniture_fencing"
@@ -3672,6 +4113,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -3695,6 +4139,12 @@
             },
             "unique_entry_id": {
                 "S": "Fx3c7yFA8eKfc2BGv"
+            },
+            "variant_id": {
+                "S": "6_0"
+            },
+            "variant_name": {
+                "S": "Yellow"
             }
         },
         "TableName": "furniture_fencing"
@@ -3746,6 +4196,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -3769,6 +4222,12 @@
             },
             "unique_entry_id": {
                 "S": "eNw32m5GGSnw6dGYd"
+            },
+            "variant_id": {
+                "S": "7_0"
+            },
+            "variant_name": {
+                "S": "Purple"
             }
         },
         "TableName": "furniture_fencing"
@@ -3820,6 +4279,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -3843,6 +4305,12 @@
             },
             "unique_entry_id": {
                 "S": "ifuDMxChXr5ZiHGsg"
+            },
+            "variant_id": {
+                "NULL": true
+            },
+            "variant_name": {
+                "NULL": true
             }
         },
         "TableName": "furniture_fencing"
@@ -3894,6 +4362,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -3917,6 +4388,12 @@
             },
             "unique_entry_id": {
                 "S": "SZM2JpYHZwyL58kmw"
+            },
+            "variant_id": {
+                "NULL": true
+            },
+            "variant_name": {
+                "NULL": true
             }
         },
         "TableName": "furniture_fencing"
@@ -3968,6 +4445,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -3991,6 +4471,12 @@
             },
             "unique_entry_id": {
                 "S": "ckHANkPvuKPj7P59Z"
+            },
+            "variant_id": {
+                "NULL": true
+            },
+            "variant_name": {
+                "NULL": true
             }
         },
         "TableName": "furniture_fencing"
@@ -4042,6 +4528,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -4065,6 +4554,12 @@
             },
             "unique_entry_id": {
                 "S": "mutLvn796ZQBRoLhP"
+            },
+            "variant_id": {
+                "S": "0_0"
+            },
+            "variant_name": {
+                "S": "Blue"
             }
         },
         "TableName": "furniture_fencing"
@@ -4116,6 +4611,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -4139,6 +4637,12 @@
             },
             "unique_entry_id": {
                 "S": "LjnqtWXGrmPP5hkRP"
+            },
+            "variant_id": {
+                "S": "1_0"
+            },
+            "variant_name": {
+                "S": "Red"
             }
         },
         "TableName": "furniture_fencing"
@@ -4190,6 +4694,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -4213,6 +4720,12 @@
             },
             "unique_entry_id": {
                 "S": "mGDZJnNrDz73RDXaJ"
+            },
+            "variant_id": {
+                "S": "2_0"
+            },
+            "variant_name": {
+                "S": "Yellow"
             }
         },
         "TableName": "furniture_fencing"
@@ -4264,6 +4777,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -4287,6 +4803,12 @@
             },
             "unique_entry_id": {
                 "S": "vkQbtQ69HGj9HWHBQ"
+            },
+            "variant_id": {
+                "S": "3_0"
+            },
+            "variant_name": {
+                "S": "Lime"
             }
         },
         "TableName": "furniture_fencing"
@@ -4338,6 +4860,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -4361,6 +4886,12 @@
             },
             "unique_entry_id": {
                 "S": "p7G4i7W7KQNKDXLHE"
+            },
+            "variant_id": {
+                "S": "4_0"
+            },
+            "variant_name": {
+                "S": "Pink"
             }
         },
         "TableName": "furniture_fencing"
@@ -4412,6 +4943,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -4435,6 +4969,12 @@
             },
             "unique_entry_id": {
                 "S": "JMxdd29T9qjbGwxKA"
+            },
+            "variant_id": {
+                "S": "5_0"
+            },
+            "variant_name": {
+                "S": "Red & Yellow"
             }
         },
         "TableName": "furniture_fencing"
@@ -4486,6 +5026,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -4509,6 +5052,12 @@
             },
             "unique_entry_id": {
                 "S": "ELM8MNypnp77LoW9D"
+            },
+            "variant_id": {
+                "S": "6_0"
+            },
+            "variant_name": {
+                "S": "Pink & Blue"
             }
         },
         "TableName": "furniture_fencing"
@@ -4560,6 +5109,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -4583,6 +5135,12 @@
             },
             "unique_entry_id": {
                 "S": "7ycs8DgQMnXZ8rafq"
+            },
+            "variant_id": {
+                "S": "7_0"
+            },
+            "variant_name": {
+                "S": "Orange & Green"
             }
         },
         "TableName": "furniture_fencing"
@@ -4634,6 +5192,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -4657,6 +5218,12 @@
             },
             "unique_entry_id": {
                 "S": "TpruAQnqeeYcDxPRj"
+            },
+            "variant_id": {
+                "NULL": true
+            },
+            "variant_name": {
+                "NULL": true
             }
         },
         "TableName": "furniture_fencing"
@@ -4708,6 +5275,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -4731,6 +5301,12 @@
             },
             "unique_entry_id": {
                 "S": "bxF62vutvYBw9BTDT"
+            },
+            "variant_id": {
+                "S": "0_0"
+            },
+            "variant_name": {
+                "S": "Natural"
             }
         },
         "TableName": "furniture_fencing"
@@ -4782,6 +5358,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -4805,6 +5384,12 @@
             },
             "unique_entry_id": {
                 "S": "Kkmjn6BrdDfPz48e2"
+            },
+            "variant_id": {
+                "S": "1_0"
+            },
+            "variant_name": {
+                "S": "White"
             }
         },
         "TableName": "furniture_fencing"
@@ -4856,6 +5441,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -4879,6 +5467,12 @@
             },
             "unique_entry_id": {
                 "S": "tcxM3mJLsQD7YxEs8"
+            },
+            "variant_id": {
+                "S": "2_0"
+            },
+            "variant_name": {
+                "S": "Brown"
             }
         },
         "TableName": "furniture_fencing"
@@ -4930,6 +5524,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -4953,6 +5550,12 @@
             },
             "unique_entry_id": {
                 "S": "vzoHZ9cnv4dipBnfh"
+            },
+            "variant_id": {
+                "S": "3_0"
+            },
+            "variant_name": {
+                "S": "Black"
             }
         },
         "TableName": "furniture_fencing"
@@ -5004,6 +5607,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -5027,6 +5633,12 @@
             },
             "unique_entry_id": {
                 "S": "MC7D4yBEzoS6eLtkD"
+            },
+            "variant_id": {
+                "S": "4_0"
+            },
+            "variant_name": {
+                "S": "Green"
             }
         },
         "TableName": "furniture_fencing"
@@ -5078,6 +5690,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -5101,6 +5716,12 @@
             },
             "unique_entry_id": {
                 "S": "7FynyLiyuGG9KjNdE"
+            },
+            "variant_id": {
+                "S": "5_0"
+            },
+            "variant_name": {
+                "S": "Blue"
             }
         },
         "TableName": "furniture_fencing"
@@ -5152,6 +5773,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -5175,6 +5799,12 @@
             },
             "unique_entry_id": {
                 "S": "R7WyXriMCZxSWL8EE"
+            },
+            "variant_id": {
+                "S": "6_0"
+            },
+            "variant_name": {
+                "S": "Pink"
             }
         },
         "TableName": "furniture_fencing"
@@ -5226,6 +5856,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -5249,6 +5882,12 @@
             },
             "unique_entry_id": {
                 "S": "X7ogyM8rtkLRuyjNk"
+            },
+            "variant_id": {
+                "S": "7_0"
+            },
+            "variant_name": {
+                "S": "Purple"
             }
         },
         "TableName": "furniture_fencing"
@@ -5300,6 +5939,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -5323,6 +5965,12 @@
             },
             "unique_entry_id": {
                 "S": "gYccyRpBzpFCLLW56"
+            },
+            "variant_id": {
+                "NULL": true
+            },
+            "variant_name": {
+                "NULL": true
             }
         },
         "TableName": "furniture_fencing"
@@ -5374,6 +6022,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": true
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -5397,6 +6048,12 @@
             },
             "unique_entry_id": {
                 "S": "yHsjxz9cexo9WbDaK"
+            },
+            "variant_id": {
+                "NULL": true
+            },
+            "variant_name": {
+                "NULL": true
             }
         },
         "TableName": "furniture_fencing"
@@ -5448,6 +6105,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -5471,6 +6131,12 @@
             },
             "unique_entry_id": {
                 "S": "ECNmTH3oh3SEDpHCr"
+            },
+            "variant_id": {
+                "NULL": true
+            },
+            "variant_name": {
+                "NULL": true
             }
         },
         "TableName": "furniture_fencing"
@@ -5522,6 +6188,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -5545,6 +6214,12 @@
             },
             "unique_entry_id": {
                 "S": "yp69uEZTdfS9CkisA"
+            },
+            "variant_id": {
+                "NULL": true
+            },
+            "variant_name": {
+                "NULL": true
             }
         },
         "TableName": "furniture_fencing"
@@ -5596,6 +6271,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -5619,6 +6297,12 @@
             },
             "unique_entry_id": {
                 "S": "M9pkSgdAaKgQELi3E"
+            },
+            "variant_id": {
+                "S": "0_0"
+            },
+            "variant_name": {
+                "S": "Natural"
             }
         },
         "TableName": "furniture_fencing"
@@ -5670,6 +6354,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -5693,6 +6380,12 @@
             },
             "unique_entry_id": {
                 "S": "XTLNrFZzoDh9cD8Kt"
+            },
+            "variant_id": {
+                "S": "1_0"
+            },
+            "variant_name": {
+                "S": "White"
             }
         },
         "TableName": "furniture_fencing"
@@ -5744,6 +6437,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -5767,6 +6463,12 @@
             },
             "unique_entry_id": {
                 "S": "jTyiwMsmkaXCF7hLv"
+            },
+            "variant_id": {
+                "S": "2_0"
+            },
+            "variant_name": {
+                "S": "Black"
             }
         },
         "TableName": "furniture_fencing"
@@ -5818,6 +6520,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -5841,6 +6546,12 @@
             },
             "unique_entry_id": {
                 "S": "ecorj47DZedoZrbgW"
+            },
+            "variant_id": {
+                "S": "3_0"
+            },
+            "variant_name": {
+                "S": "Green"
             }
         },
         "TableName": "furniture_fencing"
@@ -5892,6 +6603,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -5915,6 +6629,12 @@
             },
             "unique_entry_id": {
                 "S": "oDZA3KWp6jcJLhrkv"
+            },
+            "variant_id": {
+                "S": "4_0"
+            },
+            "variant_name": {
+                "S": "Blue"
             }
         },
         "TableName": "furniture_fencing"
@@ -5966,6 +6686,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -5989,6 +6712,12 @@
             },
             "unique_entry_id": {
                 "S": "T7ajqp3deFgf85jhn"
+            },
+            "variant_id": {
+                "S": "5_0"
+            },
+            "variant_name": {
+                "S": "Pink"
             }
         },
         "TableName": "furniture_fencing"
@@ -6040,6 +6769,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -6063,6 +6795,12 @@
             },
             "unique_entry_id": {
                 "S": "EQeAKGbyKn8jNa89H"
+            },
+            "variant_id": {
+                "S": "6_0"
+            },
+            "variant_name": {
+                "S": "Yellow"
             }
         },
         "TableName": "furniture_fencing"
@@ -6114,6 +6852,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -6137,6 +6878,12 @@
             },
             "unique_entry_id": {
                 "S": "XB3YvXoDxSTyrZeMF"
+            },
+            "variant_id": {
+                "S": "7_0"
+            },
+            "variant_name": {
+                "S": "Purple"
             }
         },
         "TableName": "furniture_fencing"
@@ -6188,6 +6935,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": true
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -6211,6 +6961,12 @@
             },
             "unique_entry_id": {
                 "S": "68uMh2zjCmeJukYhv"
+            },
+            "variant_id": {
+                "S": "0_0"
+            },
+            "variant_name": {
+                "S": "White"
             }
         },
         "TableName": "furniture_fencing"
@@ -6262,6 +7018,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": true
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -6285,6 +7044,12 @@
             },
             "unique_entry_id": {
                 "S": "wqLxxBmRBhAqz2ePq"
+            },
+            "variant_id": {
+                "S": "1_0"
+            },
+            "variant_name": {
+                "S": "Pink"
             }
         },
         "TableName": "furniture_fencing"
@@ -6336,6 +7101,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": true
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -6359,6 +7127,12 @@
             },
             "unique_entry_id": {
                 "S": "A2HQdKp9W2soyevwG"
+            },
+            "variant_id": {
+                "S": "2_0"
+            },
+            "variant_name": {
+                "S": "Mint"
             }
         },
         "TableName": "furniture_fencing"
@@ -6410,6 +7184,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": true
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -6433,6 +7210,12 @@
             },
             "unique_entry_id": {
                 "S": "jcQp3WdFzGCsBS2CC"
+            },
+            "variant_id": {
+                "S": "3_0"
+            },
+            "variant_name": {
+                "S": "Red"
             }
         },
         "TableName": "furniture_fencing"
@@ -6484,6 +7267,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": true
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -6507,6 +7293,12 @@
             },
             "unique_entry_id": {
                 "S": "Aaza388Cq4fuwp4fX"
+            },
+            "variant_id": {
+                "S": "4_0"
+            },
+            "variant_name": {
+                "S": "Light Blue"
             }
         },
         "TableName": "furniture_fencing"
@@ -6558,6 +7350,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": true
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -6581,6 +7376,12 @@
             },
             "unique_entry_id": {
                 "S": "pat3RZ9KXysyjTcaL"
+            },
+            "variant_id": {
+                "S": "5_0"
+            },
+            "variant_name": {
+                "S": "Yellow"
             }
         },
         "TableName": "furniture_fencing"
@@ -6632,6 +7433,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": true
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -6655,6 +7459,12 @@
             },
             "unique_entry_id": {
                 "S": "WMFk74bGc4zv3Lwbu"
+            },
+            "variant_id": {
+                "S": "6_0"
+            },
+            "variant_name": {
+                "S": "Purple"
             }
         },
         "TableName": "furniture_fencing"
@@ -6706,6 +7516,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": true
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -6729,6 +7542,12 @@
             },
             "unique_entry_id": {
                 "S": "87n6rkrTzLCKvZtRv"
+            },
+            "variant_id": {
+                "S": "7_0"
+            },
+            "variant_name": {
+                "S": "Black"
             }
         },
         "TableName": "furniture_fencing"
@@ -6780,6 +7599,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -6803,6 +7625,12 @@
             },
             "unique_entry_id": {
                 "S": "yZeqREzefxeSiLAaP"
+            },
+            "variant_id": {
+                "S": "0_0"
+            },
+            "variant_name": {
+                "S": "Black"
             }
         },
         "TableName": "furniture_fencing"
@@ -6854,6 +7682,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -6877,6 +7708,12 @@
             },
             "unique_entry_id": {
                 "S": "DQ98iB35ebBfeZkHQ"
+            },
+            "variant_id": {
+                "S": "1_0"
+            },
+            "variant_name": {
+                "S": "Blue"
             }
         },
         "TableName": "furniture_fencing"
@@ -6928,6 +7765,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -6951,6 +7791,12 @@
             },
             "unique_entry_id": {
                 "S": "GjeRZJsbCypReqNZd"
+            },
+            "variant_id": {
+                "S": "2_0"
+            },
+            "variant_name": {
+                "S": "Red"
             }
         },
         "TableName": "furniture_fencing"
@@ -7002,6 +7848,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -7025,6 +7874,12 @@
             },
             "unique_entry_id": {
                 "S": "uN494SE8F6RfYDghH"
+            },
+            "variant_id": {
+                "S": "3_0"
+            },
+            "variant_name": {
+                "S": "Orange"
             }
         },
         "TableName": "furniture_fencing"
@@ -7076,6 +7931,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -7099,6 +7957,12 @@
             },
             "unique_entry_id": {
                 "S": "gAQntfadE2fF3yS8B"
+            },
+            "variant_id": {
+                "S": "4_0"
+            },
+            "variant_name": {
+                "S": "Yellow"
             }
         },
         "TableName": "furniture_fencing"
@@ -7150,6 +8014,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -7173,6 +8040,12 @@
             },
             "unique_entry_id": {
                 "S": "Puf3HzPMpWFCNxfog"
+            },
+            "variant_id": {
+                "S": "5_0"
+            },
+            "variant_name": {
+                "S": "Beige"
             }
         },
         "TableName": "furniture_fencing"
@@ -7224,6 +8097,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -7247,6 +8123,12 @@
             },
             "unique_entry_id": {
                 "S": "fJcjXSN2Emf86qRCc"
+            },
+            "variant_id": {
+                "S": "6_0"
+            },
+            "variant_name": {
+                "S": "Green"
             }
         },
         "TableName": "furniture_fencing"
@@ -7298,6 +8180,9 @@
             "is_craftable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -7321,6 +8206,12 @@
             },
             "unique_entry_id": {
                 "S": "w6mfAirx3RowXsYp5"
+            },
+            "variant_id": {
+                "S": "7_0"
+            },
+            "variant_name": {
+                "S": "Purple"
             }
         },
         "TableName": "furniture_fencing"
