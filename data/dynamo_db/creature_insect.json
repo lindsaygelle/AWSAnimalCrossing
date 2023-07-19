@@ -58,8 +58,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": false
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
+            },
+            "location_category": {
+                "S": "Flowers"
             },
             "name": {
                 "S": "Agrias Butterfly"
@@ -153,8 +162,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": false
+            },
+            "location_category": {
+                "S": "Trash"
             },
             "name": {
                 "S": "Ant"
@@ -248,8 +266,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
+            },
+            "location_category": {
+                "S": "Trees"
             },
             "name": {
                 "S": "Atlas moth"
@@ -343,8 +370,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
+            },
+            "location_category": {
+                "S": "Trees"
             },
             "name": {
                 "S": "Bagworm"
@@ -438,8 +474,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": false
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
+            },
+            "location_category": {
+                "S": "Water"
             },
             "name": {
                 "S": "Banded Dragonfly"
@@ -533,8 +578,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": false
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": false
+            },
+            "location_category": {
+                "S": "Ground"
             },
             "name": {
                 "S": "Bell Cricket"
@@ -628,8 +682,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": false
+            },
+            "location_category": {
+                "S": "Trees"
             },
             "name": {
                 "S": "Blue Weevil Beetle"
@@ -723,8 +786,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
+            },
+            "location_category": {
+                "S": "Trees"
             },
             "name": {
                 "S": "Brown Cicada"
@@ -818,8 +890,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": false
+            },
+            "location_category": {
+                "S": "Rocks"
             },
             "name": {
                 "S": "Centipede"
@@ -913,8 +994,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": false
+            },
+            "location_category": {
+                "S": "Trees"
             },
             "name": {
                 "S": "Cicada Shell"
@@ -1008,8 +1098,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": false
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": false
+            },
+            "location_category": {
+                "S": "Tree Stumps"
             },
             "name": {
                 "S": "Citrus Long-horned Beetle"
@@ -1103,8 +1202,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": false
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
+            },
+            "location_category": {
+                "S": "Air"
             },
             "name": {
                 "S": "Common Bluebottle"
@@ -1198,8 +1306,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": false
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": false
+            },
+            "location_category": {
+                "S": "Air"
             },
             "name": {
                 "S": "Common Butterfly"
@@ -1293,8 +1410,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": false
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": false
+            },
+            "location_category": {
+                "S": "Ground"
             },
             "name": {
                 "S": "Cricket"
@@ -1388,8 +1514,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
+            },
+            "location_category": {
+                "S": "Trees"
             },
             "name": {
                 "S": "Cyclommatus Stag"
@@ -1483,8 +1618,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": false
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
+            },
+            "location_category": {
+                "S": "Water"
             },
             "name": {
                 "S": "Damselfly"
@@ -1578,8 +1722,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": false
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
+            },
+            "location_category": {
+                "S": "Water"
             },
             "name": {
                 "S": "Darner Dragonfly"
@@ -1673,8 +1826,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": false
+            },
+            "location_category": {
+                "S": "Water"
             },
             "name": {
                 "S": "Diving Beetle"
@@ -1768,8 +1930,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": false
+            },
+            "location_category": {
+                "S": "Trees"
             },
             "name": {
                 "S": "Drone Beetle"
@@ -1863,8 +2034,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
+            },
+            "location_category": {
+                "S": "Snowball"
             },
             "name": {
                 "S": "Dung Beetle"
@@ -1958,8 +2138,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": false
+            },
+            "location_category": {
+                "S": "Ground"
             },
             "name": {
                 "S": "Earth-boring Dung Beetle"
@@ -2053,8 +2242,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": false
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
+            },
+            "location_category": {
+                "S": "Flowers"
             },
             "name": {
                 "S": "Emperor Butterfly"
@@ -2148,8 +2346,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
+            },
+            "location_category": {
+                "S": "Trees"
             },
             "name": {
                 "S": "Evening Cicada"
@@ -2243,8 +2450,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": false
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": false
+            },
+            "location_category": {
+                "S": "Water"
             },
             "name": {
                 "S": "Firefly"
@@ -2338,8 +2554,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": false
+            },
+            "location_category": {
+                "S": "Villagers"
             },
             "name": {
                 "S": "Flea"
@@ -2433,8 +2658,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": false
+            },
+            "location_category": {
+                "S": "Air"
             },
             "name": {
                 "S": "Fly"
@@ -2528,8 +2762,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
+            },
+            "location_category": {
+                "S": "Trees"
             },
             "name": {
                 "S": "Giant Cicada"
@@ -2623,8 +2866,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
+            },
+            "location_category": {
+                "S": "Trees"
             },
             "name": {
                 "S": "Giant Stag"
@@ -2718,8 +2970,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": false
+            },
+            "location_category": {
+                "S": "Water"
             },
             "name": {
                 "S": "Giant Water Bug"
@@ -2813,8 +3074,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
+            },
+            "location_category": {
+                "S": "Trees"
             },
             "name": {
                 "S": "Giraffe Stag"
@@ -2908,8 +3178,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
+            },
+            "location_category": {
+                "S": "Trees"
             },
             "name": {
                 "S": "Golden Stag"
@@ -3003,8 +3282,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
+            },
+            "location_category": {
+                "S": "Trees"
             },
             "name": {
                 "S": "Goliath Beetle"
@@ -3098,8 +3386,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": false
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": false
+            },
+            "location_category": {
+                "S": "Ground"
             },
             "name": {
                 "S": "Grasshopper"
@@ -3193,8 +3490,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": false
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
+            },
+            "location_category": {
+                "S": "Flowers"
             },
             "name": {
                 "S": "Great Purple Emperor"
@@ -3288,8 +3594,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
+            },
+            "location_category": {
+                "S": "Beach"
             },
             "name": {
                 "S": "Hermit Crab"
@@ -3383,8 +3698,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": false
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": false
+            },
+            "location_category": {
+                "S": "Flowers"
             },
             "name": {
                 "S": "Honeybee"
@@ -3478,8 +3802,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
+            },
+            "location_category": {
+                "S": "Trees"
             },
             "name": {
                 "S": "Horned Atlas"
@@ -3573,8 +3906,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
+            },
+            "location_category": {
+                "S": "Trees"
             },
             "name": {
                 "S": "Horned Dynastid"
@@ -3668,8 +4010,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
+            },
+            "location_category": {
+                "S": "Trees"
             },
             "name": {
                 "S": "Horned Elephant"
@@ -3763,8 +4114,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
+            },
+            "location_category": {
+                "S": "Trees"
             },
             "name": {
                 "S": "Horned Hercules"
@@ -3858,8 +4218,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": false
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
+            },
+            "location_category": {
+                "S": "Tree Stumps"
             },
             "name": {
                 "S": "Jewel Beetle"
@@ -3953,8 +4322,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": false
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": false
+            },
+            "location_category": {
+                "S": "Flowers"
             },
             "name": {
                 "S": "Ladybug"
@@ -4048,8 +4426,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
+            },
+            "location_category": {
+                "S": "Ground"
             },
             "name": {
                 "S": "Long Locust"
@@ -4143,8 +4530,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": false
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
+            },
+            "location_category": {
+                "S": "Flowers"
             },
             "name": {
                 "S": "Madagascan sunset moth"
@@ -4238,8 +4634,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": false
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
+            },
+            "location_category": {
+                "S": "Flowers"
             },
             "name": {
                 "S": "Man-faced Stink Bug"
@@ -4333,8 +4738,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": false
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
+            },
+            "location_category": {
+                "S": "Flowers"
             },
             "name": {
                 "S": "Mantis"
@@ -4428,8 +4842,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
+            },
+            "location_category": {
+                "S": "Ground"
             },
             "name": {
                 "S": "Migratory Locust"
@@ -4523,8 +4946,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
+            },
+            "location_category": {
+                "S": "Trees"
             },
             "name": {
                 "S": "Miyama Stag"
@@ -4618,8 +5050,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
+            },
+            "location_category": {
+                "S": "Underground"
             },
             "name": {
                 "S": "Mole Cricket"
@@ -4713,8 +5154,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": false
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
+            },
+            "location_category": {
+                "S": "Flowers"
             },
             "name": {
                 "S": "Monarch Butterfly"
@@ -4808,8 +5258,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": false
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": false
+            },
+            "location_category": {
+                "S": "Air"
             },
             "name": {
                 "S": "Mosquito"
@@ -4903,8 +5362,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": false
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": false
+            },
+            "location_category": {
+                "S": "Air"
             },
             "name": {
                 "S": "Moth"
@@ -4998,8 +5466,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": false
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
+            },
+            "location_category": {
+                "S": "Flowers"
             },
             "name": {
                 "S": "Orchid Mantis"
@@ -5093,8 +5570,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": false
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
+            },
+            "location_category": {
+                "S": "Flowers"
             },
             "name": {
                 "S": "Paper Kite Butterfly"
@@ -5188,8 +5674,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": false
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
+            },
+            "location_category": {
+                "S": "Flowers"
             },
             "name": {
                 "S": "Peacock Butterfly"
@@ -5283,8 +5778,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": false
+            },
+            "location_category": {
+                "S": "Rocks"
             },
             "name": {
                 "S": "Pill Bug"
@@ -5378,8 +5882,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": false
+            },
+            "location_category": {
+                "S": "Water"
             },
             "name": {
                 "S": "Pondskater"
@@ -5473,8 +5986,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": false
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
+            },
+            "location_category": {
+                "S": "Flowers"
             },
             "name": {
                 "S": "Queen Alexandra's birdwing"
@@ -5568,8 +6090,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
+            },
+            "location_category": {
+                "S": "Trees"
             },
             "name": {
                 "S": "Rainbow Stag"
@@ -5663,8 +6194,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": false
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
+            },
+            "location_category": {
+                "S": "Flowers"
             },
             "name": {
                 "S": "Rajah Brooke's birdwing"
@@ -5758,8 +6298,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": false
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
+            },
+            "location_category": {
+                "S": "Water"
             },
             "name": {
                 "S": "Red Dragonfly"
@@ -5853,8 +6402,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": false
+            },
+            "location_category": {
+                "S": "Ground"
             },
             "name": {
                 "S": "Rice Grasshopper"
@@ -5948,8 +6506,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
+            },
+            "location_category": {
+                "S": "Trees"
             },
             "name": {
                 "S": "Robust Cicada"
@@ -6043,8 +6610,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": false
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
+            },
+            "location_category": {
+                "S": "Tree Stumps"
             },
             "name": {
                 "S": "Rosalia Batesi Beetle"
@@ -6138,8 +6714,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
+            },
+            "location_category": {
+                "S": "Trees"
             },
             "name": {
                 "S": "Saw Stag"
@@ -6233,8 +6818,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
+            },
+            "location_category": {
+                "S": "Trees"
             },
             "name": {
                 "S": "Scarab Beetle"
@@ -6328,8 +6922,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
+            },
+            "location_category": {
+                "S": "Ground"
             },
             "name": {
                 "S": "Scorpion"
@@ -6423,8 +7026,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": false
+            },
+            "location_category": {
+                "S": "Rocks"
             },
             "name": {
                 "S": "Snail"
@@ -6518,8 +7130,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
+            },
+            "location_category": {
+                "S": "Trees"
             },
             "name": {
                 "S": "Spider"
@@ -6613,8 +7234,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": false
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": false
+            },
+            "location_category": {
+                "S": "Flowers"
             },
             "name": {
                 "S": "Stinkbug"
@@ -6708,8 +7338,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
+            },
+            "location_category": {
+                "S": "Ground"
             },
             "name": {
                 "S": "Tarantula"
@@ -6803,8 +7442,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": false
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": false
+            },
+            "location_category": {
+                "S": "Ground"
             },
             "name": {
                 "S": "Tiger Beetle"
@@ -6898,8 +7546,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": false
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
+            },
+            "location_category": {
+                "S": "Air"
             },
             "name": {
                 "S": "Tiger Butterfly"
@@ -6993,8 +7650,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": false
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
+            },
+            "location_category": {
+                "S": "Tree Stumps"
             },
             "name": {
                 "S": "Violin Beetle"
@@ -7088,8 +7754,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
+            },
+            "location_category": {
+                "S": "Trees"
             },
             "name": {
                 "S": "Walker Cicada"
@@ -7183,8 +7858,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
+            },
+            "location_category": {
+                "S": "Trees"
             },
             "name": {
                 "S": "Walking Leaf"
@@ -7278,8 +7962,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
+            },
+            "location_category": {
+                "S": "Trees"
             },
             "name": {
                 "S": "Walking Stick"
@@ -7373,8 +8066,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
+            },
+            "location_category": {
+                "S": "Trees"
             },
             "name": {
                 "S": "Wasp"
@@ -7468,8 +8170,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": false
+            },
+            "location_category": {
+                "S": "Beach"
             },
             "name": {
                 "S": "Wharf Roach"
@@ -7563,8 +8274,17 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": false
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": false
+            },
+            "location_category": {
+                "S": "Air"
             },
             "name": {
                 "S": "Yellow Butterfly"

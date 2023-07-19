@@ -27,6 +27,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -38,7 +39,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "iR9zzEhzpbXTGdkR4"
+        "unique_entry_id": "iR9zzEhzpbXTGdkR4",
+        "uses": 100,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -68,6 +72,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": true,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -79,7 +84,10 @@
         "sell_price": 3900,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "YLjDYt9NhwTgoXhLD"
+        "unique_entry_id": "YLjDYt9NhwTgoXhLD",
+        "uses": null,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -109,6 +117,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": true,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -120,7 +129,10 @@
         "sell_price": 200,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "Nn7qqRaw3SrP3Fd5H"
+        "unique_entry_id": "Nn7qqRaw3SrP3Fd5H",
+        "uses": null,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -150,6 +162,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -161,7 +174,10 @@
         "sell_price": 150,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "cPjiuP5KFRtkjWQqe"
+        "unique_entry_id": "cPjiuP5KFRtkjWQqe",
+        "uses": 3,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -191,6 +207,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -202,7 +219,10 @@
         "sell_price": 200,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "MqK2fS94eHu36fnFL"
+        "unique_entry_id": "MqK2fS94eHu36fnFL",
+        "uses": null,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -232,6 +252,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -243,7 +264,10 @@
         "sell_price": 150,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "wZi9GW6MbpePQpvKY"
+        "unique_entry_id": "wZi9GW6MbpePQpvKY",
+        "uses": null,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -273,6 +297,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -284,7 +309,10 @@
         "sell_price": 150,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "nX6tAkPNA4xgzbhon"
+        "unique_entry_id": "nX6tAkPNA4xgzbhon",
+        "uses": 1,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -314,6 +342,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": true,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -325,7 +354,10 @@
         "sell_price": 150,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "jvf8uw5Mm44Q86cE2"
+        "unique_entry_id": "jvf8uw5Mm44Q86cE2",
+        "uses": 3,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -355,6 +387,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": true,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -366,7 +399,10 @@
         "sell_price": 150,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "c3bvzqk8C5iuuEbpo"
+        "unique_entry_id": "c3bvzqk8C5iuuEbpo",
+        "uses": 3,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -396,6 +432,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": true,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -407,7 +444,10 @@
         "sell_price": 150,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "m7BfnhqvLKr8Ybb6Z"
+        "unique_entry_id": "m7BfnhqvLKr8Ybb6Z",
+        "uses": 3,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -437,6 +477,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": true,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -448,7 +489,10 @@
         "sell_price": 150,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "PbsfbtksDomE4a3Tp"
+        "unique_entry_id": "PbsfbtksDomE4a3Tp",
+        "uses": 3,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -478,6 +522,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": true,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -489,7 +534,10 @@
         "sell_price": 150,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "WNeTxBFbMvah9kNyX"
+        "unique_entry_id": "WNeTxBFbMvah9kNyX",
+        "uses": 3,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -519,6 +567,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -530,7 +579,10 @@
         "sell_price": 37,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "CQmL5dEmhYEGkCJCF"
+        "unique_entry_id": "CQmL5dEmhYEGkCJCF",
+        "uses": 1,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -560,6 +612,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": true,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -571,7 +624,10 @@
         "sell_price": 1500,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "vqp4KBeWgZjYbFj7Z"
+        "unique_entry_id": "vqp4KBeWgZjYbFj7Z",
+        "uses": null,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -601,6 +657,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": true,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -612,7 +669,10 @@
         "sell_price": 11100,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "26wk773sY75rKY2P4"
+        "unique_entry_id": "26wk773sY75rKY2P4",
+        "uses": null,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -642,6 +702,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -653,7 +714,10 @@
         "sell_price": 150,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "5RAGMWT54pZrdvXei"
+        "unique_entry_id": "5RAGMWT54pZrdvXei",
+        "uses": 3,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -683,6 +747,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -694,7 +759,10 @@
         "sell_price": 150,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "Kpi895thJ6Bfr4syt"
+        "unique_entry_id": "Kpi895thJ6Bfr4syt",
+        "uses": 3,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -724,6 +792,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -735,7 +804,10 @@
         "sell_price": 150,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "giyxqEHWEGh4xDekh"
+        "unique_entry_id": "giyxqEHWEGh4xDekh",
+        "uses": 3,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -765,6 +837,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -776,7 +849,10 @@
         "sell_price": 150,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "FFQfhzfqxvaobcXRR"
+        "unique_entry_id": "FFQfhzfqxvaobcXRR",
+        "uses": 3,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -806,6 +882,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -817,7 +894,10 @@
         "sell_price": 150,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "PM5ED38yRZQXdPZtP"
+        "unique_entry_id": "PM5ED38yRZQXdPZtP",
+        "uses": 3,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -847,6 +927,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -858,7 +939,10 @@
         "sell_price": 150,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "yMkHtMPf5gyX2ee2f"
+        "unique_entry_id": "yMkHtMPf5gyX2ee2f",
+        "uses": 3,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -888,6 +972,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -899,7 +984,10 @@
         "sell_price": 150,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "3MjBbTJtBegKirMmi"
+        "unique_entry_id": "3MjBbTJtBegKirMmi",
+        "uses": 3,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -929,6 +1017,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -940,7 +1029,10 @@
         "sell_price": 150,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "oimu26EsBYzL7gw3o"
+        "unique_entry_id": "oimu26EsBYzL7gw3o",
+        "uses": 3,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -970,6 +1062,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": true,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -981,7 +1074,10 @@
         "sell_price": 2700,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "WHHbg5ZqTMu4J2wm5"
+        "unique_entry_id": "WHHbg5ZqTMu4J2wm5",
+        "uses": null,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -1011,6 +1107,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": true,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -1022,7 +1119,10 @@
         "sell_price": 250,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "xySaM5pikyagoJnPP"
+        "unique_entry_id": "xySaM5pikyagoJnPP",
+        "uses": null,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -1052,6 +1152,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -1063,7 +1164,10 @@
         "sell_price": 150,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "EMCmQBq4xFau27fyD"
+        "unique_entry_id": "EMCmQBq4xFau27fyD",
+        "uses": 3,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -1093,6 +1197,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -1104,7 +1209,10 @@
         "sell_price": 150,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "XBfgMco2Q3hWf4Sou"
+        "unique_entry_id": "XBfgMco2Q3hWf4Sou",
+        "uses": 3,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -1134,6 +1242,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": true,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -1145,7 +1254,10 @@
         "sell_price": 150,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "bXeMhj9hB8mbcZe2p"
+        "unique_entry_id": "bXeMhj9hB8mbcZe2p",
+        "uses": 3,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -1175,6 +1287,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -1186,7 +1299,10 @@
         "sell_price": 150,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "gC8SEg2vRxFS5JNS7"
+        "unique_entry_id": "gC8SEg2vRxFS5JNS7",
+        "uses": 3,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": "Color",
@@ -1216,6 +1332,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Colorful Tools",
         "kit_category": "Normal",
@@ -1227,7 +1344,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "ZTf6fzMoETiRSgYyv"
+        "unique_entry_id": "ZTf6fzMoETiRSgYyv",
+        "uses": 30,
+        "variant_id": "0_0",
+        "variant_name": "Yellow"
     },
     {
         "body_category": "Color",
@@ -1257,6 +1377,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Colorful Tools",
         "kit_category": "Normal",
@@ -1268,7 +1389,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "9RuY2ZBRztSNDRrfy"
+        "unique_entry_id": "9RuY2ZBRztSNDRrfy",
+        "uses": 30,
+        "variant_id": "1_0",
+        "variant_name": "Orange"
     },
     {
         "body_category": "Color",
@@ -1298,6 +1422,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Colorful Tools",
         "kit_category": "Normal",
@@ -1309,7 +1434,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "8PASMoPi9YgSBQ2LK"
+        "unique_entry_id": "8PASMoPi9YgSBQ2LK",
+        "uses": 30,
+        "variant_id": "2_0",
+        "variant_name": "Blue"
     },
     {
         "body_category": "Color",
@@ -1339,6 +1467,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Colorful Tools",
         "kit_category": "Normal",
@@ -1350,7 +1479,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "sfSivSgSps27Jaz5M"
+        "unique_entry_id": "sfSivSgSps27Jaz5M",
+        "uses": 30,
+        "variant_id": "3_0",
+        "variant_name": "Pink"
     },
     {
         "body_category": "Color",
@@ -1380,6 +1512,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Colorful Tools",
         "kit_category": "Normal",
@@ -1391,7 +1524,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "vnSiERDKYDcddtuv6"
+        "unique_entry_id": "vnSiERDKYDcddtuv6",
+        "uses": 30,
+        "variant_id": "4_0",
+        "variant_name": "Green"
     },
     {
         "body_category": "Color",
@@ -1421,6 +1557,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Colorful Tools",
         "kit_category": "Normal",
@@ -1432,7 +1569,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "avewXgm4JtCerDcd6"
+        "unique_entry_id": "avewXgm4JtCerDcd6",
+        "uses": 30,
+        "variant_id": "5_0",
+        "variant_name": "Purple"
     },
     {
         "body_category": "Color",
@@ -1462,6 +1602,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Colorful Tools",
         "kit_category": "Normal",
@@ -1473,7 +1614,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "wmcSp5RZAczawLnJf"
+        "unique_entry_id": "wmcSp5RZAczawLnJf",
+        "uses": 30,
+        "variant_id": "6_0",
+        "variant_name": "White"
     },
     {
         "body_category": "Color",
@@ -1503,6 +1647,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Colorful Tools",
         "kit_category": "Normal",
@@ -1514,7 +1659,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "v76QddpoKv2M4XspK"
+        "unique_entry_id": "v76QddpoKv2M4XspK",
+        "uses": 30,
+        "variant_id": "7_0",
+        "variant_name": "Gray"
     },
     {
         "body_category": null,
@@ -1544,6 +1692,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -1555,7 +1704,10 @@
         "sell_price": 450,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "QWaoWAyy9S8DA7dPM"
+        "unique_entry_id": "QWaoWAyy9S8DA7dPM",
+        "uses": null,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": "Color",
@@ -1585,6 +1737,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Colorful Tools",
         "kit_category": "Normal",
@@ -1596,7 +1749,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "5wGjS9fxCaGhWK5Cv"
+        "unique_entry_id": "5wGjS9fxCaGhWK5Cv",
+        "uses": 30,
+        "variant_id": "0_0",
+        "variant_name": "Yellow & Orange"
     },
     {
         "body_category": "Color",
@@ -1626,6 +1782,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Colorful Tools",
         "kit_category": "Normal",
@@ -1637,7 +1794,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "k4Ssqq2DesuGTy6hy"
+        "unique_entry_id": "k4Ssqq2DesuGTy6hy",
+        "uses": 30,
+        "variant_id": "1_0",
+        "variant_name": "Red & Yellow"
     },
     {
         "body_category": "Color",
@@ -1667,6 +1827,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Colorful Tools",
         "kit_category": "Normal",
@@ -1678,7 +1839,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "6pJhWYNiuyZKuKvYz"
+        "unique_entry_id": "6pJhWYNiuyZKuKvYz",
+        "uses": 30,
+        "variant_id": "2_0",
+        "variant_name": "Orange & Blue"
     },
     {
         "body_category": "Color",
@@ -1708,6 +1872,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Colorful Tools",
         "kit_category": "Normal",
@@ -1719,7 +1884,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "AmK8KNTDWxdrJH6h7"
+        "unique_entry_id": "AmK8KNTDWxdrJH6h7",
+        "uses": 30,
+        "variant_id": "3_0",
+        "variant_name": "Pink & Yellow"
     },
     {
         "body_category": "Color",
@@ -1749,6 +1917,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Colorful Tools",
         "kit_category": "Normal",
@@ -1760,7 +1929,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "zcdZjuNZWrHas5efC"
+        "unique_entry_id": "zcdZjuNZWrHas5efC",
+        "uses": 30,
+        "variant_id": "4_0",
+        "variant_name": "Green & Blue"
     },
     {
         "body_category": "Color",
@@ -1790,6 +1962,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Colorful Tools",
         "kit_category": "Normal",
@@ -1801,7 +1974,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "cTrR3cREJBqWZyfN6"
+        "unique_entry_id": "cTrR3cREJBqWZyfN6",
+        "uses": 30,
+        "variant_id": "5_0",
+        "variant_name": "Purple & Pink"
     },
     {
         "body_category": "Color",
@@ -1831,6 +2007,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Colorful Tools",
         "kit_category": "Normal",
@@ -1842,7 +2019,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "wFcTeKJ9gM4yLgfTQ"
+        "unique_entry_id": "wFcTeKJ9gM4yLgfTQ",
+        "uses": 30,
+        "variant_id": "6_0",
+        "variant_name": "White & Blue"
     },
     {
         "body_category": "Color",
@@ -1872,6 +2052,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Colorful Tools",
         "kit_category": "Normal",
@@ -1883,7 +2064,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "kgBcZghywrT4j47vx"
+        "unique_entry_id": "kgBcZghywrT4j47vx",
+        "uses": 30,
+        "variant_id": "7_0",
+        "variant_name": "Gray & Green"
     },
     {
         "body_category": "Color",
@@ -1913,6 +2097,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Colorful Tools",
         "kit_category": "Normal",
@@ -1924,7 +2109,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "ojvEkqxvFKKrrB6GR"
+        "unique_entry_id": "ojvEkqxvFKKrrB6GR",
+        "uses": 100,
+        "variant_id": "0_0",
+        "variant_name": "Yellow"
     },
     {
         "body_category": "Color",
@@ -1954,6 +2142,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Colorful Tools",
         "kit_category": "Normal",
@@ -1965,7 +2154,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "pnM6ygwcMS5KmSP6c"
+        "unique_entry_id": "pnM6ygwcMS5KmSP6c",
+        "uses": 100,
+        "variant_id": "1_0",
+        "variant_name": "Orange"
     },
     {
         "body_category": "Color",
@@ -1995,6 +2187,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Colorful Tools",
         "kit_category": "Normal",
@@ -2006,7 +2199,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "MYmh4oANQabcGNjJ6"
+        "unique_entry_id": "MYmh4oANQabcGNjJ6",
+        "uses": 100,
+        "variant_id": "2_0",
+        "variant_name": "Blue"
     },
     {
         "body_category": "Color",
@@ -2036,6 +2232,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Colorful Tools",
         "kit_category": "Normal",
@@ -2047,7 +2244,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "c3Frxwsyo8PSKZNya"
+        "unique_entry_id": "c3Frxwsyo8PSKZNya",
+        "uses": 100,
+        "variant_id": "3_0",
+        "variant_name": "Pink"
     },
     {
         "body_category": "Color",
@@ -2077,6 +2277,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Colorful Tools",
         "kit_category": "Normal",
@@ -2088,7 +2289,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "RbQtnSAf4HNLKuao2"
+        "unique_entry_id": "RbQtnSAf4HNLKuao2",
+        "uses": 100,
+        "variant_id": "4_0",
+        "variant_name": "Green"
     },
     {
         "body_category": "Color",
@@ -2118,6 +2322,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Colorful Tools",
         "kit_category": "Normal",
@@ -2129,7 +2334,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "MiJwRTGjbkK5Jx3Zw"
+        "unique_entry_id": "MiJwRTGjbkK5Jx3Zw",
+        "uses": 100,
+        "variant_id": "5_0",
+        "variant_name": "Purple"
     },
     {
         "body_category": "Color",
@@ -2159,6 +2367,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Colorful Tools",
         "kit_category": "Normal",
@@ -2170,7 +2379,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "XCrHq3vFnD83kY2Sg"
+        "unique_entry_id": "XCrHq3vFnD83kY2Sg",
+        "uses": 100,
+        "variant_id": "6_0",
+        "variant_name": "White"
     },
     {
         "body_category": "Color",
@@ -2200,6 +2412,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Colorful Tools",
         "kit_category": "Normal",
@@ -2211,7 +2424,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "zo7TsB8NzfnFDA7yS"
+        "unique_entry_id": "zo7TsB8NzfnFDA7yS",
+        "uses": 100,
+        "variant_id": "7_0",
+        "variant_name": "Gray"
     },
     {
         "body_category": "Color",
@@ -2241,6 +2457,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Colorful Tools",
         "kit_category": "Normal",
@@ -2252,7 +2469,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "dSvd9K7sRTbx6k5cd"
+        "unique_entry_id": "dSvd9K7sRTbx6k5cd",
+        "uses": 20,
+        "variant_id": "0_0",
+        "variant_name": "Yellow"
     },
     {
         "body_category": "Color",
@@ -2282,6 +2502,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Colorful Tools",
         "kit_category": "Normal",
@@ -2293,7 +2514,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "WAcZwYerSQtwujaPZ"
+        "unique_entry_id": "WAcZwYerSQtwujaPZ",
+        "uses": 20,
+        "variant_id": "1_0",
+        "variant_name": "Orange"
     },
     {
         "body_category": "Color",
@@ -2323,6 +2547,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Colorful Tools",
         "kit_category": "Normal",
@@ -2334,7 +2559,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "k7afhFcA5Pqd8qu5F"
+        "unique_entry_id": "k7afhFcA5Pqd8qu5F",
+        "uses": 20,
+        "variant_id": "2_0",
+        "variant_name": "Blue"
     },
     {
         "body_category": "Color",
@@ -2364,6 +2592,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Colorful Tools",
         "kit_category": "Normal",
@@ -2375,7 +2604,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "GBqsH5XYgDHk8wGAz"
+        "unique_entry_id": "GBqsH5XYgDHk8wGAz",
+        "uses": 20,
+        "variant_id": "3_0",
+        "variant_name": "Pink"
     },
     {
         "body_category": "Color",
@@ -2405,6 +2637,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Colorful Tools",
         "kit_category": "Normal",
@@ -2416,7 +2649,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "qq67sn4aq9w7w9Ga2"
+        "unique_entry_id": "qq67sn4aq9w7w9Ga2",
+        "uses": 20,
+        "variant_id": "4_0",
+        "variant_name": "Green"
     },
     {
         "body_category": "Color",
@@ -2446,6 +2682,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Colorful Tools",
         "kit_category": "Normal",
@@ -2457,7 +2694,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "2JHaGhkbpoa4qbhge"
+        "unique_entry_id": "2JHaGhkbpoa4qbhge",
+        "uses": 20,
+        "variant_id": "5_0",
+        "variant_name": "Purple"
     },
     {
         "body_category": "Color",
@@ -2487,6 +2727,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Colorful Tools",
         "kit_category": "Normal",
@@ -2498,7 +2739,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "cQYdSQ4MzKcnYAyc8"
+        "unique_entry_id": "cQYdSQ4MzKcnYAyc8",
+        "uses": 20,
+        "variant_id": "6_0",
+        "variant_name": "White"
     },
     {
         "body_category": "Color",
@@ -2528,6 +2772,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Colorful Tools",
         "kit_category": "Normal",
@@ -2539,7 +2784,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "KiTQgsCkJSTq6ssm6"
+        "unique_entry_id": "KiTQgsCkJSTq6ssm6",
+        "uses": 20,
+        "variant_id": "7_0",
+        "variant_name": "Gray"
     },
     {
         "body_category": "Color",
@@ -2569,6 +2817,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Colorful Tools",
         "kit_category": "Normal",
@@ -2580,7 +2829,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "35yzBzko3wrMwHjST"
+        "unique_entry_id": "35yzBzko3wrMwHjST",
+        "uses": 60,
+        "variant_id": "0_0",
+        "variant_name": "Yellow"
     },
     {
         "body_category": "Color",
@@ -2610,6 +2862,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Colorful Tools",
         "kit_category": "Normal",
@@ -2621,7 +2874,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "ngYPKLyn5xXawzas3"
+        "unique_entry_id": "ngYPKLyn5xXawzas3",
+        "uses": 60,
+        "variant_id": "1_0",
+        "variant_name": "Orange"
     },
     {
         "body_category": "Color",
@@ -2651,6 +2907,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Colorful Tools",
         "kit_category": "Normal",
@@ -2662,7 +2919,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "QxhyiwvJWyAShwyhJ"
+        "unique_entry_id": "QxhyiwvJWyAShwyhJ",
+        "uses": 60,
+        "variant_id": "2_0",
+        "variant_name": "Blue"
     },
     {
         "body_category": "Color",
@@ -2692,6 +2952,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Colorful Tools",
         "kit_category": "Normal",
@@ -2703,7 +2964,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "yuB5QpzCg94HN6u4g"
+        "unique_entry_id": "yuB5QpzCg94HN6u4g",
+        "uses": 60,
+        "variant_id": "3_0",
+        "variant_name": "Pink"
     },
     {
         "body_category": "Color",
@@ -2733,6 +2997,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Colorful Tools",
         "kit_category": "Normal",
@@ -2744,7 +3009,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "q3p2jaJBt5gD2HRkZ"
+        "unique_entry_id": "q3p2jaJBt5gD2HRkZ",
+        "uses": 60,
+        "variant_id": "4_0",
+        "variant_name": "Green"
     },
     {
         "body_category": "Color",
@@ -2774,6 +3042,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Colorful Tools",
         "kit_category": "Normal",
@@ -2785,7 +3054,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "fAm9eEkidwn5LSjSd"
+        "unique_entry_id": "fAm9eEkidwn5LSjSd",
+        "uses": 60,
+        "variant_id": "5_0",
+        "variant_name": "Purple"
     },
     {
         "body_category": "Color",
@@ -2815,6 +3087,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Colorful Tools",
         "kit_category": "Normal",
@@ -2826,7 +3099,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "4ySFWfB9G3KCq8sKf"
+        "unique_entry_id": "4ySFWfB9G3KCq8sKf",
+        "uses": 60,
+        "variant_id": "6_0",
+        "variant_name": "White"
     },
     {
         "body_category": "Color",
@@ -2856,6 +3132,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Colorful Tools",
         "kit_category": "Normal",
@@ -2867,7 +3144,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "yLHsKfxS39qTMyZ67"
+        "unique_entry_id": "yLHsKfxS39qTMyZ67",
+        "uses": 60,
+        "variant_id": "7_0",
+        "variant_name": "Gray"
     },
     {
         "body_category": null,
@@ -2897,6 +3177,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -2908,7 +3189,10 @@
         "sell_price": 1580,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "vNqGM6xMEtteYKoza"
+        "unique_entry_id": "vNqGM6xMEtteYKoza",
+        "uses": null,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": "Color",
@@ -2938,6 +3222,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -2949,7 +3234,10 @@
         "sell_price": 400,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "4YAs6yXya4GqF6sga"
+        "unique_entry_id": "4YAs6yXya4GqF6sga",
+        "uses": null,
+        "variant_id": "0_0",
+        "variant_name": "Black"
     },
     {
         "body_category": "Color",
@@ -2979,6 +3267,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -2990,7 +3279,10 @@
         "sell_price": 400,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "Znj3RwmqymBRHWHHs"
+        "unique_entry_id": "Znj3RwmqymBRHWHHs",
+        "uses": null,
+        "variant_id": "1_0",
+        "variant_name": "White"
     },
     {
         "body_category": "Color",
@@ -3020,6 +3312,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -3031,7 +3324,10 @@
         "sell_price": 400,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "hgCZhGJYpxQidbv9y"
+        "unique_entry_id": "hgCZhGJYpxQidbv9y",
+        "uses": null,
+        "variant_id": "2_0",
+        "variant_name": "Red"
     },
     {
         "body_category": "Color",
@@ -3061,6 +3357,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -3072,7 +3369,10 @@
         "sell_price": 400,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "PvWzAAN9jZDaEud6G"
+        "unique_entry_id": "PvWzAAN9jZDaEud6G",
+        "uses": null,
+        "variant_id": "3_0",
+        "variant_name": "Yellow"
     },
     {
         "body_category": "Color",
@@ -3102,6 +3402,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -3113,7 +3414,10 @@
         "sell_price": 400,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "pehfi3pEXGMzyKLMj"
+        "unique_entry_id": "pehfi3pEXGMzyKLMj",
+        "uses": null,
+        "variant_id": "4_0",
+        "variant_name": "Gold"
     },
     {
         "body_category": "Color",
@@ -3143,6 +3447,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -3154,7 +3459,10 @@
         "sell_price": 400,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "ydC7jwrwffn5zaLKi"
+        "unique_entry_id": "ydC7jwrwffn5zaLKi",
+        "uses": null,
+        "variant_id": "5_0",
+        "variant_name": "Silver"
     },
     {
         "body_category": null,
@@ -3184,6 +3492,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -3195,7 +3504,10 @@
         "sell_price": 275,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "w4PXxKfjWWyJ5hQmt"
+        "unique_entry_id": "w4PXxKfjWWyJ5hQmt",
+        "uses": null,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": "Color",
@@ -3225,6 +3537,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -3236,7 +3549,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "AjAhCPjQAreLmqKCB"
+        "unique_entry_id": "AjAhCPjQAreLmqKCB",
+        "uses": 60,
+        "variant_id": "0_0",
+        "variant_name": "Gray"
     },
     {
         "body_category": "Color",
@@ -3266,6 +3582,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -3277,7 +3594,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "JBApgvSrYbJcSmsd2"
+        "unique_entry_id": "JBApgvSrYbJcSmsd2",
+        "uses": 60,
+        "variant_id": "1_0",
+        "variant_name": "Green"
     },
     {
         "body_category": "Color",
@@ -3307,6 +3627,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -3318,7 +3639,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "HcqA5ggg9XBLsfYNK"
+        "unique_entry_id": "HcqA5ggg9XBLsfYNK",
+        "uses": 60,
+        "variant_id": "2_0",
+        "variant_name": "Blue"
     },
     {
         "body_category": "Color",
@@ -3348,6 +3672,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -3359,7 +3684,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "mvF2W6yf4hcXLu3eM"
+        "unique_entry_id": "mvF2W6yf4hcXLu3eM",
+        "uses": 60,
+        "variant_id": "3_0",
+        "variant_name": "Pink"
     },
     {
         "body_category": "Color",
@@ -3389,6 +3717,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -3400,7 +3729,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "B6oWDPizvZRRBDbop"
+        "unique_entry_id": "B6oWDPizvZRRBDbop",
+        "uses": 60,
+        "variant_id": "4_0",
+        "variant_name": "Red"
     },
     {
         "body_category": "Color",
@@ -3430,6 +3762,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -3441,7 +3774,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "AoZCaqfJYb6TSNctg"
+        "unique_entry_id": "AoZCaqfJYb6TSNctg",
+        "uses": 60,
+        "variant_id": "5_0",
+        "variant_name": "Yellow"
     },
     {
         "body_category": "Color",
@@ -3471,6 +3807,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -3482,7 +3819,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "cBG6avJmvncbTX56k"
+        "unique_entry_id": "cBG6avJmvncbTX56k",
+        "uses": 60,
+        "variant_id": "6_0",
+        "variant_name": "Light Blue"
     },
     {
         "body_category": "Color",
@@ -3512,6 +3852,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -3523,7 +3864,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "XphbdnArYGwJp8kmj"
+        "unique_entry_id": "XphbdnArYGwJp8kmj",
+        "uses": 60,
+        "variant_id": "7_0",
+        "variant_name": "Black"
     },
     {
         "body_category": null,
@@ -3553,6 +3897,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": true,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -3564,7 +3909,10 @@
         "sell_price": 375,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "rxtP9gBPZoKuEbQQs"
+        "unique_entry_id": "rxtP9gBPZoKuEbQQs",
+        "uses": null,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": "Color",
@@ -3594,6 +3942,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -3605,7 +3954,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "dBNahAnSJkF5q7Wta"
+        "unique_entry_id": "dBNahAnSJkF5q7Wta",
+        "uses": 30,
+        "variant_id": "0_0",
+        "variant_name": "Green"
     },
     {
         "body_category": "Color",
@@ -3635,6 +3987,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -3646,7 +3999,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "ziRQL2REqF652sgkc"
+        "unique_entry_id": "ziRQL2REqF652sgkc",
+        "uses": 30,
+        "variant_id": "1_0",
+        "variant_name": "Yellow"
     },
     {
         "body_category": "Color",
@@ -3676,6 +4032,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -3687,7 +4044,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "7id3sXPC6a2qTsM9S"
+        "unique_entry_id": "7id3sXPC6a2qTsM9S",
+        "uses": 30,
+        "variant_id": "2_0",
+        "variant_name": "Orange"
     },
     {
         "body_category": "Color",
@@ -3717,6 +4077,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -3728,7 +4089,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "txjiE4Yoi66P59Rpi"
+        "unique_entry_id": "txjiE4Yoi66P59Rpi",
+        "uses": 30,
+        "variant_id": "3_0",
+        "variant_name": "Light Blue"
     },
     {
         "body_category": "Color",
@@ -3758,6 +4122,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -3769,7 +4134,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "mQQKH3hfMyn2P4SAT"
+        "unique_entry_id": "mQQKH3hfMyn2P4SAT",
+        "uses": 30,
+        "variant_id": "4_0",
+        "variant_name": "Blue"
     },
     {
         "body_category": "Color",
@@ -3799,6 +4167,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -3810,7 +4179,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "oPumzrhQMfYrdrhfC"
+        "unique_entry_id": "oPumzrhQMfYrdrhfC",
+        "uses": 30,
+        "variant_id": "5_0",
+        "variant_name": "Purple"
     },
     {
         "body_category": "Color",
@@ -3840,6 +4212,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -3851,7 +4224,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "A44B9ELrDxsrY6HaR"
+        "unique_entry_id": "A44B9ELrDxsrY6HaR",
+        "uses": 30,
+        "variant_id": "6_0",
+        "variant_name": "Pink"
     },
     {
         "body_category": "Color",
@@ -3881,6 +4257,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -3892,7 +4269,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "k6AepGHtwTJhBzxXZ"
+        "unique_entry_id": "k6AepGHtwTJhBzxXZ",
+        "uses": 30,
+        "variant_id": "7_0",
+        "variant_name": "Red"
     },
     {
         "body_category": null,
@@ -3922,6 +4302,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": true,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -3933,7 +4314,10 @@
         "sell_price": 1500,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "HrGFzby54HCv326PJ"
+        "unique_entry_id": "HrGFzby54HCv326PJ",
+        "uses": null,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": "Color",
@@ -3963,6 +4347,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -3974,7 +4359,10 @@
         "sell_price": 600,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "Y62px4Jy5vaMtN46u"
+        "unique_entry_id": "Y62px4Jy5vaMtN46u",
+        "uses": 30,
+        "variant_id": "0_0",
+        "variant_name": "Blue"
     },
     {
         "body_category": "Color",
@@ -4004,6 +4392,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -4015,7 +4404,10 @@
         "sell_price": 600,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "JLMypnErvJc6n9wS8"
+        "unique_entry_id": "JLMypnErvJc6n9wS8",
+        "uses": 30,
+        "variant_id": "1_0",
+        "variant_name": "Yellow"
     },
     {
         "body_category": "Color",
@@ -4045,6 +4437,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -4056,7 +4449,10 @@
         "sell_price": 600,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "WTqWoAYMKuJsXjWWv"
+        "unique_entry_id": "WTqWoAYMKuJsXjWWv",
+        "uses": 30,
+        "variant_id": "2_0",
+        "variant_name": "Green"
     },
     {
         "body_category": "Color",
@@ -4086,6 +4482,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -4097,7 +4494,10 @@
         "sell_price": 600,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "SWX3JZeySqWz8PKQi"
+        "unique_entry_id": "SWX3JZeySqWz8PKQi",
+        "uses": 30,
+        "variant_id": "3_0",
+        "variant_name": "Red"
     },
     {
         "body_category": "Color",
@@ -4127,6 +4527,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -4138,7 +4539,10 @@
         "sell_price": 600,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "PBLScat4po99B5h4k"
+        "unique_entry_id": "PBLScat4po99B5h4k",
+        "uses": 30,
+        "variant_id": "4_0",
+        "variant_name": "Purple"
     },
     {
         "body_category": "Color",
@@ -4168,6 +4572,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -4179,7 +4584,10 @@
         "sell_price": 600,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "9bT9ZRhRG3e3WA8Bn"
+        "unique_entry_id": "9bT9ZRhRG3e3WA8Bn",
+        "uses": 30,
+        "variant_id": "5_0",
+        "variant_name": "Pink"
     },
     {
         "body_category": "Color",
@@ -4209,6 +4617,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -4220,7 +4629,10 @@
         "sell_price": 600,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "G58mfRs22f48nF9QA"
+        "unique_entry_id": "G58mfRs22f48nF9QA",
+        "uses": 30,
+        "variant_id": "6_0",
+        "variant_name": "White"
     },
     {
         "body_category": "Color",
@@ -4250,6 +4662,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -4261,7 +4674,10 @@
         "sell_price": 600,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "bgrXEg4NvgPjudWar"
+        "unique_entry_id": "bgrXEg4NvgPjudWar",
+        "uses": 30,
+        "variant_id": "7_0",
+        "variant_name": "Black"
     },
     {
         "body_category": null,
@@ -4291,6 +4707,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -4302,7 +4719,10 @@
         "sell_price": 200,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "L79jandXPjEAoQScd"
+        "unique_entry_id": "L79jandXPjEAoQScd",
+        "uses": 40,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -4332,6 +4752,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -4343,7 +4764,10 @@
         "sell_price": 100,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "qtA9zfSRuaCkmmQXr"
+        "unique_entry_id": "qtA9zfSRuaCkmmQXr",
+        "uses": null,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -4373,6 +4797,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -4384,7 +4809,10 @@
         "sell_price": 100,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "PHe3aaN2nsXFcQXxN"
+        "unique_entry_id": "PHe3aaN2nsXFcQXxN",
+        "uses": 10,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -4414,6 +4842,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -4425,7 +4854,10 @@
         "sell_price": 200,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "PnLgMCQ34R3HxWqcT"
+        "unique_entry_id": "PnLgMCQ34R3HxWqcT",
+        "uses": 40,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -4455,6 +4887,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -4466,7 +4899,10 @@
         "sell_price": 200,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "BdRyC6atcvz3KJnnM"
+        "unique_entry_id": "BdRyC6atcvz3KJnnM",
+        "uses": 20,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -4496,6 +4932,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": true,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -4507,7 +4944,10 @@
         "sell_price": 300,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "metLc5Y6NSKEzRGM6"
+        "unique_entry_id": "metLc5Y6NSKEzRGM6",
+        "uses": null,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -4537,6 +4977,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": true,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -4548,7 +4989,10 @@
         "sell_price": 375,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "jbrtgKzaXEnFXJSng"
+        "unique_entry_id": "jbrtgKzaXEnFXJSng",
+        "uses": null,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -4578,6 +5022,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -4589,7 +5034,10 @@
         "sell_price": 60,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "4xTJQeqZ9Q5us2Csw"
+        "unique_entry_id": "4xTJQeqZ9Q5us2Csw",
+        "uses": null,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -4619,6 +5067,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": true,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -4630,7 +5079,10 @@
         "sell_price": 375,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "gcTsMrJgt8QHcXidt"
+        "unique_entry_id": "gcTsMrJgt8QHcXidt",
+        "uses": null,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -4660,6 +5112,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -4671,7 +5124,10 @@
         "sell_price": 10655,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "eX9RXzQHaaZX89zoN"
+        "unique_entry_id": "eX9RXzQHaaZX89zoN",
+        "uses": 200,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -4701,6 +5157,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -4712,7 +5169,10 @@
         "sell_price": 10720,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "F3MKfewdJAqBFaaLr"
+        "unique_entry_id": "F3MKfewdJAqBFaaLr",
+        "uses": null,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -4742,6 +5202,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -4753,7 +5214,10 @@
         "sell_price": 10400,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "aKMTWuywGTuorriEg"
+        "unique_entry_id": "aKMTWuywGTuorriEg",
+        "uses": 90,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -4783,6 +5247,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -4794,7 +5259,10 @@
         "sell_price": 10400,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "Tt5YeqejtuW3T7Cbq"
+        "unique_entry_id": "Tt5YeqejtuW3T7Cbq",
+        "uses": 90,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -4824,6 +5292,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -4835,7 +5304,10 @@
         "sell_price": 10675,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "EMzMphvPgdhguM4Ku"
+        "unique_entry_id": "EMzMphvPgdhguM4Ku",
+        "uses": 200,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -4865,6 +5337,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -4876,7 +5349,10 @@
         "sell_price": 10300,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "tx3MMcGrZPHeyoLeY"
+        "unique_entry_id": "tx3MMcGrZPHeyoLeY",
+        "uses": 60,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -4906,6 +5382,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -4917,7 +5394,10 @@
         "sell_price": 20750,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "fdDGHvQBc5AhtExnt"
+        "unique_entry_id": "fdDGHvQBc5AhtExnt",
+        "uses": null,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -4947,6 +5427,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -4958,7 +5439,10 @@
         "sell_price": 10675,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "bzEwTDjTeK4gKSsZa"
+        "unique_entry_id": "bzEwTDjTeK4gKSsZa",
+        "uses": 180,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -4988,6 +5472,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -4999,7 +5484,10 @@
         "sell_price": 200,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "69kSyeax8CshTQas3"
+        "unique_entry_id": "69kSyeax8CshTQas3",
+        "uses": null,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -5029,6 +5517,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -5040,7 +5529,10 @@
         "sell_price": 150,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "6xF5xbt7WxTdqMYaH"
+        "unique_entry_id": "6xF5xbt7WxTdqMYaH",
+        "uses": null,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": "Variation",
@@ -5070,6 +5562,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": true,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -5081,7 +5574,10 @@
         "sell_price": 275,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "JRc5QE43YQj97Nut9"
+        "unique_entry_id": "JRc5QE43YQj97Nut9",
+        "uses": null,
+        "variant_id": "0_0",
+        "variant_name": "Stars"
     },
     {
         "body_category": "Variation",
@@ -5111,6 +5607,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": true,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -5122,7 +5619,10 @@
         "sell_price": 275,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "fqt573z5JFpZHaxJA"
+        "unique_entry_id": "fqt573z5JFpZHaxJA",
+        "uses": null,
+        "variant_id": "1_0",
+        "variant_name": "Moons"
     },
     {
         "body_category": "Variation",
@@ -5152,6 +5652,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": true,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -5163,7 +5664,10 @@
         "sell_price": 275,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "C6WCovahHE2WbnvtZ"
+        "unique_entry_id": "C6WCovahHE2WbnvtZ",
+        "uses": null,
+        "variant_id": "2_0",
+        "variant_name": "Stained Glass"
     },
     {
         "body_category": "Variation",
@@ -5193,6 +5697,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": true,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -5204,7 +5709,10 @@
         "sell_price": 275,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "9Z9aw5RNmStuhsqN3"
+        "unique_entry_id": "9Z9aw5RNmStuhsqN3",
+        "uses": null,
+        "variant_id": "3_0",
+        "variant_name": "Suns"
     },
     {
         "body_category": "Variation",
@@ -5234,6 +5742,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": true,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -5245,7 +5754,10 @@
         "sell_price": 275,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "zYPuWTZ6SNmPNSspa"
+        "unique_entry_id": "zYPuWTZ6SNmPNSspa",
+        "uses": null,
+        "variant_id": "4_0",
+        "variant_name": "Geese"
     },
     {
         "body_category": "Variation",
@@ -5275,6 +5787,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": true,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -5286,7 +5799,10 @@
         "sell_price": 275,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "EFnR68jRfzXG5ppas"
+        "unique_entry_id": "EFnR68jRfzXG5ppas",
+        "uses": null,
+        "variant_id": "5_0",
+        "variant_name": "Leaves"
     },
     {
         "body_category": null,
@@ -5316,6 +5832,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -5327,7 +5844,10 @@
         "sell_price": 1660,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "aBPEFn5NehSoQ428E"
+        "unique_entry_id": "aBPEFn5NehSoQ428E",
+        "uses": null,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -5357,6 +5877,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": true,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -5368,7 +5889,10 @@
         "sell_price": 6500,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "pQCDsY6gvHXL2SAff"
+        "unique_entry_id": "pQCDsY6gvHXL2SAff",
+        "uses": null,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": "Color",
@@ -5398,6 +5922,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -5409,7 +5934,10 @@
         "sell_price": 5190,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "gm4eDayQQoRZqnv7R"
+        "unique_entry_id": "gm4eDayQQoRZqnv7R",
+        "uses": null,
+        "variant_id": "0_0",
+        "variant_name": "Silver"
     },
     {
         "body_category": "Color",
@@ -5439,6 +5967,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -5450,7 +5979,10 @@
         "sell_price": 5190,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "qX3dAu6coTmw7eNdh"
+        "unique_entry_id": "qX3dAu6coTmw7eNdh",
+        "uses": null,
+        "variant_id": "1_0",
+        "variant_name": "Red"
     },
     {
         "body_category": "Color",
@@ -5480,6 +6012,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -5491,7 +6024,10 @@
         "sell_price": 5190,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "pcmR5JmFBFrw39NjH"
+        "unique_entry_id": "pcmR5JmFBFrw39NjH",
+        "uses": null,
+        "variant_id": "2_0",
+        "variant_name": "Brown"
     },
     {
         "body_category": null,
@@ -5521,6 +6057,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -5532,7 +6069,10 @@
         "sell_price": 3750,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "5JC2q7xYFFCBhX2mS"
+        "unique_entry_id": "5JC2q7xYFFCBhX2mS",
+        "uses": null,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -5562,6 +6102,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -5573,7 +6114,10 @@
         "sell_price": 3060,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "xjBnFqY5WRJ7isLET"
+        "unique_entry_id": "xjBnFqY5WRJ7isLET",
+        "uses": null,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -5603,6 +6147,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -5614,7 +6159,10 @@
         "sell_price": 1440,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "TxFCim9KyNE7edcXH"
+        "unique_entry_id": "TxFCim9KyNE7edcXH",
+        "uses": null,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -5644,6 +6192,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -5655,7 +6204,10 @@
         "sell_price": 375,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "9HpdmfZcEfuXtR8ey"
+        "unique_entry_id": "9HpdmfZcEfuXtR8ey",
+        "uses": null,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -5685,6 +6237,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -5696,7 +6249,10 @@
         "sell_price": 1580,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "rX7Dget4dZzprkSY4"
+        "unique_entry_id": "rX7Dget4dZzprkSY4",
+        "uses": null,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -5726,6 +6282,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": true,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -5737,7 +6294,10 @@
         "sell_price": null,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "DANhu4XN2fNyNnCTz"
+        "unique_entry_id": "DANhu4XN2fNyNnCTz",
+        "uses": null,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -5767,6 +6327,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -5778,7 +6339,10 @@
         "sell_price": 500,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "Gm8hxoCwEuTRvPZTq"
+        "unique_entry_id": "Gm8hxoCwEuTRvPZTq",
+        "uses": null,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -5808,6 +6372,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -5819,7 +6384,10 @@
         "sell_price": 150,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "xMbjcMkJpjkj4s28J"
+        "unique_entry_id": "xMbjcMkJpjkj4s28J",
+        "uses": 3,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -5849,6 +6417,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -5860,7 +6429,10 @@
         "sell_price": 150,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "2nTb3YZQri3CsvRzX"
+        "unique_entry_id": "2nTb3YZQri3CsvRzX",
+        "uses": 3,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -5890,6 +6462,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": true,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -5901,7 +6474,10 @@
         "sell_price": 150,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "BtJiWNjd29ewLT7Ye"
+        "unique_entry_id": "BtJiWNjd29ewLT7Ye",
+        "uses": 3,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -5931,6 +6507,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -5942,7 +6519,10 @@
         "sell_price": 150,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "AsGnTfhrNt33vuZN9"
+        "unique_entry_id": "AsGnTfhrNt33vuZN9",
+        "uses": 3,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -5972,6 +6552,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -5983,7 +6564,10 @@
         "sell_price": 1580,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "9sd3YGxf9jmuGBrGw"
+        "unique_entry_id": "9sd3YGxf9jmuGBrGw",
+        "uses": null,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": "Mushroom type",
@@ -6013,6 +6597,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": true,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -6024,7 +6609,10 @@
         "sell_price": 3300,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "6PLR84qz4JifgtLmh"
+        "unique_entry_id": "6PLR84qz4JifgtLmh",
+        "uses": null,
+        "variant_id": "0_0",
+        "variant_name": "Ordinary Mushroom"
     },
     {
         "body_category": "Mushroom type",
@@ -6054,6 +6642,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": true,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -6065,7 +6654,10 @@
         "sell_price": 3300,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "T898uqxxT6AXuXyBt"
+        "unique_entry_id": "T898uqxxT6AXuXyBt",
+        "uses": null,
+        "variant_id": "1_0",
+        "variant_name": "White Mushroom"
     },
     {
         "body_category": "Mushroom type",
@@ -6095,6 +6687,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": true,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -6106,7 +6699,10 @@
         "sell_price": 3300,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "rcjxuvmyCPyTjbbwm"
+        "unique_entry_id": "rcjxuvmyCPyTjbbwm",
+        "uses": null,
+        "variant_id": "2_0",
+        "variant_name": "Strange Mushroom"
     },
     {
         "body_category": "Mushroom type",
@@ -6136,6 +6732,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": true,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -6147,7 +6744,10 @@
         "sell_price": 3300,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "nN6uiNEshKx8sYwKE"
+        "unique_entry_id": "nN6uiNEshKx8sYwKE",
+        "uses": null,
+        "variant_id": "3_0",
+        "variant_name": "Red Mushroom"
     },
     {
         "body_category": "Mushroom type",
@@ -6177,6 +6777,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": true,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -6188,7 +6789,10 @@
         "sell_price": 3300,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "Dtm7dJLAERgpCpGXv"
+        "unique_entry_id": "Dtm7dJLAERgpCpGXv",
+        "uses": null,
+        "variant_id": "4_0",
+        "variant_name": "Yellow Mushroom"
     },
     {
         "body_category": "Color",
@@ -6218,6 +6822,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -6229,7 +6834,10 @@
         "sell_price": 600,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "HH8tKPMbt8DQpSrMS"
+        "unique_entry_id": "HH8tKPMbt8DQpSrMS",
+        "uses": 30,
+        "variant_id": "0_0",
+        "variant_name": "Red"
     },
     {
         "body_category": "Color",
@@ -6259,6 +6867,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -6270,7 +6879,10 @@
         "sell_price": 600,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "YiRCkQXgKaLKf8D6p"
+        "unique_entry_id": "YiRCkQXgKaLKf8D6p",
+        "uses": 30,
+        "variant_id": "1_0",
+        "variant_name": "Yellow"
     },
     {
         "body_category": "Color",
@@ -6300,6 +6912,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -6311,7 +6924,10 @@
         "sell_price": 600,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "X3x4tGwZiYnM5SRZv"
+        "unique_entry_id": "X3x4tGwZiYnM5SRZv",
+        "uses": 30,
+        "variant_id": "2_0",
+        "variant_name": "Green"
     },
     {
         "body_category": "Color",
@@ -6341,6 +6957,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -6352,7 +6969,10 @@
         "sell_price": 600,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "WtArd6h6MFQ8sjwEt"
+        "unique_entry_id": "WtArd6h6MFQ8sjwEt",
+        "uses": 30,
+        "variant_id": "3_0",
+        "variant_name": "Blue"
     },
     {
         "body_category": "Color",
@@ -6382,6 +7002,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -6393,7 +7014,10 @@
         "sell_price": 600,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "b8L8wbutCQEQjAzwD"
+        "unique_entry_id": "b8L8wbutCQEQjAzwD",
+        "uses": 30,
+        "variant_id": "4_0",
+        "variant_name": "Purple"
     },
     {
         "body_category": "Color",
@@ -6423,6 +7047,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -6434,7 +7059,10 @@
         "sell_price": 600,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "8Khqvy2vpnJkpKLET"
+        "unique_entry_id": "8Khqvy2vpnJkpKLET",
+        "uses": 30,
+        "variant_id": "5_0",
+        "variant_name": "Pink"
     },
     {
         "body_category": "Color",
@@ -6464,6 +7092,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -6475,7 +7104,10 @@
         "sell_price": 600,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "yNCid2KGDGFSz2W7L"
+        "unique_entry_id": "yNCid2KGDGFSz2W7L",
+        "uses": 30,
+        "variant_id": "6_0",
+        "variant_name": "White"
     },
     {
         "body_category": "Color",
@@ -6505,6 +7137,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -6516,7 +7149,10 @@
         "sell_price": 600,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "pFaH2eF4JpK3roNtQ"
+        "unique_entry_id": "pFaH2eF4JpK3roNtQ",
+        "uses": 30,
+        "variant_id": "7_0",
+        "variant_name": "Black"
     },
     {
         "body_category": null,
@@ -6546,6 +7182,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -6557,7 +7194,10 @@
         "sell_price": 30,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "da35nZC6werTpcAdp"
+        "unique_entry_id": "da35nZC6werTpcAdp",
+        "uses": null,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -6587,6 +7227,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -6598,7 +7239,10 @@
         "sell_price": 210,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "A7k4d6CpAJr2kmkCb"
+        "unique_entry_id": "A7k4d6CpAJr2kmkCb",
+        "uses": null,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -6628,6 +7272,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -6639,7 +7284,10 @@
         "sell_price": 2500,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "C5sMrB792zhZekeqW"
+        "unique_entry_id": "C5sMrB792zhZekeqW",
+        "uses": null,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -6669,6 +7317,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -6680,7 +7329,10 @@
         "sell_price": 2000,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "Qwfx3obKdwCDKr4WG"
+        "unique_entry_id": "Qwfx3obKdwCDKr4WG",
+        "uses": null,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -6710,6 +7362,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -6721,7 +7374,10 @@
         "sell_price": 1000,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "xN5tB3m4aXnm94RLL"
+        "unique_entry_id": "xN5tB3m4aXnm94RLL",
+        "uses": null,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -6751,6 +7407,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": true,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -6762,7 +7419,10 @@
         "sell_price": 150,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "Bxfse8ejEoGCfxqC7"
+        "unique_entry_id": "Bxfse8ejEoGCfxqC7",
+        "uses": 3,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -6792,6 +7452,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -6803,7 +7464,10 @@
         "sell_price": 150,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "cK694KbhDpsFd5YYs"
+        "unique_entry_id": "cK694KbhDpsFd5YYs",
+        "uses": 3,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": "Color",
@@ -6833,6 +7497,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Outdoor Tools",
         "kit_category": "Normal",
@@ -6844,7 +7509,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "bvYTHd7dbDC9ZijAd"
+        "unique_entry_id": "bvYTHd7dbDC9ZijAd",
+        "uses": 30,
+        "variant_id": "0_0",
+        "variant_name": "Avocado"
     },
     {
         "body_category": "Color",
@@ -6874,6 +7542,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Outdoor Tools",
         "kit_category": "Normal",
@@ -6885,7 +7554,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "bMdHGfZQu6846Somm"
+        "unique_entry_id": "bMdHGfZQu6846Somm",
+        "uses": 30,
+        "variant_id": "1_0",
+        "variant_name": "Orange"
     },
     {
         "body_category": "Color",
@@ -6915,6 +7587,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Outdoor Tools",
         "kit_category": "Normal",
@@ -6926,7 +7599,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "3Ne39o36LkhGc9rGk"
+        "unique_entry_id": "3Ne39o36LkhGc9rGk",
+        "uses": 30,
+        "variant_id": "2_0",
+        "variant_name": "Light Blue"
     },
     {
         "body_category": "Color",
@@ -6956,6 +7632,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Outdoor Tools",
         "kit_category": "Normal",
@@ -6967,7 +7644,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "BJAg7c5HmD6LncCCj"
+        "unique_entry_id": "BJAg7c5HmD6LncCCj",
+        "uses": 30,
+        "variant_id": "3_0",
+        "variant_name": "Red"
     },
     {
         "body_category": "Color",
@@ -6997,6 +7677,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Outdoor Tools",
         "kit_category": "Normal",
@@ -7008,7 +7689,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "DZwxGwf6DY8ucEKwP"
+        "unique_entry_id": "DZwxGwf6DY8ucEKwP",
+        "uses": 30,
+        "variant_id": "4_0",
+        "variant_name": "Beige"
     },
     {
         "body_category": "Color",
@@ -7038,6 +7722,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Outdoor Tools",
         "kit_category": "Normal",
@@ -7049,7 +7734,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "sGPYWwozfBgoi62fk"
+        "unique_entry_id": "sGPYWwozfBgoi62fk",
+        "uses": 30,
+        "variant_id": "5_0",
+        "variant_name": "Pink"
     },
     {
         "body_category": "Color",
@@ -7079,6 +7767,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Outdoor Tools",
         "kit_category": "Normal",
@@ -7090,7 +7779,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "3M7FJL2qfL5iAZvxn"
+        "unique_entry_id": "3M7FJL2qfL5iAZvxn",
+        "uses": 30,
+        "variant_id": "6_0",
+        "variant_name": "Yellow"
     },
     {
         "body_category": "Color",
@@ -7120,6 +7812,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Outdoor Tools",
         "kit_category": "Normal",
@@ -7131,7 +7824,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "JdGkE9Mf9mXN3jXj5"
+        "unique_entry_id": "JdGkE9Mf9mXN3jXj5",
+        "uses": 30,
+        "variant_id": "7_0",
+        "variant_name": "Black"
     },
     {
         "body_category": "Color",
@@ -7161,6 +7857,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Outdoor Tools",
         "kit_category": "Normal",
@@ -7172,7 +7869,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "v8G8jriZ3R47Y5CTA"
+        "unique_entry_id": "v8G8jriZ3R47Y5CTA",
+        "uses": 30,
+        "variant_id": "0_0",
+        "variant_name": "Avocado"
     },
     {
         "body_category": "Color",
@@ -7202,6 +7902,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Outdoor Tools",
         "kit_category": "Normal",
@@ -7213,7 +7914,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "SeeobMqj2fMCHFRR5"
+        "unique_entry_id": "SeeobMqj2fMCHFRR5",
+        "uses": 30,
+        "variant_id": "1_0",
+        "variant_name": "Orange"
     },
     {
         "body_category": "Color",
@@ -7243,6 +7947,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Outdoor Tools",
         "kit_category": "Normal",
@@ -7254,7 +7959,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "dDuDFS3Q87rSEvYGA"
+        "unique_entry_id": "dDuDFS3Q87rSEvYGA",
+        "uses": 30,
+        "variant_id": "2_0",
+        "variant_name": "Light Blue"
     },
     {
         "body_category": "Color",
@@ -7284,6 +7992,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Outdoor Tools",
         "kit_category": "Normal",
@@ -7295,7 +8004,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "bhFAvdtCDNFuaL7tp"
+        "unique_entry_id": "bhFAvdtCDNFuaL7tp",
+        "uses": 30,
+        "variant_id": "3_0",
+        "variant_name": "Red"
     },
     {
         "body_category": "Color",
@@ -7325,6 +8037,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Outdoor Tools",
         "kit_category": "Normal",
@@ -7336,7 +8049,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "cdXFG76YRzMhcBKvE"
+        "unique_entry_id": "cdXFG76YRzMhcBKvE",
+        "uses": 30,
+        "variant_id": "4_0",
+        "variant_name": "Beige"
     },
     {
         "body_category": "Color",
@@ -7366,6 +8082,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Outdoor Tools",
         "kit_category": "Normal",
@@ -7377,7 +8094,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "mRjtY48TEQkJaiYqv"
+        "unique_entry_id": "mRjtY48TEQkJaiYqv",
+        "uses": 30,
+        "variant_id": "5_0",
+        "variant_name": "Pink"
     },
     {
         "body_category": "Color",
@@ -7407,6 +8127,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Outdoor Tools",
         "kit_category": "Normal",
@@ -7418,7 +8139,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "qJWCYusFziCAZowwo"
+        "unique_entry_id": "qJWCYusFziCAZowwo",
+        "uses": 30,
+        "variant_id": "6_0",
+        "variant_name": "Yellow"
     },
     {
         "body_category": "Color",
@@ -7448,6 +8172,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Outdoor Tools",
         "kit_category": "Normal",
@@ -7459,7 +8184,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "v4vzaPQkSf4PHpjnC"
+        "unique_entry_id": "v4vzaPQkSf4PHpjnC",
+        "uses": 30,
+        "variant_id": "7_0",
+        "variant_name": "Black"
     },
     {
         "body_category": "Color",
@@ -7489,6 +8217,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Outdoor Tools",
         "kit_category": "Normal",
@@ -7500,7 +8229,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "Je4oQvJHrridANtwW"
+        "unique_entry_id": "Je4oQvJHrridANtwW",
+        "uses": 100,
+        "variant_id": "0_0",
+        "variant_name": "Avocado"
     },
     {
         "body_category": "Color",
@@ -7530,6 +8262,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Outdoor Tools",
         "kit_category": "Normal",
@@ -7541,7 +8274,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "Qkuxh7aBzEEcgXX3g"
+        "unique_entry_id": "Qkuxh7aBzEEcgXX3g",
+        "uses": 100,
+        "variant_id": "1_0",
+        "variant_name": "Orange"
     },
     {
         "body_category": "Color",
@@ -7571,6 +8307,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Outdoor Tools",
         "kit_category": "Normal",
@@ -7582,7 +8319,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "PhHgvEkW3oiFvhWuk"
+        "unique_entry_id": "PhHgvEkW3oiFvhWuk",
+        "uses": 100,
+        "variant_id": "2_0",
+        "variant_name": "Light Blue"
     },
     {
         "body_category": "Color",
@@ -7612,6 +8352,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Outdoor Tools",
         "kit_category": "Normal",
@@ -7623,7 +8364,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "6cvhBz44Z4BAxt8AX"
+        "unique_entry_id": "6cvhBz44Z4BAxt8AX",
+        "uses": 100,
+        "variant_id": "3_0",
+        "variant_name": "Red"
     },
     {
         "body_category": "Color",
@@ -7653,6 +8397,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Outdoor Tools",
         "kit_category": "Normal",
@@ -7664,7 +8409,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "R2WDYoFbBG2hWfFtf"
+        "unique_entry_id": "R2WDYoFbBG2hWfFtf",
+        "uses": 100,
+        "variant_id": "4_0",
+        "variant_name": "Beige"
     },
     {
         "body_category": "Color",
@@ -7694,6 +8442,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Outdoor Tools",
         "kit_category": "Normal",
@@ -7705,7 +8454,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "RKjgnpJYtFKZgKDRk"
+        "unique_entry_id": "RKjgnpJYtFKZgKDRk",
+        "uses": 100,
+        "variant_id": "5_0",
+        "variant_name": "Pink"
     },
     {
         "body_category": "Color",
@@ -7735,6 +8487,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Outdoor Tools",
         "kit_category": "Normal",
@@ -7746,7 +8499,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "ccQGhqapinP7FiXPJ"
+        "unique_entry_id": "ccQGhqapinP7FiXPJ",
+        "uses": 100,
+        "variant_id": "6_0",
+        "variant_name": "Yellow"
     },
     {
         "body_category": "Color",
@@ -7776,6 +8532,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Outdoor Tools",
         "kit_category": "Normal",
@@ -7787,7 +8544,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "e8xYribiE3L9zbeNz"
+        "unique_entry_id": "e8xYribiE3L9zbeNz",
+        "uses": 100,
+        "variant_id": "7_0",
+        "variant_name": "Black"
     },
     {
         "body_category": "Color",
@@ -7817,6 +8577,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Outdoor Tools",
         "kit_category": "Normal",
@@ -7828,7 +8589,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "qJkGDgJtD9cQye8oD"
+        "unique_entry_id": "qJkGDgJtD9cQye8oD",
+        "uses": 20,
+        "variant_id": "0_0",
+        "variant_name": "Avocado"
     },
     {
         "body_category": "Color",
@@ -7858,6 +8622,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Outdoor Tools",
         "kit_category": "Normal",
@@ -7869,7 +8634,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "AGkd53Dzoh7p5R5ef"
+        "unique_entry_id": "AGkd53Dzoh7p5R5ef",
+        "uses": 20,
+        "variant_id": "1_0",
+        "variant_name": "Orange"
     },
     {
         "body_category": "Color",
@@ -7899,6 +8667,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Outdoor Tools",
         "kit_category": "Normal",
@@ -7910,7 +8679,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "coBFkGLRCML7SdfZb"
+        "unique_entry_id": "coBFkGLRCML7SdfZb",
+        "uses": 20,
+        "variant_id": "2_0",
+        "variant_name": "Light Blue"
     },
     {
         "body_category": "Color",
@@ -7940,6 +8712,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Outdoor Tools",
         "kit_category": "Normal",
@@ -7951,7 +8724,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "ekLvFR39DuH4SdSgB"
+        "unique_entry_id": "ekLvFR39DuH4SdSgB",
+        "uses": 20,
+        "variant_id": "3_0",
+        "variant_name": "Red"
     },
     {
         "body_category": "Color",
@@ -7981,6 +8757,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Outdoor Tools",
         "kit_category": "Normal",
@@ -7992,7 +8769,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "mLqZThcPR7oSdGETt"
+        "unique_entry_id": "mLqZThcPR7oSdGETt",
+        "uses": 20,
+        "variant_id": "4_0",
+        "variant_name": "Beige"
     },
     {
         "body_category": "Color",
@@ -8022,6 +8802,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Outdoor Tools",
         "kit_category": "Normal",
@@ -8033,7 +8814,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "4QBCHA5pzb8Hapo7g"
+        "unique_entry_id": "4QBCHA5pzb8Hapo7g",
+        "uses": 20,
+        "variant_id": "5_0",
+        "variant_name": "Pink"
     },
     {
         "body_category": "Color",
@@ -8063,6 +8847,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Outdoor Tools",
         "kit_category": "Normal",
@@ -8074,7 +8859,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "FDEpHpn9wAoHmzq6S"
+        "unique_entry_id": "FDEpHpn9wAoHmzq6S",
+        "uses": 20,
+        "variant_id": "6_0",
+        "variant_name": "Yellow"
     },
     {
         "body_category": "Color",
@@ -8104,6 +8892,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Outdoor Tools",
         "kit_category": "Normal",
@@ -8115,7 +8904,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "d2BxLmN5fFdSTsXvP"
+        "unique_entry_id": "d2BxLmN5fFdSTsXvP",
+        "uses": 20,
+        "variant_id": "7_0",
+        "variant_name": "Black"
     },
     {
         "body_category": "Color",
@@ -8145,6 +8937,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Outdoor Tools",
         "kit_category": "Normal",
@@ -8156,7 +8949,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "QSmseNnk3WqSmSFH8"
+        "unique_entry_id": "QSmseNnk3WqSmSFH8",
+        "uses": 60,
+        "variant_id": "0_0",
+        "variant_name": "Avocado"
     },
     {
         "body_category": "Color",
@@ -8186,6 +8982,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Outdoor Tools",
         "kit_category": "Normal",
@@ -8197,7 +8994,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "SrmzprzDgkRoPoGcN"
+        "unique_entry_id": "SrmzprzDgkRoPoGcN",
+        "uses": 60,
+        "variant_id": "1_0",
+        "variant_name": "Orange"
     },
     {
         "body_category": "Color",
@@ -8227,6 +9027,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Outdoor Tools",
         "kit_category": "Normal",
@@ -8238,7 +9039,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "PRfaCyGvx3hieqpKh"
+        "unique_entry_id": "PRfaCyGvx3hieqpKh",
+        "uses": 60,
+        "variant_id": "2_0",
+        "variant_name": "Light Blue"
     },
     {
         "body_category": "Color",
@@ -8268,6 +9072,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Outdoor Tools",
         "kit_category": "Normal",
@@ -8279,7 +9084,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "AvLJNwY9w5fSpT47f"
+        "unique_entry_id": "AvLJNwY9w5fSpT47f",
+        "uses": 60,
+        "variant_id": "3_0",
+        "variant_name": "Red"
     },
     {
         "body_category": "Color",
@@ -8309,6 +9117,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Outdoor Tools",
         "kit_category": "Normal",
@@ -8320,7 +9129,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "o2Zd58pLWuNfHSRoz"
+        "unique_entry_id": "o2Zd58pLWuNfHSRoz",
+        "uses": 60,
+        "variant_id": "4_0",
+        "variant_name": "Beige"
     },
     {
         "body_category": "Color",
@@ -8350,6 +9162,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Outdoor Tools",
         "kit_category": "Normal",
@@ -8361,7 +9174,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "6GRguzWiwsicHTun6"
+        "unique_entry_id": "6GRguzWiwsicHTun6",
+        "uses": 60,
+        "variant_id": "5_0",
+        "variant_name": "Pink"
     },
     {
         "body_category": "Color",
@@ -8391,6 +9207,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Outdoor Tools",
         "kit_category": "Normal",
@@ -8402,7 +9219,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "iyppHKcwic4M3Mb9N"
+        "unique_entry_id": "iyppHKcwic4M3Mb9N",
+        "uses": 60,
+        "variant_id": "6_0",
+        "variant_name": "Yellow"
     },
     {
         "body_category": "Color",
@@ -8432,6 +9252,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": "Outdoor Tools",
         "kit_category": "Normal",
@@ -8443,7 +9264,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "vWuJ6J7YaPtB7vE88"
+        "unique_entry_id": "vWuJ6J7YaPtB7vE88",
+        "uses": 60,
+        "variant_id": "7_0",
+        "variant_name": "Black"
     },
     {
         "body_category": null,
@@ -8473,6 +9297,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": true,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -8484,7 +9309,10 @@
         "sell_price": 2800,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "7LjdexM2bmrbxDaCG"
+        "unique_entry_id": "7LjdexM2bmrbxDaCG",
+        "uses": null,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -8514,6 +9342,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -8525,7 +9354,10 @@
         "sell_price": 1580,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "kPAMdHZaM8oHFjjyg"
+        "unique_entry_id": "kPAMdHZaM8oHFjjyg",
+        "uses": null,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -8555,6 +9387,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -8566,7 +9399,10 @@
         "sell_price": 25,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "Wo8iqf7JZZ7egzmLf"
+        "unique_entry_id": "Wo8iqf7JZZ7egzmLf",
+        "uses": 1,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -8596,6 +9432,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -8607,7 +9444,10 @@
         "sell_price": 200,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "E4YnWi43HCLRM7NDp"
+        "unique_entry_id": "E4YnWi43HCLRM7NDp",
+        "uses": null,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -8637,6 +9477,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -8648,7 +9489,10 @@
         "sell_price": 150,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "jJkSMbhxX3ekBkWZK"
+        "unique_entry_id": "jJkSMbhxX3ekBkWZK",
+        "uses": null,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -8678,6 +9522,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -8689,7 +9534,10 @@
         "sell_price": 200,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "ixfo3W4miuTh5zvSP"
+        "unique_entry_id": "ixfo3W4miuTh5zvSP",
+        "uses": null,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -8719,6 +9567,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": true,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -8730,7 +9579,10 @@
         "sell_price": 150,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "t2RZQ8t2N95TqLqbs"
+        "unique_entry_id": "t2RZQ8t2N95TqLqbs",
+        "uses": 3,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": "Genre",
@@ -8760,6 +9612,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -8771,7 +9624,10 @@
         "sell_price": 200,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "FCg3CM7KxxFnKoSxi"
+        "unique_entry_id": "FCg3CM7KxxFnKoSxi",
+        "uses": null,
+        "variant_id": "0_0",
+        "variant_name": "Fashion"
     },
     {
         "body_category": "Genre",
@@ -8801,6 +9657,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -8812,7 +9669,10 @@
         "sell_price": 200,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "mT5aehKJR72MLssHJ"
+        "unique_entry_id": "mT5aehKJR72MLssHJ",
+        "uses": null,
+        "variant_id": "1_0",
+        "variant_name": "Music"
     },
     {
         "body_category": "Genre",
@@ -8842,6 +9702,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -8853,7 +9714,10 @@
         "sell_price": 200,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "WMLmjpqs5ERpB5pHY"
+        "unique_entry_id": "WMLmjpqs5ERpB5pHY",
+        "uses": null,
+        "variant_id": "2_0",
+        "variant_name": "Sports"
     },
     {
         "body_category": "Genre",
@@ -8883,6 +9747,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -8894,7 +9759,10 @@
         "sell_price": 200,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "3bGynWESHA7F77TuQ"
+        "unique_entry_id": "3bGynWESHA7F77TuQ",
+        "uses": null,
+        "variant_id": "3_0",
+        "variant_name": "Comic"
     },
     {
         "body_category": "Genre",
@@ -8924,6 +9792,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -8935,7 +9804,10 @@
         "sell_price": 200,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "9Y9zD3Eazk4qruBpL"
+        "unique_entry_id": "9Y9zD3Eazk4qruBpL",
+        "uses": null,
+        "variant_id": "0_0",
+        "variant_name": "Novel"
     },
     {
         "body_category": "Genre",
@@ -8965,6 +9837,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -8976,7 +9849,10 @@
         "sell_price": 200,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "HNFstehZ7EJisyuEB"
+        "unique_entry_id": "HNFstehZ7EJisyuEB",
+        "uses": null,
+        "variant_id": "1_0",
+        "variant_name": "Gardening Guide"
     },
     {
         "body_category": "Genre",
@@ -9006,6 +9882,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -9017,7 +9894,10 @@
         "sell_price": 200,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "L9AnDQ87xo8mPiwZt"
+        "unique_entry_id": "L9AnDQ87xo8mPiwZt",
+        "uses": null,
+        "variant_id": "2_0",
+        "variant_name": "Bug Guide"
     },
     {
         "body_category": "Genre",
@@ -9047,6 +9927,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -9058,7 +9939,10 @@
         "sell_price": 200,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "zWSy9jMt7PaBe8T5c"
+        "unique_entry_id": "zWSy9jMt7PaBe8T5c",
+        "uses": null,
+        "variant_id": "3_0",
+        "variant_name": "Fish Guide"
     },
     {
         "body_category": "Genre",
@@ -9088,6 +9972,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -9099,7 +9984,10 @@
         "sell_price": 200,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "A8bEpmeD6yHK6Sf2y"
+        "unique_entry_id": "A8bEpmeD6yHK6Sf2y",
+        "uses": null,
+        "variant_id": "4_0",
+        "variant_name": "Fossil Guide"
     },
     {
         "body_category": "Color",
@@ -9129,6 +10017,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -9140,7 +10029,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "nQuRoWnfXx8BPFTmA"
+        "unique_entry_id": "nQuRoWnfXx8BPFTmA",
+        "uses": 100,
+        "variant_id": "0_0",
+        "variant_name": "Light Blue"
     },
     {
         "body_category": "Color",
@@ -9170,6 +10062,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -9181,7 +10074,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "uayKLmvAsj6EHGnJW"
+        "unique_entry_id": "uayKLmvAsj6EHGnJW",
+        "uses": 100,
+        "variant_id": "1_0",
+        "variant_name": "White"
     },
     {
         "body_category": "Color",
@@ -9211,6 +10107,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -9222,7 +10119,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "Aa39b233u5kL2BZ5M"
+        "unique_entry_id": "Aa39b233u5kL2BZ5M",
+        "uses": 100,
+        "variant_id": "2_0",
+        "variant_name": "Yellow"
     },
     {
         "body_category": "Color",
@@ -9252,6 +10152,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -9263,7 +10164,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "jBDbWkxf2bC4Q7FXw"
+        "unique_entry_id": "jBDbWkxf2bC4Q7FXw",
+        "uses": 100,
+        "variant_id": "3_0",
+        "variant_name": "Pink"
     },
     {
         "body_category": "Color",
@@ -9293,6 +10197,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -9304,7 +10209,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "8p4An2z69STF7vEXo"
+        "unique_entry_id": "8p4An2z69STF7vEXo",
+        "uses": 100,
+        "variant_id": "4_0",
+        "variant_name": "Green"
     },
     {
         "body_category": "Color",
@@ -9334,6 +10242,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -9345,7 +10254,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "6T8xrvDKPvnmAgoAm"
+        "unique_entry_id": "6T8xrvDKPvnmAgoAm",
+        "uses": 100,
+        "variant_id": "5_0",
+        "variant_name": "Blue"
     },
     {
         "body_category": "Color",
@@ -9375,6 +10287,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -9386,7 +10299,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "uYrRaXdBb23RrpGNc"
+        "unique_entry_id": "uYrRaXdBb23RrpGNc",
+        "uses": 100,
+        "variant_id": "6_0",
+        "variant_name": "Purple"
     },
     {
         "body_category": "Color",
@@ -9416,6 +10332,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -9427,7 +10344,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "mwWibomJ7C9h9diZ3"
+        "unique_entry_id": "mwWibomJ7C9h9diZ3",
+        "uses": 100,
+        "variant_id": "7_0",
+        "variant_name": "Black"
     },
     {
         "body_category": "Shaker color",
@@ -9457,6 +10377,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -9468,7 +10389,10 @@
         "sell_price": 240,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "r6JPD8YnnAJXH2KPJ"
+        "unique_entry_id": "r6JPD8YnnAJXH2KPJ",
+        "uses": 3,
+        "variant_id": "0_0",
+        "variant_name": "Red"
     },
     {
         "body_category": "Shaker color",
@@ -9498,6 +10422,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -9509,7 +10434,10 @@
         "sell_price": 240,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "q73xinSyYuQjJjiMh"
+        "unique_entry_id": "q73xinSyYuQjJjiMh",
+        "uses": 3,
+        "variant_id": "1_0",
+        "variant_name": "Blue"
     },
     {
         "body_category": "Shaker color",
@@ -9539,6 +10467,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -9550,7 +10479,10 @@
         "sell_price": 240,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "dcuwDXs22ovjjCAnR"
+        "unique_entry_id": "dcuwDXs22ovjjCAnR",
+        "uses": 3,
+        "variant_id": "2_0",
+        "variant_name": "Green"
     },
     {
         "body_category": "Shaker color",
@@ -9580,6 +10512,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -9591,7 +10524,10 @@
         "sell_price": 240,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "RoZzTh2AhgNWMgf54"
+        "unique_entry_id": "RoZzTh2AhgNWMgf54",
+        "uses": 3,
+        "variant_id": "3_0",
+        "variant_name": "Pink"
     },
     {
         "body_category": null,
@@ -9621,6 +10557,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -9632,7 +10569,10 @@
         "sell_price": 150,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "6gqmwTQiD6eSwrPCb"
+        "unique_entry_id": "6gqmwTQiD6eSwrPCb",
+        "uses": 3,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -9662,6 +10602,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": true,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -9673,7 +10614,10 @@
         "sell_price": 150,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "XZ3KvjcLZCWX38vAe"
+        "unique_entry_id": "XZ3KvjcLZCWX38vAe",
+        "uses": 3,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -9703,6 +10647,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": true,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -9714,7 +10659,10 @@
         "sell_price": 150,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "5i9FTKgXZ5wANJrLq"
+        "unique_entry_id": "5i9FTKgXZ5wANJrLq",
+        "uses": 3,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -9744,6 +10692,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -9755,7 +10704,10 @@
         "sell_price": 150,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "4ymrzaFBSv7hLTfbA"
+        "unique_entry_id": "4ymrzaFBSv7hLTfbA",
+        "uses": 3,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -9785,6 +10737,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -9796,7 +10749,10 @@
         "sell_price": 150,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "93qC6sGCBMeknRuJ7"
+        "unique_entry_id": "93qC6sGCBMeknRuJ7",
+        "uses": null,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -9826,6 +10782,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -9837,7 +10794,10 @@
         "sell_price": 150,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "5YyG34qEdmAuABqHd"
+        "unique_entry_id": "5YyG34qEdmAuABqHd",
+        "uses": 1,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -9867,6 +10827,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -9878,7 +10839,10 @@
         "sell_price": 1580,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "RB9jk9eLFLJdokFjG"
+        "unique_entry_id": "RB9jk9eLFLJdokFjG",
+        "uses": null,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -9908,6 +10872,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": true,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -9919,7 +10884,10 @@
         "sell_price": 250,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "G9SmTScRAn3pcT7dB"
+        "unique_entry_id": "G9SmTScRAn3pcT7dB",
+        "uses": null,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -9949,6 +10917,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": true,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -9960,7 +10929,10 @@
         "sell_price": 1560,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "Qvn93rzckYS8BqHZs"
+        "unique_entry_id": "Qvn93rzckYS8BqHZs",
+        "uses": null,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -9990,6 +10962,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": true,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -10001,7 +10974,10 @@
         "sell_price": 5100,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "EsdC3wFYpzqXB7RRi"
+        "unique_entry_id": "EsdC3wFYpzqXB7RRi",
+        "uses": null,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": "Color",
@@ -10031,6 +11007,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -10042,7 +11019,10 @@
         "sell_price": 600,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "B6ejTnMqrR65wXv5z"
+        "unique_entry_id": "B6ejTnMqrR65wXv5z",
+        "uses": 100,
+        "variant_id": "0_0",
+        "variant_name": "Red"
     },
     {
         "body_category": "Color",
@@ -10072,6 +11052,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -10083,7 +11064,10 @@
         "sell_price": 600,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "6sKHnKeEuPcLpjEF3"
+        "unique_entry_id": "6sKHnKeEuPcLpjEF3",
+        "uses": 100,
+        "variant_id": "1_0",
+        "variant_name": "Yellow"
     },
     {
         "body_category": "Color",
@@ -10113,6 +11097,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -10124,7 +11109,10 @@
         "sell_price": 600,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "SSzNaAfdGfnFoL8Qq"
+        "unique_entry_id": "SSzNaAfdGfnFoL8Qq",
+        "uses": 100,
+        "variant_id": "2_0",
+        "variant_name": "Green"
     },
     {
         "body_category": "Color",
@@ -10154,6 +11142,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -10165,7 +11154,10 @@
         "sell_price": 600,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "qiAf2KCaX5Xr57bXb"
+        "unique_entry_id": "qiAf2KCaX5Xr57bXb",
+        "uses": 100,
+        "variant_id": "3_0",
+        "variant_name": "Blue"
     },
     {
         "body_category": "Color",
@@ -10195,6 +11187,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -10206,7 +11199,10 @@
         "sell_price": 600,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "bbbeRassLbyY8HCP3"
+        "unique_entry_id": "bbbeRassLbyY8HCP3",
+        "uses": 100,
+        "variant_id": "4_0",
+        "variant_name": "Purple"
     },
     {
         "body_category": "Color",
@@ -10236,6 +11232,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -10247,7 +11244,10 @@
         "sell_price": 600,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "CZoPP24ecNvDxdNfY"
+        "unique_entry_id": "CZoPP24ecNvDxdNfY",
+        "uses": 100,
+        "variant_id": "5_0",
+        "variant_name": "Pink"
     },
     {
         "body_category": "Color",
@@ -10277,6 +11277,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -10288,7 +11289,10 @@
         "sell_price": 600,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "JLemP4xchhzB2BmLk"
+        "unique_entry_id": "JLemP4xchhzB2BmLk",
+        "uses": 100,
+        "variant_id": "6_0",
+        "variant_name": "White"
     },
     {
         "body_category": "Color",
@@ -10318,6 +11322,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -10329,7 +11334,10 @@
         "sell_price": 600,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "egJGqooiodvdWtv6Y"
+        "unique_entry_id": "egJGqooiodvdWtv6Y",
+        "uses": 100,
+        "variant_id": "7_0",
+        "variant_name": "Black"
     },
     {
         "body_category": null,
@@ -10359,6 +11367,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -10370,7 +11379,10 @@
         "sell_price": 200,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "QEGoJrSFWoioQcg9s"
+        "unique_entry_id": "QEGoJrSFWoioQcg9s",
+        "uses": null,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": "Color",
@@ -10400,6 +11412,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -10411,7 +11424,10 @@
         "sell_price": 225,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "kgAEBkWjeZrdvZLwC"
+        "unique_entry_id": "kgAEBkWjeZrdvZLwC",
+        "uses": 20,
+        "variant_id": "0_0",
+        "variant_name": "Red"
     },
     {
         "body_category": "Color",
@@ -10441,6 +11457,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -10452,7 +11469,10 @@
         "sell_price": 225,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "aoeJ6gnZq7Cz9MH58"
+        "unique_entry_id": "aoeJ6gnZq7Cz9MH58",
+        "uses": 20,
+        "variant_id": "1_0",
+        "variant_name": "Yellow"
     },
     {
         "body_category": "Color",
@@ -10482,6 +11502,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -10493,7 +11514,10 @@
         "sell_price": 225,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "prpgd3XrcJHJZybaD"
+        "unique_entry_id": "prpgd3XrcJHJZybaD",
+        "uses": 20,
+        "variant_id": "2_0",
+        "variant_name": "Green"
     },
     {
         "body_category": "Color",
@@ -10523,6 +11547,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -10534,7 +11559,10 @@
         "sell_price": 225,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "bHrn2thixWf3tPgQB"
+        "unique_entry_id": "bHrn2thixWf3tPgQB",
+        "uses": 20,
+        "variant_id": "3_0",
+        "variant_name": "Blue"
     },
     {
         "body_category": "Color",
@@ -10564,6 +11592,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -10575,7 +11604,10 @@
         "sell_price": 225,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "o2z73jZqDyg3Bwjtq"
+        "unique_entry_id": "o2z73jZqDyg3Bwjtq",
+        "uses": 20,
+        "variant_id": "4_0",
+        "variant_name": "Purple"
     },
     {
         "body_category": "Color",
@@ -10605,6 +11637,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -10616,7 +11649,10 @@
         "sell_price": 225,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "J47FSys2XtpZr8dT9"
+        "unique_entry_id": "J47FSys2XtpZr8dT9",
+        "uses": 20,
+        "variant_id": "5_0",
+        "variant_name": "Pink"
     },
     {
         "body_category": "Color",
@@ -10646,6 +11682,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -10657,7 +11694,10 @@
         "sell_price": 225,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "qKjLAtchN5GvjyknF"
+        "unique_entry_id": "qKjLAtchN5GvjyknF",
+        "uses": 20,
+        "variant_id": "6_0",
+        "variant_name": "White"
     },
     {
         "body_category": "Color",
@@ -10687,6 +11727,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -10698,7 +11739,10 @@
         "sell_price": 225,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "dq9S8zrmf4efRddki"
+        "unique_entry_id": "dq9S8zrmf4efRddki",
+        "uses": 20,
+        "variant_id": "7_0",
+        "variant_name": "Gray"
     },
     {
         "body_category": null,
@@ -10728,6 +11772,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": true,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -10739,7 +11784,10 @@
         "sell_price": 250,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "RwPmXZCELsvd44w2t"
+        "unique_entry_id": "RwPmXZCELsvd44w2t",
+        "uses": null,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": "Pumpkin color",
@@ -10769,6 +11817,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": true,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Pumpkin",
@@ -10780,7 +11829,10 @@
         "sell_price": 750,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "7iCi5mzyunH38iSKL"
+        "unique_entry_id": "7iCi5mzyunH38iSKL",
+        "uses": null,
+        "variant_id": "0_0",
+        "variant_name": "Orange"
     },
     {
         "body_category": "Pumpkin color",
@@ -10810,6 +11862,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": true,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Pumpkin",
@@ -10821,7 +11874,10 @@
         "sell_price": 750,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "BeF86fkPMobZLnCJS"
+        "unique_entry_id": "BeF86fkPMobZLnCJS",
+        "uses": null,
+        "variant_id": "1_0",
+        "variant_name": "Yellow"
     },
     {
         "body_category": "Pumpkin color",
@@ -10851,6 +11907,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": true,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Pumpkin",
@@ -10862,7 +11919,10 @@
         "sell_price": 750,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "nKJf3hTfazivQyxa7"
+        "unique_entry_id": "nKJf3hTfazivQyxa7",
+        "uses": null,
+        "variant_id": "2_0",
+        "variant_name": "Green"
     },
     {
         "body_category": "Pumpkin color",
@@ -10892,6 +11952,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": true,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Pumpkin",
@@ -10903,7 +11964,10 @@
         "sell_price": 750,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "Yqgz4pipg2uNLWTYM"
+        "unique_entry_id": "Yqgz4pipg2uNLWTYM",
+        "uses": null,
+        "variant_id": "3_0",
+        "variant_name": "Monochrome"
     },
     {
         "body_category": null,
@@ -10933,6 +11997,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": true,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -10944,7 +12009,10 @@
         "sell_price": 4300,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "M8JtabnRsijZu4RqN"
+        "unique_entry_id": "M8JtabnRsijZu4RqN",
+        "uses": null,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": "Color",
@@ -10974,6 +12042,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -10985,7 +12054,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "wmcDHN8JZMbnvLiNs"
+        "unique_entry_id": "wmcDHN8JZMbnvLiNs",
+        "uses": 30,
+        "variant_id": "0_0",
+        "variant_name": "Yellow"
     },
     {
         "body_category": "Color",
@@ -11015,6 +12087,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -11026,7 +12099,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "KxYpvPeESLFNeLjGm"
+        "unique_entry_id": "KxYpvPeESLFNeLjGm",
+        "uses": 30,
+        "variant_id": "1_0",
+        "variant_name": "Red"
     },
     {
         "body_category": "Color",
@@ -11056,6 +12132,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -11067,7 +12144,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "7GJJruF4u4y62nvQy"
+        "unique_entry_id": "7GJJruF4u4y62nvQy",
+        "uses": 30,
+        "variant_id": "2_0",
+        "variant_name": "Blue"
     },
     {
         "body_category": "Color",
@@ -11097,6 +12177,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -11108,7 +12189,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "y7BXcMSNByN5Q4Ycs"
+        "unique_entry_id": "y7BXcMSNByN5Q4Ycs",
+        "uses": 30,
+        "variant_id": "3_0",
+        "variant_name": "Light Green"
     },
     {
         "body_category": "Color",
@@ -11138,6 +12222,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -11149,7 +12234,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "ajfxbnCnpzWsxsk9q"
+        "unique_entry_id": "ajfxbnCnpzWsxsk9q",
+        "uses": 30,
+        "variant_id": "4_0",
+        "variant_name": "Pink"
     },
     {
         "body_category": "Color",
@@ -11179,6 +12267,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -11190,7 +12279,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "4mcfWQJQeebqu4az6"
+        "unique_entry_id": "4mcfWQJQeebqu4az6",
+        "uses": 30,
+        "variant_id": "5_0",
+        "variant_name": "Purple"
     },
     {
         "body_category": "Color",
@@ -11220,6 +12312,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -11231,7 +12324,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "ngWXLftz3J8uf7WZq"
+        "unique_entry_id": "ngWXLftz3J8uf7WZq",
+        "uses": 30,
+        "variant_id": "6_0",
+        "variant_name": "Light Blue"
     },
     {
         "body_category": "Color",
@@ -11261,6 +12357,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -11272,7 +12369,10 @@
         "sell_price": 625,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "YZeGaCuXAbFSpEg3h"
+        "unique_entry_id": "YZeGaCuXAbFSpEg3h",
+        "uses": 30,
+        "variant_id": "7_0",
+        "variant_name": "Green"
     },
     {
         "body_category": null,
@@ -11302,6 +12402,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -11313,7 +12414,10 @@
         "sell_price": 6500,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "mMwQ96ZbuiBMzgutd"
+        "unique_entry_id": "mMwQ96ZbuiBMzgutd",
+        "uses": null,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -11343,6 +12447,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": true,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -11354,7 +12459,10 @@
         "sell_price": 375,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "AuWqSWWeNacnwYhyk"
+        "unique_entry_id": "AuWqSWWeNacnwYhyk",
+        "uses": null,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -11384,6 +12492,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -11395,7 +12504,10 @@
         "sell_price": 560,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "NKHsBuYu25RHWjMBx"
+        "unique_entry_id": "NKHsBuYu25RHWjMBx",
+        "uses": 100,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -11425,6 +12537,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -11436,7 +12549,10 @@
         "sell_price": 150,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "c97LXNZRkhn8tDBJ3"
+        "unique_entry_id": "c97LXNZRkhn8tDBJ3",
+        "uses": 3,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -11466,6 +12582,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": true,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -11477,7 +12594,10 @@
         "sell_price": 150,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "CdFxYJ9eRjApQfEQM"
+        "unique_entry_id": "CdFxYJ9eRjApQfEQM",
+        "uses": 3,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -11507,6 +12627,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -11518,7 +12639,10 @@
         "sell_price": 150,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "6xEQLktM6S7yGBhSA"
+        "unique_entry_id": "6xEQLktM6S7yGBhSA",
+        "uses": 3,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -11548,6 +12672,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -11559,7 +12684,10 @@
         "sell_price": 75,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "tELkNKkmj6HbDxy8m"
+        "unique_entry_id": "tELkNKkmj6HbDxy8m",
+        "uses": 3,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -11589,6 +12717,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -11600,7 +12729,10 @@
         "sell_price": 375,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "eYwGmK6fQwz2XJcht"
+        "unique_entry_id": "eYwGmK6fQwz2XJcht",
+        "uses": null,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -11630,6 +12762,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -11641,7 +12774,10 @@
         "sell_price": 210,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "vEEPnFx9FEcKKuzg2"
+        "unique_entry_id": "vEEPnFx9FEcKKuzg2",
+        "uses": null,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -11671,6 +12807,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -11682,7 +12819,10 @@
         "sell_price": 1550,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "KnHhJXtuXEhqcPMTx"
+        "unique_entry_id": "KnHhJXtuXEhqcPMTx",
+        "uses": null,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -11712,6 +12852,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -11723,7 +12864,10 @@
         "sell_price": 1580,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "u7ZfCMpDYtPRbK2vc"
+        "unique_entry_id": "u7ZfCMpDYtPRbK2vc",
+        "uses": null,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -11753,6 +12897,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -11764,7 +12909,10 @@
         "sell_price": 200,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "QxaQCNrLi393nadSQ"
+        "unique_entry_id": "QxaQCNrLi393nadSQ",
+        "uses": null,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -11794,6 +12942,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -11805,7 +12954,10 @@
         "sell_price": 200,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "bPKsESXK5jLNWXAof"
+        "unique_entry_id": "bPKsESXK5jLNWXAof",
+        "uses": null,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -11835,6 +12987,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -11846,7 +12999,10 @@
         "sell_price": 150,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "oZLLmRsTp5HZ6tAvw"
+        "unique_entry_id": "oZLLmRsTp5HZ6tAvw",
+        "uses": 3,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -11876,6 +13032,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -11887,7 +13044,10 @@
         "sell_price": 150,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "GRzhsozbuwfpdSxAu"
+        "unique_entry_id": "GRzhsozbuwfpdSxAu",
+        "uses": 3,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -11917,6 +13077,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -11928,7 +13089,10 @@
         "sell_price": 600,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "2vD5XPKHSCCSjy882"
+        "unique_entry_id": "2vD5XPKHSCCSjy882",
+        "uses": null,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": "Color",
@@ -11958,6 +13122,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -11969,7 +13134,10 @@
         "sell_price": 1940,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "WW5vXJpgHWbZNqN6t"
+        "unique_entry_id": "WW5vXJpgHWbZNqN6t",
+        "uses": null,
+        "variant_id": "0_0",
+        "variant_name": "Light Brown"
     },
     {
         "body_category": "Color",
@@ -11999,6 +13167,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -12010,7 +13179,10 @@
         "sell_price": 1940,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "2Bn52xsRMR52qYrJg"
+        "unique_entry_id": "2Bn52xsRMR52qYrJg",
+        "uses": null,
+        "variant_id": "1_0",
+        "variant_name": "Dark Brown"
     },
     {
         "body_category": "Color",
@@ -12040,6 +13212,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -12051,7 +13224,10 @@
         "sell_price": 1940,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "rJYqpe4XHCbBsvfKR"
+        "unique_entry_id": "rJYqpe4XHCbBsvfKR",
+        "uses": null,
+        "variant_id": "2_0",
+        "variant_name": "White"
     },
     {
         "body_category": null,
@@ -12081,6 +13257,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -12092,7 +13269,10 @@
         "sell_price": 1000,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "2Re2yBHTfLRDiTWRb"
+        "unique_entry_id": "2Re2yBHTfLRDiTWRb",
+        "uses": null,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": "Color",
@@ -12122,6 +13302,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -12133,7 +13314,10 @@
         "sell_price": 600,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "wLChevsx2T9Sm6yf4"
+        "unique_entry_id": "wLChevsx2T9Sm6yf4",
+        "uses": 60,
+        "variant_id": "0_0",
+        "variant_name": "Blue"
     },
     {
         "body_category": "Color",
@@ -12163,6 +13347,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -12174,7 +13359,10 @@
         "sell_price": 600,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "29SBgiL9wQWpYmfa4"
+        "unique_entry_id": "29SBgiL9wQWpYmfa4",
+        "uses": 60,
+        "variant_id": "1_0",
+        "variant_name": "Orange"
     },
     {
         "body_category": "Color",
@@ -12204,6 +13392,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -12215,7 +13404,10 @@
         "sell_price": 600,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "m8fFeTsh7z7JgjB6H"
+        "unique_entry_id": "m8fFeTsh7z7JgjB6H",
+        "uses": 60,
+        "variant_id": "2_0",
+        "variant_name": "Green"
     },
     {
         "body_category": "Color",
@@ -12245,6 +13437,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -12256,7 +13449,10 @@
         "sell_price": 600,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "95zusTkvS5ou2wPEC"
+        "unique_entry_id": "95zusTkvS5ou2wPEC",
+        "uses": 60,
+        "variant_id": "3_0",
+        "variant_name": "Red"
     },
     {
         "body_category": "Color",
@@ -12286,6 +13482,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -12297,7 +13494,10 @@
         "sell_price": 600,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "wiAp8rGXiDM3kyxpo"
+        "unique_entry_id": "wiAp8rGXiDM3kyxpo",
+        "uses": 60,
+        "variant_id": "4_0",
+        "variant_name": "Purple"
     },
     {
         "body_category": "Color",
@@ -12327,6 +13527,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -12338,7 +13539,10 @@
         "sell_price": 600,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "JSe4Du3wPtE2TT98X"
+        "unique_entry_id": "JSe4Du3wPtE2TT98X",
+        "uses": 60,
+        "variant_id": "5_0",
+        "variant_name": "Pink"
     },
     {
         "body_category": "Color",
@@ -12368,6 +13572,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -12379,7 +13584,10 @@
         "sell_price": 600,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "Z7ggDgjzNii2RWjNQ"
+        "unique_entry_id": "Z7ggDgjzNii2RWjNQ",
+        "uses": 60,
+        "variant_id": "6_0",
+        "variant_name": "White"
     },
     {
         "body_category": "Color",
@@ -12409,6 +13617,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": true,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -12420,7 +13629,10 @@
         "sell_price": 600,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "77zFHmNrGhuJAvvjA"
+        "unique_entry_id": "77zFHmNrGhuJAvvjA",
+        "uses": 60,
+        "variant_id": "7_0",
+        "variant_name": "Black"
     },
     {
         "body_category": null,
@@ -12450,6 +13662,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": true,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -12461,7 +13674,10 @@
         "sell_price": 3500,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "syPb2baTrP3zqi66f"
+        "unique_entry_id": "syPb2baTrP3zqi66f",
+        "uses": null,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -12491,6 +13707,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -12502,7 +13719,10 @@
         "sell_price": 150,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "H8TDicKFng43vpWy2"
+        "unique_entry_id": "H8TDicKFng43vpWy2",
+        "uses": 3,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -12532,6 +13752,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -12543,7 +13764,10 @@
         "sell_price": 1580,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "ERMKczYuvS6Eff7C9"
+        "unique_entry_id": "ERMKczYuvS6Eff7C9",
+        "uses": null,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": "Paint color",
@@ -12573,6 +13797,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -12584,7 +13809,10 @@
         "sell_price": 2040,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "Apjs6HkLwMsryuvbt"
+        "unique_entry_id": "Apjs6HkLwMsryuvbt",
+        "uses": null,
+        "variant_id": "0_0",
+        "variant_name": "Natural"
     },
     {
         "body_category": "Paint color",
@@ -12614,6 +13842,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -12625,7 +13854,10 @@
         "sell_price": 2040,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "e68rdW5MrXueaLt35"
+        "unique_entry_id": "e68rdW5MrXueaLt35",
+        "uses": null,
+        "variant_id": "1_0",
+        "variant_name": "Blue"
     },
     {
         "body_category": "Paint color",
@@ -12655,6 +13887,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -12666,7 +13899,10 @@
         "sell_price": 2040,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "kG85Xou84e8PKg7hD"
+        "unique_entry_id": "kG85Xou84e8PKg7hD",
+        "uses": null,
+        "variant_id": "2_0",
+        "variant_name": "Red"
     },
     {
         "body_category": "Paint color",
@@ -12696,6 +13932,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -12707,7 +13944,10 @@
         "sell_price": 2040,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "4Ymt3v2EFoZL7mghy"
+        "unique_entry_id": "4Ymt3v2EFoZL7mghy",
+        "uses": null,
+        "variant_id": "3_0",
+        "variant_name": "Yellow"
     },
     {
         "body_category": "Paint color",
@@ -12737,6 +13977,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -12748,7 +13989,10 @@
         "sell_price": 2040,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "oGJNcNSyTYjQAgg8Y"
+        "unique_entry_id": "oGJNcNSyTYjQAgg8Y",
+        "uses": null,
+        "variant_id": "4_0",
+        "variant_name": "Green"
     },
     {
         "body_category": "Paint color",
@@ -12778,6 +14022,7 @@
         "internal_name": null,
         "is_craftable": true,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": "Normal",
@@ -12789,7 +14034,10 @@
         "sell_price": 2040,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "ZPMwEtEspQwqSGLCg"
+        "unique_entry_id": "ZPMwEtEspQwqSGLCg",
+        "uses": null,
+        "variant_id": "5_0",
+        "variant_name": "White"
     },
     {
         "body_category": null,
@@ -12819,6 +14067,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": true,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -12830,7 +14079,10 @@
         "sell_price": 10,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "xqXJch47cQrNT65jG"
+        "unique_entry_id": "xqXJch47cQrNT65jG",
+        "uses": 3,
+        "variant_id": null,
+        "variant_name": null
     },
     {
         "body_category": null,
@@ -12860,6 +14112,7 @@
         "internal_name": null,
         "is_craftable": false,
         "is_equippable": false,
+        "is_seasonal": false,
         "is_unlocked": true,
         "item_category": null,
         "kit_category": null,
@@ -12871,6 +14124,9 @@
         "sell_price": 150,
         "size_1": 1.0,
         "size_2": 1.0,
-        "unique_entry_id": "dF8pTGMJY5465vatR"
+        "unique_entry_id": "dF8pTGMJY5465vatR",
+        "uses": null,
+        "variant_id": null,
+        "variant_name": null
     }
 ]

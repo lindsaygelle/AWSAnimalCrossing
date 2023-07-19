@@ -148,7 +148,7 @@
                 "string"
             ]
         },
-        "location_name": {
+        "location_category": {
             "maxLength": 5,
             "minLength": 3,
             "type": [
@@ -275,7 +275,7 @@
         "internal_name",
         "is_surface",
         "lighting_category",
-        "location_name",
+        "location_category",
         "name",
         "rate_maximum",
         "rate_minimum",

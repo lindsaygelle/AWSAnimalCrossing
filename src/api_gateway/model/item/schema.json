@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 39,
-    "minProperties": 39,
+    "maxProperties": 43,
+    "minProperties": 43,
     "properties": {
         "body_category": {
             "maxLength": 13,
@@ -199,6 +199,11 @@
                 "boolean"
             ]
         },
+        "is_seasonal": {
+            "type": [
+                "boolean"
+            ]
+        },
         "is_unlocked": {
             "type": [
                 "boolean"
@@ -295,6 +300,32 @@
             "type": [
                 "string"
             ]
+        },
+        "uses": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 200,
+            "minimum": 1,
+            "type": [
+                "integer",
+                "null"
+            ]
+        },
+        "variant_id": {
+            "maxLength": 3,
+            "minLength": 3,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "variant_name": {
+            "maxLength": 17,
+            "minLength": 3,
+            "type": [
+                "null",
+                "string"
+            ]
         }
     },
     "required": [
@@ -325,6 +356,7 @@
         "internal_name",
         "is_craftable",
         "is_equippable",
+        "is_seasonal",
         "is_unlocked",
         "item_category",
         "kit_category",
@@ -336,7 +368,10 @@
         "sell_price",
         "size_1",
         "size_2",
-        "unique_entry_id"
+        "unique_entry_id",
+        "uses",
+        "variant_id",
+        "variant_name"
     ],
     "title": "Item",
     "type": "object"

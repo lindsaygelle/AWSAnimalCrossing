@@ -82,6 +82,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -123,6 +126,12 @@
             },
             "unique_entry_id": {
                 "S": "kkfW3mkDqaSJ6oZyX"
+            },
+            "variant_id": {
+                "S": "0_0"
+            },
+            "variant_name": {
+                "S": "Silver"
             }
         },
         "TableName": "furniture_gyroid"
@@ -210,6 +219,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -251,6 +263,12 @@
             },
             "unique_entry_id": {
                 "S": "3yc99fYfgeEEuEpmE"
+            },
+            "variant_id": {
+                "S": "1_0"
+            },
+            "variant_name": {
+                "S": "Copper"
             }
         },
         "TableName": "furniture_gyroid"
@@ -338,6 +356,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -379,6 +400,12 @@
             },
             "unique_entry_id": {
                 "S": "d2S8TAMtdyn2otNvv"
+            },
+            "variant_id": {
+                "S": "2_0"
+            },
+            "variant_name": {
+                "S": "Blue"
             }
         },
         "TableName": "furniture_gyroid"
@@ -466,6 +493,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -507,6 +537,12 @@
             },
             "unique_entry_id": {
                 "S": "CFL93pob3zvkoxaMu"
+            },
+            "variant_id": {
+                "S": "3_0"
+            },
+            "variant_name": {
+                "S": "Black"
             }
         },
         "TableName": "furniture_gyroid"
@@ -594,6 +630,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -635,6 +674,12 @@
             },
             "unique_entry_id": {
                 "S": "JzeaDWnEw5PmA9HsR"
+            },
+            "variant_id": {
+                "S": "0_0"
+            },
+            "variant_name": {
+                "S": "Yellow"
             }
         },
         "TableName": "furniture_gyroid"
@@ -722,6 +767,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -763,6 +811,12 @@
             },
             "unique_entry_id": {
                 "S": "j7fH8LTP7eE7xpkcD"
+            },
+            "variant_id": {
+                "S": "1_0"
+            },
+            "variant_name": {
+                "S": "Brown"
             }
         },
         "TableName": "furniture_gyroid"
@@ -850,6 +904,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -891,6 +948,12 @@
             },
             "unique_entry_id": {
                 "S": "BcuaRWuFvnx23qbEu"
+            },
+            "variant_id": {
+                "S": "2_0"
+            },
+            "variant_name": {
+                "S": "Green"
             }
         },
         "TableName": "furniture_gyroid"
@@ -978,6 +1041,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -1019,6 +1085,12 @@
             },
             "unique_entry_id": {
                 "S": "CHfXBgGM5JJ2ZNYv9"
+            },
+            "variant_id": {
+                "S": "3_0"
+            },
+            "variant_name": {
+                "S": "Pink"
             }
         },
         "TableName": "furniture_gyroid"
@@ -1106,6 +1178,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -1147,6 +1222,12 @@
             },
             "unique_entry_id": {
                 "S": "B3pxocyqgxwjJtd6u"
+            },
+            "variant_id": {
+                "S": "4_0"
+            },
+            "variant_name": {
+                "S": "Blue"
             }
         },
         "TableName": "furniture_gyroid"
@@ -1234,6 +1315,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -1275,6 +1359,12 @@
             },
             "unique_entry_id": {
                 "S": "9W6sgmuK9FAoYnAgJ"
+            },
+            "variant_id": {
+                "S": "0_0"
+            },
+            "variant_name": {
+                "S": "Blue"
             }
         },
         "TableName": "furniture_gyroid"
@@ -1362,6 +1452,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -1403,6 +1496,12 @@
             },
             "unique_entry_id": {
                 "S": "wqePHxASM2D5MzkhW"
+            },
+            "variant_id": {
+                "S": "1_0"
+            },
+            "variant_name": {
+                "S": "Pink"
             }
         },
         "TableName": "furniture_gyroid"
@@ -1490,6 +1589,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -1531,6 +1633,12 @@
             },
             "unique_entry_id": {
                 "S": "RaJnNHN9vtyitfNRp"
+            },
+            "variant_id": {
+                "S": "2_0"
+            },
+            "variant_name": {
+                "S": "Green"
             }
         },
         "TableName": "furniture_gyroid"
@@ -1618,6 +1726,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -1659,6 +1770,12 @@
             },
             "unique_entry_id": {
                 "S": "7DcmhrnFjsMKyhyvs"
+            },
+            "variant_id": {
+                "S": "3_0"
+            },
+            "variant_name": {
+                "S": "Purple"
             }
         },
         "TableName": "furniture_gyroid"
@@ -1746,6 +1863,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -1787,6 +1907,12 @@
             },
             "unique_entry_id": {
                 "S": "iRFDM7XADzxAamc5h"
+            },
+            "variant_id": {
+                "S": "4_0"
+            },
+            "variant_name": {
+                "S": "Brown"
             }
         },
         "TableName": "furniture_gyroid"
@@ -1874,6 +2000,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -1915,6 +2044,12 @@
             },
             "unique_entry_id": {
                 "S": "dK69jDDFGqLJ5gfEw"
+            },
+            "variant_id": {
+                "S": "5_0"
+            },
+            "variant_name": {
+                "S": "White"
             }
         },
         "TableName": "furniture_gyroid"
@@ -2002,6 +2137,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -2043,6 +2181,12 @@
             },
             "unique_entry_id": {
                 "S": "nzZ8BhZMNuRXNGxkA"
+            },
+            "variant_id": {
+                "S": "0_0"
+            },
+            "variant_name": {
+                "S": "Orange"
             }
         },
         "TableName": "furniture_gyroid"
@@ -2130,6 +2274,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -2171,6 +2318,12 @@
             },
             "unique_entry_id": {
                 "S": "iBnNNvC7nGWL7tryz"
+            },
+            "variant_id": {
+                "S": "1_0"
+            },
+            "variant_name": {
+                "S": "Beige"
             }
         },
         "TableName": "furniture_gyroid"
@@ -2258,6 +2411,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -2299,6 +2455,12 @@
             },
             "unique_entry_id": {
                 "S": "twv95nheGWR57tSKf"
+            },
+            "variant_id": {
+                "S": "2_0"
+            },
+            "variant_name": {
+                "S": "Green"
             }
         },
         "TableName": "furniture_gyroid"
@@ -2386,6 +2548,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -2427,6 +2592,12 @@
             },
             "unique_entry_id": {
                 "S": "7ips4Bj26grdqknHj"
+            },
+            "variant_id": {
+                "S": "3_0"
+            },
+            "variant_name": {
+                "S": "Brown"
             }
         },
         "TableName": "furniture_gyroid"
@@ -2514,6 +2685,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -2555,6 +2729,12 @@
             },
             "unique_entry_id": {
                 "S": "sx5w3astuWQSZPwHY"
+            },
+            "variant_id": {
+                "S": "4_0"
+            },
+            "variant_name": {
+                "S": "Blue"
             }
         },
         "TableName": "furniture_gyroid"
@@ -2642,6 +2822,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -2683,6 +2866,12 @@
             },
             "unique_entry_id": {
                 "S": "rLx8Bvw5KYfbAoDCW"
+            },
+            "variant_id": {
+                "S": "5_0"
+            },
+            "variant_name": {
+                "S": "Gray"
             }
         },
         "TableName": "furniture_gyroid"
@@ -2770,6 +2959,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -2811,6 +3003,12 @@
             },
             "unique_entry_id": {
                 "S": "jJ5qYcuccjfRXTuAj"
+            },
+            "variant_id": {
+                "S": "0_0"
+            },
+            "variant_name": {
+                "S": "Blue"
             }
         },
         "TableName": "furniture_gyroid"
@@ -2898,6 +3096,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -2939,6 +3140,12 @@
             },
             "unique_entry_id": {
                 "S": "4ygoAekmHeQR6qsx2"
+            },
+            "variant_id": {
+                "S": "1_0"
+            },
+            "variant_name": {
+                "S": "Red"
             }
         },
         "TableName": "furniture_gyroid"
@@ -3026,6 +3233,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -3067,6 +3277,12 @@
             },
             "unique_entry_id": {
                 "S": "jLoixeQfRW76YwRam"
+            },
+            "variant_id": {
+                "S": "2_0"
+            },
+            "variant_name": {
+                "S": "Green"
             }
         },
         "TableName": "furniture_gyroid"
@@ -3154,6 +3370,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -3195,6 +3414,12 @@
             },
             "unique_entry_id": {
                 "S": "HxpcrjDmFaaaLaDze"
+            },
+            "variant_id": {
+                "S": "3_0"
+            },
+            "variant_name": {
+                "S": "Purple"
             }
         },
         "TableName": "furniture_gyroid"
@@ -3282,6 +3507,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -3323,6 +3551,12 @@
             },
             "unique_entry_id": {
                 "S": "Phox4Q4uxne3f7RNZ"
+            },
+            "variant_id": {
+                "S": "0_0"
+            },
+            "variant_name": {
+                "S": "Orange"
             }
         },
         "TableName": "furniture_gyroid"
@@ -3410,6 +3644,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -3451,6 +3688,12 @@
             },
             "unique_entry_id": {
                 "S": "dFRdhcbbpH9MAsLz8"
+            },
+            "variant_id": {
+                "S": "1_0"
+            },
+            "variant_name": {
+                "S": "Green"
             }
         },
         "TableName": "furniture_gyroid"
@@ -3538,6 +3781,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -3579,6 +3825,12 @@
             },
             "unique_entry_id": {
                 "S": "r9zWRJ27owu68fJeC"
+            },
+            "variant_id": {
+                "S": "2_0"
+            },
+            "variant_name": {
+                "S": "Blue"
             }
         },
         "TableName": "furniture_gyroid"
@@ -3666,6 +3918,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -3707,6 +3962,12 @@
             },
             "unique_entry_id": {
                 "S": "iK6eTwafFNsFQ7itR"
+            },
+            "variant_id": {
+                "S": "3_0"
+            },
+            "variant_name": {
+                "S": "Purple"
             }
         },
         "TableName": "furniture_gyroid"
@@ -3794,6 +4055,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -3835,6 +4099,12 @@
             },
             "unique_entry_id": {
                 "S": "PJyZFnEnQhuQMfNjc"
+            },
+            "variant_id": {
+                "S": "4_0"
+            },
+            "variant_name": {
+                "S": "Black"
             }
         },
         "TableName": "furniture_gyroid"
@@ -3922,6 +4192,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -3963,6 +4236,12 @@
             },
             "unique_entry_id": {
                 "S": "o93EYRxwspQqwXzBB"
+            },
+            "variant_id": {
+                "S": "5_0"
+            },
+            "variant_name": {
+                "S": "Wood"
             }
         },
         "TableName": "furniture_gyroid"
@@ -4050,6 +4329,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -4091,6 +4373,12 @@
             },
             "unique_entry_id": {
                 "S": "tf32LnJeHNvsRkfX3"
+            },
+            "variant_id": {
+                "S": "0_0"
+            },
+            "variant_name": {
+                "S": "Brown"
             }
         },
         "TableName": "furniture_gyroid"
@@ -4178,6 +4466,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -4219,6 +4510,12 @@
             },
             "unique_entry_id": {
                 "S": "4a3Ku9Po9Kybzioqq"
+            },
+            "variant_id": {
+                "S": "1_0"
+            },
+            "variant_name": {
+                "S": "Camel"
             }
         },
         "TableName": "furniture_gyroid"
@@ -4306,6 +4603,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -4347,6 +4647,12 @@
             },
             "unique_entry_id": {
                 "S": "En8kpWp2HtBSyggzS"
+            },
+            "variant_id": {
+                "S": "2_0"
+            },
+            "variant_name": {
+                "S": "Green"
             }
         },
         "TableName": "furniture_gyroid"
@@ -4434,6 +4740,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -4475,6 +4784,12 @@
             },
             "unique_entry_id": {
                 "S": "4dJAhBXMjbGYhowW4"
+            },
+            "variant_id": {
+                "S": "3_0"
+            },
+            "variant_name": {
+                "S": "Blue"
             }
         },
         "TableName": "furniture_gyroid"
@@ -4562,6 +4877,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -4603,6 +4921,12 @@
             },
             "unique_entry_id": {
                 "S": "hMs8n9zwDaNWAaTuJ"
+            },
+            "variant_id": {
+                "S": "4_0"
+            },
+            "variant_name": {
+                "S": "Purple"
             }
         },
         "TableName": "furniture_gyroid"
@@ -4690,6 +5014,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -4731,6 +5058,12 @@
             },
             "unique_entry_id": {
                 "S": "hGuW5Y4MBKAPAop5i"
+            },
+            "variant_id": {
+                "S": "5_0"
+            },
+            "variant_name": {
+                "S": "Black"
             }
         },
         "TableName": "furniture_gyroid"
@@ -4818,6 +5151,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -4859,6 +5195,12 @@
             },
             "unique_entry_id": {
                 "S": "8bTnQQq6orJEegzWZ"
+            },
+            "variant_id": {
+                "NULL": true
+            },
+            "variant_name": {
+                "NULL": true
             }
         },
         "TableName": "furniture_gyroid"
@@ -4946,6 +5288,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -4987,6 +5332,12 @@
             },
             "unique_entry_id": {
                 "S": "LJfA5BTFhyFCrD4By"
+            },
+            "variant_id": {
+                "S": "0_0"
+            },
+            "variant_name": {
+                "S": "Brown"
             }
         },
         "TableName": "furniture_gyroid"
@@ -5074,6 +5425,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -5115,6 +5469,12 @@
             },
             "unique_entry_id": {
                 "S": "MwTRAZJt6zPgGLqEx"
+            },
+            "variant_id": {
+                "S": "1_0"
+            },
+            "variant_name": {
+                "S": "Green"
             }
         },
         "TableName": "furniture_gyroid"
@@ -5202,6 +5562,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -5243,6 +5606,12 @@
             },
             "unique_entry_id": {
                 "S": "g2BLkiDYHnoddAwJA"
+            },
+            "variant_id": {
+                "S": "2_0"
+            },
+            "variant_name": {
+                "S": "Pink"
             }
         },
         "TableName": "furniture_gyroid"
@@ -5330,6 +5699,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -5371,6 +5743,12 @@
             },
             "unique_entry_id": {
                 "S": "QZJ44szMGx2rpa9ar"
+            },
+            "variant_id": {
+                "S": "3_0"
+            },
+            "variant_name": {
+                "S": "Purple"
             }
         },
         "TableName": "furniture_gyroid"
@@ -5458,6 +5836,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -5499,6 +5880,12 @@
             },
             "unique_entry_id": {
                 "S": "utsjEsjRDFna29drm"
+            },
+            "variant_id": {
+                "S": "4_0"
+            },
+            "variant_name": {
+                "S": "White"
             }
         },
         "TableName": "furniture_gyroid"
@@ -5586,6 +5973,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -5627,6 +6017,12 @@
             },
             "unique_entry_id": {
                 "S": "HJiRPPSmtnofjcdsG"
+            },
+            "variant_id": {
+                "S": "0_0"
+            },
+            "variant_name": {
+                "S": "Brown"
             }
         },
         "TableName": "furniture_gyroid"
@@ -5714,6 +6110,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -5755,6 +6154,12 @@
             },
             "unique_entry_id": {
                 "S": "Xx8hum9au5hx5vwo3"
+            },
+            "variant_id": {
+                "S": "1_0"
+            },
+            "variant_name": {
+                "S": "Yellow"
             }
         },
         "TableName": "furniture_gyroid"
@@ -5842,6 +6247,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -5883,6 +6291,12 @@
             },
             "unique_entry_id": {
                 "S": "MwiwsdWNmyGpKJKkt"
+            },
+            "variant_id": {
+                "S": "2_0"
+            },
+            "variant_name": {
+                "S": "Green"
             }
         },
         "TableName": "furniture_gyroid"
@@ -5970,6 +6384,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -6011,6 +6428,12 @@
             },
             "unique_entry_id": {
                 "S": "CimmAva3yZRKy5LLA"
+            },
+            "variant_id": {
+                "S": "3_0"
+            },
+            "variant_name": {
+                "S": "Blue"
             }
         },
         "TableName": "furniture_gyroid"
@@ -6098,6 +6521,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -6139,6 +6565,12 @@
             },
             "unique_entry_id": {
                 "S": "7J25rfm8vr9QhbbkS"
+            },
+            "variant_id": {
+                "S": "0_0"
+            },
+            "variant_name": {
+                "S": "Pop"
             }
         },
         "TableName": "furniture_gyroid"
@@ -6226,6 +6658,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -6267,6 +6702,12 @@
             },
             "unique_entry_id": {
                 "S": "oqiuuGcqkHTRxGGYw"
+            },
+            "variant_id": {
+                "S": "1_0"
+            },
+            "variant_name": {
+                "S": "Natural"
             }
         },
         "TableName": "furniture_gyroid"
@@ -6354,6 +6795,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -6395,6 +6839,12 @@
             },
             "unique_entry_id": {
                 "S": "mTaSLHRrsJeDk5WJr"
+            },
+            "variant_id": {
+                "S": "2_0"
+            },
+            "variant_name": {
+                "S": "Cool"
             }
         },
         "TableName": "furniture_gyroid"
@@ -6482,6 +6932,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -6523,6 +6976,12 @@
             },
             "unique_entry_id": {
                 "S": "zC6zNREBCsaqKdeC7"
+            },
+            "variant_id": {
+                "S": "3_0"
+            },
+            "variant_name": {
+                "S": "Cute"
             }
         },
         "TableName": "furniture_gyroid"
@@ -6610,6 +7069,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -6651,6 +7113,12 @@
             },
             "unique_entry_id": {
                 "S": "ML7RwjzsXpLtZgmQW"
+            },
+            "variant_id": {
+                "S": "4_0"
+            },
+            "variant_name": {
+                "S": "Chic"
             }
         },
         "TableName": "furniture_gyroid"
@@ -6738,6 +7206,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -6779,6 +7250,12 @@
             },
             "unique_entry_id": {
                 "S": "em76obCKYxcMYSHbr"
+            },
+            "variant_id": {
+                "S": "0_0"
+            },
+            "variant_name": {
+                "S": "Yellow"
             }
         },
         "TableName": "furniture_gyroid"
@@ -6866,6 +7343,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -6907,6 +7387,12 @@
             },
             "unique_entry_id": {
                 "S": "yeAKxwpHdTWSv7uNn"
+            },
+            "variant_id": {
+                "S": "1_0"
+            },
+            "variant_name": {
+                "S": "Brown"
             }
         },
         "TableName": "furniture_gyroid"
@@ -6994,6 +7480,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -7035,6 +7524,12 @@
             },
             "unique_entry_id": {
                 "S": "ucYoB3AWT4gEj2iZQ"
+            },
+            "variant_id": {
+                "S": "2_0"
+            },
+            "variant_name": {
+                "S": "Blue"
             }
         },
         "TableName": "furniture_gyroid"
@@ -7122,6 +7617,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -7163,6 +7661,12 @@
             },
             "unique_entry_id": {
                 "S": "NamEj8SET5d4PjAJE"
+            },
+            "variant_id": {
+                "S": "3_0"
+            },
+            "variant_name": {
+                "S": "Red"
             }
         },
         "TableName": "furniture_gyroid"
@@ -7250,6 +7754,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -7291,6 +7798,12 @@
             },
             "unique_entry_id": {
                 "S": "dXXhoyCQgq3wMLApR"
+            },
+            "variant_id": {
+                "S": "4_0"
+            },
+            "variant_name": {
+                "S": "Green"
             }
         },
         "TableName": "furniture_gyroid"
@@ -7378,6 +7891,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -7419,6 +7935,12 @@
             },
             "unique_entry_id": {
                 "S": "6S9RxwtPqaByY8g7b"
+            },
+            "variant_id": {
+                "S": "5_0"
+            },
+            "variant_name": {
+                "S": "Black"
             }
         },
         "TableName": "furniture_gyroid"
@@ -7506,6 +8028,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -7547,6 +8072,12 @@
             },
             "unique_entry_id": {
                 "S": "x5WMC9bCWExRtzLMK"
+            },
+            "variant_id": {
+                "S": "0_0"
+            },
+            "variant_name": {
+                "S": "Gray"
             }
         },
         "TableName": "furniture_gyroid"
@@ -7634,6 +8165,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -7675,6 +8209,12 @@
             },
             "unique_entry_id": {
                 "S": "DAodQEs2cMXLxrbgP"
+            },
+            "variant_id": {
+                "S": "1_0"
+            },
+            "variant_name": {
+                "S": "Brown"
             }
         },
         "TableName": "furniture_gyroid"
@@ -7762,6 +8302,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -7803,6 +8346,12 @@
             },
             "unique_entry_id": {
                 "S": "qJ4mDCDp5tvFuuv3L"
+            },
+            "variant_id": {
+                "S": "2_0"
+            },
+            "variant_name": {
+                "S": "Green"
             }
         },
         "TableName": "furniture_gyroid"
@@ -7890,6 +8439,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -7931,6 +8483,12 @@
             },
             "unique_entry_id": {
                 "S": "SDosepCRXEnuL3moe"
+            },
+            "variant_id": {
+                "S": "3_0"
+            },
+            "variant_name": {
+                "S": "Pink"
             }
         },
         "TableName": "furniture_gyroid"
@@ -8018,6 +8576,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -8059,6 +8620,12 @@
             },
             "unique_entry_id": {
                 "S": "YsHeBQo7KB9kcqJTq"
+            },
+            "variant_id": {
+                "S": "4_0"
+            },
+            "variant_name": {
+                "S": "Blue"
             }
         },
         "TableName": "furniture_gyroid"
@@ -8146,6 +8713,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -8187,6 +8757,12 @@
             },
             "unique_entry_id": {
                 "S": "jRKoogv4aPaDyXnFR"
+            },
+            "variant_id": {
+                "S": "5_0"
+            },
+            "variant_name": {
+                "S": "White"
             }
         },
         "TableName": "furniture_gyroid"
@@ -8274,6 +8850,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -8315,6 +8894,12 @@
             },
             "unique_entry_id": {
                 "S": "oJ4Xgtsje6QB5KQTy"
+            },
+            "variant_id": {
+                "S": "6_0"
+            },
+            "variant_name": {
+                "S": "Black"
             }
         },
         "TableName": "furniture_gyroid"
@@ -8402,6 +8987,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -8443,6 +9031,12 @@
             },
             "unique_entry_id": {
                 "S": "3FxTEEABz9pzypv6e"
+            },
+            "variant_id": {
+                "S": "0_0"
+            },
+            "variant_name": {
+                "S": "Blue"
             }
         },
         "TableName": "furniture_gyroid"
@@ -8530,6 +9124,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -8571,6 +9168,12 @@
             },
             "unique_entry_id": {
                 "S": "8ZZXNwQnAS6bh6hF7"
+            },
+            "variant_id": {
+                "S": "1_0"
+            },
+            "variant_name": {
+                "S": "Green"
             }
         },
         "TableName": "furniture_gyroid"
@@ -8658,6 +9261,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -8699,6 +9305,12 @@
             },
             "unique_entry_id": {
                 "S": "LmLwAqrn2gmyy94CG"
+            },
+            "variant_id": {
+                "S": "2_0"
+            },
+            "variant_name": {
+                "S": "Brown"
             }
         },
         "TableName": "furniture_gyroid"
@@ -8786,6 +9398,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -8827,6 +9442,12 @@
             },
             "unique_entry_id": {
                 "S": "wL8H5i45pvaN4ez43"
+            },
+            "variant_id": {
+                "S": "3_0"
+            },
+            "variant_name": {
+                "S": "Purple"
             }
         },
         "TableName": "furniture_gyroid"
@@ -8914,6 +9535,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -8955,6 +9579,12 @@
             },
             "unique_entry_id": {
                 "S": "PtxT2A6XiDPi7sDrr"
+            },
+            "variant_id": {
+                "S": "4_0"
+            },
+            "variant_name": {
+                "S": "Gray"
             }
         },
         "TableName": "furniture_gyroid"
@@ -9042,6 +9672,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -9083,6 +9716,12 @@
             },
             "unique_entry_id": {
                 "S": "PnANnG3CmoM7bbYo5"
+            },
+            "variant_id": {
+                "S": "0_0"
+            },
+            "variant_name": {
+                "S": "Orange"
             }
         },
         "TableName": "furniture_gyroid"
@@ -9170,6 +9809,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -9211,6 +9853,12 @@
             },
             "unique_entry_id": {
                 "S": "pYQn6jhuzQWLM4xaS"
+            },
+            "variant_id": {
+                "S": "1_0"
+            },
+            "variant_name": {
+                "S": "Yellow"
             }
         },
         "TableName": "furniture_gyroid"
@@ -9298,6 +9946,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -9339,6 +9990,12 @@
             },
             "unique_entry_id": {
                 "S": "KofmhMtLMLxjzg9s9"
+            },
+            "variant_id": {
+                "S": "2_0"
+            },
+            "variant_name": {
+                "S": "Green"
             }
         },
         "TableName": "furniture_gyroid"
@@ -9426,6 +10083,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -9467,6 +10127,12 @@
             },
             "unique_entry_id": {
                 "S": "NJe72u8Funhrzi2pX"
+            },
+            "variant_id": {
+                "S": "3_0"
+            },
+            "variant_name": {
+                "S": "Pink"
             }
         },
         "TableName": "furniture_gyroid"
@@ -9554,6 +10220,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -9595,6 +10264,12 @@
             },
             "unique_entry_id": {
                 "S": "KbTCmZxTdRTzx4WrD"
+            },
+            "variant_id": {
+                "S": "4_0"
+            },
+            "variant_name": {
+                "S": "Purple"
             }
         },
         "TableName": "furniture_gyroid"
@@ -9682,6 +10357,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -9723,6 +10401,12 @@
             },
             "unique_entry_id": {
                 "S": "SHBN9jqjR6Yu5kw7X"
+            },
+            "variant_id": {
+                "S": "0_0"
+            },
+            "variant_name": {
+                "S": "Purple"
             }
         },
         "TableName": "furniture_gyroid"
@@ -9810,6 +10494,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -9851,6 +10538,12 @@
             },
             "unique_entry_id": {
                 "S": "QH2JzvyktqnyTRGAk"
+            },
+            "variant_id": {
+                "S": "1_0"
+            },
+            "variant_name": {
+                "S": "Gold"
             }
         },
         "TableName": "furniture_gyroid"
@@ -9938,6 +10631,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -9979,6 +10675,12 @@
             },
             "unique_entry_id": {
                 "S": "uoeXQ6YpWKZguELii"
+            },
+            "variant_id": {
+                "S": "2_0"
+            },
+            "variant_name": {
+                "S": "Pink"
             }
         },
         "TableName": "furniture_gyroid"
@@ -10066,6 +10768,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -10107,6 +10812,12 @@
             },
             "unique_entry_id": {
                 "S": "NLaYePxeua5ewfTKM"
+            },
+            "variant_id": {
+                "S": "3_0"
+            },
+            "variant_name": {
+                "S": "Silver"
             }
         },
         "TableName": "furniture_gyroid"
@@ -10194,6 +10905,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -10235,6 +10949,12 @@
             },
             "unique_entry_id": {
                 "S": "Y82RxftBpcAwTFFGB"
+            },
+            "variant_id": {
+                "S": "4_0"
+            },
+            "variant_name": {
+                "S": "Blue"
             }
         },
         "TableName": "furniture_gyroid"
@@ -10322,6 +11042,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -10363,6 +11086,12 @@
             },
             "unique_entry_id": {
                 "S": "TfJzAoKKah2XtstCg"
+            },
+            "variant_id": {
+                "S": "0_0"
+            },
+            "variant_name": {
+                "S": "Green"
             }
         },
         "TableName": "furniture_gyroid"
@@ -10450,6 +11179,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -10491,6 +11223,12 @@
             },
             "unique_entry_id": {
                 "S": "dcD6eb3GLPoAHWD3i"
+            },
+            "variant_id": {
+                "S": "1_0"
+            },
+            "variant_name": {
+                "S": "Yellow"
             }
         },
         "TableName": "furniture_gyroid"
@@ -10578,6 +11316,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -10619,6 +11360,12 @@
             },
             "unique_entry_id": {
                 "S": "TZThNwk4MZEJ6QcRN"
+            },
+            "variant_id": {
+                "S": "2_0"
+            },
+            "variant_name": {
+                "S": "Pink"
             }
         },
         "TableName": "furniture_gyroid"
@@ -10706,6 +11453,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -10747,6 +11497,12 @@
             },
             "unique_entry_id": {
                 "S": "YxheX9JpfrYA9XGk2"
+            },
+            "variant_id": {
+                "S": "3_0"
+            },
+            "variant_name": {
+                "S": "Blue"
             }
         },
         "TableName": "furniture_gyroid"
@@ -10834,6 +11590,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -10875,6 +11634,12 @@
             },
             "unique_entry_id": {
                 "S": "y2NfpzKhnwhMmg7KY"
+            },
+            "variant_id": {
+                "S": "4_0"
+            },
+            "variant_name": {
+                "S": "Silver"
             }
         },
         "TableName": "furniture_gyroid"
@@ -10962,6 +11727,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -11003,6 +11771,12 @@
             },
             "unique_entry_id": {
                 "S": "CvNnWjCvnDJaTn8NL"
+            },
+            "variant_id": {
+                "S": "0_0"
+            },
+            "variant_name": {
+                "S": "Beige"
             }
         },
         "TableName": "furniture_gyroid"
@@ -11090,6 +11864,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -11131,6 +11908,12 @@
             },
             "unique_entry_id": {
                 "S": "XkPAZ2ZPwwj9qjEcj"
+            },
+            "variant_id": {
+                "S": "1_0"
+            },
+            "variant_name": {
+                "S": "Brown"
             }
         },
         "TableName": "furniture_gyroid"
@@ -11218,6 +12001,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -11259,6 +12045,12 @@
             },
             "unique_entry_id": {
                 "S": "TYq3Sy3J6BiSYnGg9"
+            },
+            "variant_id": {
+                "S": "2_0"
+            },
+            "variant_name": {
+                "S": "Yellow"
             }
         },
         "TableName": "furniture_gyroid"
@@ -11346,6 +12138,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -11387,6 +12182,12 @@
             },
             "unique_entry_id": {
                 "S": "dYSvLEQvhfysTyqZ7"
+            },
+            "variant_id": {
+                "S": "3_0"
+            },
+            "variant_name": {
+                "S": "Blue"
             }
         },
         "TableName": "furniture_gyroid"
@@ -11474,6 +12275,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -11515,6 +12319,12 @@
             },
             "unique_entry_id": {
                 "S": "G7NZZTHmyBbiaq4N8"
+            },
+            "variant_id": {
+                "S": "4_0"
+            },
+            "variant_name": {
+                "S": "Pink"
             }
         },
         "TableName": "furniture_gyroid"
@@ -11602,6 +12412,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -11643,6 +12456,12 @@
             },
             "unique_entry_id": {
                 "S": "Tfj8TThfSfoht39xy"
+            },
+            "variant_id": {
+                "S": "5_0"
+            },
+            "variant_name": {
+                "S": "Black"
             }
         },
         "TableName": "furniture_gyroid"
@@ -11730,6 +12549,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -11771,6 +12593,12 @@
             },
             "unique_entry_id": {
                 "S": "eT455JwgBZ96y2PpL"
+            },
+            "variant_id": {
+                "S": "0_0"
+            },
+            "variant_name": {
+                "S": "Green"
             }
         },
         "TableName": "furniture_gyroid"
@@ -11858,6 +12686,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -11899,6 +12730,12 @@
             },
             "unique_entry_id": {
                 "S": "bTNGy796xgNJFBK44"
+            },
+            "variant_id": {
+                "S": "1_0"
+            },
+            "variant_name": {
+                "S": "Brown"
             }
         },
         "TableName": "furniture_gyroid"
@@ -11986,6 +12823,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -12027,6 +12867,12 @@
             },
             "unique_entry_id": {
                 "S": "BCnbn4NgpFyosNjzS"
+            },
+            "variant_id": {
+                "S": "2_0"
+            },
+            "variant_name": {
+                "S": "Yellow"
             }
         },
         "TableName": "furniture_gyroid"
@@ -12114,6 +12960,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -12155,6 +13004,12 @@
             },
             "unique_entry_id": {
                 "S": "nYsxTGJ8x8ch4sfHt"
+            },
+            "variant_id": {
+                "S": "3_0"
+            },
+            "variant_name": {
+                "S": "Blue"
             }
         },
         "TableName": "furniture_gyroid"
@@ -12242,6 +13097,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -12283,6 +13141,12 @@
             },
             "unique_entry_id": {
                 "S": "xx4YpiQEoW3QLTDHi"
+            },
+            "variant_id": {
+                "S": "4_0"
+            },
+            "variant_name": {
+                "S": "Pink"
             }
         },
         "TableName": "furniture_gyroid"
@@ -12370,6 +13234,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -12411,6 +13278,12 @@
             },
             "unique_entry_id": {
                 "S": "daHiapjHoRfAg5q89"
+            },
+            "variant_id": {
+                "S": "5_0"
+            },
+            "variant_name": {
+                "S": "Purple"
             }
         },
         "TableName": "furniture_gyroid"
@@ -12498,6 +13371,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -12539,6 +13415,12 @@
             },
             "unique_entry_id": {
                 "S": "okcZ7zr7HNiZnGMPT"
+            },
+            "variant_id": {
+                "S": "6_0"
+            },
+            "variant_name": {
+                "S": "White"
             }
         },
         "TableName": "furniture_gyroid"
@@ -12626,6 +13508,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -12667,6 +13552,12 @@
             },
             "unique_entry_id": {
                 "S": "8fJBG54PLzNR7eNwT"
+            },
+            "variant_id": {
+                "S": "0_0"
+            },
+            "variant_name": {
+                "S": "Red"
             }
         },
         "TableName": "furniture_gyroid"
@@ -12754,6 +13645,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -12795,6 +13689,12 @@
             },
             "unique_entry_id": {
                 "S": "YZvg2phjfBH3K6H49"
+            },
+            "variant_id": {
+                "S": "1_0"
+            },
+            "variant_name": {
+                "S": "Brown"
             }
         },
         "TableName": "furniture_gyroid"
@@ -12882,6 +13782,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -12923,6 +13826,12 @@
             },
             "unique_entry_id": {
                 "S": "uShTToJcco2N3Fw4u"
+            },
+            "variant_id": {
+                "S": "2_0"
+            },
+            "variant_name": {
+                "S": "White"
             }
         },
         "TableName": "furniture_gyroid"
@@ -13010,6 +13919,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -13051,6 +13963,12 @@
             },
             "unique_entry_id": {
                 "S": "GbrCHWpKxigRRw3sx"
+            },
+            "variant_id": {
+                "S": "3_0"
+            },
+            "variant_name": {
+                "S": "Blue"
             }
         },
         "TableName": "furniture_gyroid"
@@ -13138,6 +14056,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -13179,6 +14100,12 @@
             },
             "unique_entry_id": {
                 "S": "bS6i5MmvfLPJrRyXN"
+            },
+            "variant_id": {
+                "S": "4_0"
+            },
+            "variant_name": {
+                "S": "Green"
             }
         },
         "TableName": "furniture_gyroid"
@@ -13266,6 +14193,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -13307,6 +14237,12 @@
             },
             "unique_entry_id": {
                 "S": "RJE9WXB6HxcydqsDT"
+            },
+            "variant_id": {
+                "S": "5_0"
+            },
+            "variant_name": {
+                "S": "Black"
             }
         },
         "TableName": "furniture_gyroid"
@@ -13394,6 +14330,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -13435,6 +14374,12 @@
             },
             "unique_entry_id": {
                 "S": "dTPEbXWszDXsYJPYE"
+            },
+            "variant_id": {
+                "S": "0_0"
+            },
+            "variant_name": {
+                "S": "Red"
             }
         },
         "TableName": "furniture_gyroid"
@@ -13522,6 +14467,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -13563,6 +14511,12 @@
             },
             "unique_entry_id": {
                 "S": "4zYMSwioGjc9g59MJ"
+            },
+            "variant_id": {
+                "S": "1_0"
+            },
+            "variant_name": {
+                "S": "Yellow"
             }
         },
         "TableName": "furniture_gyroid"
@@ -13650,6 +14604,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -13691,6 +14648,12 @@
             },
             "unique_entry_id": {
                 "S": "3vMtcnGjgDJfDFSqC"
+            },
+            "variant_id": {
+                "S": "2_0"
+            },
+            "variant_name": {
+                "S": "Green"
             }
         },
         "TableName": "furniture_gyroid"
@@ -13778,6 +14741,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -13819,6 +14785,12 @@
             },
             "unique_entry_id": {
                 "S": "8BQcnoj9AdBwM3J3B"
+            },
+            "variant_id": {
+                "S": "3_0"
+            },
+            "variant_name": {
+                "S": "Blue"
             }
         },
         "TableName": "furniture_gyroid"
@@ -13906,6 +14878,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -13947,6 +14922,12 @@
             },
             "unique_entry_id": {
                 "S": "A4krXyNkJb849WX8z"
+            },
+            "variant_id": {
+                "S": "4_0"
+            },
+            "variant_name": {
+                "S": "Purple"
             }
         },
         "TableName": "furniture_gyroid"
@@ -14034,6 +15015,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -14075,6 +15059,12 @@
             },
             "unique_entry_id": {
                 "S": "qRnR2wqxJzdaEwEXE"
+            },
+            "variant_id": {
+                "S": "5_0"
+            },
+            "variant_name": {
+                "S": "White"
             }
         },
         "TableName": "furniture_gyroid"
@@ -14162,6 +15152,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -14203,6 +15196,12 @@
             },
             "unique_entry_id": {
                 "S": "vjMiNcLibjYECkxkq"
+            },
+            "variant_id": {
+                "S": "0_0"
+            },
+            "variant_name": {
+                "S": "Purple"
             }
         },
         "TableName": "furniture_gyroid"
@@ -14290,6 +15289,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -14331,6 +15333,12 @@
             },
             "unique_entry_id": {
                 "S": "LMiF4qrxGBsa7YPFG"
+            },
+            "variant_id": {
+                "S": "1_0"
+            },
+            "variant_name": {
+                "S": "Yellow"
             }
         },
         "TableName": "furniture_gyroid"
@@ -14418,6 +15426,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -14459,6 +15470,12 @@
             },
             "unique_entry_id": {
                 "S": "y6ugmmeCGHhrpku2N"
+            },
+            "variant_id": {
+                "S": "2_0"
+            },
+            "variant_name": {
+                "S": "Green"
             }
         },
         "TableName": "furniture_gyroid"
@@ -14546,6 +15563,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -14587,6 +15607,12 @@
             },
             "unique_entry_id": {
                 "S": "MMGyK7b3mm6GMZBTH"
+            },
+            "variant_id": {
+                "S": "3_0"
+            },
+            "variant_name": {
+                "S": "Pink"
             }
         },
         "TableName": "furniture_gyroid"
@@ -14674,6 +15700,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -14715,6 +15744,12 @@
             },
             "unique_entry_id": {
                 "S": "jTBhNGbMyJT25JcFW"
+            },
+            "variant_id": {
+                "S": "4_0"
+            },
+            "variant_name": {
+                "S": "Blue"
             }
         },
         "TableName": "furniture_gyroid"
@@ -14802,6 +15837,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -14843,6 +15881,12 @@
             },
             "unique_entry_id": {
                 "S": "SnXZijYWJPyywzceB"
+            },
+            "variant_id": {
+                "S": "5_0"
+            },
+            "variant_name": {
+                "S": "White"
             }
         },
         "TableName": "furniture_gyroid"
@@ -14930,6 +15974,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -14971,6 +16018,12 @@
             },
             "unique_entry_id": {
                 "S": "ziF4XCu4d6AuHnxrR"
+            },
+            "variant_id": {
+                "S": "6_0"
+            },
+            "variant_name": {
+                "S": "Gray"
             }
         },
         "TableName": "furniture_gyroid"
@@ -15058,6 +16111,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -15099,6 +16155,12 @@
             },
             "unique_entry_id": {
                 "S": "uqdcnDFeKLM3agHpj"
+            },
+            "variant_id": {
+                "S": "0_0"
+            },
+            "variant_name": {
+                "S": "Light Brown"
             }
         },
         "TableName": "furniture_gyroid"
@@ -15186,6 +16248,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -15227,6 +16292,12 @@
             },
             "unique_entry_id": {
                 "S": "c8gD5b5bJumYEvjJh"
+            },
+            "variant_id": {
+                "S": "1_0"
+            },
+            "variant_name": {
+                "S": "Brown"
             }
         },
         "TableName": "furniture_gyroid"
@@ -15314,6 +16385,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -15355,6 +16429,12 @@
             },
             "unique_entry_id": {
                 "S": "mDhHB5jRyYW583Ds8"
+            },
+            "variant_id": {
+                "S": "2_0"
+            },
+            "variant_name": {
+                "S": "Green"
             }
         },
         "TableName": "furniture_gyroid"
@@ -15442,6 +16522,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -15483,6 +16566,12 @@
             },
             "unique_entry_id": {
                 "S": "uZhmStH2rYAipTGw6"
+            },
+            "variant_id": {
+                "S": "3_0"
+            },
+            "variant_name": {
+                "S": "Pink"
             }
         },
         "TableName": "furniture_gyroid"
@@ -15570,6 +16659,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -15611,6 +16703,12 @@
             },
             "unique_entry_id": {
                 "S": "4LBKu9CfFnmuCWF9f"
+            },
+            "variant_id": {
+                "S": "4_0"
+            },
+            "variant_name": {
+                "S": "White"
             }
         },
         "TableName": "furniture_gyroid"
@@ -15698,6 +16796,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -15739,6 +16840,12 @@
             },
             "unique_entry_id": {
                 "S": "7wqLb9iDPfxNPCQ7J"
+            },
+            "variant_id": {
+                "S": "0_0"
+            },
+            "variant_name": {
+                "S": "Green"
             }
         },
         "TableName": "furniture_gyroid"
@@ -15826,6 +16933,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -15867,6 +16977,12 @@
             },
             "unique_entry_id": {
                 "S": "fpWbxosn7wCN7D69x"
+            },
+            "variant_id": {
+                "S": "1_0"
+            },
+            "variant_name": {
+                "S": "Orange"
             }
         },
         "TableName": "furniture_gyroid"
@@ -15954,6 +17070,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -15995,6 +17114,12 @@
             },
             "unique_entry_id": {
                 "S": "qRynut9Adq235zZNf"
+            },
+            "variant_id": {
+                "S": "2_0"
+            },
+            "variant_name": {
+                "S": "Brown"
             }
         },
         "TableName": "furniture_gyroid"
@@ -16082,6 +17207,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -16123,6 +17251,12 @@
             },
             "unique_entry_id": {
                 "S": "gGZdx5ewXg4y7H5h3"
+            },
+            "variant_id": {
+                "S": "3_0"
+            },
+            "variant_name": {
+                "S": "Light Green"
             }
         },
         "TableName": "furniture_gyroid"
@@ -16210,6 +17344,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -16251,6 +17388,12 @@
             },
             "unique_entry_id": {
                 "S": "qDPHppg6AHoCtXoxg"
+            },
+            "variant_id": {
+                "S": "4_0"
+            },
+            "variant_name": {
+                "S": "Blue"
             }
         },
         "TableName": "furniture_gyroid"
@@ -16338,6 +17481,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -16379,6 +17525,12 @@
             },
             "unique_entry_id": {
                 "S": "hsERyTLqcNS9Q9vFS"
+            },
+            "variant_id": {
+                "S": "5_0"
+            },
+            "variant_name": {
+                "S": "Camel"
             }
         },
         "TableName": "furniture_gyroid"
@@ -16466,6 +17618,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -16507,6 +17662,12 @@
             },
             "unique_entry_id": {
                 "S": "fobHgEXsH5jZHTbAM"
+            },
+            "variant_id": {
+                "S": "6_0"
+            },
+            "variant_name": {
+                "S": "Gray"
             }
         },
         "TableName": "furniture_gyroid"
@@ -16594,6 +17755,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -16635,6 +17799,12 @@
             },
             "unique_entry_id": {
                 "S": "izp6P8ee5aoQDoDtj"
+            },
+            "variant_id": {
+                "S": "0_0"
+            },
+            "variant_name": {
+                "S": "Camel"
             }
         },
         "TableName": "furniture_gyroid"
@@ -16722,6 +17892,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -16763,6 +17936,12 @@
             },
             "unique_entry_id": {
                 "S": "QQtuywNY4nKtwuyXR"
+            },
+            "variant_id": {
+                "S": "1_0"
+            },
+            "variant_name": {
+                "S": "Green"
             }
         },
         "TableName": "furniture_gyroid"
@@ -16850,6 +18029,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -16891,6 +18073,12 @@
             },
             "unique_entry_id": {
                 "S": "gzmYYERemNzmgS4jo"
+            },
+            "variant_id": {
+                "S": "2_0"
+            },
+            "variant_name": {
+                "S": "Red"
             }
         },
         "TableName": "furniture_gyroid"
@@ -16978,6 +18166,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -17019,6 +18210,12 @@
             },
             "unique_entry_id": {
                 "S": "L96gQcAnqNFzA7kQZ"
+            },
+            "variant_id": {
+                "S": "3_0"
+            },
+            "variant_name": {
+                "S": "Blue"
             }
         },
         "TableName": "furniture_gyroid"
@@ -17106,6 +18303,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -17147,6 +18347,12 @@
             },
             "unique_entry_id": {
                 "S": "eYCP55udxWgnRCuNH"
+            },
+            "variant_id": {
+                "S": "0_0"
+            },
+            "variant_name": {
+                "S": "Yellow"
             }
         },
         "TableName": "furniture_gyroid"
@@ -17234,6 +18440,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -17275,6 +18484,12 @@
             },
             "unique_entry_id": {
                 "S": "unhzZtbYT7eecDwLv"
+            },
+            "variant_id": {
+                "S": "1_0"
+            },
+            "variant_name": {
+                "S": "White"
             }
         },
         "TableName": "furniture_gyroid"
@@ -17362,6 +18577,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -17403,6 +18621,12 @@
             },
             "unique_entry_id": {
                 "S": "tahFmnPKvGPPivbfy"
+            },
+            "variant_id": {
+                "S": "2_0"
+            },
+            "variant_name": {
+                "S": "Brown"
             }
         },
         "TableName": "furniture_gyroid"
@@ -17490,6 +18714,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -17531,6 +18758,12 @@
             },
             "unique_entry_id": {
                 "S": "SmYTnQkSYc7n3WLLs"
+            },
+            "variant_id": {
+                "S": "3_0"
+            },
+            "variant_name": {
+                "S": "Pink"
             }
         },
         "TableName": "furniture_gyroid"
@@ -17618,6 +18851,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -17659,6 +18895,12 @@
             },
             "unique_entry_id": {
                 "S": "GnhxiXe9qGT3cgn5L"
+            },
+            "variant_id": {
+                "S": "4_0"
+            },
+            "variant_name": {
+                "S": "Blue"
             }
         },
         "TableName": "furniture_gyroid"
@@ -17746,6 +18988,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -17787,6 +19032,12 @@
             },
             "unique_entry_id": {
                 "S": "SGpxaN9kgJpZ2hba7"
+            },
+            "variant_id": {
+                "S": "0_0"
+            },
+            "variant_name": {
+                "S": "Beige"
             }
         },
         "TableName": "furniture_gyroid"
@@ -17874,6 +19125,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -17915,6 +19169,12 @@
             },
             "unique_entry_id": {
                 "S": "WrWB42QYBEMsaxGaR"
+            },
+            "variant_id": {
+                "S": "1_0"
+            },
+            "variant_name": {
+                "S": "Yellow"
             }
         },
         "TableName": "furniture_gyroid"
@@ -18002,6 +19262,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -18043,6 +19306,12 @@
             },
             "unique_entry_id": {
                 "S": "28KjoqrjgtpKs9PdN"
+            },
+            "variant_id": {
+                "S": "2_0"
+            },
+            "variant_name": {
+                "S": "Pink"
             }
         },
         "TableName": "furniture_gyroid"
@@ -18130,6 +19399,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -18171,6 +19443,12 @@
             },
             "unique_entry_id": {
                 "S": "EmAhuAb3RWdnnWPcr"
+            },
+            "variant_id": {
+                "S": "3_0"
+            },
+            "variant_name": {
+                "S": "Blue"
             }
         },
         "TableName": "furniture_gyroid"
@@ -18258,6 +19536,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -18299,6 +19580,12 @@
             },
             "unique_entry_id": {
                 "S": "xXAgKWMoxgmc9ExLA"
+            },
+            "variant_id": {
+                "S": "4_0"
+            },
+            "variant_name": {
+                "S": "White"
             }
         },
         "TableName": "furniture_gyroid"
@@ -18386,6 +19673,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -18427,6 +19717,12 @@
             },
             "unique_entry_id": {
                 "S": "JdKRPgvRE4MKKzwkX"
+            },
+            "variant_id": {
+                "S": "5_0"
+            },
+            "variant_name": {
+                "S": "Black"
             }
         },
         "TableName": "furniture_gyroid"
@@ -18514,6 +19810,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -18555,6 +19854,12 @@
             },
             "unique_entry_id": {
                 "S": "Ju5Lizt89WDsngGXg"
+            },
+            "variant_id": {
+                "S": "0_0"
+            },
+            "variant_name": {
+                "S": "Green"
             }
         },
         "TableName": "furniture_gyroid"
@@ -18642,6 +19947,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -18683,6 +19991,12 @@
             },
             "unique_entry_id": {
                 "S": "c6dspWAnLKbhTWmQ7"
+            },
+            "variant_id": {
+                "S": "1_0"
+            },
+            "variant_name": {
+                "S": "Yellow"
             }
         },
         "TableName": "furniture_gyroid"
@@ -18770,6 +20084,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -18811,6 +20128,12 @@
             },
             "unique_entry_id": {
                 "S": "XEeNcKzHy3puyiwcM"
+            },
+            "variant_id": {
+                "S": "2_0"
+            },
+            "variant_name": {
+                "S": "Blue"
             }
         },
         "TableName": "furniture_gyroid"
@@ -18898,6 +20221,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -18939,6 +20265,12 @@
             },
             "unique_entry_id": {
                 "S": "JDiZmMYwd8EN8rCpB"
+            },
+            "variant_id": {
+                "S": "3_0"
+            },
+            "variant_name": {
+                "S": "White"
             }
         },
         "TableName": "furniture_gyroid"
@@ -19026,6 +20358,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -19067,6 +20402,12 @@
             },
             "unique_entry_id": {
                 "S": "99n8GEX2zCEkaPqjc"
+            },
+            "variant_id": {
+                "S": "4_0"
+            },
+            "variant_name": {
+                "S": "Black"
             }
         },
         "TableName": "furniture_gyroid"
@@ -19154,6 +20495,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -19195,6 +20539,12 @@
             },
             "unique_entry_id": {
                 "S": "RkSNMk3vQqZPMxnTd"
+            },
+            "variant_id": {
+                "S": "0_0"
+            },
+            "variant_name": {
+                "S": "Pink"
             }
         },
         "TableName": "furniture_gyroid"
@@ -19282,6 +20632,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -19323,6 +20676,12 @@
             },
             "unique_entry_id": {
                 "S": "hoPPafWBSt4dFPqww"
+            },
+            "variant_id": {
+                "S": "1_0"
+            },
+            "variant_name": {
+                "S": "Beige"
             }
         },
         "TableName": "furniture_gyroid"
@@ -19410,6 +20769,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -19451,6 +20813,12 @@
             },
             "unique_entry_id": {
                 "S": "xB9xcd3YbgkeTyHxs"
+            },
+            "variant_id": {
+                "S": "2_0"
+            },
+            "variant_name": {
+                "S": "Green"
             }
         },
         "TableName": "furniture_gyroid"
@@ -19538,6 +20906,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -19579,6 +20950,12 @@
             },
             "unique_entry_id": {
                 "S": "k9qheXA3nekhxK7qN"
+            },
+            "variant_id": {
+                "S": "3_0"
+            },
+            "variant_name": {
+                "S": "Gray"
             }
         },
         "TableName": "furniture_gyroid"
@@ -19666,6 +21043,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -19707,6 +21087,12 @@
             },
             "unique_entry_id": {
                 "S": "vgkd37jWYPAuTf45e"
+            },
+            "variant_id": {
+                "S": "0_0"
+            },
+            "variant_name": {
+                "S": "Pop"
             }
         },
         "TableName": "furniture_gyroid"
@@ -19794,6 +21180,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -19835,6 +21224,12 @@
             },
             "unique_entry_id": {
                 "S": "Fo8YKMc7tve2xEEFb"
+            },
+            "variant_id": {
+                "S": "1_0"
+            },
+            "variant_name": {
+                "S": "Natural"
             }
         },
         "TableName": "furniture_gyroid"
@@ -19922,6 +21317,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -19963,6 +21361,12 @@
             },
             "unique_entry_id": {
                 "S": "tar6Q5dianc9z7tWE"
+            },
+            "variant_id": {
+                "S": "2_0"
+            },
+            "variant_name": {
+                "S": "Cool"
             }
         },
         "TableName": "furniture_gyroid"
@@ -20050,6 +21454,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -20091,6 +21498,12 @@
             },
             "unique_entry_id": {
                 "S": "yoqhTXby3wpDPN3Wg"
+            },
+            "variant_id": {
+                "S": "3_0"
+            },
+            "variant_name": {
+                "S": "Cute"
             }
         },
         "TableName": "furniture_gyroid"
@@ -20178,6 +21591,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -20219,6 +21635,12 @@
             },
             "unique_entry_id": {
                 "S": "g86Kc4SgpX3MXvYcn"
+            },
+            "variant_id": {
+                "S": "4_0"
+            },
+            "variant_name": {
+                "S": "Chic"
             }
         },
         "TableName": "furniture_gyroid"
@@ -20306,6 +21728,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -20347,6 +21772,12 @@
             },
             "unique_entry_id": {
                 "S": "x3FLSndkAMvtkQDT5"
+            },
+            "variant_id": {
+                "S": "0_0"
+            },
+            "variant_name": {
+                "S": "Blue"
             }
         },
         "TableName": "furniture_gyroid"
@@ -20434,6 +21865,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -20475,6 +21909,12 @@
             },
             "unique_entry_id": {
                 "S": "292St2TCXP2e4FB6s"
+            },
+            "variant_id": {
+                "S": "1_0"
+            },
+            "variant_name": {
+                "S": "Yellow"
             }
         },
         "TableName": "furniture_gyroid"
@@ -20562,6 +22002,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -20603,6 +22046,12 @@
             },
             "unique_entry_id": {
                 "S": "bsojZ7Nso77tSGNLF"
+            },
+            "variant_id": {
+                "S": "2_0"
+            },
+            "variant_name": {
+                "S": "Green"
             }
         },
         "TableName": "furniture_gyroid"
@@ -20690,6 +22139,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -20731,6 +22183,12 @@
             },
             "unique_entry_id": {
                 "S": "iuCGmtkroEd7w3yGB"
+            },
+            "variant_id": {
+                "S": "3_0"
+            },
+            "variant_name": {
+                "S": "Purple"
             }
         },
         "TableName": "furniture_gyroid"
@@ -20818,6 +22276,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -20859,6 +22320,12 @@
             },
             "unique_entry_id": {
                 "S": "qkZtMnBgpF6h2HX96"
+            },
+            "variant_id": {
+                "S": "4_0"
+            },
+            "variant_name": {
+                "S": "White"
             }
         },
         "TableName": "furniture_gyroid"
@@ -20946,6 +22413,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -20987,6 +22457,12 @@
             },
             "unique_entry_id": {
                 "S": "mQmNuA8udomfPdMyM"
+            },
+            "variant_id": {
+                "S": "0_0"
+            },
+            "variant_name": {
+                "S": "Brown"
             }
         },
         "TableName": "furniture_gyroid"
@@ -21074,6 +22550,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -21115,6 +22594,12 @@
             },
             "unique_entry_id": {
                 "S": "WoxSqB5oFXXF485hC"
+            },
+            "variant_id": {
+                "S": "1_0"
+            },
+            "variant_name": {
+                "S": "Yellow"
             }
         },
         "TableName": "furniture_gyroid"
@@ -21202,6 +22687,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -21243,6 +22731,12 @@
             },
             "unique_entry_id": {
                 "S": "DC23XDgR8vZevdkva"
+            },
+            "variant_id": {
+                "S": "2_0"
+            },
+            "variant_name": {
+                "S": "Green"
             }
         },
         "TableName": "furniture_gyroid"
@@ -21330,6 +22824,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -21371,6 +22868,12 @@
             },
             "unique_entry_id": {
                 "S": "qRSyqQt3Qmub68cyY"
+            },
+            "variant_id": {
+                "S": "3_0"
+            },
+            "variant_name": {
+                "S": "Blue"
             }
         },
         "TableName": "furniture_gyroid"
@@ -21458,6 +22961,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -21499,6 +23005,12 @@
             },
             "unique_entry_id": {
                 "S": "ZB5Q5hq8QQ2SKWBfJ"
+            },
+            "variant_id": {
+                "S": "4_0"
+            },
+            "variant_name": {
+                "S": "Black"
             }
         },
         "TableName": "furniture_gyroid"
@@ -21586,6 +23098,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -21627,6 +23142,12 @@
             },
             "unique_entry_id": {
                 "S": "XuJSMaA3duE3PCpcy"
+            },
+            "variant_id": {
+                "S": "0_0"
+            },
+            "variant_name": {
+                "S": "Camel"
             }
         },
         "TableName": "furniture_gyroid"
@@ -21714,6 +23235,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -21755,6 +23279,12 @@
             },
             "unique_entry_id": {
                 "S": "qZaCGLDMsccBoS4hG"
+            },
+            "variant_id": {
+                "S": "1_0"
+            },
+            "variant_name": {
+                "S": "Brown"
             }
         },
         "TableName": "furniture_gyroid"
@@ -21842,6 +23372,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -21883,6 +23416,12 @@
             },
             "unique_entry_id": {
                 "S": "hWyFMenaNriQJ7p5b"
+            },
+            "variant_id": {
+                "S": "2_0"
+            },
+            "variant_name": {
+                "S": "Green"
             }
         },
         "TableName": "furniture_gyroid"
@@ -21970,6 +23509,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -22011,6 +23553,12 @@
             },
             "unique_entry_id": {
                 "S": "zfgGWbLjYKkkomPEH"
+            },
+            "variant_id": {
+                "S": "3_0"
+            },
+            "variant_name": {
+                "S": "Blue"
             }
         },
         "TableName": "furniture_gyroid"
@@ -22098,6 +23646,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -22139,6 +23690,12 @@
             },
             "unique_entry_id": {
                 "S": "eBmgYB9BNTSGGRQS3"
+            },
+            "variant_id": {
+                "S": "4_0"
+            },
+            "variant_name": {
+                "S": "White"
             }
         },
         "TableName": "furniture_gyroid"
@@ -22226,6 +23783,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -22267,6 +23827,12 @@
             },
             "unique_entry_id": {
                 "S": "xotcjsMf53SQ29aDf"
+            },
+            "variant_id": {
+                "S": "5_0"
+            },
+            "variant_name": {
+                "S": "Black"
             }
         },
         "TableName": "furniture_gyroid"
@@ -22354,6 +23920,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -22395,6 +23964,12 @@
             },
             "unique_entry_id": {
                 "S": "vmvaJpxu3Fn4ajdfK"
+            },
+            "variant_id": {
+                "S": "0_0"
+            },
+            "variant_name": {
+                "S": "Blue"
             }
         },
         "TableName": "furniture_gyroid"
@@ -22482,6 +24057,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -22523,6 +24101,12 @@
             },
             "unique_entry_id": {
                 "S": "7EuhpxDDrpzggXZjm"
+            },
+            "variant_id": {
+                "S": "1_0"
+            },
+            "variant_name": {
+                "S": "Red"
             }
         },
         "TableName": "furniture_gyroid"
@@ -22610,6 +24194,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -22651,6 +24238,12 @@
             },
             "unique_entry_id": {
                 "S": "Qix3oTA2REPSSRt2Z"
+            },
+            "variant_id": {
+                "S": "2_0"
+            },
+            "variant_name": {
+                "S": "Gold"
             }
         },
         "TableName": "furniture_gyroid"
@@ -22738,6 +24331,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -22779,6 +24375,12 @@
             },
             "unique_entry_id": {
                 "S": "JR7hnbShE9McLoThT"
+            },
+            "variant_id": {
+                "S": "3_0"
+            },
+            "variant_name": {
+                "S": "Silver"
             }
         },
         "TableName": "furniture_gyroid"
@@ -22866,6 +24468,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -22907,6 +24512,12 @@
             },
             "unique_entry_id": {
                 "S": "Dx4Sog9gFTaCjtjJQ"
+            },
+            "variant_id": {
+                "S": "0_0"
+            },
+            "variant_name": {
+                "S": "Blue"
             }
         },
         "TableName": "furniture_gyroid"
@@ -22994,6 +24605,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -23035,6 +24649,12 @@
             },
             "unique_entry_id": {
                 "S": "yLrmxceegmPpxfSu7"
+            },
+            "variant_id": {
+                "S": "1_0"
+            },
+            "variant_name": {
+                "S": "Brown"
             }
         },
         "TableName": "furniture_gyroid"
@@ -23122,6 +24742,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -23163,6 +24786,12 @@
             },
             "unique_entry_id": {
                 "S": "SZ7anchqB2suN8SKj"
+            },
+            "variant_id": {
+                "S": "2_0"
+            },
+            "variant_name": {
+                "S": "Yellow"
             }
         },
         "TableName": "furniture_gyroid"
@@ -23250,6 +24879,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -23291,6 +24923,12 @@
             },
             "unique_entry_id": {
                 "S": "PeGr2ce8BNW7q6G64"
+            },
+            "variant_id": {
+                "S": "3_0"
+            },
+            "variant_name": {
+                "S": "Green"
             }
         },
         "TableName": "furniture_gyroid"
@@ -23378,6 +25016,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -23419,6 +25060,12 @@
             },
             "unique_entry_id": {
                 "S": "e7QSeTQ4dJnQuWcJ6"
+            },
+            "variant_id": {
+                "S": "4_0"
+            },
+            "variant_name": {
+                "S": "Pink"
             }
         },
         "TableName": "furniture_gyroid"
@@ -23506,6 +25153,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -23547,6 +25197,12 @@
             },
             "unique_entry_id": {
                 "S": "qG2qzyEwT97mS9CLL"
+            },
+            "variant_id": {
+                "S": "5_0"
+            },
+            "variant_name": {
+                "S": "White"
             }
         },
         "TableName": "furniture_gyroid"
@@ -23634,6 +25290,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -23675,6 +25334,12 @@
             },
             "unique_entry_id": {
                 "S": "nEot8dYGCy7exGuaA"
+            },
+            "variant_id": {
+                "S": "0_0"
+            },
+            "variant_name": {
+                "S": "Yellow"
             }
         },
         "TableName": "furniture_gyroid"
@@ -23762,6 +25427,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -23803,6 +25471,12 @@
             },
             "unique_entry_id": {
                 "S": "pFA6oQgA5CFYSbje6"
+            },
+            "variant_id": {
+                "S": "1_0"
+            },
+            "variant_name": {
+                "S": "Blue"
             }
         },
         "TableName": "furniture_gyroid"
@@ -23890,6 +25564,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -23931,6 +25608,12 @@
             },
             "unique_entry_id": {
                 "S": "PbxGNexhtrJXCWBP7"
+            },
+            "variant_id": {
+                "S": "2_0"
+            },
+            "variant_name": {
+                "S": "Pink"
             }
         },
         "TableName": "furniture_gyroid"
@@ -24018,6 +25701,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -24059,6 +25745,12 @@
             },
             "unique_entry_id": {
                 "S": "27huQwjK8BSR3b87Y"
+            },
+            "variant_id": {
+                "S": "3_0"
+            },
+            "variant_name": {
+                "S": "White"
             }
         },
         "TableName": "furniture_gyroid"
@@ -24146,6 +25838,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -24187,6 +25882,12 @@
             },
             "unique_entry_id": {
                 "S": "Kt2cGKRAwAtzQPQ4N"
+            },
+            "variant_id": {
+                "S": "4_0"
+            },
+            "variant_name": {
+                "S": "Brown"
             }
         },
         "TableName": "furniture_gyroid"

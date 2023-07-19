@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 18,
-    "minProperties": 18,
+    "maxProperties": 20,
+    "minProperties": 20,
     "properties": {
         "birth_day": {
             "exclusiveMaximum": false,
@@ -129,6 +129,22 @@
                 "string"
             ]
         },
+        "umbrella_name": {
+            "maxLength": 19,
+            "minLength": 12,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "umbrella_name_hhp": {
+            "maxLength": 26,
+            "minLength": 12,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
         "unique_entry_id": {
             "maxLength": 17,
             "minLength": 17,
@@ -155,6 +171,8 @@
         "name",
         "name_color",
         "species_name",
+        "umbrella_name",
+        "umbrella_name_hhp",
         "unique_entry_id"
     ],
     "title": "VillagerSpecial",

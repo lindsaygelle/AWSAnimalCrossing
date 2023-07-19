@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 37,
-    "minProperties": 37,
+    "maxProperties": 41,
+    "minProperties": 41,
     "properties": {
         "buy_currency": {
             "maxLength": 5,
@@ -174,6 +174,11 @@
                 "boolean"
             ]
         },
+        "is_seasonal": {
+            "type": [
+                "boolean"
+            ]
+        },
         "is_unlocked": {
             "type": [
                 "boolean"
@@ -193,6 +198,20 @@
             "minimum": 1,
             "type": [
                 "integer"
+            ]
+        },
+        "seasonal_availability": {
+            "maxLength": 8,
+            "minLength": 8,
+            "type": [
+                "string"
+            ]
+        },
+        "seasonality": {
+            "maxLength": 8,
+            "minLength": 8,
+            "type": [
+                "string"
             ]
         },
         "sell_currency": {
@@ -263,6 +282,14 @@
             "type": [
                 "string"
             ]
+        },
+        "variant_name": {
+            "maxLength": 10,
+            "minLength": 3,
+            "type": [
+                "null",
+                "string"
+            ]
         }
     },
     "required": [
@@ -291,9 +318,12 @@
         "internal_name",
         "is_craftable",
         "is_equippable",
+        "is_seasonal",
         "is_unlocked",
         "name",
         "order",
+        "seasonal_availability",
+        "seasonality",
         "sell_currency",
         "sell_price",
         "shape_1",
@@ -302,7 +332,8 @@
         "size_2",
         "style_1",
         "style_2",
-        "unique_entry_id"
+        "unique_entry_id",
+        "variant_name"
     ],
     "title": "ClothingOther",
     "type": "object"

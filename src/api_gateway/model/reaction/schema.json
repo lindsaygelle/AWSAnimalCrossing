@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 7,
-    "minProperties": 7,
+    "maxProperties": 8,
+    "minProperties": 8,
     "properties": {
         "filename_image": {
             "maxLength": 20,
@@ -36,6 +36,11 @@
                 "null"
             ]
         },
+        "is_seasonal": {
+            "type": [
+                "boolean"
+            ]
+        },
         "name": {
             "maxLength": 18,
             "minLength": 3,
@@ -57,6 +62,7 @@
         "internal_id",
         "internal_label",
         "internal_name",
+        "is_seasonal",
         "name",
         "unique_entry_id"
     ],

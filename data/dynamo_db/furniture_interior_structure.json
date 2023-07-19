@@ -82,6 +82,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -123,6 +126,12 @@
             },
             "unique_entry_id": {
                 "S": "vKhroLoma4RWAqc38"
+            },
+            "variant_id": {
+                "S": "0_0"
+            },
+            "variant_name": {
+                "S": "Red"
             }
         },
         "TableName": "furniture_interior_structure"
@@ -210,6 +219,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -251,6 +263,12 @@
             },
             "unique_entry_id": {
                 "S": "6ntCK44tpEZ76T77a"
+            },
+            "variant_id": {
+                "S": "1_0"
+            },
+            "variant_name": {
+                "S": "White"
             }
         },
         "TableName": "furniture_interior_structure"
@@ -338,6 +356,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -379,6 +400,12 @@
             },
             "unique_entry_id": {
                 "S": "8MCJkAqEindE3FP2C"
+            },
+            "variant_id": {
+                "S": "2_0"
+            },
+            "variant_name": {
+                "S": "Gray"
             }
         },
         "TableName": "furniture_interior_structure"
@@ -466,6 +493,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -507,6 +537,12 @@
             },
             "unique_entry_id": {
                 "S": "Scz7WHrn8zJqdESLF"
+            },
+            "variant_id": {
+                "NULL": true
+            },
+            "variant_name": {
+                "NULL": true
             }
         },
         "TableName": "furniture_interior_structure"
@@ -594,6 +630,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -635,6 +674,12 @@
             },
             "unique_entry_id": {
                 "S": "97Zm9hRj3BQDLQM3H"
+            },
+            "variant_id": {
+                "NULL": true
+            },
+            "variant_name": {
+                "NULL": true
             }
         },
         "TableName": "furniture_interior_structure"
@@ -722,6 +767,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -763,6 +811,12 @@
             },
             "unique_entry_id": {
                 "S": "ZAA4zjnJGQDpPnNpe"
+            },
+            "variant_id": {
+                "S": "0_0"
+            },
+            "variant_name": {
+                "S": "Red"
             }
         },
         "TableName": "furniture_interior_structure"
@@ -850,6 +904,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -891,6 +948,12 @@
             },
             "unique_entry_id": {
                 "S": "uaziCiTaLxWgvx3p3"
+            },
+            "variant_id": {
+                "S": "1_0"
+            },
+            "variant_name": {
+                "S": "White"
             }
         },
         "TableName": "furniture_interior_structure"
@@ -978,6 +1041,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -1019,6 +1085,12 @@
             },
             "unique_entry_id": {
                 "S": "ek3qyESiioFjp8Tv9"
+            },
+            "variant_id": {
+                "S": "2_0"
+            },
+            "variant_name": {
+                "S": "Gray"
             }
         },
         "TableName": "furniture_interior_structure"
@@ -1106,6 +1178,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -1147,6 +1222,12 @@
             },
             "unique_entry_id": {
                 "S": "xt8pEhjXJrR4gKWeY"
+            },
+            "variant_id": {
+                "NULL": true
+            },
+            "variant_name": {
+                "NULL": true
             }
         },
         "TableName": "furniture_interior_structure"
@@ -1234,6 +1315,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -1275,6 +1359,12 @@
             },
             "unique_entry_id": {
                 "S": "6sKWwLgkQRj23WFP7"
+            },
+            "variant_id": {
+                "NULL": true
+            },
+            "variant_name": {
+                "NULL": true
             }
         },
         "TableName": "furniture_interior_structure"
@@ -1362,6 +1452,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -1403,6 +1496,12 @@
             },
             "unique_entry_id": {
                 "S": "6Z5cNgANBAyaLuRWe"
+            },
+            "variant_id": {
+                "S": "0_0"
+            },
+            "variant_name": {
+                "S": "Gray"
             }
         },
         "TableName": "furniture_interior_structure"
@@ -1490,6 +1589,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -1531,6 +1633,12 @@
             },
             "unique_entry_id": {
                 "S": "rLYobhs2h4PpW4KjE"
+            },
+            "variant_id": {
+                "S": "1_0"
+            },
+            "variant_name": {
+                "S": "White"
             }
         },
         "TableName": "furniture_interior_structure"
@@ -1618,6 +1726,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -1659,6 +1770,12 @@
             },
             "unique_entry_id": {
                 "S": "nF2aG9ZmfoTAE9Nkh"
+            },
+            "variant_id": {
+                "S": "2_0"
+            },
+            "variant_name": {
+                "S": "Black"
             }
         },
         "TableName": "furniture_interior_structure"
@@ -1746,6 +1863,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -1787,6 +1907,12 @@
             },
             "unique_entry_id": {
                 "S": "hNyMCjtHztETRswEJ"
+            },
+            "variant_id": {
+                "S": "0_0"
+            },
+            "variant_name": {
+                "S": "White"
             }
         },
         "TableName": "furniture_interior_structure"
@@ -1874,6 +2000,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -1915,6 +2044,12 @@
             },
             "unique_entry_id": {
                 "S": "bFFmaC4vxcv8u8hBT"
+            },
+            "variant_id": {
+                "S": "1_0"
+            },
+            "variant_name": {
+                "S": "Pink"
             }
         },
         "TableName": "furniture_interior_structure"
@@ -2002,6 +2137,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -2043,6 +2181,12 @@
             },
             "unique_entry_id": {
                 "S": "6GYofpcAybQqX5GYk"
+            },
+            "variant_id": {
+                "S": "2_0"
+            },
+            "variant_name": {
+                "S": "Pale Blue"
             }
         },
         "TableName": "furniture_interior_structure"
@@ -2130,6 +2274,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -2171,6 +2318,12 @@
             },
             "unique_entry_id": {
                 "S": "zJDcAcDvRPpzA3u6d"
+            },
+            "variant_id": {
+                "S": "3_0"
+            },
+            "variant_name": {
+                "S": "Yellow"
             }
         },
         "TableName": "furniture_interior_structure"
@@ -2258,6 +2411,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -2299,6 +2455,12 @@
             },
             "unique_entry_id": {
                 "S": "QpK8Ldtypv39FSt5n"
+            },
+            "variant_id": {
+                "S": "4_0"
+            },
+            "variant_name": {
+                "S": "Red"
             }
         },
         "TableName": "furniture_interior_structure"
@@ -2386,6 +2548,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -2427,6 +2592,12 @@
             },
             "unique_entry_id": {
                 "S": "ygs4EEZTgiAK9sebf"
+            },
+            "variant_id": {
+                "S": "5_0"
+            },
+            "variant_name": {
+                "S": "Blue"
             }
         },
         "TableName": "furniture_interior_structure"
@@ -2514,6 +2685,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -2555,6 +2729,12 @@
             },
             "unique_entry_id": {
                 "S": "u8ZFHXm7nibw9fLep"
+            },
+            "variant_id": {
+                "S": "6_0"
+            },
+            "variant_name": {
+                "S": "Gray"
             }
         },
         "TableName": "furniture_interior_structure"
@@ -2642,6 +2822,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -2683,6 +2866,12 @@
             },
             "unique_entry_id": {
                 "S": "t99LsrwAnof4S5CFF"
+            },
+            "variant_id": {
+                "S": "7_0"
+            },
+            "variant_name": {
+                "S": "Black"
             }
         },
         "TableName": "furniture_interior_structure"
@@ -2770,6 +2959,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -2811,6 +3003,12 @@
             },
             "unique_entry_id": {
                 "S": "7SvgP9iF4TrC5MDM3"
+            },
+            "variant_id": {
+                "NULL": true
+            },
+            "variant_name": {
+                "NULL": true
             }
         },
         "TableName": "furniture_interior_structure"
@@ -2898,6 +3096,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -2939,6 +3140,12 @@
             },
             "unique_entry_id": {
                 "S": "LeojYosm74z657iQk"
+            },
+            "variant_id": {
+                "S": "0_0"
+            },
+            "variant_name": {
+                "S": "Light Wood"
             }
         },
         "TableName": "furniture_interior_structure"
@@ -3026,6 +3233,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -3067,6 +3277,12 @@
             },
             "unique_entry_id": {
                 "S": "Mgd77C38sXbnXf3KZ"
+            },
+            "variant_id": {
+                "S": "1_0"
+            },
+            "variant_name": {
+                "S": "Natural Wood"
             }
         },
         "TableName": "furniture_interior_structure"
@@ -3154,6 +3370,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -3195,6 +3414,12 @@
             },
             "unique_entry_id": {
                 "S": "8bmi5MPDGuFDfDq7m"
+            },
+            "variant_id": {
+                "S": "2_0"
+            },
+            "variant_name": {
+                "S": "Dark Wood"
             }
         },
         "TableName": "furniture_interior_structure"
@@ -3282,6 +3507,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -3323,6 +3551,12 @@
             },
             "unique_entry_id": {
                 "S": "9xipwZfxnt9jghSir"
+            },
+            "variant_id": {
+                "S": "0_0"
+            },
+            "variant_name": {
+                "S": "Gray"
             }
         },
         "TableName": "furniture_interior_structure"
@@ -3410,6 +3644,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -3451,6 +3688,12 @@
             },
             "unique_entry_id": {
                 "S": "FKtvy427TMATJo5vA"
+            },
+            "variant_id": {
+                "S": "1_0"
+            },
+            "variant_name": {
+                "S": "White"
             }
         },
         "TableName": "furniture_interior_structure"
@@ -3538,6 +3781,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -3579,6 +3825,12 @@
             },
             "unique_entry_id": {
                 "S": "JnS5Yg8fZvTsyinBo"
+            },
+            "variant_id": {
+                "S": "2_0"
+            },
+            "variant_name": {
+                "S": "Black"
             }
         },
         "TableName": "furniture_interior_structure"
@@ -3666,6 +3918,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -3707,6 +3962,12 @@
             },
             "unique_entry_id": {
                 "S": "oAqAWgHP2N4JxnQBD"
+            },
+            "variant_id": {
+                "NULL": true
+            },
+            "variant_name": {
+                "NULL": true
             }
         },
         "TableName": "furniture_interior_structure"
@@ -3794,6 +4055,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -3835,6 +4099,12 @@
             },
             "unique_entry_id": {
                 "S": "efC2g88hachgzMvEg"
+            },
+            "variant_id": {
+                "S": "0_0"
+            },
+            "variant_name": {
+                "S": "White"
             }
         },
         "TableName": "furniture_interior_structure"
@@ -3922,6 +4192,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -3963,6 +4236,12 @@
             },
             "unique_entry_id": {
                 "S": "CZ99SyCfpEC5cj64t"
+            },
+            "variant_id": {
+                "S": "1_0"
+            },
+            "variant_name": {
+                "S": "Pink"
             }
         },
         "TableName": "furniture_interior_structure"
@@ -4050,6 +4329,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -4091,6 +4373,12 @@
             },
             "unique_entry_id": {
                 "S": "YzFBvw2BmNoBr9JsL"
+            },
+            "variant_id": {
+                "S": "2_0"
+            },
+            "variant_name": {
+                "S": "Pale Blue"
             }
         },
         "TableName": "furniture_interior_structure"
@@ -4178,6 +4466,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -4219,6 +4510,12 @@
             },
             "unique_entry_id": {
                 "S": "mGFsAYtbmKuk3DzNy"
+            },
+            "variant_id": {
+                "S": "3_0"
+            },
+            "variant_name": {
+                "S": "Yellow"
             }
         },
         "TableName": "furniture_interior_structure"
@@ -4306,6 +4603,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -4347,6 +4647,12 @@
             },
             "unique_entry_id": {
                 "S": "qXSNr2CQNFEXNgCgM"
+            },
+            "variant_id": {
+                "S": "4_0"
+            },
+            "variant_name": {
+                "S": "Red"
             }
         },
         "TableName": "furniture_interior_structure"
@@ -4434,6 +4740,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -4475,6 +4784,12 @@
             },
             "unique_entry_id": {
                 "S": "7bxm6rRnGq37XDufB"
+            },
+            "variant_id": {
+                "S": "5_0"
+            },
+            "variant_name": {
+                "S": "Blue"
             }
         },
         "TableName": "furniture_interior_structure"
@@ -4562,6 +4877,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -4603,6 +4921,12 @@
             },
             "unique_entry_id": {
                 "S": "7ehsrvc5treD3Zb7M"
+            },
+            "variant_id": {
+                "S": "6_0"
+            },
+            "variant_name": {
+                "S": "Gray"
             }
         },
         "TableName": "furniture_interior_structure"
@@ -4690,6 +5014,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -4731,6 +5058,12 @@
             },
             "unique_entry_id": {
                 "S": "9NYt4Mi63LFN4zboi"
+            },
+            "variant_id": {
+                "S": "7_0"
+            },
+            "variant_name": {
+                "S": "Black"
             }
         },
         "TableName": "furniture_interior_structure"
@@ -4818,6 +5151,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -4859,6 +5195,12 @@
             },
             "unique_entry_id": {
                 "S": "X5AEGKWHvCRawqyPT"
+            },
+            "variant_id": {
+                "NULL": true
+            },
+            "variant_name": {
+                "NULL": true
             }
         },
         "TableName": "furniture_interior_structure"
@@ -4946,6 +5288,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -4987,6 +5332,12 @@
             },
             "unique_entry_id": {
                 "S": "G8Tv7m2q2qKXqrJQ3"
+            },
+            "variant_id": {
+                "S": "0_0"
+            },
+            "variant_name": {
+                "S": "Red"
             }
         },
         "TableName": "furniture_interior_structure"
@@ -5074,6 +5425,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -5115,6 +5469,12 @@
             },
             "unique_entry_id": {
                 "S": "fYLrAfCbu3gPMKmKH"
+            },
+            "variant_id": {
+                "S": "1_0"
+            },
+            "variant_name": {
+                "S": "White"
             }
         },
         "TableName": "furniture_interior_structure"
@@ -5202,6 +5562,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -5243,6 +5606,12 @@
             },
             "unique_entry_id": {
                 "S": "qB6QiivqojvPKeF8t"
+            },
+            "variant_id": {
+                "S": "2_0"
+            },
+            "variant_name": {
+                "S": "Gray"
             }
         },
         "TableName": "furniture_interior_structure"
@@ -5330,6 +5699,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -5371,6 +5743,12 @@
             },
             "unique_entry_id": {
                 "S": "tsXLsF5rGnBi84KJT"
+            },
+            "variant_id": {
+                "NULL": true
+            },
+            "variant_name": {
+                "NULL": true
             }
         },
         "TableName": "furniture_interior_structure"
@@ -5458,6 +5836,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -5499,6 +5880,12 @@
             },
             "unique_entry_id": {
                 "S": "PQTHpRrQbqQjircX9"
+            },
+            "variant_id": {
+                "NULL": true
+            },
+            "variant_name": {
+                "NULL": true
             }
         },
         "TableName": "furniture_interior_structure"
@@ -5586,6 +5973,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -5627,6 +6017,12 @@
             },
             "unique_entry_id": {
                 "S": "TNHgdZwptefHrSoFz"
+            },
+            "variant_id": {
+                "S": "0_0"
+            },
+            "variant_name": {
+                "S": "Gray"
             }
         },
         "TableName": "furniture_interior_structure"
@@ -5714,6 +6110,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -5755,6 +6154,12 @@
             },
             "unique_entry_id": {
                 "S": "m2qrGT2gSmeFsTJ2D"
+            },
+            "variant_id": {
+                "S": "1_0"
+            },
+            "variant_name": {
+                "S": "White"
             }
         },
         "TableName": "furniture_interior_structure"
@@ -5842,6 +6247,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -5883,6 +6291,12 @@
             },
             "unique_entry_id": {
                 "S": "akFYhQtm5G3Mtco3f"
+            },
+            "variant_id": {
+                "S": "2_0"
+            },
+            "variant_name": {
+                "S": "Black"
             }
         },
         "TableName": "furniture_interior_structure"
@@ -5970,6 +6384,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -6011,6 +6428,12 @@
             },
             "unique_entry_id": {
                 "S": "YDXWEARLfC6dggDdh"
+            },
+            "variant_id": {
+                "S": "0_0"
+            },
+            "variant_name": {
+                "S": "White"
             }
         },
         "TableName": "furniture_interior_structure"
@@ -6098,6 +6521,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -6139,6 +6565,12 @@
             },
             "unique_entry_id": {
                 "S": "ZJC2fFDiDyKuJSzqo"
+            },
+            "variant_id": {
+                "S": "1_0"
+            },
+            "variant_name": {
+                "S": "Pink"
             }
         },
         "TableName": "furniture_interior_structure"
@@ -6226,6 +6658,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -6267,6 +6702,12 @@
             },
             "unique_entry_id": {
                 "S": "mW9RDLfD8SQYSrYjr"
+            },
+            "variant_id": {
+                "S": "2_0"
+            },
+            "variant_name": {
+                "S": "Pale Blue"
             }
         },
         "TableName": "furniture_interior_structure"
@@ -6354,6 +6795,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -6395,6 +6839,12 @@
             },
             "unique_entry_id": {
                 "S": "vAfZHhSK7FEZSuXzr"
+            },
+            "variant_id": {
+                "S": "3_0"
+            },
+            "variant_name": {
+                "S": "Yellow"
             }
         },
         "TableName": "furniture_interior_structure"
@@ -6482,6 +6932,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -6523,6 +6976,12 @@
             },
             "unique_entry_id": {
                 "S": "n4cgd3nsLSh5kPwvX"
+            },
+            "variant_id": {
+                "S": "4_0"
+            },
+            "variant_name": {
+                "S": "Red"
             }
         },
         "TableName": "furniture_interior_structure"
@@ -6610,6 +7069,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -6651,6 +7113,12 @@
             },
             "unique_entry_id": {
                 "S": "tSe8tBh7Qf6tCmuki"
+            },
+            "variant_id": {
+                "S": "5_0"
+            },
+            "variant_name": {
+                "S": "Blue"
             }
         },
         "TableName": "furniture_interior_structure"
@@ -6738,6 +7206,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -6779,6 +7250,12 @@
             },
             "unique_entry_id": {
                 "S": "YjvyNXtHKyKbzjkTT"
+            },
+            "variant_id": {
+                "S": "6_0"
+            },
+            "variant_name": {
+                "S": "Gray"
             }
         },
         "TableName": "furniture_interior_structure"
@@ -6866,6 +7343,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -6907,6 +7387,12 @@
             },
             "unique_entry_id": {
                 "S": "gDypT85e4AwzkrDEA"
+            },
+            "variant_id": {
+                "S": "7_0"
+            },
+            "variant_name": {
+                "S": "Black"
             }
         },
         "TableName": "furniture_interior_structure"
@@ -6994,6 +7480,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -7035,6 +7524,12 @@
             },
             "unique_entry_id": {
                 "S": "vXiZBk6roeYruNHCz"
+            },
+            "variant_id": {
+                "NULL": true
+            },
+            "variant_name": {
+                "NULL": true
             }
         },
         "TableName": "furniture_interior_structure"
@@ -7122,6 +7617,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -7163,6 +7661,12 @@
             },
             "unique_entry_id": {
                 "S": "WAdLfg4KmbbaL3TeJ"
+            },
+            "variant_id": {
+                "S": "0_0"
+            },
+            "variant_name": {
+                "S": "Light Wood"
             }
         },
         "TableName": "furniture_interior_structure"
@@ -7250,6 +7754,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -7291,6 +7798,12 @@
             },
             "unique_entry_id": {
                 "S": "YG7qtvLFZjGa2K69s"
+            },
+            "variant_id": {
+                "S": "1_0"
+            },
+            "variant_name": {
+                "S": "Natural Wood"
             }
         },
         "TableName": "furniture_interior_structure"
@@ -7378,6 +7891,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -7419,6 +7935,12 @@
             },
             "unique_entry_id": {
                 "S": "PQtaRN7NdkujLGQoQ"
+            },
+            "variant_id": {
+                "S": "2_0"
+            },
+            "variant_name": {
+                "S": "Dark Wood"
             }
         },
         "TableName": "furniture_interior_structure"
@@ -7506,6 +8028,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -7547,6 +8072,12 @@
             },
             "unique_entry_id": {
                 "S": "mGsw5XZqLRze4Qsmc"
+            },
+            "variant_id": {
+                "S": "0_0"
+            },
+            "variant_name": {
+                "S": "Light Wood"
             }
         },
         "TableName": "furniture_interior_structure"
@@ -7634,6 +8165,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -7675,6 +8209,12 @@
             },
             "unique_entry_id": {
                 "S": "JjbCWR6eEsXNdr9Ny"
+            },
+            "variant_id": {
+                "S": "1_0"
+            },
+            "variant_name": {
+                "S": "Natural Wood"
             }
         },
         "TableName": "furniture_interior_structure"
@@ -7762,6 +8302,9 @@
             "is_outdoors": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -7803,6 +8346,12 @@
             },
             "unique_entry_id": {
                 "S": "A4gzXM9sb8BcyCrnM"
+            },
+            "variant_id": {
+                "S": "2_0"
+            },
+            "variant_name": {
+                "S": "Dark Wood"
             }
         },
         "TableName": "furniture_interior_structure"

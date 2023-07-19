@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 29,
-    "minProperties": 29,
+    "maxProperties": 30,
+    "minProperties": 30,
     "properties": {
         "birth_day": {
             "exclusiveMaximum": false,
@@ -213,6 +213,16 @@
             "type": [
                 "string"
             ]
+        },
+        "workbench_id": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 7142,
+            "minimum": 7142,
+            "type": [
+                "integer",
+                "null"
+            ]
         }
     },
     "required": [
@@ -244,7 +254,8 @@
         "style_2",
         "umbrella_name",
         "unique_entry_id",
-        "wallpaper_name"
+        "wallpaper_name",
+        "workbench_id"
     ],
     "title": "Villager",
     "type": "object"

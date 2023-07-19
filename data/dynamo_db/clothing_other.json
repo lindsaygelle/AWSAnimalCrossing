@@ -76,6 +76,9 @@
             "is_equippable": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -84,6 +87,12 @@
             },
             "order": {
                 "N": "1"
+            },
+            "seasonal_availability": {
+                "S": "All Year"
+            },
+            "seasonality": {
+                "S": "All Year"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -111,6 +120,9 @@
             },
             "unique_entry_id": {
                 "S": "6L2xDvYdeFstLHY86"
+            },
+            "variant_name": {
+                "S": "Black"
             }
         },
         "TableName": "clothing_other"
@@ -192,6 +204,9 @@
             "is_equippable": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -200,6 +215,12 @@
             },
             "order": {
                 "N": "2"
+            },
+            "seasonal_availability": {
+                "S": "All Year"
+            },
+            "seasonality": {
+                "S": "All Year"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -227,6 +248,9 @@
             },
             "unique_entry_id": {
                 "S": "3TDPbxuAzdDjSSHyA"
+            },
+            "variant_name": {
+                "S": "Red"
             }
         },
         "TableName": "clothing_other"
@@ -308,6 +332,9 @@
             "is_equippable": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -316,6 +343,12 @@
             },
             "order": {
                 "N": "3"
+            },
+            "seasonal_availability": {
+                "S": "All Year"
+            },
+            "seasonality": {
+                "S": "All Year"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -343,6 +376,9 @@
             },
             "unique_entry_id": {
                 "S": "ngqeKA7GqE55ezKww"
+            },
+            "variant_name": {
+                "S": "Yellow"
             }
         },
         "TableName": "clothing_other"
@@ -424,6 +460,9 @@
             "is_equippable": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -432,6 +471,12 @@
             },
             "order": {
                 "N": "4"
+            },
+            "seasonal_availability": {
+                "S": "All Year"
+            },
+            "seasonality": {
+                "S": "All Year"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -459,6 +504,9 @@
             },
             "unique_entry_id": {
                 "S": "hSJxcwRHv7qnKp93f"
+            },
+            "variant_name": {
+                "S": "Blue"
             }
         },
         "TableName": "clothing_other"
@@ -540,6 +588,9 @@
             "is_equippable": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -548,6 +599,12 @@
             },
             "order": {
                 "N": "1"
+            },
+            "seasonal_availability": {
+                "S": "All Year"
+            },
+            "seasonality": {
+                "S": "All Year"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -575,6 +632,9 @@
             },
             "unique_entry_id": {
                 "S": "dzprxbw5CzvxNWHt7"
+            },
+            "variant_name": {
+                "S": "Yellow"
             }
         },
         "TableName": "clothing_other"
@@ -656,6 +716,9 @@
             "is_equippable": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -664,6 +727,12 @@
             },
             "order": {
                 "N": "2"
+            },
+            "seasonal_availability": {
+                "S": "All Year"
+            },
+            "seasonality": {
+                "S": "All Year"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -691,6 +760,9 @@
             },
             "unique_entry_id": {
                 "S": "3qhdPQngftbrtWgHM"
+            },
+            "variant_name": {
+                "S": "Green"
             }
         },
         "TableName": "clothing_other"
@@ -772,6 +844,9 @@
             "is_equippable": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -780,6 +855,12 @@
             },
             "order": {
                 "N": "3"
+            },
+            "seasonal_availability": {
+                "S": "All Year"
+            },
+            "seasonality": {
+                "S": "All Year"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -807,6 +888,9 @@
             },
             "unique_entry_id": {
                 "S": "mCuc5u3XpnyQqcR8G"
+            },
+            "variant_name": {
+                "S": "Light Blue"
             }
         },
         "TableName": "clothing_other"
@@ -888,6 +972,9 @@
             "is_equippable": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -896,6 +983,12 @@
             },
             "order": {
                 "N": "4"
+            },
+            "seasonal_availability": {
+                "S": "All Year"
+            },
+            "seasonality": {
+                "S": "All Year"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -923,6 +1016,9 @@
             },
             "unique_entry_id": {
                 "S": "GZwvXzEMwCfhuNTHe"
+            },
+            "variant_name": {
+                "S": "Purple"
             }
         },
         "TableName": "clothing_other"
@@ -1004,6 +1100,9 @@
             "is_equippable": {
                 "BOOL": false
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -1012,6 +1111,12 @@
             },
             "order": {
                 "N": "1"
+            },
+            "seasonal_availability": {
+                "S": "All Year"
+            },
+            "seasonality": {
+                "S": "All Year"
             },
             "sell_currency": {
                 "S": "Bells"
@@ -1039,6 +1144,9 @@
             },
             "unique_entry_id": {
                 "S": "jjwdLhmb3X42fvtHa"
+            },
+            "variant_name": {
+                "NULL": true
             }
         },
         "TableName": "clothing_other"

@@ -67,6 +67,9 @@
             "is_equippable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -161,6 +164,9 @@
             },
             "is_equippable": {
                 "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -257,6 +263,9 @@
             "is_equippable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -351,6 +360,9 @@
             },
             "is_equippable": {
                 "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -447,6 +459,9 @@
             "is_equippable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -541,6 +556,9 @@
             },
             "is_equippable": {
                 "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -637,6 +655,9 @@
             "is_equippable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -731,6 +752,9 @@
             },
             "is_equippable": {
                 "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -827,6 +851,9 @@
             "is_equippable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -921,6 +948,9 @@
             },
             "is_equippable": {
                 "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -1017,6 +1047,9 @@
             "is_equippable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -1111,6 +1144,9 @@
             },
             "is_equippable": {
                 "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -1207,6 +1243,9 @@
             "is_equippable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -1300,6 +1339,9 @@
                 "BOOL": true
             },
             "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
                 "BOOL": true
             },
             "is_unlocked": {
@@ -1397,6 +1439,9 @@
             "is_equippable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -1491,6 +1536,9 @@
             },
             "is_equippable": {
                 "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -1587,6 +1635,9 @@
             "is_equippable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -1682,6 +1733,9 @@
             "is_equippable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -1775,6 +1829,9 @@
                 "BOOL": false
             },
             "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
                 "BOOL": true
             },
             "is_unlocked": {
@@ -1872,6 +1929,9 @@
             "is_equippable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -1966,6 +2026,9 @@
             },
             "is_equippable": {
                 "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -2062,6 +2125,9 @@
             "is_equippable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -2156,6 +2222,9 @@
             },
             "is_equippable": {
                 "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -2252,6 +2321,9 @@
             "is_equippable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -2346,6 +2418,9 @@
             },
             "is_equippable": {
                 "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -2442,6 +2517,9 @@
             "is_equippable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -2536,6 +2614,9 @@
             },
             "is_equippable": {
                 "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -2632,6 +2713,9 @@
             "is_equippable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -2727,6 +2811,9 @@
             "is_equippable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -2820,6 +2907,9 @@
                 "BOOL": false
             },
             "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
                 "BOOL": true
             },
             "is_unlocked": {
@@ -2917,6 +3007,9 @@
             "is_equippable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -3011,6 +3104,9 @@
             },
             "is_equippable": {
                 "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -3107,6 +3203,9 @@
             "is_equippable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -3200,6 +3299,9 @@
                 "BOOL": true
             },
             "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
                 "BOOL": true
             },
             "is_unlocked": {
@@ -3297,6 +3399,9 @@
             "is_equippable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -3391,6 +3496,9 @@
             },
             "is_equippable": {
                 "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -3487,6 +3595,9 @@
             "is_equippable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -3580,6 +3691,9 @@
                 "BOOL": true
             },
             "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
                 "BOOL": true
             },
             "is_unlocked": {
@@ -3677,6 +3791,9 @@
             "is_equippable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -3771,6 +3888,9 @@
             },
             "is_equippable": {
                 "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -3867,6 +3987,9 @@
             "is_equippable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -3962,6 +4085,9 @@
             "is_equippable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -4055,6 +4181,9 @@
                 "BOOL": false
             },
             "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
                 "BOOL": true
             },
             "is_unlocked": {
@@ -4152,6 +4281,9 @@
             "is_equippable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -4246,6 +4378,9 @@
             },
             "is_equippable": {
                 "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -4342,6 +4477,9 @@
             "is_equippable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -4436,6 +4574,9 @@
             },
             "is_equippable": {
                 "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -4532,6 +4673,9 @@
             "is_equippable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -4626,6 +4770,9 @@
             },
             "is_equippable": {
                 "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -4722,6 +4869,9 @@
             "is_equippable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -4816,6 +4966,9 @@
             },
             "is_equippable": {
                 "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -4912,6 +5065,9 @@
             "is_equippable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -5006,6 +5162,9 @@
             },
             "is_equippable": {
                 "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -5102,6 +5261,9 @@
             "is_equippable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -5196,6 +5358,9 @@
             },
             "is_equippable": {
                 "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -5292,6 +5457,9 @@
             "is_equippable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -5386,6 +5554,9 @@
             },
             "is_equippable": {
                 "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -5482,6 +5653,9 @@
             "is_equippable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -5576,6 +5750,9 @@
             },
             "is_equippable": {
                 "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -5672,6 +5849,9 @@
             "is_equippable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -5766,6 +5946,9 @@
             },
             "is_equippable": {
                 "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -5862,6 +6045,9 @@
             "is_equippable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -5956,6 +6142,9 @@
             },
             "is_equippable": {
                 "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -6052,6 +6241,9 @@
             "is_equippable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -6146,6 +6338,9 @@
             },
             "is_equippable": {
                 "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
@@ -6242,6 +6437,9 @@
             "is_equippable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -6337,6 +6535,9 @@
             "is_equippable": {
                 "BOOL": true
             },
+            "is_seasonal": {
+                "BOOL": false
+            },
             "is_unlocked": {
                 "BOOL": true
             },
@@ -6431,6 +6632,9 @@
             },
             "is_equippable": {
                 "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
             },
             "is_unlocked": {
                 "BOOL": true
