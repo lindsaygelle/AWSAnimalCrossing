@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 26,
-    "minProperties": 26,
+    "maxProperties": 27,
+    "minProperties": 27,
     "properties": {
         "body_category": {
             "maxLength": 15,
@@ -186,6 +186,13 @@
                 "null",
                 "string"
             ]
+        },
+        "version_added": {
+            "maxLength": 5,
+            "minLength": 5,
+            "type": [
+                "string"
+            ]
         }
     },
     "required": [
@@ -214,7 +221,8 @@
         "sell_price",
         "unique_entry_id",
         "variant_id",
-        "variant_name"
+        "variant_name",
+        "version_added"
     ],
     "title": "FurnitureFencing",
     "type": "object"

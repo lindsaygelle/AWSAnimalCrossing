@@ -61,6 +61,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -68,6 +74,9 @@
                 "NULL": true
             },
             "location_category": {
+                "S": "Sea"
+            },
+            "location_name": {
                 "S": "Sea"
             },
             "name": {
@@ -171,6 +180,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -178,6 +193,9 @@
                 "S": "Fluorescent"
             },
             "location_category": {
+                "S": "River"
+            },
+            "location_name": {
                 "S": "River"
             },
             "name": {
@@ -281,6 +299,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -288,6 +312,9 @@
                 "NULL": true
             },
             "location_category": {
+                "S": "River"
+            },
+            "location_name": {
                 "S": "River"
             },
             "name": {
@@ -391,6 +418,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -398,6 +431,9 @@
                 "S": "Fluorescent"
             },
             "location_category": {
+                "S": "River"
+            },
+            "location_name": {
                 "S": "River"
             },
             "name": {
@@ -501,6 +537,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -508,6 +550,9 @@
                 "S": "Fluorescent"
             },
             "location_category": {
+                "S": "Sea"
+            },
+            "location_name": {
                 "S": "Sea"
             },
             "name": {
@@ -611,6 +656,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -618,6 +669,9 @@
                 "S": "Fluorescent"
             },
             "location_category": {
+                "S": "Sea"
+            },
+            "location_name": {
                 "S": "Sea"
             },
             "name": {
@@ -721,6 +775,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -728,6 +788,9 @@
                 "S": "Fluorescent"
             },
             "location_category": {
+                "S": "River"
+            },
+            "location_name": {
                 "S": "River"
             },
             "name": {
@@ -831,6 +894,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -838,6 +907,9 @@
                 "NULL": true
             },
             "location_category": {
+                "S": "River"
+            },
+            "location_name": {
                 "S": "River"
             },
             "name": {
@@ -941,6 +1013,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -948,6 +1026,9 @@
                 "S": "Fluorescent"
             },
             "location_category": {
+                "S": "River"
+            },
+            "location_name": {
                 "S": "River"
             },
             "name": {
@@ -1051,6 +1132,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -1058,6 +1145,9 @@
                 "S": "Fluorescent"
             },
             "location_category": {
+                "S": "Sea"
+            },
+            "location_name": {
                 "S": "Sea"
             },
             "name": {
@@ -1161,6 +1251,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -1168,6 +1264,9 @@
                 "S": "Fluorescent"
             },
             "location_category": {
+                "S": "Pier"
+            },
+            "location_name": {
                 "S": "Pier"
             },
             "name": {
@@ -1271,6 +1370,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -1278,6 +1383,9 @@
                 "NULL": true
             },
             "location_category": {
+                "S": "River"
+            },
+            "location_name": {
                 "S": "River"
             },
             "name": {
@@ -1381,6 +1489,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -1388,6 +1502,9 @@
                 "S": "Fluorescent"
             },
             "location_category": {
+                "S": "Sea"
+            },
+            "location_name": {
                 "S": "Sea"
             },
             "name": {
@@ -1491,6 +1608,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -1498,6 +1621,9 @@
                 "S": "Fluorescent"
             },
             "location_category": {
+                "S": "Pond"
+            },
+            "location_name": {
                 "S": "Pond"
             },
             "name": {
@@ -1601,6 +1727,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -1608,6 +1740,9 @@
                 "S": "Fluorescent"
             },
             "location_category": {
+                "S": "Pond"
+            },
+            "location_name": {
                 "S": "Pond"
             },
             "name": {
@@ -1711,6 +1846,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -1719,6 +1860,9 @@
             },
             "location_category": {
                 "S": "River"
+            },
+            "location_name": {
+                "S": "River Clifftop"
             },
             "name": {
                 "S": "Char"
@@ -1821,6 +1965,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -1829,6 +1979,9 @@
             },
             "location_category": {
                 "S": "River"
+            },
+            "location_name": {
+                "S": "River Clifftop"
             },
             "name": {
                 "S": "Cherry Salmon"
@@ -1931,6 +2084,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -1938,6 +2097,9 @@
                 "S": "Fluorescent"
             },
             "location_category": {
+                "S": "Sea"
+            },
+            "location_name": {
                 "S": "Sea"
             },
             "name": {
@@ -2041,6 +2203,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -2048,6 +2216,9 @@
                 "S": "Fluorescent"
             },
             "location_category": {
+                "S": "Sea"
+            },
+            "location_name": {
                 "S": "Sea"
             },
             "name": {
@@ -2151,6 +2322,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -2158,6 +2335,9 @@
                 "S": "Fluorescent"
             },
             "location_category": {
+                "S": "Pond"
+            },
+            "location_name": {
                 "S": "Pond"
             },
             "name": {
@@ -2261,6 +2441,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -2268,6 +2454,9 @@
                 "S": "Fluorescent"
             },
             "location_category": {
+                "S": "River"
+            },
+            "location_name": {
                 "S": "River"
             },
             "name": {
@@ -2371,6 +2560,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -2378,6 +2573,9 @@
                 "S": "Fluorescent"
             },
             "location_category": {
+                "S": "Sea"
+            },
+            "location_name": {
                 "S": "Sea"
             },
             "name": {
@@ -2481,6 +2679,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -2488,6 +2692,9 @@
                 "S": "Fluorescent"
             },
             "location_category": {
+                "S": "River"
+            },
+            "location_name": {
                 "S": "River"
             },
             "name": {
@@ -2591,6 +2798,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -2598,6 +2811,9 @@
                 "S": "Fluorescent"
             },
             "location_category": {
+                "S": "River"
+            },
+            "location_name": {
                 "S": "River"
             },
             "name": {
@@ -2701,6 +2917,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -2708,6 +2930,9 @@
                 "S": "Emission"
             },
             "location_category": {
+                "S": "Sea"
+            },
+            "location_name": {
                 "S": "Sea"
             },
             "name": {
@@ -2811,6 +3036,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -2818,6 +3049,9 @@
                 "S": "Fluorescent"
             },
             "location_category": {
+                "S": "River"
+            },
+            "location_name": {
                 "S": "River"
             },
             "name": {
@@ -2921,6 +3155,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -2928,6 +3168,9 @@
                 "S": "Fluorescent"
             },
             "location_category": {
+                "S": "Pond"
+            },
+            "location_name": {
                 "S": "Pond"
             },
             "name": {
@@ -3031,6 +3274,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -3038,6 +3287,9 @@
                 "S": "Fluorescent"
             },
             "location_category": {
+                "S": "Pond"
+            },
+            "location_name": {
                 "S": "Pond"
             },
             "name": {
@@ -3141,6 +3393,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -3148,6 +3406,9 @@
                 "S": "Fluorescent"
             },
             "location_category": {
+                "S": "Pond"
+            },
+            "location_name": {
                 "S": "Pond"
             },
             "name": {
@@ -3251,6 +3512,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -3258,6 +3525,9 @@
                 "S": "Fluorescent"
             },
             "location_category": {
+                "S": "Pier"
+            },
+            "location_name": {
                 "S": "Pier"
             },
             "name": {
@@ -3361,6 +3631,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -3369,6 +3645,9 @@
             },
             "location_category": {
                 "S": "River"
+            },
+            "location_name": {
+                "S": "River Clifftop"
             },
             "name": {
                 "S": "Golden Trout"
@@ -3471,6 +3750,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -3478,6 +3763,9 @@
                 "NULL": true
             },
             "location_category": {
+                "S": "Pond"
+            },
+            "location_name": {
                 "S": "Pond"
             },
             "name": {
@@ -3581,6 +3869,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -3588,6 +3882,9 @@
                 "NULL": true
             },
             "location_category": {
+                "S": "Sea"
+            },
+            "location_name": {
                 "S": "Sea"
             },
             "name": {
@@ -3691,6 +3988,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -3698,6 +4001,9 @@
                 "S": "Fluorescent"
             },
             "location_category": {
+                "S": "River"
+            },
+            "location_name": {
                 "S": "River"
             },
             "name": {
@@ -3801,6 +4107,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -3808,6 +4120,9 @@
                 "S": "Fluorescent"
             },
             "location_category": {
+                "S": "Sea"
+            },
+            "location_name": {
                 "S": "Sea"
             },
             "name": {
@@ -3911,6 +4226,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -3918,6 +4239,9 @@
                 "S": "Fluorescent"
             },
             "location_category": {
+                "S": "Sea"
+            },
+            "location_name": {
                 "S": "Sea"
             },
             "name": {
@@ -4021,6 +4345,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -4028,6 +4358,9 @@
                 "S": "Fluorescent"
             },
             "location_category": {
+                "S": "Pond"
+            },
+            "location_name": {
                 "S": "Pond"
             },
             "name": {
@@ -4131,6 +4464,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -4139,6 +4478,9 @@
             },
             "location_category": {
                 "S": "River"
+            },
+            "location_name": {
+                "S": "River Mouth"
             },
             "name": {
                 "S": "King Salmon"
@@ -4241,6 +4583,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -4248,6 +4596,9 @@
                 "S": "Fluorescent"
             },
             "location_category": {
+                "S": "Pond"
+            },
+            "location_name": {
                 "S": "Pond"
             },
             "name": {
@@ -4351,6 +4702,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -4358,6 +4715,9 @@
                 "NULL": true
             },
             "location_category": {
+                "S": "River"
+            },
+            "location_name": {
                 "S": "River"
             },
             "name": {
@@ -4461,6 +4821,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -4468,6 +4834,9 @@
                 "S": "Fluorescent"
             },
             "location_category": {
+                "S": "Pier"
+            },
+            "location_name": {
                 "S": "Pier"
             },
             "name": {
@@ -4571,6 +4940,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -4578,6 +4953,9 @@
                 "NULL": true
             },
             "location_category": {
+                "S": "River"
+            },
+            "location_name": {
                 "S": "River"
             },
             "name": {
@@ -4681,6 +5059,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -4688,6 +5072,9 @@
                 "S": "Fluorescent"
             },
             "location_category": {
+                "S": "Sea"
+            },
+            "location_name": {
                 "S": "Sea"
             },
             "name": {
@@ -4791,6 +5178,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -4798,6 +5191,9 @@
                 "S": "Fluorescent"
             },
             "location_category": {
+                "S": "Sea"
+            },
+            "location_name": {
                 "S": "Sea"
             },
             "name": {
@@ -4901,6 +5297,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -4908,6 +5310,9 @@
                 "S": "Fluorescent"
             },
             "location_category": {
+                "S": "River"
+            },
+            "location_name": {
                 "S": "River"
             },
             "name": {
@@ -5011,6 +5416,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -5018,6 +5429,9 @@
                 "NULL": true
             },
             "location_category": {
+                "S": "River"
+            },
+            "location_name": {
                 "S": "River"
             },
             "name": {
@@ -5121,6 +5535,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -5128,6 +5548,9 @@
                 "NULL": true
             },
             "location_category": {
+                "S": "Sea"
+            },
+            "location_name": {
                 "S": "Sea"
             },
             "name": {
@@ -5231,6 +5654,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -5238,6 +5667,9 @@
                 "NULL": true
             },
             "location_category": {
+                "S": "Sea"
+            },
+            "location_name": {
                 "S": "Sea"
             },
             "name": {
@@ -5341,6 +5773,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -5348,6 +5786,9 @@
                 "S": "Fluorescent"
             },
             "location_category": {
+                "S": "Sea"
+            },
+            "location_name": {
                 "S": "Sea"
             },
             "name": {
@@ -5451,6 +5892,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -5458,6 +5905,9 @@
                 "NULL": true
             },
             "location_category": {
+                "S": "River"
+            },
+            "location_name": {
                 "S": "River"
             },
             "name": {
@@ -5561,6 +6011,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -5568,6 +6024,9 @@
                 "S": "Fluorescent"
             },
             "location_category": {
+                "S": "River"
+            },
+            "location_name": {
                 "S": "River"
             },
             "name": {
@@ -5671,6 +6130,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -5678,6 +6143,9 @@
                 "S": "Fluorescent"
             },
             "location_category": {
+                "S": "River"
+            },
+            "location_name": {
                 "S": "River"
             },
             "name": {
@@ -5781,6 +6249,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -5788,6 +6262,9 @@
                 "NULL": true
             },
             "location_category": {
+                "S": "River"
+            },
+            "location_name": {
                 "S": "River"
             },
             "name": {
@@ -5891,6 +6368,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -5898,6 +6381,9 @@
                 "NULL": true
             },
             "location_category": {
+                "S": "Pond"
+            },
+            "location_name": {
                 "S": "Pond"
             },
             "name": {
@@ -6001,6 +6487,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -6008,6 +6500,9 @@
                 "S": "Fluorescent"
             },
             "location_category": {
+                "S": "Sea"
+            },
+            "location_name": {
                 "S": "Sea"
             },
             "name": {
@@ -6111,6 +6606,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -6118,6 +6619,9 @@
                 "S": "Fluorescent"
             },
             "location_category": {
+                "S": "River"
+            },
+            "location_name": {
                 "S": "River"
             },
             "name": {
@@ -6221,6 +6725,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -6228,6 +6738,9 @@
                 "NULL": true
             },
             "location_category": {
+                "S": "Pond"
+            },
+            "location_name": {
                 "S": "Pond"
             },
             "name": {
@@ -6331,6 +6844,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -6338,6 +6857,9 @@
                 "S": "Fluorescent"
             },
             "location_category": {
+                "S": "Sea"
+            },
+            "location_name": {
                 "S": "Sea"
             },
             "name": {
@@ -6441,6 +6963,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -6448,6 +6976,9 @@
                 "S": "Fluorescent"
             },
             "location_category": {
+                "S": "Sea"
+            },
+            "location_name": {
                 "S": "Sea"
             },
             "name": {
@@ -6551,6 +7082,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -6558,6 +7095,9 @@
                 "S": "Fluorescent"
             },
             "location_category": {
+                "S": "Sea"
+            },
+            "location_name": {
                 "S": "Sea"
             },
             "name": {
@@ -6661,6 +7201,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -6668,6 +7214,9 @@
                 "S": "Fluorescent"
             },
             "location_category": {
+                "S": "River"
+            },
+            "location_name": {
                 "S": "River"
             },
             "name": {
@@ -6771,6 +7320,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -6779,6 +7334,9 @@
             },
             "location_category": {
                 "S": "River"
+            },
+            "location_name": {
+                "S": "River Mouth"
             },
             "name": {
                 "S": "Salmon"
@@ -6881,6 +7439,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -6888,6 +7452,9 @@
                 "S": "Fluorescent"
             },
             "location_category": {
+                "S": "Sea"
+            },
+            "location_name": {
                 "S": "Sea"
             },
             "name": {
@@ -6991,6 +7558,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -6998,6 +7571,9 @@
                 "S": "Fluorescent"
             },
             "location_category": {
+                "S": "Sea"
+            },
+            "location_name": {
                 "S": "Sea"
             },
             "name": {
@@ -7101,6 +7677,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -7108,6 +7690,9 @@
                 "S": "Fluorescent"
             },
             "location_category": {
+                "S": "Sea"
+            },
+            "location_name": {
                 "S": "Sea"
             },
             "name": {
@@ -7211,6 +7796,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -7218,6 +7809,9 @@
                 "S": "Fluorescent"
             },
             "location_category": {
+                "S": "Sea"
+            },
+            "location_name": {
                 "S": "Sea"
             },
             "name": {
@@ -7321,6 +7915,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -7328,6 +7928,9 @@
                 "NULL": true
             },
             "location_category": {
+                "S": "River"
+            },
+            "location_name": {
                 "S": "River"
             },
             "name": {
@@ -7431,6 +8034,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -7438,6 +8047,9 @@
                 "NULL": true
             },
             "location_category": {
+                "S": "River"
+            },
+            "location_name": {
                 "S": "River"
             },
             "name": {
@@ -7541,6 +8153,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -7548,6 +8166,9 @@
                 "S": "Fluorescent"
             },
             "location_category": {
+                "S": "Sea"
+            },
+            "location_name": {
                 "S": "Sea"
             },
             "name": {
@@ -7651,6 +8272,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -7659,6 +8286,9 @@
             },
             "location_category": {
                 "S": "River"
+            },
+            "location_name": {
+                "S": "River Clifftop"
             },
             "name": {
                 "S": "Stringfish"
@@ -7761,6 +8391,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -7769,6 +8405,9 @@
             },
             "location_category": {
                 "S": "River"
+            },
+            "location_name": {
+                "S": "River Mouth"
             },
             "name": {
                 "S": "Sturgeon"
@@ -7871,6 +8510,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -7878,6 +8523,9 @@
                 "S": "Fluorescent"
             },
             "location_category": {
+                "S": "Sea"
+            },
+            "location_name": {
                 "S": "Sea"
             },
             "name": {
@@ -7981,6 +8629,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -7988,6 +8642,9 @@
                 "S": "Fluorescent"
             },
             "location_category": {
+                "S": "Sea"
+            },
+            "location_name": {
                 "S": "Sea"
             },
             "name": {
@@ -8091,6 +8748,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -8098,6 +8761,9 @@
                 "S": "Fluorescent"
             },
             "location_category": {
+                "S": "River"
+            },
+            "location_name": {
                 "S": "River"
             },
             "name": {
@@ -8201,6 +8867,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -8208,6 +8880,9 @@
                 "NULL": true
             },
             "location_category": {
+                "S": "Pond"
+            },
+            "location_name": {
                 "S": "Pond"
             },
             "name": {
@@ -8311,6 +8986,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -8318,6 +8999,9 @@
                 "S": "Fluorescent"
             },
             "location_category": {
+                "S": "River"
+            },
+            "location_name": {
                 "S": "River"
             },
             "name": {
@@ -8421,6 +9105,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -8428,6 +9118,9 @@
                 "S": "Fluorescent"
             },
             "location_category": {
+                "S": "Pier"
+            },
+            "location_name": {
                 "S": "Pier"
             },
             "name": {
@@ -8531,6 +9224,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -8538,6 +9237,9 @@
                 "NULL": true
             },
             "location_category": {
+                "S": "Sea"
+            },
+            "location_name": {
                 "S": "Sea"
             },
             "name": {
@@ -8641,6 +9343,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -8648,6 +9356,9 @@
                 "S": "Fluorescent"
             },
             "location_category": {
+                "S": "River"
+            },
+            "location_name": {
                 "S": "River"
             },
             "name": {
@@ -8751,6 +9462,12 @@
             "internal_name": {
                 "NULL": true
             },
+            "is_available_raining": {
+                "BOOL": true
+            },
+            "is_available_sunshine": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -8758,6 +9475,9 @@
                 "S": "Fluorescent"
             },
             "location_category": {
+                "S": "Sea"
+            },
+            "location_name": {
                 "S": "Sea"
             },
             "name": {

@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 31,
-    "minProperties": 31,
+    "maxProperties": 32,
+    "minProperties": 32,
     "properties": {
         "buy_currency": {
             "maxLength": 5,
@@ -209,6 +209,13 @@
                 "string"
             ]
         },
+        "version_added": {
+            "maxLength": 5,
+            "minLength": 5,
+            "type": [
+                "string"
+            ]
+        },
         "villager_gender": {
             "maxLength": 4,
             "minLength": 4,
@@ -248,6 +255,7 @@
         "size_1",
         "size_2",
         "unique_entry_id",
+        "version_added",
         "villager_gender"
     ],
     "title": "ClothingUmbrella",

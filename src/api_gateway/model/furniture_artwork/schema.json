@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 36,
-    "minProperties": 36,
+    "maxProperties": 38,
+    "minProperties": 38,
     "properties": {
         "artist_name": {
             "maxLength": 29,
@@ -50,6 +50,13 @@
         "catalog_category": {
             "maxLength": 12,
             "minLength": 12,
+            "type": [
+                "string"
+            ]
+        },
+        "category": {
+            "maxLength": 9,
+            "minLength": 7,
             "type": [
                 "string"
             ]
@@ -251,6 +258,13 @@
             "type": [
                 "string"
             ]
+        },
+        "version_added": {
+            "maxLength": 5,
+            "minLength": 5,
+            "type": [
+                "string"
+            ]
         }
     },
     "required": [
@@ -261,6 +275,7 @@
         "buy_currency",
         "buy_price",
         "catalog_category",
+        "category",
         "color_1",
         "color_2",
         "description",
@@ -289,7 +304,8 @@
         "size_1",
         "size_2",
         "speaker_category",
-        "unique_entry_id"
+        "unique_entry_id",
+        "version_added"
     ],
     "title": "FurnitureArtwork",
     "type": "object"

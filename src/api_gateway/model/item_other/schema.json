@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 28,
-    "minProperties": 28,
+    "maxProperties": 30,
+    "minProperties": 30,
     "properties": {
         "buy_currency": {
             "maxLength": 5,
@@ -28,6 +28,13 @@
             "minimum": 1,
             "type": [
                 "integer"
+            ]
+        },
+        "category": {
+            "maxLength": 14,
+            "minLength": 3,
+            "type": [
+                "string"
             ]
         },
         "color_1": {
@@ -205,12 +212,20 @@
             "type": [
                 "string"
             ]
+        },
+        "version_added": {
+            "maxLength": 5,
+            "minLength": 5,
+            "type": [
+                "string"
+            ]
         }
     },
     "required": [
         "buy_currency",
         "buy_price",
         "capacity",
+        "category",
         "color_1",
         "color_2",
         "exchange_currency",
@@ -235,7 +250,8 @@
         "name",
         "sell_currency",
         "sell_price",
-        "unique_entry_id"
+        "unique_entry_id",
+        "version_added"
     ],
     "title": "ItemOther",
     "type": "object"

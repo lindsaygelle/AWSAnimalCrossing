@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 44,
-    "minProperties": 44,
+    "maxProperties": 46,
+    "minProperties": 46,
     "properties": {
         "body_category": {
             "maxLength": 13,
@@ -42,6 +42,13 @@
         "catalog_category": {
             "maxLength": 14,
             "minLength": 8,
+            "type": [
+                "string"
+            ]
+        },
+        "category": {
+            "maxLength": 16,
+            "minLength": 2,
             "type": [
                 "string"
             ]
@@ -327,6 +334,13 @@
                 "null",
                 "string"
             ]
+        },
+        "version_added": {
+            "maxLength": 6,
+            "minLength": 5,
+            "type": [
+                "string"
+            ]
         }
     },
     "required": [
@@ -336,6 +350,7 @@
         "can_customize_body",
         "can_customize_pattern",
         "catalog_category",
+        "category",
         "color_1",
         "color_2",
         "cyrus_currency",
@@ -373,7 +388,8 @@
         "size_2",
         "unique_entry_id",
         "variant_id",
-        "variant_name"
+        "variant_name",
+        "version_added"
     ],
     "title": "FurnitureWallMounted",
     "type": "object"

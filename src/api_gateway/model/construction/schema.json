@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 7,
-    "minProperties": 7,
+    "maxProperties": 8,
+    "minProperties": 8,
     "properties": {
         "buy_currency": {
             "maxLength": 5,
@@ -56,6 +56,13 @@
             "type": [
                 "string"
             ]
+        },
+        "version_added": {
+            "maxLength": 5,
+            "minLength": 5,
+            "type": [
+                "string"
+            ]
         }
     },
     "required": [
@@ -65,7 +72,8 @@
         "filename_image",
         "image_url",
         "name",
-        "unique_entry_id"
+        "unique_entry_id",
+        "version_added"
     ],
     "title": "Construction",
     "type": "object"

@@ -82,6 +82,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "3D glasses"
             },
@@ -117,6 +120,9 @@
             },
             "variant_name": {
                 "S": "White"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -207,6 +213,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "3D glasses"
             },
@@ -242,6 +251,9 @@
             },
             "variant_name": {
                 "S": "Black"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -332,6 +344,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Animal Nose"
             },
@@ -367,6 +382,9 @@
             },
             "variant_name": {
                 "NULL": true
+            },
+            "version_added": {
+                "S": "1.5.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -457,6 +475,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Ballroom Mask"
             },
@@ -492,6 +513,9 @@
             },
             "variant_name": {
                 "S": "White"
+            },
+            "version_added": {
+                "S": "1.9.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -582,6 +606,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Ballroom Mask"
             },
@@ -617,6 +644,9 @@
             },
             "variant_name": {
                 "S": "Black"
+            },
+            "version_added": {
+                "S": "1.9.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -707,6 +737,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "All Year"
+            },
             "name": {
                 "S": "Bandage"
             },
@@ -742,6 +775,9 @@
             },
             "variant_name": {
                 "NULL": true
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -832,6 +868,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "All Year"
+            },
             "name": {
                 "S": "Beak"
             },
@@ -867,6 +906,9 @@
             },
             "variant_name": {
                 "NULL": true
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -957,6 +999,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Birthday Shades"
             },
@@ -992,6 +1037,9 @@
             },
             "variant_name": {
                 "S": "Red"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -1082,6 +1130,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Birthday Shades"
             },
@@ -1117,6 +1168,9 @@
             },
             "variant_name": {
                 "S": "Pink"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -1207,6 +1261,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Birthday Shades"
             },
@@ -1242,6 +1299,9 @@
             },
             "variant_name": {
                 "S": "Yellow"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -1332,6 +1392,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Birthday Shades"
             },
@@ -1367,6 +1430,9 @@
             },
             "variant_name": {
                 "S": "Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -1457,6 +1523,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Bottom-rimmed Glasses"
             },
@@ -1492,6 +1561,9 @@
             },
             "variant_name": {
                 "S": "Black"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -1582,6 +1654,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Bottom-rimmed Glasses"
             },
@@ -1617,6 +1692,9 @@
             },
             "variant_name": {
                 "S": "Red"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -1707,6 +1785,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "All Year"
+            },
             "name": {
                 "S": "Bottom-rimmed Glasses"
             },
@@ -1742,6 +1823,9 @@
             },
             "variant_name": {
                 "S": "Pink"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -1832,6 +1916,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "Summer; Winter"
+            },
             "name": {
                 "S": "Bottom-rimmed Glasses"
             },
@@ -1867,6 +1954,9 @@
             },
             "variant_name": {
                 "S": "Yellow"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -1957,6 +2047,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Bottom-rimmed Glasses"
             },
@@ -1992,6 +2085,9 @@
             },
             "variant_name": {
                 "S": "Green"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -2082,6 +2178,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Bottom-rimmed Glasses"
             },
@@ -2117,6 +2216,9 @@
             },
             "variant_name": {
                 "S": "Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -2207,6 +2309,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Bottom-rimmed Glasses"
             },
@@ -2242,6 +2347,9 @@
             },
             "variant_name": {
                 "S": "Purple"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -2332,6 +2440,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Browline Glasses"
             },
@@ -2367,6 +2478,9 @@
             },
             "variant_name": {
                 "S": "Gray"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -2457,6 +2571,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "Summer; Winter"
+            },
             "name": {
                 "S": "Browline Glasses"
             },
@@ -2492,6 +2609,9 @@
             },
             "variant_name": {
                 "S": "Black"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -2582,6 +2702,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Browline Glasses"
             },
@@ -2617,6 +2740,9 @@
             },
             "variant_name": {
                 "S": "Green"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -2707,6 +2833,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "All Year"
+            },
             "name": {
                 "S": "Browline Glasses"
             },
@@ -2742,6 +2871,9 @@
             },
             "variant_name": {
                 "S": "Brown"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -2832,6 +2964,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Bubblegum"
             },
@@ -2867,6 +3002,9 @@
             },
             "variant_name": {
                 "S": "White"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -2957,6 +3095,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Bubblegum"
             },
@@ -2992,6 +3133,9 @@
             },
             "variant_name": {
                 "S": "Pink"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -3082,6 +3226,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "All Year"
+            },
             "name": {
                 "S": "Bubblegum"
             },
@@ -3117,6 +3264,9 @@
             },
             "variant_name": {
                 "S": "Yellow"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -3207,6 +3357,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Bubblegum"
             },
@@ -3242,6 +3395,9 @@
             },
             "variant_name": {
                 "S": "Green"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -3332,6 +3488,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Bubblegum"
             },
@@ -3367,6 +3526,9 @@
             },
             "variant_name": {
                 "S": "Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -3457,6 +3619,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Bunny Nose"
             },
@@ -3492,6 +3657,9 @@
             },
             "variant_name": {
                 "S": "White"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -3582,6 +3750,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Bunny Nose"
             },
@@ -3617,6 +3788,9 @@
             },
             "variant_name": {
                 "S": "Pink"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -3707,6 +3881,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Bunny Nose"
             },
@@ -3742,6 +3919,9 @@
             },
             "variant_name": {
                 "S": "Yellow"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -3832,6 +4012,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "All Year"
+            },
             "name": {
                 "S": "Butterfly Shades"
             },
@@ -3867,6 +4050,9 @@
             },
             "variant_name": {
                 "S": "Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -3957,6 +4143,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "Summer"
+            },
             "name": {
                 "S": "Butterfly Shades"
             },
@@ -3992,6 +4181,9 @@
             },
             "variant_name": {
                 "S": "Red"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -4082,6 +4274,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Butterfly Shades"
             },
@@ -4117,6 +4312,9 @@
             },
             "variant_name": {
                 "S": "Brown"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -4207,6 +4405,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Candy-skull Mask"
             },
@@ -4242,6 +4443,9 @@
             },
             "variant_name": {
                 "S": "Orange"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -4332,6 +4536,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Candy-skull Mask"
             },
@@ -4367,6 +4574,9 @@
             },
             "variant_name": {
                 "S": "Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -4457,6 +4667,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Candy-skull Mask"
             },
@@ -4492,6 +4705,9 @@
             },
             "variant_name": {
                 "S": "Purple"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -4582,6 +4798,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Cat Nose"
             },
@@ -4617,6 +4836,9 @@
             },
             "variant_name": {
                 "S": "White"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -4707,6 +4929,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Cat Nose"
             },
@@ -4742,6 +4967,9 @@
             },
             "variant_name": {
                 "S": "Navy Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -4832,6 +5060,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Cat Nose"
             },
@@ -4867,6 +5098,9 @@
             },
             "variant_name": {
                 "S": "Brown"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -4957,6 +5191,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "All Year"
+            },
             "name": {
                 "S": "Cucumber Pack"
             },
@@ -4992,6 +5229,9 @@
             },
             "variant_name": {
                 "NULL": true
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -5082,6 +5322,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Curly Mustache"
             },
@@ -5117,6 +5360,9 @@
             },
             "variant_name": {
                 "NULL": true
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -5207,6 +5453,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Cyber Shades"
             },
@@ -5242,6 +5491,9 @@
             },
             "variant_name": {
                 "S": "Silver"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -5332,6 +5584,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Cyber Shades"
             },
@@ -5367,6 +5622,9 @@
             },
             "variant_name": {
                 "S": "Black"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -5457,6 +5715,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Cyber Shades"
             },
@@ -5492,6 +5753,9 @@
             },
             "variant_name": {
                 "S": "Red"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -5582,6 +5846,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Cyber Shades"
             },
@@ -5617,6 +5884,9 @@
             },
             "variant_name": {
                 "S": "Yellow"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -5707,6 +5977,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Cyber Shades"
             },
@@ -5742,6 +6015,9 @@
             },
             "variant_name": {
                 "S": "Green"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -5832,6 +6108,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Cyber Shades"
             },
@@ -5867,6 +6146,9 @@
             },
             "variant_name": {
                 "S": "Purple"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -5957,6 +6239,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "DAL eye mask"
             },
@@ -5992,6 +6277,9 @@
             },
             "variant_name": {
                 "NULL": true
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -6082,6 +6370,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "DAL sunglasses"
             },
@@ -6117,6 +6408,9 @@
             },
             "variant_name": {
                 "NULL": true
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -6207,6 +6501,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Doctor's Mask"
             },
@@ -6242,6 +6539,9 @@
             },
             "variant_name": {
                 "NULL": true
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -6332,6 +6632,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Dog Nose"
             },
@@ -6367,6 +6670,9 @@
             },
             "variant_name": {
                 "S": "White"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -6457,6 +6763,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Dog Nose"
             },
@@ -6492,6 +6801,9 @@
             },
             "variant_name": {
                 "S": "Black"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -6582,6 +6894,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Dog Nose"
             },
@@ -6617,6 +6932,9 @@
             },
             "variant_name": {
                 "S": "Beige"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -6707,6 +7025,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Double Nose Tissues"
             },
@@ -6742,6 +7063,9 @@
             },
             "variant_name": {
                 "NULL": true
+            },
+            "version_added": {
+                "S": "2.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -6832,6 +7156,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "Summer"
+            },
             "name": {
                 "S": "Double-bridge Glasses"
             },
@@ -6867,6 +7194,9 @@
             },
             "variant_name": {
                 "S": "Silver"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -6957,6 +7287,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Double-bridge Glasses"
             },
@@ -6992,6 +7325,9 @@
             },
             "variant_name": {
                 "S": "Gold"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -7082,6 +7418,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Double-bridge Glasses"
             },
@@ -7117,6 +7456,9 @@
             },
             "variant_name": {
                 "S": "Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -7207,6 +7549,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "Winter"
+            },
             "name": {
                 "S": "Double-bridge Glasses"
             },
@@ -7242,6 +7587,9 @@
             },
             "variant_name": {
                 "S": "Purple"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -7332,6 +7680,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Drinking-straw Glasses"
             },
@@ -7367,6 +7718,9 @@
             },
             "variant_name": {
                 "S": "White"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -7457,6 +7811,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Drinking-straw Glasses"
             },
@@ -7492,6 +7849,9 @@
             },
             "variant_name": {
                 "S": "Pink"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -7582,6 +7942,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Drinking-straw Glasses"
             },
@@ -7617,6 +7980,9 @@
             },
             "variant_name": {
                 "S": "Green"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -7707,6 +8073,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Drinking-straw Glasses"
             },
@@ -7742,6 +8111,9 @@
             },
             "variant_name": {
                 "S": "Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -7832,6 +8204,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Elegant Masquerade Mask"
             },
@@ -7867,6 +8242,9 @@
             },
             "variant_name": {
                 "S": "Red"
+            },
+            "version_added": {
+                "S": "1.9.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -7957,6 +8335,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Elegant Masquerade Mask"
             },
@@ -7992,6 +8373,9 @@
             },
             "variant_name": {
                 "S": "Blue"
+            },
+            "version_added": {
+                "S": "1.9.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -8082,6 +8466,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Eye Gauze"
             },
@@ -8117,6 +8504,9 @@
             },
             "variant_name": {
                 "NULL": true
+            },
+            "version_added": {
+                "S": "2.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -8207,6 +8597,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Eye Mask"
             },
@@ -8242,6 +8635,9 @@
             },
             "variant_name": {
                 "S": "Gray"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -8332,6 +8728,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Eye Mask"
             },
@@ -8367,6 +8766,9 @@
             },
             "variant_name": {
                 "S": "Red"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -8457,6 +8859,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Eye Mask"
             },
@@ -8492,6 +8897,9 @@
             },
             "variant_name": {
                 "S": "Pink"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -8582,6 +8990,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Eye Mask"
             },
@@ -8617,6 +9028,9 @@
             },
             "variant_name": {
                 "S": "Orange"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -8707,6 +9121,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Eye Mask"
             },
@@ -8742,6 +9159,9 @@
             },
             "variant_name": {
                 "S": "Green"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -8832,6 +9252,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Eye Mask"
             },
@@ -8867,6 +9290,9 @@
             },
             "variant_name": {
                 "S": "Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -8957,6 +9383,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Eye Patch"
             },
@@ -8992,6 +9421,9 @@
             },
             "variant_name": {
                 "NULL": true
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -9082,6 +9514,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Facial Mask"
             },
@@ -9117,6 +9552,9 @@
             },
             "variant_name": {
                 "NULL": true
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -9207,6 +9645,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Fake Nose"
             },
@@ -9242,6 +9683,9 @@
             },
             "variant_name": {
                 "NULL": true
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -9332,6 +9776,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Flower Sunglasses"
             },
@@ -9367,6 +9814,9 @@
             },
             "variant_name": {
                 "S": "Red"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -9457,6 +9907,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "Summer"
+            },
             "name": {
                 "S": "Flower Sunglasses"
             },
@@ -9492,6 +9945,9 @@
             },
             "variant_name": {
                 "S": "Orange"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -9582,6 +10038,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "All Year"
+            },
             "name": {
                 "S": "Flower Sunglasses"
             },
@@ -9617,6 +10076,9 @@
             },
             "variant_name": {
                 "S": "Green"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -9707,6 +10169,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Flower Sunglasses"
             },
@@ -9742,6 +10207,9 @@
             },
             "variant_name": {
                 "S": "Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -9832,6 +10300,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Flower Sunglasses"
             },
@@ -9867,6 +10338,9 @@
             },
             "variant_name": {
                 "S": "Purple"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -9957,6 +10431,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Food Mess"
             },
@@ -9992,6 +10469,9 @@
             },
             "variant_name": {
                 "NULL": true
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -10082,6 +10562,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Funny Glasses"
             },
@@ -10117,6 +10600,9 @@
             },
             "variant_name": {
                 "S": "Pink"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -10207,6 +10693,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Funny Glasses"
             },
@@ -10242,6 +10731,9 @@
             },
             "variant_name": {
                 "S": "Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -10332,6 +10824,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Funny Glasses"
             },
@@ -10367,6 +10862,9 @@
             },
             "variant_name": {
                 "S": "Brown"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -10457,6 +10955,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Gas Mask"
             },
@@ -10492,6 +10993,9 @@
             },
             "variant_name": {
                 "S": "Black"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -10582,6 +11086,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Gas Mask"
             },
@@ -10617,6 +11124,9 @@
             },
             "variant_name": {
                 "S": "Avocado"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -10707,6 +11217,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Glass-bottle Glasses"
             },
@@ -10742,6 +11255,9 @@
             },
             "variant_name": {
                 "NULL": true
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -10832,6 +11348,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "Summer"
+            },
             "name": {
                 "S": "Goatee"
             },
@@ -10867,6 +11386,9 @@
             },
             "variant_name": {
                 "NULL": true
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -10957,6 +11479,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Goggles"
             },
@@ -10992,6 +11517,9 @@
             },
             "variant_name": {
                 "S": "Black"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -11082,6 +11610,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Goggles"
             },
@@ -11117,6 +11648,9 @@
             },
             "variant_name": {
                 "S": "Red"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -11207,6 +11741,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Goggles"
             },
@@ -11242,6 +11779,9 @@
             },
             "variant_name": {
                 "S": "Pink"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -11332,6 +11872,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Goggles"
             },
@@ -11367,6 +11910,9 @@
             },
             "variant_name": {
                 "S": "Green"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -11457,6 +12003,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Goggles"
             },
@@ -11492,6 +12041,9 @@
             },
             "variant_name": {
                 "S": "Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -11582,6 +12134,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Goggles"
             },
@@ -11617,6 +12172,9 @@
             },
             "variant_name": {
                 "S": "Purple"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -11707,6 +12265,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "All Year"
+            },
             "name": {
                 "S": "Handlebar Mustache"
             },
@@ -11742,6 +12303,9 @@
             },
             "variant_name": {
                 "NULL": true
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -11832,6 +12396,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "Summer"
+            },
             "name": {
                 "S": "Heart Shades"
             },
@@ -11867,6 +12434,9 @@
             },
             "variant_name": {
                 "S": "Pink"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -11957,6 +12527,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Heart Shades"
             },
@@ -11992,6 +12565,9 @@
             },
             "variant_name": {
                 "S": "Yellow"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -12082,6 +12658,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Heart Shades"
             },
@@ -12117,6 +12696,9 @@
             },
             "variant_name": {
                 "S": "Green"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -12207,6 +12789,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Heart Shades"
             },
@@ -12242,6 +12827,9 @@
             },
             "variant_name": {
                 "S": "Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -12332,6 +12920,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Heart Shades"
             },
@@ -12367,6 +12958,9 @@
             },
             "variant_name": {
                 "S": "Purple"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -12457,6 +13051,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "HMD"
             },
@@ -12492,6 +13089,9 @@
             },
             "variant_name": {
                 "NULL": true
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -12582,6 +13182,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Jester's Mask"
             },
@@ -12617,6 +13220,9 @@
             },
             "variant_name": {
                 "S": "Black"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -12707,6 +13313,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Jester's Mask"
             },
@@ -12742,6 +13351,9 @@
             },
             "variant_name": {
                 "S": "Red"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -12832,6 +13444,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Jester's Mask"
             },
@@ -12867,6 +13482,9 @@
             },
             "variant_name": {
                 "S": "Green"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -12957,6 +13575,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Jester's Mask"
             },
@@ -12992,6 +13613,9 @@
             },
             "variant_name": {
                 "S": "Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -13082,6 +13706,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Labelle sunglasses"
             },
@@ -13117,6 +13744,9 @@
             },
             "variant_name": {
                 "S": "Midnight"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -13207,6 +13837,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Labelle sunglasses"
             },
@@ -13242,6 +13875,9 @@
             },
             "variant_name": {
                 "S": "Passion"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -13332,6 +13968,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Labelle sunglasses"
             },
@@ -13367,6 +14006,9 @@
             },
             "variant_name": {
                 "S": "Love"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -13457,6 +14099,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Labelle sunglasses"
             },
@@ -13492,6 +14137,9 @@
             },
             "variant_name": {
                 "S": "Sunset"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -13582,6 +14230,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Labelle sunglasses"
             },
@@ -13617,6 +14268,9 @@
             },
             "variant_name": {
                 "S": "Ocean"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -13707,6 +14361,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Labelle sunglasses"
             },
@@ -13742,6 +14399,9 @@
             },
             "variant_name": {
                 "S": "Twilight"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -13832,6 +14492,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Ladder Shades"
             },
@@ -13867,6 +14530,9 @@
             },
             "variant_name": {
                 "S": "Red"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -13957,6 +14623,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "All Year"
+            },
             "name": {
                 "S": "Ladder Shades"
             },
@@ -13992,6 +14661,9 @@
             },
             "variant_name": {
                 "S": "Pink"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -14082,6 +14754,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Ladder Shades"
             },
@@ -14117,6 +14792,9 @@
             },
             "variant_name": {
                 "S": "Yellow"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -14207,6 +14885,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Ladder Shades"
             },
@@ -14242,6 +14923,9 @@
             },
             "variant_name": {
                 "S": "Green"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -14332,6 +15016,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Ladder Shades"
             },
@@ -14367,6 +15054,9 @@
             },
             "variant_name": {
                 "S": "Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -14457,6 +15147,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Ladder Shades"
             },
@@ -14492,6 +15185,9 @@
             },
             "variant_name": {
                 "S": "Gold"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -14582,6 +15278,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Leaf"
             },
@@ -14617,6 +15316,9 @@
             },
             "variant_name": {
                 "NULL": true
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -14707,6 +15409,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Luigi 'stache"
             },
@@ -14742,6 +15447,9 @@
             },
             "variant_name": {
                 "NULL": true
+            },
+            "version_added": {
+                "S": "1.8.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -14832,6 +15540,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Mario 'stache"
             },
@@ -14867,6 +15578,9 @@
             },
             "variant_name": {
                 "NULL": true
+            },
+            "version_added": {
+                "S": "1.8.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -14957,6 +15671,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Masquerade Mask"
             },
@@ -14992,6 +15709,9 @@
             },
             "variant_name": {
                 "S": "Black"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -15082,6 +15802,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Masquerade Mask"
             },
@@ -15117,6 +15840,9 @@
             },
             "variant_name": {
                 "S": "Red"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -15207,6 +15933,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Masquerade Mask"
             },
@@ -15242,6 +15971,9 @@
             },
             "variant_name": {
                 "S": "Purple"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -15332,6 +16064,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Masquerade Mask"
             },
@@ -15367,6 +16102,9 @@
             },
             "variant_name": {
                 "S": "Gold"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -15457,6 +16195,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Masquerade Mask"
             },
@@ -15492,6 +16233,9 @@
             },
             "variant_name": {
                 "S": "Green"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -15582,6 +16326,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Masquerade Mask"
             },
@@ -15617,6 +16364,9 @@
             },
             "variant_name": {
                 "S": "Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -15707,6 +16457,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Monocle"
             },
@@ -15742,6 +16495,9 @@
             },
             "variant_name": {
                 "S": "Silver"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -15832,6 +16588,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "All Year"
+            },
             "name": {
                 "S": "Monocle"
             },
@@ -15867,6 +16626,9 @@
             },
             "variant_name": {
                 "S": "Black"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -15957,6 +16719,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Monocle"
             },
@@ -15992,6 +16757,9 @@
             },
             "variant_name": {
                 "S": "Gold"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -16082,6 +16850,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Neon Shades"
             },
@@ -16117,6 +16888,9 @@
             },
             "variant_name": {
                 "S": "Light Blue & Pink"
+            },
+            "version_added": {
+                "S": "2.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -16207,6 +16981,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Neon Shades"
             },
@@ -16242,6 +17019,9 @@
             },
             "variant_name": {
                 "S": "Pink & Yellow"
+            },
+            "version_added": {
+                "S": "2.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -16332,6 +17112,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Neon Shades"
             },
@@ -16367,6 +17150,9 @@
             },
             "variant_name": {
                 "S": "Orange & Lime"
+            },
+            "version_added": {
+                "S": "2.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -16457,6 +17243,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Neon Shades"
             },
@@ -16492,6 +17281,9 @@
             },
             "variant_name": {
                 "S": "Lime & Purple"
+            },
+            "version_added": {
+                "S": "2.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -16582,6 +17374,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Night-vision Goggles"
             },
@@ -16617,6 +17412,9 @@
             },
             "variant_name": {
                 "NULL": true
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -16707,6 +17505,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Nook Inc. eye mask"
             },
@@ -16742,6 +17543,9 @@
             },
             "variant_name": {
                 "NULL": true
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -16832,6 +17636,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Nook Inc. snorkel"
             },
@@ -16867,6 +17674,9 @@
             },
             "variant_name": {
                 "NULL": true
+            },
+            "version_added": {
+                "S": "1.3.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -16957,6 +17767,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Nose Drip"
             },
@@ -16992,6 +17805,9 @@
             },
             "variant_name": {
                 "NULL": true
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -17082,6 +17898,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Nose Tissue"
             },
@@ -17117,6 +17936,9 @@
             },
             "variant_name": {
                 "NULL": true
+            },
+            "version_added": {
+                "S": "2.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -17207,6 +18029,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "All Year"
+            },
             "name": {
                 "S": "Octagonal Glasses"
             },
@@ -17242,6 +18067,9 @@
             },
             "variant_name": {
                 "S": "Gray"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -17332,6 +18160,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "Summer; Winter"
+            },
             "name": {
                 "S": "Octagonal Glasses"
             },
@@ -17367,6 +18198,9 @@
             },
             "variant_name": {
                 "S": "Black"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -17457,6 +18291,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Octagonal Glasses"
             },
@@ -17492,6 +18329,9 @@
             },
             "variant_name": {
                 "S": "Green"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -17582,6 +18422,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "Winter"
+            },
             "name": {
                 "S": "Octagonal Glasses"
             },
@@ -17617,6 +18460,9 @@
             },
             "variant_name": {
                 "S": "Purple"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -17707,6 +18553,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "Winter"
+            },
             "name": {
                 "S": "Octagonal Glasses"
             },
@@ -17742,6 +18591,9 @@
             },
             "variant_name": {
                 "S": "Gold"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -17832,6 +18684,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Oval Glasses"
             },
@@ -17867,6 +18722,9 @@
             },
             "variant_name": {
                 "S": "Black"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -17957,6 +18815,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "All Year"
+            },
             "name": {
                 "S": "Oval Glasses"
             },
@@ -17992,6 +18853,9 @@
             },
             "variant_name": {
                 "S": "Magenta"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -18082,6 +18946,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "Winter"
+            },
             "name": {
                 "S": "Oval Glasses"
             },
@@ -18117,6 +18984,9 @@
             },
             "variant_name": {
                 "S": "Orange"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -18207,6 +19077,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Oval Glasses"
             },
@@ -18242,6 +19115,9 @@
             },
             "variant_name": {
                 "S": "Mustard"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -18332,6 +19208,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "All Year"
+            },
             "name": {
                 "S": "Oval Glasses"
             },
@@ -18367,6 +19246,9 @@
             },
             "variant_name": {
                 "S": "Green"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -18457,6 +19339,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Oval Glasses"
             },
@@ -18492,6 +19377,9 @@
             },
             "variant_name": {
                 "S": "Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -18582,6 +19470,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Oval Glasses"
             },
@@ -18617,6 +19508,9 @@
             },
             "variant_name": {
                 "S": "Purple"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -18707,6 +19601,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Pacifier"
             },
@@ -18742,6 +19639,9 @@
             },
             "variant_name": {
                 "S": "Baby Gray"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -18832,6 +19732,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Pacifier"
             },
@@ -18867,6 +19770,9 @@
             },
             "variant_name": {
                 "S": "Baby Pink"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -18957,6 +19863,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Pacifier"
             },
@@ -18992,6 +19901,9 @@
             },
             "variant_name": {
                 "S": "Baby Purple"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -19082,6 +19994,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Pacifier"
             },
@@ -19117,6 +20032,9 @@
             },
             "variant_name": {
                 "S": "Baby Orange"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -19207,6 +20125,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Pacifier"
             },
@@ -19242,6 +20163,9 @@
             },
             "variant_name": {
                 "S": "Baby Yellow"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -19332,6 +20256,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Pacifier"
             },
@@ -19367,6 +20294,9 @@
             },
             "variant_name": {
                 "S": "Baby Green"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -19457,6 +20387,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Pacifier"
             },
@@ -19492,6 +20425,9 @@
             },
             "variant_name": {
                 "S": "Baby Mint"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -19582,6 +20518,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Pacifier"
             },
@@ -19617,6 +20556,9 @@
             },
             "variant_name": {
                 "S": "Baby Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -19707,6 +20649,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Pig Nose"
             },
@@ -19742,6 +20687,9 @@
             },
             "variant_name": {
                 "NULL": true
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -19832,6 +20780,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Pilot Shades"
             },
@@ -19867,6 +20818,9 @@
             },
             "variant_name": {
                 "S": "Black"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -19957,6 +20911,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "All Year"
+            },
             "name": {
                 "S": "Pilot Shades"
             },
@@ -19992,6 +20949,9 @@
             },
             "variant_name": {
                 "S": "Gold"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -20082,6 +21042,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Pirate Beard"
             },
@@ -20117,6 +21080,9 @@
             },
             "variant_name": {
                 "NULL": true
+            },
+            "version_added": {
+                "S": "1.3.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -20207,6 +21173,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Pirate Eye Patch"
             },
@@ -20242,6 +21211,9 @@
             },
             "variant_name": {
                 "NULL": true
+            },
+            "version_added": {
+                "S": "1.3.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -20332,6 +21304,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Pixel Shades"
             },
@@ -20367,6 +21342,9 @@
             },
             "variant_name": {
                 "S": "Black"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -20457,6 +21435,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "Winter"
+            },
             "name": {
                 "S": "Pixel Shades"
             },
@@ -20492,6 +21473,9 @@
             },
             "variant_name": {
                 "S": "Red"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -20582,6 +21566,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Pixel Shades"
             },
@@ -20617,6 +21604,9 @@
             },
             "variant_name": {
                 "S": "Green"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -20707,6 +21697,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "All Year"
+            },
             "name": {
                 "S": "Pixel Shades"
             },
@@ -20742,6 +21735,9 @@
             },
             "variant_name": {
                 "S": "Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -20832,6 +21828,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Pleated Mask"
             },
@@ -20867,6 +21866,9 @@
             },
             "variant_name": {
                 "S": "White"
+            },
+            "version_added": {
+                "S": "2.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -20957,6 +21959,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Pleated Mask"
             },
@@ -20992,6 +21997,9 @@
             },
             "variant_name": {
                 "S": "Blue"
+            },
+            "version_added": {
+                "S": "2.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -21082,6 +22090,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Pleated Mask"
             },
@@ -21117,6 +22128,9 @@
             },
             "variant_name": {
                 "S": "Pink"
+            },
+            "version_added": {
+                "S": "2.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -21207,6 +22221,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Pleated Mask"
             },
@@ -21242,6 +22259,9 @@
             },
             "variant_name": {
                 "S": "Cream"
+            },
+            "version_added": {
+                "S": "2.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -21332,6 +22352,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Pleated Mask"
             },
@@ -21367,6 +22390,9 @@
             },
             "variant_name": {
                 "S": "Black"
+            },
+            "version_added": {
+                "S": "2.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -21457,6 +22483,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "Summer"
+            },
             "name": {
                 "S": "Pleather Mask"
             },
@@ -21492,6 +22521,9 @@
             },
             "variant_name": {
                 "NULL": true
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -21582,6 +22614,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Post-op Patch"
             },
@@ -21617,6 +22652,9 @@
             },
             "variant_name": {
                 "NULL": true
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -21707,6 +22745,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "All Year"
+            },
             "name": {
                 "S": "Privacy Mask"
             },
@@ -21742,6 +22783,9 @@
             },
             "variant_name": {
                 "NULL": true
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -21832,6 +22876,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Reflector"
             },
@@ -21867,6 +22914,9 @@
             },
             "variant_name": {
                 "NULL": true
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -21957,6 +23007,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Retro Shades"
             },
@@ -21992,6 +23045,9 @@
             },
             "variant_name": {
                 "S": "Yellow"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -22082,6 +23138,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Retro Shades"
             },
@@ -22117,6 +23176,9 @@
             },
             "variant_name": {
                 "S": "Gray"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -22207,6 +23269,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "All Year"
+            },
             "name": {
                 "S": "Retro Shades"
             },
@@ -22242,6 +23307,9 @@
             },
             "variant_name": {
                 "S": "Red"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -22332,6 +23400,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Retro Shades"
             },
@@ -22367,6 +23438,9 @@
             },
             "variant_name": {
                 "S": "Purple"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -22457,6 +23531,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Retro Shades"
             },
@@ -22492,6 +23569,9 @@
             },
             "variant_name": {
                 "S": "Green"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -22582,6 +23662,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Retro Shades"
             },
@@ -22617,6 +23700,9 @@
             },
             "variant_name": {
                 "S": "Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -22707,6 +23793,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Rhinestone Shades"
             },
@@ -22742,6 +23831,9 @@
             },
             "variant_name": {
                 "S": "Red"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -22832,6 +23924,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Rhinestone Shades"
             },
@@ -22867,6 +23962,9 @@
             },
             "variant_name": {
                 "S": "Purple"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -22957,6 +24055,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Rhinestone Shades"
             },
@@ -22992,6 +24093,9 @@
             },
             "variant_name": {
                 "S": "Ochre"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -23082,6 +24186,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Rimmed Glasses"
             },
@@ -23117,6 +24224,9 @@
             },
             "variant_name": {
                 "S": "Gray"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -23207,6 +24317,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "All Year"
+            },
             "name": {
                 "S": "Rimmed Glasses"
             },
@@ -23242,6 +24355,9 @@
             },
             "variant_name": {
                 "S": "Black"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -23332,6 +24448,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Rimmed Glasses"
             },
@@ -23367,6 +24486,9 @@
             },
             "variant_name": {
                 "S": "Gold"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -23457,6 +24579,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "Summer"
+            },
             "name": {
                 "S": "Rimmed Glasses"
             },
@@ -23492,6 +24617,9 @@
             },
             "variant_name": {
                 "S": "Purple"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -23582,6 +24710,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "Winter"
+            },
             "name": {
                 "S": "Rimmed Glasses"
             },
@@ -23617,6 +24748,9 @@
             },
             "variant_name": {
                 "S": "Brown"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -23707,6 +24841,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Round Shades"
             },
@@ -23742,6 +24879,9 @@
             },
             "variant_name": {
                 "S": "White"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -23832,6 +24972,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "All Year"
+            },
             "name": {
                 "S": "Round Shades"
             },
@@ -23867,6 +25010,9 @@
             },
             "variant_name": {
                 "S": "Black"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -23957,6 +25103,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "Summer"
+            },
             "name": {
                 "S": "Round Shades"
             },
@@ -23992,6 +25141,9 @@
             },
             "variant_name": {
                 "S": "Red"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -24082,6 +25234,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Round Shades"
             },
@@ -24117,6 +25272,9 @@
             },
             "variant_name": {
                 "S": "Pink"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -24207,6 +25365,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Round Shades"
             },
@@ -24242,6 +25403,9 @@
             },
             "variant_name": {
                 "S": "Yellow"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -24332,6 +25496,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "Winter"
+            },
             "name": {
                 "S": "Round Shades"
             },
@@ -24367,6 +25534,9 @@
             },
             "variant_name": {
                 "S": "Green"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -24457,6 +25627,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Round Shades"
             },
@@ -24492,6 +25665,9 @@
             },
             "variant_name": {
                 "S": "Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -24582,6 +25758,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Round Shades"
             },
@@ -24617,6 +25796,9 @@
             },
             "variant_name": {
                 "S": "Purple"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -24707,6 +25889,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "Summer"
+            },
             "name": {
                 "S": "Round Tinted Shades"
             },
@@ -24742,6 +25927,9 @@
             },
             "variant_name": {
                 "S": "Brown"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -24832,6 +26020,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Round Tinted Shades"
             },
@@ -24867,6 +26058,9 @@
             },
             "variant_name": {
                 "S": "Light Brown"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -24957,6 +26151,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Round Tinted Shades"
             },
@@ -24992,6 +26189,9 @@
             },
             "variant_name": {
                 "S": "Green"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -25082,6 +26282,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "All Year"
+            },
             "name": {
                 "S": "Round Tinted Shades"
             },
@@ -25117,6 +26320,9 @@
             },
             "variant_name": {
                 "S": "Dark Brown"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -25207,6 +26413,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Round-frame Glasses"
             },
@@ -25242,6 +26451,9 @@
             },
             "variant_name": {
                 "S": "Silver"
+            },
+            "version_added": {
+                "S": "2.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -25332,6 +26544,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Round-frame Glasses"
             },
@@ -25367,6 +26582,9 @@
             },
             "variant_name": {
                 "S": "Black"
+            },
+            "version_added": {
+                "S": "2.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -25457,6 +26675,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Round-frame Glasses"
             },
@@ -25492,6 +26713,9 @@
             },
             "variant_name": {
                 "S": "Red"
+            },
+            "version_added": {
+                "S": "2.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -25582,6 +26806,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Round-frame Glasses"
             },
@@ -25617,6 +26844,9 @@
             },
             "variant_name": {
                 "S": "Navy Blue"
+            },
+            "version_added": {
+                "S": "2.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -25707,6 +26937,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Round-frame Glasses"
             },
@@ -25742,6 +26975,9 @@
             },
             "variant_name": {
                 "S": "Brown"
+            },
+            "version_added": {
+                "S": "2.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -25832,6 +27068,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Rounded Beard"
             },
@@ -25867,6 +27106,9 @@
             },
             "variant_name": {
                 "NULL": true
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -25957,6 +27199,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "All Year"
+            },
             "name": {
                 "S": "Santa beard"
             },
@@ -25992,6 +27237,9 @@
             },
             "variant_name": {
                 "NULL": true
+            },
+            "version_added": {
+                "S": "1.6.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -26082,6 +27330,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Shamrock Sunglasses"
             },
@@ -26117,6 +27368,9 @@
             },
             "variant_name": {
                 "NULL": true
+            },
+            "version_added": {
+                "S": "1.8.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -26207,6 +27461,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Shattered Glasses"
             },
@@ -26242,6 +27499,9 @@
             },
             "variant_name": {
                 "NULL": true
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -26332,6 +27592,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Silly Glasses"
             },
@@ -26367,6 +27630,9 @@
             },
             "variant_name": {
                 "S": "Purple"
+            },
+            "version_added": {
+                "S": "2.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -26457,6 +27723,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Silly Glasses"
             },
@@ -26492,6 +27761,9 @@
             },
             "variant_name": {
                 "S": "Pink"
+            },
+            "version_added": {
+                "S": "2.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -26582,6 +27854,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Silly Glasses"
             },
@@ -26617,6 +27892,9 @@
             },
             "variant_name": {
                 "S": "Yellow"
+            },
+            "version_added": {
+                "S": "2.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -26707,6 +27985,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Silly Glasses"
             },
@@ -26742,6 +28023,9 @@
             },
             "variant_name": {
                 "S": "Light Blue"
+            },
+            "version_added": {
+                "S": "2.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -26832,6 +28116,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Silly Glasses"
             },
@@ -26867,6 +28154,9 @@
             },
             "variant_name": {
                 "S": "Blue"
+            },
+            "version_added": {
+                "S": "2.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -26957,6 +28247,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Silly Glasses"
             },
@@ -26992,6 +28285,9 @@
             },
             "variant_name": {
                 "S": "White"
+            },
+            "version_added": {
+                "S": "2.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -27082,6 +28378,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Simple Sunglasses"
             },
@@ -27117,6 +28416,9 @@
             },
             "variant_name": {
                 "S": "Black"
+            },
+            "version_added": {
+                "S": "2.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -27207,6 +28509,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Simple Sunglasses"
             },
@@ -27242,6 +28547,9 @@
             },
             "variant_name": {
                 "S": "Red"
+            },
+            "version_added": {
+                "S": "2.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -27332,6 +28640,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Simple Sunglasses"
             },
@@ -27367,6 +28678,9 @@
             },
             "variant_name": {
                 "S": "Orange"
+            },
+            "version_added": {
+                "S": "2.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -27457,6 +28771,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Simple Sunglasses"
             },
@@ -27492,6 +28809,9 @@
             },
             "variant_name": {
                 "S": "Yellow"
+            },
+            "version_added": {
+                "S": "2.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -27582,6 +28902,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Simple Sunglasses"
             },
@@ -27617,6 +28940,9 @@
             },
             "variant_name": {
                 "S": "Lime"
+            },
+            "version_added": {
+                "S": "2.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -27707,6 +29033,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Simple Sunglasses"
             },
@@ -27742,6 +29071,9 @@
             },
             "variant_name": {
                 "S": "White"
+            },
+            "version_added": {
+                "S": "2.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -27832,6 +29164,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Ski Goggles"
             },
@@ -27867,6 +29202,9 @@
             },
             "variant_name": {
                 "S": "Yellow"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -27957,6 +29295,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "Winter"
+            },
             "name": {
                 "S": "Ski Goggles"
             },
@@ -27992,6 +29333,9 @@
             },
             "variant_name": {
                 "S": "White"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -28082,6 +29426,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Ski Goggles"
             },
@@ -28117,6 +29464,9 @@
             },
             "variant_name": {
                 "S": "Purple"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -28207,6 +29557,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Ski Goggles"
             },
@@ -28242,6 +29595,9 @@
             },
             "variant_name": {
                 "S": "Orange"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -28332,6 +29688,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Ski Goggles"
             },
@@ -28367,6 +29726,9 @@
             },
             "variant_name": {
                 "S": "Green"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -28457,6 +29819,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Ski Goggles"
             },
@@ -28492,6 +29857,9 @@
             },
             "variant_name": {
                 "S": "Pink"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -28582,6 +29950,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Snorkel Mask"
             },
@@ -28617,6 +29988,9 @@
             },
             "variant_name": {
                 "S": "Black"
+            },
+            "version_added": {
+                "S": "1.3.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -28707,6 +30081,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Snorkel Mask"
             },
@@ -28742,6 +30119,9 @@
             },
             "variant_name": {
                 "S": "Red"
+            },
+            "version_added": {
+                "S": "1.3.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -28832,6 +30212,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Snorkel Mask"
             },
@@ -28867,6 +30250,9 @@
             },
             "variant_name": {
                 "S": "Pink"
+            },
+            "version_added": {
+                "S": "1.3.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -28957,6 +30343,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Snorkel Mask"
             },
@@ -28992,6 +30381,9 @@
             },
             "variant_name": {
                 "S": "Orange"
+            },
+            "version_added": {
+                "S": "1.3.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -29082,6 +30474,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Snorkel Mask"
             },
@@ -29117,6 +30512,9 @@
             },
             "variant_name": {
                 "S": "Green"
+            },
+            "version_added": {
+                "S": "1.3.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -29207,6 +30605,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Snorkel Mask"
             },
@@ -29242,6 +30643,9 @@
             },
             "variant_name": {
                 "S": "Blue"
+            },
+            "version_added": {
+                "S": "1.3.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -29332,6 +30736,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Sporty Shades"
             },
@@ -29367,6 +30774,9 @@
             },
             "variant_name": {
                 "S": "White"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -29457,6 +30867,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Sporty Shades"
             },
@@ -29492,6 +30905,9 @@
             },
             "variant_name": {
                 "S": "Black"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -29582,6 +30998,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Sporty Shades"
             },
@@ -29617,6 +31036,9 @@
             },
             "variant_name": {
                 "S": "Pink"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -29707,6 +31129,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Sporty Shades"
             },
@@ -29742,6 +31167,9 @@
             },
             "variant_name": {
                 "S": "Lime"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -29832,6 +31260,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Sporty Shades"
             },
@@ -29867,6 +31298,9 @@
             },
             "variant_name": {
                 "S": "Light Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -29957,6 +31391,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Square Glasses"
             },
@@ -29992,6 +31429,9 @@
             },
             "variant_name": {
                 "S": "Gray"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -30082,6 +31522,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "All Year"
+            },
             "name": {
                 "S": "Square Glasses"
             },
@@ -30117,6 +31560,9 @@
             },
             "variant_name": {
                 "S": "Black"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -30207,6 +31653,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "Winter"
+            },
             "name": {
                 "S": "Square Glasses"
             },
@@ -30242,6 +31691,9 @@
             },
             "variant_name": {
                 "S": "Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -30332,6 +31784,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "All Year"
+            },
             "name": {
                 "S": "Square Glasses"
             },
@@ -30367,6 +31822,9 @@
             },
             "variant_name": {
                 "S": "Brown"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -30457,6 +31915,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Squared Browline Glasses"
             },
@@ -30492,6 +31953,9 @@
             },
             "variant_name": {
                 "S": "Gray"
+            },
+            "version_added": {
+                "S": "2.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -30582,6 +32046,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Squared Browline Glasses"
             },
@@ -30617,6 +32084,9 @@
             },
             "variant_name": {
                 "S": "Black"
+            },
+            "version_added": {
+                "S": "2.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -30707,6 +32177,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Squared Browline Glasses"
             },
@@ -30742,6 +32215,9 @@
             },
             "variant_name": {
                 "S": "Green"
+            },
+            "version_added": {
+                "S": "2.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -30832,6 +32308,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Squared Browline Glasses"
             },
@@ -30867,6 +32346,9 @@
             },
             "variant_name": {
                 "S": "Brown"
+            },
+            "version_added": {
+                "S": "2.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -30957,6 +32439,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Stache & Glasses"
             },
@@ -30992,6 +32477,9 @@
             },
             "variant_name": {
                 "S": "Black"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -31082,6 +32570,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Stache & Glasses"
             },
@@ -31117,6 +32608,9 @@
             },
             "variant_name": {
                 "S": "Red"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -31207,6 +32701,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Star Shades"
             },
@@ -31242,6 +32739,9 @@
             },
             "variant_name": {
                 "S": "Pink"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -31332,6 +32832,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Star Shades"
             },
@@ -31367,6 +32870,9 @@
             },
             "variant_name": {
                 "S": "Yellow"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -31457,6 +32963,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Star Shades"
             },
@@ -31492,6 +33001,9 @@
             },
             "variant_name": {
                 "S": "Green"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -31582,6 +33094,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "Summer"
+            },
             "name": {
                 "S": "Star Shades"
             },
@@ -31617,6 +33132,9 @@
             },
             "variant_name": {
                 "S": "Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -31707,6 +33225,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Star Shades"
             },
@@ -31742,6 +33263,9 @@
             },
             "variant_name": {
                 "S": "Purple"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -31832,6 +33356,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Steampunk Glasses"
             },
@@ -31867,6 +33394,9 @@
             },
             "variant_name": {
                 "S": "Green"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -31957,6 +33487,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Steampunk Glasses"
             },
@@ -31992,6 +33525,9 @@
             },
             "variant_name": {
                 "S": "Purple"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -32082,6 +33618,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Sticky Rice"
             },
@@ -32117,6 +33656,9 @@
             },
             "variant_name": {
                 "NULL": true
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -32207,6 +33749,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Sunflower Sunglasses"
             },
@@ -32242,6 +33787,9 @@
             },
             "variant_name": {
                 "NULL": true
+            },
+            "version_added": {
+                "S": "2.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -32332,6 +33880,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Superhero Mask"
             },
@@ -32367,6 +33918,9 @@
             },
             "variant_name": {
                 "NULL": true
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -32457,6 +34011,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Tiny Shades"
             },
@@ -32492,6 +34049,9 @@
             },
             "variant_name": {
                 "S": "Black"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -32582,6 +34142,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Tiny Shades"
             },
@@ -32617,6 +34180,9 @@
             },
             "variant_name": {
                 "S": "Berry Red"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -32707,6 +34273,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "All Year"
+            },
             "name": {
                 "S": "Tiny Shades"
             },
@@ -32742,6 +34311,9 @@
             },
             "variant_name": {
                 "S": "Gold"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -32832,6 +34404,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "Winter"
+            },
             "name": {
                 "S": "Tortoise Specs"
             },
@@ -32867,6 +34442,9 @@
             },
             "variant_name": {
                 "S": "Black"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -32957,6 +34535,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Tortoise Specs"
             },
@@ -32992,6 +34573,9 @@
             },
             "variant_name": {
                 "S": "Beige"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -33082,6 +34666,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "Winter"
+            },
             "name": {
                 "S": "Tortoise Specs"
             },
@@ -33117,6 +34704,9 @@
             },
             "variant_name": {
                 "S": "Brown"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -33207,6 +34797,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Triangle Shades"
             },
@@ -33242,6 +34835,9 @@
             },
             "variant_name": {
                 "S": "White"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -33332,6 +34928,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Triangle Shades"
             },
@@ -33367,6 +34966,9 @@
             },
             "variant_name": {
                 "S": "Black"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -33457,6 +35059,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Triangle Shades"
             },
@@ -33492,6 +35097,9 @@
             },
             "variant_name": {
                 "S": "Red"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -33582,6 +35190,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Triangle Shades"
             },
@@ -33617,6 +35228,9 @@
             },
             "variant_name": {
                 "S": "Orange"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -33707,6 +35321,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Triangle Shades"
             },
@@ -33742,6 +35359,9 @@
             },
             "variant_name": {
                 "S": "Green"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -33832,6 +35452,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Triangle Shades"
             },
@@ -33867,6 +35490,9 @@
             },
             "variant_name": {
                 "S": "Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -33957,6 +35583,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Triangle Shades"
             },
@@ -33992,6 +35621,9 @@
             },
             "variant_name": {
                 "S": "Purple"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -34082,6 +35714,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Venetian carnival mask"
             },
@@ -34117,6 +35752,9 @@
             },
             "variant_name": {
                 "S": "Gold"
+            },
+            "version_added": {
+                "S": "2.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -34207,6 +35845,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Venetian carnival mask"
             },
@@ -34242,6 +35883,9 @@
             },
             "variant_name": {
                 "S": "Pink"
+            },
+            "version_added": {
+                "S": "2.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -34332,6 +35976,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Venetian carnival mask"
             },
@@ -34367,6 +36014,9 @@
             },
             "variant_name": {
                 "S": "Blue"
+            },
+            "version_added": {
+                "S": "2.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -34457,6 +36107,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Venetian carnival mask"
             },
@@ -34492,6 +36145,9 @@
             },
             "variant_name": {
                 "S": "Silver"
+            },
+            "version_added": {
+                "S": "2.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -34582,6 +36238,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Venetian carnival mask"
             },
@@ -34617,6 +36276,9 @@
             },
             "variant_name": {
                 "S": "White"
+            },
+            "version_added": {
+                "S": "2.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -34707,6 +36369,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Wario 'stache"
             },
@@ -34742,6 +36407,9 @@
             },
             "variant_name": {
                 "NULL": true
+            },
+            "version_added": {
+                "S": "1.8.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -34832,6 +36500,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "Winter"
+            },
             "name": {
                 "S": "Wooden-frame Glasses"
             },
@@ -34867,6 +36538,9 @@
             },
             "variant_name": {
                 "S": "Brown"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"
@@ -34957,6 +36631,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "Winter"
+            },
             "name": {
                 "S": "Wooden-frame Glasses"
             },
@@ -34992,6 +36669,9 @@
             },
             "variant_name": {
                 "S": "Dark Brown"
+            },
+            "version_added": {
+                "S": "1.0.0"
             },
             "villager_gender": {
                 "S": "Free"

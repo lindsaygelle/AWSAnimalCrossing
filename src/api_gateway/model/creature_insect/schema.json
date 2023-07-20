@@ -1,8 +1,13 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 33,
-    "minProperties": 33,
+    "maxProperties": 35,
+    "minProperties": 35,
     "properties": {
+        "can_fly": {
+            "type": [
+                "boolean"
+            ]
+        },
         "color_1": {
             "maxLength": 6,
             "minLength": 3,
@@ -139,13 +144,18 @@
                 "boolean"
             ]
         },
+        "is_disguised": {
+            "type": [
+                "boolean"
+            ]
+        },
         "is_surface": {
             "type": [
                 "boolean"
             ]
         },
         "location_category": {
-            "maxLength": 11,
+            "maxLength": 12,
             "minLength": 3,
             "type": [
                 "string"
@@ -235,6 +245,7 @@
         }
     },
     "required": [
+        "can_fly",
         "color_1",
         "color_2",
         "description",
@@ -256,6 +267,7 @@
         "internal_name",
         "is_available_raining",
         "is_available_sunshine",
+        "is_disguised",
         "is_surface",
         "location_category",
         "name",

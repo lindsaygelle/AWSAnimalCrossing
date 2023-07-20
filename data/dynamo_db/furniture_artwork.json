@@ -22,6 +22,9 @@
             "catalog_category": {
                 "S": "Not for sale"
             },
+            "category": {
+                "S": "Picture"
+            },
             "color_1": {
                 "S": "Beige"
             },
@@ -108,6 +111,9 @@
             },
             "unique_entry_id": {
                 "S": "xfTf9sfyLkxHQEz4u"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -134,6 +140,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Picture"
             },
             "color_1": {
                 "S": "Beige"
@@ -221,6 +230,9 @@
             },
             "unique_entry_id": {
                 "S": "5KNFAo3LkdTTJPQkd"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -247,6 +259,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Picture"
             },
             "color_1": {
                 "S": "Black"
@@ -334,6 +349,9 @@
             },
             "unique_entry_id": {
                 "S": "Sg6MCSG3m9tvjGWoj"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -360,6 +378,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Picture"
             },
             "color_1": {
                 "S": "Black"
@@ -447,6 +468,9 @@
             },
             "unique_entry_id": {
                 "S": "vc2Ebu4Pkn443zYiN"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -473,6 +497,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Sculpture"
             },
             "color_1": {
                 "S": "Gray"
@@ -560,6 +587,9 @@
             },
             "unique_entry_id": {
                 "S": "zpAsguge9Yb29ksjS"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -586,6 +616,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Sculpture"
             },
             "color_1": {
                 "S": "Gray"
@@ -673,6 +706,9 @@
             },
             "unique_entry_id": {
                 "S": "fXbsrcXirg6miBoqT"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -699,6 +735,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Picture"
             },
             "color_1": {
                 "S": "Black"
@@ -786,6 +825,9 @@
             },
             "unique_entry_id": {
                 "S": "Xhn8ZjtbdZeET3NXR"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -812,6 +854,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Picture"
             },
             "color_1": {
                 "S": "Black"
@@ -899,6 +944,9 @@
             },
             "unique_entry_id": {
                 "S": "o4px7Mx9g2Zk6NHvC"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -925,6 +973,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Sculpture"
             },
             "color_1": {
                 "S": "White"
@@ -1012,6 +1063,9 @@
             },
             "unique_entry_id": {
                 "S": "iscap6FsmDZdNP5dw"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -1038,6 +1092,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Sculpture"
             },
             "color_1": {
                 "S": "White"
@@ -1125,6 +1182,9 @@
             },
             "unique_entry_id": {
                 "S": "w9vrMbhJNj6JHkznu"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -1151,6 +1211,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Picture"
             },
             "color_1": {
                 "S": "Green"
@@ -1238,6 +1301,9 @@
             },
             "unique_entry_id": {
                 "S": "7QgYY7KuhauCnS37H"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -1264,6 +1330,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Picture"
             },
             "color_1": {
                 "S": "Beige"
@@ -1351,6 +1420,9 @@
             },
             "unique_entry_id": {
                 "S": "GE6sppzKjqkG7sRoz"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -1377,6 +1449,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Picture"
             },
             "color_1": {
                 "S": "Yellow"
@@ -1464,6 +1539,9 @@
             },
             "unique_entry_id": {
                 "S": "T2QA6mqARHfToTJpQ"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -1490,6 +1568,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Picture"
             },
             "color_1": {
                 "S": "Yellow"
@@ -1577,6 +1658,9 @@
             },
             "unique_entry_id": {
                 "S": "m9TkAsJFFkpQ9Hr4s"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -1603,6 +1687,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Picture"
             },
             "color_1": {
                 "S": "Beige"
@@ -1690,6 +1777,9 @@
             },
             "unique_entry_id": {
                 "S": "BMBiEvuooPCwpzHj7"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -1716,6 +1806,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Sculpture"
             },
             "color_1": {
                 "S": "Green"
@@ -1803,6 +1896,9 @@
             },
             "unique_entry_id": {
                 "S": "e45RimLWaxcoBYLNq"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -1829,6 +1925,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Picture"
             },
             "color_1": {
                 "S": "Black"
@@ -1916,6 +2015,9 @@
             },
             "unique_entry_id": {
                 "S": "23b6Mtp42pbXaLiGj"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -1942,6 +2044,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Picture"
             },
             "color_1": {
                 "S": "Black"
@@ -2029,6 +2134,9 @@
             },
             "unique_entry_id": {
                 "S": "ppnz4rtJf2L6FK6YN"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -2055,6 +2163,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Picture"
             },
             "color_1": {
                 "S": "Yellow"
@@ -2142,6 +2253,9 @@
             },
             "unique_entry_id": {
                 "S": "aDZWPQ79YhLCMRqAE"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -2168,6 +2282,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Sculpture"
             },
             "color_1": {
                 "S": "White"
@@ -2255,6 +2372,9 @@
             },
             "unique_entry_id": {
                 "S": "hNbaWeaJCdihGnHM9"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -2281,6 +2401,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Sculpture"
             },
             "color_1": {
                 "S": "White"
@@ -2368,6 +2491,9 @@
             },
             "unique_entry_id": {
                 "S": "aoJwhWz4TTkNHrgg4"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -2394,6 +2520,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Picture"
             },
             "color_1": {
                 "S": "Blue"
@@ -2481,6 +2610,9 @@
             },
             "unique_entry_id": {
                 "S": "89wbjB4u9oKjrKiZB"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -2507,6 +2639,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Picture"
             },
             "color_1": {
                 "S": "Yellow"
@@ -2594,6 +2729,9 @@
             },
             "unique_entry_id": {
                 "S": "8M8N84TgtyATYSaPK"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -2620,6 +2758,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Picture"
             },
             "color_1": {
                 "S": "Yellow"
@@ -2707,6 +2848,9 @@
             },
             "unique_entry_id": {
                 "S": "PJCq2YjGNkP3rLYAs"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -2733,6 +2877,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Sculpture"
             },
             "color_1": {
                 "S": "Black"
@@ -2820,6 +2967,9 @@
             },
             "unique_entry_id": {
                 "S": "AAE89LXrdnv7yxs7p"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -2846,6 +2996,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Sculpture"
             },
             "color_1": {
                 "S": "Black"
@@ -2933,6 +3086,9 @@
             },
             "unique_entry_id": {
                 "S": "QW7tW8LLK5ReWvNeT"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -2959,6 +3115,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Sculpture"
             },
             "color_1": {
                 "S": "Blue"
@@ -3046,6 +3205,9 @@
             },
             "unique_entry_id": {
                 "S": "qsBfFStS8mFJWotF3"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -3072,6 +3234,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Picture"
             },
             "color_1": {
                 "S": "Black"
@@ -3159,6 +3324,9 @@
             },
             "unique_entry_id": {
                 "S": "JmuDLy5Gzy5L98TYi"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -3185,6 +3353,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Picture"
             },
             "color_1": {
                 "S": "Black"
@@ -3272,6 +3443,9 @@
             },
             "unique_entry_id": {
                 "S": "ndpzuYrx9RtgkuF4q"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -3298,6 +3472,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Picture"
             },
             "color_1": {
                 "S": "Black"
@@ -3385,6 +3562,9 @@
             },
             "unique_entry_id": {
                 "S": "BvTziFiDfmghDfn2f"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -3411,6 +3591,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Sculpture"
             },
             "color_1": {
                 "S": "Black"
@@ -3498,6 +3681,9 @@
             },
             "unique_entry_id": {
                 "S": "CzWpdw9fWH7CSqvD4"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -3524,6 +3710,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Sculpture"
             },
             "color_1": {
                 "S": "Black"
@@ -3611,6 +3800,9 @@
             },
             "unique_entry_id": {
                 "S": "FQnkD6Ecica9g8hn6"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -3637,6 +3829,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Picture"
             },
             "color_1": {
                 "S": "Aqua"
@@ -3724,6 +3919,9 @@
             },
             "unique_entry_id": {
                 "S": "CbpBJoxScgd7YkJ2a"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -3750,6 +3948,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Picture"
             },
             "color_1": {
                 "S": "Aqua"
@@ -3837,6 +4038,9 @@
             },
             "unique_entry_id": {
                 "S": "8ji8jMXCQbeXcBZ4G"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -3863,6 +4067,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Picture"
             },
             "color_1": {
                 "S": "Black"
@@ -3950,6 +4157,9 @@
             },
             "unique_entry_id": {
                 "S": "jyEqfpiQxoJr7dFim"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -3976,6 +4186,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Sculpture"
             },
             "color_1": {
                 "S": "Beige"
@@ -4063,6 +4276,9 @@
             },
             "unique_entry_id": {
                 "S": "m8rdQtfhuSxvLjbA7"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -4089,6 +4305,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Sculpture"
             },
             "color_1": {
                 "S": "Beige"
@@ -4176,6 +4395,9 @@
             },
             "unique_entry_id": {
                 "S": "DPZFgiykKg576TMns"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -4202,6 +4424,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Picture"
             },
             "color_1": {
                 "S": "Gray"
@@ -4289,6 +4514,9 @@
             },
             "unique_entry_id": {
                 "S": "bE9epxYeiupMZXZBY"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -4315,6 +4543,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Picture"
             },
             "color_1": {
                 "S": "Black"
@@ -4402,6 +4633,9 @@
             },
             "unique_entry_id": {
                 "S": "GrTJQRodgefZ3ndPz"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -4428,6 +4662,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Picture"
             },
             "color_1": {
                 "S": "Black"
@@ -4515,6 +4752,9 @@
             },
             "unique_entry_id": {
                 "S": "5MYg559uG6YjFrJLu"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -4541,6 +4781,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Picture"
             },
             "color_1": {
                 "S": "White"
@@ -4628,6 +4871,9 @@
             },
             "unique_entry_id": {
                 "S": "4eD8bxvcsNdFuJZy3"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -4654,6 +4900,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Picture"
             },
             "color_1": {
                 "S": "White"
@@ -4741,6 +4990,9 @@
             },
             "unique_entry_id": {
                 "S": "A8oEDJdRDYCWWvgqP"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -4767,6 +5019,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Sculpture"
             },
             "color_1": {
                 "S": "White"
@@ -4854,6 +5109,9 @@
             },
             "unique_entry_id": {
                 "S": "BMJTrZQQLrzhgFQ6T"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -4880,6 +5138,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Sculpture"
             },
             "color_1": {
                 "S": "White"
@@ -4967,6 +5228,9 @@
             },
             "unique_entry_id": {
                 "S": "JxRWC7dP3bSnrYafb"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -4993,6 +5257,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Sculpture"
             },
             "color_1": {
                 "S": "Gray"
@@ -5080,6 +5347,9 @@
             },
             "unique_entry_id": {
                 "S": "yuq7wqkBtYpTh9cQs"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -5106,6 +5376,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Sculpture"
             },
             "color_1": {
                 "S": "Gray"
@@ -5193,6 +5466,9 @@
             },
             "unique_entry_id": {
                 "S": "vgYniErBETSwYurmo"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -5219,6 +5495,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Picture"
             },
             "color_1": {
                 "S": "Gray"
@@ -5306,6 +5585,9 @@
             },
             "unique_entry_id": {
                 "S": "mPutXzCMyFowYqPHu"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -5332,6 +5614,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Picture"
             },
             "color_1": {
                 "S": "Gray"
@@ -5419,6 +5704,9 @@
             },
             "unique_entry_id": {
                 "S": "xfEX3LgBZxdy8cWnv"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -5445,6 +5733,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Picture"
             },
             "color_1": {
                 "S": "White"
@@ -5532,6 +5823,9 @@
             },
             "unique_entry_id": {
                 "S": "9zdd3tRyrgvHg7MHR"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -5558,6 +5852,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Picture"
             },
             "color_1": {
                 "S": "White"
@@ -5645,6 +5942,9 @@
             },
             "unique_entry_id": {
                 "S": "xXvgi6GY62Kiy7ZPc"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -5671,6 +5971,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Picture"
             },
             "color_1": {
                 "S": "Black"
@@ -5758,6 +6061,9 @@
             },
             "unique_entry_id": {
                 "S": "xWDYCn59iCuXXFYCa"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -5784,6 +6090,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Picture"
             },
             "color_1": {
                 "S": "Black"
@@ -5871,6 +6180,9 @@
             },
             "unique_entry_id": {
                 "S": "DAFG5byhuAns7SeNJ"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -5897,6 +6209,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Picture"
             },
             "color_1": {
                 "S": "Green"
@@ -5984,6 +6299,9 @@
             },
             "unique_entry_id": {
                 "S": "7ku7mD4CEkRPAfvgf"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -6010,6 +6328,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Picture"
             },
             "color_1": {
                 "S": "Black"
@@ -6097,6 +6418,9 @@
             },
             "unique_entry_id": {
                 "S": "Rdxe9rejLcZB9FPPj"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -6123,6 +6447,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Picture"
             },
             "color_1": {
                 "S": "Black"
@@ -6210,6 +6537,9 @@
             },
             "unique_entry_id": {
                 "S": "nk6zayAkJFzinuKDK"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -6236,6 +6566,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Sculpture"
             },
             "color_1": {
                 "S": "Green"
@@ -6323,6 +6656,9 @@
             },
             "unique_entry_id": {
                 "S": "jNGr7gorm7HSW3saj"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -6349,6 +6685,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Sculpture"
             },
             "color_1": {
                 "S": "Green"
@@ -6436,6 +6775,9 @@
             },
             "unique_entry_id": {
                 "S": "JixcFeWLnkcAy7rnu"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -6462,6 +6804,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Picture"
             },
             "color_1": {
                 "S": "Blue"
@@ -6549,6 +6894,9 @@
             },
             "unique_entry_id": {
                 "S": "vd2Naaf6TREFTQsdy"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -6575,6 +6923,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Sculpture"
             },
             "color_1": {
                 "S": "White"
@@ -6662,6 +7013,9 @@
             },
             "unique_entry_id": {
                 "S": "stPbtNz5bpPCb3eRy"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -6688,6 +7042,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Sculpture"
             },
             "color_1": {
                 "S": "White"
@@ -6775,6 +7132,9 @@
             },
             "unique_entry_id": {
                 "S": "FWFGsBRxrdnE4RSXa"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -6801,6 +7161,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Picture"
             },
             "color_1": {
                 "S": "Black"
@@ -6888,6 +7251,9 @@
             },
             "unique_entry_id": {
                 "S": "SD7NXc97t2b4f74xi"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -6914,6 +7280,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Sculpture"
             },
             "color_1": {
                 "S": "Gray"
@@ -7001,6 +7370,9 @@
             },
             "unique_entry_id": {
                 "S": "5ZWqwpgKjNRGgT44E"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -7027,6 +7399,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Sculpture"
             },
             "color_1": {
                 "S": "Gray"
@@ -7114,6 +7489,9 @@
             },
             "unique_entry_id": {
                 "S": "phB8tH4gdSYwq48Gs"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -7140,6 +7518,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Picture"
             },
             "color_1": {
                 "S": "Orange"
@@ -7227,6 +7608,9 @@
             },
             "unique_entry_id": {
                 "S": "hMQkJiQG5cNGQxKCE"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -7253,6 +7637,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Picture"
             },
             "color_1": {
                 "S": "Orange"
@@ -7340,6 +7727,9 @@
             },
             "unique_entry_id": {
                 "S": "E9szuomHevSfq8yY3"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -7366,6 +7756,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Picture"
             },
             "color_1": {
                 "S": "Beige"
@@ -7453,6 +7846,9 @@
             },
             "unique_entry_id": {
                 "S": "rcXt6qMXZh9jj4ojN"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -7479,6 +7875,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Picture"
             },
             "color_1": {
                 "S": "Beige"
@@ -7566,6 +7965,9 @@
             },
             "unique_entry_id": {
                 "S": "aKefsi2sySXJkzPLo"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -7592,6 +7994,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Picture"
             },
             "color_1": {
                 "S": "Black"
@@ -7679,6 +8084,9 @@
             },
             "unique_entry_id": {
                 "S": "Mupx2ny4sM3Kbfs3v"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -7705,6 +8113,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Picture"
             },
             "color_1": {
                 "S": "Black"
@@ -7792,6 +8203,9 @@
             },
             "unique_entry_id": {
                 "S": "c7zw6f8Dbe5h9oJni"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"
@@ -7818,6 +8232,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Picture"
             },
             "color_1": {
                 "S": "Black"
@@ -7905,6 +8322,9 @@
             },
             "unique_entry_id": {
                 "S": "8R3LhTWJzqHmPPPvK"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_artwork"

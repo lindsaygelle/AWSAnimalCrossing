@@ -10,6 +10,9 @@
             "catalog_category": {
                 "S": "Not for sale"
             },
+            "category": {
+                "S": "Park Rugs"
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -87,6 +90,9 @@
             },
             "unique_entry_id": {
                 "S": "Y2BtGdBHjHDAZ5aMi"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -101,6 +107,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Slender Rugs"
             },
             "color_1": {
                 "S": "Gray"
@@ -179,6 +188,9 @@
             },
             "unique_entry_id": {
                 "S": "vFkuGbx8Sh2MDLEsq"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -193,6 +205,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Fruit Rugs"
             },
             "color_1": {
                 "S": "Red"
@@ -271,6 +286,9 @@
             },
             "unique_entry_id": {
                 "S": "5GsjYsaz9NDtQ6QFB"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -285,6 +303,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Park Rugs"
             },
             "color_1": {
                 "S": "Yellow"
@@ -363,6 +384,9 @@
             },
             "unique_entry_id": {
                 "S": "KfRapmYKpizqQWzCg"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_rug"
@@ -377,6 +401,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Pattern Rugs"
             },
             "color_1": {
                 "S": "Black"
@@ -455,6 +482,9 @@
             },
             "unique_entry_id": {
                 "S": "4kj8FXzMTqvZvqEra"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -469,6 +499,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Wood Rugs"
             },
             "color_1": {
                 "S": "Black"
@@ -547,6 +580,9 @@
             },
             "unique_entry_id": {
                 "S": "kQDKkEGfdAjqPxd4w"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -561,6 +597,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Kitchen Rugs"
             },
             "color_1": {
                 "S": "Black"
@@ -639,6 +678,9 @@
             },
             "unique_entry_id": {
                 "S": "G7CAPiAEpYv6QKbsL"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -653,6 +695,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Slender Pattern Rugs"
             },
             "color_1": {
                 "S": "Blue"
@@ -731,6 +776,9 @@
             },
             "unique_entry_id": {
                 "S": "uw8DvCwwBia7ozA72"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -745,6 +793,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Pattern Rugs"
             },
             "color_1": {
                 "S": "Blue"
@@ -823,6 +874,9 @@
             },
             "unique_entry_id": {
                 "S": "Mjxd8kenDFZgTFXcm"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -837,6 +891,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Slender Pattern Rugs"
             },
             "color_1": {
                 "S": "Blue"
@@ -915,6 +972,9 @@
             },
             "unique_entry_id": {
                 "S": "JAAx9zSMrjXKKw2ij"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -929,6 +989,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Slender Rugs"
             },
             "color_1": {
                 "S": "Blue"
@@ -1007,6 +1070,9 @@
             },
             "unique_entry_id": {
                 "S": "DdiGJyEREa2QAMXRM"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -1021,6 +1087,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Pattern Rugs"
             },
             "color_1": {
                 "S": "Aqua"
@@ -1099,6 +1168,9 @@
             },
             "unique_entry_id": {
                 "S": "L3nBtt43WwHPYTpDE"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -1113,6 +1185,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Pattern Rugs"
             },
             "color_1": {
                 "S": "Blue"
@@ -1191,6 +1266,9 @@
             },
             "unique_entry_id": {
                 "S": "MhvdxvmyKtddid2G2"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -1205,6 +1283,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Kitchen Rugs"
             },
             "color_1": {
                 "S": "Blue"
@@ -1283,6 +1364,9 @@
             },
             "unique_entry_id": {
                 "S": "SLBDbK365pHRnKE5k"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -1297,6 +1381,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Shaggy Round Rugs"
             },
             "color_1": {
                 "S": "Blue"
@@ -1375,6 +1462,9 @@
             },
             "unique_entry_id": {
                 "S": "JfLKCbWRz4CozZYpH"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -1389,6 +1479,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Message Mats"
             },
             "color_1": {
                 "S": "Blue"
@@ -1467,6 +1560,9 @@
             },
             "unique_entry_id": {
                 "S": "5grLuDzGkNL4DYk4r"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -1481,6 +1577,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Pattern Rugs"
             },
             "color_1": {
                 "S": "Blue"
@@ -1559,6 +1658,9 @@
             },
             "unique_entry_id": {
                 "S": "CDY97qjWg4xG6egyS"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -1573,6 +1675,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Pattern Rugs"
             },
             "color_1": {
                 "S": "Blue"
@@ -1651,6 +1756,9 @@
             },
             "unique_entry_id": {
                 "S": "v4ZJPY2ToZPHXp6KH"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -1665,6 +1773,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Shaggy Round Rugs"
             },
             "color_1": {
                 "S": "Blue"
@@ -1743,6 +1854,9 @@
             },
             "unique_entry_id": {
                 "S": "BxaqCsC7TqwGdHpib"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -1757,6 +1871,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Slender Pattern Rugs"
             },
             "color_1": {
                 "S": "Blue"
@@ -1835,6 +1952,9 @@
             },
             "unique_entry_id": {
                 "S": "dAHzKeTqwA9wD2yfa"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -1849,6 +1969,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Slender Pattern Rugs"
             },
             "color_1": {
                 "S": "Blue"
@@ -1927,6 +2050,9 @@
             },
             "unique_entry_id": {
                 "S": "b8xZjiyqLPWJsgt73"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -1941,6 +2067,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Slender Pattern Rugs"
             },
             "color_1": {
                 "S": "Blue"
@@ -2019,6 +2148,9 @@
             },
             "unique_entry_id": {
                 "S": "SbRQxAyR7EZSRBb4j"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -2033,6 +2165,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Slender Pattern Rugs"
             },
             "color_1": {
                 "S": "Aqua"
@@ -2111,6 +2246,9 @@
             },
             "unique_entry_id": {
                 "S": "ghEfAZG8Lt5sb8nt3"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_rug"
@@ -2125,6 +2263,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Kitchen Rugs"
             },
             "color_1": {
                 "S": "Blue"
@@ -2203,6 +2344,9 @@
             },
             "unique_entry_id": {
                 "S": "DiEHu3wPobZXzhhp8"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -2217,6 +2361,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Icon Rugs"
             },
             "color_1": {
                 "S": "Green"
@@ -2295,6 +2442,9 @@
             },
             "unique_entry_id": {
                 "S": "udGT7fiMezZW5ptrC"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -2309,6 +2459,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Slender Pattern Rugs"
             },
             "color_1": {
                 "S": "Green"
@@ -2387,6 +2540,9 @@
             },
             "unique_entry_id": {
                 "S": "nEqsaya7wt6FsWwDC"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -2401,6 +2557,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Slender Pattern Rugs"
             },
             "color_1": {
                 "S": "Brown"
@@ -2479,6 +2638,9 @@
             },
             "unique_entry_id": {
                 "S": "yrQTuyQr2m6axKkr2"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -2493,6 +2655,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Slender Pattern Rugs"
             },
             "color_1": {
                 "S": "Brown"
@@ -2571,6 +2736,9 @@
             },
             "unique_entry_id": {
                 "S": "KJwqjJp9YWCALKSNd"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -2585,6 +2753,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Kitchen Rugs"
             },
             "color_1": {
                 "S": "Brown"
@@ -2663,6 +2834,9 @@
             },
             "unique_entry_id": {
                 "S": "2ya9gAeftrSe4YSmE"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -2677,6 +2851,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Pattern Rugs"
             },
             "color_1": {
                 "S": "Brown"
@@ -2755,6 +2932,9 @@
             },
             "unique_entry_id": {
                 "S": "cAFej6s3C7T3DYykj"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -2769,6 +2949,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Wood Rugs"
             },
             "color_1": {
                 "S": "Brown"
@@ -2847,6 +3030,9 @@
             },
             "unique_entry_id": {
                 "S": "MSPQjkRRMRGNRTeEt"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -2861,6 +3047,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Icon Rugs"
             },
             "color_1": {
                 "S": "Colorful"
@@ -2939,6 +3128,9 @@
             },
             "unique_entry_id": {
                 "S": "6tC8Zhswobdah6ftE"
+            },
+            "version_added": {
+                "S": "1.1.0"
             }
         },
         "TableName": "furniture_rug"
@@ -2953,6 +3145,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Fruit Rugs"
             },
             "color_1": {
                 "S": "Red"
@@ -3031,6 +3226,9 @@
             },
             "unique_entry_id": {
                 "S": "R9Bxb8FQw7Fj2YuCa"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -3045,6 +3243,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Icon Rugs"
             },
             "color_1": {
                 "S": "Pink"
@@ -3123,6 +3324,9 @@
             },
             "unique_entry_id": {
                 "S": "CcifD7vuYJm5bwrZ5"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -3137,6 +3341,9 @@
             },
             "catalog_category": {
                 "S": "Not in catalog"
+            },
+            "category": {
+                "S": "Sanrio Rugs"
             },
             "color_1": {
                 "S": "White"
@@ -3215,6 +3422,9 @@
             },
             "unique_entry_id": {
                 "S": "QGLTyMNpsBoKRTcZ7"
+            },
+            "version_added": {
+                "S": "1.9.0"
             }
         },
         "TableName": "furniture_rug"
@@ -3229,6 +3439,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Slender Rugs"
             },
             "color_1": {
                 "S": "Brown"
@@ -3307,6 +3520,9 @@
             },
             "unique_entry_id": {
                 "S": "EjrmBRgYWehusZa2N"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -3321,6 +3537,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Slender Pattern Rugs"
             },
             "color_1": {
                 "S": "Colorful"
@@ -3399,6 +3618,9 @@
             },
             "unique_entry_id": {
                 "S": "FAAQgrJJM4svoYJb8"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -3413,6 +3635,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Icon Rugs"
             },
             "color_1": {
                 "S": "Orange"
@@ -3491,6 +3716,9 @@
             },
             "unique_entry_id": {
                 "S": "fZLyR8EQBdjPaM3DL"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -3505,6 +3733,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Wood Rugs"
             },
             "color_1": {
                 "S": "Brown"
@@ -3583,6 +3814,9 @@
             },
             "unique_entry_id": {
                 "S": "Zsefv3Y8qxYqEy3HE"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -3597,6 +3831,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Wood Rugs"
             },
             "color_1": {
                 "S": "Brown"
@@ -3675,6 +3912,9 @@
             },
             "unique_entry_id": {
                 "S": "yC3qR56GTSs3PZuJi"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -3689,6 +3929,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Wood Rugs"
             },
             "color_1": {
                 "S": "Black"
@@ -3767,6 +4010,9 @@
             },
             "unique_entry_id": {
                 "S": "RTxLCmZR43xEhpShK"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -3781,6 +4027,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Pattern Rugs"
             },
             "color_1": {
                 "S": "Black"
@@ -3859,6 +4108,9 @@
             },
             "unique_entry_id": {
                 "S": "bJHqqykWdvmzJ9EJT"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -3873,6 +4125,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Wood Rugs"
             },
             "color_1": {
                 "S": "Brown"
@@ -3951,6 +4206,9 @@
             },
             "unique_entry_id": {
                 "S": "x2syTNwYeaW4Mxq87"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -3965,6 +4223,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Wood Rugs"
             },
             "color_1": {
                 "S": "Brown"
@@ -4043,6 +4304,9 @@
             },
             "unique_entry_id": {
                 "S": "4mY6nD2swycxSXQku"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -4057,6 +4321,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Icon Rugs"
             },
             "color_1": {
                 "S": "Blue"
@@ -4135,6 +4402,9 @@
             },
             "unique_entry_id": {
                 "S": "RPF9JQeXN8cD4afuE"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -4149,6 +4419,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Pattern Rugs"
             },
             "color_1": {
                 "S": "Beige"
@@ -4227,6 +4500,9 @@
             },
             "unique_entry_id": {
                 "S": "uz8vNGT54vMG3XjvJ"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -4241,6 +4517,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Pattern Rugs"
             },
             "color_1": {
                 "S": "Black"
@@ -4319,6 +4598,9 @@
             },
             "unique_entry_id": {
                 "S": "FqtWjzFN4t2zfbSFw"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -4333,6 +4615,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Pattern Rugs"
             },
             "color_1": {
                 "S": "Blue"
@@ -4411,6 +4696,9 @@
             },
             "unique_entry_id": {
                 "S": "Lrv8sqJR58fnEBoCH"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -4425,6 +4713,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Pattern Rugs"
             },
             "color_1": {
                 "S": "Brown"
@@ -4503,6 +4794,9 @@
             },
             "unique_entry_id": {
                 "S": "TFoCKovb9EWhomZRA"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -4517,6 +4811,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Pattern Rugs"
             },
             "color_1": {
                 "S": "Brown"
@@ -4595,6 +4892,9 @@
             },
             "unique_entry_id": {
                 "S": "gtnhB8Je9YTRgmJgE"
+            },
+            "version_added": {
+                "S": "1.6.0"
             }
         },
         "TableName": "furniture_rug"
@@ -4609,6 +4909,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Icon Rugs"
             },
             "color_1": {
                 "S": "Aqua"
@@ -4687,6 +4990,9 @@
             },
             "unique_entry_id": {
                 "S": "iWb2Ca8YMDYnpyDrx"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -4701,6 +5007,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Icon Rugs"
             },
             "color_1": {
                 "S": "White"
@@ -4779,6 +5088,9 @@
             },
             "unique_entry_id": {
                 "S": "DKPzh943uZYKHKsX7"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -4793,6 +5105,9 @@
             },
             "catalog_category": {
                 "S": "Seasonal"
+            },
+            "category": {
+                "S": "Icon Rugs"
             },
             "color_1": {
                 "S": "Brown"
@@ -4871,6 +5186,9 @@
             },
             "unique_entry_id": {
                 "S": "r5zaZS3Ar6oHTkTGM"
+            },
+            "version_added": {
+                "S": "1.7.0"
             }
         },
         "TableName": "furniture_rug"
@@ -4885,6 +5203,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Park Rugs"
             },
             "color_1": {
                 "S": "Purple"
@@ -4963,6 +5284,9 @@
             },
             "unique_entry_id": {
                 "S": "P2tKuDsb8sxfpKXh3"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -4977,6 +5301,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Pattern Rugs"
             },
             "color_1": {
                 "S": "Aqua"
@@ -5055,6 +5382,9 @@
             },
             "unique_entry_id": {
                 "S": "RLGupv2AHKtPZSiMu"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -5069,6 +5399,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Slender Pattern Rugs"
             },
             "color_1": {
                 "S": "Green"
@@ -5147,6 +5480,9 @@
             },
             "unique_entry_id": {
                 "S": "h4TbbaAX8yuK99GcD"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -5161,6 +5497,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Pattern Rugs"
             },
             "color_1": {
                 "S": "Gray"
@@ -5239,6 +5578,9 @@
             },
             "unique_entry_id": {
                 "S": "ioDyQEaC2DhRyXQ67"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -5253,6 +5595,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Pattern Rugs"
             },
             "color_1": {
                 "S": "Black"
@@ -5331,6 +5676,9 @@
             },
             "unique_entry_id": {
                 "S": "BwxnCvAdHi2ipphjj"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -5345,6 +5693,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Kitchen Rugs"
             },
             "color_1": {
                 "S": "Green"
@@ -5423,6 +5774,9 @@
             },
             "unique_entry_id": {
                 "S": "ZB86Sp2wk7jjmPFf8"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -5437,6 +5791,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Pattern Rugs"
             },
             "color_1": {
                 "S": "Green"
@@ -5515,6 +5872,9 @@
             },
             "unique_entry_id": {
                 "S": "hAYpTXLShJh7p5gcB"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -5529,6 +5889,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Slender Rugs"
             },
             "color_1": {
                 "S": "Green"
@@ -5607,6 +5970,9 @@
             },
             "unique_entry_id": {
                 "S": "x2HEgGGPNS9b5tgGD"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -5621,6 +5987,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Slender Pattern Rugs"
             },
             "color_1": {
                 "S": "Green"
@@ -5699,6 +6068,9 @@
             },
             "unique_entry_id": {
                 "S": "HSAXrcHbfgF4KEG5F"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -5713,6 +6085,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Pattern Rugs"
             },
             "color_1": {
                 "S": "Green"
@@ -5791,6 +6166,9 @@
             },
             "unique_entry_id": {
                 "S": "KosWdPvmbZa9LCDn8"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -5805,6 +6183,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Pattern Rugs"
             },
             "color_1": {
                 "S": "Green"
@@ -5883,6 +6264,9 @@
             },
             "unique_entry_id": {
                 "S": "86w3TxnYsZLSzeX2q"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -5897,6 +6281,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Kitchen Rugs"
             },
             "color_1": {
                 "S": "Green"
@@ -5975,6 +6362,9 @@
             },
             "unique_entry_id": {
                 "S": "QpRcMgKRTNvayFdy9"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -5989,6 +6379,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Pattern Rugs"
             },
             "color_1": {
                 "S": "Green"
@@ -6067,6 +6460,9 @@
             },
             "unique_entry_id": {
                 "S": "hNWup2nSxzMMsGfyy"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -6081,6 +6477,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Slender Pattern Rugs"
             },
             "color_1": {
                 "S": "Green"
@@ -6159,6 +6558,9 @@
             },
             "unique_entry_id": {
                 "S": "DEEzqeCYXaxA8i63W"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -6173,6 +6575,9 @@
             },
             "catalog_category": {
                 "S": "Not in catalog"
+            },
+            "category": {
+                "S": "Sanrio Rugs"
             },
             "color_1": {
                 "S": "White"
@@ -6251,6 +6656,9 @@
             },
             "unique_entry_id": {
                 "S": "gk42LeDJJsjsTeGfv"
+            },
+            "version_added": {
+                "S": "1.9.0"
             }
         },
         "TableName": "furniture_rug"
@@ -6265,6 +6673,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Pattern Rugs"
             },
             "color_1": {
                 "S": "Red"
@@ -6343,6 +6754,9 @@
             },
             "unique_entry_id": {
                 "S": "ggoGewuex9epXNZaB"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -6357,6 +6771,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Slender Rugs"
             },
             "color_1": {
                 "S": "Black"
@@ -6435,6 +6852,9 @@
             },
             "unique_entry_id": {
                 "S": "KaHhjd5QbpmmmhkCg"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -6449,6 +6869,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Shaggy Round Rugs"
             },
             "color_1": {
                 "S": "Beige"
@@ -6527,6 +6950,9 @@
             },
             "unique_entry_id": {
                 "S": "ucw27wEffTFj9DK4v"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -6541,6 +6967,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Slender Rugs"
             },
             "color_1": {
                 "S": "Beige"
@@ -6619,6 +7048,9 @@
             },
             "unique_entry_id": {
                 "S": "iFx2DHj9qJsY8vzsT"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -6633,6 +7065,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Shaggy Round Rugs"
             },
             "color_1": {
                 "S": "Beige"
@@ -6711,6 +7146,9 @@
             },
             "unique_entry_id": {
                 "S": "8to7AD6FkrkZkaKX5"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -6725,6 +7163,9 @@
             },
             "catalog_category": {
                 "S": "Not in catalog"
+            },
+            "category": {
+                "S": "Sanrio Rugs"
             },
             "color_1": {
                 "S": "Green"
@@ -6803,6 +7244,9 @@
             },
             "unique_entry_id": {
                 "S": "smABvGpiNirHZ449q"
+            },
+            "version_added": {
+                "S": "1.9.0"
             }
         },
         "TableName": "furniture_rug"
@@ -6817,6 +7261,9 @@
             },
             "catalog_category": {
                 "S": "Not in catalog"
+            },
+            "category": {
+                "S": "Sanrio Rugs"
             },
             "color_1": {
                 "S": "Pink"
@@ -6895,6 +7342,9 @@
             },
             "unique_entry_id": {
                 "S": "7t6nDHA4oEok4fjPr"
+            },
+            "version_added": {
+                "S": "1.9.0"
             }
         },
         "TableName": "furniture_rug"
@@ -6909,6 +7359,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Shaggy Round Rugs"
             },
             "color_1": {
                 "S": "Beige"
@@ -6987,6 +7440,9 @@
             },
             "unique_entry_id": {
                 "S": "bzWc6Hh3tAnYcgh3f"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -7001,6 +7457,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Icon Rugs"
             },
             "color_1": {
                 "S": "Red"
@@ -7079,6 +7538,9 @@
             },
             "unique_entry_id": {
                 "S": "T7T3r6GJqfhndy5xp"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -7093,6 +7555,9 @@
             },
             "catalog_category": {
                 "S": "Not in catalog"
+            },
+            "category": {
+                "S": "Icon Rugs"
             },
             "color_1": {
                 "S": "White"
@@ -7171,6 +7636,9 @@
             },
             "unique_entry_id": {
                 "S": "H66iRYRxAHNP8bZdf"
+            },
+            "version_added": {
+                "S": "1.8.0"
             }
         },
         "TableName": "furniture_rug"
@@ -7185,6 +7653,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Pattern Rugs"
             },
             "color_1": {
                 "S": "Red"
@@ -7263,6 +7734,9 @@
             },
             "unique_entry_id": {
                 "S": "9Nsr7mTBvgd4R7sxR"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -7277,6 +7751,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Wood Rugs"
             },
             "color_1": {
                 "S": "Beige"
@@ -7355,6 +7832,9 @@
             },
             "unique_entry_id": {
                 "S": "c8ssiZHTGjWaSrBtw"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -7369,6 +7849,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Wood Rugs"
             },
             "color_1": {
                 "S": "Beige"
@@ -7447,6 +7930,9 @@
             },
             "unique_entry_id": {
                 "S": "c34AemWJDW8WvYGrm"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -7461,6 +7947,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Wood Rugs"
             },
             "color_1": {
                 "S": "Beige"
@@ -7539,6 +8028,9 @@
             },
             "unique_entry_id": {
                 "S": "iTXijyHZredEYXZDZ"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -7553,6 +8045,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Pattern Rugs"
             },
             "color_1": {
                 "S": "Gray"
@@ -7631,6 +8126,9 @@
             },
             "unique_entry_id": {
                 "S": "MPfMGMqdjmur7L67z"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -7645,6 +8143,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Slender Pattern Rugs"
             },
             "color_1": {
                 "S": "Brown"
@@ -7723,6 +8224,9 @@
             },
             "unique_entry_id": {
                 "S": "oe9tHv9xzH3pgEPvJ"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -7737,6 +8241,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Wood Rugs"
             },
             "color_1": {
                 "S": "Beige"
@@ -7815,6 +8322,9 @@
             },
             "unique_entry_id": {
                 "S": "E2TyniSoRxLaPTe7P"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -7829,6 +8339,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Wood Rugs"
             },
             "color_1": {
                 "S": "Beige"
@@ -7907,6 +8420,9 @@
             },
             "unique_entry_id": {
                 "S": "3oPdNhD9Q9ueWso2N"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -7921,6 +8437,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Shaggy Round Rugs"
             },
             "color_1": {
                 "S": "Purple"
@@ -7999,6 +8518,9 @@
             },
             "unique_entry_id": {
                 "S": "77PHyfuxLmPTgriT2"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -8013,6 +8535,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Icon Rugs"
             },
             "color_1": {
                 "S": "Red"
@@ -8091,6 +8616,9 @@
             },
             "unique_entry_id": {
                 "S": "2SeNZcru6oTK6S8YJ"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -8105,6 +8633,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Icon Rugs"
             },
             "color_1": {
                 "S": "Aqua"
@@ -8183,6 +8714,9 @@
             },
             "unique_entry_id": {
                 "S": "WfJHsYQ4KETP2yDEs"
+            },
+            "version_added": {
+                "S": "1.3.0"
             }
         },
         "TableName": "furniture_rug"
@@ -8197,6 +8731,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Slender Pattern Rugs"
             },
             "color_1": {
                 "S": "Colorful"
@@ -8275,6 +8812,9 @@
             },
             "unique_entry_id": {
                 "S": "tfdJqWZ2ETosBdHem"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -8289,6 +8829,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Kitchen Rugs"
             },
             "color_1": {
                 "S": "Aqua"
@@ -8367,6 +8910,9 @@
             },
             "unique_entry_id": {
                 "S": "QR6HWdrKgLeoFAkzR"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -8381,6 +8927,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Kitchen Rugs"
             },
             "color_1": {
                 "S": "Yellow"
@@ -8459,6 +9008,9 @@
             },
             "unique_entry_id": {
                 "S": "MvLXeraTpCoKRqmWA"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -8473,6 +9025,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Kitchen Rugs"
             },
             "color_1": {
                 "S": "Pink"
@@ -8551,6 +9106,9 @@
             },
             "unique_entry_id": {
                 "S": "3F5HHssaHXMit7YMH"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -8565,6 +9123,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Kitchen Rugs"
             },
             "color_1": {
                 "S": "Purple"
@@ -8643,6 +9204,9 @@
             },
             "unique_entry_id": {
                 "S": "pe2KbbDbmkWPyd56c"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -8657,6 +9221,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Slender Pattern Rugs"
             },
             "color_1": {
                 "S": "Black"
@@ -8735,6 +9302,9 @@
             },
             "unique_entry_id": {
                 "S": "n7kdsLeGa9sFzPfYR"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -8749,6 +9319,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Slender Pattern Rugs"
             },
             "color_1": {
                 "S": "Black"
@@ -8827,6 +9400,9 @@
             },
             "unique_entry_id": {
                 "S": "KEQx7PcEYYP5C8QGW"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -8841,6 +9417,9 @@
             },
             "catalog_category": {
                 "S": "Seasonal"
+            },
+            "category": {
+                "S": "Shaggy Round Rugs"
             },
             "color_1": {
                 "S": "Yellow"
@@ -8919,6 +9498,9 @@
             },
             "unique_entry_id": {
                 "S": "ZSc6ADmEcAnG92DWv"
+            },
+            "version_added": {
+                "S": "1.4.0"
             }
         },
         "TableName": "furniture_rug"
@@ -8933,6 +9515,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Icon Rugs"
             },
             "color_1": {
                 "S": "Red"
@@ -9011,6 +9596,9 @@
             },
             "unique_entry_id": {
                 "S": "deKdNh2bu4udJ5zYx"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -9025,6 +9613,9 @@
             },
             "catalog_category": {
                 "S": "Not in catalog"
+            },
+            "category": {
+                "S": "Sanrio Rugs"
             },
             "color_1": {
                 "S": "Pink"
@@ -9103,6 +9694,9 @@
             },
             "unique_entry_id": {
                 "S": "yrbMifhEWhbM6A7nv"
+            },
+            "version_added": {
+                "S": "1.9.0"
             }
         },
         "TableName": "furniture_rug"
@@ -9117,6 +9711,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Wood Rugs"
             },
             "color_1": {
                 "S": "Brown"
@@ -9195,6 +9792,9 @@
             },
             "unique_entry_id": {
                 "S": "4xyhHztk2b3GbRKu6"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -9209,6 +9809,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Wood Rugs"
             },
             "color_1": {
                 "S": "Beige"
@@ -9287,6 +9890,9 @@
             },
             "unique_entry_id": {
                 "S": "AZNySSdAmQkzWn6XX"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -9301,6 +9907,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Wood Rugs"
             },
             "color_1": {
                 "S": "Beige"
@@ -9379,6 +9988,9 @@
             },
             "unique_entry_id": {
                 "S": "pfHmxKED8rbMj57XC"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -9393,6 +10005,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Wood Rugs"
             },
             "color_1": {
                 "S": "Brown"
@@ -9471,6 +10086,9 @@
             },
             "unique_entry_id": {
                 "S": "yhxQcsvCcLgMFcCmN"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -9485,6 +10103,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Park Rugs"
             },
             "color_1": {
                 "S": "Yellow"
@@ -9563,6 +10184,9 @@
             },
             "unique_entry_id": {
                 "S": "WiHenFMXuxj7q2rgq"
+            },
+            "version_added": {
+                "S": "1.1.0"
             }
         },
         "TableName": "furniture_rug"
@@ -9577,6 +10201,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Park Rugs"
             },
             "color_1": {
                 "S": "Green"
@@ -9655,6 +10282,9 @@
             },
             "unique_entry_id": {
                 "S": "HFmdcXn43ApSRKdk4"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -9669,6 +10299,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Slender Pattern Rugs"
             },
             "color_1": {
                 "S": "Green"
@@ -9747,6 +10380,9 @@
             },
             "unique_entry_id": {
                 "S": "XQ72LLzAakWbavKFr"
+            },
+            "version_added": {
+                "S": "1.1.0"
             }
         },
         "TableName": "furniture_rug"
@@ -9761,6 +10397,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Fruit Rugs"
             },
             "color_1": {
                 "S": "Orange"
@@ -9839,6 +10478,9 @@
             },
             "unique_entry_id": {
                 "S": "cXGa9CDpwXcCMzQw2"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -9853,6 +10495,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Slender Rugs"
             },
             "color_1": {
                 "S": "Blue"
@@ -9931,6 +10576,9 @@
             },
             "unique_entry_id": {
                 "S": "TJaw3inQooLN9DXGt"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -9945,6 +10593,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Pattern Rugs"
             },
             "color_1": {
                 "S": "Pink"
@@ -10023,6 +10674,9 @@
             },
             "unique_entry_id": {
                 "S": "QLtQLYyCeg7A28tzC"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -10037,6 +10691,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Fruit Rugs"
             },
             "color_1": {
                 "S": "Pink"
@@ -10115,6 +10772,9 @@
             },
             "unique_entry_id": {
                 "S": "tqGgxHpeDfRCGRrjY"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -10129,6 +10789,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Slender Pattern Rugs"
             },
             "color_1": {
                 "S": "Pink"
@@ -10207,6 +10870,9 @@
             },
             "unique_entry_id": {
                 "S": "LGhZCR8PgGQJYqST9"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -10221,6 +10887,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Fruit Rugs"
             },
             "color_1": {
                 "S": "Green"
@@ -10299,6 +10968,9 @@
             },
             "unique_entry_id": {
                 "S": "hLakk5wPNF2RHRCHR"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -10313,6 +10985,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Pattern Rugs"
             },
             "color_1": {
                 "S": "Pink"
@@ -10391,6 +11066,9 @@
             },
             "unique_entry_id": {
                 "S": "SRMw5MpysCbKEKg8t"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -10405,6 +11083,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Heart Rugs"
             },
             "color_1": {
                 "S": "Pink"
@@ -10483,6 +11164,9 @@
             },
             "unique_entry_id": {
                 "S": "TY5kKqhPpxgifmRJF"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -10497,6 +11181,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Rose Rug"
             },
             "color_1": {
                 "S": "Pink"
@@ -10575,6 +11262,9 @@
             },
             "unique_entry_id": {
                 "S": "adYBsXgG3etWwtsds"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -10589,6 +11279,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Slender Pattern Rugs"
             },
             "color_1": {
                 "S": "Beige"
@@ -10667,6 +11360,9 @@
             },
             "unique_entry_id": {
                 "S": "RPasRWt9A7bb4h4yv"
+            },
+            "version_added": {
+                "S": "1.3.0"
             }
         },
         "TableName": "furniture_rug"
@@ -10681,6 +11377,9 @@
             },
             "catalog_category": {
                 "S": "Not in catalog"
+            },
+            "category": {
+                "S": "Sanrio Rugs"
             },
             "color_1": {
                 "S": "Yellow"
@@ -10759,6 +11458,9 @@
             },
             "unique_entry_id": {
                 "S": "updiXar2svW2mCdva"
+            },
+            "version_added": {
+                "S": "1.9.0"
             }
         },
         "TableName": "furniture_rug"
@@ -10773,6 +11475,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Heart Rugs"
             },
             "color_1": {
                 "S": "Purple"
@@ -10851,6 +11556,9 @@
             },
             "unique_entry_id": {
                 "S": "LzB8y9NY5cwZJETQy"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -10865,6 +11573,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Pattern Rugs"
             },
             "color_1": {
                 "S": "Purple"
@@ -10943,6 +11654,9 @@
             },
             "unique_entry_id": {
                 "S": "QzKyWFwcBF6DNoMQS"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -10957,6 +11671,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Pattern Rugs"
             },
             "color_1": {
                 "S": "Purple"
@@ -11035,6 +11752,9 @@
             },
             "unique_entry_id": {
                 "S": "jYsKTqR44uCHSGbnE"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -11049,6 +11769,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Icon Rugs"
             },
             "color_1": {
                 "S": "Black"
@@ -11127,6 +11850,9 @@
             },
             "unique_entry_id": {
                 "S": "qj27J9JpEkG9g25Rm"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -11141,6 +11867,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Slender Pattern Rugs"
             },
             "color_1": {
                 "S": "Red"
@@ -11219,6 +11948,9 @@
             },
             "unique_entry_id": {
                 "S": "JcnvagFXFrtRojuX5"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -11233,6 +11965,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Pattern Rugs"
             },
             "color_1": {
                 "S": "Red"
@@ -11311,6 +12046,9 @@
             },
             "unique_entry_id": {
                 "S": "PWaKA8fJZfRLdgBjP"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -11325,6 +12063,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Pattern Rugs"
             },
             "color_1": {
                 "S": "Red"
@@ -11403,6 +12144,9 @@
             },
             "unique_entry_id": {
                 "S": "8NahbkoGyfbwoySfM"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -11417,6 +12161,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Slender Rugs"
             },
             "color_1": {
                 "S": "Red"
@@ -11495,6 +12242,9 @@
             },
             "unique_entry_id": {
                 "S": "DrZgYBvviB7CGP3nx"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -11509,6 +12259,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Slender Pattern Rugs"
             },
             "color_1": {
                 "S": "Red"
@@ -11587,6 +12340,9 @@
             },
             "unique_entry_id": {
                 "S": "6KoyAtx4QA2BuXKea"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -11601,6 +12357,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Slender Rugs"
             },
             "color_1": {
                 "S": "Red"
@@ -11679,6 +12438,9 @@
             },
             "unique_entry_id": {
                 "S": "NaSNe8vRWZbAZoebM"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -11693,6 +12455,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Slender Pattern Rugs"
             },
             "color_1": {
                 "S": "Red"
@@ -11771,6 +12536,9 @@
             },
             "unique_entry_id": {
                 "S": "Nn6qx5QZw239ML4j2"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -11785,6 +12553,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Pattern Rugs"
             },
             "color_1": {
                 "S": "Red"
@@ -11863,6 +12634,9 @@
             },
             "unique_entry_id": {
                 "S": "dhvJNNbRm9qDxXrpJ"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -11877,6 +12651,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Shaggy Round Rugs"
             },
             "color_1": {
                 "S": "Red"
@@ -11955,6 +12732,9 @@
             },
             "unique_entry_id": {
                 "S": "Ev2FGNQPGqW8Nn7fk"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -11969,6 +12749,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Message Mats"
             },
             "color_1": {
                 "S": "Red"
@@ -12047,6 +12830,9 @@
             },
             "unique_entry_id": {
                 "S": "uYJPL9oP3tgpZHNhL"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -12061,6 +12847,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Pattern Rugs"
             },
             "color_1": {
                 "S": "Red"
@@ -12139,6 +12928,9 @@
             },
             "unique_entry_id": {
                 "S": "ToTG8debi3YH93yqJ"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -12153,6 +12945,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Rose Rug"
             },
             "color_1": {
                 "S": "Red"
@@ -12231,6 +13026,9 @@
             },
             "unique_entry_id": {
                 "S": "cXt7bSZGo8G4MWZ3x"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -12245,6 +13043,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Shaggy Round Rugs"
             },
             "color_1": {
                 "S": "Red"
@@ -12323,6 +13124,9 @@
             },
             "unique_entry_id": {
                 "S": "z6C8NBYbSkshNZG7J"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -12337,6 +13141,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Slender Pattern Rugs"
             },
             "color_1": {
                 "S": "Red"
@@ -12415,6 +13222,9 @@
             },
             "unique_entry_id": {
                 "S": "2tPPLjzq42Z8wjtNv"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -12429,6 +13239,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Fruit Rugs"
             },
             "color_1": {
                 "S": "Red"
@@ -12507,6 +13320,9 @@
             },
             "unique_entry_id": {
                 "S": "uAFL2apYYrYEZksq3"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -12521,6 +13337,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Slender Pattern Rugs"
             },
             "color_1": {
                 "S": "Red"
@@ -12599,6 +13418,9 @@
             },
             "unique_entry_id": {
                 "S": "pPTXqs45y6k23f62j"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -12613,6 +13435,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Slender Pattern Rugs"
             },
             "color_1": {
                 "S": "Red"
@@ -12691,6 +13516,9 @@
             },
             "unique_entry_id": {
                 "S": "LmxrQZwL5HrEzsHqK"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_rug"
@@ -12705,6 +13533,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Pattern Rugs"
             },
             "color_1": {
                 "S": "Red"
@@ -12783,6 +13614,9 @@
             },
             "unique_entry_id": {
                 "S": "zrouM9QCzYKg3kBcc"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -12797,6 +13631,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Kitchen Rugs"
             },
             "color_1": {
                 "S": "Red"
@@ -12875,6 +13712,9 @@
             },
             "unique_entry_id": {
                 "S": "7KtKd8P5tbGSfG2qZ"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -12889,6 +13729,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Slender Pattern Rugs"
             },
             "color_1": {
                 "S": "Green"
@@ -12967,6 +13810,9 @@
             },
             "unique_entry_id": {
                 "S": "29Pm3PcqEJ3nP36sh"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -12981,6 +13827,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Slender Rugs"
             },
             "color_1": {
                 "S": "Brown"
@@ -13059,6 +13908,9 @@
             },
             "unique_entry_id": {
                 "S": "oEg77tXhJ6GReb7gp"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -13073,6 +13925,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Shaggy Round Rugs"
             },
             "color_1": {
                 "S": "Green"
@@ -13151,6 +14006,9 @@
             },
             "unique_entry_id": {
                 "S": "hBAApWnka5p3taup2"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -13165,6 +14023,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Shaggy Round Rugs"
             },
             "color_1": {
                 "S": "Green"
@@ -13243,6 +14104,9 @@
             },
             "unique_entry_id": {
                 "S": "4swv5cokrfFG3Pvpw"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -13257,6 +14121,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Slender Rugs"
             },
             "color_1": {
                 "S": "Green"
@@ -13335,6 +14202,9 @@
             },
             "unique_entry_id": {
                 "S": "Er4wGFd53SAq3zsGX"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -13349,6 +14219,9 @@
             },
             "catalog_category": {
                 "S": "Seasonal"
+            },
+            "category": {
+                "S": "Icon Rugs"
             },
             "color_1": {
                 "S": "Green"
@@ -13427,6 +14300,9 @@
             },
             "unique_entry_id": {
                 "S": "FcnuoWDXY7oGanq74"
+            },
+            "version_added": {
+                "S": "1.8.0"
             }
         },
         "TableName": "furniture_rug"
@@ -13441,6 +14317,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Simple Rugs"
             },
             "color_1": {
                 "S": "Brown"
@@ -13519,6 +14398,9 @@
             },
             "unique_entry_id": {
                 "S": "jLR8r3aHpRe4yJyxA"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -13533,6 +14415,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Park Rugs"
             },
             "color_1": {
                 "S": "Beige"
@@ -13611,6 +14496,9 @@
             },
             "unique_entry_id": {
                 "S": "kC3KJRKazh5c6m2uN"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -13625,6 +14513,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Slender Rugs"
             },
             "color_1": {
                 "S": "Black"
@@ -13703,6 +14594,9 @@
             },
             "unique_entry_id": {
                 "S": "sgqHLSNKe9ezJFrnL"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -13717,6 +14611,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Slender Rugs"
             },
             "color_1": {
                 "S": "Green"
@@ -13795,6 +14692,9 @@
             },
             "unique_entry_id": {
                 "S": "zfRhHqsvfBg5D6CJA"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -13809,6 +14709,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Simple Rugs"
             },
             "color_1": {
                 "S": "Green"
@@ -13887,6 +14790,9 @@
             },
             "unique_entry_id": {
                 "S": "9BzJWMCmruohLvY8x"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -13901,6 +14807,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Simple Rugs"
             },
             "color_1": {
                 "S": "Black"
@@ -13979,6 +14888,9 @@
             },
             "unique_entry_id": {
                 "S": "Nmx4FN5RX5LJ2xRF8"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -13993,6 +14905,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Simple Rugs"
             },
             "color_1": {
                 "S": "Blue"
@@ -14071,6 +14986,9 @@
             },
             "unique_entry_id": {
                 "S": "7nEjDqYTsZdF3n8Ky"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -14085,6 +15003,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Simple Rugs"
             },
             "color_1": {
                 "S": "Brown"
@@ -14163,6 +15084,9 @@
             },
             "unique_entry_id": {
                 "S": "FAqsC7JonfkPt3jc2"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -14177,6 +15101,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Simple Rugs"
             },
             "color_1": {
                 "S": "Orange"
@@ -14255,6 +15182,9 @@
             },
             "unique_entry_id": {
                 "S": "Bt6N5gWJJNtdNg8TC"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -14269,6 +15199,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Simple Rugs"
             },
             "color_1": {
                 "S": "Purple"
@@ -14347,6 +15280,9 @@
             },
             "unique_entry_id": {
                 "S": "9WryqBnvAMiSF7vJ6"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -14361,6 +15297,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Simple Rugs"
             },
             "color_1": {
                 "S": "Red"
@@ -14439,6 +15378,9 @@
             },
             "unique_entry_id": {
                 "S": "yB22Mz4KP2wbzjYtv"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -14453,6 +15395,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Slender Rugs"
             },
             "color_1": {
                 "S": "Gray"
@@ -14531,6 +15476,9 @@
             },
             "unique_entry_id": {
                 "S": "AZQdF6gMi89DXP9K3"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -14545,6 +15493,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Slender Rugs"
             },
             "color_1": {
                 "S": "Pink"
@@ -14623,6 +15574,9 @@
             },
             "unique_entry_id": {
                 "S": "Lqze8wPcmFatBMFDw"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -14637,6 +15591,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Simple Rugs"
             },
             "color_1": {
                 "S": "Green"
@@ -14715,6 +15672,9 @@
             },
             "unique_entry_id": {
                 "S": "PKfPEbTw8C55Qc5oH"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -14729,6 +15689,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Simple Rugs"
             },
             "color_1": {
                 "S": "Black"
@@ -14807,6 +15770,9 @@
             },
             "unique_entry_id": {
                 "S": "uSGDYs7hCuxMBTZbi"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -14821,6 +15787,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Simple Rugs"
             },
             "color_1": {
                 "S": "Blue"
@@ -14899,6 +15868,9 @@
             },
             "unique_entry_id": {
                 "S": "Q7FSQ4q6Hzt2YihKH"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -14913,6 +15885,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Simple Rugs"
             },
             "color_1": {
                 "S": "Brown"
@@ -14991,6 +15966,9 @@
             },
             "unique_entry_id": {
                 "S": "aKCpcBCjrn6wWcyw2"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -15005,6 +15983,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Simple Rugs"
             },
             "color_1": {
                 "S": "Orange"
@@ -15083,6 +16064,9 @@
             },
             "unique_entry_id": {
                 "S": "WomwFGQsQgogZNtQf"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -15097,6 +16081,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Simple Rugs"
             },
             "color_1": {
                 "S": "Purple"
@@ -15175,6 +16162,9 @@
             },
             "unique_entry_id": {
                 "S": "h7wpDFdwKgJs2BvgG"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -15189,6 +16179,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Simple Rugs"
             },
             "color_1": {
                 "S": "Red"
@@ -15267,6 +16260,9 @@
             },
             "unique_entry_id": {
                 "S": "nRakPP7nXacJB3YHX"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -15281,6 +16277,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Icon Rugs"
             },
             "color_1": {
                 "S": "Gray"
@@ -15359,6 +16358,9 @@
             },
             "unique_entry_id": {
                 "S": "45XdJjQY2JqipTQ9F"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -15373,6 +16375,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Simple Rugs"
             },
             "color_1": {
                 "S": "Aqua"
@@ -15451,6 +16456,9 @@
             },
             "unique_entry_id": {
                 "S": "337rrvb9iapfJC4nb"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -15465,6 +16473,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Slender Pattern Rugs"
             },
             "color_1": {
                 "S": "Red"
@@ -15543,6 +16554,9 @@
             },
             "unique_entry_id": {
                 "S": "pTEGa3pxpuMwuwLmJ"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -15557,6 +16571,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Shaggy Round Rugs"
             },
             "color_1": {
                 "S": "Aqua"
@@ -15635,6 +16652,9 @@
             },
             "unique_entry_id": {
                 "S": "upNaAkxPwQRHP6NXi"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -15649,6 +16669,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Pattern Rugs"
             },
             "color_1": {
                 "S": "Orange"
@@ -15727,6 +16750,9 @@
             },
             "unique_entry_id": {
                 "S": "vgzmZDqaGRtrDN7Pv"
+            },
+            "version_added": {
+                "S": "1.5.0"
             }
         },
         "TableName": "furniture_rug"
@@ -15741,6 +16767,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Shaggy Round Rugs"
             },
             "color_1": {
                 "S": "Colorful"
@@ -15819,6 +16848,9 @@
             },
             "unique_entry_id": {
                 "S": "5ooaYbBht82jjATW9"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -15833,6 +16865,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Shaggy Round Rugs"
             },
             "color_1": {
                 "S": "Blue"
@@ -15911,6 +16946,9 @@
             },
             "unique_entry_id": {
                 "S": "xzKfkAfhP9hgzsRXw"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -15925,6 +16963,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Park Rugs"
             },
             "color_1": {
                 "S": "Aqua"
@@ -16003,6 +17044,9 @@
             },
             "unique_entry_id": {
                 "S": "fBGGF9Cqbudi6cmsk"
+            },
+            "version_added": {
+                "S": "1.6.0"
             }
         },
         "TableName": "furniture_rug"
@@ -16017,6 +17061,9 @@
             },
             "catalog_category": {
                 "S": "Seasonal"
+            },
+            "category": {
+                "S": "Icon Rugs"
             },
             "color_1": {
                 "S": "Yellow"
@@ -16095,6 +17142,9 @@
             },
             "unique_entry_id": {
                 "S": "D8jXWc5Nq678JDmpr"
+            },
+            "version_added": {
+                "S": "1.6.0"
             }
         },
         "TableName": "furniture_rug"
@@ -16109,6 +17159,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Wood Rugs"
             },
             "color_1": {
                 "S": "Green"
@@ -16187,6 +17240,9 @@
             },
             "unique_entry_id": {
                 "S": "m7efgfNG3HZR6G29s"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -16201,6 +17257,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Park Rugs"
             },
             "color_1": {
                 "S": "Beige"
@@ -16279,6 +17338,9 @@
             },
             "unique_entry_id": {
                 "S": "LeZfLvbzy4LHMFotw"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -16293,6 +17355,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Park Rugs"
             },
             "color_1": {
                 "S": "Green"
@@ -16371,6 +17436,9 @@
             },
             "unique_entry_id": {
                 "S": "tjgfDcBRhWQrxhjzk"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -16385,6 +17453,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Pattern Rugs"
             },
             "color_1": {
                 "S": "Beige"
@@ -16463,6 +17534,9 @@
             },
             "unique_entry_id": {
                 "S": "S3E3mJ2PfFsqN6FPq"
+            },
+            "version_added": {
+                "S": "1.6.0"
             }
         },
         "TableName": "furniture_rug"
@@ -16477,6 +17551,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Heart Rugs"
             },
             "color_1": {
                 "S": "Aqua"
@@ -16555,6 +17632,9 @@
             },
             "unique_entry_id": {
                 "S": "MeN8d4a4YKoFc2zDW"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -16569,6 +17649,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Slender Rugs"
             },
             "color_1": {
                 "S": "White"
@@ -16647,6 +17730,9 @@
             },
             "unique_entry_id": {
                 "S": "PTEdMjQ6RhLp5JNQt"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -16661,6 +17747,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Heart Rugs"
             },
             "color_1": {
                 "S": "White"
@@ -16739,6 +17828,9 @@
             },
             "unique_entry_id": {
                 "S": "ur5qNz9QEkkCEPRDQ"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -16753,6 +17845,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Message Mats"
             },
             "color_1": {
                 "S": "White"
@@ -16831,6 +17926,9 @@
             },
             "unique_entry_id": {
                 "S": "ey5h5kDoaHvTgEdkj"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -16845,6 +17943,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Rose Rug"
             },
             "color_1": {
                 "S": "White"
@@ -16923,6 +18024,9 @@
             },
             "unique_entry_id": {
                 "S": "fWrizz9CC3Lg8apM2"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -16937,6 +18041,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Simple Rugs"
             },
             "color_1": {
                 "S": "Beige"
@@ -17015,6 +18122,9 @@
             },
             "unique_entry_id": {
                 "S": "vXD2oADv2fg4QRCp6"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -17029,6 +18139,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Simple Rugs"
             },
             "color_1": {
                 "S": "Beige"
@@ -17107,6 +18220,9 @@
             },
             "unique_entry_id": {
                 "S": "vhxZi6oAZWm9gxRfK"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -17121,6 +18237,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Wood Rugs"
             },
             "color_1": {
                 "S": "White"
@@ -17199,6 +18318,9 @@
             },
             "unique_entry_id": {
                 "S": "AybYhmrNqDQF7nmwA"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -17213,6 +18335,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Slender Pattern Rugs"
             },
             "color_1": {
                 "S": "White"
@@ -17291,6 +18416,9 @@
             },
             "unique_entry_id": {
                 "S": "At7cbGksXn6rvhkQr"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_rug"
@@ -17305,6 +18433,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Wood Rugs"
             },
             "color_1": {
                 "S": "White"
@@ -17383,6 +18514,9 @@
             },
             "unique_entry_id": {
                 "S": "nmBMJkGHnxGdzYzzP"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -17397,6 +18531,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Wood Rugs"
             },
             "color_1": {
                 "S": "White"
@@ -17475,6 +18612,9 @@
             },
             "unique_entry_id": {
                 "S": "MnwwbhGePuQcNsm7C"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -17489,6 +18629,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Wood Rugs"
             },
             "color_1": {
                 "S": "White"
@@ -17567,6 +18710,9 @@
             },
             "unique_entry_id": {
                 "S": "QDuruxueRohGJyFPh"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -17581,6 +18727,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Slender Pattern Rugs"
             },
             "color_1": {
                 "S": "Yellow"
@@ -17659,6 +18808,9 @@
             },
             "unique_entry_id": {
                 "S": "TEzohiZZfTSxoSNpd"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -17673,6 +18825,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Kitchen Rugs"
             },
             "color_1": {
                 "S": "Yellow"
@@ -17751,6 +18906,9 @@
             },
             "unique_entry_id": {
                 "S": "hKGKs9oChoax3Qkqp"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -17765,6 +18923,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Pattern Rugs"
             },
             "color_1": {
                 "S": "Yellow"
@@ -17843,6 +19004,9 @@
             },
             "unique_entry_id": {
                 "S": "Gb4rwvjZv74CDT8qE"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -17857,6 +19021,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Pattern Rugs"
             },
             "color_1": {
                 "S": "Yellow"
@@ -17935,6 +19102,9 @@
             },
             "unique_entry_id": {
                 "S": "GdqeFkwTpKJLFQpyK"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -17949,6 +19119,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Pattern Rugs"
             },
             "color_1": {
                 "S": "Yellow"
@@ -18027,6 +19200,9 @@
             },
             "unique_entry_id": {
                 "S": "rsqpEquuEaidZAdjW"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -18041,6 +19217,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Pattern Rugs"
             },
             "color_1": {
                 "S": "Yellow"
@@ -18119,6 +19298,9 @@
             },
             "unique_entry_id": {
                 "S": "274gPov62L9zR3onG"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -18133,6 +19315,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Kitchen Rugs"
             },
             "color_1": {
                 "S": "Yellow"
@@ -18211,6 +19396,9 @@
             },
             "unique_entry_id": {
                 "S": "CyGFnLgFnD3jrgKio"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -18225,6 +19413,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Shaggy Round Rugs"
             },
             "color_1": {
                 "S": "Yellow"
@@ -18303,6 +19494,9 @@
             },
             "unique_entry_id": {
                 "S": "TfKNppy5CiswuZGSw"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -18317,6 +19511,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Message Mats"
             },
             "color_1": {
                 "S": "Yellow"
@@ -18395,6 +19592,9 @@
             },
             "unique_entry_id": {
                 "S": "6NpR38JASvkZDezYq"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -18409,6 +19609,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Pattern Rugs"
             },
             "color_1": {
                 "S": "Yellow"
@@ -18487,6 +19690,9 @@
             },
             "unique_entry_id": {
                 "S": "HdsBjfD2ongYrBt5m"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -18501,6 +19707,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Rose Rug"
             },
             "color_1": {
                 "S": "Yellow"
@@ -18579,6 +19788,9 @@
             },
             "unique_entry_id": {
                 "S": "jta8sYzY36aqcjp3T"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -18593,6 +19805,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Shaggy Round Rugs"
             },
             "color_1": {
                 "S": "Yellow"
@@ -18671,6 +19886,9 @@
             },
             "unique_entry_id": {
                 "S": "FS2ZvZLcRQDHp6hHr"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -18685,6 +19903,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Park Rugs"
             },
             "color_1": {
                 "S": "Yellow"
@@ -18763,6 +19984,9 @@
             },
             "unique_entry_id": {
                 "S": "7CPoE3KPnJ3SqK4Mk"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -18777,6 +20001,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Slender Pattern Rugs"
             },
             "color_1": {
                 "S": "Yellow"
@@ -18855,6 +20082,9 @@
             },
             "unique_entry_id": {
                 "S": "mJP9gz2YZAcQsWELE"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -18869,6 +20099,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Slender Pattern Rugs"
             },
             "color_1": {
                 "S": "Yellow"
@@ -18947,6 +20180,9 @@
             },
             "unique_entry_id": {
                 "S": "8tMeC24TcYdot9ZuC"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -18961,6 +20197,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Fruit Rugs"
             },
             "color_1": {
                 "S": "Yellow"
@@ -19039,6 +20278,9 @@
             },
             "unique_entry_id": {
                 "S": "a7xgXP8K6df43NCBQ"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -19053,6 +20295,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Kitchen Rugs"
             },
             "color_1": {
                 "S": "Yellow"
@@ -19131,6 +20376,9 @@
             },
             "unique_entry_id": {
                 "S": "B76hfTkYR2vm96Hfd"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_rug"
@@ -19145,6 +20393,9 @@
             },
             "catalog_category": {
                 "S": "Not in catalog"
+            },
+            "category": {
+                "S": "Icon Rugs"
             },
             "color_1": {
                 "S": "Green"
@@ -19223,6 +20474,9 @@
             },
             "unique_entry_id": {
                 "S": "CfuABFvYQYNAKQcR6"
+            },
+            "version_added": {
+                "S": "1.8.0"
             }
         },
         "TableName": "furniture_rug"

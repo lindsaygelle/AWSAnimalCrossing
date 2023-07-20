@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 29,
-    "minProperties": 29,
+    "maxProperties": 31,
+    "minProperties": 31,
     "properties": {
         "buy_currency": {
             "maxLength": 5,
@@ -23,6 +23,13 @@
         },
         "catalog_category": {
             "maxLength": 14,
+            "minLength": 8,
+            "type": [
+                "string"
+            ]
+        },
+        "category": {
+            "maxLength": 20,
             "minLength": 8,
             "type": [
                 "string"
@@ -212,12 +219,20 @@
             "type": [
                 "string"
             ]
+        },
+        "version_added": {
+            "maxLength": 5,
+            "minLength": 5,
+            "type": [
+                "string"
+            ]
         }
     },
     "required": [
         "buy_currency",
         "buy_price",
         "catalog_category",
+        "category",
         "color_1",
         "color_2",
         "exchange_currency",
@@ -243,7 +258,8 @@
         "size_1",
         "size_2",
         "size_category",
-        "unique_entry_id"
+        "unique_entry_id",
+        "version_added"
     ],
     "title": "FurnitureRug",
     "type": "object"

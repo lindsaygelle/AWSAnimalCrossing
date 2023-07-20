@@ -1,6 +1,9 @@
 [
     {
         "Item": {
+            "can_fly": {
+                "BOOL": true
+            },
             "color_1": {
                 "S": "Pink"
             },
@@ -64,6 +67,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -105,6 +111,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -168,6 +177,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -209,6 +221,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Orange"
             },
@@ -272,6 +287,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -313,6 +331,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -376,6 +397,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -417,6 +441,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": true
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -480,6 +507,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -521,6 +551,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -584,6 +617,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -625,6 +661,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -688,6 +727,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -729,6 +771,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -792,6 +837,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -833,6 +881,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -896,6 +947,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -937,6 +991,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -1000,6 +1057,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -1041,6 +1101,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -1104,6 +1167,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -1145,6 +1211,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": true
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -1208,6 +1277,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -1249,6 +1321,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": true
+            },
             "color_1": {
                 "S": "White"
             },
@@ -1312,6 +1387,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -1353,6 +1431,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -1416,6 +1497,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -1457,6 +1541,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -1520,6 +1607,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -1561,6 +1651,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": true
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -1624,6 +1717,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -1665,6 +1761,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": true
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -1728,6 +1827,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -1769,6 +1871,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -1832,6 +1937,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -1873,6 +1981,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -1936,6 +2047,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -1977,6 +2091,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -2040,6 +2157,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -2081,6 +2201,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Purple"
             },
@@ -2144,6 +2267,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -2185,6 +2311,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": true
+            },
             "color_1": {
                 "S": "Blue"
             },
@@ -2248,6 +2377,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -2289,6 +2421,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -2352,6 +2487,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -2393,6 +2531,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": true
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -2456,6 +2597,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -2497,6 +2641,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -2560,6 +2707,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -2601,6 +2751,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": true
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -2664,11 +2817,14 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": false
             },
             "location_category": {
-                "S": "Air"
+                "S": "Trash"
             },
             "name": {
                 "S": "Fly"
@@ -2705,6 +2861,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -2768,6 +2927,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -2809,6 +2971,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -2872,6 +3037,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -2913,6 +3081,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -2976,6 +3147,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -3017,6 +3191,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -3080,6 +3257,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -3121,6 +3301,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -3184,6 +3367,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -3225,6 +3411,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Red"
             },
@@ -3288,6 +3477,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -3329,6 +3521,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -3392,6 +3587,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -3433,6 +3631,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": true
+            },
             "color_1": {
                 "S": "Purple"
             },
@@ -3496,6 +3697,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -3537,6 +3741,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Beige"
             },
@@ -3600,6 +3807,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -3641,6 +3851,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": true
+            },
             "color_1": {
                 "S": "Yellow"
             },
@@ -3704,6 +3917,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -3745,6 +3961,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -3808,6 +4027,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -3849,6 +4071,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -3912,6 +4137,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -3953,6 +4181,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Beige"
             },
@@ -4016,6 +4247,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -4057,6 +4291,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Yellow"
             },
@@ -4120,6 +4357,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -4161,6 +4401,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -4224,6 +4467,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -4265,6 +4511,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Red"
             },
@@ -4328,6 +4577,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -4369,6 +4621,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -4432,6 +4687,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -4473,6 +4731,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": true
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -4536,6 +4797,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -4577,6 +4841,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -4640,6 +4907,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -4681,6 +4951,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -4744,6 +5017,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -4785,6 +5061,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -4848,6 +5127,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -4889,6 +5171,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -4952,6 +5237,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -4993,6 +5281,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -5056,6 +5347,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -5097,6 +5391,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": true
+            },
             "color_1": {
                 "S": "Orange"
             },
@@ -5160,6 +5457,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -5201,6 +5501,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": true
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -5264,6 +5567,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -5305,6 +5611,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": true
+            },
             "color_1": {
                 "S": "Beige"
             },
@@ -5368,11 +5677,14 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": false
             },
             "location_category": {
-                "S": "Air"
+                "S": "Light Source"
             },
             "name": {
                 "S": "Moth"
@@ -5409,6 +5721,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "White"
             },
@@ -5472,6 +5787,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -5513,6 +5831,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": true
+            },
             "color_1": {
                 "S": "White"
             },
@@ -5576,6 +5897,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -5617,6 +5941,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": true
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -5680,6 +6007,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -5721,6 +6051,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -5784,6 +6117,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -5825,6 +6161,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -5888,6 +6227,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -5929,6 +6271,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": true
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -5992,6 +6337,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -6033,6 +6381,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -6096,6 +6447,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -6137,6 +6491,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": true
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -6200,6 +6557,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -6241,6 +6601,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": true
+            },
             "color_1": {
                 "S": "Red"
             },
@@ -6304,6 +6667,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -6345,6 +6711,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -6408,6 +6777,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -6449,6 +6821,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -6512,6 +6887,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -6553,6 +6931,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Blue"
             },
@@ -6616,6 +6997,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -6657,6 +7041,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -6720,6 +7107,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -6761,6 +7151,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -6824,6 +7217,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -6865,6 +7261,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -6928,6 +7327,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -6969,6 +7371,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Beige"
             },
@@ -7032,6 +7437,9 @@
             "is_available_sunshine": {
                 "BOOL": false
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -7073,6 +7481,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Yellow"
             },
@@ -7136,6 +7547,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -7177,6 +7591,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -7240,6 +7657,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -7281,6 +7701,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -7344,6 +7767,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -7385,6 +7811,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -7448,6 +7877,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -7489,6 +7921,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": true
+            },
             "color_1": {
                 "S": "Yellow"
             },
@@ -7552,6 +7987,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -7593,6 +8031,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -7656,6 +8097,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -7697,6 +8141,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -7760,6 +8207,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -7801,6 +8251,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -7864,6 +8317,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": true
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -7905,6 +8361,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -7968,6 +8427,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -8009,6 +8471,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Yellow"
             },
@@ -8072,6 +8537,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": true
             },
@@ -8113,6 +8581,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Beige"
             },
@@ -8176,6 +8647,9 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
+            "is_disguised": {
+                "BOOL": false
+            },
             "is_surface": {
                 "BOOL": false
             },
@@ -8217,6 +8691,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": true
+            },
             "color_1": {
                 "S": "Yellow"
             },
@@ -8279,6 +8756,9 @@
             },
             "is_available_sunshine": {
                 "BOOL": true
+            },
+            "is_disguised": {
+                "BOOL": false
             },
             "is_surface": {
                 "BOOL": false

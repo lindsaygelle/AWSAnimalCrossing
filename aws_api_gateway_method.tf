@@ -13,6 +13,7 @@ resource "aws_api_gateway_method" "achievement_GET" {
     "method.request.querystring.internal_name"  = false
     "method.request.querystring.is_sequential"  = false
     "method.request.querystring.tiers"          = false
+    "method.request.querystring.version_added"  = false
   }
   request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
@@ -118,6 +119,7 @@ resource "aws_api_gateway_method" "clothing_accessory_GET" {
     "method.request.querystring.is_equippable"         = false
     "method.request.querystring.is_seasonal"           = false
     "method.request.querystring.is_unlocked"           = false
+    "method.request.querystring.mannequin_season"      = false
     "method.request.querystring.order"                 = false
     "method.request.querystring.seasonal_availability" = false
     "method.request.querystring.seasonality"           = false
@@ -127,6 +129,7 @@ resource "aws_api_gateway_method" "clothing_accessory_GET" {
     "method.request.querystring.size_2"                = false
     "method.request.querystring.style_1"               = false
     "method.request.querystring.style_2"               = false
+    "method.request.querystring.version_added"         = false
     "method.request.querystring.villager_gender"       = false
   }
   request_validator_id = aws_api_gateway_request_validator.request_parameters.id
@@ -198,6 +201,7 @@ resource "aws_api_gateway_method" "clothing_bag_GET" {
     "method.request.querystring.size_2"                = false
     "method.request.querystring.style_1"               = false
     "method.request.querystring.style_2"               = false
+    "method.request.querystring.version_added"         = false
   }
   request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
@@ -259,6 +263,7 @@ resource "aws_api_gateway_method" "clothing_bottom_GET" {
     "method.request.querystring.is_equippable"         = false
     "method.request.querystring.is_seasonal"           = false
     "method.request.querystring.is_unlocked"           = false
+    "method.request.querystring.mannequin_season"      = false
     "method.request.querystring.order"                 = false
     "method.request.querystring.seasonal_availability" = false
     "method.request.querystring.seasonality"           = false
@@ -268,6 +273,7 @@ resource "aws_api_gateway_method" "clothing_bottom_GET" {
     "method.request.querystring.size_2"                = false
     "method.request.querystring.style_1"               = false
     "method.request.querystring.style_2"               = false
+    "method.request.querystring.version_added"         = false
   }
   request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
@@ -329,6 +335,7 @@ resource "aws_api_gateway_method" "clothing_dress_up_GET" {
     "method.request.querystring.is_equippable"         = false
     "method.request.querystring.is_seasonal"           = false
     "method.request.querystring.is_unlocked"           = false
+    "method.request.querystring.mannequin_season"      = false
     "method.request.querystring.order"                 = false
     "method.request.querystring.seasonal_availability" = false
     "method.request.querystring.seasonality"           = false
@@ -340,6 +347,7 @@ resource "aws_api_gateway_method" "clothing_dress_up_GET" {
     "method.request.querystring.size_2"                = false
     "method.request.querystring.style_1"               = false
     "method.request.querystring.style_2"               = false
+    "method.request.querystring.version_added"         = false
     "method.request.querystring.villager_gender"       = false
   }
   request_validator_id = aws_api_gateway_request_validator.request_parameters.id
@@ -402,6 +410,7 @@ resource "aws_api_gateway_method" "clothing_headwear_GET" {
     "method.request.querystring.is_equippable"         = false
     "method.request.querystring.is_seasonal"           = false
     "method.request.querystring.is_unlocked"           = false
+    "method.request.querystring.mannequin_season"      = false
     "method.request.querystring.order"                 = false
     "method.request.querystring.seasonal_availability" = false
     "method.request.querystring.seasonality"           = false
@@ -411,6 +420,7 @@ resource "aws_api_gateway_method" "clothing_headwear_GET" {
     "method.request.querystring.size_2"                = false
     "method.request.querystring.style_1"               = false
     "method.request.querystring.style_2"               = false
+    "method.request.querystring.version_added"         = false
     "method.request.querystring.villager_gender"       = false
   }
   request_validator_id = aws_api_gateway_request_validator.request_parameters.id
@@ -484,6 +494,7 @@ resource "aws_api_gateway_method" "clothing_other_GET" {
     "method.request.querystring.size_2"                = false
     "method.request.querystring.style_1"               = false
     "method.request.querystring.style_2"               = false
+    "method.request.querystring.version_added"         = false
   }
   request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
@@ -545,6 +556,7 @@ resource "aws_api_gateway_method" "clothing_shoe_GET" {
     "method.request.querystring.is_equippable"         = false
     "method.request.querystring.is_seasonal"           = false
     "method.request.querystring.is_unlocked"           = false
+    "method.request.querystring.mannequin_season"      = false
     "method.request.querystring.order"                 = false
     "method.request.querystring.seasonal_availability" = false
     "method.request.querystring.seasonality"           = false
@@ -554,6 +566,7 @@ resource "aws_api_gateway_method" "clothing_shoe_GET" {
     "method.request.querystring.size_2"                = false
     "method.request.querystring.style_1"               = false
     "method.request.querystring.style_2"               = false
+    "method.request.querystring.version_added"         = false
   }
   request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
@@ -615,6 +628,7 @@ resource "aws_api_gateway_method" "clothing_sock_GET" {
     "method.request.querystring.is_equippable"         = false
     "method.request.querystring.is_seasonal"           = false
     "method.request.querystring.is_unlocked"           = false
+    "method.request.querystring.mannequin_season"      = false
     "method.request.querystring.order"                 = false
     "method.request.querystring.seasonal_availability" = false
     "method.request.querystring.seasonality"           = false
@@ -624,6 +638,7 @@ resource "aws_api_gateway_method" "clothing_sock_GET" {
     "method.request.querystring.size_2"                = false
     "method.request.querystring.style_1"               = false
     "method.request.querystring.style_2"               = false
+    "method.request.querystring.version_added"         = false
   }
   request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
@@ -685,6 +700,7 @@ resource "aws_api_gateway_method" "clothing_top_GET" {
     "method.request.querystring.is_equippable"         = false
     "method.request.querystring.is_seasonal"           = false
     "method.request.querystring.is_unlocked"           = false
+    "method.request.querystring.mannequin_season"      = false
     "method.request.querystring.order"                 = false
     "method.request.querystring.seasonal_availability" = false
     "method.request.querystring.seasonality"           = false
@@ -694,6 +710,7 @@ resource "aws_api_gateway_method" "clothing_top_GET" {
     "method.request.querystring.size_2"                = false
     "method.request.querystring.style_1"               = false
     "method.request.querystring.style_2"               = false
+    "method.request.querystring.version_added"         = false
     "method.request.querystring.villager_gender"       = false
   }
   request_validator_id = aws_api_gateway_request_validator.request_parameters.id
@@ -759,6 +776,7 @@ resource "aws_api_gateway_method" "clothing_umbrella_GET" {
     "method.request.querystring.sell_price"        = false
     "method.request.querystring.size_1"            = false
     "method.request.querystring.size_2"            = false
+    "method.request.querystring.version_added"     = false
     "method.request.querystring.villager_gender"   = false
   }
   request_validator_id = aws_api_gateway_request_validator.request_parameters.id
@@ -799,8 +817,9 @@ resource "aws_api_gateway_method" "construction_GET" {
   rest_api_id          = aws_api_gateway_resource.construction.rest_api_id
   request_models       = {}
   request_parameters = {
-    "method.request.querystring.buy_currency" = false
-    "method.request.querystring.buy_price"    = false
+    "method.request.querystring.buy_currency"  = false
+    "method.request.querystring.buy_price"     = false
+    "method.request.querystring.version_added" = false
   }
   request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
@@ -840,30 +859,33 @@ resource "aws_api_gateway_method" "creature_fish_GET" {
   rest_api_id          = aws_api_gateway_resource.creature_fish.rest_api_id
   request_models       = {}
   request_parameters = {
-    "method.request.querystring.challenge_category" = false
-    "method.request.querystring.color_1"            = false
-    "method.request.querystring.color_2"            = false
-    "method.request.querystring.hha_category"       = false
-    "method.request.querystring.hha_concept_1"      = false
-    "method.request.querystring.hha_concept_2"      = false
-    "method.request.querystring.hha_points"         = false
-    "method.request.querystring.hha_series"         = false
-    "method.request.querystring.hha_set"            = false
-    "method.request.querystring.internal_id"        = false
-    "method.request.querystring.internal_label"     = false
-    "method.request.querystring.internal_name"      = false
-    "method.request.querystring.is_surface"         = false
-    "method.request.querystring.lighting_category"  = false
-    "method.request.querystring.location_category"  = false
-    "method.request.querystring.rate_maximum"       = false
-    "method.request.querystring.rate_minimum"       = false
-    "method.request.querystring.sell_currency"      = false
-    "method.request.querystring.sell_price"         = false
-    "method.request.querystring.size_1"             = false
-    "method.request.querystring.size_2"             = false
-    "method.request.querystring.size_silhouette"    = false
-    "method.request.querystring.unlock_number"      = false
-    "method.request.querystring.vision_category"    = false
+    "method.request.querystring.challenge_category"    = false
+    "method.request.querystring.color_1"               = false
+    "method.request.querystring.color_2"               = false
+    "method.request.querystring.hha_category"          = false
+    "method.request.querystring.hha_concept_1"         = false
+    "method.request.querystring.hha_concept_2"         = false
+    "method.request.querystring.hha_points"            = false
+    "method.request.querystring.hha_series"            = false
+    "method.request.querystring.hha_set"               = false
+    "method.request.querystring.internal_id"           = false
+    "method.request.querystring.internal_label"        = false
+    "method.request.querystring.internal_name"         = false
+    "method.request.querystring.is_available_raining"  = false
+    "method.request.querystring.is_available_sunshine" = false
+    "method.request.querystring.is_surface"            = false
+    "method.request.querystring.lighting_category"     = false
+    "method.request.querystring.location_category"     = false
+    "method.request.querystring.location_name"         = false
+    "method.request.querystring.rate_maximum"          = false
+    "method.request.querystring.rate_minimum"          = false
+    "method.request.querystring.sell_currency"         = false
+    "method.request.querystring.sell_price"            = false
+    "method.request.querystring.size_1"                = false
+    "method.request.querystring.size_2"                = false
+    "method.request.querystring.size_silhouette"       = false
+    "method.request.querystring.unlock_number"         = false
+    "method.request.querystring.vision_category"       = false
   }
   request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
@@ -903,6 +925,7 @@ resource "aws_api_gateway_method" "creature_insect_GET" {
   rest_api_id          = aws_api_gateway_resource.creature_insect.rest_api_id
   request_models       = {}
   request_parameters = {
+    "method.request.querystring.can_fly"               = false
     "method.request.querystring.color_1"               = false
     "method.request.querystring.color_2"               = false
     "method.request.querystring.hha_category"          = false
@@ -916,6 +939,7 @@ resource "aws_api_gateway_method" "creature_insect_GET" {
     "method.request.querystring.internal_name"         = false
     "method.request.querystring.is_available_raining"  = false
     "method.request.querystring.is_available_sunshine" = false
+    "method.request.querystring.is_disguised"          = false
     "method.request.querystring.is_surface"            = false
     "method.request.querystring.location_category"     = false
     "method.request.querystring.rate_maximum"          = false
@@ -988,6 +1012,7 @@ resource "aws_api_gateway_method" "creature_sea_GET" {
     "method.request.querystring.size_2"            = false
     "method.request.querystring.size_silhouette"   = false
     "method.request.querystring.unlock_number"     = false
+    "method.request.querystring.version_added"     = false
   }
   request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
@@ -1033,6 +1058,7 @@ resource "aws_api_gateway_method" "furniture_artwork_GET" {
     "method.request.querystring.buy_currency"      = false
     "method.request.querystring.buy_price"         = false
     "method.request.querystring.catalog_category"  = false
+    "method.request.querystring.category"          = false
     "method.request.querystring.color_1"           = false
     "method.request.querystring.color_2"           = false
     "method.request.querystring.hha_category"      = false
@@ -1053,6 +1079,7 @@ resource "aws_api_gateway_method" "furniture_artwork_GET" {
     "method.request.querystring.size_1"            = false
     "method.request.querystring.size_2"            = false
     "method.request.querystring.speaker_category"  = false
+    "method.request.querystring.version_added"     = false
   }
   request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
@@ -1098,6 +1125,7 @@ resource "aws_api_gateway_method" "furniture_ceiling_GET" {
     "method.request.querystring.can_customize_body"    = false
     "method.request.querystring.can_customize_pattern" = false
     "method.request.querystring.catalog_category"      = false
+    "method.request.querystring.category"              = false
     "method.request.querystring.color_1"               = false
     "method.request.querystring.color_2"               = false
     "method.request.querystring.cyrus_currency"        = false
@@ -1129,6 +1157,7 @@ resource "aws_api_gateway_method" "furniture_ceiling_GET" {
     "method.request.querystring.size_1"                = false
     "method.request.querystring.size_2"                = false
     "method.request.querystring.variant_id"            = false
+    "method.request.querystring.version_added"         = false
   }
   request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
@@ -1188,6 +1217,7 @@ resource "aws_api_gateway_method" "furniture_fencing_GET" {
     "method.request.querystring.sell_currency"    = false
     "method.request.querystring.sell_price"       = false
     "method.request.querystring.variant_id"       = false
+    "method.request.querystring.version_added"    = false
   }
   request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
@@ -1230,6 +1260,7 @@ resource "aws_api_gateway_method" "furniture_floor_GET" {
     "method.request.querystring.buy_currency"      = false
     "method.request.querystring.buy_price"         = false
     "method.request.querystring.catalog_category"  = false
+    "method.request.querystring.category"          = false
     "method.request.querystring.color_1"           = false
     "method.request.querystring.color_2"           = false
     "method.request.querystring.exchange_currency" = false
@@ -1249,6 +1280,7 @@ resource "aws_api_gateway_method" "furniture_floor_GET" {
     "method.request.querystring.is_unlocked"       = false
     "method.request.querystring.sell_currency"     = false
     "method.request.querystring.sell_price"        = false
+    "method.request.querystring.version_added"     = false
   }
   request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
@@ -1354,6 +1386,7 @@ resource "aws_api_gateway_method" "furniture_gyroid_GET" {
     "method.request.querystring.can_customize_body"    = false
     "method.request.querystring.can_customize_pattern" = false
     "method.request.querystring.catalog_category"      = false
+    "method.request.querystring.category"              = false
     "method.request.querystring.color_1"               = false
     "method.request.querystring.color_2"               = false
     "method.request.querystring.cyrus_currency"        = false
@@ -1386,6 +1419,7 @@ resource "aws_api_gateway_method" "furniture_gyroid_GET" {
     "method.request.querystring.size_2"                = false
     "method.request.querystring.sound_category"        = false
     "method.request.querystring.variant_id"            = false
+    "method.request.querystring.version_added"         = false
   }
   request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
@@ -1431,6 +1465,7 @@ resource "aws_api_gateway_method" "furniture_housewear_GET" {
     "method.request.querystring.can_customize_body"    = false
     "method.request.querystring.can_customize_pattern" = false
     "method.request.querystring.catalog_category"      = false
+    "method.request.querystring.category"              = false
     "method.request.querystring.color_1"               = false
     "method.request.querystring.color_2"               = false
     "method.request.querystring.cyrus_currency"        = false
@@ -1464,6 +1499,7 @@ resource "aws_api_gateway_method" "furniture_housewear_GET" {
     "method.request.querystring.size_2"                = false
     "method.request.querystring.speaker_category"      = false
     "method.request.querystring.variant_id"            = false
+    "method.request.querystring.version_added"         = false
   }
   request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
@@ -1509,6 +1545,7 @@ resource "aws_api_gateway_method" "furniture_interior_structure_GET" {
     "method.request.querystring.can_customize_body"    = false
     "method.request.querystring.can_customize_pattern" = false
     "method.request.querystring.catalog_category"      = false
+    "method.request.querystring.category"              = false
     "method.request.querystring.color_1"               = false
     "method.request.querystring.color_2"               = false
     "method.request.querystring.cyrus_currency"        = false
@@ -1541,6 +1578,7 @@ resource "aws_api_gateway_method" "furniture_interior_structure_GET" {
     "method.request.querystring.size_1"                = false
     "method.request.querystring.size_2"                = false
     "method.request.querystring.variant_id"            = false
+    "method.request.querystring.version_added"         = false
   }
   request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
@@ -1587,6 +1625,7 @@ resource "aws_api_gateway_method" "furniture_miscellaneous_GET" {
     "method.request.querystring.can_customize_pattern" = false
     "method.request.querystring.capacity"              = false
     "method.request.querystring.catalog_category"      = false
+    "method.request.querystring.category"              = false
     "method.request.querystring.color_1"               = false
     "method.request.querystring.color_2"               = false
     "method.request.querystring.cyrus_currency"        = false
@@ -1621,6 +1660,7 @@ resource "aws_api_gateway_method" "furniture_miscellaneous_GET" {
     "method.request.querystring.size_2"                = false
     "method.request.querystring.speaker_category"      = false
     "method.request.querystring.variant_id"            = false
+    "method.request.querystring.version_added"         = false
   }
   request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
@@ -1680,6 +1720,7 @@ resource "aws_api_gateway_method" "furniture_music_GET" {
     "method.request.querystring.sell_price"       = false
     "method.request.querystring.size_1"           = false
     "method.request.querystring.size_2"           = false
+    "method.request.querystring.version_added"    = false
   }
   request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
@@ -1751,6 +1792,7 @@ resource "aws_api_gateway_method" "furniture_photo_GET" {
     "method.request.querystring.size_1"            = false
     "method.request.querystring.size_2"            = false
     "method.request.querystring.variant_id"        = false
+    "method.request.querystring.version_added"     = false
   }
   request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
@@ -1810,6 +1852,7 @@ resource "aws_api_gateway_method" "furniture_poster_GET" {
     "method.request.querystring.sell_price"       = false
     "method.request.querystring.size_1"           = false
     "method.request.querystring.size_2"           = false
+    "method.request.querystring.version_added"    = false
   }
   request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
@@ -1852,6 +1895,7 @@ resource "aws_api_gateway_method" "furniture_rug_GET" {
     "method.request.querystring.buy_currency"      = false
     "method.request.querystring.buy_price"         = false
     "method.request.querystring.catalog_category"  = false
+    "method.request.querystring.category"          = false
     "method.request.querystring.color_1"           = false
     "method.request.querystring.color_2"           = false
     "method.request.querystring.exchange_currency" = false
@@ -1873,6 +1917,7 @@ resource "aws_api_gateway_method" "furniture_rug_GET" {
     "method.request.querystring.size_1"            = false
     "method.request.querystring.size_2"            = false
     "method.request.querystring.size_category"     = false
+    "method.request.querystring.version_added"     = false
   }
   request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
@@ -1918,6 +1963,7 @@ resource "aws_api_gateway_method" "furniture_wall_mounted_GET" {
     "method.request.querystring.can_customize_body"    = false
     "method.request.querystring.can_customize_pattern" = false
     "method.request.querystring.catalog_category"      = false
+    "method.request.querystring.category"              = false
     "method.request.querystring.color_1"               = false
     "method.request.querystring.color_2"               = false
     "method.request.querystring.cyrus_currency"        = false
@@ -1950,6 +1996,7 @@ resource "aws_api_gateway_method" "furniture_wall_mounted_GET" {
     "method.request.querystring.size_1"                = false
     "method.request.querystring.size_2"                = false
     "method.request.querystring.variant_id"            = false
+    "method.request.querystring.version_added"         = false
   }
   request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
@@ -1992,6 +2039,7 @@ resource "aws_api_gateway_method" "furniture_wallpaper_GET" {
     "method.request.querystring.buy_currency"      = false
     "method.request.querystring.buy_price"         = false
     "method.request.querystring.catalog_category"  = false
+    "method.request.querystring.category"          = false
     "method.request.querystring.ceiling_category"  = false
     "method.request.querystring.color_1"           = false
     "method.request.querystring.color_2"           = false
@@ -2015,6 +2063,7 @@ resource "aws_api_gateway_method" "furniture_wallpaper_GET" {
     "method.request.querystring.pane_category"     = false
     "method.request.querystring.sell_currency"     = false
     "method.request.querystring.sell_price"        = false
+    "method.request.querystring.version_added"     = false
     "method.request.querystring.vfx_category"      = false
     "method.request.querystring.window_category"   = false
     "method.request.querystring.window_color"      = false
@@ -2094,6 +2143,7 @@ resource "aws_api_gateway_method" "item_GET" {
     "method.request.querystring.size_2"            = false
     "method.request.querystring.uses"              = false
     "method.request.querystring.variant_id"        = false
+    "method.request.querystring.version_added"     = false
   }
   request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
@@ -2136,6 +2186,7 @@ resource "aws_api_gateway_method" "item_other_GET" {
     "method.request.querystring.buy_currency"      = false
     "method.request.querystring.buy_price"         = false
     "method.request.querystring.capacity"          = false
+    "method.request.querystring.category"          = false
     "method.request.querystring.color_1"           = false
     "method.request.querystring.color_2"           = false
     "method.request.querystring.exchange_currency" = false
@@ -2155,6 +2206,7 @@ resource "aws_api_gateway_method" "item_other_GET" {
     "method.request.querystring.is_unlocked"       = false
     "method.request.querystring.sell_currency"     = false
     "method.request.querystring.sell_price"        = false
+    "method.request.querystring.version_added"     = false
   }
   request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
@@ -2195,10 +2247,12 @@ resource "aws_api_gateway_method" "occasion_GET" {
   request_models       = {}
   request_parameters = {
     "method.request.querystring.can_overlap_day" = false
+    "method.request.querystring.can_vary_yearly" = false
     "method.request.querystring.category"        = false
     "method.request.querystring.internal_id"     = false
     "method.request.querystring.internal_label"  = false
     "method.request.querystring.internal_name"   = false
+    "method.request.querystring.version_added"   = false
   }
   request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
@@ -2282,6 +2336,7 @@ resource "aws_api_gateway_method" "reaction_GET" {
     "method.request.querystring.internal_label" = false
     "method.request.querystring.internal_name"  = false
     "method.request.querystring.is_seasonal"    = false
+    "method.request.querystring.version_added"  = false
   }
   request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
@@ -2333,6 +2388,7 @@ resource "aws_api_gateway_method" "recipe_GET" {
     "method.request.querystring.sell_currency"     = false
     "method.request.querystring.sell_price"        = false
     "method.request.querystring.unlock_number"     = false
+    "method.request.querystring.version_added"     = false
   }
   request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
@@ -2385,6 +2441,7 @@ resource "aws_api_gateway_method" "villager_GET" {
     "method.request.querystring.species_name"         = false
     "method.request.querystring.style_1"              = false
     "method.request.querystring.style_2"              = false
+    "method.request.querystring.version_added"        = false
     "method.request.querystring.wallpaper_name"       = false
   }
   request_validator_id = aws_api_gateway_request_validator.request_parameters.id
@@ -2434,6 +2491,7 @@ resource "aws_api_gateway_method" "villager_special_GET" {
     "method.request.querystring.internal_label"     = false
     "method.request.querystring.internal_name"      = false
     "method.request.querystring.species_name"       = false
+    "method.request.querystring.version_added"      = false
   }
   request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }

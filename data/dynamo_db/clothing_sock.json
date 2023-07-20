@@ -82,6 +82,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Aerobics Leggings"
             },
@@ -117,6 +120,9 @@
             },
             "variant_name": {
                 "S": "Red & Pink"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -204,6 +210,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Aerobics Leggings"
             },
@@ -239,6 +248,9 @@
             },
             "variant_name": {
                 "S": "Light Blue & Salmon Pink"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -326,6 +338,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Aerobics Leggings"
             },
@@ -361,6 +376,9 @@
             },
             "variant_name": {
                 "S": "Purple & Orange"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -448,6 +466,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Aerobics Leggings"
             },
@@ -483,6 +504,9 @@
             },
             "variant_name": {
                 "S": "Emerald & Lime"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -570,6 +594,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Aerobics Leggings"
             },
@@ -605,6 +632,9 @@
             },
             "variant_name": {
                 "S": "Yellow & Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -692,6 +722,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Aran-knit socks"
             },
@@ -727,6 +760,9 @@
             },
             "variant_name": {
                 "S": "White"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -814,6 +850,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Aran-knit socks"
             },
@@ -849,6 +888,9 @@
             },
             "variant_name": {
                 "S": "Black"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -936,6 +978,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Aran-knit socks"
             },
@@ -971,6 +1016,9 @@
             },
             "variant_name": {
                 "S": "Red"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -1058,6 +1106,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Aran-knit socks"
             },
@@ -1093,6 +1144,9 @@
             },
             "variant_name": {
                 "S": "Green"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -1180,6 +1234,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Aran-knit socks"
             },
@@ -1215,6 +1272,9 @@
             },
             "variant_name": {
                 "S": "Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -1302,6 +1362,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Aran-knit socks"
             },
@@ -1337,6 +1400,9 @@
             },
             "variant_name": {
                 "S": "Beige"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -1424,6 +1490,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Argyle Crew Socks"
             },
@@ -1459,6 +1528,9 @@
             },
             "variant_name": {
                 "S": "White"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -1546,6 +1618,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Argyle Crew Socks"
             },
@@ -1581,6 +1656,9 @@
             },
             "variant_name": {
                 "S": "Gray"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -1668,6 +1746,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Argyle Crew Socks"
             },
@@ -1703,6 +1784,9 @@
             },
             "variant_name": {
                 "S": "Red"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -1790,6 +1874,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Argyle Crew Socks"
             },
@@ -1825,6 +1912,9 @@
             },
             "variant_name": {
                 "S": "Pink"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -1912,6 +2002,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Argyle Crew Socks"
             },
@@ -1947,6 +2040,9 @@
             },
             "variant_name": {
                 "S": "Orange"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -2034,6 +2130,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Argyle Crew Socks"
             },
@@ -2069,6 +2168,9 @@
             },
             "variant_name": {
                 "S": "Green"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -2156,6 +2258,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Argyle Crew Socks"
             },
@@ -2191,6 +2296,9 @@
             },
             "variant_name": {
                 "S": "Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -2278,6 +2386,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Argyle Crew Socks"
             },
@@ -2313,6 +2424,9 @@
             },
             "variant_name": {
                 "S": "Beige"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -2400,6 +2514,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Back-bow Socks"
             },
@@ -2435,6 +2552,9 @@
             },
             "variant_name": {
                 "S": "White"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -2522,6 +2642,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Back-bow Socks"
             },
@@ -2557,6 +2680,9 @@
             },
             "variant_name": {
                 "S": "Black"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -2644,6 +2770,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Back-bow Socks"
             },
@@ -2679,6 +2808,9 @@
             },
             "variant_name": {
                 "S": "Pink"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -2766,6 +2898,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Back-bow Socks"
             },
@@ -2801,6 +2936,9 @@
             },
             "variant_name": {
                 "S": "Yellow"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -2888,6 +3026,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Back-bow Socks"
             },
@@ -2923,6 +3064,9 @@
             },
             "variant_name": {
                 "S": "Peacock Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -3010,6 +3154,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Back-bow Socks"
             },
@@ -3045,6 +3192,9 @@
             },
             "variant_name": {
                 "S": "Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -3132,6 +3282,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "All Year"
+            },
             "name": {
                 "S": "Bobby Socks"
             },
@@ -3167,6 +3320,9 @@
             },
             "variant_name": {
                 "S": "White"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -3254,6 +3410,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Bobby Socks"
             },
@@ -3289,6 +3448,9 @@
             },
             "variant_name": {
                 "S": "Gray"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -3376,6 +3538,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Bobby Socks"
             },
@@ -3411,6 +3576,9 @@
             },
             "variant_name": {
                 "S": "Black"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -3498,6 +3666,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Bobby Socks"
             },
@@ -3533,6 +3704,9 @@
             },
             "variant_name": {
                 "S": "Brown"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -3620,6 +3794,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Color-blocked Socks"
             },
@@ -3655,6 +3832,9 @@
             },
             "variant_name": {
                 "S": "White"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -3742,6 +3922,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Color-blocked Socks"
             },
@@ -3777,6 +3960,9 @@
             },
             "variant_name": {
                 "S": "Pink"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -3864,6 +4050,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Color-blocked Socks"
             },
@@ -3899,6 +4088,9 @@
             },
             "variant_name": {
                 "S": "Lime"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -3986,6 +4178,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Color-blocked Socks"
             },
@@ -4021,6 +4216,9 @@
             },
             "variant_name": {
                 "S": "Green"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -4108,6 +4306,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Color-blocked Socks"
             },
@@ -4143,6 +4344,9 @@
             },
             "variant_name": {
                 "S": "Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -4230,6 +4434,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Color-blocked Socks"
             },
@@ -4265,6 +4472,9 @@
             },
             "variant_name": {
                 "S": "Purple"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -4352,6 +4562,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Color-blocked Socks"
             },
@@ -4387,6 +4600,9 @@
             },
             "variant_name": {
                 "S": "Brown"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -4474,6 +4690,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Color-blocked Socks"
             },
@@ -4509,6 +4728,9 @@
             },
             "variant_name": {
                 "S": "Beige"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -4596,6 +4818,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Compression Tights"
             },
@@ -4631,6 +4856,9 @@
             },
             "variant_name": {
                 "S": "Red"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -4718,6 +4946,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Compression Tights"
             },
@@ -4753,6 +4984,9 @@
             },
             "variant_name": {
                 "S": "Pink"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -4840,6 +5074,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Compression Tights"
             },
@@ -4875,6 +5112,9 @@
             },
             "variant_name": {
                 "S": "Yellow"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -4962,6 +5202,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Compression Tights"
             },
@@ -4997,6 +5240,9 @@
             },
             "variant_name": {
                 "S": "Mint"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -5084,6 +5330,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Compression Tights"
             },
@@ -5119,6 +5368,9 @@
             },
             "variant_name": {
                 "S": "Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -5206,6 +5458,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Country Socks"
             },
@@ -5241,6 +5496,9 @@
             },
             "variant_name": {
                 "S": "Black Ribbons"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -5328,6 +5586,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Country Socks"
             },
@@ -5363,6 +5624,9 @@
             },
             "variant_name": {
                 "S": "Red Ribbons"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -5450,6 +5714,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Country Socks"
             },
@@ -5485,6 +5752,9 @@
             },
             "variant_name": {
                 "S": "Green Ribbons"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -5572,6 +5842,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Country Socks"
             },
@@ -5607,6 +5880,9 @@
             },
             "variant_name": {
                 "S": "Blue Ribbons"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -5694,6 +5970,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Crocheted Socks"
             },
@@ -5729,6 +6008,9 @@
             },
             "variant_name": {
                 "S": "Gray"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -5816,6 +6098,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Crocheted Socks"
             },
@@ -5851,6 +6136,9 @@
             },
             "variant_name": {
                 "S": "Purple"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -5938,6 +6226,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Crocheted Socks"
             },
@@ -5973,6 +6264,9 @@
             },
             "variant_name": {
                 "S": "Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -6060,6 +6354,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Crocheted Socks"
             },
@@ -6095,6 +6392,9 @@
             },
             "variant_name": {
                 "S": "Beige"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -6182,6 +6482,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "All Year"
+            },
             "name": {
                 "S": "Denim Leggings"
             },
@@ -6217,6 +6520,9 @@
             },
             "variant_name": {
                 "S": "Indigo Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -6304,6 +6610,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Denim Leggings"
             },
@@ -6339,6 +6648,9 @@
             },
             "variant_name": {
                 "S": "Light Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -6426,6 +6738,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Denim Leggings"
             },
@@ -6461,6 +6776,9 @@
             },
             "variant_name": {
                 "S": "Saxon Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -6548,6 +6866,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Denim Leggings"
             },
@@ -6583,6 +6904,9 @@
             },
             "variant_name": {
                 "S": "Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -6670,6 +6994,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "Winter"
+            },
             "name": {
                 "S": "Dotted Knee-high Socks"
             },
@@ -6705,6 +7032,9 @@
             },
             "variant_name": {
                 "S": "Gray"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -6792,6 +7122,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "Winter"
+            },
             "name": {
                 "S": "Dotted Knee-high Socks"
             },
@@ -6827,6 +7160,9 @@
             },
             "variant_name": {
                 "S": "Black"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -6914,6 +7250,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Dotted Knee-high Socks"
             },
@@ -6949,6 +7288,9 @@
             },
             "variant_name": {
                 "S": "Yellow"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -7036,6 +7378,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Dotted Knee-high Socks"
             },
@@ -7071,6 +7416,9 @@
             },
             "variant_name": {
                 "S": "Cyan"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -7158,6 +7506,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Embroidered-flower Tights"
             },
@@ -7193,6 +7544,9 @@
             },
             "variant_name": {
                 "S": "Black"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -7280,6 +7634,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Embroidered-flower Tights"
             },
@@ -7315,6 +7672,9 @@
             },
             "variant_name": {
                 "S": "Green"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -7402,6 +7762,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Embroidered-flower Tights"
             },
@@ -7437,6 +7800,9 @@
             },
             "variant_name": {
                 "S": "Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -7524,6 +7890,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Embroidered-flower Tights"
             },
@@ -7559,6 +7928,9 @@
             },
             "variant_name": {
                 "S": "Purple"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -7646,6 +8018,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Embroidered-flower Tights"
             },
@@ -7681,6 +8056,9 @@
             },
             "variant_name": {
                 "S": "Brown"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -7768,6 +8146,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Embroidered-flower Tights"
             },
@@ -7803,6 +8184,9 @@
             },
             "variant_name": {
                 "S": "Beige"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -7890,6 +8274,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "Summer"
+            },
             "name": {
                 "S": "Everyday Socks"
             },
@@ -7925,6 +8312,9 @@
             },
             "variant_name": {
                 "S": "White"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -8012,6 +8402,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Everyday Socks"
             },
@@ -8047,6 +8440,9 @@
             },
             "variant_name": {
                 "S": "Gray"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -8134,6 +8530,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Everyday Socks"
             },
@@ -8169,6 +8568,9 @@
             },
             "variant_name": {
                 "S": "Black"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -8256,6 +8658,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "Winter"
+            },
             "name": {
                 "S": "Everyday Socks"
             },
@@ -8291,6 +8696,9 @@
             },
             "variant_name": {
                 "S": "Navy Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -8378,6 +8786,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Everyday Socks"
             },
@@ -8413,6 +8824,9 @@
             },
             "variant_name": {
                 "S": "Brown"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -8500,6 +8914,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Everyday Socks"
             },
@@ -8535,6 +8952,9 @@
             },
             "variant_name": {
                 "S": "Beige"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -8622,6 +9042,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "Summer; Winter"
+            },
             "name": {
                 "S": "Everyday Tights"
             },
@@ -8657,6 +9080,9 @@
             },
             "variant_name": {
                 "S": "White"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -8744,6 +9170,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "All Year"
+            },
             "name": {
                 "S": "Everyday Tights"
             },
@@ -8779,6 +9208,9 @@
             },
             "variant_name": {
                 "S": "Light Gray"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -8866,6 +9298,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "Winter"
+            },
             "name": {
                 "S": "Everyday Tights"
             },
@@ -8901,6 +9336,9 @@
             },
             "variant_name": {
                 "S": "Gray"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -8988,6 +9426,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "All Year"
+            },
             "name": {
                 "S": "Everyday Tights"
             },
@@ -9023,6 +9464,9 @@
             },
             "variant_name": {
                 "S": "Black"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -9110,6 +9554,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "All Year"
+            },
             "name": {
                 "S": "Everyday Tights"
             },
@@ -9145,6 +9592,9 @@
             },
             "variant_name": {
                 "S": "Navy Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -9232,6 +9682,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "Summer"
+            },
             "name": {
                 "S": "Everyday Tights"
             },
@@ -9267,6 +9720,9 @@
             },
             "variant_name": {
                 "S": "Beige"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -9354,6 +9810,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Fishnet Tights"
             },
@@ -9389,6 +9848,9 @@
             },
             "variant_name": {
                 "S": "White"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -9476,6 +9938,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "All Year"
+            },
             "name": {
                 "S": "Fishnet Tights"
             },
@@ -9511,6 +9976,9 @@
             },
             "variant_name": {
                 "S": "Black"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -9598,6 +10066,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Fishnet Tights"
             },
@@ -9633,6 +10104,9 @@
             },
             "variant_name": {
                 "S": "Red"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -9720,6 +10194,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "All Year"
+            },
             "name": {
                 "S": "Flowery-dot Tights"
             },
@@ -9755,6 +10232,9 @@
             },
             "variant_name": {
                 "S": "White"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -9842,6 +10322,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "Winter"
+            },
             "name": {
                 "S": "Flowery-dot Tights"
             },
@@ -9877,6 +10360,9 @@
             },
             "variant_name": {
                 "S": "Black"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -9964,6 +10450,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Flowery-dot Tights"
             },
@@ -9999,6 +10488,9 @@
             },
             "variant_name": {
                 "S": "Pink"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -10086,6 +10578,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Flowery-dot Tights"
             },
@@ -10121,6 +10616,9 @@
             },
             "variant_name": {
                 "S": "Yellow"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -10208,6 +10706,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Flowery-dot Tights"
             },
@@ -10243,6 +10744,9 @@
             },
             "variant_name": {
                 "S": "Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -10330,6 +10834,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Frilly Knee-high Socks"
             },
@@ -10365,6 +10872,9 @@
             },
             "variant_name": {
                 "S": "Black"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -10452,6 +10962,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Frilly Knee-high Socks"
             },
@@ -10487,6 +11000,9 @@
             },
             "variant_name": {
                 "S": "Red"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -10574,6 +11090,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Frilly Knee-high Socks"
             },
@@ -10609,6 +11128,9 @@
             },
             "variant_name": {
                 "S": "Pink"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -10696,6 +11218,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Frilly Knee-high Socks"
             },
@@ -10731,6 +11256,9 @@
             },
             "variant_name": {
                 "S": "Brown"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -10818,6 +11346,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Frilly Knee-high Socks"
             },
@@ -10853,6 +11384,9 @@
             },
             "variant_name": {
                 "S": "Yellow"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -10940,6 +11474,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Frilly Knee-high Socks"
             },
@@ -10975,6 +11512,9 @@
             },
             "variant_name": {
                 "S": "Green"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -11062,6 +11602,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Frilly Knee-high Socks"
             },
@@ -11097,6 +11640,9 @@
             },
             "variant_name": {
                 "S": "Mint"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -11184,6 +11730,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Frilly Knee-high Socks"
             },
@@ -11219,6 +11768,9 @@
             },
             "variant_name": {
                 "S": "Purple"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -11306,6 +11858,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Frilly Socks"
             },
@@ -11341,6 +11896,9 @@
             },
             "variant_name": {
                 "S": "White"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -11428,6 +11986,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Frilly Socks"
             },
@@ -11463,6 +12024,9 @@
             },
             "variant_name": {
                 "S": "Pink"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -11550,6 +12114,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Frilly Socks"
             },
@@ -11585,6 +12152,9 @@
             },
             "variant_name": {
                 "S": "Yellow"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -11672,6 +12242,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Frilly Socks"
             },
@@ -11707,6 +12280,9 @@
             },
             "variant_name": {
                 "S": "Green"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -11794,6 +12370,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Frilly Socks"
             },
@@ -11829,6 +12408,9 @@
             },
             "variant_name": {
                 "S": "Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -11916,6 +12498,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Frilly Socks"
             },
@@ -11951,6 +12536,9 @@
             },
             "variant_name": {
                 "S": "Purple"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -12038,6 +12626,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Funny-face Socks"
             },
@@ -12073,6 +12664,9 @@
             },
             "variant_name": {
                 "S": "Black"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -12160,6 +12754,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Funny-face Socks"
             },
@@ -12195,6 +12792,9 @@
             },
             "variant_name": {
                 "S": "Red"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -12282,6 +12882,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Funny-face Socks"
             },
@@ -12317,6 +12920,9 @@
             },
             "variant_name": {
                 "S": "Pink"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -12404,6 +13010,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Funny-face Socks"
             },
@@ -12439,6 +13048,9 @@
             },
             "variant_name": {
                 "S": "Green"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -12526,6 +13138,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Funny-face Socks"
             },
@@ -12561,6 +13176,9 @@
             },
             "variant_name": {
                 "S": "Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -12648,6 +13266,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Garter Socks"
             },
@@ -12683,6 +13304,9 @@
             },
             "variant_name": {
                 "S": "White"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -12770,6 +13394,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Garter Socks"
             },
@@ -12805,6 +13432,9 @@
             },
             "variant_name": {
                 "S": "Black"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -12892,6 +13522,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Garter Socks"
             },
@@ -12927,6 +13560,9 @@
             },
             "variant_name": {
                 "S": "Red"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -13014,6 +13650,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Garter Socks"
             },
@@ -13049,6 +13688,9 @@
             },
             "variant_name": {
                 "S": "Purple"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -13136,6 +13778,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Geometric-print Socks"
             },
@@ -13171,6 +13816,9 @@
             },
             "variant_name": {
                 "S": "Pink"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -13258,6 +13906,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Geometric-print Socks"
             },
@@ -13293,6 +13944,9 @@
             },
             "variant_name": {
                 "S": "Yellow"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -13380,6 +14034,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Geometric-print Socks"
             },
@@ -13415,6 +14072,9 @@
             },
             "variant_name": {
                 "S": "Green"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -13502,6 +14162,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Geometric-print Socks"
             },
@@ -13537,6 +14200,9 @@
             },
             "variant_name": {
                 "S": "Peacock Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -13624,6 +14290,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Geometric-print Socks"
             },
@@ -13659,6 +14328,9 @@
             },
             "variant_name": {
                 "S": "Purple"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -13746,6 +14418,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Geometric-print Socks"
             },
@@ -13781,6 +14456,9 @@
             },
             "variant_name": {
                 "S": "Beige"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -13868,6 +14546,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Hand-knit Socks"
             },
@@ -13903,6 +14584,9 @@
             },
             "variant_name": {
                 "S": "Orange"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -13990,6 +14674,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Hand-knit Socks"
             },
@@ -14025,6 +14712,9 @@
             },
             "variant_name": {
                 "S": "Green"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -14112,6 +14802,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Hand-knit Socks"
             },
@@ -14147,6 +14840,9 @@
             },
             "variant_name": {
                 "S": "Purple"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -14234,6 +14930,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Holey Socks"
             },
@@ -14269,6 +14968,9 @@
             },
             "variant_name": {
                 "S": "Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -14356,6 +15058,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Holey Socks"
             },
@@ -14391,6 +15096,9 @@
             },
             "variant_name": {
                 "S": "Navy Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -14478,6 +15186,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Holey Socks"
             },
@@ -14513,6 +15224,9 @@
             },
             "variant_name": {
                 "S": "White"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -14600,6 +15314,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Holey Tights"
             },
@@ -14635,6 +15352,9 @@
             },
             "variant_name": {
                 "S": "Black"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -14722,6 +15442,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "Winter"
+            },
             "name": {
                 "S": "Holey Tights"
             },
@@ -14757,6 +15480,9 @@
             },
             "variant_name": {
                 "S": "Red"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -14844,6 +15570,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Holey Tights"
             },
@@ -14879,6 +15608,9 @@
             },
             "variant_name": {
                 "S": "Pink"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -14966,6 +15698,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Holey Tights"
             },
@@ -15001,6 +15736,9 @@
             },
             "variant_name": {
                 "S": "Yellow"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -15088,6 +15826,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Holey Tights"
             },
@@ -15123,6 +15864,9 @@
             },
             "variant_name": {
                 "S": "Green"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -15210,6 +15954,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Holey Tights"
             },
@@ -15245,6 +15992,9 @@
             },
             "variant_name": {
                 "S": "Light Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -15332,6 +16082,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Holey Tights"
             },
@@ -15367,6 +16120,9 @@
             },
             "variant_name": {
                 "S": "Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -15454,6 +16210,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Holey Tights"
             },
@@ -15489,6 +16248,9 @@
             },
             "variant_name": {
                 "S": "Purple"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -15576,6 +16338,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Horizontal-striped Tights"
             },
@@ -15611,6 +16376,9 @@
             },
             "variant_name": {
                 "S": "White"
+            },
+            "version_added": {
+                "S": "1.5.0"
             }
         },
         "TableName": "clothing_sock"
@@ -15698,6 +16466,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Horizontal-striped Tights"
             },
@@ -15733,6 +16504,9 @@
             },
             "variant_name": {
                 "S": "Black"
+            },
+            "version_added": {
+                "S": "1.5.0"
             }
         },
         "TableName": "clothing_sock"
@@ -15820,6 +16594,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Horizontal-striped Tights"
             },
@@ -15855,6 +16632,9 @@
             },
             "variant_name": {
                 "S": "Red"
+            },
+            "version_added": {
+                "S": "1.5.0"
             }
         },
         "TableName": "clothing_sock"
@@ -15942,6 +16722,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Horizontal-striped Tights"
             },
@@ -15977,6 +16760,9 @@
             },
             "variant_name": {
                 "S": "Orange"
+            },
+            "version_added": {
+                "S": "1.5.0"
             }
         },
         "TableName": "clothing_sock"
@@ -16064,6 +16850,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Horizontal-striped Tights"
             },
@@ -16099,6 +16888,9 @@
             },
             "variant_name": {
                 "S": "Green"
+            },
+            "version_added": {
+                "S": "1.5.0"
             }
         },
         "TableName": "clothing_sock"
@@ -16186,6 +16978,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Horizontal-striped Tights"
             },
@@ -16221,6 +17016,9 @@
             },
             "variant_name": {
                 "S": "Purple"
+            },
+            "version_added": {
+                "S": "1.5.0"
             }
         },
         "TableName": "clothing_sock"
@@ -16308,6 +17106,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Kerokerokeroppi socks"
             },
@@ -16343,6 +17144,9 @@
             },
             "variant_name": {
                 "NULL": true
+            },
+            "version_added": {
+                "S": "1.9.0"
             }
         },
         "TableName": "clothing_sock"
@@ -16430,6 +17234,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Kiddie Socks"
             },
@@ -16465,6 +17272,9 @@
             },
             "variant_name": {
                 "S": "Black & Gray"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -16552,6 +17362,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Kiddie Socks"
             },
@@ -16587,6 +17400,9 @@
             },
             "variant_name": {
                 "S": "Red & Light Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -16674,6 +17490,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Kiddie Socks"
             },
@@ -16709,6 +17528,9 @@
             },
             "variant_name": {
                 "S": "Pink & Yellow"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -16796,6 +17618,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Kiddie Socks"
             },
@@ -16831,6 +17656,9 @@
             },
             "variant_name": {
                 "S": "Yellow & Purple"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -16918,6 +17746,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Kiddie Socks"
             },
@@ -16953,6 +17784,9 @@
             },
             "variant_name": {
                 "S": "Lime & Pink"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -17040,6 +17874,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Kiddie Socks"
             },
@@ -17075,6 +17912,9 @@
             },
             "variant_name": {
                 "S": "Light Blue & Red"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -17162,6 +18002,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Kiddie Socks"
             },
@@ -17197,6 +18040,9 @@
             },
             "variant_name": {
                 "S": "Blue & Orange"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -17284,6 +18130,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Kiddie Socks"
             },
@@ -17319,6 +18168,9 @@
             },
             "variant_name": {
                 "S": "Purple & Green"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -17406,6 +18258,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Kiki & Lala socks"
             },
@@ -17441,6 +18296,9 @@
             },
             "variant_name": {
                 "NULL": true
+            },
+            "version_added": {
+                "S": "1.9.0"
             }
         },
         "TableName": "clothing_sock"
@@ -17528,6 +18386,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Knee Bandages"
             },
@@ -17563,6 +18424,9 @@
             },
             "variant_name": {
                 "NULL": true
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -17650,6 +18514,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Knee Braces"
             },
@@ -17685,6 +18552,9 @@
             },
             "variant_name": {
                 "S": "Black & Red"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -17772,6 +18642,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Knee Braces"
             },
@@ -17807,6 +18680,9 @@
             },
             "variant_name": {
                 "S": "Black & Blue"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -17894,6 +18770,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Knee Braces"
             },
@@ -17929,6 +18808,9 @@
             },
             "variant_name": {
                 "S": "Black & Yellow"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -18016,6 +18898,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Knee Braces"
             },
@@ -18051,6 +18936,9 @@
             },
             "variant_name": {
                 "S": "Black & Pink"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -18138,6 +19026,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Knee Braces"
             },
@@ -18173,6 +19064,9 @@
             },
             "variant_name": {
                 "S": "White & Black"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -18260,6 +19154,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Labelle socks"
             },
@@ -18295,6 +19192,9 @@
             },
             "variant_name": {
                 "S": "Midnight"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -18382,6 +19282,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Labelle socks"
             },
@@ -18417,6 +19320,9 @@
             },
             "variant_name": {
                 "S": "Passion"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -18504,6 +19410,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Labelle socks"
             },
@@ -18539,6 +19448,9 @@
             },
             "variant_name": {
                 "S": "Love"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -18626,6 +19538,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Labelle socks"
             },
@@ -18661,6 +19576,9 @@
             },
             "variant_name": {
                 "S": "Sunset"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -18748,6 +19666,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Labelle socks"
             },
@@ -18783,6 +19704,9 @@
             },
             "variant_name": {
                 "S": "Ocean"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -18870,6 +19794,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Labelle socks"
             },
@@ -18905,6 +19832,9 @@
             },
             "variant_name": {
                 "S": "Twilight"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -18992,6 +19922,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Labelle tights"
             },
@@ -19027,6 +19960,9 @@
             },
             "variant_name": {
                 "S": "Midnight"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -19114,6 +20050,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Labelle tights"
             },
@@ -19149,6 +20088,9 @@
             },
             "variant_name": {
                 "S": "Passion"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -19236,6 +20178,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Labelle tights"
             },
@@ -19271,6 +20216,9 @@
             },
             "variant_name": {
                 "S": "Love"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -19358,6 +20306,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Labelle tights"
             },
@@ -19393,6 +20344,9 @@
             },
             "variant_name": {
                 "S": "Sunset"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -19480,6 +20434,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Labelle tights"
             },
@@ -19515,6 +20472,9 @@
             },
             "variant_name": {
                 "S": "Ocean"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -19602,6 +20562,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Labelle tights"
             },
@@ -19637,6 +20600,9 @@
             },
             "variant_name": {
                 "S": "Twilight"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -19724,6 +20690,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Lace Socks"
             },
@@ -19759,6 +20728,9 @@
             },
             "variant_name": {
                 "S": "White"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -19846,6 +20818,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Lace Socks"
             },
@@ -19881,6 +20856,9 @@
             },
             "variant_name": {
                 "S": "Black"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -19968,6 +20946,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Lace Socks"
             },
@@ -20003,6 +20984,9 @@
             },
             "variant_name": {
                 "S": "Pink"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -20090,6 +21074,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Lace Socks"
             },
@@ -20125,6 +21112,9 @@
             },
             "variant_name": {
                 "S": "Green"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -20212,6 +21202,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Lace Socks"
             },
@@ -20247,6 +21240,9 @@
             },
             "variant_name": {
                 "S": "Beige"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -20334,6 +21330,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Layered Socks"
             },
@@ -20369,6 +21368,9 @@
             },
             "variant_name": {
                 "S": "Red"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -20456,6 +21458,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Layered Socks"
             },
@@ -20491,6 +21496,9 @@
             },
             "variant_name": {
                 "S": "Orange"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -20578,6 +21586,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Layered Socks"
             },
@@ -20613,6 +21624,9 @@
             },
             "variant_name": {
                 "S": "Yellow"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -20700,6 +21714,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "Winter"
+            },
             "name": {
                 "S": "Layered Socks"
             },
@@ -20735,6 +21752,9 @@
             },
             "variant_name": {
                 "S": "Green"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -20822,6 +21842,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Layered Socks"
             },
@@ -20857,6 +21880,9 @@
             },
             "variant_name": {
                 "S": "Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -20944,6 +21970,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Layered Socks"
             },
@@ -20979,6 +22008,9 @@
             },
             "variant_name": {
                 "S": "Purple"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -21066,6 +22098,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Leg Warmers"
             },
@@ -21101,6 +22136,9 @@
             },
             "variant_name": {
                 "S": "Gray"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -21188,6 +22226,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Leg Warmers"
             },
@@ -21223,6 +22264,9 @@
             },
             "variant_name": {
                 "S": "Black"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -21310,6 +22354,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Leg Warmers"
             },
@@ -21345,6 +22392,9 @@
             },
             "variant_name": {
                 "S": "Pink"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -21432,6 +22482,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Leg Warmers"
             },
@@ -21467,6 +22520,9 @@
             },
             "variant_name": {
                 "S": "Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -21554,6 +22610,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Leg Warmers"
             },
@@ -21589,6 +22648,9 @@
             },
             "variant_name": {
                 "S": "Purple"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -21676,6 +22738,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Leg Warmers"
             },
@@ -21711,6 +22776,9 @@
             },
             "variant_name": {
                 "S": "Light Purple"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -21798,6 +22866,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Mixed-tweed Socks"
             },
@@ -21833,6 +22904,9 @@
             },
             "variant_name": {
                 "S": "Red"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -21920,6 +22994,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Mixed-tweed Socks"
             },
@@ -21955,6 +23032,9 @@
             },
             "variant_name": {
                 "S": "Orange"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -22042,6 +23122,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Mixed-tweed Socks"
             },
@@ -22077,6 +23160,9 @@
             },
             "variant_name": {
                 "S": "Lime"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -22164,6 +23250,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "Summer"
+            },
             "name": {
                 "S": "Mixed-tweed Socks"
             },
@@ -22199,6 +23288,9 @@
             },
             "variant_name": {
                 "S": "Avocado"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -22286,6 +23378,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Mixed-tweed Socks"
             },
@@ -22321,6 +23416,9 @@
             },
             "variant_name": {
                 "S": "Light Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -22408,6 +23506,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Mixed-tweed Socks"
             },
@@ -22443,6 +23544,9 @@
             },
             "variant_name": {
                 "S": "Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -22530,6 +23634,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Mixed-tweed Socks"
             },
@@ -22565,6 +23672,9 @@
             },
             "variant_name": {
                 "S": "Purple"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -22652,6 +23762,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Mixed-tweed Socks"
             },
@@ -22687,6 +23800,9 @@
             },
             "variant_name": {
                 "S": "Pink"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -22774,6 +23890,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "All Year"
+            },
             "name": {
                 "S": "Neon Leggings"
             },
@@ -22809,6 +23928,9 @@
             },
             "variant_name": {
                 "S": "Pink"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -22896,6 +24018,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Neon Leggings"
             },
@@ -22931,6 +24056,9 @@
             },
             "variant_name": {
                 "S": "Orange"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -23018,6 +24146,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Neon Leggings"
             },
@@ -23053,6 +24184,9 @@
             },
             "variant_name": {
                 "S": "Yellow"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -23140,6 +24274,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Neon Leggings"
             },
@@ -23175,6 +24312,9 @@
             },
             "variant_name": {
                 "S": "Green"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -23262,6 +24402,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Neon Leggings"
             },
@@ -23297,6 +24440,9 @@
             },
             "variant_name": {
                 "S": "Purple"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -23384,6 +24530,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Neon Tights"
             },
@@ -23419,6 +24568,9 @@
             },
             "variant_name": {
                 "S": "Pink"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -23506,6 +24658,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "All Year"
+            },
             "name": {
                 "S": "Neon Tights"
             },
@@ -23541,6 +24696,9 @@
             },
             "variant_name": {
                 "S": "Orange"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -23628,6 +24786,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Neon Tights"
             },
@@ -23663,6 +24824,9 @@
             },
             "variant_name": {
                 "S": "Yellow"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -23750,6 +24914,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "All Year"
+            },
             "name": {
                 "S": "Neon Tights"
             },
@@ -23785,6 +24952,9 @@
             },
             "variant_name": {
                 "S": "Green"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -23872,6 +25042,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Neon Tights"
             },
@@ -23907,6 +25080,9 @@
             },
             "variant_name": {
                 "S": "Purple"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -23994,6 +25170,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "All Year"
+            },
             "name": {
                 "S": "No-show Socks"
             },
@@ -24029,6 +25208,9 @@
             },
             "variant_name": {
                 "S": "White"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -24116,6 +25298,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "Summer"
+            },
             "name": {
                 "S": "No-show Socks"
             },
@@ -24151,6 +25336,9 @@
             },
             "variant_name": {
                 "S": "Gray"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -24238,6 +25426,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "No-show Socks"
             },
@@ -24273,6 +25464,9 @@
             },
             "variant_name": {
                 "S": "Berry Red"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -24360,6 +25554,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "No-show Socks"
             },
@@ -24395,6 +25592,9 @@
             },
             "variant_name": {
                 "S": "Orange"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -24482,6 +25682,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "No-show Socks"
             },
@@ -24517,6 +25720,9 @@
             },
             "variant_name": {
                 "S": "Yellow"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -24604,6 +25810,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "No-show Socks"
             },
@@ -24639,6 +25848,9 @@
             },
             "variant_name": {
                 "S": "Green"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -24726,6 +25938,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "All Year"
+            },
             "name": {
                 "S": "No-show Socks"
             },
@@ -24761,6 +25976,9 @@
             },
             "variant_name": {
                 "S": "Light Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -24848,6 +26066,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "No-show Socks"
             },
@@ -24883,6 +26104,9 @@
             },
             "variant_name": {
                 "S": "Navy Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -24970,6 +26194,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Nook Inc. socks"
             },
@@ -25005,6 +26232,9 @@
             },
             "variant_name": {
                 "NULL": true
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -25092,6 +26322,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Nordic Socks"
             },
@@ -25127,6 +26360,9 @@
             },
             "variant_name": {
                 "S": "Gray"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -25214,6 +26450,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "Winter"
+            },
             "name": {
                 "S": "Nordic Socks"
             },
@@ -25249,6 +26488,9 @@
             },
             "variant_name": {
                 "S": "Red"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -25336,6 +26578,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "Winter"
+            },
             "name": {
                 "S": "Nordic Socks"
             },
@@ -25371,6 +26616,9 @@
             },
             "variant_name": {
                 "S": "Green"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -25458,6 +26706,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Nordic Socks"
             },
@@ -25493,6 +26744,9 @@
             },
             "variant_name": {
                 "S": "Light Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -25580,6 +26834,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Nordic Socks"
             },
@@ -25615,6 +26872,9 @@
             },
             "variant_name": {
                 "S": "Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -25702,6 +26962,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Nordic Socks"
             },
@@ -25737,6 +27000,9 @@
             },
             "variant_name": {
                 "S": "Navy Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -25824,6 +27090,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Nordic Socks"
             },
@@ -25859,6 +27128,9 @@
             },
             "variant_name": {
                 "S": "Ivory"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -25946,6 +27218,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Patterned Stockings"
             },
@@ -25981,6 +27256,9 @@
             },
             "variant_name": {
                 "S": "White"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -26068,6 +27346,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "All Year"
+            },
             "name": {
                 "S": "Patterned Stockings"
             },
@@ -26103,6 +27384,9 @@
             },
             "variant_name": {
                 "S": "Black"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -26190,6 +27474,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Pom-pom Socks"
             },
@@ -26225,6 +27512,9 @@
             },
             "variant_name": {
                 "S": "Pink"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -26312,6 +27602,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Pom-pom Socks"
             },
@@ -26347,6 +27640,9 @@
             },
             "variant_name": {
                 "S": "Orange"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -26434,6 +27730,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Pom-pom Socks"
             },
@@ -26469,6 +27768,9 @@
             },
             "variant_name": {
                 "S": "Green"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -26556,6 +27858,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Pom-pom Socks"
             },
@@ -26591,6 +27896,9 @@
             },
             "variant_name": {
                 "S": "Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -26678,6 +27986,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Pom-pom Socks"
             },
@@ -26713,6 +28024,9 @@
             },
             "variant_name": {
                 "S": "Purple"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -26800,6 +28114,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Puckered Socks"
             },
@@ -26835,6 +28152,9 @@
             },
             "variant_name": {
                 "S": "Red"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -26922,6 +28242,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Puckered Socks"
             },
@@ -26957,6 +28280,9 @@
             },
             "variant_name": {
                 "S": "Mustard"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -27044,6 +28370,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Puckered Socks"
             },
@@ -27079,6 +28408,9 @@
             },
             "variant_name": {
                 "S": "Green"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -27166,6 +28498,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Puckered Socks"
             },
@@ -27201,6 +28536,9 @@
             },
             "variant_name": {
                 "S": "Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -27288,6 +28626,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Puckered Socks"
             },
@@ -27323,6 +28664,9 @@
             },
             "variant_name": {
                 "S": "Purple"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -27410,6 +28754,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Running Tights"
             },
@@ -27445,6 +28792,9 @@
             },
             "variant_name": {
                 "S": "Pink"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -27532,6 +28882,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Running Tights"
             },
@@ -27567,6 +28920,9 @@
             },
             "variant_name": {
                 "S": "Yellow"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -27654,6 +29010,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Running Tights"
             },
@@ -27689,6 +29048,9 @@
             },
             "variant_name": {
                 "S": "Green"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -27776,6 +29138,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "All Year"
+            },
             "name": {
                 "S": "Running Tights"
             },
@@ -27811,6 +29176,9 @@
             },
             "variant_name": {
                 "S": "Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -27898,6 +29266,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Semi-opaque Socks"
             },
@@ -27933,6 +29304,9 @@
             },
             "variant_name": {
                 "S": "Red"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -28020,6 +29394,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Semi-opaque Socks"
             },
@@ -28055,6 +29432,9 @@
             },
             "variant_name": {
                 "S": "Purple"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -28142,6 +29522,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Semi-opaque Socks"
             },
@@ -28177,6 +29560,9 @@
             },
             "variant_name": {
                 "S": "Camel"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -28264,6 +29650,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Semi-opaque Socks"
             },
@@ -28299,6 +29688,9 @@
             },
             "variant_name": {
                 "S": "Avocado"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -28386,6 +29778,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Semi-opaque Socks"
             },
@@ -28421,6 +29816,9 @@
             },
             "variant_name": {
                 "S": "Green"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -28508,6 +29906,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Semi-opaque Socks"
             },
@@ -28543,6 +29944,9 @@
             },
             "variant_name": {
                 "S": "Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -28630,6 +30034,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Semi-opaque Socks"
             },
@@ -28665,6 +30072,9 @@
             },
             "variant_name": {
                 "S": "Navy Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -28752,6 +30162,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Semi-opaque Socks"
             },
@@ -28787,6 +30200,9 @@
             },
             "variant_name": {
                 "S": "Brown"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -28874,6 +30290,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Semi-opaque Tights"
             },
@@ -28909,6 +30328,9 @@
             },
             "variant_name": {
                 "S": "Red"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -28996,6 +30418,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Semi-opaque Tights"
             },
@@ -29031,6 +30456,9 @@
             },
             "variant_name": {
                 "S": "Pink"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -29118,6 +30546,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Semi-opaque Tights"
             },
@@ -29153,6 +30584,9 @@
             },
             "variant_name": {
                 "S": "Brown"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -29240,6 +30674,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Semi-opaque Tights"
             },
@@ -29275,6 +30712,9 @@
             },
             "variant_name": {
                 "S": "Yellow"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -29362,6 +30802,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Semi-opaque Tights"
             },
@@ -29397,6 +30840,9 @@
             },
             "variant_name": {
                 "S": "Yellow-green"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -29484,6 +30930,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Semi-opaque Tights"
             },
@@ -29519,6 +30968,9 @@
             },
             "variant_name": {
                 "S": "Green"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -29606,6 +31058,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "Winter"
+            },
             "name": {
                 "S": "Semi-opaque Tights"
             },
@@ -29641,6 +31096,9 @@
             },
             "variant_name": {
                 "S": "Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -29728,6 +31186,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Semi-opaque Tights"
             },
@@ -29763,6 +31224,9 @@
             },
             "variant_name": {
                 "S": "Purple"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -29850,6 +31314,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Sequin Leggings"
             },
@@ -29885,6 +31352,9 @@
             },
             "variant_name": {
                 "S": "White"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -29972,6 +31442,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Sequin Leggings"
             },
@@ -30007,6 +31480,9 @@
             },
             "variant_name": {
                 "S": "Black"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -30094,6 +31570,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Sequin Leggings"
             },
@@ -30129,6 +31608,9 @@
             },
             "variant_name": {
                 "S": "Red"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -30216,6 +31698,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Sequin Leggings"
             },
@@ -30251,6 +31736,9 @@
             },
             "variant_name": {
                 "S": "Pink"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -30338,6 +31826,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Sequin Leggings"
             },
@@ -30373,6 +31864,9 @@
             },
             "variant_name": {
                 "S": "Yellow"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -30460,6 +31954,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Sequin Leggings"
             },
@@ -30495,6 +31992,9 @@
             },
             "variant_name": {
                 "S": "Green"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -30582,6 +32082,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Sequin Leggings"
             },
@@ -30617,6 +32120,9 @@
             },
             "variant_name": {
                 "S": "Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -30704,6 +32210,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Sequin Leggings"
             },
@@ -30739,6 +32248,9 @@
             },
             "variant_name": {
                 "S": "Purple"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -30826,6 +32338,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Sheer Socks"
             },
@@ -30861,6 +32376,9 @@
             },
             "variant_name": {
                 "S": "Gray"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -30948,6 +32466,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Sheer Socks"
             },
@@ -30983,6 +32504,9 @@
             },
             "variant_name": {
                 "S": "Berry Red"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -31070,6 +32594,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Sheer Socks"
             },
@@ -31105,6 +32632,9 @@
             },
             "variant_name": {
                 "S": "Green"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -31192,6 +32722,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Sheer Socks"
             },
@@ -31227,6 +32760,9 @@
             },
             "variant_name": {
                 "S": "Olive"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -31314,6 +32850,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Sheer Socks"
             },
@@ -31349,6 +32888,9 @@
             },
             "variant_name": {
                 "S": "Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -31436,6 +32978,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Sheer Socks"
             },
@@ -31471,6 +33016,9 @@
             },
             "variant_name": {
                 "S": "Brown"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -31558,6 +33106,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Simple Knee-high Socks"
             },
@@ -31593,6 +33144,9 @@
             },
             "variant_name": {
                 "S": "White"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -31680,6 +33234,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Simple Knee-high Socks"
             },
@@ -31715,6 +33272,9 @@
             },
             "variant_name": {
                 "S": "Red"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -31802,6 +33362,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Simple Knee-high Socks"
             },
@@ -31837,6 +33400,9 @@
             },
             "variant_name": {
                 "S": "Pink"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -31924,6 +33490,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Simple Knee-high Socks"
             },
@@ -31959,6 +33528,9 @@
             },
             "variant_name": {
                 "S": "Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -32046,6 +33618,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "Summer"
+            },
             "name": {
                 "S": "Simple-accent Socks"
             },
@@ -32081,6 +33656,9 @@
             },
             "variant_name": {
                 "S": "White"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -32168,6 +33746,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Simple-accent Socks"
             },
@@ -32203,6 +33784,9 @@
             },
             "variant_name": {
                 "S": "Gray"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -32290,6 +33874,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Simple-accent Socks"
             },
@@ -32325,6 +33912,9 @@
             },
             "variant_name": {
                 "S": "Black"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -32412,6 +34002,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Simple-accent Socks"
             },
@@ -32447,6 +34040,9 @@
             },
             "variant_name": {
                 "S": "Red"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -32534,6 +34130,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Simple-accent Socks"
             },
@@ -32569,6 +34168,9 @@
             },
             "variant_name": {
                 "S": "Pink"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -32656,6 +34258,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "All Year"
+            },
             "name": {
                 "S": "Simple-accent Socks"
             },
@@ -32691,6 +34296,9 @@
             },
             "variant_name": {
                 "S": "Orange"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -32778,6 +34386,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "Summer"
+            },
             "name": {
                 "S": "Simple-accent Socks"
             },
@@ -32813,6 +34424,9 @@
             },
             "variant_name": {
                 "S": "Navy Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -32900,6 +34514,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Simple-accent Socks"
             },
@@ -32935,6 +34552,9 @@
             },
             "variant_name": {
                 "S": "Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -33022,6 +34642,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Soccer Socks"
             },
@@ -33057,6 +34680,9 @@
             },
             "variant_name": {
                 "S": "White"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -33144,6 +34770,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Soccer Socks"
             },
@@ -33179,6 +34808,9 @@
             },
             "variant_name": {
                 "S": "Black"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -33266,6 +34898,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Soccer Socks"
             },
@@ -33301,6 +34936,9 @@
             },
             "variant_name": {
                 "S": "Red"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -33388,6 +35026,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Soccer Socks"
             },
@@ -33423,6 +35064,9 @@
             },
             "variant_name": {
                 "S": "Orange"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -33510,6 +35154,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Soccer Socks"
             },
@@ -33545,6 +35192,9 @@
             },
             "variant_name": {
                 "S": "Green"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -33632,6 +35282,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Soccer Socks"
             },
@@ -33667,6 +35320,9 @@
             },
             "variant_name": {
                 "S": "Light Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -33754,6 +35410,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Soccer Socks"
             },
@@ -33789,6 +35448,9 @@
             },
             "variant_name": {
                 "S": "Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -33876,6 +35538,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Spider-web Tights"
             },
@@ -33911,6 +35576,9 @@
             },
             "variant_name": {
                 "S": "White"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -33998,6 +35666,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Spider-web Tights"
             },
@@ -34033,6 +35704,9 @@
             },
             "variant_name": {
                 "S": "Black"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -34120,6 +35794,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Spider-web Tights"
             },
@@ -34155,6 +35832,9 @@
             },
             "variant_name": {
                 "S": "Orange"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -34242,6 +35922,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Spider-web Tights"
             },
@@ -34277,6 +35960,9 @@
             },
             "variant_name": {
                 "S": "Purple"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -34364,6 +36050,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Stockings"
             },
@@ -34399,6 +36088,9 @@
             },
             "variant_name": {
                 "S": "White"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -34486,6 +36178,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Stockings"
             },
@@ -34521,6 +36216,9 @@
             },
             "variant_name": {
                 "S": "Gray"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -34608,6 +36306,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Stockings"
             },
@@ -34643,6 +36344,9 @@
             },
             "variant_name": {
                 "S": "Black"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -34730,6 +36434,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Stockings"
             },
@@ -34765,6 +36472,9 @@
             },
             "variant_name": {
                 "S": "Brown"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -34852,6 +36562,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "All Year"
+            },
             "name": {
                 "S": "Stockings"
             },
@@ -34887,6 +36600,9 @@
             },
             "variant_name": {
                 "S": "Beige"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -34974,6 +36690,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Stretch Leggings"
             },
@@ -35009,6 +36728,9 @@
             },
             "variant_name": {
                 "S": "White"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -35096,6 +36818,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "All Year"
+            },
             "name": {
                 "S": "Stretch Leggings"
             },
@@ -35131,6 +36856,9 @@
             },
             "variant_name": {
                 "S": "Gray"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -35218,6 +36946,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "Summer"
+            },
             "name": {
                 "S": "Stretch Leggings"
             },
@@ -35253,6 +36984,9 @@
             },
             "variant_name": {
                 "S": "Dark Gray"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -35340,6 +37074,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "All Year"
+            },
             "name": {
                 "S": "Stretch Leggings"
             },
@@ -35375,6 +37112,9 @@
             },
             "variant_name": {
                 "S": "Black"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -35462,6 +37202,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "Winter"
+            },
             "name": {
                 "S": "Stretch Leggings"
             },
@@ -35497,6 +37240,9 @@
             },
             "variant_name": {
                 "S": "Green"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -35584,6 +37330,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Stretch Leggings"
             },
@@ -35619,6 +37368,9 @@
             },
             "variant_name": {
                 "S": "Navy Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -35706,6 +37458,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Stretch Leggings"
             },
@@ -35741,6 +37496,9 @@
             },
             "variant_name": {
                 "S": "Brown"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -35828,6 +37586,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Striped Socks"
             },
@@ -35863,6 +37624,9 @@
             },
             "variant_name": {
                 "S": "Monotone"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -35950,6 +37714,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Striped Socks"
             },
@@ -35985,6 +37752,9 @@
             },
             "variant_name": {
                 "S": "Red"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -36072,6 +37842,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Striped Socks"
             },
@@ -36107,6 +37880,9 @@
             },
             "variant_name": {
                 "S": "Orange"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -36194,6 +37970,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Striped Socks"
             },
@@ -36229,6 +38008,9 @@
             },
             "variant_name": {
                 "S": "Yellow"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -36316,6 +38098,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Striped Socks"
             },
@@ -36351,6 +38136,9 @@
             },
             "variant_name": {
                 "S": "Green"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -36438,6 +38226,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Striped Socks"
             },
@@ -36473,6 +38264,9 @@
             },
             "variant_name": {
                 "S": "Light Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -36560,6 +38354,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Striped Socks"
             },
@@ -36595,6 +38392,9 @@
             },
             "variant_name": {
                 "S": "Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -36682,6 +38482,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Striped Socks"
             },
@@ -36717,6 +38520,9 @@
             },
             "variant_name": {
                 "S": "Purple"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -36804,6 +38610,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Striped Tights"
             },
@@ -36839,6 +38648,9 @@
             },
             "variant_name": {
                 "S": "Gray"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -36926,6 +38738,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Striped Tights"
             },
@@ -36961,6 +38776,9 @@
             },
             "variant_name": {
                 "S": "Red"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -37048,6 +38866,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Striped Tights"
             },
@@ -37083,6 +38904,9 @@
             },
             "variant_name": {
                 "S": "Pink"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -37170,6 +38994,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Striped Tights"
             },
@@ -37205,6 +39032,9 @@
             },
             "variant_name": {
                 "S": "Orange"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -37292,6 +39122,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Striped Tights"
             },
@@ -37327,6 +39160,9 @@
             },
             "variant_name": {
                 "S": "Yellow"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -37414,6 +39250,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Striped Tights"
             },
@@ -37449,6 +39288,9 @@
             },
             "variant_name": {
                 "S": "Green"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -37536,6 +39378,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Striped Tights"
             },
@@ -37571,6 +39416,9 @@
             },
             "variant_name": {
                 "S": "Light Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -37658,6 +39506,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Striped Tights"
             },
@@ -37693,6 +39544,9 @@
             },
             "variant_name": {
                 "S": "Purple"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -37780,6 +39634,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Tabi"
             },
@@ -37815,6 +39672,9 @@
             },
             "variant_name": {
                 "S": "White"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -37902,6 +39762,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Tabi"
             },
@@ -37937,6 +39800,9 @@
             },
             "variant_name": {
                 "S": "Black"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -38024,6 +39890,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Tabi"
             },
@@ -38059,6 +39928,9 @@
             },
             "variant_name": {
                 "S": "Navy Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -38146,6 +40018,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Terry-cloth Socks"
             },
@@ -38181,6 +40056,9 @@
             },
             "variant_name": {
                 "S": "Gray"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -38268,6 +40146,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Terry-cloth Socks"
             },
@@ -38303,6 +40184,9 @@
             },
             "variant_name": {
                 "S": "Red"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -38390,6 +40274,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Terry-cloth Socks"
             },
@@ -38425,6 +40312,9 @@
             },
             "variant_name": {
                 "S": "Pink"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -38512,6 +40402,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Terry-cloth Socks"
             },
@@ -38547,6 +40440,9 @@
             },
             "variant_name": {
                 "S": "Green"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -38634,6 +40530,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Terry-cloth Socks"
             },
@@ -38669,6 +40568,9 @@
             },
             "variant_name": {
                 "S": "Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -38756,6 +40658,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Terry-cloth Socks"
             },
@@ -38791,6 +40696,9 @@
             },
             "variant_name": {
                 "S": "Purple"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -38878,6 +40786,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Terry-cloth Socks"
             },
@@ -38913,6 +40824,9 @@
             },
             "variant_name": {
                 "S": "Beige"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -39000,6 +40914,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Tube Socks"
             },
@@ -39035,6 +40952,9 @@
             },
             "variant_name": {
                 "S": "Red"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -39122,6 +41042,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "All Year"
+            },
             "name": {
                 "S": "Tube Socks"
             },
@@ -39157,6 +41080,9 @@
             },
             "variant_name": {
                 "S": "Orange"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -39244,6 +41170,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Tube Socks"
             },
@@ -39279,6 +41208,9 @@
             },
             "variant_name": {
                 "S": "Green"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -39366,6 +41298,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Tube Socks"
             },
@@ -39401,6 +41336,9 @@
             },
             "variant_name": {
                 "S": "Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -39488,6 +41426,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Tube Socks"
             },
@@ -39523,6 +41464,9 @@
             },
             "variant_name": {
                 "S": "Berry Red"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -39610,6 +41554,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Tube Socks"
             },
@@ -39645,6 +41592,9 @@
             },
             "variant_name": {
                 "S": "Dark Green"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -39732,6 +41682,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Tube Socks"
             },
@@ -39767,6 +41720,9 @@
             },
             "variant_name": {
                 "S": "Navy Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -39854,6 +41810,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Tube Socks"
             },
@@ -39889,6 +41848,9 @@
             },
             "variant_name": {
                 "S": "Purple"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -39976,6 +41938,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Ultra No-show Socks"
             },
@@ -40011,6 +41976,9 @@
             },
             "variant_name": {
                 "S": "White"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -40098,6 +42066,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Ultra No-show Socks"
             },
@@ -40133,6 +42104,9 @@
             },
             "variant_name": {
                 "S": "Black"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -40220,6 +42194,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Ultra No-show Socks"
             },
@@ -40255,6 +42232,9 @@
             },
             "variant_name": {
                 "S": "Pink"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -40342,6 +42322,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Ultra No-show Socks"
             },
@@ -40377,6 +42360,9 @@
             },
             "variant_name": {
                 "S": "Olive"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -40464,6 +42450,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Ultra No-show Socks"
             },
@@ -40499,6 +42488,9 @@
             },
             "variant_name": {
                 "S": "Green"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -40586,6 +42578,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Ultra No-show Socks"
             },
@@ -40621,6 +42616,9 @@
             },
             "variant_name": {
                 "S": "Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -40708,6 +42706,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Ultra No-show Socks"
             },
@@ -40743,6 +42744,9 @@
             },
             "variant_name": {
                 "S": "Purple"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -40830,6 +42834,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Ultra No-show Socks"
             },
@@ -40865,6 +42872,9 @@
             },
             "variant_name": {
                 "S": "Brown"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -40952,6 +42962,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Vivid Leggings"
             },
@@ -40987,6 +43000,9 @@
             },
             "variant_name": {
                 "S": "Red"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -41074,6 +43090,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Vivid Leggings"
             },
@@ -41109,6 +43128,9 @@
             },
             "variant_name": {
                 "S": "Pink"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -41196,6 +43218,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Vivid Leggings"
             },
@@ -41231,6 +43256,9 @@
             },
             "variant_name": {
                 "S": "Orange"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -41318,6 +43346,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Vivid Leggings"
             },
@@ -41353,6 +43384,9 @@
             },
             "variant_name": {
                 "S": "Yellow"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -41440,6 +43474,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Vivid Leggings"
             },
@@ -41475,6 +43512,9 @@
             },
             "variant_name": {
                 "S": "Green"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -41562,6 +43602,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Vivid Leggings"
             },
@@ -41597,6 +43640,9 @@
             },
             "variant_name": {
                 "S": "Light Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -41684,6 +43730,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Vivid Leggings"
             },
@@ -41719,6 +43768,9 @@
             },
             "variant_name": {
                 "S": "Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -41806,6 +43858,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Vivid Leggings"
             },
@@ -41841,6 +43896,9 @@
             },
             "variant_name": {
                 "S": "Purple"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -41928,6 +43986,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Vivid Socks"
             },
@@ -41963,6 +44024,9 @@
             },
             "variant_name": {
                 "S": "Red"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -42050,6 +44114,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Vivid Socks"
             },
@@ -42085,6 +44152,9 @@
             },
             "variant_name": {
                 "S": "Pink"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -42172,6 +44242,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Vivid Socks"
             },
@@ -42207,6 +44280,9 @@
             },
             "variant_name": {
                 "S": "Orange"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -42294,6 +44370,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Vivid Socks"
             },
@@ -42329,6 +44408,9 @@
             },
             "variant_name": {
                 "S": "Yellow"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -42416,6 +44498,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Vivid Socks"
             },
@@ -42451,6 +44536,9 @@
             },
             "variant_name": {
                 "S": "Green"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -42538,6 +44626,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Vivid Socks"
             },
@@ -42573,6 +44664,9 @@
             },
             "variant_name": {
                 "S": "Light Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -42660,6 +44754,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Vivid Socks"
             },
@@ -42695,6 +44792,9 @@
             },
             "variant_name": {
                 "S": "Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -42782,6 +44882,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Vivid Socks"
             },
@@ -42817,6 +44920,9 @@
             },
             "variant_name": {
                 "S": "Purple"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -42904,6 +45010,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Vivid Tights"
             },
@@ -42939,6 +45048,9 @@
             },
             "variant_name": {
                 "S": "Red"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -43026,6 +45138,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Vivid Tights"
             },
@@ -43061,6 +45176,9 @@
             },
             "variant_name": {
                 "S": "Pink"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -43148,6 +45266,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "All Year"
+            },
             "name": {
                 "S": "Vivid Tights"
             },
@@ -43183,6 +45304,9 @@
             },
             "variant_name": {
                 "S": "Orange"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -43270,6 +45394,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Vivid Tights"
             },
@@ -43305,6 +45432,9 @@
             },
             "variant_name": {
                 "S": "Yellow"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -43392,6 +45522,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Vivid Tights"
             },
@@ -43427,6 +45560,9 @@
             },
             "variant_name": {
                 "S": "Green"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -43514,6 +45650,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Vivid Tights"
             },
@@ -43549,6 +45688,9 @@
             },
             "variant_name": {
                 "S": "Light Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -43636,6 +45778,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Vivid Tights"
             },
@@ -43671,6 +45816,9 @@
             },
             "variant_name": {
                 "S": "Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -43758,6 +45906,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Vivid Tights"
             },
@@ -43793,6 +45944,9 @@
             },
             "variant_name": {
                 "S": "Purple"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -43880,6 +46034,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Wave-print Socks"
             },
@@ -43915,6 +46072,9 @@
             },
             "variant_name": {
                 "S": "Gray"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -44002,6 +46162,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Wave-print Socks"
             },
@@ -44037,6 +46200,9 @@
             },
             "variant_name": {
                 "S": "Green"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -44124,6 +46290,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Wave-print Socks"
             },
@@ -44159,6 +46328,9 @@
             },
             "variant_name": {
                 "S": "Blue"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -44246,6 +46418,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Wave-print Socks"
             },
@@ -44281,6 +46456,9 @@
             },
             "variant_name": {
                 "S": "Purple"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"
@@ -44368,6 +46546,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Wave-print Socks"
             },
@@ -44403,6 +46584,9 @@
             },
             "variant_name": {
                 "S": "Brown"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "clothing_sock"

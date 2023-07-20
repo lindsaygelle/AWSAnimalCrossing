@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 25,
-    "minProperties": 25,
+    "maxProperties": 26,
+    "minProperties": 26,
     "properties": {
         "buy_currency": {
             "maxLength": 5,
@@ -171,6 +171,13 @@
             "type": [
                 "string"
             ]
+        },
+        "version_added": {
+            "maxLength": 5,
+            "minLength": 5,
+            "type": [
+                "string"
+            ]
         }
     },
     "required": [
@@ -198,7 +205,8 @@
         "sell_price",
         "size_1",
         "size_2",
-        "unique_entry_id"
+        "unique_entry_id",
+        "version_added"
     ],
     "title": "FurniturePoster",
     "type": "object"

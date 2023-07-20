@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 40,
-    "minProperties": 40,
+    "maxProperties": 42,
+    "minProperties": 42,
     "properties": {
         "buy_currency": {
             "maxLength": 5,
@@ -184,6 +184,14 @@
                 "boolean"
             ]
         },
+        "mannequin_season": {
+            "maxLength": 14,
+            "minLength": 6,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
         "name": {
             "maxLength": 24,
             "minLength": 3,
@@ -277,6 +285,13 @@
                 "string"
             ]
         },
+        "version_added": {
+            "maxLength": 5,
+            "minLength": 5,
+            "type": [
+                "string"
+            ]
+        },
         "villager_gender": {
             "maxLength": 4,
             "minLength": 4,
@@ -313,6 +328,7 @@
         "is_equippable",
         "is_seasonal",
         "is_unlocked",
+        "mannequin_season",
         "name",
         "order",
         "seasonal_availability",
@@ -325,6 +341,7 @@
         "style_2",
         "unique_entry_id",
         "variant_name",
+        "version_added",
         "villager_gender"
     ],
     "title": "ClothingAccessory",

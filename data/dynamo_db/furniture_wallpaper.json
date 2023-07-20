@@ -10,6 +10,9 @@
             "catalog_category": {
                 "S": "For sale"
             },
+            "category": {
+                "S": "Cloth Walls"
+            },
             "ceiling_category": {
                 "S": "Cloth"
             },
@@ -94,6 +97,9 @@
             "unique_entry_id": {
                 "S": "FpdbDr4PMe5WdEZkA"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -116,6 +122,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Special Walls"
             },
             "ceiling_category": {
                 "S": "Cloth"
@@ -201,6 +210,9 @@
             "unique_entry_id": {
                 "S": "Z62odoapxLDBurx9r"
             },
+            "version_added": {
+                "S": "2.0.0"
+            },
             "vfx_category": {
                 "S": "Synchro"
             },
@@ -223,6 +235,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Asia"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -308,6 +323,9 @@
             "unique_entry_id": {
                 "S": "Y2pykQMhqbEoGGa62"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -330,6 +348,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Brick"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -415,6 +436,9 @@
             "unique_entry_id": {
                 "S": "ETTnjcgHmkCL56GxD"
             },
+            "version_added": {
+                "S": "2.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -437,6 +461,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "WallFacility"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -522,6 +549,9 @@
             "unique_entry_id": {
                 "S": "njfAsLH73QkJBxgg5"
             },
+            "version_added": {
+                "S": "2.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -544,6 +574,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Fruit Walls"
             },
             "ceiling_category": {
                 "S": "Cloth"
@@ -629,6 +662,9 @@
             "unique_entry_id": {
                 "S": "roJZFWataeLQK6vqa"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -651,6 +687,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Tile Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -736,6 +775,9 @@
             "unique_entry_id": {
                 "S": "6NXvjsdpxJLbd96RM"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -758,6 +800,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Special Walls"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -843,6 +888,9 @@
             "unique_entry_id": {
                 "S": "TzS5oe6a7KyBezmLS"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -865,6 +913,9 @@
             },
             "catalog_category": {
                 "S": "Seasonal"
+            },
+            "category": {
+                "S": "Special Cool Nature Walls"
             },
             "ceiling_category": {
                 "S": "Plain"
@@ -950,6 +1001,9 @@
             "unique_entry_id": {
                 "S": "9FGZqwB77ofG4cC8k"
             },
+            "version_added": {
+                "S": "1.6.0"
+            },
             "vfx_category": {
                 "S": "Synchro"
             },
@@ -972,6 +1026,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Special Warm Nature Walls"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -1057,6 +1114,9 @@
             "unique_entry_id": {
                 "S": "KfLqJKhWtys8v86ig"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "S": "Random"
             },
@@ -1079,6 +1139,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Special Cool Nature Walls"
             },
             "ceiling_category": {
                 "S": "Plain"
@@ -1164,6 +1227,9 @@
             "unique_entry_id": {
                 "S": "oPYWjEfm7BqHTYipq"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "S": "Synchro"
             },
@@ -1186,6 +1252,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Nature Walls"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -1271,6 +1340,9 @@
             "unique_entry_id": {
                 "S": "MYpD6DoNCPDw6d9t3"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -1293,6 +1365,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Nature Walls"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -1378,6 +1453,9 @@
             "unique_entry_id": {
                 "S": "LbsrED9Rwg6SHTCpa"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -1400,6 +1478,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Wood Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -1485,6 +1566,9 @@
             "unique_entry_id": {
                 "S": "MZt39wkPG6P7iWG2M"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -1507,6 +1591,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Iron Walls"
             },
             "ceiling_category": {
                 "S": "Tile"
@@ -1592,6 +1679,9 @@
             "unique_entry_id": {
                 "S": "HrgjLfo8tPzP2zpbE"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -1614,6 +1704,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Special Walls"
             },
             "ceiling_category": {
                 "S": "Tile"
@@ -1699,6 +1792,9 @@
             "unique_entry_id": {
                 "S": "FJxKPu5W2sd2YWQfA"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -1721,6 +1817,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Neta Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -1806,6 +1905,9 @@
             "unique_entry_id": {
                 "S": "x5kZ8HpHrN5mXe8wX"
             },
+            "version_added": {
+                "S": "2.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -1828,6 +1930,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Cloth Walls"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -1913,6 +2018,9 @@
             "unique_entry_id": {
                 "S": "M3mNZS2vSaHaiujcH"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -1935,6 +2043,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Art Deco Walls"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -2020,6 +2131,9 @@
             "unique_entry_id": {
                 "S": "2zmJaMB2B9i8gLTKt"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -2042,6 +2156,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Country"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -2127,6 +2244,9 @@
             "unique_entry_id": {
                 "S": "CF5325jZx7pNsqb6Z"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -2149,6 +2269,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Morocco"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -2234,6 +2357,9 @@
             "unique_entry_id": {
                 "S": "qZrgjoMjxz9ehXqa4"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -2256,6 +2382,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Wood Tile Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -2341,6 +2470,9 @@
             "unique_entry_id": {
                 "S": "PEcX9J774Ffd6Gn8S"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -2363,6 +2495,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Special Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -2448,6 +2583,9 @@
             "unique_entry_id": {
                 "S": "sQ5tk8wwoJhvHBj44"
             },
+            "version_added": {
+                "S": "2.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -2470,6 +2608,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Hall Walls"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -2555,6 +2696,9 @@
             "unique_entry_id": {
                 "S": "pQrYRHsmovBApejNJ"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -2577,6 +2721,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Pegboard Walls"
             },
             "ceiling_category": {
                 "S": "Tile"
@@ -2662,6 +2809,9 @@
             "unique_entry_id": {
                 "S": "7fMiJATy4fWP4DpoC"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -2684,6 +2834,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Two-Tone Tile Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -2769,6 +2922,9 @@
             "unique_entry_id": {
                 "S": "aF8tqscwpShhhsASx"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -2791,6 +2947,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Special Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -2876,6 +3035,9 @@
             "unique_entry_id": {
                 "S": "LXuaBG839ogDDzkPe"
             },
+            "version_added": {
+                "S": "2.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -2898,6 +3060,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Brick"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -2983,6 +3148,9 @@
             "unique_entry_id": {
                 "S": "tCex7y47sAsaD44Wm"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -3005,6 +3173,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Crown Walls"
             },
             "ceiling_category": {
                 "S": "Tile"
@@ -3090,6 +3261,9 @@
             "unique_entry_id": {
                 "S": "4cCAvP8bbCYcyAyBE"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -3112,6 +3286,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Neta Walls"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -3197,6 +3374,9 @@
             "unique_entry_id": {
                 "S": "Aseoowo4cuXJqyWaA"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -3219,6 +3399,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Country"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -3304,6 +3487,9 @@
             "unique_entry_id": {
                 "S": "SZWxorHWvT7vhGXsj"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -3326,6 +3512,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Camouflage"
             },
             "ceiling_category": {
                 "S": "Cloth"
@@ -3411,6 +3600,9 @@
             "unique_entry_id": {
                 "S": "xQ2EDvGyh76skJyX3"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -3433,6 +3625,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Manor Walls"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -3518,6 +3713,9 @@
             "unique_entry_id": {
                 "S": "7Fb4nvMvoxtCZRQv7"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -3540,6 +3738,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Diner Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -3625,6 +3826,9 @@
             "unique_entry_id": {
                 "S": "GjJT3k3neqwzenXku"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -3647,6 +3851,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Flower Walls"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -3732,6 +3939,9 @@
             "unique_entry_id": {
                 "S": "Hfm5a2EozWyQws3Tv"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -3754,6 +3964,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Heart Walls"
             },
             "ceiling_category": {
                 "S": "Cloth"
@@ -3839,6 +4052,9 @@
             "unique_entry_id": {
                 "S": "9dXvZ4H39kton3Tcj"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -3861,6 +4077,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Honeycomb"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -3946,6 +4165,9 @@
             "unique_entry_id": {
                 "S": "Fht6yazsmMqdtEYQb"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -3968,6 +4190,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Flower Pop Walls"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -4053,6 +4278,9 @@
             "unique_entry_id": {
                 "S": "p65nAJPAzQRgrjmDk"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -4075,6 +4303,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Panel Mold Walls"
             },
             "ceiling_category": {
                 "S": "Cloth"
@@ -4160,6 +4391,9 @@
             "unique_entry_id": {
                 "S": "NpLfp6Jj3N5SDZJGK"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -4182,6 +4416,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Morocco"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -4267,6 +4504,9 @@
             "unique_entry_id": {
                 "S": "vgNuogZ2JG2eZEBni"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -4289,6 +4529,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Asia"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -4374,6 +4617,9 @@
             "unique_entry_id": {
                 "S": "stCTPTZtxH5iakJzd"
             },
+            "version_added": {
+                "S": "2.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -4396,6 +4642,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Painted Wood"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -4481,6 +4730,9 @@
             "unique_entry_id": {
                 "S": "taLRgdodXzdzaAqA5"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -4503,6 +4755,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Toy Walls"
             },
             "ceiling_category": {
                 "S": "Cloth"
@@ -4588,6 +4843,9 @@
             "unique_entry_id": {
                 "S": "GFvGWj5w9m6i5eRwu"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -4610,6 +4868,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Dollhouse Walls"
             },
             "ceiling_category": {
                 "S": "Cloth"
@@ -4695,6 +4956,9 @@
             "unique_entry_id": {
                 "S": "PPTLt5GQAdAhgRkxx"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -4717,6 +4981,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Tin Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -4802,6 +5069,9 @@
             "unique_entry_id": {
                 "S": "izNEFpPcp7pZaokHC"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -4824,6 +5094,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Simple Walls"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -4909,6 +5182,9 @@
             "unique_entry_id": {
                 "S": "KEN3oXsCwXwBcrfyD"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -4931,6 +5207,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Metro Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -5016,6 +5295,9 @@
             "unique_entry_id": {
                 "S": "mJ2HZDvnKgWB4TfXD"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -5038,6 +5320,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Tile Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -5123,6 +5408,9 @@
             "unique_entry_id": {
                 "S": "gFc6NFYEbm8AqnpNu"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -5145,6 +5433,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Two-Tone Tile Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -5230,6 +5521,9 @@
             "unique_entry_id": {
                 "S": "97tHxtBzbMechYNAe"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -5252,6 +5546,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Crown Walls"
             },
             "ceiling_category": {
                 "S": "Tile"
@@ -5337,6 +5634,9 @@
             "unique_entry_id": {
                 "S": "k3b6CntCn3X84TN8X"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -5359,6 +5659,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Stucco Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -5444,6 +5747,9 @@
             "unique_entry_id": {
                 "S": "Pdr9WyCDQ9MBgG2qf"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -5466,6 +5772,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Rose Walls"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -5551,6 +5860,9 @@
             "unique_entry_id": {
                 "S": "24hAjZQPsBXg3qHgw"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -5573,6 +5885,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Stripe Walls"
             },
             "ceiling_category": {
                 "S": "Cloth"
@@ -5658,6 +5973,9 @@
             "unique_entry_id": {
                 "S": "ZN2NXtCWSxQyeY9TF"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -5680,6 +5998,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Wood Tile Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -5765,6 +6086,9 @@
             "unique_entry_id": {
                 "S": "gAvEyZiovXdKht7Db"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -5787,6 +6111,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Nature Walls"
             },
             "ceiling_category": {
                 "S": "Plain"
@@ -5872,6 +6199,9 @@
             "unique_entry_id": {
                 "S": "r6GkwPtTHqgKbKD8c"
             },
+            "version_added": {
+                "S": "2.0.0"
+            },
             "vfx_category": {
                 "S": "Synchro"
             },
@@ -5894,6 +6224,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Wood Tile Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -5979,6 +6312,9 @@
             "unique_entry_id": {
                 "S": "FBLdaz4BkJbYvtdhy"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -6001,6 +6337,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Diner Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -6086,6 +6425,9 @@
             "unique_entry_id": {
                 "S": "wtnNQikxNEJkL753p"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -6108,6 +6450,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Hall Walls"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -6193,6 +6538,9 @@
             "unique_entry_id": {
                 "S": "hFcaZ4n9ktaGNSTBE"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -6215,6 +6563,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Herringbone"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -6300,6 +6651,9 @@
             "unique_entry_id": {
                 "S": "oYALopoXWt2ZRT7Ej"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -6322,6 +6676,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Tin Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -6407,6 +6764,9 @@
             "unique_entry_id": {
                 "S": "MHxmHT82gP3odiLwv"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -6429,6 +6789,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Cloth Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -6514,6 +6877,9 @@
             "unique_entry_id": {
                 "S": "micAswPDNsNS2A2mb"
             },
+            "version_added": {
+                "S": "1.2.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -6536,6 +6902,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Brick"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -6621,6 +6990,9 @@
             "unique_entry_id": {
                 "S": "BE69b25WcF47xAqdG"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -6643,6 +7015,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Crown Walls"
             },
             "ceiling_category": {
                 "S": "Tile"
@@ -6728,6 +7103,9 @@
             "unique_entry_id": {
                 "S": "oL8aBjZoFCFKEEgAg"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -6750,6 +7128,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Cloth Walls"
             },
             "ceiling_category": {
                 "S": "Cloth"
@@ -6835,6 +7216,9 @@
             "unique_entry_id": {
                 "S": "dEoSTZADDLkvmDHuY"
             },
+            "version_added": {
+                "S": "1.1.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -6857,6 +7241,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Nature Walls"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -6942,6 +7329,9 @@
             "unique_entry_id": {
                 "S": "gJEmy4shFTnDB9Pjy"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -6964,6 +7354,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Wood Walls"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -7049,6 +7442,9 @@
             "unique_entry_id": {
                 "S": "sAEWR5uKGAXM6utL7"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -7071,6 +7467,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Special Walls"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -7156,6 +7555,9 @@
             "unique_entry_id": {
                 "S": "ficQ2fw73rzF5EJBB"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -7178,6 +7580,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Camouflage"
             },
             "ceiling_category": {
                 "S": "Cloth"
@@ -7263,6 +7668,9 @@
             "unique_entry_id": {
                 "S": "gBLHTGPLB65iZypbn"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -7285,6 +7693,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Special Inorganic Walls"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -7370,6 +7781,9 @@
             "unique_entry_id": {
                 "S": "XmH9GSRmcFZ7HfECB"
             },
+            "version_added": {
+                "S": "2.0.0"
+            },
             "vfx_category": {
                 "S": "LightOff"
             },
@@ -7392,6 +7806,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Special Cool Nature Walls"
             },
             "ceiling_category": {
                 "S": "Plain"
@@ -7477,6 +7894,9 @@
             "unique_entry_id": {
                 "S": "Qwbt8qxT8yN9XfXdR"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -7499,6 +7919,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Fruit Walls"
             },
             "ceiling_category": {
                 "S": "Cloth"
@@ -7584,6 +8007,9 @@
             "unique_entry_id": {
                 "S": "tcMuDzZqtDYs29Asm"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -7606,6 +8032,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Special Warm Nature Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -7691,6 +8120,9 @@
             "unique_entry_id": {
                 "S": "LrRvk9Twg87SSqNR4"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "S": "Random"
             },
@@ -7713,6 +8145,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Tea Room Walls"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -7798,6 +8233,9 @@
             "unique_entry_id": {
                 "S": "juLfiYnkF3x3wSAMZ"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -7820,6 +8258,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Cloth Walls"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -7905,6 +8346,9 @@
             "unique_entry_id": {
                 "S": "QMofvFznsaNcsDTqg"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -7927,6 +8371,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Hall Walls"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -8012,6 +8459,9 @@
             "unique_entry_id": {
                 "S": "WZfDqbGb3cACFJWrg"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -8034,6 +8484,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Herringbone"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -8119,6 +8572,9 @@
             "unique_entry_id": {
                 "S": "TpZxYjK6NorSqDMwu"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -8141,6 +8597,9 @@
             },
             "catalog_category": {
                 "S": "Not in catalog"
+            },
+            "category": {
+                "S": "Sanrio Walls"
             },
             "ceiling_category": {
                 "S": "Cloth"
@@ -8226,6 +8685,9 @@
             "unique_entry_id": {
                 "S": "XAaoMY22k2S8T26bA"
             },
+            "version_added": {
+                "S": "1.9.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -8248,6 +8710,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Neta Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -8333,6 +8798,9 @@
             "unique_entry_id": {
                 "S": "Ms4DDtXTTGMwXdvvy"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -8355,6 +8823,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Stripe Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -8440,6 +8911,9 @@
             "unique_entry_id": {
                 "S": "ixM9xgbth7JXjE8Mp"
             },
+            "version_added": {
+                "S": "2.0.0"
+            },
             "vfx_category": {
                 "S": "Synchro"
             },
@@ -8462,6 +8936,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Special Walls"
             },
             "ceiling_category": {
                 "S": "Cloth"
@@ -8547,6 +9024,9 @@
             "unique_entry_id": {
                 "S": "9B4hFDTD7xM8goPGs"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -8569,6 +9049,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Library Walls"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -8654,6 +9137,9 @@
             "unique_entry_id": {
                 "S": "YbYmnjKXc49cyT6GB"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -8676,6 +9162,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Special Walls"
             },
             "ceiling_category": {
                 "S": "Tile"
@@ -8761,6 +9250,9 @@
             "unique_entry_id": {
                 "S": "Dsyv8o4HCHf92g9j5"
             },
+            "version_added": {
+                "S": "2.0.0"
+            },
             "vfx_category": {
                 "S": "Synchro"
             },
@@ -8783,6 +9275,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "WallFacility"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -8868,6 +9363,9 @@
             "unique_entry_id": {
                 "S": "kzCjxQsgHnvqNcHjY"
             },
+            "version_added": {
+                "S": "2.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -8890,6 +9388,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Puzzle Walls"
             },
             "ceiling_category": {
                 "S": "Cloth"
@@ -8975,6 +9476,9 @@
             "unique_entry_id": {
                 "S": "gpsYwFiGd3coj2eBS"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -8997,6 +9501,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Tile Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -9082,6 +9589,9 @@
             "unique_entry_id": {
                 "S": "yu9xkApAW49Zhhf9i"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -9104,6 +9614,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Stone Walls"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -9189,6 +9702,9 @@
             "unique_entry_id": {
                 "S": "nLsLm3SoBAKtH5DmF"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -9211,6 +9727,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "WallFacility"
             },
             "ceiling_category": {
                 "S": "Tile"
@@ -9296,6 +9815,9 @@
             "unique_entry_id": {
                 "S": "heesFhfzdGF2Yf5sq"
             },
+            "version_added": {
+                "S": "2.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -9318,6 +9840,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Stone Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -9403,6 +9928,9 @@
             "unique_entry_id": {
                 "S": "jmixjxLNuH9jRQhyr"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -9425,6 +9953,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Neta Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -9510,6 +10041,9 @@
             "unique_entry_id": {
                 "S": "gDubZLr2wi622j5De"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -9532,6 +10066,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Japanese Style"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -9617,6 +10154,9 @@
             "unique_entry_id": {
                 "S": "dBSCiiYyny3ReAbgo"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -9639,6 +10179,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Cute Walls"
             },
             "ceiling_category": {
                 "S": "Cloth"
@@ -9724,6 +10267,9 @@
             "unique_entry_id": {
                 "S": "KFhQNtCs6tx9sj7dy"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -9746,6 +10292,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Cute Walls"
             },
             "ceiling_category": {
                 "S": "Cloth"
@@ -9831,6 +10380,9 @@
             "unique_entry_id": {
                 "S": "qYZyrdquxzvHErF5n"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -9853,6 +10405,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Cute Walls"
             },
             "ceiling_category": {
                 "S": "Cloth"
@@ -9938,6 +10493,9 @@
             "unique_entry_id": {
                 "S": "McKcAab2qjAaviYvA"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -9960,6 +10518,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Cute Walls"
             },
             "ceiling_category": {
                 "S": "Cloth"
@@ -10045,6 +10606,9 @@
             "unique_entry_id": {
                 "S": "6j8PFwiuCwkN7GP5b"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -10067,6 +10631,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Wood Plank Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -10152,6 +10719,9 @@
             "unique_entry_id": {
                 "S": "zZ6oMsuRibBQMkCA7"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -10174,6 +10744,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Chocolate"
             },
             "ceiling_category": {
                 "S": "Tile"
@@ -10259,6 +10832,9 @@
             "unique_entry_id": {
                 "S": "MWLvj23WuHrEJkMjk"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -10281,6 +10857,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Special Cool Nature Walls"
             },
             "ceiling_category": {
                 "S": "Plain"
@@ -10366,6 +10945,9 @@
             "unique_entry_id": {
                 "S": "o45mte3eFoaM3ts98"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "S": "Synchro"
             },
@@ -10388,6 +10970,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Stone Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -10473,6 +11058,9 @@
             "unique_entry_id": {
                 "S": "Rj3X2dJ5WfYu3wpMP"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -10495,6 +11083,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Stone Walls"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -10580,6 +11171,9 @@
             "unique_entry_id": {
                 "S": "LCJDGnfwuHqkgfxJB"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -10602,6 +11196,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Wood Walls"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -10687,6 +11284,9 @@
             "unique_entry_id": {
                 "S": "sLYrC9TRZJDMCZjM6"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -10709,6 +11309,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Special Inorganic Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -10794,6 +11397,9 @@
             "unique_entry_id": {
                 "S": "zcHJb34EruL2Szn87"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -10816,6 +11422,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Asia"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -10901,6 +11510,9 @@
             "unique_entry_id": {
                 "S": "TPZRP5K6z87YHs6TC"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -10923,6 +11535,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Special Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -11008,6 +11623,9 @@
             "unique_entry_id": {
                 "S": "EufJsvAbx2PSzr8jz"
             },
+            "version_added": {
+                "S": "1.6.0"
+            },
             "vfx_category": {
                 "S": "Random"
             },
@@ -11030,6 +11648,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Special Warm Nature Walls"
             },
             "ceiling_category": {
                 "S": "Plain"
@@ -11115,6 +11736,9 @@
             "unique_entry_id": {
                 "S": "poLXZmMTa2bYsAYpe"
             },
+            "version_added": {
+                "S": "1.4.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -11137,6 +11761,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Nature Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -11222,6 +11849,9 @@
             "unique_entry_id": {
                 "S": "ogwkK7pveFmag6MXj"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -11244,6 +11874,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "WallFacility"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -11329,6 +11962,9 @@
             "unique_entry_id": {
                 "S": "hMLoXRHP2DGtEfoRE"
             },
+            "version_added": {
+                "S": "2.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -11351,6 +11987,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Special Inorganic Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -11436,6 +12075,9 @@
             "unique_entry_id": {
                 "S": "JawM9P46KeFwGXdsm"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "S": "Synchro"
             },
@@ -11458,6 +12100,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Neta Walls"
             },
             "ceiling_category": {
                 "S": "Plain"
@@ -11543,6 +12188,9 @@
             "unique_entry_id": {
                 "S": "KfoTScCc4NZruFYd8"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -11565,6 +12213,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Nature Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -11650,6 +12301,9 @@
             "unique_entry_id": {
                 "S": "jMHwiBTGKCvtCF5GN"
             },
+            "version_added": {
+                "S": "2.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -11672,6 +12326,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Nature Walls"
             },
             "ceiling_category": {
                 "S": "Plain"
@@ -11757,6 +12414,9 @@
             "unique_entry_id": {
                 "S": "9R9RS7LePEZwAMDrT"
             },
+            "version_added": {
+                "S": "2.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -11779,6 +12439,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Nature Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -11864,6 +12527,9 @@
             "unique_entry_id": {
                 "S": "MpgCdjR8QPeo5TtGg"
             },
+            "version_added": {
+                "S": "2.0.0"
+            },
             "vfx_category": {
                 "S": "Synchro"
             },
@@ -11886,6 +12552,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Japanese Style"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -11971,6 +12640,9 @@
             "unique_entry_id": {
                 "S": "CucFATJt8EtZmbKFX"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -11993,6 +12665,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Asia"
             },
             "ceiling_category": {
                 "S": "Gold"
@@ -12078,6 +12753,9 @@
             "unique_entry_id": {
                 "S": "uyLj28ErYLEjpYzEF"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -12100,6 +12778,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Special Cool Nature Walls"
             },
             "ceiling_category": {
                 "S": "Plain"
@@ -12185,6 +12866,9 @@
             "unique_entry_id": {
                 "S": "aNSptq7wunS7ezfQe"
             },
+            "version_added": {
+                "S": "2.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -12207,6 +12891,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Diner Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -12292,6 +12979,9 @@
             "unique_entry_id": {
                 "S": "eTcpWCGHCzsdGRs7k"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -12314,6 +13004,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Iron Walls"
             },
             "ceiling_category": {
                 "S": "Tile"
@@ -12399,6 +13092,9 @@
             "unique_entry_id": {
                 "S": "DThEXePPszmFcsCpv"
             },
+            "version_added": {
+                "S": "2.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -12421,6 +13117,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Panel Mold Walls"
             },
             "ceiling_category": {
                 "S": "Cloth"
@@ -12506,6 +13205,9 @@
             "unique_entry_id": {
                 "S": "49g9WCb7cvS8kpqDF"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -12528,6 +13230,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Tin Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -12613,6 +13318,9 @@
             "unique_entry_id": {
                 "S": "7uz4sbe5zSfsa8PqK"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -12635,6 +13343,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "WallFacility"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -12720,6 +13431,9 @@
             "unique_entry_id": {
                 "S": "xujwrSS3Q7YKTRGLA"
             },
+            "version_added": {
+                "S": "2.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -12742,6 +13456,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Stripe Walls"
             },
             "ceiling_category": {
                 "S": "Cloth"
@@ -12827,6 +13544,9 @@
             "unique_entry_id": {
                 "S": "xWHnQXK7duTWZ8GrD"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -12849,6 +13569,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Country"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -12934,6 +13657,9 @@
             "unique_entry_id": {
                 "S": "ZPCtPY4gYYKPn7ipQ"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -12956,6 +13682,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Manor Walls"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -13041,6 +13770,9 @@
             "unique_entry_id": {
                 "S": "rsBmsGkcmQYWzEivw"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -13063,6 +13795,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Flower Walls"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -13148,6 +13883,9 @@
             "unique_entry_id": {
                 "S": "oYN6MCEQENZymoKdm"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -13170,6 +13908,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Honeycomb"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -13255,6 +13996,9 @@
             "unique_entry_id": {
                 "S": "Aws33pgNCEygKeaB4"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -13277,6 +14021,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Flower Pop Walls"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -13362,6 +14109,9 @@
             "unique_entry_id": {
                 "S": "hD6uCKiZPpJC6eqom"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -13384,6 +14134,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Panel Mold Walls"
             },
             "ceiling_category": {
                 "S": "Cloth"
@@ -13469,6 +14222,9 @@
             "unique_entry_id": {
                 "S": "L5cttCqv5dPEpZNwm"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -13491,6 +14247,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Painted Wood"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -13576,6 +14335,9 @@
             "unique_entry_id": {
                 "S": "wDrM2ExdLkKTKohtr"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -13598,6 +14360,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Toy Walls"
             },
             "ceiling_category": {
                 "S": "Cloth"
@@ -13683,6 +14448,9 @@
             "unique_entry_id": {
                 "S": "hrZPmBpEgQ8SZm2oe"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -13705,6 +14473,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Cloth Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -13790,6 +14561,9 @@
             "unique_entry_id": {
                 "S": "WvGCWHyf2NKwuiZ7Z"
             },
+            "version_added": {
+                "S": "1.2.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -13812,6 +14586,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Stucco Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -13897,6 +14674,9 @@
             "unique_entry_id": {
                 "S": "3ZHQo8e8Wqgw4cpwy"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -13919,6 +14699,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Neta Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -14004,6 +14787,9 @@
             "unique_entry_id": {
                 "S": "hdknyvkKdgrsWfqx5"
             },
+            "version_added": {
+                "S": "2.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -14026,6 +14812,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Cloth Walls"
             },
             "ceiling_category": {
                 "S": "Cloth"
@@ -14111,6 +14900,9 @@
             "unique_entry_id": {
                 "S": "gt5Bv4qHoaZ9QCyj4"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -14133,6 +14925,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "WallFacility"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -14218,6 +15013,9 @@
             "unique_entry_id": {
                 "S": "NCBd3TwM7prv5MPfM"
             },
+            "version_added": {
+                "S": "2.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -14240,6 +15038,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Asia"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -14325,6 +15126,9 @@
             "unique_entry_id": {
                 "S": "uCzqeq8GvfKRsWRd4"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -14347,6 +15151,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Cloth Walls"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -14432,6 +15239,9 @@
             "unique_entry_id": {
                 "S": "mKPtEN398qGZ7Yryu"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -14454,6 +15264,9 @@
             },
             "catalog_category": {
                 "S": "Not in catalog"
+            },
+            "category": {
+                "S": "Sanrio Walls"
             },
             "ceiling_category": {
                 "S": "Cloth"
@@ -14539,6 +15352,9 @@
             "unique_entry_id": {
                 "S": "annG3qKgFvLLenENq"
             },
+            "version_added": {
+                "S": "1.9.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -14561,6 +15377,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Tile Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -14646,6 +15465,9 @@
             "unique_entry_id": {
                 "S": "hB3LqvkNidDmzrZ8z"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -14668,6 +15490,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Honeycomb"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -14753,6 +15578,9 @@
             "unique_entry_id": {
                 "S": "S3bCMm6KGHKF6Ynzg"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -14775,6 +15603,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Special Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -14860,6 +15691,9 @@
             "unique_entry_id": {
                 "S": "d84Y3R4CzrtjCasov"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -14882,6 +15716,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "WallFacility"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -14967,6 +15804,9 @@
             "unique_entry_id": {
                 "S": "wFAgqt6mCbvc9qjo4"
             },
+            "version_added": {
+                "S": "2.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -14989,6 +15829,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Neta Walls"
             },
             "ceiling_category": {
                 "S": "Plain"
@@ -15074,6 +15917,9 @@
             "unique_entry_id": {
                 "S": "XqrwARWP9bzsmsjiF"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -15096,6 +15942,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Asia"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -15181,6 +16030,9 @@
             "unique_entry_id": {
                 "S": "YkuzvDjqXDB9CYHhm"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -15203,6 +16055,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Iron Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -15288,6 +16143,9 @@
             "unique_entry_id": {
                 "S": "ao5GCHQqnwssDNRGN"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -15310,6 +16168,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Nature Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -15395,6 +16256,9 @@
             "unique_entry_id": {
                 "S": "t6XmWqkyhZt8Axyeh"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -15417,6 +16281,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Special Walls"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -15502,6 +16369,9 @@
             "unique_entry_id": {
                 "S": "ZjBHKK8ckePAaKpxe"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "S": "Synchro"
             },
@@ -15524,6 +16394,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Nature Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -15609,6 +16482,9 @@
             "unique_entry_id": {
                 "S": "pJFdFWHgQRiYAn67i"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -15631,6 +16507,9 @@
             },
             "catalog_category": {
                 "S": "Not in catalog"
+            },
+            "category": {
+                "S": "Sanrio Walls"
             },
             "ceiling_category": {
                 "S": "Cloth"
@@ -15716,6 +16595,9 @@
             "unique_entry_id": {
                 "S": "rcc2xxFF6iEZFWCwD"
             },
+            "version_added": {
+                "S": "1.9.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -15738,6 +16620,9 @@
             },
             "catalog_category": {
                 "S": "Not in catalog"
+            },
+            "category": {
+                "S": "Sanrio Walls"
             },
             "ceiling_category": {
                 "S": "Cloth"
@@ -15823,6 +16708,9 @@
             "unique_entry_id": {
                 "S": "FEueHTF7kRxdi32bM"
             },
+            "version_added": {
+                "S": "1.9.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -15845,6 +16733,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Cloth Walls"
             },
             "ceiling_category": {
                 "S": "Cloth"
@@ -15930,6 +16821,9 @@
             "unique_entry_id": {
                 "S": "ZeuGwoWptbyaQDsbu"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -15952,6 +16846,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Special Inorganic Walls"
             },
             "ceiling_category": {
                 "S": "Tile"
@@ -16037,6 +16934,9 @@
             "unique_entry_id": {
                 "S": "kNrqC5Xs7RFybYfkN"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "S": "Random"
             },
@@ -16059,6 +16959,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Asia"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -16144,6 +17047,9 @@
             "unique_entry_id": {
                 "S": "ZQFuCuh6fdtufMYzs"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -16166,6 +17072,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Special Warm Nature Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -16251,6 +17160,9 @@
             "unique_entry_id": {
                 "S": "vcz2byxybzfXkuCSX"
             },
+            "version_added": {
+                "S": "2.0.0"
+            },
             "vfx_category": {
                 "S": "Synchro"
             },
@@ -16273,6 +17185,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Special Warm Nature Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -16358,6 +17273,9 @@
             "unique_entry_id": {
                 "S": "ugvpYYqX4F9bgLbnj"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "S": "Synchro"
             },
@@ -16380,6 +17298,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Library Walls"
             },
             "ceiling_category": {
                 "S": "Cloth"
@@ -16465,6 +17386,9 @@
             "unique_entry_id": {
                 "S": "wRBeXRoDHw6Curx44"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -16487,6 +17411,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Nature Walls"
             },
             "ceiling_category": {
                 "S": "Plain"
@@ -16572,6 +17499,9 @@
             "unique_entry_id": {
                 "S": "j8cYo8ozHYBaAm3JH"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -16594,6 +17524,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Cloth Walls"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -16679,6 +17612,9 @@
             "unique_entry_id": {
                 "S": "DmheJHpCg6xk8dX3R"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -16701,6 +17637,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Special Cool Nature Walls"
             },
             "ceiling_category": {
                 "S": "Plain"
@@ -16786,6 +17725,9 @@
             "unique_entry_id": {
                 "S": "QdWj45HftWrWwC3dH"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "S": "Synchro"
             },
@@ -16808,6 +17750,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Special Warm Nature Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -16893,6 +17838,9 @@
             "unique_entry_id": {
                 "S": "MP44TSDm3ADQzbMq2"
             },
+            "version_added": {
+                "S": "1.3.0"
+            },
             "vfx_category": {
                 "S": "Random"
             },
@@ -16915,6 +17863,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Special Cool Nature Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -17000,6 +17951,9 @@
             "unique_entry_id": {
                 "S": "hgiWgFTr76YtZH8sH"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "S": "Random"
             },
@@ -17022,6 +17976,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Cloth Walls"
             },
             "ceiling_category": {
                 "S": "Cloth"
@@ -17107,6 +18064,9 @@
             "unique_entry_id": {
                 "S": "Tiya4QoMRwThyKcG8"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -17129,6 +18089,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Japanese Style"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -17214,6 +18177,9 @@
             "unique_entry_id": {
                 "S": "WBh8T7xJBavLRKZpB"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -17236,6 +18202,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Tea Room Walls"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -17321,6 +18290,9 @@
             "unique_entry_id": {
                 "S": "Yk5NZC7SSyjDEpnA7"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -17343,6 +18315,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Wood Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -17428,6 +18403,9 @@
             "unique_entry_id": {
                 "S": "KZjTLMR8uhbpJGQ64"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -17450,6 +18428,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Dot"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -17535,6 +18516,9 @@
             "unique_entry_id": {
                 "S": "SWkrbmL8ME6NeQd9Q"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -17557,6 +18541,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Tile Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -17642,6 +18629,9 @@
             "unique_entry_id": {
                 "S": "6pk8nNbm4EmT3PrBr"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -17664,6 +18654,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Stone Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -17749,6 +18742,9 @@
             "unique_entry_id": {
                 "S": "mfRLEniEAEB9YAjCY"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -17771,6 +18767,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Tile Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -17856,6 +18855,9 @@
             "unique_entry_id": {
                 "S": "2T8d9sRKwijHhESDS"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -17878,6 +18880,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Nature Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -17963,6 +18968,9 @@
             "unique_entry_id": {
                 "S": "nuuPHdxH5skMPdehs"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -17985,6 +18993,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Special Inorganic Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -18070,6 +19081,9 @@
             "unique_entry_id": {
                 "S": "NQvZs3xkbGd6azYxB"
             },
+            "version_added": {
+                "S": "2.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -18092,6 +19106,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Cloth Walls"
             },
             "ceiling_category": {
                 "S": "Cloth"
@@ -18177,6 +19194,9 @@
             "unique_entry_id": {
                 "S": "6xJHWgQgJA9e2n4jJ"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -18199,6 +19219,9 @@
             },
             "catalog_category": {
                 "S": "Not in catalog"
+            },
+            "category": {
+                "S": "Neta Walls"
             },
             "ceiling_category": {
                 "S": "Plain"
@@ -18284,6 +19307,9 @@
             "unique_entry_id": {
                 "S": "Z5kYqifx5im2Ywe6P"
             },
+            "version_added": {
+                "S": "1.8.0"
+            },
             "vfx_category": {
                 "S": "Synchro"
             },
@@ -18306,6 +19332,9 @@
             },
             "catalog_category": {
                 "S": "Not in catalog"
+            },
+            "category": {
+                "S": "Sanrio Walls"
             },
             "ceiling_category": {
                 "S": "Cloth"
@@ -18391,6 +19420,9 @@
             "unique_entry_id": {
                 "S": "s97854TNLM2ipgGKY"
             },
+            "version_added": {
+                "S": "1.9.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -18413,6 +19445,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Cloth Walls"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -18498,6 +19533,9 @@
             "unique_entry_id": {
                 "S": "e7uEC5di7XvHpvkuk"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -18520,6 +19558,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Special Cool Nature Walls"
             },
             "ceiling_category": {
                 "S": "Plain"
@@ -18605,6 +19646,9 @@
             "unique_entry_id": {
                 "S": "BYpn3AZyJ8PWCAxHj"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "S": "Synchro"
             },
@@ -18627,6 +19671,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Special Walls"
             },
             "ceiling_category": {
                 "S": "Tile"
@@ -18712,6 +19759,9 @@
             "unique_entry_id": {
                 "S": "gSMtrRvmA9mYgtKtD"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -18734,6 +19784,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Cloth Walls"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -18819,6 +19872,9 @@
             "unique_entry_id": {
                 "S": "LvLyyhmz3TH3qjBi4"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -18841,6 +19897,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Morocco"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -18926,6 +19985,9 @@
             "unique_entry_id": {
                 "S": "z5bNEBbKNL56CwQKo"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -18948,6 +20010,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "WallFacility"
             },
             "ceiling_category": {
                 "S": "Tile"
@@ -19033,6 +20098,9 @@
             "unique_entry_id": {
                 "S": "BS7HgCFLJpppWYxrD"
             },
+            "version_added": {
+                "S": "2.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -19055,6 +20123,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Camouflage"
             },
             "ceiling_category": {
                 "S": "Cloth"
@@ -19140,6 +20211,9 @@
             "unique_entry_id": {
                 "S": "xiaFSrf6okC624pCz"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -19162,6 +20236,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Panel Mold Walls"
             },
             "ceiling_category": {
                 "S": "Cloth"
@@ -19247,6 +20324,9 @@
             "unique_entry_id": {
                 "S": "zW3vwqmKDGhK68rCJ"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -19269,6 +20349,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Asia"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -19354,6 +20437,9 @@
             "unique_entry_id": {
                 "S": "tN3DQ95fSAWs3o5SM"
             },
+            "version_added": {
+                "S": "2.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -19376,6 +20462,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Fruit Walls"
             },
             "ceiling_category": {
                 "S": "Cloth"
@@ -19461,6 +20550,9 @@
             "unique_entry_id": {
                 "S": "4GirW6p4notkWfhs7"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -19483,6 +20575,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Stucco Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -19568,6 +20663,9 @@
             "unique_entry_id": {
                 "S": "TFsdbmb9sti7Gz3pt"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -19590,6 +20688,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Nature Walls"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -19675,6 +20776,9 @@
             "unique_entry_id": {
                 "S": "BrjPZz2J4AvQBgpR3"
             },
+            "version_added": {
+                "S": "2.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -19697,6 +20801,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Stone Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -19782,6 +20889,9 @@
             "unique_entry_id": {
                 "S": "qnE76Sd6WdnihirBL"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -19804,6 +20914,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Special Inorganic Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -19889,6 +21002,9 @@
             "unique_entry_id": {
                 "S": "fGigBL7P6sRsv25Au"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -19911,6 +21027,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "WallGoldSilverBronze"
             },
             "ceiling_category": {
                 "S": "Gold"
@@ -19996,6 +21115,9 @@
             "unique_entry_id": {
                 "S": "z22bvaYd3o8NtChdj"
             },
+            "version_added": {
+                "S": "2.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -20018,6 +21140,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Cloth Walls"
             },
             "ceiling_category": {
                 "S": "Cloth"
@@ -20103,6 +21228,9 @@
             "unique_entry_id": {
                 "S": "9v4H4NeFMQR9tKLj7"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -20125,6 +21253,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Dot"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -20210,6 +21341,9 @@
             "unique_entry_id": {
                 "S": "m4ha6kr7tPuio5AcL"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -20232,6 +21366,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Puzzle Walls"
             },
             "ceiling_category": {
                 "S": "Cloth"
@@ -20317,6 +21454,9 @@
             "unique_entry_id": {
                 "S": "b3EvGiavTx8QPHrfP"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -20339,6 +21479,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Cute Walls"
             },
             "ceiling_category": {
                 "S": "Cloth"
@@ -20424,6 +21567,9 @@
             "unique_entry_id": {
                 "S": "m5usCdM6aRQPQme5x"
             },
+            "version_added": {
+                "S": "2.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -20446,6 +21592,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Two-Tone Tile Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -20531,6 +21680,9 @@
             "unique_entry_id": {
                 "S": "m9bGMPzT4cjdMddyY"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -20553,6 +21705,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Fruit Walls"
             },
             "ceiling_category": {
                 "S": "Cloth"
@@ -20638,6 +21793,9 @@
             "unique_entry_id": {
                 "S": "cpGXBrDm4SXGAXraz"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -20660,6 +21818,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Fruit Walls"
             },
             "ceiling_category": {
                 "S": "Cloth"
@@ -20745,6 +21906,9 @@
             "unique_entry_id": {
                 "S": "vtaaw7vsoJD8meQuM"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -20767,6 +21931,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Pegboard Walls"
             },
             "ceiling_category": {
                 "S": "Tile"
@@ -20852,6 +22019,9 @@
             "unique_entry_id": {
                 "S": "BThQrmfp4EnBqyfv3"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -20874,6 +22044,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "WallFacility"
             },
             "ceiling_category": {
                 "S": "Tile"
@@ -20959,6 +22132,9 @@
             "unique_entry_id": {
                 "S": "RsJaDrDCjLfrtCB9G"
             },
+            "version_added": {
+                "S": "2.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -20981,6 +22157,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Country"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -21066,6 +22245,9 @@
             "unique_entry_id": {
                 "S": "zgZSrtarnCJG53AdD"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -21088,6 +22270,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Diner Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -21173,6 +22358,9 @@
             "unique_entry_id": {
                 "S": "MXeKHor4q66HH3GJs"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -21195,6 +22383,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Flower Walls"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -21280,6 +22471,9 @@
             "unique_entry_id": {
                 "S": "eCN5rZb7sXsoWSCmW"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -21302,6 +22496,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Heart Walls"
             },
             "ceiling_category": {
                 "S": "Cloth"
@@ -21387,6 +22584,9 @@
             "unique_entry_id": {
                 "S": "4f732CJdDvXxHDQsd"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -21409,6 +22609,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Painted Wood"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -21494,6 +22697,9 @@
             "unique_entry_id": {
                 "S": "tjx2TsuHTcr4jaMHM"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -21516,6 +22722,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Toy Walls"
             },
             "ceiling_category": {
                 "S": "Cloth"
@@ -21601,6 +22810,9 @@
             "unique_entry_id": {
                 "S": "xYNWemEyTsD9zG8iC"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -21623,6 +22835,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Dollhouse Walls"
             },
             "ceiling_category": {
                 "S": "Cloth"
@@ -21708,6 +22923,9 @@
             "unique_entry_id": {
                 "S": "gToedZLPo7MbMvpah"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -21730,6 +22948,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Tin Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -21815,6 +23036,9 @@
             "unique_entry_id": {
                 "S": "WfmPknxrLpp25SMbS"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -21837,6 +23061,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Simple Walls"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -21922,6 +23149,9 @@
             "unique_entry_id": {
                 "S": "mH2zs7NpfPgERmHwm"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -21944,6 +23174,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Crown Walls"
             },
             "ceiling_category": {
                 "S": "Tile"
@@ -22029,6 +23262,9 @@
             "unique_entry_id": {
                 "S": "cwBg3xvzjfh2qm7Lg"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -22051,6 +23287,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Stripe Walls"
             },
             "ceiling_category": {
                 "S": "Cloth"
@@ -22136,6 +23375,9 @@
             "unique_entry_id": {
                 "S": "Pwd2z87xxFm52tA28"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -22158,6 +23400,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Special Walls"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -22243,6 +23488,9 @@
             "unique_entry_id": {
                 "S": "DydGczJz6fqyAZJuA"
             },
+            "version_added": {
+                "S": "1.3.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -22265,6 +23513,9 @@
             },
             "catalog_category": {
                 "S": "Not in catalog"
+            },
+            "category": {
+                "S": "Sanrio Walls"
             },
             "ceiling_category": {
                 "S": "Cloth"
@@ -22350,6 +23601,9 @@
             "unique_entry_id": {
                 "S": "AzWS3tTqRkGWGcTZz"
             },
+            "version_added": {
+                "S": "1.9.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -22372,6 +23626,9 @@
             },
             "catalog_category": {
                 "S": "Seasonal"
+            },
+            "category": {
+                "S": "Special Walls"
             },
             "ceiling_category": {
                 "S": "Cloth"
@@ -22457,6 +23714,9 @@
             "unique_entry_id": {
                 "S": "PSDiTRHahnqgc3vEY"
             },
+            "version_added": {
+                "S": "1.9.0"
+            },
             "vfx_category": {
                 "S": "Synchro"
             },
@@ -22479,6 +23739,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Camouflage"
             },
             "ceiling_category": {
                 "S": "Cloth"
@@ -22564,6 +23827,9 @@
             "unique_entry_id": {
                 "S": "AY2jSyyAd4BD74xQ7"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -22586,6 +23852,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Dot"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -22671,6 +23940,9 @@
             "unique_entry_id": {
                 "S": "JRu4Xs5kYG4ognk2P"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -22693,6 +23965,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Morocco"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -22778,6 +24053,9 @@
             "unique_entry_id": {
                 "S": "2y5jPPPs3so7APToC"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -22800,6 +24078,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Puzzle Walls"
             },
             "ceiling_category": {
                 "S": "Cloth"
@@ -22885,6 +24166,9 @@
             "unique_entry_id": {
                 "S": "iG8MR3f2F2jDsLjT9"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -22907,6 +24191,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Dollhouse Walls"
             },
             "ceiling_category": {
                 "S": "Cloth"
@@ -22992,6 +24279,9 @@
             "unique_entry_id": {
                 "S": "tmY5uczEnYXA6fdeQ"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -23014,6 +24304,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Rose Walls"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -23099,6 +24392,9 @@
             "unique_entry_id": {
                 "S": "kHEHhFZSfDXTHtZAa"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -23121,6 +24417,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Stone Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -23206,6 +24505,9 @@
             "unique_entry_id": {
                 "S": "9AafcLh3QkLp2tdWj"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -23228,6 +24530,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Stone Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -23313,6 +24618,9 @@
             "unique_entry_id": {
                 "S": "bTb98gEchXobwaqdt"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -23335,6 +24643,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Art Deco Walls"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -23420,6 +24731,9 @@
             "unique_entry_id": {
                 "S": "R3zgKkrxc3ar4y9A8"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -23442,6 +24756,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Manor Walls"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -23527,6 +24844,9 @@
             "unique_entry_id": {
                 "S": "F7oWFwEAh4evtkJcb"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -23549,6 +24869,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Dot"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -23634,6 +24957,9 @@
             "unique_entry_id": {
                 "S": "3mfqbt8sXR88eDfTk"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -23656,6 +24982,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Heart Walls"
             },
             "ceiling_category": {
                 "S": "Cloth"
@@ -23741,6 +25070,9 @@
             "unique_entry_id": {
                 "S": "TPrtAkkWJa7KpLady"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -23763,6 +25095,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Flower Pop Walls"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -23848,6 +25183,9 @@
             "unique_entry_id": {
                 "S": "yasngHr44QgXc9tYs"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -23870,6 +25208,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Iron Walls"
             },
             "ceiling_category": {
                 "S": "Tile"
@@ -23955,6 +25296,9 @@
             "unique_entry_id": {
                 "S": "9KJS7LeM7STiSXYKH"
             },
+            "version_added": {
+                "S": "2.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -23977,6 +25321,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Pegboard Walls"
             },
             "ceiling_category": {
                 "S": "Tile"
@@ -24062,6 +25409,9 @@
             "unique_entry_id": {
                 "S": "TCLSE3BdkCQeiM7wX"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -24084,6 +25434,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Two-Tone Tile Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -24169,6 +25522,9 @@
             "unique_entry_id": {
                 "S": "u9dKmtft32t4cxxiW"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -24191,6 +25547,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Brick"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -24276,6 +25635,9 @@
             "unique_entry_id": {
                 "S": "Hu3jyiCP23j78PCdX"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -24298,6 +25660,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Cloth Walls"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -24383,6 +25748,9 @@
             "unique_entry_id": {
                 "S": "MdWwebM7zyeBdykxp"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -24405,6 +25773,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Brick"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -24490,6 +25861,9 @@
             "unique_entry_id": {
                 "S": "HCYc3GcoJqWhMM7nc"
             },
+            "version_added": {
+                "S": "2.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -24512,6 +25886,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Special Cool Nature Walls"
             },
             "ceiling_category": {
                 "S": "Plain"
@@ -24597,6 +25974,9 @@
             "unique_entry_id": {
                 "S": "TnHvGeJGKioxc95mH"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "S": "Synchro"
             },
@@ -24619,6 +25999,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Special Walls"
             },
             "ceiling_category": {
                 "S": "Plain"
@@ -24704,6 +26087,9 @@
             "unique_entry_id": {
                 "S": "bg9rQRYAbzeD8rLCw"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -24726,6 +26112,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Iron Walls"
             },
             "ceiling_category": {
                 "S": "Tile"
@@ -24811,6 +26200,9 @@
             "unique_entry_id": {
                 "S": "hJZQA7tyayEK3spG6"
             },
+            "version_added": {
+                "S": "2.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -24833,6 +26225,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Neta Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -24918,6 +26313,9 @@
             "unique_entry_id": {
                 "S": "CRvqDNWfXzY2ibXvG"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -24940,6 +26338,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Special Inorganic Walls"
             },
             "ceiling_category": {
                 "S": "Plain"
@@ -25025,6 +26426,9 @@
             "unique_entry_id": {
                 "S": "faa5CutSpc3i8ZSY8"
             },
+            "version_added": {
+                "S": "2.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -25047,6 +26451,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Nature Walls"
             },
             "ceiling_category": {
                 "S": "Plain"
@@ -25132,6 +26539,9 @@
             "unique_entry_id": {
                 "S": "kjhatSss6jpDHcG5j"
             },
+            "version_added": {
+                "S": "2.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -25154,6 +26564,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Rose Walls"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -25239,6 +26652,9 @@
             "unique_entry_id": {
                 "S": "azgSWFRcgeuopRWrH"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -25261,6 +26677,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Nature Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -25346,6 +26765,9 @@
             "unique_entry_id": {
                 "S": "ZHiKhqts5brebhYH9"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -25368,6 +26790,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Stone Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -25453,6 +26878,9 @@
             "unique_entry_id": {
                 "S": "xP7S673w2oNwNHowp"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -25475,6 +26903,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Wood Walls"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -25560,6 +26991,9 @@
             "unique_entry_id": {
                 "S": "jFtMrj8NBC3o4ALzG"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -25582,6 +27016,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Special Inorganic Walls"
             },
             "ceiling_category": {
                 "S": "Tile"
@@ -25667,6 +27104,9 @@
             "unique_entry_id": {
                 "S": "y48TLWMbXCbrWQp5a"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "S": "Random"
             },
@@ -25689,6 +27129,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Japanese Style"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -25774,6 +27217,9 @@
             "unique_entry_id": {
                 "S": "wk4ST89FjabXnZPXy"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -25796,6 +27242,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Special Cool Nature Walls"
             },
             "ceiling_category": {
                 "S": "Plain"
@@ -25881,6 +27330,9 @@
             "unique_entry_id": {
                 "S": "fHQn9EzoTxznm7nJ9"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "S": "Synchro"
             },
@@ -25903,6 +27355,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Special Inorganic Walls"
             },
             "ceiling_category": {
                 "S": "Tile"
@@ -25988,6 +27443,9 @@
             "unique_entry_id": {
                 "S": "N6T3rBvQdYoJoXkrH"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "S": "Random"
             },
@@ -26010,6 +27468,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Puzzle Walls"
             },
             "ceiling_category": {
                 "S": "Cloth"
@@ -26095,6 +27556,9 @@
             "unique_entry_id": {
                 "S": "2mtYv7D25wDqMWi6P"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -26117,6 +27581,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Special Inorganic Walls"
             },
             "ceiling_category": {
                 "S": "Tile"
@@ -26202,6 +27669,9 @@
             "unique_entry_id": {
                 "S": "ycnhxNaWfeXEq5x7A"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "S": "Random"
             },
@@ -26224,6 +27694,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Japanese Style"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -26309,6 +27782,9 @@
             "unique_entry_id": {
                 "S": "5RdqeAZAvdCR5QxqM"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -26331,6 +27807,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Iron Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -26416,6 +27895,9 @@
             "unique_entry_id": {
                 "S": "4ez74JDpR9kmiroQr"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -26438,6 +27920,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Special Cool Nature Walls"
             },
             "ceiling_category": {
                 "S": "Plain"
@@ -26523,6 +28008,9 @@
             "unique_entry_id": {
                 "S": "hCdDcFDBWEe6pmctp"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "S": "Synchro"
             },
@@ -26545,6 +28033,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Special Inorganic Walls"
             },
             "ceiling_category": {
                 "S": "Cloth"
@@ -26630,6 +28121,9 @@
             "unique_entry_id": {
                 "S": "7GLt2YDxMDyp8EJth"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "S": "LightOff"
             },
@@ -26652,6 +28146,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Special Cool Nature Walls"
             },
             "ceiling_category": {
                 "S": "Plain"
@@ -26737,6 +28234,9 @@
             "unique_entry_id": {
                 "S": "9YmTrPqSZRCvxRtLi"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "S": "Synchro"
             },
@@ -26759,6 +28259,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Neta Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -26844,6 +28347,9 @@
             "unique_entry_id": {
                 "S": "Ah36ZRM9QBHBt7HZF"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -26866,6 +28372,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Cloth Walls"
             },
             "ceiling_category": {
                 "S": "Cloth"
@@ -26951,6 +28460,9 @@
             "unique_entry_id": {
                 "S": "w5MEjbgphAwDo42mk"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -26973,6 +28485,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Tea Room Walls"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -27058,6 +28573,9 @@
             "unique_entry_id": {
                 "S": "Bke28iGoY3LhDagx4"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -27080,6 +28598,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Stripe Walls"
             },
             "ceiling_category": {
                 "S": "Cloth"
@@ -27165,6 +28686,9 @@
             "unique_entry_id": {
                 "S": "hD6Y9zX2se2nKpxWy"
             },
+            "version_added": {
+                "S": "1.5.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -27187,6 +28711,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Wood Walls"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -27272,6 +28799,9 @@
             "unique_entry_id": {
                 "S": "TZi9bo7GYzJxPJNNe"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -27294,6 +28824,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Special Cool Nature Walls"
             },
             "ceiling_category": {
                 "S": "Plain"
@@ -27379,6 +28912,9 @@
             "unique_entry_id": {
                 "S": "oJoGTXMzLnYTpdBaf"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -27401,6 +28937,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Tea Room Walls"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -27486,6 +29025,9 @@
             "unique_entry_id": {
                 "S": "4Zv8KLzxrsm6k53pN"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -27508,6 +29050,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Special Cool Nature Walls"
             },
             "ceiling_category": {
                 "S": "Cloth"
@@ -27593,6 +29138,9 @@
             "unique_entry_id": {
                 "S": "sjnLXANKDEPMzdGbn"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "S": "LightOff"
             },
@@ -27615,6 +29163,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Special Cool Nature Walls"
             },
             "ceiling_category": {
                 "S": "Plain"
@@ -27700,6 +29251,9 @@
             "unique_entry_id": {
                 "S": "iMQgW8pWYPWbj9Qom"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -27722,6 +29276,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Asia"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -27807,6 +29364,9 @@
             "unique_entry_id": {
                 "S": "BdPATBHc8m7YvJzwP"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -27829,6 +29389,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Iron Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -27914,6 +29477,9 @@
             "unique_entry_id": {
                 "S": "DhX6XzLy3Bg7s4owN"
             },
+            "version_added": {
+                "S": "2.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -27936,6 +29502,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Iron Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -28021,6 +29590,9 @@
             "unique_entry_id": {
                 "S": "K2uSKanJ3r6bQt6MG"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -28043,6 +29615,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Stone Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -28128,6 +29703,9 @@
             "unique_entry_id": {
                 "S": "8hnPcADHfoEpvgSAS"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -28150,6 +29728,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Special Warm Nature Walls"
             },
             "ceiling_category": {
                 "S": "Plain"
@@ -28235,6 +29816,9 @@
             "unique_entry_id": {
                 "S": "Y3sjyMeHtDFcdBfrM"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "S": "Random"
             },
@@ -28257,6 +29841,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Wood Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -28342,6 +29929,9 @@
             "unique_entry_id": {
                 "S": "u3orRaGAX2iwdtCLG"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -28364,6 +29954,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Chocolate"
             },
             "ceiling_category": {
                 "S": "Tile"
@@ -28449,6 +30042,9 @@
             "unique_entry_id": {
                 "S": "G5QeNa2L26MwuCexA"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -28471,6 +30067,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Neta Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -28556,6 +30155,9 @@
             "unique_entry_id": {
                 "S": "88hCuytidryqimPXr"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -28578,6 +30180,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Special Cool Nature Walls"
             },
             "ceiling_category": {
                 "S": "Plain"
@@ -28663,6 +30268,9 @@
             "unique_entry_id": {
                 "S": "hFmF2iNjDvLGfF3Rf"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "S": "Synchro"
             },
@@ -28685,6 +30293,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "WallFacility"
             },
             "ceiling_category": {
                 "S": "Tile"
@@ -28770,6 +30381,9 @@
             "unique_entry_id": {
                 "S": "tttMaoMYDWcGjpCSD"
             },
+            "version_added": {
+                "S": "2.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -28792,6 +30406,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Simple Walls"
             },
             "ceiling_category": {
                 "S": "Cloth"
@@ -28877,6 +30494,9 @@
             "unique_entry_id": {
                 "S": "T5kHeh2QvsQNQ5avc"
             },
+            "version_added": {
+                "S": "2.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -28899,6 +30519,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Special Walls"
             },
             "ceiling_category": {
                 "S": "Tile"
@@ -28984,6 +30607,9 @@
             "unique_entry_id": {
                 "S": "pkPNcpqbtoB3fNmCT"
             },
+            "version_added": {
+                "S": "2.0.0"
+            },
             "vfx_category": {
                 "S": "Synchro"
             },
@@ -29006,6 +30632,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Nature Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -29091,6 +30720,9 @@
             "unique_entry_id": {
                 "S": "aLzrLXC7Nyk6h6pDw"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -29113,6 +30745,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Special Cool Nature Walls"
             },
             "ceiling_category": {
                 "S": "Plain"
@@ -29198,6 +30833,9 @@
             "unique_entry_id": {
                 "S": "sZgNFwEcxpLSAxB4X"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "S": "Synchro"
             },
@@ -29220,6 +30858,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Cloth Walls"
             },
             "ceiling_category": {
                 "S": "Cloth"
@@ -29305,6 +30946,9 @@
             "unique_entry_id": {
                 "S": "FofB2mpArZFhp3QJC"
             },
+            "version_added": {
+                "S": "1.6.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -29327,6 +30971,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Special Cool Nature Walls"
             },
             "ceiling_category": {
                 "S": "Plain"
@@ -29412,6 +31059,9 @@
             "unique_entry_id": {
                 "S": "QXNnruZcwJursNmjP"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "S": "Synchro"
             },
@@ -29434,6 +31084,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Tile Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -29519,6 +31172,9 @@
             "unique_entry_id": {
                 "S": "eLQ2JDZKjrzcnP9gn"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -29541,6 +31197,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Cloth Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -29626,6 +31285,9 @@
             "unique_entry_id": {
                 "S": "xT6kyFtbGPpR8nRM3"
             },
+            "version_added": {
+                "S": "1.2.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -29648,6 +31310,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Special Cool Nature Walls"
             },
             "ceiling_category": {
                 "S": "Plain"
@@ -29733,6 +31398,9 @@
             "unique_entry_id": {
                 "S": "tYFKmm4XzGGGQAcfG"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "S": "Synchro"
             },
@@ -29755,6 +31423,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Wood Tile Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -29840,6 +31511,9 @@
             "unique_entry_id": {
                 "S": "QyrvwKiKMmNvm7KxR"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -29862,6 +31536,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Manor Walls"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -29947,6 +31624,9 @@
             "unique_entry_id": {
                 "S": "ZDpt8b6TTGr2hihP5"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -29969,6 +31649,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Special Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -30054,6 +31737,9 @@
             "unique_entry_id": {
                 "S": "itpyDq45huqbfAcqB"
             },
+            "version_added": {
+                "S": "2.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -30076,6 +31762,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Hall Walls"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -30161,6 +31850,9 @@
             "unique_entry_id": {
                 "S": "HZoM3iHpKrQPBK2Gh"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -30183,6 +31875,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Honeycomb"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -30268,6 +31963,9 @@
             "unique_entry_id": {
                 "S": "K8mdzBZZeBLxZEAzZ"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -30290,6 +31988,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Painted Wood"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -30375,6 +32076,9 @@
             "unique_entry_id": {
                 "S": "cN4bnHaw4mruhnMZk"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -30397,6 +32101,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Pegboard Walls"
             },
             "ceiling_category": {
                 "S": "Tile"
@@ -30482,6 +32189,9 @@
             "unique_entry_id": {
                 "S": "krohWS7x49N2hCKrF"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -30504,6 +32214,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Simple Walls"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -30589,6 +32302,9 @@
             "unique_entry_id": {
                 "S": "z2Zh2fzFwCbvMDm8J"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -30611,6 +32327,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Metro Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -30696,6 +32415,9 @@
             "unique_entry_id": {
                 "S": "ajXm5zy9pwf7XEyHF"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -30718,6 +32440,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Cloth Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -30803,6 +32528,9 @@
             "unique_entry_id": {
                 "S": "mKuptCLkH2MknX2PN"
             },
+            "version_added": {
+                "S": "1.2.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -30825,6 +32553,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Special Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -30910,6 +32641,9 @@
             "unique_entry_id": {
                 "S": "DZQQvsrgHThm5gHZZ"
             },
+            "version_added": {
+                "S": "2.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -30932,6 +32666,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Brick"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -31017,6 +32754,9 @@
             "unique_entry_id": {
                 "S": "htjwxjceb2hc6GxjX"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -31039,6 +32779,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Chocolate"
             },
             "ceiling_category": {
                 "S": "Tile"
@@ -31124,6 +32867,9 @@
             "unique_entry_id": {
                 "S": "6qMhFdc2nDSvJSCfT"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -31146,6 +32892,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Rose Walls"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -31231,6 +32980,9 @@
             "unique_entry_id": {
                 "S": "yksDvcnnKqM7tnzas"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -31253,6 +33005,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "WallFacility"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -31338,6 +33093,9 @@
             "unique_entry_id": {
                 "S": "sNhncamcj9AS7Fq2Z"
             },
+            "version_added": {
+                "S": "2.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -31360,6 +33118,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Wood Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -31445,6 +33206,9 @@
             "unique_entry_id": {
                 "S": "vhJr7B96SnG3xQQCs"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -31467,6 +33231,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Wood Walls"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -31552,6 +33319,9 @@
             "unique_entry_id": {
                 "S": "puQYs9hygxfcQWsjt"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -31574,6 +33344,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Wood Plank Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -31659,6 +33432,9 @@
             "unique_entry_id": {
                 "S": "RgzoarteJyzD4xSAm"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -31681,6 +33457,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Nature Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -31766,6 +33545,9 @@
             "unique_entry_id": {
                 "S": "2B4YTYqnm64vgANY4"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -31788,6 +33570,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Flower Walls"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -31873,6 +33658,9 @@
             "unique_entry_id": {
                 "S": "esknqzcAenk8uqzYk"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -31895,6 +33683,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Heart Walls"
             },
             "ceiling_category": {
                 "S": "Cloth"
@@ -31980,6 +33771,9 @@
             "unique_entry_id": {
                 "S": "BqWMEqc2tL8CnPAmd"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -32002,6 +33796,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Flower Pop Walls"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -32087,6 +33884,9 @@
             "unique_entry_id": {
                 "S": "FrZas8MjMdjDTPvkX"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -32109,6 +33909,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Toy Walls"
             },
             "ceiling_category": {
                 "S": "Cloth"
@@ -32194,6 +33997,9 @@
             "unique_entry_id": {
                 "S": "mraytANoYBQvA8qAk"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -32216,6 +34022,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Dollhouse Walls"
             },
             "ceiling_category": {
                 "S": "Cloth"
@@ -32301,6 +34110,9 @@
             "unique_entry_id": {
                 "S": "ysEdh2vpCpg5qBcNg"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -32323,6 +34135,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Simple Walls"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -32408,6 +34223,9 @@
             "unique_entry_id": {
                 "S": "7sSXFNqcYgPMcGY8k"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -32430,6 +34248,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Stucco Walls"
             },
             "ceiling_category": {
                 "S": "Stone"
@@ -32515,6 +34336,9 @@
             "unique_entry_id": {
                 "S": "TySAA4kKqyvGGeZ5C"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -32537,6 +34361,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Stripe Walls"
             },
             "ceiling_category": {
                 "S": "Cloth"
@@ -32622,6 +34449,9 @@
             "unique_entry_id": {
                 "S": "N6sef3YhY973LDgdR"
             },
+            "version_added": {
+                "S": "1.0.0"
+            },
             "vfx_category": {
                 "NULL": true
             },
@@ -32644,6 +34474,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Japanese Style"
             },
             "ceiling_category": {
                 "S": "Wood"
@@ -32728,6 +34561,9 @@
             },
             "unique_entry_id": {
                 "S": "puwFr4WzMEfameWnz"
+            },
+            "version_added": {
+                "S": "2.0.0"
             },
             "vfx_category": {
                 "NULL": true
