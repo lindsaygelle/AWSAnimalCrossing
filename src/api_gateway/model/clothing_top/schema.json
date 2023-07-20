@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 42,
-    "minProperties": 42,
+    "maxProperties": 40,
+    "minProperties": 40,
     "properties": {
         "buy_currency": {
             "maxLength": 5,
@@ -287,13 +287,6 @@
                 "string"
             ]
         },
-        "version_added": {
-            "maxLength": 6,
-            "minLength": 5,
-            "type": [
-                "string"
-            ]
-        },
         "villager_gender": {
             "maxLength": 7,
             "minLength": 4,
@@ -343,7 +336,6 @@
         "style_2",
         "unique_entry_id",
         "variant_name",
-        "version_added",
         "villager_gender"
     ],
     "title": "ClothingTop",

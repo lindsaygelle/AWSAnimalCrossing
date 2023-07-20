@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 39,
-    "minProperties": 39,
+    "maxProperties": 38,
+    "minProperties": 38,
     "properties": {
         "body_category": {
             "maxLength": 5,
@@ -262,13 +262,6 @@
             "type": [
                 "string"
             ]
-        },
-        "version_added": {
-            "maxLength": 6,
-            "minLength": 5,
-            "type": [
-                "string"
-            ]
         }
     },
     "required": [
@@ -309,8 +302,7 @@
         "size_2",
         "unique_entry_id",
         "variant_id",
-        "variant_name",
-        "version_added"
+        "variant_name"
     ],
     "title": "FurniturePhoto",
     "type": "object"

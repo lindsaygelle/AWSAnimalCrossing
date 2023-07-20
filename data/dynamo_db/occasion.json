@@ -4,9 +4,6 @@
             "can_overlap_day": {
                 "BOOL": true
             },
-            "can_vary_yearly": {
-                "BOOL": false
-            },
             "category": {
                 "S": "Spring"
             },
@@ -35,9 +32,6 @@
         "Item": {
             "can_overlap_day": {
                 "BOOL": true
-            },
-            "can_vary_yearly": {
-                "BOOL": false
             },
             "category": {
                 "S": "Spring"
@@ -68,9 +62,6 @@
             "can_overlap_day": {
                 "BOOL": true
             },
-            "can_vary_yearly": {
-                "BOOL": false
-            },
             "category": {
                 "S": "Summer"
             },
@@ -99,9 +90,6 @@
         "Item": {
             "can_overlap_day": {
                 "BOOL": true
-            },
-            "can_vary_yearly": {
-                "BOOL": false
             },
             "category": {
                 "S": "Summer"
@@ -132,9 +120,6 @@
             "can_overlap_day": {
                 "BOOL": true
             },
-            "can_vary_yearly": {
-                "BOOL": false
-            },
             "category": {
                 "S": "Fall"
             },
@@ -163,9 +148,6 @@
         "Item": {
             "can_overlap_day": {
                 "BOOL": true
-            },
-            "can_vary_yearly": {
-                "BOOL": false
             },
             "category": {
                 "S": "Fall"
@@ -196,9 +178,6 @@
             "can_overlap_day": {
                 "BOOL": true
             },
-            "can_vary_yearly": {
-                "BOOL": false
-            },
             "category": {
                 "S": "Winter"
             },
@@ -227,9 +206,6 @@
         "Item": {
             "can_overlap_day": {
                 "BOOL": true
-            },
-            "can_vary_yearly": {
-                "BOOL": false
             },
             "category": {
                 "S": "Winter"
@@ -260,9 +236,6 @@
             "can_overlap_day": {
                 "BOOL": true
             },
-            "can_vary_yearly": {
-                "BOOL": false
-            },
             "category": {
                 "S": "young spring bamboo"
             },
@@ -291,9 +264,6 @@
         "Item": {
             "can_overlap_day": {
                 "BOOL": true
-            },
-            "can_vary_yearly": {
-                "BOOL": false
             },
             "category": {
                 "S": "cherry-blossom petals"
@@ -324,9 +294,6 @@
             "can_overlap_day": {
                 "BOOL": true
             },
-            "can_vary_yearly": {
-                "BOOL": false
-            },
             "category": {
                 "S": "summer shells"
             },
@@ -355,9 +322,6 @@
         "Item": {
             "can_overlap_day": {
                 "BOOL": true
-            },
-            "can_vary_yearly": {
-                "BOOL": false
             },
             "category": {
                 "S": "acorns and pine cones"
@@ -388,9 +352,6 @@
             "can_overlap_day": {
                 "BOOL": true
             },
-            "can_vary_yearly": {
-                "BOOL": false
-            },
             "category": {
                 "S": "mushrooms"
             },
@@ -419,9 +380,6 @@
         "Item": {
             "can_overlap_day": {
                 "BOOL": true
-            },
-            "can_vary_yearly": {
-                "BOOL": false
             },
             "category": {
                 "S": "maple leaves"
@@ -452,9 +410,6 @@
             "can_overlap_day": {
                 "BOOL": true
             },
-            "can_vary_yearly": {
-                "BOOL": false
-            },
             "category": {
                 "S": "snowflakes"
             },
@@ -483,9 +438,6 @@
         "Item": {
             "can_overlap_day": {
                 "BOOL": true
-            },
-            "can_vary_yearly": {
-                "BOOL": false
             },
             "category": {
                 "S": "ornaments"
@@ -516,9 +468,6 @@
             "can_overlap_day": {
                 "BOOL": true
             },
-            "can_vary_yearly": {
-                "BOOL": false
-            },
             "category": {
                 "S": "camellia"
             },
@@ -547,9 +496,6 @@
         "Item": {
             "can_overlap_day": {
                 "BOOL": true
-            },
-            "can_vary_yearly": {
-                "BOOL": false
             },
             "category": {
                 "S": "azalea"
@@ -580,9 +526,6 @@
             "can_overlap_day": {
                 "BOOL": true
             },
-            "can_vary_yearly": {
-                "BOOL": false
-            },
             "category": {
                 "S": "hydrangea"
             },
@@ -611,9 +554,6 @@
         "Item": {
             "can_overlap_day": {
                 "BOOL": true
-            },
-            "can_vary_yearly": {
-                "BOOL": false
             },
             "category": {
                 "S": "plumeria"
@@ -644,9 +584,6 @@
             "can_overlap_day": {
                 "BOOL": true
             },
-            "can_vary_yearly": {
-                "BOOL": false
-            },
             "category": {
                 "S": "hibiscus"
             },
@@ -675,9 +612,6 @@
         "Item": {
             "can_overlap_day": {
                 "BOOL": true
-            },
-            "can_vary_yearly": {
-                "BOOL": false
             },
             "category": {
                 "S": "tea olive"
@@ -708,9 +642,6 @@
             "can_overlap_day": {
                 "BOOL": true
             },
-            "can_vary_yearly": {
-                "BOOL": false
-            },
             "category": {
                 "S": "holly"
             },
@@ -739,9 +670,6 @@
         "Item": {
             "can_overlap_day": {
                 "BOOL": true
-            },
-            "can_vary_yearly": {
-                "BOOL": false
             },
             "category": {
                 "S": "Pisces"
@@ -772,9 +700,6 @@
             "can_overlap_day": {
                 "BOOL": true
             },
-            "can_vary_yearly": {
-                "BOOL": false
-            },
             "category": {
                 "S": "Aries"
             },
@@ -803,9 +728,6 @@
         "Item": {
             "can_overlap_day": {
                 "BOOL": true
-            },
-            "can_vary_yearly": {
-                "BOOL": false
             },
             "category": {
                 "S": "Taurus"
@@ -836,9 +758,6 @@
             "can_overlap_day": {
                 "BOOL": true
             },
-            "can_vary_yearly": {
-                "BOOL": false
-            },
             "category": {
                 "S": "Gemini"
             },
@@ -867,9 +786,6 @@
         "Item": {
             "can_overlap_day": {
                 "BOOL": true
-            },
-            "can_vary_yearly": {
-                "BOOL": false
             },
             "category": {
                 "S": "Cancer"
@@ -900,9 +816,6 @@
             "can_overlap_day": {
                 "BOOL": true
             },
-            "can_vary_yearly": {
-                "BOOL": false
-            },
             "category": {
                 "S": "Leo"
             },
@@ -931,9 +844,6 @@
         "Item": {
             "can_overlap_day": {
                 "BOOL": true
-            },
-            "can_vary_yearly": {
-                "BOOL": false
             },
             "category": {
                 "S": "Virgo"
@@ -964,9 +874,6 @@
             "can_overlap_day": {
                 "BOOL": true
             },
-            "can_vary_yearly": {
-                "BOOL": false
-            },
             "category": {
                 "S": "Libra"
             },
@@ -995,9 +902,6 @@
         "Item": {
             "can_overlap_day": {
                 "BOOL": true
-            },
-            "can_vary_yearly": {
-                "BOOL": false
             },
             "category": {
                 "S": "Scorpio"
@@ -1028,9 +932,6 @@
             "can_overlap_day": {
                 "BOOL": true
             },
-            "can_vary_yearly": {
-                "BOOL": false
-            },
             "category": {
                 "S": "Sagittarius"
             },
@@ -1059,9 +960,6 @@
         "Item": {
             "can_overlap_day": {
                 "BOOL": true
-            },
-            "can_vary_yearly": {
-                "BOOL": false
             },
             "category": {
                 "S": "Capricorn"
@@ -1092,9 +990,6 @@
             "can_overlap_day": {
                 "BOOL": true
             },
-            "can_vary_yearly": {
-                "BOOL": false
-            },
             "category": {
                 "S": "Aquarius"
             },
@@ -1122,9 +1017,6 @@
     {
         "Item": {
             "can_overlap_day": {
-                "BOOL": false
-            },
-            "can_vary_yearly": {
                 "BOOL": false
             },
             "category": {
@@ -1156,9 +1048,6 @@
             "can_overlap_day": {
                 "BOOL": false
             },
-            "can_vary_yearly": {
-                "BOOL": true
-            },
             "category": {
                 "S": "Fishing Tourney"
             },
@@ -1187,9 +1076,6 @@
         "Item": {
             "can_overlap_day": {
                 "BOOL": false
-            },
-            "can_vary_yearly": {
-                "BOOL": true
             },
             "category": {
                 "S": "Fishing Tourney"
@@ -1220,9 +1106,6 @@
             "can_overlap_day": {
                 "BOOL": false
             },
-            "can_vary_yearly": {
-                "BOOL": true
-            },
             "category": {
                 "S": "Fishing Tourney"
             },
@@ -1251,9 +1134,6 @@
         "Item": {
             "can_overlap_day": {
                 "BOOL": false
-            },
-            "can_vary_yearly": {
-                "BOOL": true
             },
             "category": {
                 "S": "Fishing Tourney"
@@ -1284,9 +1164,6 @@
             "can_overlap_day": {
                 "BOOL": false
             },
-            "can_vary_yearly": {
-                "BOOL": true
-            },
             "category": {
                 "S": "Bug-Off"
             },
@@ -1315,9 +1192,6 @@
         "Item": {
             "can_overlap_day": {
                 "BOOL": false
-            },
-            "can_vary_yearly": {
-                "BOOL": true
             },
             "category": {
                 "S": "Bug-Off"
@@ -1348,9 +1222,6 @@
             "can_overlap_day": {
                 "BOOL": false
             },
-            "can_vary_yearly": {
-                "BOOL": true
-            },
             "category": {
                 "S": "Bug-Off"
             },
@@ -1379,9 +1250,6 @@
         "Item": {
             "can_overlap_day": {
                 "BOOL": false
-            },
-            "can_vary_yearly": {
-                "BOOL": true
             },
             "category": {
                 "S": "Bug-Off"
@@ -1412,9 +1280,6 @@
             "can_overlap_day": {
                 "BOOL": true
             },
-            "can_vary_yearly": {
-                "BOOL": false
-            },
             "category": {
                 "S": "Countdown"
             },
@@ -1444,9 +1309,6 @@
             "can_overlap_day": {
                 "BOOL": true
             },
-            "can_vary_yearly": {
-                "BOOL": false
-            },
             "category": {
                 "S": "New Year's Day"
             },
@@ -1474,9 +1336,6 @@
     {
         "Item": {
             "can_overlap_day": {
-                "BOOL": true
-            },
-            "can_vary_yearly": {
                 "BOOL": true
             },
             "category": {
@@ -1508,9 +1367,6 @@
             "can_overlap_day": {
                 "BOOL": true
             },
-            "can_vary_yearly": {
-                "BOOL": true
-            },
             "category": {
                 "S": "Bunny Day"
             },
@@ -1538,9 +1394,6 @@
     {
         "Item": {
             "can_overlap_day": {
-                "BOOL": true
-            },
-            "can_vary_yearly": {
                 "BOOL": true
             },
             "category": {
@@ -1572,9 +1425,6 @@
             "can_overlap_day": {
                 "BOOL": true
             },
-            "can_vary_yearly": {
-                "BOOL": false
-            },
             "category": {
                 "S": "May Day"
             },
@@ -1603,9 +1453,6 @@
         "Item": {
             "can_overlap_day": {
                 "BOOL": true
-            },
-            "can_vary_yearly": {
-                "BOOL": false
             },
             "category": {
                 "S": "International Museum Day"
@@ -1636,9 +1483,6 @@
             "can_overlap_day": {
                 "BOOL": true
             },
-            "can_vary_yearly": {
-                "BOOL": false
-            },
             "category": {
                 "S": "Wedding Season"
             },
@@ -1667,9 +1511,6 @@
         "Item": {
             "can_overlap_day": {
                 "BOOL": false
-            },
-            "can_vary_yearly": {
-                "BOOL": true
             },
             "category": {
                 "S": "Fireworks Show"
@@ -1700,9 +1541,6 @@
             "can_overlap_day": {
                 "BOOL": false
             },
-            "can_vary_yearly": {
-                "BOOL": true
-            },
             "category": {
                 "S": "Fireworks Show"
             },
@@ -1731,9 +1569,6 @@
         "Item": {
             "can_overlap_day": {
                 "BOOL": false
-            },
-            "can_vary_yearly": {
-                "BOOL": true
             },
             "category": {
                 "S": "Fireworks Show"
@@ -1764,9 +1599,6 @@
             "can_overlap_day": {
                 "BOOL": false
             },
-            "can_vary_yearly": {
-                "BOOL": true
-            },
             "category": {
                 "S": "Fireworks Show"
             },
@@ -1795,9 +1627,6 @@
         "Item": {
             "can_overlap_day": {
                 "BOOL": false
-            },
-            "can_vary_yearly": {
-                "BOOL": true
             },
             "category": {
                 "S": "Fireworks Show"
@@ -1828,9 +1657,6 @@
             "can_overlap_day": {
                 "BOOL": true
             },
-            "can_vary_yearly": {
-                "BOOL": false
-            },
             "category": {
                 "S": "Halloween"
             },
@@ -1858,9 +1684,6 @@
     {
         "Item": {
             "can_overlap_day": {
-                "BOOL": false
-            },
-            "can_vary_yearly": {
                 "BOOL": false
             },
             "category": {
@@ -1892,9 +1715,6 @@
             "can_overlap_day": {
                 "BOOL": false
             },
-            "can_vary_yearly": {
-                "BOOL": true
-            },
             "category": {
                 "S": "Turkey Day"
             },
@@ -1922,9 +1742,6 @@
     {
         "Item": {
             "can_overlap_day": {
-                "BOOL": true
-            },
-            "can_vary_yearly": {
                 "BOOL": true
             },
             "category": {
@@ -1956,9 +1773,6 @@
             "can_overlap_day": {
                 "BOOL": true
             },
-            "can_vary_yearly": {
-                "BOOL": true
-            },
             "category": {
                 "S": "Nook Friday"
             },
@@ -1987,9 +1801,6 @@
         "Item": {
             "can_overlap_day": {
                 "BOOL": true
-            },
-            "can_vary_yearly": {
-                "BOOL": false
             },
             "category": {
                 "S": "Toy Day"
@@ -2020,9 +1831,6 @@
             "can_overlap_day": {
                 "BOOL": true
             },
-            "can_vary_yearly": {
-                "BOOL": false
-            },
             "category": {
                 "S": "Toy Day"
             },
@@ -2051,9 +1859,6 @@
         "Item": {
             "can_overlap_day": {
                 "BOOL": true
-            },
-            "can_vary_yearly": {
-                "BOOL": false
             },
             "category": {
                 "S": "Toy Day"
@@ -2084,9 +1889,6 @@
             "can_overlap_day": {
                 "BOOL": true
             },
-            "can_vary_yearly": {
-                "BOOL": false
-            },
             "category": {
                 "S": "Toy Day"
             },
@@ -2114,9 +1916,6 @@
     {
         "Item": {
             "can_overlap_day": {
-                "BOOL": true
-            },
-            "can_vary_yearly": {
                 "BOOL": true
             },
             "category": {
@@ -2148,9 +1947,6 @@
             "can_overlap_day": {
                 "BOOL": true
             },
-            "can_vary_yearly": {
-                "BOOL": true
-            },
             "category": {
                 "S": "Festivale"
             },
@@ -2179,9 +1975,6 @@
         "Item": {
             "can_overlap_day": {
                 "BOOL": true
-            },
-            "can_vary_yearly": {
-                "BOOL": false
             },
             "category": {
                 "S": "Valentine's Day"
@@ -2212,9 +2005,6 @@
             "can_overlap_day": {
                 "BOOL": true
             },
-            "can_vary_yearly": {
-                "BOOL": false
-            },
             "category": {
                 "S": "April Fools' Day"
             },
@@ -2243,9 +2033,6 @@
         "Item": {
             "can_overlap_day": {
                 "BOOL": true
-            },
-            "can_vary_yearly": {
-                "BOOL": false
             },
             "category": {
                 "S": "Singmogil"
@@ -2276,9 +2063,6 @@
             "can_overlap_day": {
                 "BOOL": true
             },
-            "can_vary_yearly": {
-                "BOOL": false
-            },
             "category": {
                 "S": "Prom"
             },
@@ -2307,9 +2091,6 @@
         "Item": {
             "can_overlap_day": {
                 "BOOL": true
-            },
-            "can_vary_yearly": {
-                "BOOL": false
             },
             "category": {
                 "S": "Nature Day"
@@ -2340,9 +2121,6 @@
             "can_overlap_day": {
                 "BOOL": true
             },
-            "can_vary_yearly": {
-                "BOOL": false
-            },
             "category": {
                 "S": "Children's Day"
             },
@@ -2372,9 +2150,6 @@
             "can_overlap_day": {
                 "BOOL": true
             },
-            "can_vary_yearly": {
-                "BOOL": false
-            },
             "category": {
                 "S": "Mother's Day"
             },
@@ -2402,9 +2177,6 @@
     {
         "Item": {
             "can_overlap_day": {
-                "BOOL": true
-            },
-            "can_vary_yearly": {
                 "BOOL": true
             },
             "category": {
@@ -2436,9 +2208,6 @@
             "can_overlap_day": {
                 "BOOL": true
             },
-            "can_vary_yearly": {
-                "BOOL": true
-            },
             "category": {
                 "S": "Dano Festival"
             },
@@ -2466,9 +2235,6 @@
     {
         "Item": {
             "can_overlap_day": {
-                "BOOL": true
-            },
-            "can_vary_yearly": {
                 "BOOL": true
             },
             "category": {
@@ -2500,9 +2266,6 @@
             "can_overlap_day": {
                 "BOOL": true
             },
-            "can_vary_yearly": {
-                "BOOL": false
-            },
             "category": {
                 "S": "International Children's Day"
             },
@@ -2531,9 +2294,6 @@
         "Item": {
             "can_overlap_day": {
                 "BOOL": true
-            },
-            "can_vary_yearly": {
-                "BOOL": false
             },
             "category": {
                 "S": "Wedding Season"
@@ -2564,9 +2324,6 @@
             "can_overlap_day": {
                 "BOOL": true
             },
-            "can_vary_yearly": {
-                "BOOL": false
-            },
             "category": {
                 "S": "Father's Day"
             },
@@ -2595,9 +2352,6 @@
         "Item": {
             "can_overlap_day": {
                 "BOOL": true
-            },
-            "can_vary_yearly": {
-                "BOOL": false
             },
             "category": {
                 "S": "Summer Solstice"
@@ -2628,9 +2382,6 @@
             "can_overlap_day": {
                 "BOOL": true
             },
-            "can_vary_yearly": {
-                "BOOL": false
-            },
             "category": {
                 "S": "Tanabata"
             },
@@ -2658,9 +2409,6 @@
     {
         "Item": {
             "can_overlap_day": {
-                "BOOL": true
-            },
-            "can_vary_yearly": {
                 "BOOL": true
             },
             "category": {
@@ -2692,9 +2440,6 @@
             "can_overlap_day": {
                 "BOOL": true
             },
-            "can_vary_yearly": {
-                "BOOL": false
-            },
             "category": {
                 "S": "Le 14 juillet"
             },
@@ -2724,9 +2469,6 @@
             "can_overlap_day": {
                 "BOOL": true
             },
-            "can_vary_yearly": {
-                "BOOL": false
-            },
             "category": {
                 "S": "Cowboy Festival"
             },
@@ -2754,9 +2496,6 @@
     {
         "Item": {
             "can_overlap_day": {
-                "BOOL": true
-            },
-            "can_vary_yearly": {
                 "BOOL": true
             },
             "category": {
@@ -2788,9 +2527,6 @@
             "can_overlap_day": {
                 "BOOL": true
             },
-            "can_vary_yearly": {
-                "BOOL": false
-            },
             "category": {
                 "S": "Obon"
             },
@@ -2820,9 +2556,6 @@
             "can_overlap_day": {
                 "BOOL": true
             },
-            "can_vary_yearly": {
-                "BOOL": false
-            },
             "category": {
                 "S": "Tomato Festival"
             },
@@ -2850,9 +2583,6 @@
     {
         "Item": {
             "can_overlap_day": {
-                "BOOL": true
-            },
-            "can_vary_yearly": {
                 "BOOL": true
             },
             "category": {
@@ -2884,9 +2614,6 @@
             "can_overlap_day": {
                 "BOOL": true
             },
-            "can_vary_yearly": {
-                "BOOL": true
-            },
             "category": {
                 "S": "Chuseok"
             },
@@ -2915,9 +2642,6 @@
         "Item": {
             "can_overlap_day": {
                 "BOOL": true
-            },
-            "can_vary_yearly": {
-                "BOOL": false
             },
             "category": {
                 "S": "Grape Harvest Festival"
@@ -2948,9 +2672,6 @@
             "can_overlap_day": {
                 "BOOL": true
             },
-            "can_vary_yearly": {
-                "BOOL": false
-            },
             "category": {
                 "S": "Day of the Dead"
             },
@@ -2979,9 +2700,6 @@
         "Item": {
             "can_overlap_day": {
                 "BOOL": true
-            },
-            "can_vary_yearly": {
-                "BOOL": false
             },
             "category": {
                 "S": "Lantern Festival"
@@ -3012,9 +2730,6 @@
             "can_overlap_day": {
                 "BOOL": true
             },
-            "can_vary_yearly": {
-                "BOOL": false
-            },
             "category": {
                 "S": "Shichi-Go-San"
             },
@@ -3043,9 +2758,6 @@
         "Item": {
             "can_overlap_day": {
                 "BOOL": true
-            },
-            "can_vary_yearly": {
-                "BOOL": false
             },
             "category": {
                 "S": "Winter Solstice"
@@ -3076,9 +2788,6 @@
             "can_overlap_day": {
                 "BOOL": true
             },
-            "can_vary_yearly": {
-                "BOOL": false
-            },
             "category": {
                 "S": "New Year's Eve"
             },
@@ -3107,9 +2816,6 @@
         "Item": {
             "can_overlap_day": {
                 "BOOL": true
-            },
-            "can_vary_yearly": {
-                "BOOL": false
             },
             "category": {
                 "S": "\u014cmisoka"
@@ -3140,9 +2846,6 @@
             "can_overlap_day": {
                 "BOOL": true
             },
-            "can_vary_yearly": {
-                "BOOL": false
-            },
             "category": {
                 "S": "Silvester"
             },
@@ -3171,9 +2874,6 @@
         "Item": {
             "can_overlap_day": {
                 "BOOL": true
-            },
-            "can_vary_yearly": {
-                "BOOL": false
             },
             "category": {
                 "S": "Nochevieja"
@@ -3204,9 +2904,6 @@
             "can_overlap_day": {
                 "BOOL": true
             },
-            "can_vary_yearly": {
-                "BOOL": false
-            },
             "category": {
                 "S": "New Year's Day"
             },
@@ -3234,9 +2931,6 @@
     {
         "Item": {
             "can_overlap_day": {
-                "BOOL": true
-            },
-            "can_vary_yearly": {
                 "BOOL": true
             },
             "category": {
@@ -3268,9 +2962,6 @@
             "can_overlap_day": {
                 "BOOL": true
             },
-            "can_vary_yearly": {
-                "BOOL": true
-            },
             "category": {
                 "S": "New Year's Day"
             },
@@ -3298,9 +2989,6 @@
     {
         "Item": {
             "can_overlap_day": {
-                "BOOL": true
-            },
-            "can_vary_yearly": {
                 "BOOL": true
             },
             "category": {
@@ -3332,9 +3020,6 @@
             "can_overlap_day": {
                 "BOOL": true
             },
-            "can_vary_yearly": {
-                "BOOL": true
-            },
             "category": {
                 "S": "New Year's Day"
             },
@@ -3362,9 +3047,6 @@
     {
         "Item": {
             "can_overlap_day": {
-                "BOOL": true
-            },
-            "can_vary_yearly": {
                 "BOOL": true
             },
             "category": {
@@ -3396,9 +3078,6 @@
             "can_overlap_day": {
                 "BOOL": true
             },
-            "can_vary_yearly": {
-                "BOOL": true
-            },
             "category": {
                 "S": "New Year's Day"
             },
@@ -3426,9 +3105,6 @@
     {
         "Item": {
             "can_overlap_day": {
-                "BOOL": true
-            },
-            "can_vary_yearly": {
                 "BOOL": true
             },
             "category": {
@@ -3460,9 +3136,6 @@
             "can_overlap_day": {
                 "BOOL": true
             },
-            "can_vary_yearly": {
-                "BOOL": true
-            },
             "category": {
                 "S": "New Year's Day"
             },
@@ -3490,9 +3163,6 @@
     {
         "Item": {
             "can_overlap_day": {
-                "BOOL": true
-            },
-            "can_vary_yearly": {
                 "BOOL": true
             },
             "category": {
@@ -3524,9 +3194,6 @@
             "can_overlap_day": {
                 "BOOL": true
             },
-            "can_vary_yearly": {
-                "BOOL": true
-            },
             "category": {
                 "S": "New Year's Day"
             },
@@ -3554,9 +3221,6 @@
     {
         "Item": {
             "can_overlap_day": {
-                "BOOL": true
-            },
-            "can_vary_yearly": {
                 "BOOL": true
             },
             "category": {
@@ -3588,9 +3252,6 @@
             "can_overlap_day": {
                 "BOOL": true
             },
-            "can_vary_yearly": {
-                "BOOL": true
-            },
             "category": {
                 "S": "New Year's Day"
             },
@@ -3618,9 +3279,6 @@
     {
         "Item": {
             "can_overlap_day": {
-                "BOOL": true
-            },
-            "can_vary_yearly": {
                 "BOOL": true
             },
             "category": {
@@ -3652,9 +3310,6 @@
             "can_overlap_day": {
                 "BOOL": true
             },
-            "can_vary_yearly": {
-                "BOOL": true
-            },
             "category": {
                 "S": "New Year's Day"
             },
@@ -3683,9 +3338,6 @@
         "Item": {
             "can_overlap_day": {
                 "BOOL": true
-            },
-            "can_vary_yearly": {
-                "BOOL": false
             },
             "category": {
                 "S": "Sh\u014dgatsu"
@@ -3716,9 +3368,6 @@
             "can_overlap_day": {
                 "BOOL": true
             },
-            "can_vary_yearly": {
-                "BOOL": false
-            },
             "category": {
                 "S": "Nanakusa Gayu"
             },
@@ -3746,9 +3395,6 @@
     {
         "Item": {
             "can_overlap_day": {
-                "BOOL": true
-            },
-            "can_vary_yearly": {
                 "BOOL": true
             },
             "category": {
@@ -3780,9 +3426,6 @@
             "can_overlap_day": {
                 "BOOL": true
             },
-            "can_vary_yearly": {
-                "BOOL": false
-            },
             "category": {
                 "S": "Big Game Celebration"
             },
@@ -3810,9 +3453,6 @@
     {
         "Item": {
             "can_overlap_day": {
-                "BOOL": true
-            },
-            "can_vary_yearly": {
                 "BOOL": true
             },
             "category": {
@@ -3844,9 +3484,6 @@
             "can_overlap_day": {
                 "BOOL": true
             },
-            "can_vary_yearly": {
-                "BOOL": true
-            },
             "category": {
                 "S": "Seollal"
             },
@@ -3875,9 +3512,6 @@
         "Item": {
             "can_overlap_day": {
                 "BOOL": true
-            },
-            "can_vary_yearly": {
-                "BOOL": false
             },
             "category": {
                 "S": "Groundhog Day"
@@ -3908,9 +3542,6 @@
             "can_overlap_day": {
                 "BOOL": true
             },
-            "can_vary_yearly": {
-                "BOOL": false
-            },
             "category": {
                 "S": "Setsubun"
             },
@@ -3939,9 +3570,6 @@
         "Item": {
             "can_overlap_day": {
                 "BOOL": true
-            },
-            "can_vary_yearly": {
-                "BOOL": false
             },
             "category": {
                 "S": "Setsubun"
@@ -3972,9 +3600,6 @@
             "can_overlap_day": {
                 "BOOL": true
             },
-            "can_vary_yearly": {
-                "BOOL": false
-            },
             "category": {
                 "S": "Valentine's Day"
             },
@@ -4003,9 +3628,6 @@
         "Item": {
             "can_overlap_day": {
                 "BOOL": true
-            },
-            "can_vary_yearly": {
-                "BOOL": false
             },
             "category": {
                 "S": "Hinamatsuri"
@@ -4036,9 +3658,6 @@
             "can_overlap_day": {
                 "BOOL": true
             },
-            "can_vary_yearly": {
-                "BOOL": false
-            },
             "category": {
                 "S": "\u03c0 Day"
             },
@@ -4067,9 +3686,6 @@
         "Item": {
             "can_overlap_day": {
                 "BOOL": true
-            },
-            "can_vary_yearly": {
-                "BOOL": false
             },
             "category": {
                 "S": "Shamrock Day"

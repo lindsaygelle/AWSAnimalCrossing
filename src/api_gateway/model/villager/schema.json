@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 31,
-    "minProperties": 31,
+    "maxProperties": 30,
+    "minProperties": 30,
     "properties": {
         "birth_day": {
             "exclusiveMaximum": false,
@@ -261,7 +261,6 @@
         "style_2",
         "umbrella_name",
         "unique_entry_id",
-        "version_added",
         "wallpaper_name",
         "workbench_id"
     ],

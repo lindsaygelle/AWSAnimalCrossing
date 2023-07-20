@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 45,
-    "minProperties": 45,
+    "maxProperties": 43,
+    "minProperties": 43,
     "properties": {
         "body_category": {
             "maxLength": 12,
@@ -323,13 +323,6 @@
                 "null",
                 "string"
             ]
-        },
-        "version_added": {
-            "maxLength": 5,
-            "minLength": 5,
-            "type": [
-                "string"
-            ]
         }
     },
     "required": [
@@ -376,8 +369,7 @@
         "size_2",
         "unique_entry_id",
         "variant_id",
-        "variant_name",
-        "version_added"
+        "variant_name"
     ],
     "title": "FurnitureCeiling",
     "type": "object"

@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 9,
-    "minProperties": 9,
+    "maxProperties": 8,
+    "minProperties": 8,
     "properties": {
         "filename_image": {
             "maxLength": 20,

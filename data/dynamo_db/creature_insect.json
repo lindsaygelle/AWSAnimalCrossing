@@ -67,9 +67,6 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
-            "is_disguised": {
-                "BOOL": false
-            },
             "is_surface": {
                 "BOOL": true
             },
@@ -176,9 +173,6 @@
             },
             "is_available_sunshine": {
                 "BOOL": true
-            },
-            "is_disguised": {
-                "BOOL": false
             },
             "is_surface": {
                 "BOOL": false
@@ -287,9 +281,6 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
-            "is_disguised": {
-                "BOOL": false
-            },
             "is_surface": {
                 "BOOL": true
             },
@@ -396,9 +387,6 @@
             },
             "is_available_sunshine": {
                 "BOOL": true
-            },
-            "is_disguised": {
-                "BOOL": false
             },
             "is_surface": {
                 "BOOL": true
@@ -507,9 +495,6 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
-            "is_disguised": {
-                "BOOL": false
-            },
             "is_surface": {
                 "BOOL": true
             },
@@ -616,9 +601,6 @@
             },
             "is_available_sunshine": {
                 "BOOL": true
-            },
-            "is_disguised": {
-                "BOOL": false
             },
             "is_surface": {
                 "BOOL": false
@@ -727,9 +709,6 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
-            "is_disguised": {
-                "BOOL": false
-            },
             "is_surface": {
                 "BOOL": false
             },
@@ -836,9 +815,6 @@
             },
             "is_available_sunshine": {
                 "BOOL": true
-            },
-            "is_disguised": {
-                "BOOL": false
             },
             "is_surface": {
                 "BOOL": true
@@ -947,9 +923,6 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
-            "is_disguised": {
-                "BOOL": false
-            },
             "is_surface": {
                 "BOOL": false
             },
@@ -1056,9 +1029,6 @@
             },
             "is_available_sunshine": {
                 "BOOL": true
-            },
-            "is_disguised": {
-                "BOOL": false
             },
             "is_surface": {
                 "BOOL": false
@@ -1167,9 +1137,6 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
-            "is_disguised": {
-                "BOOL": false
-            },
             "is_surface": {
                 "BOOL": false
             },
@@ -1276,9 +1243,6 @@
             },
             "is_available_sunshine": {
                 "BOOL": true
-            },
-            "is_disguised": {
-                "BOOL": false
             },
             "is_surface": {
                 "BOOL": true
@@ -1387,9 +1351,6 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
-            "is_disguised": {
-                "BOOL": false
-            },
             "is_surface": {
                 "BOOL": false
             },
@@ -1496,9 +1457,6 @@
             },
             "is_available_sunshine": {
                 "BOOL": true
-            },
-            "is_disguised": {
-                "BOOL": false
             },
             "is_surface": {
                 "BOOL": false
@@ -1607,9 +1565,6 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
-            "is_disguised": {
-                "BOOL": false
-            },
             "is_surface": {
                 "BOOL": true
             },
@@ -1716,9 +1671,6 @@
             },
             "is_available_sunshine": {
                 "BOOL": true
-            },
-            "is_disguised": {
-                "BOOL": false
             },
             "is_surface": {
                 "BOOL": true
@@ -1827,9 +1779,6 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
-            "is_disguised": {
-                "BOOL": false
-            },
             "is_surface": {
                 "BOOL": true
             },
@@ -1936,9 +1885,6 @@
             },
             "is_available_sunshine": {
                 "BOOL": true
-            },
-            "is_disguised": {
-                "BOOL": false
             },
             "is_surface": {
                 "BOOL": false
@@ -2047,9 +1993,6 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
-            "is_disguised": {
-                "BOOL": false
-            },
             "is_surface": {
                 "BOOL": false
             },
@@ -2156,9 +2099,6 @@
             },
             "is_available_sunshine": {
                 "BOOL": true
-            },
-            "is_disguised": {
-                "BOOL": false
             },
             "is_surface": {
                 "BOOL": true
@@ -2267,9 +2207,6 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
-            "is_disguised": {
-                "BOOL": false
-            },
             "is_surface": {
                 "BOOL": false
             },
@@ -2376,9 +2313,6 @@
             },
             "is_available_sunshine": {
                 "BOOL": true
-            },
-            "is_disguised": {
-                "BOOL": false
             },
             "is_surface": {
                 "BOOL": true
@@ -2487,9 +2421,6 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
-            "is_disguised": {
-                "BOOL": false
-            },
             "is_surface": {
                 "BOOL": true
             },
@@ -2596,9 +2527,6 @@
             },
             "is_available_sunshine": {
                 "BOOL": true
-            },
-            "is_disguised": {
-                "BOOL": false
             },
             "is_surface": {
                 "BOOL": false
@@ -2707,9 +2635,6 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
-            "is_disguised": {
-                "BOOL": false
-            },
             "is_surface": {
                 "BOOL": false
             },
@@ -2817,14 +2742,11 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
-            "is_disguised": {
-                "BOOL": false
-            },
             "is_surface": {
                 "BOOL": false
             },
             "location_category": {
-                "S": "Trash"
+                "S": "Air"
             },
             "name": {
                 "S": "Fly"
@@ -2926,9 +2848,6 @@
             },
             "is_available_sunshine": {
                 "BOOL": true
-            },
-            "is_disguised": {
-                "BOOL": false
             },
             "is_surface": {
                 "BOOL": true
@@ -3037,9 +2956,6 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
-            "is_disguised": {
-                "BOOL": false
-            },
             "is_surface": {
                 "BOOL": true
             },
@@ -3146,9 +3062,6 @@
             },
             "is_available_sunshine": {
                 "BOOL": true
-            },
-            "is_disguised": {
-                "BOOL": false
             },
             "is_surface": {
                 "BOOL": false
@@ -3257,9 +3170,6 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
-            "is_disguised": {
-                "BOOL": false
-            },
             "is_surface": {
                 "BOOL": true
             },
@@ -3366,9 +3276,6 @@
             },
             "is_available_sunshine": {
                 "BOOL": true
-            },
-            "is_disguised": {
-                "BOOL": false
             },
             "is_surface": {
                 "BOOL": true
@@ -3477,9 +3384,6 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
-            "is_disguised": {
-                "BOOL": false
-            },
             "is_surface": {
                 "BOOL": true
             },
@@ -3586,9 +3490,6 @@
             },
             "is_available_sunshine": {
                 "BOOL": true
-            },
-            "is_disguised": {
-                "BOOL": false
             },
             "is_surface": {
                 "BOOL": false
@@ -3697,9 +3598,6 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
-            "is_disguised": {
-                "BOOL": false
-            },
             "is_surface": {
                 "BOOL": true
             },
@@ -3805,9 +3703,6 @@
                 "BOOL": true
             },
             "is_available_sunshine": {
-                "BOOL": true
-            },
-            "is_disguised": {
                 "BOOL": true
             },
             "is_surface": {
@@ -3917,9 +3812,6 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
-            "is_disguised": {
-                "BOOL": false
-            },
             "is_surface": {
                 "BOOL": false
             },
@@ -4026,9 +3918,6 @@
             },
             "is_available_sunshine": {
                 "BOOL": true
-            },
-            "is_disguised": {
-                "BOOL": false
             },
             "is_surface": {
                 "BOOL": true
@@ -4137,9 +4026,6 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
-            "is_disguised": {
-                "BOOL": false
-            },
             "is_surface": {
                 "BOOL": true
             },
@@ -4246,9 +4132,6 @@
             },
             "is_available_sunshine": {
                 "BOOL": true
-            },
-            "is_disguised": {
-                "BOOL": false
             },
             "is_surface": {
                 "BOOL": true
@@ -4357,9 +4240,6 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
-            "is_disguised": {
-                "BOOL": false
-            },
             "is_surface": {
                 "BOOL": true
             },
@@ -4466,9 +4346,6 @@
             },
             "is_available_sunshine": {
                 "BOOL": true
-            },
-            "is_disguised": {
-                "BOOL": false
             },
             "is_surface": {
                 "BOOL": true
@@ -4577,9 +4454,6 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
-            "is_disguised": {
-                "BOOL": false
-            },
             "is_surface": {
                 "BOOL": false
             },
@@ -4686,9 +4560,6 @@
             },
             "is_available_sunshine": {
                 "BOOL": true
-            },
-            "is_disguised": {
-                "BOOL": false
             },
             "is_surface": {
                 "BOOL": true
@@ -4797,9 +4668,6 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
-            "is_disguised": {
-                "BOOL": false
-            },
             "is_surface": {
                 "BOOL": true
             },
@@ -4906,9 +4774,6 @@
             },
             "is_available_sunshine": {
                 "BOOL": true
-            },
-            "is_disguised": {
-                "BOOL": false
             },
             "is_surface": {
                 "BOOL": true
@@ -5017,9 +4882,6 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
-            "is_disguised": {
-                "BOOL": false
-            },
             "is_surface": {
                 "BOOL": true
             },
@@ -5126,9 +4988,6 @@
             },
             "is_available_sunshine": {
                 "BOOL": true
-            },
-            "is_disguised": {
-                "BOOL": false
             },
             "is_surface": {
                 "BOOL": true
@@ -5237,9 +5096,6 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
-            "is_disguised": {
-                "BOOL": false
-            },
             "is_surface": {
                 "BOOL": true
             },
@@ -5346,9 +5202,6 @@
             },
             "is_available_sunshine": {
                 "BOOL": true
-            },
-            "is_disguised": {
-                "BOOL": false
             },
             "is_surface": {
                 "BOOL": true
@@ -5457,9 +5310,6 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
-            "is_disguised": {
-                "BOOL": false
-            },
             "is_surface": {
                 "BOOL": true
             },
@@ -5566,9 +5416,6 @@
             },
             "is_available_sunshine": {
                 "BOOL": true
-            },
-            "is_disguised": {
-                "BOOL": false
             },
             "is_surface": {
                 "BOOL": false
@@ -5677,14 +5524,11 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
-            "is_disguised": {
-                "BOOL": false
-            },
             "is_surface": {
                 "BOOL": false
             },
             "location_category": {
-                "S": "Light Source"
+                "S": "Air"
             },
             "name": {
                 "S": "Moth"
@@ -5786,9 +5630,6 @@
             },
             "is_available_sunshine": {
                 "BOOL": true
-            },
-            "is_disguised": {
-                "BOOL": false
             },
             "is_surface": {
                 "BOOL": true
@@ -5897,9 +5738,6 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
-            "is_disguised": {
-                "BOOL": false
-            },
             "is_surface": {
                 "BOOL": true
             },
@@ -6006,9 +5844,6 @@
             },
             "is_available_sunshine": {
                 "BOOL": true
-            },
-            "is_disguised": {
-                "BOOL": false
             },
             "is_surface": {
                 "BOOL": true
@@ -6117,9 +5952,6 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
-            "is_disguised": {
-                "BOOL": false
-            },
             "is_surface": {
                 "BOOL": false
             },
@@ -6226,9 +6058,6 @@
             },
             "is_available_sunshine": {
                 "BOOL": true
-            },
-            "is_disguised": {
-                "BOOL": false
             },
             "is_surface": {
                 "BOOL": false
@@ -6337,9 +6166,6 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
-            "is_disguised": {
-                "BOOL": false
-            },
             "is_surface": {
                 "BOOL": true
             },
@@ -6446,9 +6272,6 @@
             },
             "is_available_sunshine": {
                 "BOOL": true
-            },
-            "is_disguised": {
-                "BOOL": false
             },
             "is_surface": {
                 "BOOL": true
@@ -6557,9 +6380,6 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
-            "is_disguised": {
-                "BOOL": false
-            },
             "is_surface": {
                 "BOOL": true
             },
@@ -6666,9 +6486,6 @@
             },
             "is_available_sunshine": {
                 "BOOL": true
-            },
-            "is_disguised": {
-                "BOOL": false
             },
             "is_surface": {
                 "BOOL": true
@@ -6777,9 +6594,6 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
-            "is_disguised": {
-                "BOOL": false
-            },
             "is_surface": {
                 "BOOL": false
             },
@@ -6886,9 +6700,6 @@
             },
             "is_available_sunshine": {
                 "BOOL": true
-            },
-            "is_disguised": {
-                "BOOL": false
             },
             "is_surface": {
                 "BOOL": true
@@ -6997,9 +6808,6 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
-            "is_disguised": {
-                "BOOL": false
-            },
             "is_surface": {
                 "BOOL": true
             },
@@ -7106,9 +6914,6 @@
             },
             "is_available_sunshine": {
                 "BOOL": true
-            },
-            "is_disguised": {
-                "BOOL": false
             },
             "is_surface": {
                 "BOOL": true
@@ -7217,9 +7022,6 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
-            "is_disguised": {
-                "BOOL": false
-            },
             "is_surface": {
                 "BOOL": true
             },
@@ -7327,9 +7129,6 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
-            "is_disguised": {
-                "BOOL": false
-            },
             "is_surface": {
                 "BOOL": true
             },
@@ -7435,9 +7234,6 @@
                 "BOOL": true
             },
             "is_available_sunshine": {
-                "BOOL": false
-            },
-            "is_disguised": {
                 "BOOL": false
             },
             "is_surface": {
@@ -7547,9 +7343,6 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
-            "is_disguised": {
-                "BOOL": false
-            },
             "is_surface": {
                 "BOOL": true
             },
@@ -7656,9 +7449,6 @@
             },
             "is_available_sunshine": {
                 "BOOL": true
-            },
-            "is_disguised": {
-                "BOOL": false
             },
             "is_surface": {
                 "BOOL": false
@@ -7767,9 +7557,6 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
-            "is_disguised": {
-                "BOOL": false
-            },
             "is_surface": {
                 "BOOL": true
             },
@@ -7876,9 +7663,6 @@
             },
             "is_available_sunshine": {
                 "BOOL": true
-            },
-            "is_disguised": {
-                "BOOL": false
             },
             "is_surface": {
                 "BOOL": false
@@ -7987,9 +7771,6 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
-            "is_disguised": {
-                "BOOL": false
-            },
             "is_surface": {
                 "BOOL": true
             },
@@ -8096,9 +7877,6 @@
             },
             "is_available_sunshine": {
                 "BOOL": true
-            },
-            "is_disguised": {
-                "BOOL": false
             },
             "is_surface": {
                 "BOOL": true
@@ -8207,9 +7985,6 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
-            "is_disguised": {
-                "BOOL": false
-            },
             "is_surface": {
                 "BOOL": true
             },
@@ -8315,9 +8090,6 @@
                 "BOOL": true
             },
             "is_available_sunshine": {
-                "BOOL": true
-            },
-            "is_disguised": {
                 "BOOL": true
             },
             "is_surface": {
@@ -8427,9 +8199,6 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
-            "is_disguised": {
-                "BOOL": false
-            },
             "is_surface": {
                 "BOOL": true
             },
@@ -8536,9 +8305,6 @@
             },
             "is_available_sunshine": {
                 "BOOL": true
-            },
-            "is_disguised": {
-                "BOOL": false
             },
             "is_surface": {
                 "BOOL": true
@@ -8647,9 +8413,6 @@
             "is_available_sunshine": {
                 "BOOL": true
             },
-            "is_disguised": {
-                "BOOL": false
-            },
             "is_surface": {
                 "BOOL": false
             },
@@ -8756,9 +8519,6 @@
             },
             "is_available_sunshine": {
                 "BOOL": true
-            },
-            "is_disguised": {
-                "BOOL": false
             },
             "is_surface": {
                 "BOOL": false

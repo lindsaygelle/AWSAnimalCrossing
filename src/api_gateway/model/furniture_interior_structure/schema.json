@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 46,
-    "minProperties": 46,
+    "maxProperties": 44,
+    "minProperties": 44,
     "properties": {
         "body_category": {
             "maxLength": 11,
@@ -297,13 +297,6 @@
                 "null",
                 "string"
             ]
-        },
-        "version_added": {
-            "maxLength": 5,
-            "minLength": 5,
-            "type": [
-                "string"
-            ]
         }
     },
     "required": [
@@ -351,8 +344,7 @@
         "size_2",
         "unique_entry_id",
         "variant_id",
-        "variant_name",
-        "version_added"
+        "variant_name"
     ],
     "title": "FurnitureInteriorStructure",
     "type": "object"
