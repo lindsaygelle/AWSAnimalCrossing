@@ -123,6 +123,9 @@
             },
             "variant_name": {
                 "S": "Black"
+            },
+            "version_added": {
+                "S": "1.3.0"
             }
         },
         "TableName": "clothing_other"
@@ -251,6 +254,9 @@
             },
             "variant_name": {
                 "S": "Red"
+            },
+            "version_added": {
+                "S": "1.3.0"
             }
         },
         "TableName": "clothing_other"
@@ -379,6 +385,9 @@
             },
             "variant_name": {
                 "S": "Yellow"
+            },
+            "version_added": {
+                "S": "1.3.0"
             }
         },
         "TableName": "clothing_other"
@@ -507,6 +516,9 @@
             },
             "variant_name": {
                 "S": "Blue"
+            },
+            "version_added": {
+                "S": "1.3.0"
             }
         },
         "TableName": "clothing_other"
@@ -635,6 +647,9 @@
             },
             "variant_name": {
                 "S": "Yellow"
+            },
+            "version_added": {
+                "S": "1.3.0"
             }
         },
         "TableName": "clothing_other"
@@ -763,6 +778,9 @@
             },
             "variant_name": {
                 "S": "Green"
+            },
+            "version_added": {
+                "S": "1.3.0"
             }
         },
         "TableName": "clothing_other"
@@ -891,6 +909,9 @@
             },
             "variant_name": {
                 "S": "Light Blue"
+            },
+            "version_added": {
+                "S": "1.3.0"
             }
         },
         "TableName": "clothing_other"
@@ -1019,6 +1040,9 @@
             },
             "variant_name": {
                 "S": "Purple"
+            },
+            "version_added": {
+                "S": "1.3.0"
             }
         },
         "TableName": "clothing_other"
@@ -1147,6 +1171,9 @@
             },
             "variant_name": {
                 "NULL": true
+            },
+            "version_added": {
+                "S": "1.3.0"
             }
         },
         "TableName": "clothing_other"

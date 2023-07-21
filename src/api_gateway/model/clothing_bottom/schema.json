@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 39,
-    "minProperties": 39,
+    "maxProperties": 41,
+    "minProperties": 41,
     "properties": {
         "buy_currency": {
             "maxLength": 5,
@@ -285,6 +285,13 @@
                 "null",
                 "string"
             ]
+        },
+        "version_added": {
+            "maxLength": 5,
+            "minLength": 5,
+            "type": [
+                "string"
+            ]
         }
     },
     "required": [
@@ -327,7 +334,8 @@
         "style_1",
         "style_2",
         "unique_entry_id",
-        "variant_name"
+        "variant_name",
+        "version_added"
     ],
     "title": "ClothingBottom",
     "type": "object"

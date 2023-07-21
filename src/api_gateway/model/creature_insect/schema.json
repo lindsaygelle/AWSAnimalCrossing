@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 33,
-    "minProperties": 33,
+    "maxProperties": 35,
+    "minProperties": 35,
     "properties": {
         "can_fly": {
             "type": [
@@ -144,6 +144,11 @@
                 "boolean"
             ]
         },
+        "is_disguised": {
+            "type": [
+                "boolean"
+            ]
+        },
         "is_surface": {
             "type": [
                 "boolean"
@@ -262,6 +267,7 @@
         "internal_name",
         "is_available_raining",
         "is_available_sunshine",
+        "is_disguised",
         "is_surface",
         "location_category",
         "name",

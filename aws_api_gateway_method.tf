@@ -21,8 +21,9 @@ resource "aws_api_gateway_method" "achievement_GET" {
 // achievement
 resource "aws_api_gateway_method" "achievement_POST" {
   api_key_required     = false
-  authorization        = "NONE"
+  authorization        = "COGNITO_USER_POOLS"
   authorization_scopes = []
+  authorizer_id        = aws_api_gateway_authorizer.cognito.id
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.achievement.id
   rest_api_id          = aws_api_gateway_resource.achievement.rest_api_id
@@ -65,8 +66,9 @@ resource "aws_api_gateway_method" "card_GET" {
 // card
 resource "aws_api_gateway_method" "card_POST" {
   api_key_required     = false
-  authorization        = "NONE"
+  authorization        = "COGNITO_USER_POOLS"
   authorization_scopes = []
+  authorizer_id        = aws_api_gateway_authorizer.cognito.id
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.card.id
   rest_api_id          = aws_api_gateway_resource.card.rest_api_id
@@ -119,6 +121,7 @@ resource "aws_api_gateway_method" "clothing_accessory_GET" {
     "method.request.querystring.is_equippable"         = false
     "method.request.querystring.is_seasonal"           = false
     "method.request.querystring.is_unlocked"           = false
+    "method.request.querystring.mannequin_season"      = false
     "method.request.querystring.order"                 = false
     "method.request.querystring.seasonal_availability" = false
     "method.request.querystring.seasonality"           = false
@@ -128,6 +131,7 @@ resource "aws_api_gateway_method" "clothing_accessory_GET" {
     "method.request.querystring.size_2"                = false
     "method.request.querystring.style_1"               = false
     "method.request.querystring.style_2"               = false
+    "method.request.querystring.version_added"         = false
     "method.request.querystring.villager_gender"       = false
   }
   request_validator_id = aws_api_gateway_request_validator.request_parameters.id
@@ -136,8 +140,9 @@ resource "aws_api_gateway_method" "clothing_accessory_GET" {
 // clothing_accessory
 resource "aws_api_gateway_method" "clothing_accessory_POST" {
   api_key_required     = false
-  authorization        = "NONE"
+  authorization        = "COGNITO_USER_POOLS"
   authorization_scopes = []
+  authorizer_id        = aws_api_gateway_authorizer.cognito.id
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.clothing_accessory.id
   rest_api_id          = aws_api_gateway_resource.clothing_accessory.rest_api_id
@@ -199,6 +204,7 @@ resource "aws_api_gateway_method" "clothing_bag_GET" {
     "method.request.querystring.size_2"                = false
     "method.request.querystring.style_1"               = false
     "method.request.querystring.style_2"               = false
+    "method.request.querystring.version_added"         = false
   }
   request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
@@ -206,8 +212,9 @@ resource "aws_api_gateway_method" "clothing_bag_GET" {
 // clothing_bag
 resource "aws_api_gateway_method" "clothing_bag_POST" {
   api_key_required     = false
-  authorization        = "NONE"
+  authorization        = "COGNITO_USER_POOLS"
   authorization_scopes = []
+  authorizer_id        = aws_api_gateway_authorizer.cognito.id
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.clothing_bag.id
   rest_api_id          = aws_api_gateway_resource.clothing_bag.rest_api_id
@@ -260,6 +267,7 @@ resource "aws_api_gateway_method" "clothing_bottom_GET" {
     "method.request.querystring.is_equippable"         = false
     "method.request.querystring.is_seasonal"           = false
     "method.request.querystring.is_unlocked"           = false
+    "method.request.querystring.mannequin_season"      = false
     "method.request.querystring.order"                 = false
     "method.request.querystring.seasonal_availability" = false
     "method.request.querystring.seasonality"           = false
@@ -269,6 +277,7 @@ resource "aws_api_gateway_method" "clothing_bottom_GET" {
     "method.request.querystring.size_2"                = false
     "method.request.querystring.style_1"               = false
     "method.request.querystring.style_2"               = false
+    "method.request.querystring.version_added"         = false
   }
   request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
@@ -276,8 +285,9 @@ resource "aws_api_gateway_method" "clothing_bottom_GET" {
 // clothing_bottom
 resource "aws_api_gateway_method" "clothing_bottom_POST" {
   api_key_required     = false
-  authorization        = "NONE"
+  authorization        = "COGNITO_USER_POOLS"
   authorization_scopes = []
+  authorizer_id        = aws_api_gateway_authorizer.cognito.id
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.clothing_bottom.id
   rest_api_id          = aws_api_gateway_resource.clothing_bottom.rest_api_id
@@ -330,6 +340,7 @@ resource "aws_api_gateway_method" "clothing_dress_up_GET" {
     "method.request.querystring.is_equippable"         = false
     "method.request.querystring.is_seasonal"           = false
     "method.request.querystring.is_unlocked"           = false
+    "method.request.querystring.mannequin_season"      = false
     "method.request.querystring.order"                 = false
     "method.request.querystring.seasonal_availability" = false
     "method.request.querystring.seasonality"           = false
@@ -341,6 +352,7 @@ resource "aws_api_gateway_method" "clothing_dress_up_GET" {
     "method.request.querystring.size_2"                = false
     "method.request.querystring.style_1"               = false
     "method.request.querystring.style_2"               = false
+    "method.request.querystring.version_added"         = false
     "method.request.querystring.villager_gender"       = false
   }
   request_validator_id = aws_api_gateway_request_validator.request_parameters.id
@@ -349,8 +361,9 @@ resource "aws_api_gateway_method" "clothing_dress_up_GET" {
 // clothing_dress_up
 resource "aws_api_gateway_method" "clothing_dress_up_POST" {
   api_key_required     = false
-  authorization        = "NONE"
+  authorization        = "COGNITO_USER_POOLS"
   authorization_scopes = []
+  authorizer_id        = aws_api_gateway_authorizer.cognito.id
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.clothing_dress_up.id
   rest_api_id          = aws_api_gateway_resource.clothing_dress_up.rest_api_id
@@ -403,6 +416,7 @@ resource "aws_api_gateway_method" "clothing_headwear_GET" {
     "method.request.querystring.is_equippable"         = false
     "method.request.querystring.is_seasonal"           = false
     "method.request.querystring.is_unlocked"           = false
+    "method.request.querystring.mannequin_season"      = false
     "method.request.querystring.order"                 = false
     "method.request.querystring.seasonal_availability" = false
     "method.request.querystring.seasonality"           = false
@@ -412,6 +426,7 @@ resource "aws_api_gateway_method" "clothing_headwear_GET" {
     "method.request.querystring.size_2"                = false
     "method.request.querystring.style_1"               = false
     "method.request.querystring.style_2"               = false
+    "method.request.querystring.version_added"         = false
     "method.request.querystring.villager_gender"       = false
   }
   request_validator_id = aws_api_gateway_request_validator.request_parameters.id
@@ -420,8 +435,9 @@ resource "aws_api_gateway_method" "clothing_headwear_GET" {
 // clothing_headwear
 resource "aws_api_gateway_method" "clothing_headwear_POST" {
   api_key_required     = false
-  authorization        = "NONE"
+  authorization        = "COGNITO_USER_POOLS"
   authorization_scopes = []
+  authorizer_id        = aws_api_gateway_authorizer.cognito.id
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.clothing_headwear.id
   rest_api_id          = aws_api_gateway_resource.clothing_headwear.rest_api_id
@@ -485,6 +501,7 @@ resource "aws_api_gateway_method" "clothing_other_GET" {
     "method.request.querystring.size_2"                = false
     "method.request.querystring.style_1"               = false
     "method.request.querystring.style_2"               = false
+    "method.request.querystring.version_added"         = false
   }
   request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
@@ -492,8 +509,9 @@ resource "aws_api_gateway_method" "clothing_other_GET" {
 // clothing_other
 resource "aws_api_gateway_method" "clothing_other_POST" {
   api_key_required     = false
-  authorization        = "NONE"
+  authorization        = "COGNITO_USER_POOLS"
   authorization_scopes = []
+  authorizer_id        = aws_api_gateway_authorizer.cognito.id
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.clothing_other.id
   rest_api_id          = aws_api_gateway_resource.clothing_other.rest_api_id
@@ -546,6 +564,7 @@ resource "aws_api_gateway_method" "clothing_shoe_GET" {
     "method.request.querystring.is_equippable"         = false
     "method.request.querystring.is_seasonal"           = false
     "method.request.querystring.is_unlocked"           = false
+    "method.request.querystring.mannequin_season"      = false
     "method.request.querystring.order"                 = false
     "method.request.querystring.seasonal_availability" = false
     "method.request.querystring.seasonality"           = false
@@ -555,6 +574,7 @@ resource "aws_api_gateway_method" "clothing_shoe_GET" {
     "method.request.querystring.size_2"                = false
     "method.request.querystring.style_1"               = false
     "method.request.querystring.style_2"               = false
+    "method.request.querystring.version_added"         = false
   }
   request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
@@ -562,8 +582,9 @@ resource "aws_api_gateway_method" "clothing_shoe_GET" {
 // clothing_shoe
 resource "aws_api_gateway_method" "clothing_shoe_POST" {
   api_key_required     = false
-  authorization        = "NONE"
+  authorization        = "COGNITO_USER_POOLS"
   authorization_scopes = []
+  authorizer_id        = aws_api_gateway_authorizer.cognito.id
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.clothing_shoe.id
   rest_api_id          = aws_api_gateway_resource.clothing_shoe.rest_api_id
@@ -616,6 +637,7 @@ resource "aws_api_gateway_method" "clothing_sock_GET" {
     "method.request.querystring.is_equippable"         = false
     "method.request.querystring.is_seasonal"           = false
     "method.request.querystring.is_unlocked"           = false
+    "method.request.querystring.mannequin_season"      = false
     "method.request.querystring.order"                 = false
     "method.request.querystring.seasonal_availability" = false
     "method.request.querystring.seasonality"           = false
@@ -625,6 +647,7 @@ resource "aws_api_gateway_method" "clothing_sock_GET" {
     "method.request.querystring.size_2"                = false
     "method.request.querystring.style_1"               = false
     "method.request.querystring.style_2"               = false
+    "method.request.querystring.version_added"         = false
   }
   request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
@@ -632,8 +655,9 @@ resource "aws_api_gateway_method" "clothing_sock_GET" {
 // clothing_sock
 resource "aws_api_gateway_method" "clothing_sock_POST" {
   api_key_required     = false
-  authorization        = "NONE"
+  authorization        = "COGNITO_USER_POOLS"
   authorization_scopes = []
+  authorizer_id        = aws_api_gateway_authorizer.cognito.id
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.clothing_sock.id
   rest_api_id          = aws_api_gateway_resource.clothing_sock.rest_api_id
@@ -686,6 +710,7 @@ resource "aws_api_gateway_method" "clothing_top_GET" {
     "method.request.querystring.is_equippable"         = false
     "method.request.querystring.is_seasonal"           = false
     "method.request.querystring.is_unlocked"           = false
+    "method.request.querystring.mannequin_season"      = false
     "method.request.querystring.order"                 = false
     "method.request.querystring.seasonal_availability" = false
     "method.request.querystring.seasonality"           = false
@@ -695,6 +720,7 @@ resource "aws_api_gateway_method" "clothing_top_GET" {
     "method.request.querystring.size_2"                = false
     "method.request.querystring.style_1"               = false
     "method.request.querystring.style_2"               = false
+    "method.request.querystring.version_added"         = false
     "method.request.querystring.villager_gender"       = false
   }
   request_validator_id = aws_api_gateway_request_validator.request_parameters.id
@@ -703,8 +729,9 @@ resource "aws_api_gateway_method" "clothing_top_GET" {
 // clothing_top
 resource "aws_api_gateway_method" "clothing_top_POST" {
   api_key_required     = false
-  authorization        = "NONE"
+  authorization        = "COGNITO_USER_POOLS"
   authorization_scopes = []
+  authorizer_id        = aws_api_gateway_authorizer.cognito.id
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.clothing_top.id
   rest_api_id          = aws_api_gateway_resource.clothing_top.rest_api_id
@@ -769,8 +796,9 @@ resource "aws_api_gateway_method" "clothing_umbrella_GET" {
 // clothing_umbrella
 resource "aws_api_gateway_method" "clothing_umbrella_POST" {
   api_key_required     = false
-  authorization        = "NONE"
+  authorization        = "COGNITO_USER_POOLS"
   authorization_scopes = []
+  authorizer_id        = aws_api_gateway_authorizer.cognito.id
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.clothing_umbrella.id
   rest_api_id          = aws_api_gateway_resource.clothing_umbrella.rest_api_id
@@ -811,8 +839,9 @@ resource "aws_api_gateway_method" "construction_GET" {
 // construction
 resource "aws_api_gateway_method" "construction_POST" {
   api_key_required     = false
-  authorization        = "NONE"
+  authorization        = "COGNITO_USER_POOLS"
   authorization_scopes = []
+  authorizer_id        = aws_api_gateway_authorizer.cognito.id
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.construction.id
   rest_api_id          = aws_api_gateway_resource.construction.rest_api_id
@@ -843,30 +872,33 @@ resource "aws_api_gateway_method" "creature_fish_GET" {
   rest_api_id          = aws_api_gateway_resource.creature_fish.rest_api_id
   request_models       = {}
   request_parameters = {
-    "method.request.querystring.challenge_category" = false
-    "method.request.querystring.color_1"            = false
-    "method.request.querystring.color_2"            = false
-    "method.request.querystring.hha_category"       = false
-    "method.request.querystring.hha_concept_1"      = false
-    "method.request.querystring.hha_concept_2"      = false
-    "method.request.querystring.hha_points"         = false
-    "method.request.querystring.hha_series"         = false
-    "method.request.querystring.hha_set"            = false
-    "method.request.querystring.internal_id"        = false
-    "method.request.querystring.internal_label"     = false
-    "method.request.querystring.internal_name"      = false
-    "method.request.querystring.is_surface"         = false
-    "method.request.querystring.lighting_category"  = false
-    "method.request.querystring.location_category"  = false
-    "method.request.querystring.rate_maximum"       = false
-    "method.request.querystring.rate_minimum"       = false
-    "method.request.querystring.sell_currency"      = false
-    "method.request.querystring.sell_price"         = false
-    "method.request.querystring.size_1"             = false
-    "method.request.querystring.size_2"             = false
-    "method.request.querystring.size_silhouette"    = false
-    "method.request.querystring.unlock_number"      = false
-    "method.request.querystring.vision_category"    = false
+    "method.request.querystring.challenge_category"    = false
+    "method.request.querystring.color_1"               = false
+    "method.request.querystring.color_2"               = false
+    "method.request.querystring.hha_category"          = false
+    "method.request.querystring.hha_concept_1"         = false
+    "method.request.querystring.hha_concept_2"         = false
+    "method.request.querystring.hha_points"            = false
+    "method.request.querystring.hha_series"            = false
+    "method.request.querystring.hha_set"               = false
+    "method.request.querystring.internal_id"           = false
+    "method.request.querystring.internal_label"        = false
+    "method.request.querystring.internal_name"         = false
+    "method.request.querystring.is_available_raining"  = false
+    "method.request.querystring.is_available_sunshine" = false
+    "method.request.querystring.is_surface"            = false
+    "method.request.querystring.lighting_category"     = false
+    "method.request.querystring.location_category"     = false
+    "method.request.querystring.location_name"         = false
+    "method.request.querystring.rate_maximum"          = false
+    "method.request.querystring.rate_minimum"          = false
+    "method.request.querystring.sell_currency"         = false
+    "method.request.querystring.sell_price"            = false
+    "method.request.querystring.size_1"                = false
+    "method.request.querystring.size_2"                = false
+    "method.request.querystring.size_silhouette"       = false
+    "method.request.querystring.unlock_number"         = false
+    "method.request.querystring.vision_category"       = false
   }
   request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
@@ -874,8 +906,9 @@ resource "aws_api_gateway_method" "creature_fish_GET" {
 // creature_fish
 resource "aws_api_gateway_method" "creature_fish_POST" {
   api_key_required     = false
-  authorization        = "NONE"
+  authorization        = "COGNITO_USER_POOLS"
   authorization_scopes = []
+  authorizer_id        = aws_api_gateway_authorizer.cognito.id
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.creature_fish.id
   rest_api_id          = aws_api_gateway_resource.creature_fish.rest_api_id
@@ -906,6 +939,7 @@ resource "aws_api_gateway_method" "creature_insect_GET" {
   rest_api_id          = aws_api_gateway_resource.creature_insect.rest_api_id
   request_models       = {}
   request_parameters = {
+    "method.request.querystring.can_fly"               = false
     "method.request.querystring.color_1"               = false
     "method.request.querystring.color_2"               = false
     "method.request.querystring.hha_category"          = false
@@ -919,6 +953,7 @@ resource "aws_api_gateway_method" "creature_insect_GET" {
     "method.request.querystring.internal_name"         = false
     "method.request.querystring.is_available_raining"  = false
     "method.request.querystring.is_available_sunshine" = false
+    "method.request.querystring.is_disguised"          = false
     "method.request.querystring.is_surface"            = false
     "method.request.querystring.location_category"     = false
     "method.request.querystring.rate_maximum"          = false
@@ -935,8 +970,9 @@ resource "aws_api_gateway_method" "creature_insect_GET" {
 // creature_insect
 resource "aws_api_gateway_method" "creature_insect_POST" {
   api_key_required     = false
-  authorization        = "NONE"
+  authorization        = "COGNITO_USER_POOLS"
   authorization_scopes = []
+  authorizer_id        = aws_api_gateway_authorizer.cognito.id
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.creature_insect.id
   rest_api_id          = aws_api_gateway_resource.creature_insect.rest_api_id
@@ -999,8 +1035,9 @@ resource "aws_api_gateway_method" "creature_sea_GET" {
 // creature_sea
 resource "aws_api_gateway_method" "creature_sea_POST" {
   api_key_required     = false
-  authorization        = "NONE"
+  authorization        = "COGNITO_USER_POOLS"
   authorization_scopes = []
+  authorizer_id        = aws_api_gateway_authorizer.cognito.id
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.creature_sea.id
   rest_api_id          = aws_api_gateway_resource.creature_sea.rest_api_id
@@ -1066,8 +1103,9 @@ resource "aws_api_gateway_method" "furniture_artwork_GET" {
 // furniture_artwork
 resource "aws_api_gateway_method" "furniture_artwork_POST" {
   api_key_required     = false
-  authorization        = "NONE"
+  authorization        = "COGNITO_USER_POOLS"
   authorization_scopes = []
+  authorizer_id        = aws_api_gateway_authorizer.cognito.id
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.furniture_artwork.id
   rest_api_id          = aws_api_gateway_resource.furniture_artwork.rest_api_id
@@ -1136,6 +1174,7 @@ resource "aws_api_gateway_method" "furniture_ceiling_GET" {
     "method.request.querystring.size_1"                = false
     "method.request.querystring.size_2"                = false
     "method.request.querystring.variant_id"            = false
+    "method.request.querystring.version_added"         = false
   }
   request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
@@ -1143,8 +1182,9 @@ resource "aws_api_gateway_method" "furniture_ceiling_GET" {
 // furniture_ceiling
 resource "aws_api_gateway_method" "furniture_ceiling_POST" {
   api_key_required     = false
-  authorization        = "NONE"
+  authorization        = "COGNITO_USER_POOLS"
   authorization_scopes = []
+  authorizer_id        = aws_api_gateway_authorizer.cognito.id
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.furniture_ceiling.id
   rest_api_id          = aws_api_gateway_resource.furniture_ceiling.rest_api_id
@@ -1195,6 +1235,7 @@ resource "aws_api_gateway_method" "furniture_fencing_GET" {
     "method.request.querystring.sell_currency"    = false
     "method.request.querystring.sell_price"       = false
     "method.request.querystring.variant_id"       = false
+    "method.request.querystring.version_added"    = false
   }
   request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
@@ -1202,8 +1243,9 @@ resource "aws_api_gateway_method" "furniture_fencing_GET" {
 // furniture_fencing
 resource "aws_api_gateway_method" "furniture_fencing_POST" {
   api_key_required     = false
-  authorization        = "NONE"
+  authorization        = "COGNITO_USER_POOLS"
   authorization_scopes = []
+  authorizer_id        = aws_api_gateway_authorizer.cognito.id
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.furniture_fencing.id
   rest_api_id          = aws_api_gateway_resource.furniture_fencing.rest_api_id
@@ -1265,8 +1307,9 @@ resource "aws_api_gateway_method" "furniture_floor_GET" {
 // furniture_floor
 resource "aws_api_gateway_method" "furniture_floor_POST" {
   api_key_required     = false
-  authorization        = "NONE"
+  authorization        = "COGNITO_USER_POOLS"
   authorization_scopes = []
+  authorizer_id        = aws_api_gateway_authorizer.cognito.id
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.furniture_floor.id
   rest_api_id          = aws_api_gateway_resource.furniture_floor.rest_api_id
@@ -1325,8 +1368,9 @@ resource "aws_api_gateway_method" "furniture_fossil_GET" {
 // furniture_fossil
 resource "aws_api_gateway_method" "furniture_fossil_POST" {
   api_key_required     = false
-  authorization        = "NONE"
+  authorization        = "COGNITO_USER_POOLS"
   authorization_scopes = []
+  authorizer_id        = aws_api_gateway_authorizer.cognito.id
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.furniture_fossil.id
   rest_api_id          = aws_api_gateway_resource.furniture_fossil.rest_api_id
@@ -1396,6 +1440,7 @@ resource "aws_api_gateway_method" "furniture_gyroid_GET" {
     "method.request.querystring.size_2"                = false
     "method.request.querystring.sound_category"        = false
     "method.request.querystring.variant_id"            = false
+    "method.request.querystring.version_added"         = false
   }
   request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
@@ -1403,8 +1448,9 @@ resource "aws_api_gateway_method" "furniture_gyroid_GET" {
 // furniture_gyroid
 resource "aws_api_gateway_method" "furniture_gyroid_POST" {
   api_key_required     = false
-  authorization        = "NONE"
+  authorization        = "COGNITO_USER_POOLS"
   authorization_scopes = []
+  authorizer_id        = aws_api_gateway_authorizer.cognito.id
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.furniture_gyroid.id
   rest_api_id          = aws_api_gateway_resource.furniture_gyroid.rest_api_id
@@ -1475,6 +1521,7 @@ resource "aws_api_gateway_method" "furniture_housewear_GET" {
     "method.request.querystring.size_2"                = false
     "method.request.querystring.speaker_category"      = false
     "method.request.querystring.variant_id"            = false
+    "method.request.querystring.version_added"         = false
   }
   request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
@@ -1482,8 +1529,9 @@ resource "aws_api_gateway_method" "furniture_housewear_GET" {
 // furniture_housewear
 resource "aws_api_gateway_method" "furniture_housewear_POST" {
   api_key_required     = false
-  authorization        = "NONE"
+  authorization        = "COGNITO_USER_POOLS"
   authorization_scopes = []
+  authorizer_id        = aws_api_gateway_authorizer.cognito.id
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.furniture_housewear.id
   rest_api_id          = aws_api_gateway_resource.furniture_housewear.rest_api_id
@@ -1553,6 +1601,7 @@ resource "aws_api_gateway_method" "furniture_interior_structure_GET" {
     "method.request.querystring.size_1"                = false
     "method.request.querystring.size_2"                = false
     "method.request.querystring.variant_id"            = false
+    "method.request.querystring.version_added"         = false
   }
   request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
@@ -1560,8 +1609,9 @@ resource "aws_api_gateway_method" "furniture_interior_structure_GET" {
 // furniture_interior_structure
 resource "aws_api_gateway_method" "furniture_interior_structure_POST" {
   api_key_required     = false
-  authorization        = "NONE"
+  authorization        = "COGNITO_USER_POOLS"
   authorization_scopes = []
+  authorizer_id        = aws_api_gateway_authorizer.cognito.id
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.furniture_interior_structure.id
   rest_api_id          = aws_api_gateway_resource.furniture_interior_structure.rest_api_id
@@ -1634,6 +1684,7 @@ resource "aws_api_gateway_method" "furniture_miscellaneous_GET" {
     "method.request.querystring.size_2"                = false
     "method.request.querystring.speaker_category"      = false
     "method.request.querystring.variant_id"            = false
+    "method.request.querystring.version_added"         = false
   }
   request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
@@ -1641,8 +1692,9 @@ resource "aws_api_gateway_method" "furniture_miscellaneous_GET" {
 // furniture_miscellaneous
 resource "aws_api_gateway_method" "furniture_miscellaneous_POST" {
   api_key_required     = false
-  authorization        = "NONE"
+  authorization        = "COGNITO_USER_POOLS"
   authorization_scopes = []
+  authorizer_id        = aws_api_gateway_authorizer.cognito.id
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.furniture_miscellaneous.id
   rest_api_id          = aws_api_gateway_resource.furniture_miscellaneous.rest_api_id
@@ -1701,8 +1753,9 @@ resource "aws_api_gateway_method" "furniture_music_GET" {
 // furniture_music
 resource "aws_api_gateway_method" "furniture_music_POST" {
   api_key_required     = false
-  authorization        = "NONE"
+  authorization        = "COGNITO_USER_POOLS"
   authorization_scopes = []
+  authorizer_id        = aws_api_gateway_authorizer.cognito.id
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.furniture_music.id
   rest_api_id          = aws_api_gateway_resource.furniture_music.rest_api_id
@@ -1765,6 +1818,7 @@ resource "aws_api_gateway_method" "furniture_photo_GET" {
     "method.request.querystring.size_1"            = false
     "method.request.querystring.size_2"            = false
     "method.request.querystring.variant_id"        = false
+    "method.request.querystring.version_added"     = false
   }
   request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
@@ -1772,8 +1826,9 @@ resource "aws_api_gateway_method" "furniture_photo_GET" {
 // furniture_photo
 resource "aws_api_gateway_method" "furniture_photo_POST" {
   api_key_required     = false
-  authorization        = "NONE"
+  authorization        = "COGNITO_USER_POOLS"
   authorization_scopes = []
+  authorizer_id        = aws_api_gateway_authorizer.cognito.id
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.furniture_photo.id
   rest_api_id          = aws_api_gateway_resource.furniture_photo.rest_api_id
@@ -1832,8 +1887,9 @@ resource "aws_api_gateway_method" "furniture_poster_GET" {
 // furniture_poster
 resource "aws_api_gateway_method" "furniture_poster_POST" {
   api_key_required     = false
-  authorization        = "NONE"
+  authorization        = "COGNITO_USER_POOLS"
   authorization_scopes = []
+  authorizer_id        = aws_api_gateway_authorizer.cognito.id
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.furniture_poster.id
   rest_api_id          = aws_api_gateway_resource.furniture_poster.rest_api_id
@@ -1897,8 +1953,9 @@ resource "aws_api_gateway_method" "furniture_rug_GET" {
 // furniture_rug
 resource "aws_api_gateway_method" "furniture_rug_POST" {
   api_key_required     = false
-  authorization        = "NONE"
+  authorization        = "COGNITO_USER_POOLS"
   authorization_scopes = []
+  authorizer_id        = aws_api_gateway_authorizer.cognito.id
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.furniture_rug.id
   rest_api_id          = aws_api_gateway_resource.furniture_rug.rest_api_id
@@ -1968,6 +2025,7 @@ resource "aws_api_gateway_method" "furniture_wall_mounted_GET" {
     "method.request.querystring.size_1"                = false
     "method.request.querystring.size_2"                = false
     "method.request.querystring.variant_id"            = false
+    "method.request.querystring.version_added"         = false
   }
   request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
@@ -1975,8 +2033,9 @@ resource "aws_api_gateway_method" "furniture_wall_mounted_GET" {
 // furniture_wall_mounted
 resource "aws_api_gateway_method" "furniture_wall_mounted_POST" {
   api_key_required     = false
-  authorization        = "NONE"
+  authorization        = "COGNITO_USER_POOLS"
   authorization_scopes = []
+  authorizer_id        = aws_api_gateway_authorizer.cognito.id
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.furniture_wall_mounted.id
   rest_api_id          = aws_api_gateway_resource.furniture_wall_mounted.rest_api_id
@@ -2045,8 +2104,9 @@ resource "aws_api_gateway_method" "furniture_wallpaper_GET" {
 // furniture_wallpaper
 resource "aws_api_gateway_method" "furniture_wallpaper_POST" {
   api_key_required     = false
-  authorization        = "NONE"
+  authorization        = "COGNITO_USER_POOLS"
   authorization_scopes = []
+  authorizer_id        = aws_api_gateway_authorizer.cognito.id
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.furniture_wallpaper.id
   rest_api_id          = aws_api_gateway_resource.furniture_wallpaper.rest_api_id
@@ -2114,6 +2174,7 @@ resource "aws_api_gateway_method" "item_GET" {
     "method.request.querystring.size_2"            = false
     "method.request.querystring.uses"              = false
     "method.request.querystring.variant_id"        = false
+    "method.request.querystring.version_added"     = false
   }
   request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
@@ -2121,8 +2182,9 @@ resource "aws_api_gateway_method" "item_GET" {
 // item
 resource "aws_api_gateway_method" "item_POST" {
   api_key_required     = false
-  authorization        = "NONE"
+  authorization        = "COGNITO_USER_POOLS"
   authorization_scopes = []
+  authorizer_id        = aws_api_gateway_authorizer.cognito.id
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.item.id
   rest_api_id          = aws_api_gateway_resource.item.rest_api_id
@@ -2184,8 +2246,9 @@ resource "aws_api_gateway_method" "item_other_GET" {
 // item_other
 resource "aws_api_gateway_method" "item_other_POST" {
   api_key_required     = false
-  authorization        = "NONE"
+  authorization        = "COGNITO_USER_POOLS"
   authorization_scopes = []
+  authorizer_id        = aws_api_gateway_authorizer.cognito.id
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.item_other.id
   rest_api_id          = aws_api_gateway_resource.item_other.rest_api_id
@@ -2217,10 +2280,12 @@ resource "aws_api_gateway_method" "occasion_GET" {
   request_models       = {}
   request_parameters = {
     "method.request.querystring.can_overlap_day" = false
+    "method.request.querystring.can_vary_yearly" = false
     "method.request.querystring.category"        = false
     "method.request.querystring.internal_id"     = false
     "method.request.querystring.internal_label"  = false
     "method.request.querystring.internal_name"   = false
+    "method.request.querystring.version_added"   = false
   }
   request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
@@ -2228,8 +2293,9 @@ resource "aws_api_gateway_method" "occasion_GET" {
 // occasion
 resource "aws_api_gateway_method" "occasion_POST" {
   api_key_required     = false
-  authorization        = "NONE"
+  authorization        = "COGNITO_USER_POOLS"
   authorization_scopes = []
+  authorizer_id        = aws_api_gateway_authorizer.cognito.id
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.occasion.id
   rest_api_id          = aws_api_gateway_resource.occasion.rest_api_id
@@ -2268,8 +2334,9 @@ resource "aws_api_gateway_method" "paradise_planning_GET" {
 // paradise_planning
 resource "aws_api_gateway_method" "paradise_planning_POST" {
   api_key_required     = false
-  authorization        = "NONE"
+  authorization        = "COGNITO_USER_POOLS"
   authorization_scopes = []
+  authorizer_id        = aws_api_gateway_authorizer.cognito.id
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.paradise_planning.id
   rest_api_id          = aws_api_gateway_resource.paradise_planning.rest_api_id
@@ -2304,6 +2371,7 @@ resource "aws_api_gateway_method" "reaction_GET" {
     "method.request.querystring.internal_label" = false
     "method.request.querystring.internal_name"  = false
     "method.request.querystring.is_seasonal"    = false
+    "method.request.querystring.version_added"  = false
   }
   request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
@@ -2311,8 +2379,9 @@ resource "aws_api_gateway_method" "reaction_GET" {
 // reaction
 resource "aws_api_gateway_method" "reaction_POST" {
   api_key_required     = false
-  authorization        = "NONE"
+  authorization        = "COGNITO_USER_POOLS"
   authorization_scopes = []
+  authorizer_id        = aws_api_gateway_authorizer.cognito.id
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.reaction.id
   rest_api_id          = aws_api_gateway_resource.reaction.rest_api_id
@@ -2363,8 +2432,9 @@ resource "aws_api_gateway_method" "recipe_GET" {
 // recipe
 resource "aws_api_gateway_method" "recipe_POST" {
   api_key_required     = false
-  authorization        = "NONE"
+  authorization        = "COGNITO_USER_POOLS"
   authorization_scopes = []
+  authorizer_id        = aws_api_gateway_authorizer.cognito.id
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.recipe.id
   rest_api_id          = aws_api_gateway_resource.recipe.rest_api_id
@@ -2417,8 +2487,9 @@ resource "aws_api_gateway_method" "villager_GET" {
 // villager
 resource "aws_api_gateway_method" "villager_POST" {
   api_key_required     = false
-  authorization        = "NONE"
+  authorization        = "COGNITO_USER_POOLS"
   authorization_scopes = []
+  authorizer_id        = aws_api_gateway_authorizer.cognito.id
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.villager.id
   rest_api_id          = aws_api_gateway_resource.villager.rest_api_id
@@ -2466,8 +2537,9 @@ resource "aws_api_gateway_method" "villager_special_GET" {
 // villager_special
 resource "aws_api_gateway_method" "villager_special_POST" {
   api_key_required     = false
-  authorization        = "NONE"
+  authorization        = "COGNITO_USER_POOLS"
   authorization_scopes = []
+  authorizer_id        = aws_api_gateway_authorizer.cognito.id
   http_method          = "POST"
   resource_id          = aws_api_gateway_resource.villager_special.id
   rest_api_id          = aws_api_gateway_resource.villager_special.rest_api_id
