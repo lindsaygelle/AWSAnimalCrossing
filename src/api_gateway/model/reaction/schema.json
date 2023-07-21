@@ -54,6 +54,13 @@
             "type": [
                 "string"
             ]
+        },
+        "version_added": {
+            "maxLength": 5,
+            "minLength": 5,
+            "type": [
+                "string"
+            ]
         }
     },
     "required": [
@@ -64,7 +71,8 @@
         "internal_name",
         "is_seasonal",
         "name",
-        "unique_entry_id"
+        "unique_entry_id",
+        "version_added"
     ],
     "title": "Reaction",
     "type": "object"

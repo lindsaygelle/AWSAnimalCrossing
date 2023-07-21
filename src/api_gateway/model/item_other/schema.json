@@ -30,6 +30,13 @@
                 "integer"
             ]
         },
+        "category": {
+            "maxLength": 14,
+            "minLength": 3,
+            "type": [
+                "string"
+            ]
+        },
         "color_1": {
             "maxLength": 8,
             "minLength": 3,
@@ -205,12 +212,20 @@
             "type": [
                 "string"
             ]
+        },
+        "version_added": {
+            "maxLength": 5,
+            "minLength": 5,
+            "type": [
+                "string"
+            ]
         }
     },
     "required": [
         "buy_currency",
         "buy_price",
         "capacity",
+        "category",
         "color_1",
         "color_2",
         "exchange_currency",
@@ -235,7 +250,8 @@
         "name",
         "sell_currency",
         "sell_price",
-        "unique_entry_id"
+        "unique_entry_id",
+        "version_added"
     ],
     "title": "ItemOther",
     "type": "object"

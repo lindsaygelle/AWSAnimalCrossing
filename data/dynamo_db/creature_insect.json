@@ -1,6 +1,9 @@
 [
     {
         "Item": {
+            "can_fly": {
+                "BOOL": true
+            },
             "color_1": {
                 "S": "Pink"
             },
@@ -105,6 +108,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -209,6 +215,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Orange"
             },
@@ -313,6 +322,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -417,6 +429,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": true
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -521,6 +536,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -625,6 +643,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -729,6 +750,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -833,6 +857,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -937,6 +964,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -1041,6 +1071,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -1145,6 +1178,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": true
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -1249,6 +1285,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": true
+            },
             "color_1": {
                 "S": "White"
             },
@@ -1353,6 +1392,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -1457,6 +1499,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -1561,6 +1606,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": true
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -1665,6 +1713,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": true
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -1769,6 +1820,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -1873,6 +1927,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -1977,6 +2034,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -2081,6 +2141,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Purple"
             },
@@ -2185,6 +2248,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": true
+            },
             "color_1": {
                 "S": "Blue"
             },
@@ -2289,6 +2355,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -2393,6 +2462,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": true
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -2497,6 +2569,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -2601,6 +2676,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": true
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -2705,6 +2783,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -2809,6 +2890,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -2913,6 +2997,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -3017,6 +3104,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -3121,6 +3211,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -3225,6 +3318,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Red"
             },
@@ -3329,6 +3425,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -3433,6 +3532,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": true
+            },
             "color_1": {
                 "S": "Purple"
             },
@@ -3537,6 +3639,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Beige"
             },
@@ -3641,6 +3746,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": true
+            },
             "color_1": {
                 "S": "Yellow"
             },
@@ -3745,6 +3853,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -3849,6 +3960,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -3953,6 +4067,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Beige"
             },
@@ -4057,6 +4174,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Yellow"
             },
@@ -4161,6 +4281,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -4265,6 +4388,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Red"
             },
@@ -4369,6 +4495,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -4473,6 +4602,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": true
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -4577,6 +4709,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -4681,6 +4816,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -4785,6 +4923,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -4889,6 +5030,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -4993,6 +5137,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -5097,6 +5244,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": true
+            },
             "color_1": {
                 "S": "Orange"
             },
@@ -5201,6 +5351,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": true
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -5305,6 +5458,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": true
+            },
             "color_1": {
                 "S": "Beige"
             },
@@ -5409,6 +5565,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "White"
             },
@@ -5513,6 +5672,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": true
+            },
             "color_1": {
                 "S": "White"
             },
@@ -5617,6 +5779,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": true
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -5721,6 +5886,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -5825,6 +5993,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -5929,6 +6100,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": true
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -6033,6 +6207,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -6137,6 +6314,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": true
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -6241,6 +6421,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": true
+            },
             "color_1": {
                 "S": "Red"
             },
@@ -6345,6 +6528,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -6449,6 +6635,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -6553,6 +6742,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Blue"
             },
@@ -6657,6 +6849,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -6761,6 +6956,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -6865,6 +7063,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -6969,6 +7170,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Beige"
             },
@@ -7073,6 +7277,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Yellow"
             },
@@ -7177,6 +7384,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -7281,6 +7491,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -7385,6 +7598,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -7489,6 +7705,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": true
+            },
             "color_1": {
                 "S": "Yellow"
             },
@@ -7593,6 +7812,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -7697,6 +7919,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Black"
             },
@@ -7801,6 +8026,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Green"
             },
@@ -7905,6 +8133,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Brown"
             },
@@ -8009,6 +8240,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Yellow"
             },
@@ -8113,6 +8347,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": false
+            },
             "color_1": {
                 "S": "Beige"
             },
@@ -8217,6 +8454,9 @@
     },
     {
         "Item": {
+            "can_fly": {
+                "BOOL": true
+            },
             "color_1": {
                 "S": "Yellow"
             },

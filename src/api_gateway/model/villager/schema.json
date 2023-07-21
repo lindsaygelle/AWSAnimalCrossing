@@ -207,6 +207,13 @@
                 "string"
             ]
         },
+        "version_added": {
+            "maxLength": 5,
+            "minLength": 5,
+            "type": [
+                "string"
+            ]
+        },
         "wallpaper_name": {
             "maxLength": 27,
             "minLength": 8,

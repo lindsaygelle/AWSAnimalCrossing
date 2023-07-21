@@ -146,6 +146,13 @@
             "type": [
                 "integer"
             ]
+        },
+        "version_added": {
+            "maxLength": 6,
+            "minLength": 5,
+            "type": [
+                "string"
+            ]
         }
     },
     "required": [
@@ -167,7 +174,8 @@
         "sell_currency",
         "sell_price",
         "unique_entry_id",
-        "unlock_number"
+        "unlock_number",
+        "version_added"
     ],
     "title": "Recipe",
     "type": "object"

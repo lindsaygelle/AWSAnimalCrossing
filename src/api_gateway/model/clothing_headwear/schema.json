@@ -184,6 +184,14 @@
                 "boolean"
             ]
         },
+        "mannequin_season": {
+            "maxLength": 8,
+            "minLength": 6,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
         "name": {
             "maxLength": 28,
             "minLength": 4,
@@ -313,6 +321,7 @@
         "is_equippable",
         "is_seasonal",
         "is_unlocked",
+        "mannequin_season",
         "name",
         "order",
         "seasonal_availability",

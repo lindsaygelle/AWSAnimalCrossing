@@ -3,6 +3,7 @@
         "buy_currency": null,
         "buy_price": null,
         "capacity": 30,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -27,12 +28,14 @@
         "name": "Acorn",
         "sell_currency": "Bells",
         "sell_price": 200,
-        "unique_entry_id": "LWRPyLkySfCNkDvdv"
+        "unique_entry_id": "LWRPyLkySfCNkDvdv",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 400,
         "capacity": 10,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -57,12 +60,14 @@
         "name": "Apple",
         "sell_currency": "Bells",
         "sell_price": 100,
-        "unique_entry_id": "iTWs2LBrcFu8XyDMF"
+        "unique_entry_id": "iTWs2LBrcFu8XyDMF",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -87,12 +92,14 @@
         "name": "Apple Tree",
         "sell_currency": "Bells",
         "sell_price": 300,
-        "unique_entry_id": "4BFZn59FMC5eyCKXS"
+        "unique_entry_id": "4BFZn59FMC5eyCKXS",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -117,12 +124,14 @@
         "name": "Aquarius fragment",
         "sell_currency": "Bells",
         "sell_price": 500,
-        "unique_entry_id": "sHWduQNusYLWRjhzb"
+        "unique_entry_id": "sHWduQNusYLWRjhzb",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": "Nook Miles",
@@ -147,12 +156,14 @@
         "name": "Arched Tile Path Permit",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "yDajuWo93WGgTR4bJ"
+        "unique_entry_id": "yDajuWo93WGgTR4bJ",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -177,12 +188,14 @@
         "name": "Aries fragment",
         "sell_currency": "Bells",
         "sell_price": 500,
-        "unique_entry_id": "D5JE2Ypt5vZ3C4EM6"
+        "unique_entry_id": "D5JE2Ypt5vZ3C4EM6",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 30,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -207,12 +220,14 @@
         "name": "Bamboo Piece",
         "sell_currency": "Bells",
         "sell_price": 80,
-        "unique_entry_id": "RJpF9Apqi52AqPP25"
+        "unique_entry_id": "RJpF9Apqi52AqPP25",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -237,12 +252,14 @@
         "name": "Bamboo Shoot",
         "sell_currency": "Bells",
         "sell_price": 250,
-        "unique_entry_id": "kTmS9FFMxJFuCS7vr"
+        "unique_entry_id": "kTmS9FFMxJFuCS7vr",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -267,12 +284,14 @@
         "name": "Bamboo Tree",
         "sell_currency": "Bells",
         "sell_price": 1500,
-        "unique_entry_id": "m6And8qdTfySMh9kR"
+        "unique_entry_id": "m6And8qdTfySMh9kR",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 4980,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -297,12 +316,14 @@
         "name": "Basic Cooking Recipes",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "qb2eaBbQEsMwQz5v3"
+        "unique_entry_id": "qb2eaBbQEsMwQz5v3",
+        "version_added": "2.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": "Nook Miles",
@@ -327,12 +348,14 @@
         "name": "Be a Chef! DIY Recipes+",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "ssswcjPYorzGtHwqS"
+        "unique_entry_id": "ssswcjPYorzGtHwqS",
+        "version_added": "2.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 99,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -357,12 +380,14 @@
         "name": "Bell bag",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "MwHcZBfqcJ5vJzRqZ"
+        "unique_entry_id": "MwHcZBfqcJ5vJzRqZ",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 9,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -387,12 +412,14 @@
         "name": "Bell coin",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "jNjH659eycYXADzaq"
+        "unique_entry_id": "jNjH659eycYXADzaq",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": "Nook Miles",
@@ -417,12 +444,14 @@
         "name": "Bell voucher",
         "sell_currency": "Bells",
         "sell_price": 3000,
-        "unique_entry_id": "Ekx2qXMQw3nrBxbwC"
+        "unique_entry_id": "Ekx2qXMQw3nrBxbwC",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": "Black",
         "color_2": "Green",
         "exchange_currency": null,
@@ -447,12 +476,14 @@
         "name": "Black Cosmos",
         "sell_currency": "Bells",
         "sell_price": 240,
-        "unique_entry_id": "QveR5KriJ63ZvAmQs"
+        "unique_entry_id": "QveR5KriJ63ZvAmQs",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": "Black",
         "color_2": "Green",
         "exchange_currency": null,
@@ -477,12 +508,14 @@
         "name": "Black Lilies",
         "sell_currency": "Bells",
         "sell_price": 80,
-        "unique_entry_id": "GJEkbwJexHSSq3Kvp"
+        "unique_entry_id": "GJEkbwJexHSSq3Kvp",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": "Black",
         "color_2": "Green",
         "exchange_currency": null,
@@ -507,12 +540,14 @@
         "name": "Black Roses",
         "sell_currency": "Bells",
         "sell_price": 240,
-        "unique_entry_id": "RAxXqgdwa6Jb3fKFX"
+        "unique_entry_id": "RAxXqgdwa6Jb3fKFX",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": "Black",
         "color_2": "Green",
         "exchange_currency": null,
@@ -537,12 +572,14 @@
         "name": "Black Tulips",
         "sell_currency": "Bells",
         "sell_price": 80,
-        "unique_entry_id": "WGvGEjXRYjucLHity"
+        "unique_entry_id": "WGvGEjXRYjucLHity",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 160,
         "capacity": 10,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -567,12 +604,14 @@
         "name": "Black Wrapping Paper",
         "sell_currency": "Bells",
         "sell_price": 40,
-        "unique_entry_id": "e726AGFuzKwPdeNZu"
+        "unique_entry_id": "e726AGFuzKwPdeNZu",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -597,12 +636,14 @@
         "name": "Black-cosmos Plant",
         "sell_currency": "Bells",
         "sell_price": 240,
-        "unique_entry_id": "o54h94yBpGiSSfKkr"
+        "unique_entry_id": "o54h94yBpGiSSfKkr",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -627,12 +668,14 @@
         "name": "Black-lily Plant",
         "sell_currency": "Bells",
         "sell_price": 80,
-        "unique_entry_id": "RgsTH72gphGY6AHsK"
+        "unique_entry_id": "RgsTH72gphGY6AHsK",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -657,12 +700,14 @@
         "name": "Black-rose Plant",
         "sell_currency": "Bells",
         "sell_price": 240,
-        "unique_entry_id": "suqNAcWRFj6JJZKuk"
+        "unique_entry_id": "suqNAcWRFj6JJZKuk",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -687,12 +732,14 @@
         "name": "Black-tulip Plant",
         "sell_currency": "Bells",
         "sell_price": 80,
-        "unique_entry_id": "2aiEhGHeGqQG725zX"
+        "unique_entry_id": "2aiEhGHeGqQG725zX",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -717,12 +764,14 @@
         "name": "Blathers's tent marker",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "57HSnpzwFHuTfBiyf"
+        "unique_entry_id": "57HSnpzwFHuTfBiyf",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 3,
+        "category": "Etc",
         "color_1": "Blue",
         "color_2": "Blue",
         "exchange_currency": null,
@@ -747,12 +796,14 @@
         "name": "Blue Feather",
         "sell_currency": "Bells",
         "sell_price": 200,
-        "unique_entry_id": "RRAxA9JnFuW8K7v7s"
+        "unique_entry_id": "RRAxA9JnFuW8K7v7s",
+        "version_added": "1.7.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": "Blue",
         "color_2": "Green",
         "exchange_currency": null,
@@ -777,12 +828,14 @@
         "name": "Blue Hyacinths",
         "sell_currency": "Bells",
         "sell_price": 80,
-        "unique_entry_id": "K6yui8FLmJvwNcfL4"
+        "unique_entry_id": "K6yui8FLmJvwNcfL4",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 30,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -807,12 +860,14 @@
         "name": "Blue Ornament",
         "sell_currency": "Bells",
         "sell_price": 50,
-        "unique_entry_id": "s38Tms3PpjpWGnFtn"
+        "unique_entry_id": "s38Tms3PpjpWGnFtn",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": "Blue",
         "color_2": "Green",
         "exchange_currency": null,
@@ -837,12 +892,14 @@
         "name": "Blue Pansies",
         "sell_currency": "Bells",
         "sell_price": 80,
-        "unique_entry_id": "mNBAQ7xCjndP63TW8"
+        "unique_entry_id": "mNBAQ7xCjndP63TW8",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": "Blue",
         "color_2": "Green",
         "exchange_currency": null,
@@ -867,12 +924,14 @@
         "name": "Blue Roses",
         "sell_currency": "Bells",
         "sell_price": 1000,
-        "unique_entry_id": "C39ncDcJ44My6qoQm"
+        "unique_entry_id": "C39ncDcJ44My6qoQm",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": "Blue",
         "color_2": "Green",
         "exchange_currency": null,
@@ -897,12 +956,14 @@
         "name": "Blue Windflowers",
         "sell_currency": "Bells",
         "sell_price": 80,
-        "unique_entry_id": "JmHWXFZvvgpJYrg8Z"
+        "unique_entry_id": "JmHWXFZvvgpJYrg8Z",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 160,
         "capacity": 10,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -927,12 +988,14 @@
         "name": "Blue Wrapping Paper",
         "sell_currency": "Bells",
         "sell_price": 40,
-        "unique_entry_id": "FK3PwoipGayPzS4SW"
+        "unique_entry_id": "FK3PwoipGayPzS4SW",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -957,12 +1020,14 @@
         "name": "Blue-hyacinth Plant",
         "sell_currency": "Bells",
         "sell_price": 80,
-        "unique_entry_id": "MNT54SyQWEWfaQAc6"
+        "unique_entry_id": "MNT54SyQWEWfaQAc6",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -987,12 +1052,14 @@
         "name": "Blue-hydrangea Bush",
         "sell_currency": "Bells",
         "sell_price": 140,
-        "unique_entry_id": "trgrtapDMZkkyDfiz"
+        "unique_entry_id": "trgrtapDMZkkyDfiz",
+        "version_added": "1.2.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 280,
         "capacity": 10,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -1017,12 +1084,14 @@
         "name": "Blue-hydrangea Start",
         "sell_currency": "Bells",
         "sell_price": 70,
-        "unique_entry_id": "GNsNR4uHsjm4B7XJr"
+        "unique_entry_id": "GNsNR4uHsjm4B7XJr",
+        "version_added": "1.2.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -1047,12 +1116,14 @@
         "name": "Blue-pansy Plant",
         "sell_currency": "Bells",
         "sell_price": 80,
-        "unique_entry_id": "Zd4CiamQfSEbYcymn"
+        "unique_entry_id": "Zd4CiamQfSEbYcymn",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -1077,12 +1148,14 @@
         "name": "Blue-rose Plant",
         "sell_currency": "Bells",
         "sell_price": 1000,
-        "unique_entry_id": "XXDs7bACfxsb5ospo"
+        "unique_entry_id": "XXDs7bACfxsb5ospo",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -1107,12 +1180,14 @@
         "name": "Blue-windflower Plant",
         "sell_currency": "Bells",
         "sell_price": 80,
-        "unique_entry_id": "A4yXEFxhamZ2fCfmG"
+        "unique_entry_id": "A4yXEFxhamZ2fCfmG",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": "Nook Miles",
@@ -1137,12 +1212,14 @@
         "name": "Body-Paint Costume Tips",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "k36tjaygAsSjGYcmj"
+        "unique_entry_id": "k36tjaygAsSjGYcmj",
+        "version_added": "1.5.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 500,
         "capacity": 10,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -1167,12 +1244,14 @@
         "name": "Bokjumeoni Lucky Pouch",
         "sell_currency": "Bells",
         "sell_price": 125,
-        "unique_entry_id": "bsrwPHAW9y9WDQysp"
+        "unique_entry_id": "bsrwPHAW9y9WDQysp",
+        "version_added": "1.7.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -1197,12 +1276,14 @@
         "name": "Boot",
         "sell_currency": "Bells",
         "sell_price": 10,
-        "unique_entry_id": "7jBpMwNw25uQW345e"
+        "unique_entry_id": "7jBpMwNw25uQW345e",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": "Nook Miles",
@@ -1227,12 +1308,14 @@
         "name": "Brick Path Permit",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "oHZbjoqc3QKK6WLCC"
+        "unique_entry_id": "oHZbjoqc3QKK6WLCC",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -1257,12 +1340,14 @@
         "name": "Bridge Construction Kit",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "qT8ewTJpgMGSEENoY"
+        "unique_entry_id": "qT8ewTJpgMGSEENoY",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -1287,12 +1372,14 @@
         "name": "Bridge Marker Kit",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "nS86mCT42JirpqqPY"
+        "unique_entry_id": "nS86mCT42JirpqqPY",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 50,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -1317,12 +1404,14 @@
         "name": "Brown Sugar",
         "sell_currency": "Bells",
         "sell_price": 210,
-        "unique_entry_id": "FmnEXrWrhmiq4TcxG"
+        "unique_entry_id": "FmnEXrWrhmiq4TcxG",
+        "version_added": "2.0.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 160,
         "capacity": 10,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -1347,12 +1436,14 @@
         "name": "Brown Wrapping Paper",
         "sell_currency": "Bells",
         "sell_price": 40,
-        "unique_entry_id": "hJhmHZLzeNSDBEoSo"
+        "unique_entry_id": "hJhmHZLzeNSDBEoSo",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -1377,12 +1468,14 @@
         "name": "Campsite Construction Kit",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "ezCup9En25XEqADNt"
+        "unique_entry_id": "ezCup9En25XEqADNt",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -1407,12 +1500,14 @@
         "name": "Campsite Moving Kit",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "ZXGmQ8gab2KnTmP5a"
+        "unique_entry_id": "ZXGmQ8gab2KnTmP5a",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -1437,12 +1532,14 @@
         "name": "Cancer fragment",
         "sell_currency": "Bells",
         "sell_price": 500,
-        "unique_entry_id": "SmqC4auAEN7GSNraA"
+        "unique_entry_id": "SmqC4auAEN7GSNraA",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 120,
         "capacity": 30,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -1467,12 +1564,14 @@
         "name": "Candy",
         "sell_currency": "Bells",
         "sell_price": 30,
-        "unique_entry_id": "ipLZk6AGCSZ7yoMui"
+        "unique_entry_id": "ipLZk6AGCSZ7yoMui",
+        "version_added": "1.5.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -1497,12 +1596,14 @@
         "name": "Capricorn fragment",
         "sell_currency": "Bells",
         "sell_price": 500,
-        "unique_entry_id": "Yv5hZXu5AkG7sWNQ6"
+        "unique_entry_id": "Yv5hZXu5AkG7sWNQ6",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -1527,12 +1628,14 @@
         "name": "Carrot",
         "sell_currency": "Bells",
         "sell_price": 350,
-        "unique_entry_id": "F5FN4j4aMLH5Dke9P"
+        "unique_entry_id": "F5FN4j4aMLH5Dke9P",
+        "version_added": "2.0.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 280,
         "capacity": 10,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -1557,12 +1660,14 @@
         "name": "Carrot Start",
         "sell_currency": "Bells",
         "sell_price": 70,
-        "unique_entry_id": "vJBzjThWG29k6fZXf"
+        "unique_entry_id": "vJBzjThWG29k6fZXf",
+        "version_added": "2.0.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 640,
         "capacity": 10,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -1587,12 +1692,14 @@
         "name": "Cedar Sapling",
         "sell_currency": "Bells",
         "sell_price": 160,
-        "unique_entry_id": "LP6TnsveSD3AGAMmQ"
+        "unique_entry_id": "LP6TnsveSD3AGAMmQ",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -1617,12 +1724,14 @@
         "name": "Cedar Tree",
         "sell_currency": "Bells",
         "sell_price": 240,
-        "unique_entry_id": "scFwAJ9XXGD3G6NbX"
+        "unique_entry_id": "scFwAJ9XXGD3G6NbX",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 160,
         "capacity": 10,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -1647,12 +1756,14 @@
         "name": "Chartreuse Wrapping Paper",
         "sell_currency": "Bells",
         "sell_price": 40,
-        "unique_entry_id": "RWcJQMBA79cybhZDM"
+        "unique_entry_id": "RWcJQMBA79cybhZDM",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 400,
         "capacity": 10,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -1677,12 +1788,14 @@
         "name": "Cherry",
         "sell_currency": "Bells",
         "sell_price": 100,
-        "unique_entry_id": "vAujDBhEiEHX39WDn"
+        "unique_entry_id": "vAujDBhEiEHX39WDn",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -1707,12 +1820,14 @@
         "name": "Cherry Tree",
         "sell_currency": "Bells",
         "sell_price": 300,
-        "unique_entry_id": "GhjdFWs3sFftbtd2W"
+        "unique_entry_id": "GhjdFWs3sFftbtd2W",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -1737,12 +1852,14 @@
         "name": "Cherry-blossom Petal",
         "sell_currency": "Bells",
         "sell_price": 200,
-        "unique_entry_id": "7hYtxcDFLTySLx8Nz"
+        "unique_entry_id": "7hYtxcDFLTySLx8Nz",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 30,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -1767,12 +1884,14 @@
         "name": "Clay",
         "sell_currency": "Bells",
         "sell_price": 100,
-        "unique_entry_id": "3yoCRN4WNjdYKQEJB"
+        "unique_entry_id": "3yoCRN4WNjdYKQEJB",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": "Nook Miles",
@@ -1797,12 +1916,14 @@
         "name": "Cliff Construction Permit",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "WQsguRuMd9bwEFu5j"
+        "unique_entry_id": "WQsguRuMd9bwEFu5j",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 99,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -1827,12 +1948,14 @@
         "name": "Clump Of Weeds",
         "sell_currency": "Bells",
         "sell_price": 10,
-        "unique_entry_id": "GEtNwS4vwNF7oBvw9"
+        "unique_entry_id": "GEtNwS4vwNF7oBvw9",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -1857,12 +1980,14 @@
         "name": "Coconut",
         "sell_currency": "Bells",
         "sell_price": 250,
-        "unique_entry_id": "eHNoTML3CsNoaHoZ9"
+        "unique_entry_id": "eHNoTML3CsNoaHoZ9",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -1887,12 +2012,14 @@
         "name": "Coconut Tree",
         "sell_currency": "Bells",
         "sell_price": 500,
-        "unique_entry_id": "c4FSMaXCEqboxnQzT"
+        "unique_entry_id": "c4FSMaXCEqboxnQzT",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -1917,12 +2044,14 @@
         "name": "Communicator",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "4MLwWcvfFjET6hgMc"
+        "unique_entry_id": "4MLwWcvfFjET6hgMc",
+        "version_added": "1.3.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -1947,12 +2076,14 @@
         "name": "Communicator Part",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "XiM7GBuMGY9HReqm2"
+        "unique_entry_id": "XiM7GBuMGY9HReqm2",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -1977,12 +2108,14 @@
         "name": "Conch",
         "sell_currency": "Bells",
         "sell_price": 700,
-        "unique_entry_id": "rtDktiz93Crc46m5c"
+        "unique_entry_id": "rtDktiz93Crc46m5c",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -2007,12 +2140,14 @@
         "name": "Coral",
         "sell_currency": "Bells",
         "sell_price": 500,
-        "unique_entry_id": "4CHLh45qehAS8wHpb"
+        "unique_entry_id": "4CHLh45qehAS8wHpb",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -2037,12 +2172,14 @@
         "name": "Cowrie",
         "sell_currency": "Bells",
         "sell_price": 60,
-        "unique_entry_id": "zxAax3FMiJMX9Chet"
+        "unique_entry_id": "zxAax3FMiJMX9Chet",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 19800,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -2067,12 +2204,14 @@
         "name": "Cozy Turkey Day DIY",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "WfSB5eBmXt4vKqRJe"
+        "unique_entry_id": "WfSB5eBmXt4vKqRJe",
+        "version_added": "1.6.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": "Nook Miles",
@@ -2097,12 +2236,14 @@
         "name": "Custom Design Path Permit",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "gsKtaovfLwrynQzh2"
+        "unique_entry_id": "gsKtaovfLwrynQzh2",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": "Nook Miles",
@@ -2127,12 +2268,14 @@
         "name": "Custom Design Pro Editor",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "MMYBdDHWn2kW2Maze"
+        "unique_entry_id": "MMYBdDHWn2kW2Maze",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": "Nook Miles",
@@ -2157,12 +2300,14 @@
         "name": "Custom Design Pro Editor+",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "CdzhKtEHzrYPLZfRn"
+        "unique_entry_id": "CdzhKtEHzrYPLZfRn",
+        "version_added": "1.9.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": "Nook Miles",
@@ -2187,12 +2332,14 @@
         "name": "Custom Designs Patterns+",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "jEPKJAeJzjPjMtxhp"
+        "unique_entry_id": "jEPKJAeJzjPjMtxhp",
+        "version_added": "2.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": "Nook Miles",
@@ -2217,12 +2364,14 @@
         "name": "Custom Designs Portal",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "mnAwALPx9PrztGiKX"
+        "unique_entry_id": "mnAwALPx9PrztGiKX",
+        "version_added": "1.9.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": "Nook Miles",
@@ -2247,12 +2396,14 @@
         "name": "Custom Fencing in a Flash",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "QWBuACsymBtKAqEbm"
+        "unique_entry_id": "QWBuACsymBtKAqEbm",
+        "version_added": "2.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": "Nook Miles",
@@ -2277,12 +2428,14 @@
         "name": "Customizable Phone Case Kit",
         "sell_currency": "Bells",
         "sell_price": 9000,
-        "unique_entry_id": "nwyFbGaLtmPjknPTY"
+        "unique_entry_id": "nwyFbGaLtmPjknPTY",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 600,
         "capacity": 50,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -2307,12 +2460,14 @@
         "name": "Customization Kit",
         "sell_currency": "Bells",
         "sell_price": 150,
-        "unique_entry_id": "Ld3gGWdjsFZscs6Qq"
+        "unique_entry_id": "Ld3gGWdjsFZscs6Qq",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": "Nook Miles",
@@ -2337,12 +2492,14 @@
         "name": "Dark Dirt Path Permit",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "E6p3k7jqPy5nQZqkx"
+        "unique_entry_id": "E6p3k7jqPy5nQZqkx",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -2367,12 +2524,14 @@
         "name": "Delivery",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "dSEW4GQniyS8P6SnE"
+        "unique_entry_id": "dSEW4GQniyS8P6SnE",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -2397,12 +2556,14 @@
         "name": "Delivery",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "6dGwjf4o45MpovX2d"
+        "unique_entry_id": "6dGwjf4o45MpovX2d",
+        "version_added": "2.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -2427,12 +2588,14 @@
         "name": "Delivery Box",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "KGs8SGuNQXerMe7xC"
+        "unique_entry_id": "KGs8SGuNQXerMe7xC",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 480,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -2457,12 +2620,14 @@
         "name": "DIY for Beginners",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "Xg3ZJkcs2GKKj629h"
+        "unique_entry_id": "Xg3ZJkcs2GKKj629h",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -2487,12 +2652,14 @@
         "name": "Dream Bell exchange ticket",
         "sell_currency": "Bells",
         "sell_price": 5000,
-        "unique_entry_id": "oqF5TeSPnfuFD94kf"
+        "unique_entry_id": "oqF5TeSPnfuFD94kf",
+        "version_added": "1.4.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 30,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -2517,12 +2684,14 @@
         "name": "Earth Egg",
         "sell_currency": "Bells",
         "sell_price": 200,
-        "unique_entry_id": "GfuzxkKwqvLMLq4TJ"
+        "unique_entry_id": "GfuzxkKwqvLMLq4TJ",
+        "version_added": "1.1.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -2547,12 +2716,14 @@
         "name": "Egg Message Bottle",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "AQictTWfneH93yYQM"
+        "unique_entry_id": "AQictTWfneH93yYQM",
+        "version_added": "1.1.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -2577,12 +2748,14 @@
         "name": "Elegant Mushroom",
         "sell_currency": "Bells",
         "sell_price": 10000,
-        "unique_entry_id": "kHtGRmaZmf3foEhwz"
+        "unique_entry_id": "kHtGRmaZmf3foEhwz",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -2607,12 +2780,14 @@
         "name": "Empty Can",
         "sell_currency": "Bells",
         "sell_price": 10,
-        "unique_entry_id": "rqiTcqwQexTmYoPTH"
+        "unique_entry_id": "rqiTcqwQexTmYoPTH",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": "Nook Miles",
@@ -2637,12 +2812,14 @@
         "name": "Exploring New Eye Colors",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "YjrQJLTjgggwSYDYM"
+        "unique_entry_id": "YjrQJLTjgggwSYDYM",
+        "version_added": "1.5.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -2667,12 +2844,14 @@
         "name": "Festive Wrapping Paper",
         "sell_currency": "Bells",
         "sell_price": 300,
-        "unique_entry_id": "S2tzdsHpXp8ReMh4N"
+        "unique_entry_id": "S2tzdsHpXp8ReMh4N",
+        "version_added": "1.6.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -2697,12 +2876,14 @@
         "name": "Fish Bait",
         "sell_currency": "Bells",
         "sell_price": 200,
-        "unique_entry_id": "Ghm4XtGMDXTpyFQSj"
+        "unique_entry_id": "Ghm4XtGMDXTpyFQSj",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -2727,12 +2908,14 @@
         "name": "Flat Mushroom",
         "sell_currency": "Bells",
         "sell_price": 200,
-        "unique_entry_id": "Ym7BRDNMQF6nZL446"
+        "unique_entry_id": "Ym7BRDNMQF6nZL446",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 50,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -2757,12 +2940,14 @@
         "name": "Flour",
         "sell_currency": "Bells",
         "sell_price": 210,
-        "unique_entry_id": "uSP4sg4TWK34nZcYs"
+        "unique_entry_id": "uSP4sg4TWK34nZcYs",
+        "version_added": "2.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "FossilUnknown",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -2787,12 +2972,14 @@
         "name": "Fossil",
         "sell_currency": "Bells",
         "sell_price": 100,
-        "unique_entry_id": "ZwqydviSR4WiRWdDA"
+        "unique_entry_id": "ZwqydviSR4WiRWdDA",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 600,
         "capacity": 1,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": "Bells",
@@ -2817,12 +3004,14 @@
         "name": "Fountain Firework",
         "sell_currency": "Bells",
         "sell_price": 150,
-        "unique_entry_id": "z2n48mYextDwNiear"
+        "unique_entry_id": "z2n48mYextDwNiear",
+        "version_added": "1.4.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -2847,12 +3036,14 @@
         "name": "Gemini fragment",
         "sell_currency": "Bells",
         "sell_price": 500,
-        "unique_entry_id": "FKd48SRH79uQKweuZ"
+        "unique_entry_id": "FKd48SRH79uQKweuZ",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -2877,12 +3068,14 @@
         "name": "Giant Clam",
         "sell_currency": "Bells",
         "sell_price": 900,
-        "unique_entry_id": "yzrzGTGG6mdN2N4d4"
+        "unique_entry_id": "yzrzGTGG6mdN2N4d4",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -2907,12 +3100,14 @@
         "name": "Gift",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "taPAjf8b8PS88FdZA"
+        "unique_entry_id": "taPAjf8b8PS88FdZA",
+        "version_added": "1.6.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 50,
+        "category": "FieldWeedLight",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -2937,12 +3132,14 @@
         "name": "Glowing Moss",
         "sell_currency": "Bells",
         "sell_price": 25,
-        "unique_entry_id": "84CP4criAaKQBy6ES"
+        "unique_entry_id": "84CP4criAaKQBy6ES",
+        "version_added": "2.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 30,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -2967,12 +3164,14 @@
         "name": "Gold Nugget",
         "sell_currency": "Bells",
         "sell_price": 10000,
-        "unique_entry_id": "i7QscMET7RcTdffLC"
+        "unique_entry_id": "i7QscMET7RcTdffLC",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 30,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -2997,12 +3196,14 @@
         "name": "Gold Ornament",
         "sell_currency": "Bells",
         "sell_price": 50,
-        "unique_entry_id": "PDc3gmJTvyra4nNb6"
+        "unique_entry_id": "PDc3gmJTvyra4nNb6",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": "Yellow",
         "color_2": "Yellow",
         "exchange_currency": null,
@@ -3027,12 +3228,14 @@
         "name": "Gold Roses",
         "sell_currency": "Bells",
         "sell_price": 1000,
-        "unique_entry_id": "6B9RaLkgxyFA72rdm"
+        "unique_entry_id": "6B9RaLkgxyFA72rdm",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 160,
         "capacity": 10,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -3057,12 +3260,14 @@
         "name": "Gold Wrapping Paper",
         "sell_currency": "Bells",
         "sell_price": 40,
-        "unique_entry_id": "nKFEifDX73E7y86s3"
+        "unique_entry_id": "nKFEifDX73E7y86s3",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -3087,12 +3292,14 @@
         "name": "Gold-rose Plant",
         "sell_currency": "Bells",
         "sell_price": 1000,
-        "unique_entry_id": "vgqcsR2h6B96skooq"
+        "unique_entry_id": "vgqcsR2h6B96skooq",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 160,
         "capacity": 10,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -3117,12 +3324,14 @@
         "name": "Gray Wrapping Paper",
         "sell_currency": "Bells",
         "sell_price": 40,
-        "unique_entry_id": "yiydxSjmgGZiNBxsm"
+        "unique_entry_id": "yiydxSjmgGZiNBxsm",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 3,
+        "category": "Etc",
         "color_1": "Green",
         "color_2": "Green",
         "exchange_currency": null,
@@ -3147,12 +3356,14 @@
         "name": "Green Feather",
         "sell_currency": "Bells",
         "sell_price": 200,
-        "unique_entry_id": "RrZGEGmxJyw99NKKE"
+        "unique_entry_id": "RrZGEGmxJyw99NKKE",
+        "version_added": "1.7.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": "Green",
         "color_2": "Green",
         "exchange_currency": null,
@@ -3177,12 +3388,14 @@
         "name": "Green Mums",
         "sell_currency": "Bells",
         "sell_price": 240,
-        "unique_entry_id": "iZDGXg9rxMCXkkRXQ"
+        "unique_entry_id": "iZDGXg9rxMCXkkRXQ",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -3207,12 +3420,14 @@
         "name": "Green Pumpkin",
         "sell_currency": "Bells",
         "sell_price": 350,
-        "unique_entry_id": "v6GS66X8t7y82KFEB"
+        "unique_entry_id": "v6GS66X8t7y82KFEB",
+        "version_added": "1.5.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 160,
         "capacity": 10,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -3237,12 +3452,14 @@
         "name": "Green Wrapping Paper",
         "sell_currency": "Bells",
         "sell_price": 40,
-        "unique_entry_id": "3mskzQhZ5uWSBJ373"
+        "unique_entry_id": "3mskzQhZ5uWSBJ373",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -3267,12 +3484,14 @@
         "name": "Green-mum Plant",
         "sell_currency": "Bells",
         "sell_price": 240,
-        "unique_entry_id": "ejT89srWvyFe6eQKf"
+        "unique_entry_id": "ejT89srWvyFe6eQKf",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "HaniwaPiece",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -3297,12 +3516,14 @@
         "name": "Gyroid Fragment",
         "sell_currency": "Bells",
         "sell_price": 414,
-        "unique_entry_id": "uPiDr9EyiDficmje4"
+        "unique_entry_id": "uPiDr9EyiDficmje4",
+        "version_added": "2.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 30,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -3327,12 +3548,14 @@
         "name": "Hardwood",
         "sell_currency": "Bells",
         "sell_price": 60,
-        "unique_entry_id": "ni3n8DjyCZ9cghTD2"
+        "unique_entry_id": "ni3n8DjyCZ9cghTD2",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -3357,12 +3580,14 @@
         "name": "Hardwood Tree",
         "sell_currency": "Bells",
         "sell_price": 240,
-        "unique_entry_id": "iGMxqfQ39pMGzJrji"
+        "unique_entry_id": "iGMxqfQ39pMGzJrji",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 30,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -3387,12 +3612,14 @@
         "name": "Heart Crystal",
         "sell_currency": "Bells",
         "sell_price": 100,
-        "unique_entry_id": "Seo4ym9pKPhr7A6yb"
+        "unique_entry_id": "Seo4ym9pKPhr7A6yb",
+        "version_added": "1.2.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": "Nook Miles",
@@ -3417,12 +3644,14 @@
         "name": "Hip Reaction Collection",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "Eyap99SoXYKQtJdtS"
+        "unique_entry_id": "Eyap99SoXYKQtJdtS",
+        "version_added": "1.6.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -3447,12 +3676,14 @@
         "name": "Holly Bush",
         "sell_currency": "Bells",
         "sell_price": 140,
-        "unique_entry_id": "iS4C5XqHay6jggFoL"
+        "unique_entry_id": "iS4C5XqHay6jggFoL",
+        "version_added": "1.2.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 280,
         "capacity": 10,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -3477,12 +3708,14 @@
         "name": "Holly Start",
         "sell_currency": "Bells",
         "sell_price": 70,
-        "unique_entry_id": "ikDCfcT8TcvyPNH8Y"
+        "unique_entry_id": "ikDCfcT8TcvyPNH8Y",
+        "version_added": "1.2.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -3507,12 +3740,14 @@
         "name": "Housing Kit",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "3H4M8fad4hXPPK9tq"
+        "unique_entry_id": "3H4M8fad4hXPPK9tq",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -3537,12 +3772,14 @@
         "name": "Incline Marker Kit",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "Nmp2P7XPoEWX2tQG6"
+        "unique_entry_id": "Nmp2P7XPoEWX2tQG6",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 30,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -3567,12 +3804,14 @@
         "name": "Iron Nugget",
         "sell_currency": "Bells",
         "sell_price": 375,
-        "unique_entry_id": "smkrptPsq6cK6e7ya"
+        "unique_entry_id": "smkrptPsq6cK6e7ya",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": "Nook Miles",
@@ -3597,12 +3836,14 @@
         "name": "Island Life 101 Service",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "mHGb9ywAQWtX34waj"
+        "unique_entry_id": "mHGb9ywAQWtX34waj",
+        "version_added": "2.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -3627,12 +3868,14 @@
         "name": "Large Snowflake",
         "sell_currency": "Bells",
         "sell_price": 2500,
-        "unique_entry_id": "roPJbuZmNfYv9k3Q5"
+        "unique_entry_id": "roPJbuZmNfYv9k3Q5",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -3657,12 +3900,14 @@
         "name": "Large Star Fragment",
         "sell_currency": "Bells",
         "sell_price": 2500,
-        "unique_entry_id": "FA6nhbrBzK7ESdoDL"
+        "unique_entry_id": "FA6nhbrBzK7ESdoDL",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 30,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -3687,12 +3932,14 @@
         "name": "Leaf Egg",
         "sell_currency": "Bells",
         "sell_price": 200,
-        "unique_entry_id": "3rZgwsLcirdRrMrND"
+        "unique_entry_id": "3rZgwsLcirdRrMrND",
+        "version_added": "1.1.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -3717,12 +3964,14 @@
         "name": "Leo fragment",
         "sell_currency": "Bells",
         "sell_price": 500,
-        "unique_entry_id": "kxQAgnSXcGbYHtNLB"
+        "unique_entry_id": "kxQAgnSXcGbYHtNLB",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -3747,12 +3996,14 @@
         "name": "Libra fragment",
         "sell_currency": "Bells",
         "sell_price": 500,
-        "unique_entry_id": "SRpunGqz97ZSyQeKq"
+        "unique_entry_id": "SRpunGqz97ZSyQeKq",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 160,
         "capacity": 10,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -3777,12 +4028,14 @@
         "name": "Light-blue Wrapping Paper",
         "sell_currency": "Bells",
         "sell_price": 40,
-        "unique_entry_id": "k6ZfmjnoDpGqHWweS"
+        "unique_entry_id": "k6ZfmjnoDpGqHWweS",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -3807,12 +4060,14 @@
         "name": "Lily-of-the-valley Plant",
         "sell_currency": "Bells",
         "sell_price": 222,
-        "unique_entry_id": "LXttqtLN2HF8PhQbu"
+        "unique_entry_id": "LXttqtLN2HF8PhQbu",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 30,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -3837,12 +4092,14 @@
         "name": "Lollipop",
         "sell_currency": "Bells",
         "sell_price": 120,
-        "unique_entry_id": "9otCnhD4JA4YbTr8u"
+        "unique_entry_id": "9otCnhD4JA4YbTr8u",
+        "version_added": "1.5.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -3867,12 +4124,14 @@
         "name": "Lost Item",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "uncR4zC9xppuSkiij"
+        "unique_entry_id": "uncR4zC9xppuSkiij",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -3897,12 +4156,14 @@
         "name": "Lost Item",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "ymD8pZhYvP99PRiYr"
+        "unique_entry_id": "ymD8pZhYvP99PRiYr",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -3927,12 +4188,14 @@
         "name": "Lost Item",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "Fd7AxQwkCjc5RmfRW"
+        "unique_entry_id": "Fd7AxQwkCjc5RmfRW",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -3957,12 +4220,14 @@
         "name": "Lucky Money",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "DX5BE8kcdy8x4g37Q"
+        "unique_entry_id": "DX5BE8kcdy8x4g37Q",
+        "version_added": "1.7.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 500,
         "capacity": 10,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -3987,12 +4252,14 @@
         "name": "Lucky Red Envelope",
         "sell_currency": "Bells",
         "sell_price": 125,
-        "unique_entry_id": "Yt48256KettgBctff"
+        "unique_entry_id": "Yt48256KettgBctff",
+        "version_added": "1.7.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -4017,12 +4284,14 @@
         "name": "Manila Clam",
         "sell_currency": "Bells",
         "sell_price": 100,
-        "unique_entry_id": "JFoiWRD9rYYRQchWY"
+        "unique_entry_id": "JFoiWRD9rYYRQchWY",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -4047,12 +4316,14 @@
         "name": "Maple Leaf",
         "sell_currency": "Bells",
         "sell_price": 200,
-        "unique_entry_id": "iNPeEEqdSxkjKFPDS"
+        "unique_entry_id": "iNPeEEqdSxkjKFPDS",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 400,
         "capacity": 10,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -4077,12 +4348,14 @@
         "name": "Medicine",
         "sell_currency": "Bells",
         "sell_price": 100,
-        "unique_entry_id": "3pirDraBT9LTcGCDc"
+        "unique_entry_id": "3pirDraBT9LTcGCDc",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -4107,12 +4380,14 @@
         "name": "Message Bottle",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "euJRD9W3hqTR3YeGC"
+        "unique_entry_id": "euJRD9W3hqTR3YeGC",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 160,
         "capacity": 10,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -4137,12 +4412,14 @@
         "name": "Mint Wrapping Paper",
         "sell_currency": "Bells",
         "sell_price": 40,
-        "unique_entry_id": "J7HrFYe8eAajkNBPk"
+        "unique_entry_id": "J7HrFYe8eAajkNBPk",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -4167,12 +4444,14 @@
         "name": "Money Tree",
         "sell_currency": "Bells",
         "sell_price": 240,
-        "unique_entry_id": "ePzXeAjEBZXBhxuAF"
+        "unique_entry_id": "ePzXeAjEBZXBhxuAF",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -4197,12 +4476,14 @@
         "name": "Moving Kit",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "MyYYwJYdNvcGSEoFZ"
+        "unique_entry_id": "MyYYwJYdNvcGSEoFZ",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -4227,12 +4508,14 @@
         "name": "Museum Moving Kit",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "nrLWMtL3jGmWYDAQM"
+        "unique_entry_id": "nrLWMtL3jGmWYDAQM",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 160,
         "capacity": 10,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -4257,12 +4540,14 @@
         "name": "Navy Wrapping Paper",
         "sell_currency": "Bells",
         "sell_price": 40,
-        "unique_entry_id": "Ms5AhyNbJL5DuZrh2"
+        "unique_entry_id": "Ms5AhyNbJL5DuZrh2",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": "Nook Miles",
@@ -4287,12 +4572,14 @@
         "name": "New Reactions Notebook",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "STZTMjFRELXTvZaY5"
+        "unique_entry_id": "STZTMjFRELXTvZaY5",
+        "version_added": "2.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": "Nook Miles",
@@ -4317,12 +4604,14 @@
         "name": "Nook Miles Ticket",
         "sell_currency": "Bells",
         "sell_price": 10000,
-        "unique_entry_id": "FAn9xRZvpBRAad3E6"
+        "unique_entry_id": "FAn9xRZvpBRAad3E6",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -4347,12 +4636,14 @@
         "name": "Old Tire",
         "sell_currency": "Bells",
         "sell_price": 10,
-        "unique_entry_id": "3S8juGp87QfHvtpyq"
+        "unique_entry_id": "3S8juGp87QfHvtpyq",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 400,
         "capacity": 10,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -4377,12 +4668,14 @@
         "name": "Orange",
         "sell_currency": "Bells",
         "sell_price": 100,
-        "unique_entry_id": "T54w2hgHB3Edytw3f"
+        "unique_entry_id": "T54w2hgHB3Edytw3f",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": "Orange",
         "color_2": "Green",
         "exchange_currency": null,
@@ -4407,12 +4700,14 @@
         "name": "Orange Cosmos",
         "sell_currency": "Bells",
         "sell_price": 80,
-        "unique_entry_id": "Hvp5sHy7uPHnH2Qda"
+        "unique_entry_id": "Hvp5sHy7uPHnH2Qda",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": "Orange",
         "color_2": "Green",
         "exchange_currency": null,
@@ -4437,12 +4732,14 @@
         "name": "Orange Hyacinths",
         "sell_currency": "Bells",
         "sell_price": 80,
-        "unique_entry_id": "H7pirF6ynSFrpgLMN"
+        "unique_entry_id": "H7pirF6ynSFrpgLMN",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": "Orange",
         "color_2": "Green",
         "exchange_currency": null,
@@ -4467,12 +4764,14 @@
         "name": "Orange Lilies",
         "sell_currency": "Bells",
         "sell_price": 80,
-        "unique_entry_id": "Y8kaixfp7SEvzCDCd"
+        "unique_entry_id": "Y8kaixfp7SEvzCDCd",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": "Red",
         "color_2": "Green",
         "exchange_currency": null,
@@ -4497,12 +4796,14 @@
         "name": "Orange Pansies",
         "sell_currency": "Bells",
         "sell_price": 80,
-        "unique_entry_id": "atQLxZD4CSqYsaNkM"
+        "unique_entry_id": "atQLxZD4CSqYsaNkM",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -4527,12 +4828,14 @@
         "name": "Orange Pumpkin",
         "sell_currency": "Bells",
         "sell_price": 350,
-        "unique_entry_id": "MJsfLZS7DtC3mu5Pc"
+        "unique_entry_id": "MJsfLZS7DtC3mu5Pc",
+        "version_added": "1.5.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": "Orange",
         "color_2": "Green",
         "exchange_currency": null,
@@ -4557,12 +4860,14 @@
         "name": "Orange Roses",
         "sell_currency": "Bells",
         "sell_price": 80,
-        "unique_entry_id": "MsnwoMvrqgeH2ZrG6"
+        "unique_entry_id": "MsnwoMvrqgeH2ZrG6",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -4587,12 +4892,14 @@
         "name": "Orange Tree",
         "sell_currency": "Bells",
         "sell_price": 300,
-        "unique_entry_id": "RjcKphnD5xgCxeMFM"
+        "unique_entry_id": "RjcKphnD5xgCxeMFM",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": "Orange",
         "color_2": "Green",
         "exchange_currency": null,
@@ -4617,12 +4924,14 @@
         "name": "Orange Tulips",
         "sell_currency": "Bells",
         "sell_price": 80,
-        "unique_entry_id": "h9SC924x9vkjSAsBC"
+        "unique_entry_id": "h9SC924x9vkjSAsBC",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": "Orange",
         "color_2": "Green",
         "exchange_currency": null,
@@ -4647,12 +4956,14 @@
         "name": "Orange Windflowers",
         "sell_currency": "Bells",
         "sell_price": 40,
-        "unique_entry_id": "dCQyoCdY9JFYxHXbR"
+        "unique_entry_id": "dCQyoCdY9JFYxHXbR",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 160,
         "capacity": 10,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -4677,12 +4988,14 @@
         "name": "Orange Wrapping Paper",
         "sell_currency": "Bells",
         "sell_price": 40,
-        "unique_entry_id": "brMQqHjgqsMz5kdtb"
+        "unique_entry_id": "brMQqHjgqsMz5kdtb",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -4707,12 +5020,14 @@
         "name": "Orange-cosmos Plant",
         "sell_currency": "Bells",
         "sell_price": 80,
-        "unique_entry_id": "ZMn3hzNpMRg9vkW7E"
+        "unique_entry_id": "ZMn3hzNpMRg9vkW7E",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -4737,12 +5052,14 @@
         "name": "Orange-hyacinth Plant",
         "sell_currency": "Bells",
         "sell_price": 80,
-        "unique_entry_id": "Qm6vasEvBMXEaWDgF"
+        "unique_entry_id": "Qm6vasEvBMXEaWDgF",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -4767,12 +5084,14 @@
         "name": "Orange-lily Plant",
         "sell_currency": "Bells",
         "sell_price": 80,
-        "unique_entry_id": "b2dp3BnCjLEQTcyHt"
+        "unique_entry_id": "b2dp3BnCjLEQTcyHt",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -4797,12 +5116,14 @@
         "name": "Orange-pansy Plant",
         "sell_currency": "Bells",
         "sell_price": 80,
-        "unique_entry_id": "NN4tLZwnXJA7nsQJF"
+        "unique_entry_id": "NN4tLZwnXJA7nsQJF",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -4827,12 +5148,14 @@
         "name": "Orange-rose Plant",
         "sell_currency": "Bells",
         "sell_price": 80,
-        "unique_entry_id": "WN72HFoZ3fyhwQ5NG"
+        "unique_entry_id": "WN72HFoZ3fyhwQ5NG",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -4857,12 +5180,14 @@
         "name": "Orange-tea-olive Bush",
         "sell_currency": "Bells",
         "sell_price": 140,
-        "unique_entry_id": "ijnrJoK6XMityJZDM"
+        "unique_entry_id": "ijnrJoK6XMityJZDM",
+        "version_added": "1.2.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 280,
         "capacity": 10,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -4887,12 +5212,14 @@
         "name": "Orange-tea-olive Start",
         "sell_currency": "Bells",
         "sell_price": 70,
-        "unique_entry_id": "QRyD9Q4f7vzqQdeCs"
+        "unique_entry_id": "QRyD9Q4f7vzqQdeCs",
+        "version_added": "1.2.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -4917,12 +5244,14 @@
         "name": "Orange-tulip Plant",
         "sell_currency": "Bells",
         "sell_price": 80,
-        "unique_entry_id": "iYi6dRqA3vA8fb4oZ"
+        "unique_entry_id": "iYi6dRqA3vA8fb4oZ",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 240,
         "capacity": 10,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -4947,12 +5276,14 @@
         "name": "Orange-windflower Bag",
         "sell_currency": "Bells",
         "sell_price": 60,
-        "unique_entry_id": "HuPd5NbyLkkFvigEo"
+        "unique_entry_id": "HuPd5NbyLkkFvigEo",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -4977,12 +5308,14 @@
         "name": "Orange-windflower Plant",
         "sell_currency": "Bells",
         "sell_price": 40,
-        "unique_entry_id": "E9PAkZEzQ3HaJiRqy"
+        "unique_entry_id": "E9PAkZEzQ3HaJiRqy",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -5007,12 +5340,14 @@
         "name": "Otoshidama",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "RzcXgZYNaqnrTzn2w"
+        "unique_entry_id": "RzcXgZYNaqnrTzn2w",
+        "version_added": "2.0.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 500,
         "capacity": 10,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -5037,12 +5372,14 @@
         "name": "Otoshidama Envelope",
         "sell_currency": "Bells",
         "sell_price": 125,
-        "unique_entry_id": "yJaHYJQogtbCLqnjT"
+        "unique_entry_id": "yJaHYJQogtbCLqnjT",
+        "version_added": "2.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": "Poki",
@@ -5067,12 +5404,14 @@
         "name": "Paradise Planning case",
         "sell_currency": "Bells",
         "sell_price": 625,
-        "unique_entry_id": "gzc3vqZZhLZj3iHt8"
+        "unique_entry_id": "gzc3vqZZhLZj3iHt8",
+        "version_added": "2.0.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 400,
         "capacity": 10,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -5097,12 +5436,14 @@
         "name": "Peach",
         "sell_currency": "Bells",
         "sell_price": 100,
-        "unique_entry_id": "qjF3dwhQy3e2LiWtr"
+        "unique_entry_id": "qjF3dwhQy3e2LiWtr",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -5127,12 +5468,14 @@
         "name": "Peach Tree",
         "sell_currency": "Bells",
         "sell_price": 300,
-        "unique_entry_id": "jr4TgJyTJyZ933o6T"
+        "unique_entry_id": "jr4TgJyTJyZ933o6T",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 400,
         "capacity": 10,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -5157,12 +5500,14 @@
         "name": "Pear",
         "sell_currency": "Bells",
         "sell_price": 100,
-        "unique_entry_id": "pnTL7PHd4rtyzkanu"
+        "unique_entry_id": "pnTL7PHd4rtyzkanu",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -5187,12 +5532,14 @@
         "name": "Pear Tree",
         "sell_currency": "Bells",
         "sell_price": 300,
-        "unique_entry_id": "7kQWGcj7EmNqj8KiL"
+        "unique_entry_id": "7kQWGcj7EmNqj8KiL",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 30,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -5217,12 +5564,14 @@
         "name": "Pearl",
         "sell_currency": "Bells",
         "sell_price": 10000,
-        "unique_entry_id": "EtiYMntRoS8RN53Rn"
+        "unique_entry_id": "EtiYMntRoS8RN53Rn",
+        "version_added": "1.3.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 30,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -5247,12 +5596,14 @@
         "name": "Pine Cone",
         "sell_currency": "Bells",
         "sell_price": 200,
-        "unique_entry_id": "pKvkjhsyir2FimNts"
+        "unique_entry_id": "pKvkjhsyir2FimNts",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": "Pink",
         "color_2": "Green",
         "exchange_currency": null,
@@ -5277,12 +5628,14 @@
         "name": "Pink Cosmos",
         "sell_currency": "Bells",
         "sell_price": 80,
-        "unique_entry_id": "898Ts8bbEr7iNZzGG"
+        "unique_entry_id": "898Ts8bbEr7iNZzGG",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": "Pink",
         "color_2": "Green",
         "exchange_currency": null,
@@ -5307,12 +5660,14 @@
         "name": "Pink Hyacinths",
         "sell_currency": "Bells",
         "sell_price": 80,
-        "unique_entry_id": "wNbmG4DKhkErfibGX"
+        "unique_entry_id": "wNbmG4DKhkErfibGX",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": "Pink",
         "color_2": "Green",
         "exchange_currency": null,
@@ -5337,12 +5692,14 @@
         "name": "Pink Lilies",
         "sell_currency": "Bells",
         "sell_price": 80,
-        "unique_entry_id": "kiCkkhX3PNkfauJXo"
+        "unique_entry_id": "kiCkkhX3PNkfauJXo",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": "Pink",
         "color_2": "Green",
         "exchange_currency": null,
@@ -5367,12 +5724,14 @@
         "name": "Pink Mums",
         "sell_currency": "Bells",
         "sell_price": 80,
-        "unique_entry_id": "xNhBxScQvumKJeYDz"
+        "unique_entry_id": "xNhBxScQvumKJeYDz",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": "Pink",
         "color_2": "Green",
         "exchange_currency": null,
@@ -5397,12 +5756,14 @@
         "name": "Pink Roses",
         "sell_currency": "Bells",
         "sell_price": 80,
-        "unique_entry_id": "Y3XgoGJjbP4FARKP8"
+        "unique_entry_id": "Y3XgoGJjbP4FARKP8",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": "Pink",
         "color_2": "Green",
         "exchange_currency": null,
@@ -5427,12 +5788,14 @@
         "name": "Pink Tulips",
         "sell_currency": "Bells",
         "sell_price": 80,
-        "unique_entry_id": "xsXifs2QAihKWQneZ"
+        "unique_entry_id": "xsXifs2QAihKWQneZ",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": "Pink",
         "color_2": "Green",
         "exchange_currency": null,
@@ -5457,12 +5820,14 @@
         "name": "Pink Windflowers",
         "sell_currency": "Bells",
         "sell_price": 80,
-        "unique_entry_id": "ap2QtwXRXd3rCw99D"
+        "unique_entry_id": "ap2QtwXRXd3rCw99D",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 160,
         "capacity": 10,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -5487,12 +5852,14 @@
         "name": "Pink Wrapping Paper",
         "sell_currency": "Bells",
         "sell_price": 40,
-        "unique_entry_id": "nRfsjMz6ctyb5gpGt"
+        "unique_entry_id": "nRfsjMz6ctyb5gpGt",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -5517,12 +5884,14 @@
         "name": "Pink-azalea Bush",
         "sell_currency": "Bells",
         "sell_price": 140,
-        "unique_entry_id": "jy3SJweiZ5ketX4zg"
+        "unique_entry_id": "jy3SJweiZ5ketX4zg",
+        "version_added": "1.2.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 280,
         "capacity": 10,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -5547,12 +5916,14 @@
         "name": "Pink-azalea Start",
         "sell_currency": "Bells",
         "sell_price": 70,
-        "unique_entry_id": "R69MFoTNoTFaAFokq"
+        "unique_entry_id": "R69MFoTNoTFaAFokq",
+        "version_added": "1.2.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -5577,12 +5948,14 @@
         "name": "Pink-camellia Bush",
         "sell_currency": "Bells",
         "sell_price": 140,
-        "unique_entry_id": "tKaeYZdRmGtTShfmH"
+        "unique_entry_id": "tKaeYZdRmGtTShfmH",
+        "version_added": "1.2.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 280,
         "capacity": 10,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -5607,12 +5980,14 @@
         "name": "Pink-camellia Start",
         "sell_currency": "Bells",
         "sell_price": 70,
-        "unique_entry_id": "nWKkXpxtQqLCtmPEG"
+        "unique_entry_id": "nWKkXpxtQqLCtmPEG",
+        "version_added": "1.2.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -5637,12 +6012,14 @@
         "name": "Pink-cosmos Plant",
         "sell_currency": "Bells",
         "sell_price": 80,
-        "unique_entry_id": "sPeds6o4kAXvts6mc"
+        "unique_entry_id": "sPeds6o4kAXvts6mc",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -5667,12 +6044,14 @@
         "name": "Pink-hyacinth Plant",
         "sell_currency": "Bells",
         "sell_price": 80,
-        "unique_entry_id": "3w8JnddzGnc2yb4LF"
+        "unique_entry_id": "3w8JnddzGnc2yb4LF",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -5697,12 +6076,14 @@
         "name": "Pink-hydrangea Bush",
         "sell_currency": "Bells",
         "sell_price": 140,
-        "unique_entry_id": "t3sEjgXcrmrJ9WbS7"
+        "unique_entry_id": "t3sEjgXcrmrJ9WbS7",
+        "version_added": "1.2.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 280,
         "capacity": 10,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -5727,12 +6108,14 @@
         "name": "Pink-hydrangea Start",
         "sell_currency": "Bells",
         "sell_price": 70,
-        "unique_entry_id": "MeN5MT4W7J4dbcWcC"
+        "unique_entry_id": "MeN5MT4W7J4dbcWcC",
+        "version_added": "1.2.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -5757,12 +6140,14 @@
         "name": "Pink-lily Plant",
         "sell_currency": "Bells",
         "sell_price": 80,
-        "unique_entry_id": "iRrTAcjkNBukdsAQm"
+        "unique_entry_id": "iRrTAcjkNBukdsAQm",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -5787,12 +6172,14 @@
         "name": "Pink-mum Plant",
         "sell_currency": "Bells",
         "sell_price": 80,
-        "unique_entry_id": "yP44c6mMQC7u5udxv"
+        "unique_entry_id": "yP44c6mMQC7u5udxv",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -5817,12 +6204,14 @@
         "name": "Pink-plumeria Bush",
         "sell_currency": "Bells",
         "sell_price": 140,
-        "unique_entry_id": "QqJ7SMtBQEmJcAYy8"
+        "unique_entry_id": "QqJ7SMtBQEmJcAYy8",
+        "version_added": "2.0.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 280,
         "capacity": 10,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -5847,12 +6236,14 @@
         "name": "Pink-plumeria Start",
         "sell_currency": "Bells",
         "sell_price": 70,
-        "unique_entry_id": "HLWaYrp8ux4jyqYmZ"
+        "unique_entry_id": "HLWaYrp8ux4jyqYmZ",
+        "version_added": "2.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -5877,12 +6268,14 @@
         "name": "Pink-rose Plant",
         "sell_currency": "Bells",
         "sell_price": 80,
-        "unique_entry_id": "wpLag9jyPSoMr6wcW"
+        "unique_entry_id": "wpLag9jyPSoMr6wcW",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -5907,12 +6300,14 @@
         "name": "Pink-tulip Plant",
         "sell_currency": "Bells",
         "sell_price": 80,
-        "unique_entry_id": "usSvXn26PTCuavTHo"
+        "unique_entry_id": "usSvXn26PTCuavTHo",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -5937,12 +6332,14 @@
         "name": "Pink-windflower Plant",
         "sell_currency": "Bells",
         "sell_price": 80,
-        "unique_entry_id": "YJfanQias2fdR9t9X"
+        "unique_entry_id": "YJfanQias2fdR9t9X",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -5967,12 +6364,14 @@
         "name": "Pisces fragment",
         "sell_currency": "Bells",
         "sell_price": 500,
-        "unique_entry_id": "nCwjX8yHBFefjAion"
+        "unique_entry_id": "nCwjX8yHBFefjAion",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -5997,12 +6396,14 @@
         "name": "Pitfall Seed",
         "sell_currency": "Bells",
         "sell_price": 140,
-        "unique_entry_id": "HYdEMJJQXzoudrWDT"
+        "unique_entry_id": "HYdEMJJQXzoudrWDT",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -6027,12 +6428,14 @@
         "name": "Plot 1 Housing Kit",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "2JkqabfsQ26vYe7Fp"
+        "unique_entry_id": "2JkqabfsQ26vYe7Fp",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -6057,12 +6460,14 @@
         "name": "Plot 2 Housing Kit",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "h63H2kQtzWceBt57Y"
+        "unique_entry_id": "h63H2kQtzWceBt57Y",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -6087,12 +6492,14 @@
         "name": "Plot 3 Housing Kit",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "5JGfxP3vczLy755Y4"
+        "unique_entry_id": "5JGfxP3vczLy755Y4",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 2000,
         "capacity": 1,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -6117,12 +6524,14 @@
         "name": "Pocket Camp phone case",
         "sell_currency": "Bells",
         "sell_price": 500,
-        "unique_entry_id": "cB4KmrbAxssgvXhNP"
+        "unique_entry_id": "cB4KmrbAxssgvXhNP",
+        "version_added": "1.6.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": "Nook Miles",
@@ -6147,12 +6556,14 @@
         "name": "Pocket Organization Guide",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "rMYGGvqwXxrzrA2FG"
+        "unique_entry_id": "rMYGGvqwXxrzrA2FG",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -6177,12 +6588,14 @@
         "name": "Potato",
         "sell_currency": "Bells",
         "sell_price": 350,
-        "unique_entry_id": "JSA2QRMvsyyTg4hPL"
+        "unique_entry_id": "JSA2QRMvsyyTg4hPL",
+        "version_added": "2.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -6207,12 +6620,14 @@
         "name": "Present",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "eKkBqvy3TwbZbNQWZ"
+        "unique_entry_id": "eKkBqvy3TwbZbNQWZ",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -6237,12 +6652,14 @@
         "name": "Present (black)",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "Fz8reyFJoWrSLQSvq"
+        "unique_entry_id": "Fz8reyFJoWrSLQSvq",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -6267,12 +6684,14 @@
         "name": "Present (blue)",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "f38mKJ6yzmhtjyWXS"
+        "unique_entry_id": "f38mKJ6yzmhtjyWXS",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -6297,12 +6716,14 @@
         "name": "Present (brown)",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "hwkpJC9vq2AYKrhqe"
+        "unique_entry_id": "hwkpJC9vq2AYKrhqe",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -6327,12 +6748,14 @@
         "name": "Present (chartreuse)",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "78JwZftyosktxaKyQ"
+        "unique_entry_id": "78JwZftyosktxaKyQ",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -6357,12 +6780,14 @@
         "name": "Present (gold)",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "JzsQLAwTvEPAZ2f9x"
+        "unique_entry_id": "JzsQLAwTvEPAZ2f9x",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -6387,12 +6812,14 @@
         "name": "Present (gray)",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "fw5ehh62f4u6rvQbw"
+        "unique_entry_id": "fw5ehh62f4u6rvQbw",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -6417,12 +6844,14 @@
         "name": "Present (green)",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "9uhhf44dFKeQ4b5zP"
+        "unique_entry_id": "9uhhf44dFKeQ4b5zP",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -6447,12 +6876,14 @@
         "name": "Present (light-blue)",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "gFWMoXzFEjAaBkoFi"
+        "unique_entry_id": "gFWMoXzFEjAaBkoFi",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -6477,12 +6908,14 @@
         "name": "Present (mint)",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "uWkGsjeN7twxbeXLR"
+        "unique_entry_id": "uWkGsjeN7twxbeXLR",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -6507,12 +6940,14 @@
         "name": "Present (navy)",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "YeKbW5aZJbTqDGemJ"
+        "unique_entry_id": "YeKbW5aZJbTqDGemJ",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -6537,12 +6972,14 @@
         "name": "Present (orange)",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "nHGaD5m8mC7s7CXvL"
+        "unique_entry_id": "nHGaD5m8mC7s7CXvL",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -6567,12 +7004,14 @@
         "name": "Present (pink)",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "pvtYwhqa379pE76XE"
+        "unique_entry_id": "pvtYwhqa379pE76XE",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -6597,12 +7036,14 @@
         "name": "Present (purple)",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "7hrL79hJbARyu7ipm"
+        "unique_entry_id": "7hrL79hJbARyu7ipm",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -6627,12 +7068,14 @@
         "name": "Present (red)",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "id6zFR4kWdzBig22Z"
+        "unique_entry_id": "id6zFR4kWdzBig22Z",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -6657,12 +7100,14 @@
         "name": "Present (white)",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "a5AhJAfzsgzgTfMty"
+        "unique_entry_id": "a5AhJAfzsgzgTfMty",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -6687,12 +7132,14 @@
         "name": "Present (yellow)",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "BammpXwkmiSSZ7uxz"
+        "unique_entry_id": "BammpXwkmiSSZ7uxz",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": "Nook Miles",
@@ -6717,12 +7164,14 @@
         "name": "Pretty Good Tools Recipes",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "qX2D6tr7ba6exWbPj"
+        "unique_entry_id": "qX2D6tr7ba6exWbPj",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": "Nook Miles",
@@ -6747,12 +7196,14 @@
         "name": "Pro Camera App",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "ewzfTCou2LjigL3u4"
+        "unique_entry_id": "ewzfTCou2LjigL3u4",
+        "version_added": "2.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": "Nook Miles",
@@ -6777,12 +7228,14 @@
         "name": "Pro Construction License",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "xccbsyKLfNacT2atx"
+        "unique_entry_id": "xccbsyKLfNacT2atx",
+        "version_added": "2.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": "Nook Miles",
@@ -6807,12 +7260,14 @@
         "name": "Pro Decorating License",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "ncbqaFKoHGJtCaL3a"
+        "unique_entry_id": "ncbqaFKoHGJtCaL3a",
+        "version_added": "2.0.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 280,
         "capacity": 10,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -6837,12 +7292,14 @@
         "name": "Pumpkin Start",
         "sell_currency": "Bells",
         "sell_price": 70,
-        "unique_entry_id": "3zojbttjJXhz4eFCE"
+        "unique_entry_id": "3zojbttjJXhz4eFCE",
+        "version_added": "1.5.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 3,
+        "category": "Etc",
         "color_1": "Purple",
         "color_2": "Purple",
         "exchange_currency": null,
@@ -6867,12 +7324,14 @@
         "name": "Purple Feather",
         "sell_currency": "Bells",
         "sell_price": 200,
-        "unique_entry_id": "7HKiTAhpqRKwDHa9y"
+        "unique_entry_id": "7HKiTAhpqRKwDHa9y",
+        "version_added": "1.7.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": "Purple",
         "color_2": "Green",
         "exchange_currency": null,
@@ -6897,12 +7356,14 @@
         "name": "Purple Hyacinths",
         "sell_currency": "Bells",
         "sell_price": 240,
-        "unique_entry_id": "9F9TFje8ycfZHtGwb"
+        "unique_entry_id": "9F9TFje8ycfZHtGwb",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": "Purple",
         "color_2": "Green",
         "exchange_currency": null,
@@ -6927,12 +7388,14 @@
         "name": "Purple Mums",
         "sell_currency": "Bells",
         "sell_price": 80,
-        "unique_entry_id": "Cx4oGE5eG4dByu52t"
+        "unique_entry_id": "Cx4oGE5eG4dByu52t",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": "Purple",
         "color_2": "Green",
         "exchange_currency": null,
@@ -6957,12 +7420,14 @@
         "name": "Purple Pansies",
         "sell_currency": "Bells",
         "sell_price": 240,
-        "unique_entry_id": "j7gZeSSTHAcNjGTz7"
+        "unique_entry_id": "j7gZeSSTHAcNjGTz7",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": "Purple",
         "color_2": "Green",
         "exchange_currency": null,
@@ -6987,12 +7452,14 @@
         "name": "Purple Roses",
         "sell_currency": "Bells",
         "sell_price": 240,
-        "unique_entry_id": "7YDMvyAt4FvfmZzpX"
+        "unique_entry_id": "7YDMvyAt4FvfmZzpX",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": "Purple",
         "color_2": "Green",
         "exchange_currency": null,
@@ -7017,12 +7484,14 @@
         "name": "Purple Tulips",
         "sell_currency": "Bells",
         "sell_price": 240,
-        "unique_entry_id": "ifT7cGFbysTHCWFES"
+        "unique_entry_id": "ifT7cGFbysTHCWFES",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": "Purple",
         "color_2": "Green",
         "exchange_currency": null,
@@ -7047,12 +7516,14 @@
         "name": "Purple Windflowers",
         "sell_currency": "Bells",
         "sell_price": 240,
-        "unique_entry_id": "k8fi3AsuMB335GrxH"
+        "unique_entry_id": "k8fi3AsuMB335GrxH",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 160,
         "capacity": 10,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -7077,12 +7548,14 @@
         "name": "Purple Wrapping Paper",
         "sell_currency": "Bells",
         "sell_price": 40,
-        "unique_entry_id": "XYFjS9w89jxHJTJks"
+        "unique_entry_id": "XYFjS9w89jxHJTJks",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -7107,12 +7580,14 @@
         "name": "Purple-hyacinth Plant",
         "sell_currency": "Bells",
         "sell_price": 240,
-        "unique_entry_id": "25W3Z8QHvkuxynosQ"
+        "unique_entry_id": "25W3Z8QHvkuxynosQ",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -7137,12 +7612,14 @@
         "name": "Purple-mum Plant",
         "sell_currency": "Bells",
         "sell_price": 80,
-        "unique_entry_id": "h5JsnSkRkX5nHgvkJ"
+        "unique_entry_id": "h5JsnSkRkX5nHgvkJ",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -7167,12 +7644,14 @@
         "name": "Purple-pansy Plant",
         "sell_currency": "Bells",
         "sell_price": 240,
-        "unique_entry_id": "TRTMbvSzctgwWM6is"
+        "unique_entry_id": "TRTMbvSzctgwWM6is",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -7197,12 +7676,14 @@
         "name": "Purple-rose Plant",
         "sell_currency": "Bells",
         "sell_price": 240,
-        "unique_entry_id": "o8Z9gXXxjwrerp3Xm"
+        "unique_entry_id": "o8Z9gXXxjwrerp3Xm",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -7227,12 +7708,14 @@
         "name": "Purple-tulip Plant",
         "sell_currency": "Bells",
         "sell_price": 240,
-        "unique_entry_id": "P5kEKdgi4EkF3Fxge"
+        "unique_entry_id": "P5kEKdgi4EkF3Fxge",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -7257,12 +7740,14 @@
         "name": "Purple-windflower Plant",
         "sell_currency": "Bells",
         "sell_price": 240,
-        "unique_entry_id": "K2PvXjrjRrJcxWKDZ"
+        "unique_entry_id": "K2PvXjrjRrJcxWKDZ",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Etc",
         "color_1": "Colorful",
         "color_2": "Colorful",
         "exchange_currency": null,
@@ -7287,12 +7772,14 @@
         "name": "Rainbow Feather",
         "sell_currency": "Bells",
         "sell_price": 1600,
-        "unique_entry_id": "dPZSTbDt7jgKpw5xD"
+        "unique_entry_id": "dPZSTbDt7jgKpw5xD",
+        "version_added": "1.7.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -7317,12 +7804,14 @@
         "name": "Rare Mushroom",
         "sell_currency": "Bells",
         "sell_price": 16000,
-        "unique_entry_id": "TBrdJZWSzGth68Hs9"
+        "unique_entry_id": "TBrdJZWSzGth68Hs9",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": "Red",
         "color_2": "Green",
         "exchange_currency": null,
@@ -7347,12 +7836,14 @@
         "name": "Red Cosmos",
         "sell_currency": "Bells",
         "sell_price": 40,
-        "unique_entry_id": "df2GEMdr8rzF848iG"
+        "unique_entry_id": "df2GEMdr8rzF848iG",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 3,
+        "category": "Etc",
         "color_1": "Red",
         "color_2": "Red",
         "exchange_currency": null,
@@ -7377,12 +7868,14 @@
         "name": "Red Feather",
         "sell_currency": "Bells",
         "sell_price": 200,
-        "unique_entry_id": "gLSytGm9mxZM55pbo"
+        "unique_entry_id": "gLSytGm9mxZM55pbo",
+        "version_added": "1.7.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": "Red",
         "color_2": "Green",
         "exchange_currency": null,
@@ -7407,12 +7900,14 @@
         "name": "Red Hyacinths",
         "sell_currency": "Bells",
         "sell_price": 40,
-        "unique_entry_id": "ch44Hxnuhc4xFnaGq"
+        "unique_entry_id": "ch44Hxnuhc4xFnaGq",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": "Red",
         "color_2": "Green",
         "exchange_currency": null,
@@ -7437,12 +7932,14 @@
         "name": "Red Lilies",
         "sell_currency": "Bells",
         "sell_price": 40,
-        "unique_entry_id": "Ccbkzs9BxFwttCGux"
+        "unique_entry_id": "Ccbkzs9BxFwttCGux",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": "Red",
         "color_2": "Green",
         "exchange_currency": null,
@@ -7467,12 +7964,14 @@
         "name": "Red Mums",
         "sell_currency": "Bells",
         "sell_price": 40,
-        "unique_entry_id": "YbZtSHeqdMEZfvMSj"
+        "unique_entry_id": "YbZtSHeqdMEZfvMSj",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 30,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -7497,12 +7996,14 @@
         "name": "Red Ornament",
         "sell_currency": "Bells",
         "sell_price": 50,
-        "unique_entry_id": "n7d3HHquNv3trZZ6a"
+        "unique_entry_id": "n7d3HHquNv3trZZ6a",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": "Red",
         "color_2": "Green",
         "exchange_currency": null,
@@ -7527,12 +8028,14 @@
         "name": "Red Pansies",
         "sell_currency": "Bells",
         "sell_price": 40,
-        "unique_entry_id": "nifAbNAEXppAEJ2Rc"
+        "unique_entry_id": "nifAbNAEXppAEJ2Rc",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": "Red",
         "color_2": "Green",
         "exchange_currency": null,
@@ -7557,12 +8060,14 @@
         "name": "Red Roses",
         "sell_currency": "Bells",
         "sell_price": 40,
-        "unique_entry_id": "6whx4t9k8aztJN6a4"
+        "unique_entry_id": "6whx4t9k8aztJN6a4",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": "Red",
         "color_2": "Green",
         "exchange_currency": null,
@@ -7587,12 +8092,14 @@
         "name": "Red Tulips",
         "sell_currency": "Bells",
         "sell_price": 40,
-        "unique_entry_id": "wbJwAKy9SJsuWeHLn"
+        "unique_entry_id": "wbJwAKy9SJsuWeHLn",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": "Red",
         "color_2": "Green",
         "exchange_currency": null,
@@ -7617,12 +8124,14 @@
         "name": "Red Windflowers",
         "sell_currency": "Bells",
         "sell_price": 40,
-        "unique_entry_id": "JRcjMczbQ6geDSWDb"
+        "unique_entry_id": "JRcjMczbQ6geDSWDb",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 160,
         "capacity": 10,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -7647,12 +8156,14 @@
         "name": "Red Wrapping Paper",
         "sell_currency": "Bells",
         "sell_price": 40,
-        "unique_entry_id": "AN7s2Q67gmpxy89Tv"
+        "unique_entry_id": "AN7s2Q67gmpxy89Tv",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -7677,12 +8188,14 @@
         "name": "Red-camellia Bush",
         "sell_currency": "Bells",
         "sell_price": 140,
-        "unique_entry_id": "wBA9LGru4uetCqQsx"
+        "unique_entry_id": "wBA9LGru4uetCqQsx",
+        "version_added": "1.2.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 280,
         "capacity": 10,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -7707,12 +8220,14 @@
         "name": "Red-camellia Start",
         "sell_currency": "Bells",
         "sell_price": 70,
-        "unique_entry_id": "wZBBMZvxkDz22tpLo"
+        "unique_entry_id": "wZBBMZvxkDz22tpLo",
+        "version_added": "1.2.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 240,
         "capacity": 10,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -7737,12 +8252,14 @@
         "name": "Red-cosmos Bag",
         "sell_currency": "Bells",
         "sell_price": 60,
-        "unique_entry_id": "uSN5GeiPFdq4sXM9p"
+        "unique_entry_id": "uSN5GeiPFdq4sXM9p",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -7767,12 +8284,14 @@
         "name": "Red-cosmos Plant",
         "sell_currency": "Bells",
         "sell_price": 40,
-        "unique_entry_id": "6DQtRdnKv3wncjoLn"
+        "unique_entry_id": "6DQtRdnKv3wncjoLn",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -7797,12 +8316,14 @@
         "name": "Red-hibiscus Bush",
         "sell_currency": "Bells",
         "sell_price": 140,
-        "unique_entry_id": "9L4XDnErnxfq4WzYC"
+        "unique_entry_id": "9L4XDnErnxfq4WzYC",
+        "version_added": "1.2.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 280,
         "capacity": 10,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -7827,12 +8348,14 @@
         "name": "Red-hibiscus Start",
         "sell_currency": "Bells",
         "sell_price": 70,
-        "unique_entry_id": "fru8KaSmhXoKiPmxJ"
+        "unique_entry_id": "fru8KaSmhXoKiPmxJ",
+        "version_added": "1.2.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 240,
         "capacity": 10,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -7857,12 +8380,14 @@
         "name": "Red-hyacinth Bag",
         "sell_currency": "Bells",
         "sell_price": 60,
-        "unique_entry_id": "4hfNdxNQWkQ9qf6QN"
+        "unique_entry_id": "4hfNdxNQWkQ9qf6QN",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -7887,12 +8412,14 @@
         "name": "Red-hyacinth Plant",
         "sell_currency": "Bells",
         "sell_price": 40,
-        "unique_entry_id": "2NJn5Znkpfj3PZ3h4"
+        "unique_entry_id": "2NJn5Znkpfj3PZ3h4",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 240,
         "capacity": 10,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -7917,12 +8444,14 @@
         "name": "Red-lily Bag",
         "sell_currency": "Bells",
         "sell_price": 60,
-        "unique_entry_id": "6omvRhe5bmd4Abd3z"
+        "unique_entry_id": "6omvRhe5bmd4Abd3z",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -7947,12 +8476,14 @@
         "name": "Red-lily Plant",
         "sell_currency": "Bells",
         "sell_price": 40,
-        "unique_entry_id": "FpdTm8BJu2va7bxe3"
+        "unique_entry_id": "FpdTm8BJu2va7bxe3",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 240,
         "capacity": 10,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -7977,12 +8508,14 @@
         "name": "Red-mum Bag",
         "sell_currency": "Bells",
         "sell_price": 60,
-        "unique_entry_id": "BZzzrHDtZyDqP9Jot"
+        "unique_entry_id": "BZzzrHDtZyDqP9Jot",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -8007,12 +8540,14 @@
         "name": "Red-mum Plant",
         "sell_currency": "Bells",
         "sell_price": 40,
-        "unique_entry_id": "pdhzKEEKEWtCGLMj7"
+        "unique_entry_id": "pdhzKEEKEWtCGLMj7",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 240,
         "capacity": 10,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -8037,12 +8572,14 @@
         "name": "Red-pansy Bag",
         "sell_currency": "Bells",
         "sell_price": 60,
-        "unique_entry_id": "H2phax8XGcyfsxHyM"
+        "unique_entry_id": "H2phax8XGcyfsxHyM",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -8067,12 +8604,14 @@
         "name": "Red-pansy Plant",
         "sell_currency": "Bells",
         "sell_price": 40,
-        "unique_entry_id": "BQJWgPE6ouCBiNoZn"
+        "unique_entry_id": "BQJWgPE6ouCBiNoZn",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 240,
         "capacity": 10,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -8097,12 +8636,14 @@
         "name": "Red-rose Bag",
         "sell_currency": "Bells",
         "sell_price": 60,
-        "unique_entry_id": "e7SNQmbsXKT3pkkzS"
+        "unique_entry_id": "e7SNQmbsXKT3pkkzS",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -8127,12 +8668,14 @@
         "name": "Red-rose Plant",
         "sell_currency": "Bells",
         "sell_price": 40,
-        "unique_entry_id": "A8c3nW23t98zEzuPY"
+        "unique_entry_id": "A8c3nW23t98zEzuPY",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 240,
         "capacity": 10,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -8157,12 +8700,14 @@
         "name": "Red-tulip Bag",
         "sell_currency": "Bells",
         "sell_price": 60,
-        "unique_entry_id": "6WnmQcHeeC9MAELud"
+        "unique_entry_id": "6WnmQcHeeC9MAELud",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -8187,12 +8732,14 @@
         "name": "Red-tulip Plant",
         "sell_currency": "Bells",
         "sell_price": 40,
-        "unique_entry_id": "vq6FQiZSEprG7z24A"
+        "unique_entry_id": "vq6FQiZSEprG7z24A",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 240,
         "capacity": 10,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -8217,12 +8764,14 @@
         "name": "Red-windflower Bag",
         "sell_currency": "Bells",
         "sell_price": 60,
-        "unique_entry_id": "gstfXhxq6i9XsQeMu"
+        "unique_entry_id": "gstfXhxq6i9XsQeMu",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -8247,12 +8796,14 @@
         "name": "Red-windflower Plant",
         "sell_currency": "Bells",
         "sell_price": 40,
-        "unique_entry_id": "R8JKJkD6gjEK548a2"
+        "unique_entry_id": "R8JKJkD6gjEK548a2",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -8277,12 +8828,14 @@
         "name": "Ripe Carrot Plant",
         "sell_currency": "Bells",
         "sell_price": 350,
-        "unique_entry_id": "quPQ8PvMvMve7BmNX"
+        "unique_entry_id": "quPQ8PvMvMve7BmNX",
+        "version_added": "2.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -8307,12 +8860,14 @@
         "name": "Ripe Green-pumpkin Plant",
         "sell_currency": "Bells",
         "sell_price": 350,
-        "unique_entry_id": "ayPbtaq8CwpKNapLf"
+        "unique_entry_id": "ayPbtaq8CwpKNapLf",
+        "version_added": "1.5.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -8337,12 +8892,14 @@
         "name": "Ripe Orange-pumpkin Plant",
         "sell_currency": "Bells",
         "sell_price": 350,
-        "unique_entry_id": "RusnnqE3aY6t7ThJR"
+        "unique_entry_id": "RusnnqE3aY6t7ThJR",
+        "version_added": "1.5.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -8367,12 +8924,14 @@
         "name": "Ripe Potato Plant",
         "sell_currency": "Bells",
         "sell_price": 350,
-        "unique_entry_id": "eGHF3wrRFYbiE2Ktc"
+        "unique_entry_id": "eGHF3wrRFYbiE2Ktc",
+        "version_added": "2.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -8397,12 +8956,14 @@
         "name": "Ripe Sugarcane Plant",
         "sell_currency": "Bells",
         "sell_price": 350,
-        "unique_entry_id": "Mb3ZWQvCwpZnZhM9D"
+        "unique_entry_id": "Mb3ZWQvCwpZnZhM9D",
+        "version_added": "2.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -8427,12 +8988,14 @@
         "name": "Ripe Tomato Plant",
         "sell_currency": "Bells",
         "sell_price": 350,
-        "unique_entry_id": "Cr5D2AzSMXXzACg4b"
+        "unique_entry_id": "Cr5D2AzSMXXzACg4b",
+        "version_added": "2.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -8457,12 +9020,14 @@
         "name": "Ripe Wheat Plant",
         "sell_currency": "Bells",
         "sell_price": 350,
-        "unique_entry_id": "eAbi74E3NBaZgv2qM"
+        "unique_entry_id": "eAbi74E3NBaZgv2qM",
+        "version_added": "2.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -8487,12 +9052,14 @@
         "name": "Ripe White-pumpkin Plant",
         "sell_currency": "Bells",
         "sell_price": 350,
-        "unique_entry_id": "YPMgJmtwRiS4pYtQa"
+        "unique_entry_id": "YPMgJmtwRiS4pYtQa",
+        "version_added": "1.5.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -8517,12 +9084,14 @@
         "name": "Ripe Yellow-pumpkin Plant",
         "sell_currency": "Bells",
         "sell_price": 350,
-        "unique_entry_id": "R2ZZWCxaLK9Jcw7SK"
+        "unique_entry_id": "R2ZZWCxaLK9Jcw7SK",
+        "version_added": "1.5.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -8547,12 +9116,14 @@
         "name": "Round Mushroom",
         "sell_currency": "Bells",
         "sell_price": 200,
-        "unique_entry_id": "x8LdsoLTpK3eNLsLP"
+        "unique_entry_id": "x8LdsoLTpK3eNLsLP",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -8577,12 +9148,14 @@
         "name": "Rusted Part",
         "sell_currency": "Bells",
         "sell_price": 10,
-        "unique_entry_id": "eNswgjstdGpp6XoKz"
+        "unique_entry_id": "eNswgjstdGpp6XoKz",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -8607,12 +9180,14 @@
         "name": "Sagittarius fragment",
         "sell_currency": "Bells",
         "sell_price": 500,
-        "unique_entry_id": "9R62eP8SNmyp2BKCw"
+        "unique_entry_id": "9R62eP8SNmyp2BKCw",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 5,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -8637,12 +9212,14 @@
         "name": "Saharah Ticket",
         "sell_currency": "Bells",
         "sell_price": 100,
-        "unique_entry_id": "hcEpSZjo7pxbNQ4B9"
+        "unique_entry_id": "hcEpSZjo7pxbNQ4B9",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -8667,12 +9244,14 @@
         "name": "Sand Dollar",
         "sell_currency": "Bells",
         "sell_price": 120,
-        "unique_entry_id": "7QMCD99jYqLWHvEnR"
+        "unique_entry_id": "7QMCD99jYqLWHvEnR",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": "Nook Miles",
@@ -8697,12 +9276,14 @@
         "name": "Sand Path Permit",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "Pw8J67aWPkpfyd2Wa"
+        "unique_entry_id": "Pw8J67aWPkpfyd2Wa",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 640,
         "capacity": 10,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -8727,12 +9308,14 @@
         "name": "Sapling",
         "sell_currency": "Bells",
         "sell_price": 160,
-        "unique_entry_id": "cD3cQwuLBqLJe2WeM"
+        "unique_entry_id": "cD3cQwuLBqLJe2WeM",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -8757,12 +9340,14 @@
         "name": "Scorpius fragment",
         "sell_currency": "Bells",
         "sell_price": 500,
-        "unique_entry_id": "qGiMqtK2j3TsC7bNu"
+        "unique_entry_id": "qGiMqtK2j3TsC7bNu",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -8787,12 +9372,14 @@
         "name": "Sea Snail",
         "sell_currency": "Bells",
         "sell_price": 180,
-        "unique_entry_id": "5wagvDKnQqp7a3xWD"
+        "unique_entry_id": "5wagvDKnQqp7a3xWD",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -8817,12 +9404,14 @@
         "name": "Sebaetdon",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "ePrzqT5HRMpbfdn7y"
+        "unique_entry_id": "ePrzqT5HRMpbfdn7y",
+        "version_added": "1.7.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 280,
         "capacity": 10,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -8847,12 +9436,14 @@
         "name": "Seed Potato",
         "sell_currency": "Bells",
         "sell_price": 70,
-        "unique_entry_id": "uxiLYB9gyNwmZjWaZ"
+        "unique_entry_id": "uxiLYB9gyNwmZjWaZ",
+        "version_added": "2.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -8877,12 +9468,14 @@
         "name": "Shop Construction Kit",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "GgwtWhgJSRb3E4gFt"
+        "unique_entry_id": "GgwtWhgJSRb3E4gFt",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -8907,12 +9500,14 @@
         "name": "Shop Moving Kit",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "9LmRipQ63jBZ3CGWq"
+        "unique_entry_id": "9LmRipQ63jBZ3CGWq",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -8937,12 +9532,14 @@
         "name": "Skinny Mushroom",
         "sell_currency": "Bells",
         "sell_price": 300,
-        "unique_entry_id": "y2htnyw8eDSR8JHJg"
+        "unique_entry_id": "y2htnyw8eDSR8JHJg",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 30,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -8967,12 +9564,14 @@
         "name": "Sky Egg",
         "sell_currency": "Bells",
         "sell_price": 200,
-        "unique_entry_id": "SLJ273SKGouTZWTzY"
+        "unique_entry_id": "SLJ273SKGouTZWTzY",
+        "version_added": "1.1.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -8997,12 +9596,14 @@
         "name": "Snowflake",
         "sell_currency": "Bells",
         "sell_price": 200,
-        "unique_entry_id": "Ru7DDSmgAT9dxL8cL"
+        "unique_entry_id": "Ru7DDSmgAT9dxL8cL",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 30,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -9027,12 +9628,14 @@
         "name": "Softwood",
         "sell_currency": "Bells",
         "sell_price": 60,
-        "unique_entry_id": "uP3kCjbqrmTKeo2Ya"
+        "unique_entry_id": "uP3kCjbqrmTKeo2Ya",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": "Poki",
@@ -9057,12 +9660,14 @@
         "name": "Souvenir Chocolates",
         "sell_currency": "Bells",
         "sell_price": 222,
-        "unique_entry_id": "Eyat3se8Qndpk6Kfv"
+        "unique_entry_id": "Eyat3se8Qndpk6Kfv",
+        "version_added": "2.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -9087,12 +9692,14 @@
         "name": "Spoiled Turnips",
         "sell_currency": "Bells",
         "sell_price": 100,
-        "unique_entry_id": "xPacPLbSrKbYSjBAd"
+        "unique_entry_id": "xPacPLbSrKbYSjBAd",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -9117,12 +9724,14 @@
         "name": "Star Fragment",
         "sell_currency": "Bells",
         "sell_price": 250,
-        "unique_entry_id": "Fy2vYDWHtktFPiRjz"
+        "unique_entry_id": "Fy2vYDWHtktFPiRjz",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 30,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -9147,12 +9756,14 @@
         "name": "Stone",
         "sell_currency": "Bells",
         "sell_price": 75,
-        "unique_entry_id": "rQ38YPKd7g8fCBqRC"
+        "unique_entry_id": "rQ38YPKd7g8fCBqRC",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 30,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -9177,12 +9788,14 @@
         "name": "Stone Egg",
         "sell_currency": "Bells",
         "sell_price": 200,
-        "unique_entry_id": "fHsLgaoNxhWY7BGqm"
+        "unique_entry_id": "fHsLgaoNxhWY7BGqm",
+        "version_added": "1.1.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": "Nook Miles",
@@ -9207,12 +9820,14 @@
         "name": "Stone Path Permit",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "oTy93idiub9zpcb3F"
+        "unique_entry_id": "oTy93idiub9zpcb3F",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 50,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -9237,12 +9852,14 @@
         "name": "Sugar",
         "sell_currency": "Bells",
         "sell_price": 210,
-        "unique_entry_id": "PM7n3XRpKhzPXkDhp"
+        "unique_entry_id": "PM7n3XRpKhzPXkDhp",
+        "version_added": "2.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -9267,12 +9884,14 @@
         "name": "Sugarcane",
         "sell_currency": "Bells",
         "sell_price": 350,
-        "unique_entry_id": "KoKRtwn77pywTyqng"
+        "unique_entry_id": "KoKRtwn77pywTyqng",
+        "version_added": "2.0.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 280,
         "capacity": 10,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -9297,12 +9916,14 @@
         "name": "Sugarcane Start",
         "sell_currency": "Bells",
         "sell_price": 70,
-        "unique_entry_id": "PXWD7CswEAMtkDcKe"
+        "unique_entry_id": "PXWD7CswEAMtkDcKe",
+        "version_added": "2.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -9327,12 +9948,14 @@
         "name": "Summer Shell",
         "sell_currency": "Bells",
         "sell_price": 600,
-        "unique_entry_id": "nrfNFuHkwuyx2h25n"
+        "unique_entry_id": "nrfNFuHkwuyx2h25n",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -9357,12 +9980,14 @@
         "name": "Tailors Construction Kit",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "nzXpuGtjkdzS8i7aZ"
+        "unique_entry_id": "nzXpuGtjkdzS8i7aZ",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -9387,12 +10012,14 @@
         "name": "Tailors Moving Kit",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "GaNHE6Zd7QJtFKMwW"
+        "unique_entry_id": "GaNHE6Zd7QJtFKMwW",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -9417,12 +10044,14 @@
         "name": "Tailors Ticket",
         "sell_currency": "Bells",
         "sell_price": 250,
-        "unique_entry_id": "Rq3dAQH4oTDptcDMF"
+        "unique_entry_id": "Rq3dAQH4oTDptcDMF",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -9447,12 +10076,14 @@
         "name": "Taurus fragment",
         "sell_currency": "Bells",
         "sell_price": 500,
-        "unique_entry_id": "3k9txwAoHfTjWgxtx"
+        "unique_entry_id": "3k9txwAoHfTjWgxtx",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -9477,12 +10108,14 @@
         "name": "Tent",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "Lg4xPPH3PXiNpW268"
+        "unique_entry_id": "Lg4xPPH3PXiNpW268",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": "Nook Miles",
@@ -9507,12 +10140,14 @@
         "name": "Terra-cotta Tile Permit",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "RpeWT95qyhD22ePzw"
+        "unique_entry_id": "RpeWT95qyhD22ePzw",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 2680,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -9537,12 +10172,14 @@
         "name": "Test Your DIY Skills",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "Z98Fu4EyDgeSnqxzE"
+        "unique_entry_id": "Z98Fu4EyDgeSnqxzE",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -9567,12 +10204,14 @@
         "name": "Tomato",
         "sell_currency": "Bells",
         "sell_price": 350,
-        "unique_entry_id": "4Ht6JuKRLQ9MajgsF"
+        "unique_entry_id": "4Ht6JuKRLQ9MajgsF",
+        "version_added": "2.0.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 280,
         "capacity": 10,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -9597,12 +10236,14 @@
         "name": "Tomato Start",
         "sell_currency": "Bells",
         "sell_price": 70,
-        "unique_entry_id": "TqZXQWtrX2A4yXc7w"
+        "unique_entry_id": "TqZXQWtrX2A4yXc7w",
+        "version_added": "2.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": "Nook Miles",
@@ -9627,12 +10268,14 @@
         "name": "Tool Ring: It's Essential!",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "AXc86J2LA2TEEgkTy"
+        "unique_entry_id": "AXc86J2LA2TEEgkTy",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": "Nook Miles",
@@ -9657,12 +10300,14 @@
         "name": "Top 4 Fab Hairstyles",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "EkfcmkMkNAMsnS7x3"
+        "unique_entry_id": "EkfcmkMkNAMsnS7x3",
+        "version_added": "2.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": "Nook Miles",
@@ -9687,12 +10332,14 @@
         "name": "Top 6 Stylish Hairstyles",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "7bC3au49Axxr4p5L5"
+        "unique_entry_id": "7bC3au49Axxr4p5L5",
+        "version_added": "1.6.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": "Nook Miles",
@@ -9717,12 +10364,14 @@
         "name": "Top 8 Cool Hairstyles",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "qRimrPCob8DS8zuug"
+        "unique_entry_id": "qRimrPCob8DS8zuug",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": "Nook Miles",
@@ -9747,12 +10396,14 @@
         "name": "Top 8 Pop Hairstyles",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "2KfDyfk47DR6Gw8m9"
+        "unique_entry_id": "2KfDyfk47DR6Gw8m9",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": "Nook Miles",
@@ -9777,12 +10428,14 @@
         "name": "Top 8 Stylish Hair Colors",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "JPwL4N6fr494vbJHb"
+        "unique_entry_id": "JPwL4N6fr494vbJHb",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -9807,12 +10460,14 @@
         "name": "Transfer Kit",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "WGRQ4YBzp3QpDNFMm"
+        "unique_entry_id": "WGRQ4YBzp3QpDNFMm",
+        "version_added": "1.6.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -9837,12 +10492,14 @@
         "name": "Treasure",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "KJjoYJDr5g786djiz"
+        "unique_entry_id": "KJjoYJDr5g786djiz",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 30,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -9867,12 +10524,14 @@
         "name": "Tree Branch",
         "sell_currency": "Bells",
         "sell_price": 5,
-        "unique_entry_id": "fDwbwWdq93bLwRRDr"
+        "unique_entry_id": "fDwbwWdq93bLwRRDr",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 9800,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -9897,12 +10556,14 @@
         "name": "Turkey Day Recipes",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "5xYYfFYyrEG9rS9Hx"
+        "unique_entry_id": "5xYYfFYyrEG9rS9Hx",
+        "version_added": "2.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1000,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -9927,12 +10588,14 @@
         "name": "Turnips",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "4hQrmzxXh6HRb8TDg"
+        "unique_entry_id": "4hQrmzxXh6HRb8TDg",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": "Nook Miles",
@@ -9957,12 +10620,14 @@
         "name": "Ultimate Pocket Stuffing",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "jLHd4JDRQDRxBhE9o"
+        "unique_entry_id": "jLHd4JDRQDRxBhE9o",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -9987,12 +10652,14 @@
         "name": "Used Fountain Firework",
         "sell_currency": "Bells",
         "sell_price": 10,
-        "unique_entry_id": "ZndPE58PZywGJxkSq"
+        "unique_entry_id": "ZndPE58PZywGJxkSq",
+        "version_added": "1.4.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -10017,12 +10684,14 @@
         "name": "Venus Comb",
         "sell_currency": "Bells",
         "sell_price": 300,
-        "unique_entry_id": "rMwbSnAnQ6SR6ov26"
+        "unique_entry_id": "rMwbSnAnQ6SR6ov26",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 30,
+        "category": "FieldVine",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -10047,12 +10716,14 @@
         "name": "Vine",
         "sell_currency": "Bells",
         "sell_price": 50,
-        "unique_entry_id": "aPdbpZA8QLSFAAywr"
+        "unique_entry_id": "aPdbpZA8QLSFAAywr",
+        "version_added": "2.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -10077,12 +10748,14 @@
         "name": "Virgo fragment",
         "sell_currency": "Bells",
         "sell_price": 500,
-        "unique_entry_id": "6pD87cCAtspPu5xgi"
+        "unique_entry_id": "6pD87cCAtspPu5xgi",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 19800,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -10107,12 +10780,14 @@
         "name": "Viva Festivale Reaction Set",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "QHERh7S2v4M3vkM5N"
+        "unique_entry_id": "QHERh7S2v4M3vkM5N",
+        "version_added": "1.7.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -10137,12 +10812,14 @@
         "name": "Wasp Nest",
         "sell_currency": "Bells",
         "sell_price": 300,
-        "unique_entry_id": "nzXtgoA5GkWLJnNuv"
+        "unique_entry_id": "nzXtgoA5GkWLJnNuv",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 30,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -10167,12 +10844,14 @@
         "name": "Water Egg",
         "sell_currency": "Bells",
         "sell_price": 200,
-        "unique_entry_id": "q8ER2p757DRZoqvhB"
+        "unique_entry_id": "q8ER2p757DRZoqvhB",
+        "version_added": "1.1.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": "Nook Miles",
@@ -10197,12 +10876,14 @@
         "name": "Waterscaping Permit",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "y27SvjCmimgePaN7y"
+        "unique_entry_id": "y27SvjCmimgePaN7y",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -10227,12 +10908,14 @@
         "name": "What was this again?",
         "sell_currency": null,
         "sell_price": 0,
-        "unique_entry_id": "tFfFLpFHcdbw3AEW3"
+        "unique_entry_id": "tFfFLpFHcdbw3AEW3",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -10257,12 +10940,14 @@
         "name": "What was this again?",
         "sell_currency": null,
         "sell_price": 0,
-        "unique_entry_id": "uh9ZQCxKj52Entfkv"
+        "unique_entry_id": "uh9ZQCxKj52Entfkv",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -10287,12 +10972,14 @@
         "name": "What was this again?",
         "sell_currency": null,
         "sell_price": 0,
-        "unique_entry_id": "ruc9ZFn2WnduaPXPz"
+        "unique_entry_id": "ruc9ZFn2WnduaPXPz",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -10317,12 +11004,14 @@
         "name": "What was this again?",
         "sell_currency": null,
         "sell_price": 0,
-        "unique_entry_id": "abcQC3Kh7T8KSyBRA"
+        "unique_entry_id": "abcQC3Kh7T8KSyBRA",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -10347,12 +11036,14 @@
         "name": "Wheat",
         "sell_currency": "Bells",
         "sell_price": 350,
-        "unique_entry_id": "YK3WpWZr9sthEALnN"
+        "unique_entry_id": "YK3WpWZr9sthEALnN",
+        "version_added": "2.0.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 280,
         "capacity": 10,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -10377,12 +11068,14 @@
         "name": "Wheat Start",
         "sell_currency": "Bells",
         "sell_price": 70,
-        "unique_entry_id": "2Hn5xxndrhvLB2NFb"
+        "unique_entry_id": "2Hn5xxndrhvLB2NFb",
+        "version_added": "2.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": "White",
         "color_2": "Green",
         "exchange_currency": null,
@@ -10407,12 +11100,14 @@
         "name": "White Cosmos",
         "sell_currency": "Bells",
         "sell_price": 40,
-        "unique_entry_id": "3e4iLg8KTpbmx6XW4"
+        "unique_entry_id": "3e4iLg8KTpbmx6XW4",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": "White",
         "color_2": "Green",
         "exchange_currency": null,
@@ -10437,12 +11132,14 @@
         "name": "White Hyacinths",
         "sell_currency": "Bells",
         "sell_price": 40,
-        "unique_entry_id": "JtxQ44iAMCEDowPzj"
+        "unique_entry_id": "JtxQ44iAMCEDowPzj",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": "White",
         "color_2": "Green",
         "exchange_currency": null,
@@ -10467,12 +11164,14 @@
         "name": "White Lilies",
         "sell_currency": "Bells",
         "sell_price": 40,
-        "unique_entry_id": "HxHDxpDqRQEjiEs5L"
+        "unique_entry_id": "HxHDxpDqRQEjiEs5L",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": "White",
         "color_2": "Green",
         "exchange_currency": null,
@@ -10497,12 +11196,14 @@
         "name": "White Mums",
         "sell_currency": "Bells",
         "sell_price": 40,
-        "unique_entry_id": "nCnEJpwfWp5d3DBaF"
+        "unique_entry_id": "nCnEJpwfWp5d3DBaF",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": "White",
         "color_2": "Green",
         "exchange_currency": null,
@@ -10527,12 +11228,14 @@
         "name": "White Pansies",
         "sell_currency": "Bells",
         "sell_price": 40,
-        "unique_entry_id": "zxfj87rooXrjMcppa"
+        "unique_entry_id": "zxfj87rooXrjMcppa",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -10557,12 +11260,14 @@
         "name": "White Pumpkin",
         "sell_currency": "Bells",
         "sell_price": 350,
-        "unique_entry_id": "Q27X2Qd2GL7YodxJY"
+        "unique_entry_id": "Q27X2Qd2GL7YodxJY",
+        "version_added": "1.5.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": "White",
         "color_2": "Green",
         "exchange_currency": null,
@@ -10587,12 +11292,14 @@
         "name": "White Roses",
         "sell_currency": "Bells",
         "sell_price": 40,
-        "unique_entry_id": "2ASg5YXYQr5sqSvwG"
+        "unique_entry_id": "2ASg5YXYQr5sqSvwG",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": "White",
         "color_2": "Green",
         "exchange_currency": null,
@@ -10617,12 +11324,14 @@
         "name": "White Tulips",
         "sell_currency": "Bells",
         "sell_price": 40,
-        "unique_entry_id": "pzYHqKwsGDPBTsYmP"
+        "unique_entry_id": "pzYHqKwsGDPBTsYmP",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": "White",
         "color_2": "Green",
         "exchange_currency": null,
@@ -10647,12 +11356,14 @@
         "name": "White Windflowers",
         "sell_currency": "Bells",
         "sell_price": 40,
-        "unique_entry_id": "QayiSgWWCqxzfAHwj"
+        "unique_entry_id": "QayiSgWWCqxzfAHwj",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 160,
         "capacity": 10,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -10677,12 +11388,14 @@
         "name": "White Wrapping Paper",
         "sell_currency": "Bells",
         "sell_price": 40,
-        "unique_entry_id": "xFSvWhgZbhuCvSSpA"
+        "unique_entry_id": "xFSvWhgZbhuCvSSpA",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -10707,12 +11420,14 @@
         "name": "White-azalea Bush",
         "sell_currency": "Bells",
         "sell_price": 140,
-        "unique_entry_id": "xmkj9sBpv8pQNGnGT"
+        "unique_entry_id": "xmkj9sBpv8pQNGnGT",
+        "version_added": "1.2.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 280,
         "capacity": 10,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -10737,12 +11452,14 @@
         "name": "White-azalea Start",
         "sell_currency": "Bells",
         "sell_price": 70,
-        "unique_entry_id": "2xmbtR7bGZ9SkctzF"
+        "unique_entry_id": "2xmbtR7bGZ9SkctzF",
+        "version_added": "1.2.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 240,
         "capacity": 10,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -10767,12 +11484,14 @@
         "name": "White-cosmos Bag",
         "sell_currency": "Bells",
         "sell_price": 60,
-        "unique_entry_id": "qkPkqfogiwMf9fKCS"
+        "unique_entry_id": "qkPkqfogiwMf9fKCS",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -10797,12 +11516,14 @@
         "name": "White-cosmos Plant",
         "sell_currency": "Bells",
         "sell_price": 40,
-        "unique_entry_id": "3iZJP9ouR47H43qMJ"
+        "unique_entry_id": "3iZJP9ouR47H43qMJ",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 240,
         "capacity": 10,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -10827,12 +11548,14 @@
         "name": "White-hyacinth Bag",
         "sell_currency": "Bells",
         "sell_price": 60,
-        "unique_entry_id": "iojgh78kpnPtzmjz5"
+        "unique_entry_id": "iojgh78kpnPtzmjz5",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -10857,12 +11580,14 @@
         "name": "White-hyacinth Plant",
         "sell_currency": "Bells",
         "sell_price": 40,
-        "unique_entry_id": "uznvYGDDCpPJkYaEJ"
+        "unique_entry_id": "uznvYGDDCpPJkYaEJ",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 240,
         "capacity": 10,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -10887,12 +11612,14 @@
         "name": "White-lily Bag",
         "sell_currency": "Bells",
         "sell_price": 60,
-        "unique_entry_id": "wD5MnM6bM2t88hMs5"
+        "unique_entry_id": "wD5MnM6bM2t88hMs5",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -10917,12 +11644,14 @@
         "name": "White-lily Plant",
         "sell_currency": "Bells",
         "sell_price": 40,
-        "unique_entry_id": "jwRXxgLr3hFQsAZB6"
+        "unique_entry_id": "jwRXxgLr3hFQsAZB6",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 240,
         "capacity": 10,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -10947,12 +11676,14 @@
         "name": "White-mum Bag",
         "sell_currency": "Bells",
         "sell_price": 60,
-        "unique_entry_id": "PZ8MqZFTibFpr8Lqi"
+        "unique_entry_id": "PZ8MqZFTibFpr8Lqi",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -10977,12 +11708,14 @@
         "name": "White-mum Plant",
         "sell_currency": "Bells",
         "sell_price": 40,
-        "unique_entry_id": "hYqfsENa2bSHGznkC"
+        "unique_entry_id": "hYqfsENa2bSHGznkC",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 240,
         "capacity": 10,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -11007,12 +11740,14 @@
         "name": "White-pansy Bag",
         "sell_currency": "Bells",
         "sell_price": 60,
-        "unique_entry_id": "RsndrSoamwXzNjD9y"
+        "unique_entry_id": "RsndrSoamwXzNjD9y",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -11037,12 +11772,14 @@
         "name": "White-pansy Plant",
         "sell_currency": "Bells",
         "sell_price": 40,
-        "unique_entry_id": "XmpB3NuR9RS9PXmCM"
+        "unique_entry_id": "XmpB3NuR9RS9PXmCM",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -11067,12 +11804,14 @@
         "name": "White-plumeria Bush",
         "sell_currency": "Bells",
         "sell_price": 140,
-        "unique_entry_id": "i4ff2SsFg5y97fnAT"
+        "unique_entry_id": "i4ff2SsFg5y97fnAT",
+        "version_added": "2.0.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 280,
         "capacity": 10,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -11097,12 +11836,14 @@
         "name": "White-plumeria Start",
         "sell_currency": "Bells",
         "sell_price": 70,
-        "unique_entry_id": "4ZCsZkJsK88e7ocN6"
+        "unique_entry_id": "4ZCsZkJsK88e7ocN6",
+        "version_added": "2.0.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 240,
         "capacity": 10,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -11127,12 +11868,14 @@
         "name": "White-rose Bag",
         "sell_currency": "Bells",
         "sell_price": 60,
-        "unique_entry_id": "FxA5MDvGKZc44uenJ"
+        "unique_entry_id": "FxA5MDvGKZc44uenJ",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -11157,12 +11900,14 @@
         "name": "White-rose Plant",
         "sell_currency": "Bells",
         "sell_price": 40,
-        "unique_entry_id": "vJFgRAkAYT32pscBc"
+        "unique_entry_id": "vJFgRAkAYT32pscBc",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 240,
         "capacity": 10,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -11187,12 +11932,14 @@
         "name": "White-tulip Bag",
         "sell_currency": "Bells",
         "sell_price": 60,
-        "unique_entry_id": "9JqXDYEJa9M3fGjkX"
+        "unique_entry_id": "9JqXDYEJa9M3fGjkX",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -11217,12 +11964,14 @@
         "name": "White-tulip Plant",
         "sell_currency": "Bells",
         "sell_price": 40,
-        "unique_entry_id": "EPcGhsMb6jQKpbBnC"
+        "unique_entry_id": "EPcGhsMb6jQKpbBnC",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 240,
         "capacity": 10,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -11247,12 +11996,14 @@
         "name": "White-windflower Bag",
         "sell_currency": "Bells",
         "sell_price": 60,
-        "unique_entry_id": "2XmGTkrRQqQbjfEoi"
+        "unique_entry_id": "2XmGTkrRQqQbjfEoi",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -11277,12 +12028,14 @@
         "name": "White-windflower Plant",
         "sell_currency": "Bells",
         "sell_price": 40,
-        "unique_entry_id": "5RMyLD5TYyRTzfLdq"
+        "unique_entry_id": "5RMyLD5TYyRTzfLdq",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 50,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -11307,12 +12060,14 @@
         "name": "Whole-wheat Flour",
         "sell_currency": "Bells",
         "sell_price": 210,
-        "unique_entry_id": "HpSZ2zub2kXW92QDX"
+        "unique_entry_id": "HpSZ2zub2kXW92QDX",
+        "version_added": "2.0.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 6980,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -11337,12 +12092,14 @@
         "name": "Wildest Dreams DIY",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "7DL3HBGPEfgi6XZfX"
+        "unique_entry_id": "7DL3HBGPEfgi6XZfX",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 5,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -11367,12 +12124,14 @@
         "name": "Wisp spirit piece",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "yhGWoYrexRQRmWkvP"
+        "unique_entry_id": "yhGWoYrexRQRmWkvP",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 30,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -11397,12 +12156,14 @@
         "name": "Wood",
         "sell_currency": "Bells",
         "sell_price": 60,
-        "unique_entry_id": "NYkn4SWpdNtkSjGMz"
+        "unique_entry_id": "NYkn4SWpdNtkSjGMz",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 30,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -11427,12 +12188,14 @@
         "name": "Wood Egg",
         "sell_currency": "Bells",
         "sell_price": 200,
-        "unique_entry_id": "8adCtThYkk3SrfhhS"
+        "unique_entry_id": "8adCtThYkk3SrfhhS",
+        "version_added": "1.1.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Unnecessary",
         "color_1": null,
         "color_2": null,
         "exchange_currency": "Nook Miles",
@@ -11457,12 +12220,14 @@
         "name": "Wooden Path Permit",
         "sell_currency": null,
         "sell_price": null,
-        "unique_entry_id": "2ASyNJsmZJNm774y5"
+        "unique_entry_id": "2ASyNJsmZJNm774y5",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": "Yellow",
         "color_2": "Green",
         "exchange_currency": null,
@@ -11487,12 +12252,14 @@
         "name": "Yellow Cosmos",
         "sell_currency": "Bells",
         "sell_price": 40,
-        "unique_entry_id": "zjAYhjmqMzq3kDBdb"
+        "unique_entry_id": "zjAYhjmqMzq3kDBdb",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": "Yellow",
         "color_2": "Green",
         "exchange_currency": null,
@@ -11517,12 +12284,14 @@
         "name": "Yellow Hyacinths",
         "sell_currency": "Bells",
         "sell_price": 40,
-        "unique_entry_id": "4KF7eJpRzonQ585ut"
+        "unique_entry_id": "4KF7eJpRzonQ585ut",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": "Yellow",
         "color_2": "Green",
         "exchange_currency": null,
@@ -11547,12 +12316,14 @@
         "name": "Yellow Lilies",
         "sell_currency": "Bells",
         "sell_price": 40,
-        "unique_entry_id": "CYNwo9htHodqc52MC"
+        "unique_entry_id": "CYNwo9htHodqc52MC",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": "Yellow",
         "color_2": "Green",
         "exchange_currency": null,
@@ -11577,12 +12348,14 @@
         "name": "Yellow Mums",
         "sell_currency": "Bells",
         "sell_price": 40,
-        "unique_entry_id": "5RAPmcCnKxJuTxsD5"
+        "unique_entry_id": "5RAPmcCnKxJuTxsD5",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": "Yellow",
         "color_2": "Green",
         "exchange_currency": null,
@@ -11607,12 +12380,14 @@
         "name": "Yellow Pansies",
         "sell_currency": "Bells",
         "sell_price": 40,
-        "unique_entry_id": "s5oZ3HMatfcyLFmb7"
+        "unique_entry_id": "s5oZ3HMatfcyLFmb7",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -11637,12 +12412,14 @@
         "name": "Yellow Pumpkin",
         "sell_currency": "Bells",
         "sell_price": 350,
-        "unique_entry_id": "EDFNBHxSN2G2bT6w7"
+        "unique_entry_id": "EDFNBHxSN2G2bT6w7",
+        "version_added": "1.5.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": "Yellow",
         "color_2": "Green",
         "exchange_currency": null,
@@ -11667,12 +12444,14 @@
         "name": "Yellow Roses",
         "sell_currency": "Bells",
         "sell_price": 40,
-        "unique_entry_id": "sfweQbaT8mzKykjhk"
+        "unique_entry_id": "sfweQbaT8mzKykjhk",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 10,
+        "category": "Plants",
         "color_1": "Yellow",
         "color_2": "Green",
         "exchange_currency": null,
@@ -11697,12 +12476,14 @@
         "name": "Yellow Tulips",
         "sell_currency": "Bells",
         "sell_price": 40,
-        "unique_entry_id": "PdZJXzmx5y6JSLrRD"
+        "unique_entry_id": "PdZJXzmx5y6JSLrRD",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 160,
         "capacity": 10,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -11727,12 +12508,14 @@
         "name": "Yellow Wrapping Paper",
         "sell_currency": "Bells",
         "sell_price": 40,
-        "unique_entry_id": "DP6esJYrS7WodmWe2"
+        "unique_entry_id": "DP6esJYrS7WodmWe2",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 240,
         "capacity": 10,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -11757,12 +12540,14 @@
         "name": "Yellow-cosmos Bag",
         "sell_currency": "Bells",
         "sell_price": 60,
-        "unique_entry_id": "uP5p9469CWwJMRTpW"
+        "unique_entry_id": "uP5p9469CWwJMRTpW",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -11787,12 +12572,14 @@
         "name": "Yellow-cosmos Plant",
         "sell_currency": "Bells",
         "sell_price": 40,
-        "unique_entry_id": "Bh4zXHCea4eaSgmz9"
+        "unique_entry_id": "Bh4zXHCea4eaSgmz9",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -11817,12 +12604,14 @@
         "name": "Yellow-hibiscus Bush",
         "sell_currency": "Bells",
         "sell_price": 140,
-        "unique_entry_id": "Kb6qYCTJwjNX46xok"
+        "unique_entry_id": "Kb6qYCTJwjNX46xok",
+        "version_added": "1.2.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 280,
         "capacity": 10,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -11847,12 +12636,14 @@
         "name": "Yellow-hibiscus Start",
         "sell_currency": "Bells",
         "sell_price": 70,
-        "unique_entry_id": "ZuDtvHRzubPByTeRG"
+        "unique_entry_id": "ZuDtvHRzubPByTeRG",
+        "version_added": "1.2.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 240,
         "capacity": 10,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -11877,12 +12668,14 @@
         "name": "Yellow-hyacinth Bag",
         "sell_currency": "Bells",
         "sell_price": 60,
-        "unique_entry_id": "5yZ7783u3awJuzvtj"
+        "unique_entry_id": "5yZ7783u3awJuzvtj",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -11907,12 +12700,14 @@
         "name": "Yellow-hyacinth Plant",
         "sell_currency": "Bells",
         "sell_price": 40,
-        "unique_entry_id": "TZCvMPvktNmFAFKvP"
+        "unique_entry_id": "TZCvMPvktNmFAFKvP",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 240,
         "capacity": 10,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -11937,12 +12732,14 @@
         "name": "Yellow-lily Bag",
         "sell_currency": "Bells",
         "sell_price": 60,
-        "unique_entry_id": "gQ8rvpd52GD6oPZEB"
+        "unique_entry_id": "gQ8rvpd52GD6oPZEB",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -11967,12 +12764,14 @@
         "name": "Yellow-lily Plant",
         "sell_currency": "Bells",
         "sell_price": 40,
-        "unique_entry_id": "JmyYGEqKsuXG7YJmx"
+        "unique_entry_id": "JmyYGEqKsuXG7YJmx",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 240,
         "capacity": 10,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -11997,12 +12796,14 @@
         "name": "Yellow-mum Bag",
         "sell_currency": "Bells",
         "sell_price": 60,
-        "unique_entry_id": "PcvPGssP7xWcncSu8"
+        "unique_entry_id": "PcvPGssP7xWcncSu8",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -12027,12 +12828,14 @@
         "name": "Yellow-mum Plant",
         "sell_currency": "Bells",
         "sell_price": 40,
-        "unique_entry_id": "R7rBdJkoAh4Ss5fc7"
+        "unique_entry_id": "R7rBdJkoAh4Ss5fc7",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 240,
         "capacity": 10,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -12057,12 +12860,14 @@
         "name": "Yellow-pansy Bag",
         "sell_currency": "Bells",
         "sell_price": 60,
-        "unique_entry_id": "65A93Q3TDrr2TXe7r"
+        "unique_entry_id": "65A93Q3TDrr2TXe7r",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -12087,12 +12892,14 @@
         "name": "Yellow-pansy Plant",
         "sell_currency": "Bells",
         "sell_price": 40,
-        "unique_entry_id": "4DaoN5DPRbz3LuGPH"
+        "unique_entry_id": "4DaoN5DPRbz3LuGPH",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 240,
         "capacity": 10,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -12117,12 +12924,14 @@
         "name": "Yellow-rose Bag",
         "sell_currency": "Bells",
         "sell_price": 60,
-        "unique_entry_id": "BE6hakXFRTg2qdcPT"
+        "unique_entry_id": "BE6hakXFRTg2qdcPT",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -12147,12 +12956,14 @@
         "name": "Yellow-rose Plant",
         "sell_currency": "Bells",
         "sell_price": 40,
-        "unique_entry_id": "zukyGsru7LprL3Nn3"
+        "unique_entry_id": "zukyGsru7LprL3Nn3",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -12177,12 +12988,14 @@
         "name": "Yellow-tea-olive Bush",
         "sell_currency": "Bells",
         "sell_price": 140,
-        "unique_entry_id": "79ausqrAiPDZqBB7Q"
+        "unique_entry_id": "79ausqrAiPDZqBB7Q",
+        "version_added": "1.2.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 280,
         "capacity": 10,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -12207,12 +13020,14 @@
         "name": "Yellow-tea-olive Start",
         "sell_currency": "Bells",
         "sell_price": 70,
-        "unique_entry_id": "u9zmBcFHEqkM47dmk"
+        "unique_entry_id": "u9zmBcFHEqkM47dmk",
+        "version_added": "1.2.0"
     },
     {
         "buy_currency": "Bells",
         "buy_price": 240,
         "capacity": 10,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -12237,12 +13052,14 @@
         "name": "Yellow-tulip Bag",
         "sell_currency": "Bells",
         "sell_price": 60,
-        "unique_entry_id": "dK3ZtSLJjdTpT5fxq"
+        "unique_entry_id": "dK3ZtSLJjdTpT5fxq",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 1,
+        "category": "Plants",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -12267,12 +13084,14 @@
         "name": "Yellow-tulip Plant",
         "sell_currency": "Bells",
         "sell_price": 40,
-        "unique_entry_id": "YuRZQh2wgkDnLLK55"
+        "unique_entry_id": "YuRZQh2wgkDnLLK55",
+        "version_added": "1.0.0"
     },
     {
         "buy_currency": null,
         "buy_price": null,
         "capacity": 30,
+        "category": "Etc",
         "color_1": null,
         "color_2": null,
         "exchange_currency": null,
@@ -12297,6 +13116,7 @@
         "name": "Young Spring Bamboo",
         "sell_currency": "Bells",
         "sell_price": 200,
-        "unique_entry_id": "rMwLLdMSqxg3w5gLx"
+        "unique_entry_id": "rMwLLdMSqxg3w5gLx",
+        "version_added": "1.0.0"
     }
 ]

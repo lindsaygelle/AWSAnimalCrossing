@@ -46,6 +46,13 @@
                 "string"
             ]
         },
+        "category": {
+            "maxLength": 16,
+            "minLength": 2,
+            "type": [
+                "string"
+            ]
+        },
         "color_1": {
             "maxLength": 8,
             "minLength": 3,
@@ -336,6 +343,7 @@
         "can_customize_body",
         "can_customize_pattern",
         "catalog_category",
+        "category",
         "color_1",
         "color_2",
         "cyrus_currency",

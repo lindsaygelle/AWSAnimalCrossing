@@ -151,6 +151,14 @@
             "type": [
                 "string"
             ]
+        },
+        "version_added": {
+            "maxLength": 5,
+            "minLength": 5,
+            "type": [
+                "null",
+                "string"
+            ]
         }
     },
     "required": [

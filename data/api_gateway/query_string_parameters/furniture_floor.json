@@ -2,6 +2,7 @@
     "buy_currency",
     "buy_price",
     "catalog_category",
+    "category",
     "color_1",
     "color_2",
     "exchange_currency",
@@ -20,5 +21,6 @@
     "is_seasonal",
     "is_unlocked",
     "sell_currency",
-    "sell_price"
+    "sell_price",
+    "version_added"
 ]

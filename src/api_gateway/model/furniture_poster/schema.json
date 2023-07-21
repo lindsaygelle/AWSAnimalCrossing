@@ -171,6 +171,13 @@
             "type": [
                 "string"
             ]
+        },
+        "version_added": {
+            "maxLength": 5,
+            "minLength": 5,
+            "type": [
+                "string"
+            ]
         }
     },
     "required": [
@@ -198,7 +205,8 @@
         "sell_price",
         "size_1",
         "size_2",
-        "unique_entry_id"
+        "unique_entry_id",
+        "version_added"
     ],
     "title": "FurniturePoster",
     "type": "object"

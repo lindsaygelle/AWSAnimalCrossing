@@ -10,6 +10,9 @@
             "catalog_category": {
                 "S": "For sale"
             },
+            "category": {
+                "S": "Tile Floors"
+            },
             "color_1": {
                 "S": "Aqua"
             },
@@ -81,6 +84,9 @@
             },
             "unique_entry_id": {
                 "S": "JmNGqRhEow3PH7bgk"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -95,6 +101,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Cloth Floors"
             },
             "color_1": {
                 "S": "Black"
@@ -167,6 +176,9 @@
             },
             "unique_entry_id": {
                 "S": "4dabyuetmZD5dDdCH"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -181,6 +193,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Arched Brick"
             },
             "color_1": {
                 "S": "Brown"
@@ -253,6 +268,9 @@
             },
             "unique_entry_id": {
                 "S": "CSPoYJzCnzWjqWrj5"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -267,6 +285,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Tile Floors"
             },
             "color_1": {
                 "S": "White"
@@ -339,6 +360,9 @@
             },
             "unique_entry_id": {
                 "S": "BH8PqRSou2XjQ8ppQ"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -353,6 +377,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Simple Parquet"
             },
             "color_1": {
                 "S": "Beige"
@@ -425,6 +452,9 @@
             },
             "unique_entry_id": {
                 "S": "fbfCzw546bWEF95Aq"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -439,6 +469,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Grassland"
             },
             "color_1": {
                 "S": "Green"
@@ -511,6 +544,9 @@
             },
             "unique_entry_id": {
                 "S": "kANgKb2s4a6pMSjnd"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -525,6 +561,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Nature - Green"
             },
             "color_1": {
                 "S": "Green"
@@ -597,6 +636,9 @@
             },
             "unique_entry_id": {
                 "S": "gMeLjZdPobbrt58sT"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -611,6 +653,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Stone Floors"
             },
             "color_1": {
                 "S": "Gray"
@@ -683,6 +728,9 @@
             },
             "unique_entry_id": {
                 "S": "DgaMSqGEyko87dD3H"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -697,6 +745,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Morocco"
             },
             "color_1": {
                 "S": "Beige"
@@ -769,6 +820,9 @@
             },
             "unique_entry_id": {
                 "S": "yhH3pNWq8L8j48tHW"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -783,6 +837,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Chocolate"
             },
             "color_1": {
                 "S": "Pink"
@@ -855,6 +912,9 @@
             },
             "unique_entry_id": {
                 "S": "E7Mfi6saTnBEgW6o8"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -869,6 +929,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Wood Floors"
             },
             "color_1": {
                 "S": "White"
@@ -941,6 +1004,9 @@
             },
             "unique_entry_id": {
                 "S": "2tg7thFuaxAAiDTsv"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -955,6 +1021,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Iron Parquet"
             },
             "color_1": {
                 "S": "Black"
@@ -1027,6 +1096,9 @@
             },
             "unique_entry_id": {
                 "S": "24iNYeWLqkR2juaqx"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -1041,6 +1113,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Brick"
             },
             "color_1": {
                 "S": "Black"
@@ -1113,6 +1188,9 @@
             },
             "unique_entry_id": {
                 "S": "9KuQFNKWxmCH4Wmvh"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -1127,6 +1205,9 @@
             },
             "catalog_category": {
                 "S": "Not in catalog"
+            },
+            "category": {
+                "S": "Special Inorganic Floors"
             },
             "color_1": {
                 "S": "Brown"
@@ -1199,6 +1280,9 @@
             },
             "unique_entry_id": {
                 "S": "9eBvLr6aCPPym2LFP"
+            },
+            "version_added": {
+                "S": "1.8.0"
             }
         },
         "TableName": "furniture_floor"
@@ -1213,6 +1297,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Camouflage"
             },
             "color_1": {
                 "S": "Blue"
@@ -1285,6 +1372,9 @@
             },
             "unique_entry_id": {
                 "S": "bGQTqfoWhW5TNdLM9"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -1299,6 +1389,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Dot"
             },
             "color_1": {
                 "S": "Blue"
@@ -1371,6 +1464,9 @@
             },
             "unique_entry_id": {
                 "S": "cpSuDLw7NNyxB5fCs"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -1385,6 +1481,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Deco Wood"
             },
             "color_1": {
                 "S": "Blue"
@@ -1457,6 +1556,9 @@
             },
             "unique_entry_id": {
                 "S": "XMaNPpWPhwfMY6L5G"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -1471,6 +1573,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Honeycomb"
             },
             "color_1": {
                 "S": "Blue"
@@ -1543,6 +1648,9 @@
             },
             "unique_entry_id": {
                 "S": "rYSDNLpsxE2ec3g9W"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -1557,6 +1665,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Morocco"
             },
             "color_1": {
                 "S": "Blue"
@@ -1629,6 +1740,9 @@
             },
             "unique_entry_id": {
                 "S": "zJsrCJgAeFsymNzjq"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -1643,6 +1757,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Tile Floors"
             },
             "color_1": {
                 "S": "Blue"
@@ -1715,6 +1832,9 @@
             },
             "unique_entry_id": {
                 "S": "y7utgb97MDffD3CWY"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -1729,6 +1849,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Rubber"
             },
             "color_1": {
                 "S": "Blue"
@@ -1801,6 +1924,9 @@
             },
             "unique_entry_id": {
                 "S": "4q43QAcimMHbzK76v"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -1815,6 +1941,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Painted Wood"
             },
             "color_1": {
                 "S": "Aqua"
@@ -1887,6 +2016,9 @@
             },
             "unique_entry_id": {
                 "S": "gNCxEi69JzcmxXbxL"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -1901,6 +2033,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Sports Floor"
             },
             "color_1": {
                 "S": "Blue"
@@ -1973,6 +2108,9 @@
             },
             "unique_entry_id": {
                 "S": "45uLswcK6NpGkiLNj"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -1987,6 +2125,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Special Nature Floors"
             },
             "color_1": {
                 "S": "Gray"
@@ -2059,6 +2200,9 @@
             },
             "unique_entry_id": {
                 "S": "iWLJxsd4fz8Bdq4eF"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -2073,6 +2217,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Argyle"
             },
             "color_1": {
                 "S": "Brown"
@@ -2145,6 +2292,9 @@
             },
             "unique_entry_id": {
                 "S": "yBoSKBz6zX8i5upzp"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -2159,6 +2309,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Deco Wood"
             },
             "color_1": {
                 "S": "Brown"
@@ -2231,6 +2384,9 @@
             },
             "unique_entry_id": {
                 "S": "xY7NHtsvYjKMbACLu"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -2245,6 +2401,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Honeycomb"
             },
             "color_1": {
                 "S": "Brown"
@@ -2317,6 +2476,9 @@
             },
             "unique_entry_id": {
                 "S": "ZpkkHEE23YB7QNvHx"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -2331,6 +2493,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Iron Parquet"
             },
             "color_1": {
                 "S": "Beige"
@@ -2403,6 +2568,9 @@
             },
             "unique_entry_id": {
                 "S": "n48DyFP2iimp68t9Y"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -2417,6 +2585,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Tile Floors"
             },
             "color_1": {
                 "S": "Brown"
@@ -2489,6 +2660,9 @@
             },
             "unique_entry_id": {
                 "S": "hmyWP64oXEsMwBPua"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_floor"
@@ -2503,6 +2677,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Brick"
             },
             "color_1": {
                 "S": "Brown"
@@ -2575,6 +2752,9 @@
             },
             "unique_entry_id": {
                 "S": "pjTr8dw3cyN8eeZYv"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -2589,6 +2769,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Dot"
             },
             "color_1": {
                 "S": "Green"
@@ -2661,6 +2844,9 @@
             },
             "unique_entry_id": {
                 "S": "Q9QJSyTM3AzAWLBvD"
+            },
+            "version_added": {
+                "S": "1.1.0"
             }
         },
         "TableName": "furniture_floor"
@@ -2675,6 +2861,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Camouflage"
             },
             "color_1": {
                 "S": "Black"
@@ -2747,6 +2936,9 @@
             },
             "unique_entry_id": {
                 "S": "DuqT3X6msNdXFvLHi"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -2761,6 +2953,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Nature - Fallen Leaves"
             },
             "color_1": {
                 "S": "Pink"
@@ -2833,6 +3028,9 @@
             },
             "unique_entry_id": {
                 "S": "ZhWmRmGQN5gZCao4y"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -2847,6 +3045,9 @@
             },
             "catalog_category": {
                 "S": "Not in catalog"
+            },
+            "category": {
+                "S": "Sanrio Floor"
             },
             "color_1": {
                 "S": "Colorful"
@@ -2919,6 +3120,9 @@
             },
             "unique_entry_id": {
                 "S": "QoSp6QuNxwN28hdiv"
+            },
+            "version_added": {
+                "S": "1.9.0"
             }
         },
         "TableName": "furniture_floor"
@@ -2933,6 +3137,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Machine Floor"
             },
             "color_1": {
                 "S": "Green"
@@ -3005,6 +3212,9 @@
             },
             "unique_entry_id": {
                 "S": "mqiB9cY9EEtRXQoFS"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -3019,6 +3229,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Cloth Floors"
             },
             "color_1": {
                 "S": "Colorful"
@@ -3091,6 +3304,9 @@
             },
             "unique_entry_id": {
                 "S": "Dah42cyaRs39uWLQt"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -3105,6 +3321,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Special Nature Floors"
             },
             "color_1": {
                 "S": "White"
@@ -3177,6 +3396,9 @@
             },
             "unique_entry_id": {
                 "S": "Gp6CWrou6RqPRPLH3"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -3191,6 +3413,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Special Inorganic Floors"
             },
             "color_1": {
                 "S": "Black"
@@ -3263,6 +3488,9 @@
             },
             "unique_entry_id": {
                 "S": "Z9BAjTnK4D2FQ2XSb"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -3277,6 +3505,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Nature - Fallen Leaves"
             },
             "color_1": {
                 "S": "Orange"
@@ -3349,6 +3580,9 @@
             },
             "unique_entry_id": {
                 "S": "ZNpkS7gSLvRFR3qv4"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -3363,6 +3597,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Tile Floors"
             },
             "color_1": {
                 "S": "Colorful"
@@ -3435,6 +3672,9 @@
             },
             "unique_entry_id": {
                 "S": "FMtGXChPSm2y6edqK"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -3449,6 +3689,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Puzzle Mat"
             },
             "color_1": {
                 "S": "Colorful"
@@ -3521,6 +3764,9 @@
             },
             "unique_entry_id": {
                 "S": "snnsfZxLf3bLFCmSD"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -3535,6 +3781,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Panel"
             },
             "color_1": {
                 "S": "Colorful"
@@ -3607,6 +3856,9 @@
             },
             "unique_entry_id": {
                 "S": "ANgxpCY6rprKk56wT"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -3621,6 +3873,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Wood Floors"
             },
             "color_1": {
                 "S": "Brown"
@@ -3693,6 +3948,9 @@
             },
             "unique_entry_id": {
                 "S": "GQX6Cd7FiDHBwkfAv"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -3707,6 +3965,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Stone Floors"
             },
             "color_1": {
                 "S": "Gray"
@@ -3779,6 +4040,9 @@
             },
             "unique_entry_id": {
                 "S": "r6hpZDG5eaceYuE3x"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -3793,6 +4057,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Sidewalk"
             },
             "color_1": {
                 "S": "Brown"
@@ -3865,6 +4132,9 @@
             },
             "unique_entry_id": {
                 "S": "25pmfNgicXrDwQhZ9"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -3879,6 +4149,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Tile Checker"
             },
             "color_1": {
                 "S": "Blue"
@@ -3951,6 +4224,9 @@
             },
             "unique_entry_id": {
                 "S": "RpwPS8ETt7nPHGTqR"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -3965,6 +4241,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Colorful Wood"
             },
             "color_1": {
                 "S": "Colorful"
@@ -4037,6 +4316,9 @@
             },
             "unique_entry_id": {
                 "S": "P5vNHW2McCcqGk2Ru"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -4051,6 +4333,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Wood Floors"
             },
             "color_1": {
                 "S": "Beige"
@@ -4123,6 +4408,9 @@
             },
             "unique_entry_id": {
                 "S": "YSWAiTZFDQXzbH8xM"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -4137,6 +4425,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Nature - Green"
             },
             "color_1": {
                 "S": "Green"
@@ -4209,6 +4500,9 @@
             },
             "unique_entry_id": {
                 "S": "zvSD2W9Wsxs2wX82T"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -4223,6 +4517,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Sidewalk"
             },
             "color_1": {
                 "S": "Beige"
@@ -4295,6 +4592,9 @@
             },
             "unique_entry_id": {
                 "S": "DpkSGAyAuXwcmKcYT"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -4309,6 +4609,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Simple Parquet"
             },
             "color_1": {
                 "S": "Orange"
@@ -4381,6 +4684,9 @@
             },
             "unique_entry_id": {
                 "S": "pTqSAheGagvxyCivv"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -4395,6 +4701,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Tile Floors"
             },
             "color_1": {
                 "S": "Blue"
@@ -4467,6 +4776,9 @@
             },
             "unique_entry_id": {
                 "S": "QsGtuf59hbErv942T"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -4481,6 +4793,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Tile Floors"
             },
             "color_1": {
                 "S": "Red"
@@ -4553,6 +4868,9 @@
             },
             "unique_entry_id": {
                 "S": "TmfKeSsDh7FMpA6jG"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -4567,6 +4885,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Tile Floors"
             },
             "color_1": {
                 "S": "White"
@@ -4639,6 +4960,9 @@
             },
             "unique_entry_id": {
                 "S": "bXxKjx8AJp7PRKLZA"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -4653,6 +4977,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Tile Floors"
             },
             "color_1": {
                 "S": "Yellow"
@@ -4725,6 +5052,9 @@
             },
             "unique_entry_id": {
                 "S": "CSeg3aQXkhPjwXSJS"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -4739,6 +5069,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Colorful Wood"
             },
             "color_1": {
                 "S": "Pink"
@@ -4811,6 +5144,9 @@
             },
             "unique_entry_id": {
                 "S": "W6ohXRHoCKsN4YLB8"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -4825,6 +5161,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Grassland"
             },
             "color_1": {
                 "S": "Green"
@@ -4897,6 +5236,9 @@
             },
             "unique_entry_id": {
                 "S": "3wxzHxXFvLCZ9CKg2"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -4911,6 +5253,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Herringbone"
             },
             "color_1": {
                 "S": "Brown"
@@ -4983,6 +5328,9 @@
             },
             "unique_entry_id": {
                 "S": "B2ZTCrRr7jnNR2ovs"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -4997,6 +5345,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Country"
             },
             "color_1": {
                 "S": "Black"
@@ -5069,6 +5420,9 @@
             },
             "unique_entry_id": {
                 "S": "rco8xXCvWkLSFYCRA"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -5083,6 +5437,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Simple Parquet"
             },
             "color_1": {
                 "S": "Black"
@@ -5155,6 +5512,9 @@
             },
             "unique_entry_id": {
                 "S": "XtDikpNN55jn8zrja"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -5169,6 +5529,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Parquet"
             },
             "color_1": {
                 "S": "Brown"
@@ -5241,6 +5604,9 @@
             },
             "unique_entry_id": {
                 "S": "Brfw5JnsZKhxqhWYf"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -5255,6 +5621,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Chocolate"
             },
             "color_1": {
                 "S": "Brown"
@@ -5327,6 +5696,9 @@
             },
             "unique_entry_id": {
                 "S": "hyLXZQ7stKXetPcQv"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -5341,6 +5713,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Nature - Brown"
             },
             "color_1": {
                 "S": "Brown"
@@ -5413,6 +5788,9 @@
             },
             "unique_entry_id": {
                 "S": "4niZnD4Hiwrg9tF2G"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -5427,6 +5805,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Nature - Brown"
             },
             "color_1": {
                 "S": "Brown"
@@ -5499,6 +5880,9 @@
             },
             "unique_entry_id": {
                 "S": "LYgxhvWvyPWAzWieZ"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -5513,6 +5897,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Cloth Floors"
             },
             "color_1": {
                 "S": "Colorful"
@@ -5585,6 +5972,9 @@
             },
             "unique_entry_id": {
                 "S": "4L6GcFvuMqg44ohdS"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -5599,6 +5989,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Nature - Brown"
             },
             "color_1": {
                 "S": "Brown"
@@ -5671,6 +6064,9 @@
             },
             "unique_entry_id": {
                 "S": "2zmEMZxmYHHNEGTQR"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -5685,6 +6081,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Stone Floors"
             },
             "color_1": {
                 "S": "Beige"
@@ -5757,6 +6156,9 @@
             },
             "unique_entry_id": {
                 "S": "NtuoKtiMbKoiY2xoy"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -5771,6 +6173,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Tile Floors"
             },
             "color_1": {
                 "S": "White"
@@ -5843,6 +6248,9 @@
             },
             "unique_entry_id": {
                 "S": "5wjjJXuu2A9EYJGgf"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -5857,6 +6265,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Japanese"
             },
             "color_1": {
                 "S": "White"
@@ -5929,6 +6340,9 @@
             },
             "unique_entry_id": {
                 "S": "f9aYRhv4CwtmsYPNS"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -5943,6 +6357,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Special Nature Floors"
             },
             "color_1": {
                 "S": "Gray"
@@ -6015,6 +6432,9 @@
             },
             "unique_entry_id": {
                 "S": "2EL3sCGxkgTQj533G"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -6029,6 +6449,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Nature - Fallen Leaves"
             },
             "color_1": {
                 "S": "Brown"
@@ -6101,6 +6524,9 @@
             },
             "unique_entry_id": {
                 "S": "ec3NaTs5Pk8z6HCC6"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -6115,6 +6541,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Special Inorganic Floors"
             },
             "color_1": {
                 "S": "Black"
@@ -6187,6 +6616,9 @@
             },
             "unique_entry_id": {
                 "S": "eZweMfrfieMDtihv7"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -6201,6 +6633,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Special Nature Floors"
             },
             "color_1": {
                 "S": "Blue"
@@ -6273,6 +6708,9 @@
             },
             "unique_entry_id": {
                 "S": "XhFQDs3H9uCdikzkW"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -6287,6 +6725,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Decadence"
             },
             "color_1": {
                 "S": "White"
@@ -6359,6 +6800,9 @@
             },
             "unique_entry_id": {
                 "S": "iY9f7H5NjXBxxB6HQ"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -6373,6 +6817,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Animal Floor"
             },
             "color_1": {
                 "S": "Beige"
@@ -6445,6 +6892,9 @@
             },
             "unique_entry_id": {
                 "S": "umJmHnuMQRMEeXB7Y"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -6459,6 +6909,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Nature - Green"
             },
             "color_1": {
                 "S": "Green"
@@ -6531,6 +6984,9 @@
             },
             "unique_entry_id": {
                 "S": "uGTqQ89qidnrGWJE7"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -6545,6 +7001,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Iron Parquet"
             },
             "color_1": {
                 "S": "Beige"
@@ -6617,6 +7076,9 @@
             },
             "unique_entry_id": {
                 "S": "R7g62hAfWLaJ2muuy"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -6631,6 +7093,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Luxury"
             },
             "color_1": {
                 "S": "Yellow"
@@ -6703,6 +7168,9 @@
             },
             "unique_entry_id": {
                 "S": "YrHA4R4RmkJLeYvJy"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -6717,6 +7185,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Stone Floors"
             },
             "color_1": {
                 "S": "Gray"
@@ -6789,6 +7260,9 @@
             },
             "unique_entry_id": {
                 "S": "9jLaEjCCsiMHGLf9Y"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -6803,6 +7277,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Argyle"
             },
             "color_1": {
                 "S": "Gray"
@@ -6875,6 +7352,9 @@
             },
             "unique_entry_id": {
                 "S": "L5HHMxTjeAv2hLukh"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -6889,6 +7369,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Tile Checker"
             },
             "color_1": {
                 "S": "Gray"
@@ -6961,6 +7444,9 @@
             },
             "unique_entry_id": {
                 "S": "hazZe9YtvTt7T8WJD"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -6975,6 +7461,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Deco Wood"
             },
             "color_1": {
                 "S": "Green"
@@ -7047,6 +7536,9 @@
             },
             "unique_entry_id": {
                 "S": "AaKjHGFteG5h2GBQn"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -7061,6 +7553,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Honeycomb"
             },
             "color_1": {
                 "S": "Green"
@@ -7133,6 +7628,9 @@
             },
             "unique_entry_id": {
                 "S": "3T2nKNCHMxxQXkucQ"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -7147,6 +7645,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Kitchen Floors"
             },
             "color_1": {
                 "S": "Green"
@@ -7219,6 +7720,9 @@
             },
             "unique_entry_id": {
                 "S": "RRFkhjtia4ayJy2cH"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -7233,6 +7737,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Rubber"
             },
             "color_1": {
                 "S": "Green"
@@ -7305,6 +7812,9 @@
             },
             "unique_entry_id": {
                 "S": "raqdEHfoLLbgfxpcR"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -7319,6 +7829,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Tile Checker"
             },
             "color_1": {
                 "S": "Green"
@@ -7391,6 +7904,9 @@
             },
             "unique_entry_id": {
                 "S": "zBGakmC9vX4Epuduf"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -7405,6 +7921,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Tile Floors"
             },
             "color_1": {
                 "S": "Green"
@@ -7477,6 +7996,9 @@
             },
             "unique_entry_id": {
                 "S": "uhmt88jsXSHpkqswZ"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_floor"
@@ -7491,6 +8013,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Painted Wood"
             },
             "color_1": {
                 "S": "Green"
@@ -7563,6 +8088,9 @@
             },
             "unique_entry_id": {
                 "S": "ZdsDu7KBmtngBLoe4"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -7577,6 +8105,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Wood Floors"
             },
             "color_1": {
                 "S": "Beige"
@@ -7649,6 +8180,9 @@
             },
             "unique_entry_id": {
                 "S": "YWtXprjJARzm8rHEC"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -7663,6 +8197,9 @@
             },
             "catalog_category": {
                 "S": "Not in catalog"
+            },
+            "category": {
+                "S": "Sanrio Floor"
             },
             "color_1": {
                 "S": "Blue"
@@ -7735,6 +8272,9 @@
             },
             "unique_entry_id": {
                 "S": "tYjiR9p4ze42heAmo"
+            },
+            "version_added": {
+                "S": "1.9.0"
             }
         },
         "TableName": "furniture_floor"
@@ -7749,6 +8289,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Tile Floors"
             },
             "color_1": {
                 "S": "White"
@@ -7821,6 +8364,9 @@
             },
             "unique_entry_id": {
                 "S": "6frp588zeZqeDBSvp"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -7835,6 +8381,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Sidewalk"
             },
             "color_1": {
                 "S": "Gray"
@@ -7907,6 +8456,9 @@
             },
             "unique_entry_id": {
                 "S": "wrqigm79Kx7xbhPcb"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -7921,6 +8473,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Neta"
             },
             "color_1": {
                 "S": "Yellow"
@@ -7993,6 +8548,9 @@
             },
             "unique_entry_id": {
                 "S": "Yi7YJpRkuc2DYxypg"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -8007,6 +8565,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Nature - Brown"
             },
             "color_1": {
                 "S": "Black"
@@ -8079,6 +8640,9 @@
             },
             "unique_entry_id": {
                 "S": "qPip9BWoSumjwR74D"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -8093,6 +8657,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Special Nature Floors"
             },
             "color_1": {
                 "S": "Aqua"
@@ -8165,6 +8732,9 @@
             },
             "unique_entry_id": {
                 "S": "J63DSTu7u4tnwgLfR"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -8179,6 +8749,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Special Nature Floors"
             },
             "color_1": {
                 "S": "White"
@@ -8251,6 +8824,9 @@
             },
             "unique_entry_id": {
                 "S": "7unCfS99xyM3swHCz"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -8265,6 +8841,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Luxury"
             },
             "color_1": {
                 "S": "White"
@@ -8337,6 +8916,9 @@
             },
             "unique_entry_id": {
                 "S": "n4zrzvMvJmXvpMTCw"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -8351,6 +8933,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Cloth Floors"
             },
             "color_1": {
                 "S": "Beige"
@@ -8423,6 +9008,9 @@
             },
             "unique_entry_id": {
                 "S": "RfPqDKHG6QR5FhwXY"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -8437,6 +9025,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Nature - Green"
             },
             "color_1": {
                 "S": "Green"
@@ -8509,6 +9100,9 @@
             },
             "unique_entry_id": {
                 "S": "QrdicpjjuY4mBd37e"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -8523,6 +9117,9 @@
             },
             "catalog_category": {
                 "S": "Not in catalog"
+            },
+            "category": {
+                "S": "Sanrio Floor"
             },
             "color_1": {
                 "S": "White"
@@ -8595,6 +9192,9 @@
             },
             "unique_entry_id": {
                 "S": "in4GXgnZCJswgXy3v"
+            },
+            "version_added": {
+                "S": "1.9.0"
             }
         },
         "TableName": "furniture_floor"
@@ -8609,6 +9209,9 @@
             },
             "catalog_category": {
                 "S": "Not in catalog"
+            },
+            "category": {
+                "S": "Sanrio Floor"
             },
             "color_1": {
                 "S": "Aqua"
@@ -8681,6 +9284,9 @@
             },
             "unique_entry_id": {
                 "S": "oNAAEgpYg3CiQhkqq"
+            },
+            "version_added": {
+                "S": "1.9.0"
             }
         },
         "TableName": "furniture_floor"
@@ -8695,6 +9301,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Tile Floors"
             },
             "color_1": {
                 "S": "Pink"
@@ -8767,6 +9376,9 @@
             },
             "unique_entry_id": {
                 "S": "uWKchyhWgNxTxDikd"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -8781,6 +9393,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Special Inorganic Floors"
             },
             "color_1": {
                 "S": "Black"
@@ -8853,6 +9468,9 @@
             },
             "unique_entry_id": {
                 "S": "uT9YnwivAEZ938FKB"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -8867,6 +9485,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Animal Floor"
             },
             "color_1": {
                 "S": "Orange"
@@ -8939,6 +9560,9 @@
             },
             "unique_entry_id": {
                 "S": "GsWLFhWAiRsNrY2XC"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -8953,6 +9577,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Herringbone"
             },
             "color_1": {
                 "S": "Beige"
@@ -9025,6 +9652,9 @@
             },
             "unique_entry_id": {
                 "S": "GQXNBcZoQRYRyRYGP"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -9039,6 +9669,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Country"
             },
             "color_1": {
                 "S": "Beige"
@@ -9111,6 +9744,9 @@
             },
             "unique_entry_id": {
                 "S": "HqokjwEnZtgcjNSgH"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -9125,6 +9761,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Simple Parquet"
             },
             "color_1": {
                 "S": "Beige"
@@ -9197,6 +9836,9 @@
             },
             "unique_entry_id": {
                 "S": "osG5BdoAX86kEitnu"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -9211,6 +9853,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Cloth Floors"
             },
             "color_1": {
                 "S": "Purple"
@@ -9283,6 +9928,9 @@
             },
             "unique_entry_id": {
                 "S": "nQCnxLKNXAQ7JqtyB"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -9297,6 +9945,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Nature - White"
             },
             "color_1": {
                 "S": "White"
@@ -9369,6 +10020,9 @@
             },
             "unique_entry_id": {
                 "S": "n8j4WToan9efgnJDM"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -9383,6 +10037,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Special Inorganic Floors"
             },
             "color_1": {
                 "S": "Brown"
@@ -9455,6 +10112,9 @@
             },
             "unique_entry_id": {
                 "S": "FYM36HDEkeCpEfhBa"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -9469,6 +10129,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Cloth Floors"
             },
             "color_1": {
                 "S": "Blue"
@@ -9541,6 +10204,9 @@
             },
             "unique_entry_id": {
                 "S": "yajaXefi94Mx32KAy"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -9555,6 +10221,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Nature - White"
             },
             "color_1": {
                 "S": "Aqua"
@@ -9627,6 +10296,9 @@
             },
             "unique_entry_id": {
                 "S": "XLgLk68xXpgf344N2"
+            },
+            "version_added": {
+                "S": "1.3.0"
             }
         },
         "TableName": "furniture_floor"
@@ -9641,6 +10313,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Dot"
             },
             "color_1": {
                 "S": "Green"
@@ -9713,6 +10388,9 @@
             },
             "unique_entry_id": {
                 "S": "CCEfvKqoZ7TQXWFqM"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -9727,6 +10405,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Wood Floors"
             },
             "color_1": {
                 "S": "Brown"
@@ -9799,6 +10480,9 @@
             },
             "unique_entry_id": {
                 "S": "jBLBPkiSgmkL52L5n"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -9813,6 +10497,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Decadence"
             },
             "color_1": {
                 "S": "White"
@@ -9885,6 +10572,9 @@
             },
             "unique_entry_id": {
                 "S": "M9tBbGtQcTpPWCGeQ"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -9899,6 +10589,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Dot"
             },
             "color_1": {
                 "S": "Gray"
@@ -9971,6 +10664,9 @@
             },
             "unique_entry_id": {
                 "S": "CJ6ukTuEqDXvFx5kM"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -9985,6 +10681,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Panel"
             },
             "color_1": {
                 "S": "Black"
@@ -10057,6 +10756,9 @@
             },
             "unique_entry_id": {
                 "S": "wyRDyuntjJqsgxEvz"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -10071,6 +10773,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Morocco"
             },
             "color_1": {
                 "S": "White"
@@ -10143,6 +10848,9 @@
             },
             "unique_entry_id": {
                 "S": "ERbAkRNcFf6HTN4qj"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -10157,6 +10865,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Nature - Green"
             },
             "color_1": {
                 "S": "Green"
@@ -10229,6 +10940,9 @@
             },
             "unique_entry_id": {
                 "S": "3KGLDP2eT6i3A7jaw"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -10243,6 +10957,9 @@
             },
             "catalog_category": {
                 "S": "Not in catalog"
+            },
+            "category": {
+                "S": "Sanrio Floor"
             },
             "color_1": {
                 "S": "Pink"
@@ -10315,6 +11032,9 @@
             },
             "unique_entry_id": {
                 "S": "gQahtXiTawZejarKm"
+            },
+            "version_added": {
+                "S": "1.9.0"
             }
         },
         "TableName": "furniture_floor"
@@ -10329,6 +11049,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Wood Floors"
             },
             "color_1": {
                 "S": "Brown"
@@ -10401,6 +11124,9 @@
             },
             "unique_entry_id": {
                 "S": "EHNhGbKdG4gM8E6mT"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -10415,6 +11141,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Parquet"
             },
             "color_1": {
                 "S": "Brown"
@@ -10487,6 +11216,9 @@
             },
             "unique_entry_id": {
                 "S": "BaHnYrekt2ngfWeCQ"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -10501,6 +11233,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Wood Floors"
             },
             "color_1": {
                 "S": "Brown"
@@ -10573,6 +11308,9 @@
             },
             "unique_entry_id": {
                 "S": "tHvrMW72TDM3ezhRx"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -10587,6 +11325,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Special Inorganic Floors"
             },
             "color_1": {
                 "S": "Beige"
@@ -10659,6 +11400,9 @@
             },
             "unique_entry_id": {
                 "S": "Apr3HrqodwkiBk5ZQ"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -10673,6 +11417,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Wood Floors"
             },
             "color_1": {
                 "S": "Brown"
@@ -10745,6 +11492,9 @@
             },
             "unique_entry_id": {
                 "S": "YuEieHpCKRmQDpwA4"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -10759,6 +11509,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Tile Floors"
             },
             "color_1": {
                 "S": "Gray"
@@ -10831,6 +11584,9 @@
             },
             "unique_entry_id": {
                 "S": "kH7PZmDTJNBXyC8DW"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -10845,6 +11601,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Morocco"
             },
             "color_1": {
                 "S": "Yellow"
@@ -10917,6 +11676,9 @@
             },
             "unique_entry_id": {
                 "S": "LwaiMzRi8kw2Xw35j"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -10931,6 +11693,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Iron"
             },
             "color_1": {
                 "S": "White"
@@ -11003,6 +11768,9 @@
             },
             "unique_entry_id": {
                 "S": "jbeZwwgpTpcNp4nMB"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -11017,6 +11785,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Camouflage"
             },
             "color_1": {
                 "S": "Orange"
@@ -11089,6 +11860,9 @@
             },
             "unique_entry_id": {
                 "S": "e2cw6YYcpWZdfH38F"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -11103,6 +11877,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Kitchen Floors"
             },
             "color_1": {
                 "S": "Orange"
@@ -11175,6 +11952,9 @@
             },
             "unique_entry_id": {
                 "S": "GpDHr3gHCZSrK5bfx"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -11189,6 +11969,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Stone Floors"
             },
             "color_1": {
                 "S": "White"
@@ -11261,6 +12044,9 @@
             },
             "unique_entry_id": {
                 "S": "vC2oYRMxbZXYazKYW"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -11275,6 +12061,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Luxury"
             },
             "color_1": {
                 "S": "White"
@@ -11347,6 +12136,9 @@
             },
             "unique_entry_id": {
                 "S": "ZBN9trZ7YTDgN5z3Y"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -11361,6 +12153,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "FloorSimpleGlodSilverBronze"
             },
             "color_1": {
                 "S": "Brown"
@@ -11433,6 +12228,9 @@
             },
             "unique_entry_id": {
                 "S": "r4w8gQhhJty9bm7xR"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -11447,6 +12245,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Sidewalk"
             },
             "color_1": {
                 "S": "Black"
@@ -11519,6 +12320,9 @@
             },
             "unique_entry_id": {
                 "S": "Lx2JZuP8F6xS28PPG"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -11533,6 +12337,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Decadence"
             },
             "color_1": {
                 "S": "Colorful"
@@ -11605,6 +12412,9 @@
             },
             "unique_entry_id": {
                 "S": "8vy7YrhEnTpt8GjWT"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -11619,6 +12429,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Puzzle Mat"
             },
             "color_1": {
                 "S": "White"
@@ -11691,6 +12504,9 @@
             },
             "unique_entry_id": {
                 "S": "nGtvPzJvdJb5xmQo8"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -11705,6 +12521,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Tile Floors"
             },
             "color_1": {
                 "S": "White"
@@ -11777,6 +12596,9 @@
             },
             "unique_entry_id": {
                 "S": "hCAe3badxv5faWwGE"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -11791,6 +12613,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Tile Floors"
             },
             "color_1": {
                 "S": "Aqua"
@@ -11863,6 +12688,9 @@
             },
             "unique_entry_id": {
                 "S": "FErNxHjdPBPz7KarF"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -11877,6 +12705,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Wood Floors"
             },
             "color_1": {
                 "S": "Beige"
@@ -11949,6 +12780,9 @@
             },
             "unique_entry_id": {
                 "S": "B3GmKqXBaKNeugExA"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -11963,6 +12797,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Painted Wood"
             },
             "color_1": {
                 "S": "Pink"
@@ -12035,6 +12872,9 @@
             },
             "unique_entry_id": {
                 "S": "wXCN3tKY2rDen6D6s"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -12049,6 +12889,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Luxury"
             },
             "color_1": {
                 "S": "Brown"
@@ -12121,6 +12964,9 @@
             },
             "unique_entry_id": {
                 "S": "RaD6jMvqDehvYkgSg"
+            },
+            "version_added": {
+                "S": "1.3.0"
             }
         },
         "TableName": "furniture_floor"
@@ -12135,6 +12981,9 @@
             },
             "catalog_category": {
                 "S": "Not in catalog"
+            },
+            "category": {
+                "S": "Sanrio Floor"
             },
             "color_1": {
                 "S": "Yellow"
@@ -12207,6 +13056,9 @@
             },
             "unique_entry_id": {
                 "S": "cr9Y5i6W3Yk5d6P4K"
+            },
+            "version_added": {
+                "S": "1.9.0"
             }
         },
         "TableName": "furniture_floor"
@@ -12221,6 +13073,9 @@
             },
             "catalog_category": {
                 "S": "Seasonal"
+            },
+            "category": {
+                "S": "Wood Floors"
             },
             "color_1": {
                 "S": "Beige"
@@ -12293,6 +13148,9 @@
             },
             "unique_entry_id": {
                 "S": "WacHEETZv7joBaD49"
+            },
+            "version_added": {
+                "S": "1.9.0"
             }
         },
         "TableName": "furniture_floor"
@@ -12307,6 +13165,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Camouflage"
             },
             "color_1": {
                 "S": "Purple"
@@ -12379,6 +13240,9 @@
             },
             "unique_entry_id": {
                 "S": "JZ5JuDTqYYu8PQZrJ"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -12393,6 +13257,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Morocco"
             },
             "color_1": {
                 "S": "Purple"
@@ -12465,6 +13332,9 @@
             },
             "unique_entry_id": {
                 "S": "4e7h4ZuzEKJb5ua3v"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -12479,6 +13349,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Puzzle Mat"
             },
             "color_1": {
                 "S": "Purple"
@@ -12551,6 +13424,9 @@
             },
             "unique_entry_id": {
                 "S": "xi7QC9EcD34PNSdzt"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -12565,6 +13441,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Luxury"
             },
             "color_1": {
                 "S": "Beige"
@@ -12637,6 +13516,9 @@
             },
             "unique_entry_id": {
                 "S": "kcHqZKGAjAwFcQxNg"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -12651,6 +13533,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Sports Floor"
             },
             "color_1": {
                 "S": "Green"
@@ -12723,6 +13608,9 @@
             },
             "unique_entry_id": {
                 "S": "QDiAF633q7ohZqqTK"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -12737,6 +13625,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Decadence"
             },
             "color_1": {
                 "S": "Beige"
@@ -12809,6 +13700,9 @@
             },
             "unique_entry_id": {
                 "S": "tx4WSnBkFsrJZHe7b"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -12823,6 +13717,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Tile Floors"
             },
             "color_1": {
                 "S": "White"
@@ -12895,6 +13792,9 @@
             },
             "unique_entry_id": {
                 "S": "3GqKtZdottDaNdNvP"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -12909,6 +13809,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Wood Floors"
             },
             "color_1": {
                 "S": "Beige"
@@ -12981,6 +13884,9 @@
             },
             "unique_entry_id": {
                 "S": "C5WxH5ZD5LcXeGL56"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -12995,6 +13901,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Dot"
             },
             "color_1": {
                 "S": "Red"
@@ -13067,6 +13976,9 @@
             },
             "unique_entry_id": {
                 "S": "RRjt2eaLkEJv9Hk6W"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -13081,6 +13993,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Tile Checker"
             },
             "color_1": {
                 "S": "Red"
@@ -13153,6 +14068,9 @@
             },
             "unique_entry_id": {
                 "S": "y9Bcpqd5GNvw29DbR"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -13167,6 +14085,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Brick"
             },
             "color_1": {
                 "S": "Red"
@@ -13239,6 +14160,9 @@
             },
             "unique_entry_id": {
                 "S": "tknYxCq8ztLx7Tibi"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -13253,6 +14177,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Iron"
             },
             "color_1": {
                 "S": "White"
@@ -13325,6 +14252,9 @@
             },
             "unique_entry_id": {
                 "S": "HwfcevySwq687Symt"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -13339,6 +14269,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Machine Floor"
             },
             "color_1": {
                 "S": "White"
@@ -13411,6 +14344,9 @@
             },
             "unique_entry_id": {
                 "S": "CiGQrSFNxZcfEFtBh"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -13425,6 +14361,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Nature - Brown"
             },
             "color_1": {
                 "S": "Beige"
@@ -13497,6 +14436,9 @@
             },
             "unique_entry_id": {
                 "S": "BKwXAcy5Q9mW2GJkH"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -13511,6 +14453,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Special Inorganic Floors"
             },
             "color_1": {
                 "S": "White"
@@ -13583,6 +14528,9 @@
             },
             "unique_entry_id": {
                 "S": "hWZn7wcpwD4BGZw2c"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -13597,6 +14545,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Special Nature Floors"
             },
             "color_1": {
                 "S": "Beige"
@@ -13669,6 +14620,9 @@
             },
             "unique_entry_id": {
                 "S": "83n3sq2mysXuXmMju"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -13683,6 +14637,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Cloth Floors"
             },
             "color_1": {
                 "S": "Red"
@@ -13755,6 +14712,9 @@
             },
             "unique_entry_id": {
                 "S": "5vGSvnYMFe4A5LRte"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -13769,6 +14729,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Wood Floors"
             },
             "color_1": {
                 "S": "Gray"
@@ -13841,6 +14804,9 @@
             },
             "unique_entry_id": {
                 "S": "jA7bCaTtZq6Z2r4gr"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -13855,6 +14821,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Tile Floors"
             },
             "color_1": {
                 "S": "Gray"
@@ -13927,6 +14896,9 @@
             },
             "unique_entry_id": {
                 "S": "YiBqEKfe7i4EuseqS"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -13941,6 +14913,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Tatami"
             },
             "color_1": {
                 "S": "Beige"
@@ -14013,6 +14988,9 @@
             },
             "unique_entry_id": {
                 "S": "rnwpHPKqefSS5Hhz8"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -14027,6 +15005,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Tatami Panel"
             },
             "color_1": {
                 "S": "Beige"
@@ -14099,6 +15080,9 @@
             },
             "unique_entry_id": {
                 "S": "CYDJXEYacE5fPeLYJ"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -14113,6 +15097,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Nature - White"
             },
             "color_1": {
                 "S": "Beige"
@@ -14185,6 +15172,9 @@
             },
             "unique_entry_id": {
                 "S": "7cH3CsBAarxRhAkZ5"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -14199,6 +15189,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Wood Floors"
             },
             "color_1": {
                 "S": "Pink"
@@ -14271,6 +15264,9 @@
             },
             "unique_entry_id": {
                 "S": "QB6ZXiQbMQ6iWexQm"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -14285,6 +15281,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Nature - Brown"
             },
             "color_1": {
                 "S": "Yellow"
@@ -14357,6 +15356,9 @@
             },
             "unique_entry_id": {
                 "S": "HZM5De52k9N4E3iei"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -14371,6 +15373,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Nature - White"
             },
             "color_1": {
                 "S": "Beige"
@@ -14443,6 +15448,9 @@
             },
             "unique_entry_id": {
                 "S": "tDrdWs28RgvnyTMNC"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -14457,6 +15465,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Special Inorganic Floors"
             },
             "color_1": {
                 "S": "Black"
@@ -14529,6 +15540,9 @@
             },
             "unique_entry_id": {
                 "S": "NAEGL6s5arLj9y2ku"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -14543,6 +15557,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Sidewalk"
             },
             "color_1": {
                 "S": "Gray"
@@ -14615,6 +15632,9 @@
             },
             "unique_entry_id": {
                 "S": "EHdRo9mbi9QhCtdYN"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -14629,6 +15649,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Puzzle Mat"
             },
             "color_1": {
                 "S": "Colorful"
@@ -14701,6 +15724,9 @@
             },
             "unique_entry_id": {
                 "S": "ND2rTCs7dZjKiGXjC"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -14715,6 +15741,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Sports Floor"
             },
             "color_1": {
                 "S": "Beige"
@@ -14787,6 +15816,9 @@
             },
             "unique_entry_id": {
                 "S": "X9tRZEzQMKRKd5rnz"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -14801,6 +15833,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Sidewalk"
             },
             "color_1": {
                 "S": "Gray"
@@ -14873,6 +15908,9 @@
             },
             "unique_entry_id": {
                 "S": "3FteXxettQm7iZF2p"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -14887,6 +15925,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Simple Carpet"
             },
             "color_1": {
                 "S": "Blue"
@@ -14959,6 +16000,9 @@
             },
             "unique_entry_id": {
                 "S": "JKvF62fyqF6Pg9igx"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -14973,6 +16017,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Simple Carpet"
             },
             "color_1": {
                 "S": "Purple"
@@ -15045,6 +16092,9 @@
             },
             "unique_entry_id": {
                 "S": "qn6BKtgHm5tmoDtAG"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -15059,6 +16109,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Simple Carpet"
             },
             "color_1": {
                 "S": "Red"
@@ -15131,6 +16184,9 @@
             },
             "unique_entry_id": {
                 "S": "5WEw368jE8FK9LcPa"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -15145,6 +16201,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Simple Carpet"
             },
             "color_1": {
                 "S": "White"
@@ -15217,6 +16276,9 @@
             },
             "unique_entry_id": {
                 "S": "RwMEDYWk9YBgrtXmY"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -15231,6 +16293,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Nature - White"
             },
             "color_1": {
                 "S": "White"
@@ -15303,6 +16368,9 @@
             },
             "unique_entry_id": {
                 "S": "NpqGszuaZckXifyju"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -15317,6 +16385,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Cloth Floors"
             },
             "color_1": {
                 "S": "Black"
@@ -15389,6 +16460,9 @@
             },
             "unique_entry_id": {
                 "S": "Ghp5z68RNmKQDDCzz"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -15403,6 +16477,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Stone Floors"
             },
             "color_1": {
                 "S": "Gray"
@@ -15475,6 +16552,9 @@
             },
             "unique_entry_id": {
                 "S": "hchG9hWK9Ci3iXzTN"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -15489,6 +16569,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Parquet"
             },
             "color_1": {
                 "S": "Brown"
@@ -15561,6 +16644,9 @@
             },
             "unique_entry_id": {
                 "S": "ks8i6hhQTyBktaRoR"
+            },
+            "version_added": {
+                "S": "1.5.0"
             }
         },
         "TableName": "furniture_floor"
@@ -15575,6 +16661,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Nature - White"
             },
             "color_1": {
                 "S": "Beige"
@@ -15647,6 +16736,9 @@
             },
             "unique_entry_id": {
                 "S": "54Jcui933sPTvdqXY"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -15661,6 +16753,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Machine Floor"
             },
             "color_1": {
                 "S": "Black"
@@ -15733,6 +16828,9 @@
             },
             "unique_entry_id": {
                 "S": "SyR2wuY2NxNTGC5Z5"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -15747,6 +16845,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Iron"
             },
             "color_1": {
                 "S": "Gray"
@@ -15819,6 +16920,9 @@
             },
             "unique_entry_id": {
                 "S": "nYi4jRsp3MXrnPPDR"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -15833,6 +16937,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Stone Floors"
             },
             "color_1": {
                 "S": "White"
@@ -15905,6 +17012,9 @@
             },
             "unique_entry_id": {
                 "S": "RNMhc9jJApavmhgPC"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -15919,6 +17029,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Cloth Floors"
             },
             "color_1": {
                 "S": "Colorful"
@@ -15991,6 +17104,9 @@
             },
             "unique_entry_id": {
                 "S": "5CY9wQTePbYzQTDF2"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -16005,6 +17121,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Sports Floor"
             },
             "color_1": {
                 "S": "Beige"
@@ -16077,6 +17196,9 @@
             },
             "unique_entry_id": {
                 "S": "qKfY2Nnx5ApBzgGEF"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -16091,6 +17213,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Nature - Brown"
             },
             "color_1": {
                 "S": "Black"
@@ -16163,6 +17288,9 @@
             },
             "unique_entry_id": {
                 "S": "vTPvWC9bkZyeP7BxS"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -16177,6 +17305,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Tatami"
             },
             "color_1": {
                 "S": "Beige"
@@ -16249,6 +17380,9 @@
             },
             "unique_entry_id": {
                 "S": "jdcZQ9LCDoroeYKws"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -16263,6 +17397,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Tatami Panel"
             },
             "color_1": {
                 "S": "Green"
@@ -16335,6 +17472,9 @@
             },
             "unique_entry_id": {
                 "S": "Qo5nLhbZ7iD5JLP4Z"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -16349,6 +17489,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Simple Carpet"
             },
             "color_1": {
                 "S": "Beige"
@@ -16421,6 +17564,9 @@
             },
             "unique_entry_id": {
                 "S": "7FeE8tYxwSiqgxZHf"
+            },
+            "version_added": {
+                "S": "2.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -16435,6 +17581,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Tile Floors"
             },
             "color_1": {
                 "S": "Orange"
@@ -16507,6 +17656,9 @@
             },
             "unique_entry_id": {
                 "S": "Ec8TrwurFcmQKi4CZ"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -16521,6 +17673,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Animal Floor"
             },
             "color_1": {
                 "S": "Black"
@@ -16593,6 +17748,9 @@
             },
             "unique_entry_id": {
                 "S": "uz5PotSZqNAT5kgtT"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -16607,6 +17765,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Sidewalk"
             },
             "color_1": {
                 "S": "Beige"
@@ -16679,6 +17840,9 @@
             },
             "unique_entry_id": {
                 "S": "khwvshrYhvaL9FPsC"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -16693,6 +17857,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Wood Floors"
             },
             "color_1": {
                 "S": "Brown"
@@ -16765,6 +17932,9 @@
             },
             "unique_entry_id": {
                 "S": "J6iDTBzZXQkNMqLTC"
+            },
+            "version_added": {
+                "S": "1.6.0"
             }
         },
         "TableName": "furniture_floor"
@@ -16779,6 +17949,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Special Nature Floors"
             },
             "color_1": {
                 "S": "Blue"
@@ -16851,6 +18024,9 @@
             },
             "unique_entry_id": {
                 "S": "bGowh78amRY7uJsYE"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -16865,6 +18041,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Special Nature Floors"
             },
             "color_1": {
                 "S": "Aqua"
@@ -16937,6 +18116,9 @@
             },
             "unique_entry_id": {
                 "S": "opJSK2mkCqkBRQTW3"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -16951,6 +18133,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Nature - Brown"
             },
             "color_1": {
                 "S": "Beige"
@@ -17023,6 +18208,9 @@
             },
             "unique_entry_id": {
                 "S": "24mkYXzRGCvGibXQ9"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -17037,6 +18225,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Honeycomb"
             },
             "color_1": {
                 "S": "White"
@@ -17109,6 +18300,9 @@
             },
             "unique_entry_id": {
                 "S": "RKrRAgjoevjYsLwTp"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -17123,6 +18317,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Iron Parquet"
             },
             "color_1": {
                 "S": "White"
@@ -17195,6 +18392,9 @@
             },
             "unique_entry_id": {
                 "S": "ZFAq3rRLCCRRgAcF7"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -17209,6 +18409,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Tile Floors"
             },
             "color_1": {
                 "S": "White"
@@ -17281,6 +18484,9 @@
             },
             "unique_entry_id": {
                 "S": "23nmmfSJ7pvKyeuFZ"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -17295,6 +18501,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Tile Floors"
             },
             "color_1": {
                 "S": "White"
@@ -17367,6 +18576,9 @@
             },
             "unique_entry_id": {
                 "S": "GYZ8kvbfYK7i2NcvT"
+            },
+            "version_added": {
+                "S": "1.2.0"
             }
         },
         "TableName": "furniture_floor"
@@ -17381,6 +18593,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Brick"
             },
             "color_1": {
                 "S": "White"
@@ -17453,6 +18668,9 @@
             },
             "unique_entry_id": {
                 "S": "83vQYs26vwE7aa4bZ"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -17467,6 +18685,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Chocolate"
             },
             "color_1": {
                 "S": "White"
@@ -17539,6 +18760,9 @@
             },
             "unique_entry_id": {
                 "S": "b2WBXQkcAqfJ48RH3"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -17553,6 +18777,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Painted Wood"
             },
             "color_1": {
                 "S": "White"
@@ -17625,6 +18852,9 @@
             },
             "unique_entry_id": {
                 "S": "JdnrGbAMW7FBxrw5P"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -17639,6 +18869,9 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "category": {
+                "S": "Grassland"
             },
             "color_1": {
                 "S": "Green"
@@ -17711,6 +18944,9 @@
             },
             "unique_entry_id": {
                 "S": "dYb6DAfZQJTGN7svs"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -17725,6 +18961,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Wood Floors"
             },
             "color_1": {
                 "S": "Brown"
@@ -17797,6 +19036,9 @@
             },
             "unique_entry_id": {
                 "S": "ttyLLQ39Dc3fK32JE"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -17811,6 +19053,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Deco Wood"
             },
             "color_1": {
                 "S": "Yellow"
@@ -17883,6 +19128,9 @@
             },
             "unique_entry_id": {
                 "S": "R69sMEPHQGu7fBzuQ"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"
@@ -17897,6 +19145,9 @@
             },
             "catalog_category": {
                 "S": "For sale"
+            },
+            "category": {
+                "S": "Animal Floor"
             },
             "color_1": {
                 "S": "Black"
@@ -17969,6 +19220,9 @@
             },
             "unique_entry_id": {
                 "S": "9Mdszd5EgwJ6omLPf"
+            },
+            "version_added": {
+                "S": "1.0.0"
             }
         },
         "TableName": "furniture_floor"

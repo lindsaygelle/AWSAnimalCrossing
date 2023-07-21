@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 35,
-    "minProperties": 35,
+    "maxProperties": 36,
+    "minProperties": 36,
     "properties": {
         "color_1": {
             "type": [
@@ -244,6 +244,13 @@
             "type": [
                 "integer"
             ]
+        },
+        "version_added": {
+            "maxLength": 5,
+            "minLength": 5,
+            "type": [
+                "string"
+            ]
         }
     },
     "required": [
@@ -281,7 +288,8 @@
         "size_2",
         "size_silhouette",
         "unique_entry_id",
-        "unlock_number"
+        "unlock_number",
+        "version_added"
     ],
     "title": "CreatureSea",
     "type": "object"

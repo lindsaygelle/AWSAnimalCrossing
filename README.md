@@ -1,17 +1,18 @@
 # AWSAnimalCrossing
-AWSAnimalCrossing is a Terraform-based project that provides a REST API to access Animal Crossing: New Horizons data. It leverages various AWS services, including API Gateway, DynamoDB, S3, AWS Step Functions, and Lambda functions, to store and retrieve game data.
+AWSAnimalCrossing is a Terraform-based project that provides a REST API to access Animal Crossing: New Horizons data. It leverages various AWS services, including [API Gateway](https://aws.amazon.com/api-gateway/), [Cognito](https://aws.amazon.com/cognito/), [DynamoDB](https://aws.amazon.com/dynamodb/), [S3](https://aws.amazon.com/s3/), [Step Functions](https://aws.amazon.com/step-functions/), and [Lambda functions](https://aws.amazon.com/lambda/), to store and retrieve game [data](./data/raw/).
 
 # Introduction
-Animal Crossing: New Horizons is a popular life simulation game where players can build and customize their own virtual island, interact with anthropomorphic animal characters, and engage in various activities. AWSAnimalCrossing expands the game experience by providing a REST API that allows users to access and manage game data using AWS services.
+[Animal Crossing: New Horizons](https://animal-crossing.com/new-horizons/) is a popular life simulation game where players can build and customize their own virtual island, interact with anthropomorphic animal characters, and engage in various activities. AWSAnimalCrossing expands the game experience by providing a REST API that allows users to access and manage game data using AWS services.
 
-This repository serves as a starting point for developers who want to explore the integration of AWS services with Animal Crossing: New Horizons. By leveraging Terraform, the project provides infrastructure-as-code for deploying and managing the necessary AWS resources.
+This repository serves as a starting point for developers who want to explore the integration of AWS services with Animal Crossing: New Horizons data. By leveraging Terraform, the project provides infrastructure-as-code for deploying and managing the necessary AWS resources needed to store and access the prepared data.
 
 # Features
-- REST API: AWSAnimalCrossing offers a RESTful API built with API Gateway, allowing users to access and interact with Animal Crossing: New Horizons data programmatically.
-- Data storage: Game data is stored in DynamoDB, providing a scalable and reliable database solution.
-- File storage: Images, custom designs, and other resources can be stored in Amazon S3 buckets, facilitating easy access and customization within the game.
-- State machine: AWS Step Functions is utilized to orchestrate and automate workflows, enabling seamless data processing and synchronization.
-- Lambda functions: AWS Lambda functions are employed to handle API requests, perform business logic, and interact with other AWS services.
+- REST API: A RESTful API built with API Gateway, allowing users to access and interact with Animal Crossing: New Horizons data programmatically.
+- Data storage: Data is stored and accessed in DynamoDB, providing a scalable and reliable database solution with low latency.
+- File storage: Raw data, images, and sound files, are stored in Amazon S3, facilitating easy access and caching within the API.
+- State machine: AWS Step Functions is utilized to orchestrate and automate workflows, enabling seamless data processing and synchronization across API Gateway to DynamoDB.
+- Lambda functions: AWS Lambda functions are employed to handle API requests, perform API logic, and interact with other AWS services.
+- User management: Access to resources can be controlled using AWS Cognito, enabling granular permissions across the REST API.
 
 # Requirements
 To use AWSAnimalCrossing, you need the following:

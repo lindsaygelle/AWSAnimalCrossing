@@ -28,6 +28,13 @@
                 "string"
             ]
         },
+        "category": {
+            "maxLength": 25,
+            "minLength": 3,
+            "type": [
+                "string"
+            ]
+        },
         "ceiling_category": {
             "maxLength": 5,
             "minLength": 4,
@@ -224,6 +231,13 @@
                 "string"
             ]
         },
+        "version_added": {
+            "maxLength": 5,
+            "minLength": 5,
+            "type": [
+                "string"
+            ]
+        },
         "vfx_category": {
             "maxLength": 8,
             "minLength": 6,
@@ -253,6 +267,7 @@
         "buy_currency",
         "buy_price",
         "catalog_category",
+        "category",
         "ceiling_category",
         "color_1",
         "color_2",
@@ -281,6 +296,7 @@
         "sell_currency",
         "sell_price",
         "unique_entry_id",
+        "version_added",
         "vfx_category",
         "window_category",
         "window_color"

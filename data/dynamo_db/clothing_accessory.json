@@ -82,6 +82,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "3D glasses"
             },
@@ -206,6 +209,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "3D glasses"
@@ -332,6 +338,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Animal Nose"
             },
@@ -456,6 +465,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Ballroom Mask"
@@ -582,6 +594,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Ballroom Mask"
             },
@@ -706,6 +721,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "S": "All Year"
             },
             "name": {
                 "S": "Bandage"
@@ -832,6 +850,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "All Year"
+            },
             "name": {
                 "S": "Beak"
             },
@@ -956,6 +977,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Birthday Shades"
@@ -1082,6 +1106,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Birthday Shades"
             },
@@ -1206,6 +1233,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Birthday Shades"
@@ -1332,6 +1362,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Birthday Shades"
             },
@@ -1456,6 +1489,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Bottom-rimmed Glasses"
@@ -1582,6 +1618,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Bottom-rimmed Glasses"
             },
@@ -1706,6 +1745,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "S": "All Year"
             },
             "name": {
                 "S": "Bottom-rimmed Glasses"
@@ -1832,6 +1874,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "Summer; Winter"
+            },
             "name": {
                 "S": "Bottom-rimmed Glasses"
             },
@@ -1956,6 +2001,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Bottom-rimmed Glasses"
@@ -2082,6 +2130,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Bottom-rimmed Glasses"
             },
@@ -2206,6 +2257,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Bottom-rimmed Glasses"
@@ -2332,6 +2386,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Browline Glasses"
             },
@@ -2456,6 +2513,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "S": "Summer; Winter"
             },
             "name": {
                 "S": "Browline Glasses"
@@ -2582,6 +2642,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Browline Glasses"
             },
@@ -2706,6 +2769,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "S": "All Year"
             },
             "name": {
                 "S": "Browline Glasses"
@@ -2832,6 +2898,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Bubblegum"
             },
@@ -2956,6 +3025,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Bubblegum"
@@ -3082,6 +3154,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "All Year"
+            },
             "name": {
                 "S": "Bubblegum"
             },
@@ -3206,6 +3281,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Bubblegum"
@@ -3332,6 +3410,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Bubblegum"
             },
@@ -3456,6 +3537,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Bunny Nose"
@@ -3582,6 +3666,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Bunny Nose"
             },
@@ -3706,6 +3793,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Bunny Nose"
@@ -3832,6 +3922,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "All Year"
+            },
             "name": {
                 "S": "Butterfly Shades"
             },
@@ -3956,6 +4049,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "S": "Summer"
             },
             "name": {
                 "S": "Butterfly Shades"
@@ -4082,6 +4178,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Butterfly Shades"
             },
@@ -4206,6 +4305,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Candy-skull Mask"
@@ -4332,6 +4434,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Candy-skull Mask"
             },
@@ -4456,6 +4561,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Candy-skull Mask"
@@ -4582,6 +4690,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Cat Nose"
             },
@@ -4706,6 +4817,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Cat Nose"
@@ -4832,6 +4946,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Cat Nose"
             },
@@ -4956,6 +5073,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "S": "All Year"
             },
             "name": {
                 "S": "Cucumber Pack"
@@ -5082,6 +5202,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Curly Mustache"
             },
@@ -5206,6 +5329,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Cyber Shades"
@@ -5332,6 +5458,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Cyber Shades"
             },
@@ -5456,6 +5585,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Cyber Shades"
@@ -5582,6 +5714,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Cyber Shades"
             },
@@ -5706,6 +5841,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Cyber Shades"
@@ -5832,6 +5970,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Cyber Shades"
             },
@@ -5956,6 +6097,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "DAL eye mask"
@@ -6082,6 +6226,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "DAL sunglasses"
             },
@@ -6206,6 +6353,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Doctor's Mask"
@@ -6332,6 +6482,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Dog Nose"
             },
@@ -6456,6 +6609,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Dog Nose"
@@ -6582,6 +6738,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Dog Nose"
             },
@@ -6706,6 +6865,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Double Nose Tissues"
@@ -6832,6 +6994,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "Summer"
+            },
             "name": {
                 "S": "Double-bridge Glasses"
             },
@@ -6956,6 +7121,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Double-bridge Glasses"
@@ -7082,6 +7250,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Double-bridge Glasses"
             },
@@ -7206,6 +7377,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "S": "Winter"
             },
             "name": {
                 "S": "Double-bridge Glasses"
@@ -7332,6 +7506,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Drinking-straw Glasses"
             },
@@ -7456,6 +7633,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Drinking-straw Glasses"
@@ -7582,6 +7762,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Drinking-straw Glasses"
             },
@@ -7706,6 +7889,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Drinking-straw Glasses"
@@ -7832,6 +8018,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Elegant Masquerade Mask"
             },
@@ -7956,6 +8145,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Elegant Masquerade Mask"
@@ -8082,6 +8274,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Eye Gauze"
             },
@@ -8206,6 +8401,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Eye Mask"
@@ -8332,6 +8530,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Eye Mask"
             },
@@ -8456,6 +8657,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Eye Mask"
@@ -8582,6 +8786,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Eye Mask"
             },
@@ -8706,6 +8913,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Eye Mask"
@@ -8832,6 +9042,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Eye Mask"
             },
@@ -8956,6 +9169,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Eye Patch"
@@ -9082,6 +9298,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Facial Mask"
             },
@@ -9206,6 +9425,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Fake Nose"
@@ -9332,6 +9554,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Flower Sunglasses"
             },
@@ -9456,6 +9681,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "S": "Summer"
             },
             "name": {
                 "S": "Flower Sunglasses"
@@ -9582,6 +9810,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "All Year"
+            },
             "name": {
                 "S": "Flower Sunglasses"
             },
@@ -9706,6 +9937,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Flower Sunglasses"
@@ -9832,6 +10066,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Flower Sunglasses"
             },
@@ -9956,6 +10193,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Food Mess"
@@ -10082,6 +10322,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Funny Glasses"
             },
@@ -10206,6 +10449,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Funny Glasses"
@@ -10332,6 +10578,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Funny Glasses"
             },
@@ -10456,6 +10705,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Gas Mask"
@@ -10582,6 +10834,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Gas Mask"
             },
@@ -10706,6 +10961,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Glass-bottle Glasses"
@@ -10832,6 +11090,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "Summer"
+            },
             "name": {
                 "S": "Goatee"
             },
@@ -10956,6 +11217,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Goggles"
@@ -11082,6 +11346,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Goggles"
             },
@@ -11206,6 +11473,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Goggles"
@@ -11332,6 +11602,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Goggles"
             },
@@ -11456,6 +11729,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Goggles"
@@ -11582,6 +11858,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Goggles"
             },
@@ -11706,6 +11985,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "S": "All Year"
             },
             "name": {
                 "S": "Handlebar Mustache"
@@ -11832,6 +12114,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "Summer"
+            },
             "name": {
                 "S": "Heart Shades"
             },
@@ -11956,6 +12241,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Heart Shades"
@@ -12082,6 +12370,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Heart Shades"
             },
@@ -12206,6 +12497,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Heart Shades"
@@ -12332,6 +12626,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Heart Shades"
             },
@@ -12456,6 +12753,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "HMD"
@@ -12582,6 +12882,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Jester's Mask"
             },
@@ -12706,6 +13009,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Jester's Mask"
@@ -12832,6 +13138,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Jester's Mask"
             },
@@ -12956,6 +13265,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Jester's Mask"
@@ -13082,6 +13394,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Labelle sunglasses"
             },
@@ -13206,6 +13521,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Labelle sunglasses"
@@ -13332,6 +13650,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Labelle sunglasses"
             },
@@ -13456,6 +13777,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Labelle sunglasses"
@@ -13582,6 +13906,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Labelle sunglasses"
             },
@@ -13706,6 +14033,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Labelle sunglasses"
@@ -13832,6 +14162,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Ladder Shades"
             },
@@ -13956,6 +14289,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "S": "All Year"
             },
             "name": {
                 "S": "Ladder Shades"
@@ -14082,6 +14418,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Ladder Shades"
             },
@@ -14206,6 +14545,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Ladder Shades"
@@ -14332,6 +14674,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Ladder Shades"
             },
@@ -14456,6 +14801,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Ladder Shades"
@@ -14582,6 +14930,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Leaf"
             },
@@ -14706,6 +15057,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Luigi 'stache"
@@ -14832,6 +15186,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Mario 'stache"
             },
@@ -14956,6 +15313,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Masquerade Mask"
@@ -15082,6 +15442,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Masquerade Mask"
             },
@@ -15206,6 +15569,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Masquerade Mask"
@@ -15332,6 +15698,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Masquerade Mask"
             },
@@ -15456,6 +15825,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Masquerade Mask"
@@ -15582,6 +15954,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Masquerade Mask"
             },
@@ -15706,6 +16081,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Monocle"
@@ -15832,6 +16210,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "All Year"
+            },
             "name": {
                 "S": "Monocle"
             },
@@ -15956,6 +16337,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Monocle"
@@ -16082,6 +16466,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Neon Shades"
             },
@@ -16206,6 +16593,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Neon Shades"
@@ -16332,6 +16722,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Neon Shades"
             },
@@ -16456,6 +16849,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Neon Shades"
@@ -16582,6 +16978,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Night-vision Goggles"
             },
@@ -16706,6 +17105,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Nook Inc. eye mask"
@@ -16832,6 +17234,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Nook Inc. snorkel"
             },
@@ -16956,6 +17361,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Nose Drip"
@@ -17082,6 +17490,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Nose Tissue"
             },
@@ -17206,6 +17617,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "S": "All Year"
             },
             "name": {
                 "S": "Octagonal Glasses"
@@ -17332,6 +17746,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "Summer; Winter"
+            },
             "name": {
                 "S": "Octagonal Glasses"
             },
@@ -17456,6 +17873,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Octagonal Glasses"
@@ -17582,6 +18002,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "Winter"
+            },
             "name": {
                 "S": "Octagonal Glasses"
             },
@@ -17706,6 +18129,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "S": "Winter"
             },
             "name": {
                 "S": "Octagonal Glasses"
@@ -17832,6 +18258,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Oval Glasses"
             },
@@ -17956,6 +18385,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "S": "All Year"
             },
             "name": {
                 "S": "Oval Glasses"
@@ -18082,6 +18514,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "Winter"
+            },
             "name": {
                 "S": "Oval Glasses"
             },
@@ -18206,6 +18641,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Oval Glasses"
@@ -18332,6 +18770,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "All Year"
+            },
             "name": {
                 "S": "Oval Glasses"
             },
@@ -18456,6 +18897,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Oval Glasses"
@@ -18582,6 +19026,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Oval Glasses"
             },
@@ -18706,6 +19153,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Pacifier"
@@ -18832,6 +19282,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Pacifier"
             },
@@ -18956,6 +19409,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Pacifier"
@@ -19082,6 +19538,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Pacifier"
             },
@@ -19206,6 +19665,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Pacifier"
@@ -19332,6 +19794,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Pacifier"
             },
@@ -19456,6 +19921,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Pacifier"
@@ -19582,6 +20050,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Pacifier"
             },
@@ -19706,6 +20177,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Pig Nose"
@@ -19832,6 +20306,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Pilot Shades"
             },
@@ -19956,6 +20433,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "S": "All Year"
             },
             "name": {
                 "S": "Pilot Shades"
@@ -20082,6 +20562,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Pirate Beard"
             },
@@ -20206,6 +20689,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Pirate Eye Patch"
@@ -20332,6 +20818,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Pixel Shades"
             },
@@ -20456,6 +20945,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "S": "Winter"
             },
             "name": {
                 "S": "Pixel Shades"
@@ -20582,6 +21074,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Pixel Shades"
             },
@@ -20706,6 +21201,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "S": "All Year"
             },
             "name": {
                 "S": "Pixel Shades"
@@ -20832,6 +21330,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Pleated Mask"
             },
@@ -20956,6 +21457,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Pleated Mask"
@@ -21082,6 +21586,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Pleated Mask"
             },
@@ -21206,6 +21713,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Pleated Mask"
@@ -21332,6 +21842,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Pleated Mask"
             },
@@ -21456,6 +21969,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "S": "Summer"
             },
             "name": {
                 "S": "Pleather Mask"
@@ -21582,6 +22098,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Post-op Patch"
             },
@@ -21706,6 +22225,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "S": "All Year"
             },
             "name": {
                 "S": "Privacy Mask"
@@ -21832,6 +22354,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Reflector"
             },
@@ -21956,6 +22481,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Retro Shades"
@@ -22082,6 +22610,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Retro Shades"
             },
@@ -22206,6 +22737,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "S": "All Year"
             },
             "name": {
                 "S": "Retro Shades"
@@ -22332,6 +22866,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Retro Shades"
             },
@@ -22456,6 +22993,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Retro Shades"
@@ -22582,6 +23122,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Retro Shades"
             },
@@ -22706,6 +23249,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Rhinestone Shades"
@@ -22832,6 +23378,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Rhinestone Shades"
             },
@@ -22956,6 +23505,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Rhinestone Shades"
@@ -23082,6 +23634,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Rimmed Glasses"
             },
@@ -23206,6 +23761,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "S": "All Year"
             },
             "name": {
                 "S": "Rimmed Glasses"
@@ -23332,6 +23890,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Rimmed Glasses"
             },
@@ -23456,6 +24017,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "S": "Summer"
             },
             "name": {
                 "S": "Rimmed Glasses"
@@ -23582,6 +24146,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "Winter"
+            },
             "name": {
                 "S": "Rimmed Glasses"
             },
@@ -23706,6 +24273,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Round Shades"
@@ -23832,6 +24402,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "All Year"
+            },
             "name": {
                 "S": "Round Shades"
             },
@@ -23956,6 +24529,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "S": "Summer"
             },
             "name": {
                 "S": "Round Shades"
@@ -24082,6 +24658,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Round Shades"
             },
@@ -24206,6 +24785,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Round Shades"
@@ -24332,6 +24914,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "Winter"
+            },
             "name": {
                 "S": "Round Shades"
             },
@@ -24456,6 +25041,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Round Shades"
@@ -24582,6 +25170,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Round Shades"
             },
@@ -24706,6 +25297,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "S": "Summer"
             },
             "name": {
                 "S": "Round Tinted Shades"
@@ -24832,6 +25426,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Round Tinted Shades"
             },
@@ -24956,6 +25553,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Round Tinted Shades"
@@ -25082,6 +25682,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "All Year"
+            },
             "name": {
                 "S": "Round Tinted Shades"
             },
@@ -25206,6 +25809,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Round-frame Glasses"
@@ -25332,6 +25938,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Round-frame Glasses"
             },
@@ -25456,6 +26065,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Round-frame Glasses"
@@ -25582,6 +26194,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Round-frame Glasses"
             },
@@ -25706,6 +26321,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Round-frame Glasses"
@@ -25832,6 +26450,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Rounded Beard"
             },
@@ -25956,6 +26577,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "S": "All Year"
             },
             "name": {
                 "S": "Santa beard"
@@ -26082,6 +26706,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Shamrock Sunglasses"
             },
@@ -26206,6 +26833,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Shattered Glasses"
@@ -26332,6 +26962,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Silly Glasses"
             },
@@ -26456,6 +27089,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Silly Glasses"
@@ -26582,6 +27218,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Silly Glasses"
             },
@@ -26706,6 +27345,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Silly Glasses"
@@ -26832,6 +27474,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Silly Glasses"
             },
@@ -26956,6 +27601,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Silly Glasses"
@@ -27082,6 +27730,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Simple Sunglasses"
             },
@@ -27206,6 +27857,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Simple Sunglasses"
@@ -27332,6 +27986,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Simple Sunglasses"
             },
@@ -27456,6 +28113,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Simple Sunglasses"
@@ -27582,6 +28242,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Simple Sunglasses"
             },
@@ -27706,6 +28369,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Simple Sunglasses"
@@ -27832,6 +28498,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Ski Goggles"
             },
@@ -27956,6 +28625,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "S": "Winter"
             },
             "name": {
                 "S": "Ski Goggles"
@@ -28082,6 +28754,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Ski Goggles"
             },
@@ -28206,6 +28881,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Ski Goggles"
@@ -28332,6 +29010,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Ski Goggles"
             },
@@ -28456,6 +29137,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Ski Goggles"
@@ -28582,6 +29266,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Snorkel Mask"
             },
@@ -28706,6 +29393,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Snorkel Mask"
@@ -28832,6 +29522,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Snorkel Mask"
             },
@@ -28956,6 +29649,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Snorkel Mask"
@@ -29082,6 +29778,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Snorkel Mask"
             },
@@ -29206,6 +29905,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Snorkel Mask"
@@ -29332,6 +30034,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Sporty Shades"
             },
@@ -29456,6 +30161,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Sporty Shades"
@@ -29582,6 +30290,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Sporty Shades"
             },
@@ -29706,6 +30417,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Sporty Shades"
@@ -29832,6 +30546,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Sporty Shades"
             },
@@ -29956,6 +30673,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Square Glasses"
@@ -30082,6 +30802,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "All Year"
+            },
             "name": {
                 "S": "Square Glasses"
             },
@@ -30206,6 +30929,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "S": "Winter"
             },
             "name": {
                 "S": "Square Glasses"
@@ -30332,6 +31058,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "All Year"
+            },
             "name": {
                 "S": "Square Glasses"
             },
@@ -30456,6 +31185,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Squared Browline Glasses"
@@ -30582,6 +31314,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Squared Browline Glasses"
             },
@@ -30706,6 +31441,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Squared Browline Glasses"
@@ -30832,6 +31570,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Squared Browline Glasses"
             },
@@ -30956,6 +31697,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Stache & Glasses"
@@ -31082,6 +31826,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Stache & Glasses"
             },
@@ -31206,6 +31953,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Star Shades"
@@ -31332,6 +32082,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Star Shades"
             },
@@ -31456,6 +32209,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Star Shades"
@@ -31582,6 +32338,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "Summer"
+            },
             "name": {
                 "S": "Star Shades"
             },
@@ -31706,6 +32465,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Star Shades"
@@ -31832,6 +32594,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Steampunk Glasses"
             },
@@ -31956,6 +32721,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Steampunk Glasses"
@@ -32082,6 +32850,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Sticky Rice"
             },
@@ -32206,6 +32977,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Sunflower Sunglasses"
@@ -32332,6 +33106,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Superhero Mask"
             },
@@ -32456,6 +33233,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Tiny Shades"
@@ -32582,6 +33362,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Tiny Shades"
             },
@@ -32706,6 +33489,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "S": "All Year"
             },
             "name": {
                 "S": "Tiny Shades"
@@ -32832,6 +33618,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "Winter"
+            },
             "name": {
                 "S": "Tortoise Specs"
             },
@@ -32956,6 +33745,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Tortoise Specs"
@@ -33082,6 +33874,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "Winter"
+            },
             "name": {
                 "S": "Tortoise Specs"
             },
@@ -33206,6 +34001,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Triangle Shades"
@@ -33332,6 +34130,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Triangle Shades"
             },
@@ -33456,6 +34257,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Triangle Shades"
@@ -33582,6 +34386,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Triangle Shades"
             },
@@ -33706,6 +34513,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Triangle Shades"
@@ -33832,6 +34642,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Triangle Shades"
             },
@@ -33956,6 +34769,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Triangle Shades"
@@ -34082,6 +34898,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Venetian carnival mask"
             },
@@ -34206,6 +35025,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Venetian carnival mask"
@@ -34332,6 +35154,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Venetian carnival mask"
             },
@@ -34456,6 +35281,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Venetian carnival mask"
@@ -34582,6 +35410,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "NULL": true
+            },
             "name": {
                 "S": "Venetian carnival mask"
             },
@@ -34706,6 +35537,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "NULL": true
             },
             "name": {
                 "S": "Wario 'stache"
@@ -34832,6 +35666,9 @@
             "is_unlocked": {
                 "BOOL": true
             },
+            "mannequin_season": {
+                "S": "Winter"
+            },
             "name": {
                 "S": "Wooden-frame Glasses"
             },
@@ -34956,6 +35793,9 @@
             },
             "is_unlocked": {
                 "BOOL": true
+            },
+            "mannequin_season": {
+                "S": "Winter"
             },
             "name": {
                 "S": "Wooden-frame Glasses"
