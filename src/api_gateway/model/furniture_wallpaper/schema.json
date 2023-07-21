@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 34,
-    "minProperties": 34,
+    "maxProperties": 36,
+    "minProperties": 36,
     "properties": {
         "buy_currency": {
             "maxLength": 5,

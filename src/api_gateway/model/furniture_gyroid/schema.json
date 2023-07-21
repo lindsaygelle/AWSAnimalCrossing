@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 44,
-    "minProperties": 44,
+    "maxProperties": 46,
+    "minProperties": 46,
     "properties": {
         "body_category": {
             "maxLength": 5,
@@ -300,6 +300,13 @@
                 "null",
                 "string"
             ]
+        },
+        "version_added": {
+            "maxLength": 5,
+            "minLength": 5,
+            "type": [
+                "string"
+            ]
         }
     },
     "required": [
@@ -347,7 +354,8 @@
         "sound_category",
         "unique_entry_id",
         "variant_id",
-        "variant_name"
+        "variant_name",
+        "version_added"
     ],
     "title": "FurnitureGyroid",
     "type": "object"

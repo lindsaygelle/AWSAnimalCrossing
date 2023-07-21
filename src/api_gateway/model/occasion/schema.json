@@ -1,9 +1,14 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 7,
-    "minProperties": 7,
+    "maxProperties": 9,
+    "minProperties": 9,
     "properties": {
         "can_overlap_day": {
+            "type": [
+                "boolean"
+            ]
+        },
+        "can_vary_yearly": {
             "type": [
                 "boolean"
             ]
@@ -57,6 +62,7 @@
     },
     "required": [
         "can_overlap_day",
+        "can_vary_yearly",
         "category",
         "internal_id",
         "internal_label",
