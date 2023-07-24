@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 38,
-    "minProperties": 38,
+    "maxProperties": 39,
+    "minProperties": 39,
     "properties": {
         "artist_name": {
             "maxLength": 29,
@@ -73,6 +73,21 @@
             "minLength": 3,
             "type": [
                 "string"
+            ]
+        },
+        "content_locations": {
+            "items": {
+                "maxLength": 29,
+                "minLength": 29,
+                "type": [
+                    "string"
+                ]
+            },
+            "maxItems": 1,
+            "minItems": 1,
+            "type": [
+                "array",
+                "null"
             ]
         },
         "description": {
@@ -278,6 +293,7 @@
         "category",
         "color_1",
         "color_2",
+        "content_locations",
         "description",
         "filename",
         "filename_artwork_image",

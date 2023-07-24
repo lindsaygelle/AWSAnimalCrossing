@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 35,
-    "minProperties": 35,
+    "maxProperties": 36,
+    "minProperties": 36,
     "properties": {
         "can_fly": {
             "type": [
@@ -161,6 +161,13 @@
                 "string"
             ]
         },
+        "location_name": {
+            "maxLength": 81,
+            "minLength": 6,
+            "type": [
+                "string"
+            ]
+        },
         "name": {
             "maxLength": 26,
             "minLength": 3,
@@ -270,6 +277,7 @@
         "is_disguised",
         "is_surface",
         "location_category",
+        "location_name",
         "name",
         "rate_maximum",
         "rate_minimum",

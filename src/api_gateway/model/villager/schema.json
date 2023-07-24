@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 31,
-    "minProperties": 31,
+    "maxProperties": 36,
+    "minProperties": 36,
     "properties": {
         "birth_day": {
             "exclusiveMaximum": false,
@@ -87,6 +87,38 @@
                 "string"
             ]
         },
+        "furniture_ids": {
+            "items": {
+                "exclusiveMaximum": false,
+                "exclusiveMinimum": false,
+                "maximum": 7526,
+                "minimum": 3064,
+                "type": [
+                    "integer"
+                ]
+            },
+            "maxItems": 26,
+            "minItems": 1,
+            "type": [
+                "array",
+                "null"
+            ]
+        },
+        "furniture_names": {
+            "items": {
+                "maxLength": 18,
+                "minLength": 5,
+                "type": [
+                    "string"
+                ]
+            },
+            "maxItems": 26,
+            "minItems": 1,
+            "type": [
+                "array",
+                "null"
+            ]
+        },
         "gender": {
             "maxLength": 6,
             "minLength": 4,
@@ -120,6 +152,23 @@
             "maxLength": 53,
             "minLength": 53,
             "type": [
+                "string"
+            ]
+        },
+        "kitchen_id": {
+            "exclusiveMaximum": false,
+            "exclusiveMinimum": false,
+            "maximum": 14055,
+            "minimum": 292,
+            "type": [
+                "integer"
+            ]
+        },
+        "kitchen_variant_id": {
+            "maxLength": 3,
+            "minLength": 3,
+            "type": [
+                "null",
                 "string"
             ]
         },
@@ -225,10 +274,17 @@
             "exclusiveMaximum": false,
             "exclusiveMinimum": false,
             "maximum": 7142,
-            "minimum": 7142,
+            "minimum": 1241,
             "type": [
-                "integer",
-                "null"
+                "integer"
+            ]
+        },
+        "workbench_variant_id": {
+            "maxLength": 3,
+            "minLength": 3,
+            "type": [
+                "null",
+                "string"
             ]
         }
     },
@@ -244,11 +300,15 @@
         "filename_icon_image",
         "filename_photo_image",
         "floor_name",
+        "furniture_ids",
+        "furniture_names",
         "gender",
         "hobby_name",
         "image_house_url",
         "image_icon_url",
         "image_photo_url",
+        "kitchen_id",
+        "kitchen_variant_id",
         "motto",
         "name",
         "name_color",
@@ -263,7 +323,8 @@
         "unique_entry_id",
         "version_added",
         "wallpaper_name",
-        "workbench_id"
+        "workbench_id",
+        "workbench_variant_id"
     ],
     "title": "Villager",
     "type": "object"

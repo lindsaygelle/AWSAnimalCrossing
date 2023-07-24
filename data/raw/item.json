@@ -8,6 +8,11 @@
         "catalog_category": "For sale",
         "color_1": "Beige",
         "color_2": "Black",
+        "content_events": null,
+        "content_locations": [
+            "Crafting",
+            "Nook's Cranny"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": null,
@@ -54,6 +59,12 @@
         "catalog_category": "Not for sale",
         "color_1": "Green",
         "color_2": "Beige",
+        "content_events": [
+            "young spring bamboo"
+        ],
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": null,
@@ -100,6 +111,12 @@
         "catalog_category": "Seasonal",
         "color_1": "Beige",
         "color_2": "Beige",
+        "content_events": [
+            "Setsubun"
+        ],
+        "content_locations": [
+            "Nook Shopping Seasonal"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": null,
@@ -146,6 +163,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Pink",
         "color_2": "Beige",
+        "content_events": null,
+        "content_locations": [
+            "Redd's Co-op Raffle"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": "Bells",
@@ -192,6 +213,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Yellow",
         "color_2": "White",
+        "content_events": null,
+        "content_locations": [
+            "Redd's Co-op Raffle"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": "Bells",
@@ -238,6 +263,17 @@
         "catalog_category": "For sale",
         "color_1": "Blue",
         "color_2": "Blue",
+        "content_events": [
+            "Fireworks Show (1)",
+            "Fireworks Show (2)",
+            "Fireworks Show (3)",
+            "Fireworks Show (4)",
+            "Fireworks Show (5)"
+        ],
+        "content_locations": [
+            "Redd's Raffle",
+            "Nook's Cranny"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": "Bells",
@@ -284,6 +320,17 @@
         "catalog_category": "For sale",
         "color_1": "Blue",
         "color_2": "Colorful",
+        "content_events": [
+            "Fireworks Show (1)",
+            "Fireworks Show (2)",
+            "Fireworks Show (3)",
+            "Fireworks Show (4)",
+            "Fireworks Show (5)"
+        ],
+        "content_locations": [
+            "Redd's Raffle",
+            "Nook's Cranny"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": "Bells",
@@ -330,6 +377,16 @@
         "catalog_category": "Not for sale",
         "color_1": "Brown",
         "color_2": "Black",
+        "content_events": [
+            "Fireworks Show (1)",
+            "Fireworks Show (2)",
+            "Fireworks Show (3)",
+            "Fireworks Show (4)",
+            "Fireworks Show (5)"
+        ],
+        "content_locations": [
+            "Redd's Raffle"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": "Bells",
@@ -376,6 +433,16 @@
         "catalog_category": "Not for sale",
         "color_1": "Green",
         "color_2": "Orange",
+        "content_events": [
+            "Fireworks Show (1)",
+            "Fireworks Show (2)",
+            "Fireworks Show (3)",
+            "Fireworks Show (4)",
+            "Fireworks Show (5)"
+        ],
+        "content_locations": [
+            "Redd's Raffle"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": "Bells",
@@ -422,6 +489,16 @@
         "catalog_category": "Not for sale",
         "color_1": "Orange",
         "color_2": "Purple",
+        "content_events": [
+            "Fireworks Show (1)",
+            "Fireworks Show (2)",
+            "Fireworks Show (3)",
+            "Fireworks Show (4)",
+            "Fireworks Show (5)"
+        ],
+        "content_locations": [
+            "Redd's Raffle"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": "Bells",
@@ -468,6 +545,16 @@
         "catalog_category": "Not for sale",
         "color_1": "Beige",
         "color_2": "Green",
+        "content_events": [
+            "Fireworks Show (1)",
+            "Fireworks Show (2)",
+            "Fireworks Show (3)",
+            "Fireworks Show (4)",
+            "Fireworks Show (5)"
+        ],
+        "content_locations": [
+            "Redd's Raffle"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": "Bells",
@@ -514,6 +601,16 @@
         "catalog_category": "Not for sale",
         "color_1": "Pink",
         "color_2": "Blue",
+        "content_events": [
+            "Fireworks Show (1)",
+            "Fireworks Show (2)",
+            "Fireworks Show (3)",
+            "Fireworks Show (4)",
+            "Fireworks Show (5)"
+        ],
+        "content_locations": [
+            "Redd's Raffle"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": "Bells",
@@ -560,6 +657,17 @@
         "catalog_category": "For sale",
         "color_1": "Pink",
         "color_2": "Pink",
+        "content_events": [
+            "Fireworks Show (1)",
+            "Fireworks Show (2)",
+            "Fireworks Show (3)",
+            "Fireworks Show (4)",
+            "Fireworks Show (5)"
+        ],
+        "content_locations": [
+            "Redd's Raffle",
+            "Nook's Cranny"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": "Bells",
@@ -606,6 +714,15 @@
         "catalog_category": "Not for sale",
         "color_1": "Pink",
         "color_2": "Yellow",
+        "content_events": [
+            "Bug-Off (1)",
+            "Bug-Off (2)",
+            "Bug-Off (3)",
+            "Bug-Off (4)"
+        ],
+        "content_locations": [
+            "Flick"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": null,
@@ -652,6 +769,12 @@
         "catalog_category": "Not for sale",
         "color_1": "Colorful",
         "color_2": "Yellow",
+        "content_events": [
+            "Bunny Day"
+        ],
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": null,
@@ -698,6 +821,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Red",
         "color_2": "White",
+        "content_events": null,
+        "content_locations": [
+            "Redd's Co-op Raffle"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": "Bells",
@@ -744,6 +871,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Brown",
         "color_2": "Beige",
+        "content_events": null,
+        "content_locations": [
+            "Redd's Co-op Raffle"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": "Bells",
@@ -790,6 +921,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Purple",
         "color_2": "White",
+        "content_events": null,
+        "content_locations": [
+            "Redd's Co-op Raffle"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": "Bells",
@@ -836,6 +971,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Green",
         "color_2": "Green",
+        "content_events": null,
+        "content_locations": [
+            "Redd's Co-op Raffle"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": "Bells",
@@ -882,6 +1021,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Orange",
         "color_2": "White",
+        "content_events": null,
+        "content_locations": [
+            "Redd's Co-op Raffle"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": "Bells",
@@ -928,6 +1071,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Pink",
         "color_2": "Pink",
+        "content_events": null,
+        "content_locations": [
+            "Redd's Co-op Raffle"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": "Bells",
@@ -974,6 +1121,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Blue",
         "color_2": "White",
+        "content_events": null,
+        "content_locations": [
+            "Redd's Co-op Raffle"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": "Bells",
@@ -1020,6 +1171,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Yellow",
         "color_2": "Beige",
+        "content_events": null,
+        "content_locations": [
+            "Redd's Co-op Raffle"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": "Bells",
@@ -1066,6 +1221,12 @@
         "catalog_category": "Not for sale",
         "color_1": "Pink",
         "color_2": "Brown",
+        "content_events": [
+            "cherry-blossom petals"
+        ],
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": null,
@@ -1112,6 +1273,12 @@
         "catalog_category": "Seasonal",
         "color_1": "White",
         "color_2": "Aqua",
+        "content_events": [
+            "Shichi-Go-San"
+        ],
+        "content_locations": [
+            "Nook Shopping Seasonal"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": null,
@@ -1158,6 +1325,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Brown",
         "color_2": "Beige",
+        "content_events": null,
+        "content_locations": [
+            "Redd's Co-op Raffle"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": "Bells",
@@ -1204,6 +1375,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Beige",
         "color_2": "Brown",
+        "content_events": null,
+        "content_locations": [
+            "Redd's Co-op Raffle"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": "Bells",
@@ -1250,6 +1425,16 @@
         "catalog_category": "Not for sale",
         "color_1": "Brown",
         "color_2": "Beige",
+        "content_events": [
+            "Fireworks Show (1)",
+            "Fireworks Show (2)",
+            "Fireworks Show (3)",
+            "Fireworks Show (4)",
+            "Fireworks Show (5)"
+        ],
+        "content_locations": [
+            "Redd's Raffle"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": "Bells",
@@ -1296,6 +1481,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Brown",
         "color_2": "Beige",
+        "content_events": null,
+        "content_locations": [
+            "Redd's Co-op Raffle"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": "Bells",
@@ -1342,6 +1531,10 @@
         "catalog_category": "For sale",
         "color_1": "Yellow",
         "color_2": "Orange",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -1388,6 +1581,10 @@
         "catalog_category": "For sale",
         "color_1": "Orange",
         "color_2": "Yellow",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -1434,6 +1631,10 @@
         "catalog_category": "For sale",
         "color_1": "Aqua",
         "color_2": "Yellow",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -1480,6 +1681,10 @@
         "catalog_category": "For sale",
         "color_1": "Pink",
         "color_2": "Yellow",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -1526,6 +1731,10 @@
         "catalog_category": "For sale",
         "color_1": "Green",
         "color_2": "Blue",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -1572,6 +1781,10 @@
         "catalog_category": "For sale",
         "color_1": "Purple",
         "color_2": "Pink",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -1618,6 +1831,10 @@
         "catalog_category": "For sale",
         "color_1": "White",
         "color_2": "Blue",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -1664,6 +1881,10 @@
         "catalog_category": "For sale",
         "color_1": "Black",
         "color_2": "Green",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -1710,6 +1931,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Colorful",
         "color_2": "Black",
+        "content_events": null,
+        "content_locations": [
+            "Redd's Co-op Raffle"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": "Bells",
@@ -1756,6 +1981,10 @@
         "catalog_category": "For sale",
         "color_1": "Yellow",
         "color_2": "Orange",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -1802,6 +2031,10 @@
         "catalog_category": "For sale",
         "color_1": "Red",
         "color_2": "Yellow",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -1848,6 +2081,10 @@
         "catalog_category": "For sale",
         "color_1": "Orange",
         "color_2": "Blue",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -1894,6 +2131,10 @@
         "catalog_category": "For sale",
         "color_1": "Pink",
         "color_2": "Yellow",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -1940,6 +2181,10 @@
         "catalog_category": "For sale",
         "color_1": "Green",
         "color_2": "Blue",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -1986,6 +2231,10 @@
         "catalog_category": "For sale",
         "color_1": "Purple",
         "color_2": "Pink",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -2032,6 +2281,10 @@
         "catalog_category": "For sale",
         "color_1": "White",
         "color_2": "Blue",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -2078,6 +2331,10 @@
         "catalog_category": "For sale",
         "color_1": "Gray",
         "color_2": "Green",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -2124,6 +2381,10 @@
         "catalog_category": "For sale",
         "color_1": "Yellow",
         "color_2": "Blue",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -2170,6 +2431,10 @@
         "catalog_category": "For sale",
         "color_1": "Red",
         "color_2": "Green",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -2216,6 +2481,10 @@
         "catalog_category": "For sale",
         "color_1": "Blue",
         "color_2": "Orange",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -2262,6 +2531,10 @@
         "catalog_category": "For sale",
         "color_1": "Pink",
         "color_2": "Aqua",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -2308,6 +2581,10 @@
         "catalog_category": "For sale",
         "color_1": "Green",
         "color_2": "Yellow",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -2354,6 +2631,10 @@
         "catalog_category": "For sale",
         "color_1": "Purple",
         "color_2": "Green",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -2400,6 +2681,10 @@
         "catalog_category": "For sale",
         "color_1": "White",
         "color_2": "Orange",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -2446,6 +2731,10 @@
         "catalog_category": "For sale",
         "color_1": "Black",
         "color_2": "Yellow",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -2492,6 +2781,10 @@
         "catalog_category": "For sale",
         "color_1": "Yellow",
         "color_2": "Orange",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -2538,6 +2831,10 @@
         "catalog_category": "For sale",
         "color_1": "Red",
         "color_2": "Green",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -2584,6 +2881,10 @@
         "catalog_category": "For sale",
         "color_1": "Blue",
         "color_2": "Yellow",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -2630,6 +2931,10 @@
         "catalog_category": "For sale",
         "color_1": "Pink",
         "color_2": "Aqua",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -2676,6 +2981,10 @@
         "catalog_category": "For sale",
         "color_1": "Green",
         "color_2": "Blue",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -2722,6 +3031,10 @@
         "catalog_category": "For sale",
         "color_1": "Purple",
         "color_2": "Pink",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -2768,6 +3081,10 @@
         "catalog_category": "For sale",
         "color_1": "White",
         "color_2": "Red",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -2814,6 +3131,10 @@
         "catalog_category": "For sale",
         "color_1": "Black",
         "color_2": "Green",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -2860,6 +3181,10 @@
         "catalog_category": "For sale",
         "color_1": "Yellow",
         "color_2": "Blue",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -2906,6 +3231,10 @@
         "catalog_category": "For sale",
         "color_1": "Red",
         "color_2": "Green",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -2952,6 +3281,10 @@
         "catalog_category": "For sale",
         "color_1": "Blue",
         "color_2": "Orange",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -2998,6 +3331,10 @@
         "catalog_category": "For sale",
         "color_1": "Pink",
         "color_2": "Aqua",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -3044,6 +3381,10 @@
         "catalog_category": "For sale",
         "color_1": "Green",
         "color_2": "Yellow",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -3090,6 +3431,10 @@
         "catalog_category": "For sale",
         "color_1": "Purple",
         "color_2": "Green",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -3136,6 +3481,10 @@
         "catalog_category": "For sale",
         "color_1": "White",
         "color_2": "Orange",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -3182,6 +3531,10 @@
         "catalog_category": "For sale",
         "color_1": "Black",
         "color_2": "Yellow",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -3228,6 +3581,10 @@
         "catalog_category": "Not for sale",
         "color_1": "White",
         "color_2": "Green",
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": null,
@@ -3274,6 +3631,10 @@
         "catalog_category": "For sale",
         "color_1": "Black",
         "color_2": "Gray",
+        "content_events": null,
+        "content_locations": [
+            "Group Stretching"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -3320,6 +3681,10 @@
         "catalog_category": "For sale",
         "color_1": "White",
         "color_2": "Gray",
+        "content_events": null,
+        "content_locations": [
+            "Group Stretching"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -3366,6 +3731,10 @@
         "catalog_category": "For sale",
         "color_1": "Red",
         "color_2": "Gray",
+        "content_events": null,
+        "content_locations": [
+            "Group Stretching"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -3412,6 +3781,10 @@
         "catalog_category": "For sale",
         "color_1": "Yellow",
         "color_2": "Gray",
+        "content_events": null,
+        "content_locations": [
+            "Group Stretching"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -3458,6 +3831,10 @@
         "catalog_category": "For sale",
         "color_1": "Yellow",
         "color_2": "Yellow",
+        "content_events": null,
+        "content_locations": [
+            "Group Stretching"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -3504,6 +3881,10 @@
         "catalog_category": "For sale",
         "color_1": "Gray",
         "color_2": "Gray",
+        "content_events": null,
+        "content_locations": [
+            "Group Stretching"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -3550,6 +3931,10 @@
         "catalog_category": "For sale",
         "color_1": "Beige",
         "color_2": "Brown",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": null,
@@ -3596,6 +3981,10 @@
         "catalog_category": "For sale",
         "color_1": "Gray",
         "color_2": "Gray",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -3642,6 +4031,10 @@
         "catalog_category": "For sale",
         "color_1": "Green",
         "color_2": "Green",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -3688,6 +4081,10 @@
         "catalog_category": "For sale",
         "color_1": "Blue",
         "color_2": "Blue",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -3734,6 +4131,10 @@
         "catalog_category": "For sale",
         "color_1": "Pink",
         "color_2": "Pink",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -3780,6 +4181,10 @@
         "catalog_category": "For sale",
         "color_1": "Red",
         "color_2": "Red",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -3826,6 +4231,10 @@
         "catalog_category": "For sale",
         "color_1": "Yellow",
         "color_2": "Yellow",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -3872,6 +4281,10 @@
         "catalog_category": "For sale",
         "color_1": "Aqua",
         "color_2": "Aqua",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -3918,6 +4331,10 @@
         "catalog_category": "For sale",
         "color_1": "Black",
         "color_2": "Black",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -3964,6 +4381,12 @@
         "catalog_category": "Seasonal",
         "color_1": "Red",
         "color_2": "Black",
+        "content_events": [
+            "Big Game Celebration"
+        ],
+        "content_locations": [
+            "Nook Shopping Seasonal"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": null,
@@ -4010,6 +4433,10 @@
         "catalog_category": "For sale",
         "color_1": "Green",
         "color_2": "Black",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -4056,6 +4483,10 @@
         "catalog_category": "For sale",
         "color_1": "Yellow",
         "color_2": "Black",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -4102,6 +4533,10 @@
         "catalog_category": "For sale",
         "color_1": "Orange",
         "color_2": "Black",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -4148,6 +4583,10 @@
         "catalog_category": "For sale",
         "color_1": "Aqua",
         "color_2": "Black",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -4194,6 +4633,10 @@
         "catalog_category": "For sale",
         "color_1": "Blue",
         "color_2": "Black",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -4240,6 +4683,10 @@
         "catalog_category": "For sale",
         "color_1": "Purple",
         "color_2": "Black",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -4286,6 +4733,10 @@
         "catalog_category": "For sale",
         "color_1": "Pink",
         "color_2": "Black",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -4332,6 +4783,10 @@
         "catalog_category": "For sale",
         "color_1": "Red",
         "color_2": "Black",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -4378,6 +4833,15 @@
         "catalog_category": "Not for sale",
         "color_1": "Blue",
         "color_2": "Yellow",
+        "content_events": [
+            "Fishing Tourney (Spring)",
+            "Fishing Tourney (Summer)",
+            "Fishing Tourney (Fall)",
+            "Fishing Tourney (Winter)"
+        ],
+        "content_locations": [
+            "C.J."
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": null,
@@ -4424,6 +4888,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Blue",
         "color_2": "Beige",
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -4470,6 +4938,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Yellow",
         "color_2": "Beige",
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -4516,6 +4988,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Green",
         "color_2": "Beige",
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -4562,6 +5038,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Red",
         "color_2": "Beige",
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -4608,6 +5088,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Purple",
         "color_2": "Beige",
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -4654,6 +5138,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Pink",
         "color_2": "Beige",
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -4700,6 +5188,10 @@
         "catalog_category": "Not for sale",
         "color_1": "White",
         "color_2": "Beige",
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -4746,6 +5238,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Black",
         "color_2": "Beige",
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -4792,6 +5288,13 @@
         "catalog_category": "For sale",
         "color_1": "Beige",
         "color_2": "Gray",
+        "content_events": null,
+        "content_locations": [
+            "Crafting",
+            "Nook's Cranny",
+            "Wilbur",
+            "Kapp'n"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": "Nook Miles",
@@ -4838,6 +5341,13 @@
         "catalog_category": "For sale",
         "color_1": "Beige",
         "color_2": "White",
+        "content_events": null,
+        "content_locations": [
+            "Crafting",
+            "Nook's Cranny",
+            "Wilbur",
+            "Kapp'n"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": "Nook Miles",
@@ -4884,6 +5394,13 @@
         "catalog_category": "For sale",
         "color_1": "Beige",
         "color_2": "White",
+        "content_events": null,
+        "content_locations": [
+            "Crafting",
+            "Nook's Cranny",
+            "Wilbur",
+            "Kapp'n"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": "Nook Miles",
@@ -4930,6 +5447,13 @@
         "catalog_category": "For sale",
         "color_1": "Beige",
         "color_2": "Beige",
+        "content_events": null,
+        "content_locations": [
+            "Crafting",
+            "Nook's Cranny",
+            "Wilbur",
+            "Kapp'n"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": "Nook Miles",
@@ -4976,6 +5500,11 @@
         "catalog_category": "For sale",
         "color_1": "Beige",
         "color_2": "Gray",
+        "content_events": null,
+        "content_locations": [
+            "Crafting",
+            "Nook's Cranny"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": null,
@@ -5022,6 +5551,12 @@
         "catalog_category": "Seasonal",
         "color_1": "Brown",
         "color_2": "Pink",
+        "content_events": [
+            "Wedding Season (Nook Shopping)"
+        ],
+        "content_locations": [
+            "Nook Shopping Seasonal"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": null,
@@ -5068,6 +5603,12 @@
         "catalog_category": "Seasonal",
         "color_1": "Orange",
         "color_2": "White",
+        "content_events": [
+            "Big Game Celebration"
+        ],
+        "content_locations": [
+            "Nook Shopping Seasonal"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": null,
@@ -5114,6 +5655,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Green",
         "color_2": "Green",
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": null,
@@ -5160,6 +5705,12 @@
         "catalog_category": "Seasonal",
         "color_1": "Blue",
         "color_2": "Aqua",
+        "content_events": [
+            "Big Game Celebration"
+        ],
+        "content_locations": [
+            "Nook Shopping Seasonal"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": null,
@@ -5206,6 +5757,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Yellow",
         "color_2": "Orange",
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": null,
@@ -5252,6 +5807,10 @@
         "catalog_category": "Not in catalog",
         "color_1": null,
         "color_2": null,
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": null,
@@ -5298,6 +5857,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Yellow",
         "color_2": "Purple",
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": null,
@@ -5344,6 +5907,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Yellow",
         "color_2": "Orange",
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": null,
@@ -5390,6 +5957,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Yellow",
         "color_2": "Purple",
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": null,
@@ -5436,6 +6007,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Yellow",
         "color_2": "Orange",
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": null,
@@ -5482,6 +6057,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Yellow",
         "color_2": "Brown",
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": null,
@@ -5528,6 +6107,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Yellow",
         "color_2": "Purple",
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": null,
@@ -5574,6 +6157,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Green",
         "color_2": "White",
+        "content_events": null,
+        "content_locations": [
+            "Redd's Co-op Raffle"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": "Bells",
@@ -5620,6 +6207,17 @@
         "catalog_category": "For sale",
         "color_1": "Green",
         "color_2": "Green",
+        "content_events": [
+            "Fireworks Show (1)",
+            "Fireworks Show (2)",
+            "Fireworks Show (3)",
+            "Fireworks Show (4)",
+            "Fireworks Show (5)"
+        ],
+        "content_locations": [
+            "Redd's Raffle",
+            "Nook's Cranny"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": "Bells",
@@ -5666,6 +6264,12 @@
         "catalog_category": "Seasonal",
         "color_1": "Black",
         "color_2": "Yellow",
+        "content_events": [
+            "Lantern Festival"
+        ],
+        "content_locations": [
+            "Nook Shopping Seasonal"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -5712,6 +6316,12 @@
         "catalog_category": "Seasonal",
         "color_1": "Black",
         "color_2": "Yellow",
+        "content_events": [
+            "Lantern Festival"
+        ],
+        "content_locations": [
+            "Nook Shopping Seasonal"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -5758,6 +6368,12 @@
         "catalog_category": "Seasonal",
         "color_1": "Colorful",
         "color_2": "Orange",
+        "content_events": [
+            "Lantern Festival"
+        ],
+        "content_locations": [
+            "Nook Shopping Seasonal"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -5804,6 +6420,12 @@
         "catalog_category": "Seasonal",
         "color_1": "Yellow",
         "color_2": "Orange",
+        "content_events": [
+            "Lantern Festival"
+        ],
+        "content_locations": [
+            "Nook Shopping Seasonal"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -5850,6 +6472,12 @@
         "catalog_category": "Seasonal",
         "color_1": "Yellow",
         "color_2": "White",
+        "content_events": [
+            "Lantern Festival"
+        ],
+        "content_locations": [
+            "Nook Shopping Seasonal"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -5896,6 +6524,12 @@
         "catalog_category": "Seasonal",
         "color_1": "Yellow",
         "color_2": "Green",
+        "content_events": [
+            "Lantern Festival"
+        ],
+        "content_locations": [
+            "Nook Shopping Seasonal"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -5942,6 +6576,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Pink",
         "color_2": "Green",
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": null,
@@ -5988,6 +6626,12 @@
         "catalog_category": "Not for sale",
         "color_1": "Aqua",
         "color_2": "Blue",
+        "content_events": [
+            "snowflakes"
+        ],
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": null,
@@ -6034,6 +6678,10 @@
         "catalog_category": "Not in catalog",
         "color_1": null,
         "color_2": null,
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -6080,6 +6728,10 @@
         "catalog_category": "Not in catalog",
         "color_1": null,
         "color_2": null,
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -6126,6 +6778,10 @@
         "catalog_category": "Not in catalog",
         "color_1": null,
         "color_2": null,
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -6172,6 +6828,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Gray",
         "color_2": "Gray",
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": null,
@@ -6218,6 +6878,10 @@
         "catalog_category": "Not in catalog",
         "color_1": "Yellow",
         "color_2": "White",
+        "content_events": null,
+        "content_locations": [
+            "Nook Shopping Promotion"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": null,
@@ -6264,6 +6928,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Brown",
         "color_2": "Brown",
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": null,
@@ -6310,6 +6978,13 @@
         "catalog_category": "For sale",
         "color_1": "Yellow",
         "color_2": "White",
+        "content_events": [
+            "Countdown"
+        ],
+        "content_locations": [
+            "Isabelle",
+            "Nook's Cranny"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": null,
@@ -6356,6 +7031,10 @@
         "catalog_category": "Not for sale",
         "color_1": "White",
         "color_2": "Green",
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": null,
@@ -6402,6 +7081,12 @@
         "catalog_category": "Not in catalog",
         "color_1": null,
         "color_2": null,
+        "content_events": [
+            "Toy Day"
+        ],
+        "content_locations": [
+            "Jingle"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": null,
@@ -6448,6 +7133,11 @@
         "catalog_category": "For sale",
         "color_1": "Orange",
         "color_2": "Yellow",
+        "content_events": null,
+        "content_locations": [
+            "Nintendo",
+            "Nook Shopping Daily Selection"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": null,
@@ -6494,6 +7184,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Green",
         "color_2": "Green",
+        "content_events": null,
+        "content_locations": [
+            "Redd's Co-op Raffle"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": "Bells",
@@ -6540,6 +7234,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Green",
         "color_2": "Beige",
+        "content_events": null,
+        "content_locations": [
+            "Redd's Co-op Raffle"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": "Bells",
@@ -6586,6 +7284,16 @@
         "catalog_category": "Not for sale",
         "color_1": "Green",
         "color_2": "Beige",
+        "content_events": [
+            "Fireworks Show (1)",
+            "Fireworks Show (2)",
+            "Fireworks Show (3)",
+            "Fireworks Show (4)",
+            "Fireworks Show (5)"
+        ],
+        "content_locations": [
+            "Redd's Raffle"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": "Bells",
@@ -6632,6 +7340,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Green",
         "color_2": "Yellow",
+        "content_events": null,
+        "content_locations": [
+            "Redd's Co-op Raffle"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": "Bells",
@@ -6678,6 +7390,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Yellow",
         "color_2": "Green",
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": null,
@@ -6724,6 +7440,12 @@
         "catalog_category": "Not for sale",
         "color_1": "Brown",
         "color_2": "Beige",
+        "content_events": [
+            "mushrooms"
+        ],
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -6770,6 +7492,12 @@
         "catalog_category": "Not for sale",
         "color_1": "White",
         "color_2": "White",
+        "content_events": [
+            "mushrooms"
+        ],
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -6816,6 +7544,12 @@
         "catalog_category": "Not for sale",
         "color_1": "Purple",
         "color_2": "Purple",
+        "content_events": [
+            "mushrooms"
+        ],
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -6862,6 +7596,12 @@
         "catalog_category": "Not for sale",
         "color_1": "Red",
         "color_2": "White",
+        "content_events": [
+            "mushrooms"
+        ],
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -6908,6 +7648,12 @@
         "catalog_category": "Not for sale",
         "color_1": "Yellow",
         "color_2": "Yellow",
+        "content_events": [
+            "mushrooms"
+        ],
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -6954,6 +7700,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Red",
         "color_2": "Beige",
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -7000,6 +7750,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Yellow",
         "color_2": "Beige",
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -7046,6 +7800,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Green",
         "color_2": "Beige",
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -7092,6 +7850,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Blue",
         "color_2": "Beige",
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -7138,6 +7900,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Purple",
         "color_2": "Beige",
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -7184,6 +7950,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Pink",
         "color_2": "Beige",
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -7230,6 +8000,10 @@
         "catalog_category": "Not for sale",
         "color_1": "White",
         "color_2": "Beige",
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -7276,6 +8050,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Black",
         "color_2": "Beige",
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -7322,6 +8100,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Brown",
         "color_2": "Green",
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": null,
@@ -7368,6 +8150,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Green",
         "color_2": "White",
+        "content_events": null,
+        "content_locations": [
+            "NookLink"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": "Nook Points",
@@ -7414,6 +8200,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Orange",
         "color_2": "Yellow",
+        "content_events": null,
+        "content_locations": [
+            "Nook Miles Redemption"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": "Nook Miles",
@@ -7460,6 +8250,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Green",
         "color_2": "White",
+        "content_events": null,
+        "content_locations": [
+            "Nook Miles Redemption"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": "Nook Miles",
@@ -7506,6 +8300,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Beige",
         "color_2": "Beige",
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": null,
@@ -7552,6 +8350,16 @@
         "catalog_category": "Not for sale",
         "color_1": "Orange",
         "color_2": "Beige",
+        "content_events": [
+            "Fireworks Show (1)",
+            "Fireworks Show (2)",
+            "Fireworks Show (3)",
+            "Fireworks Show (4)",
+            "Fireworks Show (5)"
+        ],
+        "content_locations": [
+            "Redd's Raffle"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": "Bells",
@@ -7598,6 +8406,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Orange",
         "color_2": "Green",
+        "content_events": null,
+        "content_locations": [
+            "Redd's Co-op Raffle"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": "Bells",
@@ -7644,6 +8456,10 @@
         "catalog_category": "For sale",
         "color_1": "Green",
         "color_2": "Black",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -7690,6 +8506,10 @@
         "catalog_category": "For sale",
         "color_1": "Orange",
         "color_2": "Black",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -7736,6 +8556,10 @@
         "catalog_category": "For sale",
         "color_1": "Aqua",
         "color_2": "Black",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -7782,6 +8606,10 @@
         "catalog_category": "For sale",
         "color_1": "Red",
         "color_2": "Black",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -7828,6 +8656,10 @@
         "catalog_category": "For sale",
         "color_1": "Beige",
         "color_2": "Black",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -7874,6 +8706,10 @@
         "catalog_category": "For sale",
         "color_1": "Pink",
         "color_2": "Black",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -7920,6 +8756,10 @@
         "catalog_category": "For sale",
         "color_1": "Yellow",
         "color_2": "Black",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -7966,6 +8806,10 @@
         "catalog_category": "For sale",
         "color_1": "Black",
         "color_2": "Black",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -8012,6 +8856,10 @@
         "catalog_category": "For sale",
         "color_1": "Green",
         "color_2": "Gray",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -8058,6 +8906,10 @@
         "catalog_category": "For sale",
         "color_1": "Orange",
         "color_2": "Gray",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -8104,6 +8956,10 @@
         "catalog_category": "For sale",
         "color_1": "Aqua",
         "color_2": "Gray",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -8150,6 +9006,10 @@
         "catalog_category": "For sale",
         "color_1": "Red",
         "color_2": "Gray",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -8196,6 +9056,10 @@
         "catalog_category": "For sale",
         "color_1": "Beige",
         "color_2": "Gray",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -8242,6 +9106,10 @@
         "catalog_category": "For sale",
         "color_1": "Pink",
         "color_2": "Gray",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -8288,6 +9156,10 @@
         "catalog_category": "For sale",
         "color_1": "Yellow",
         "color_2": "Gray",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -8334,6 +9206,10 @@
         "catalog_category": "For sale",
         "color_1": "Black",
         "color_2": "Gray",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -8380,6 +9256,10 @@
         "catalog_category": "For sale",
         "color_1": "Green",
         "color_2": "Gray",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -8426,6 +9306,10 @@
         "catalog_category": "For sale",
         "color_1": "Orange",
         "color_2": "Gray",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -8472,6 +9356,10 @@
         "catalog_category": "For sale",
         "color_1": "Aqua",
         "color_2": "Gray",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -8518,6 +9406,10 @@
         "catalog_category": "For sale",
         "color_1": "Red",
         "color_2": "Gray",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -8564,6 +9456,10 @@
         "catalog_category": "For sale",
         "color_1": "Beige",
         "color_2": "Gray",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -8610,6 +9506,10 @@
         "catalog_category": "For sale",
         "color_1": "Pink",
         "color_2": "Gray",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -8656,6 +9556,10 @@
         "catalog_category": "For sale",
         "color_1": "Yellow",
         "color_2": "Gray",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -8702,6 +9606,10 @@
         "catalog_category": "For sale",
         "color_1": "Black",
         "color_2": "Gray",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -8748,6 +9656,10 @@
         "catalog_category": "For sale",
         "color_1": "Green",
         "color_2": "Gray",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -8794,6 +9706,10 @@
         "catalog_category": "For sale",
         "color_1": "Orange",
         "color_2": "Gray",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -8840,6 +9756,10 @@
         "catalog_category": "For sale",
         "color_1": "Aqua",
         "color_2": "Gray",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -8886,6 +9806,10 @@
         "catalog_category": "For sale",
         "color_1": "Red",
         "color_2": "Gray",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -8932,6 +9856,10 @@
         "catalog_category": "For sale",
         "color_1": "Beige",
         "color_2": "Gray",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -8978,6 +9906,10 @@
         "catalog_category": "For sale",
         "color_1": "Pink",
         "color_2": "Gray",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -9024,6 +9956,10 @@
         "catalog_category": "For sale",
         "color_1": "Yellow",
         "color_2": "Gray",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -9070,6 +10006,10 @@
         "catalog_category": "For sale",
         "color_1": "Black",
         "color_2": "Gray",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -9116,6 +10056,10 @@
         "catalog_category": "For sale",
         "color_1": "Green",
         "color_2": "Black",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -9162,6 +10106,10 @@
         "catalog_category": "For sale",
         "color_1": "Orange",
         "color_2": "Black",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -9208,6 +10156,10 @@
         "catalog_category": "For sale",
         "color_1": "Aqua",
         "color_2": "Black",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -9254,6 +10206,10 @@
         "catalog_category": "For sale",
         "color_1": "Red",
         "color_2": "Black",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -9300,6 +10256,10 @@
         "catalog_category": "For sale",
         "color_1": "Beige",
         "color_2": "Black",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -9346,6 +10306,10 @@
         "catalog_category": "For sale",
         "color_1": "Pink",
         "color_2": "Black",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -9392,6 +10356,10 @@
         "catalog_category": "For sale",
         "color_1": "Yellow",
         "color_2": "Black",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -9438,6 +10406,10 @@
         "catalog_category": "For sale",
         "color_1": "Black",
         "color_2": "Black",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -9484,6 +10456,12 @@
         "catalog_category": "Not for sale",
         "color_1": "Beige",
         "color_2": "Brown",
+        "content_events": [
+            "young spring bamboo"
+        ],
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": null,
@@ -9530,6 +10508,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Yellow",
         "color_2": "Green",
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": null,
@@ -9576,6 +10558,13 @@
         "catalog_category": "For sale",
         "color_1": "Red",
         "color_2": "Yellow",
+        "content_events": [
+            "Countdown"
+        ],
+        "content_locations": [
+            "Nook's Cranny",
+            "Tom Nook"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": null,
@@ -9622,6 +10611,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Pink",
         "color_2": "White",
+        "content_events": null,
+        "content_locations": [
+            "Redd's Co-op Raffle"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": "Bells",
@@ -9668,6 +10661,17 @@
         "catalog_category": "For sale",
         "color_1": "Pink",
         "color_2": "Pink",
+        "content_events": [
+            "Fireworks Show (1)",
+            "Fireworks Show (2)",
+            "Fireworks Show (3)",
+            "Fireworks Show (4)",
+            "Fireworks Show (5)"
+        ],
+        "content_locations": [
+            "Redd's Raffle",
+            "Nook's Cranny"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": "Bells",
@@ -9714,6 +10718,17 @@
         "catalog_category": "For sale",
         "color_1": "Yellow",
         "color_2": "Red",
+        "content_events": [
+            "Fireworks Show (1)",
+            "Fireworks Show (2)",
+            "Fireworks Show (3)",
+            "Fireworks Show (4)",
+            "Fireworks Show (5)"
+        ],
+        "content_locations": [
+            "Redd's Raffle",
+            "Nook's Cranny"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": "Bells",
@@ -9760,6 +10775,16 @@
         "catalog_category": "Not for sale",
         "color_1": "White",
         "color_2": "Beige",
+        "content_events": [
+            "Fireworks Show (1)",
+            "Fireworks Show (2)",
+            "Fireworks Show (3)",
+            "Fireworks Show (4)",
+            "Fireworks Show (5)"
+        ],
+        "content_locations": [
+            "Redd's Raffle"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": "Bells",
@@ -9806,6 +10831,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Aqua",
         "color_2": "Colorful",
+        "content_events": null,
+        "content_locations": [
+            "Redd's Co-op Raffle"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": "Bells",
@@ -9852,6 +10881,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Blue",
         "color_2": "Colorful",
+        "content_events": null,
+        "content_locations": [
+            "Redd's Co-op Raffle"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": "Bells",
@@ -9898,6 +10931,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Gray",
         "color_2": "Colorful",
+        "content_events": null,
+        "content_locations": [
+            "Redd's Co-op Raffle"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": "Bells",
@@ -9944,6 +10981,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Orange",
         "color_2": "Colorful",
+        "content_events": null,
+        "content_locations": [
+            "Redd's Co-op Raffle"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": "Bells",
@@ -9990,6 +11031,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Blue",
         "color_2": "White",
+        "content_events": null,
+        "content_locations": [
+            "Redd's Co-op Raffle"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": "Bells",
@@ -10036,6 +11081,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Purple",
         "color_2": "Colorful",
+        "content_events": null,
+        "content_locations": [
+            "Redd's Co-op Raffle"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": "Bells",
@@ -10082,6 +11131,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Green",
         "color_2": "Colorful",
+        "content_events": null,
+        "content_locations": [
+            "Redd's Co-op Raffle"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": "Bells",
@@ -10128,6 +11181,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Aqua",
         "color_2": "Colorful",
+        "content_events": null,
+        "content_locations": [
+            "Redd's Co-op Raffle"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": "Bells",
@@ -10174,6 +11231,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Brown",
         "color_2": "Beige",
+        "content_events": null,
+        "content_locations": [
+            "Redd's Co-op Raffle"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": "Bells",
@@ -10220,6 +11281,10 @@
         "catalog_category": "For sale",
         "color_1": "Aqua",
         "color_2": "Beige",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -10266,6 +11331,10 @@
         "catalog_category": "For sale",
         "color_1": "White",
         "color_2": "Beige",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -10312,6 +11381,10 @@
         "catalog_category": "For sale",
         "color_1": "Yellow",
         "color_2": "Beige",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -10358,6 +11431,10 @@
         "catalog_category": "For sale",
         "color_1": "Pink",
         "color_2": "Beige",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -10404,6 +11481,10 @@
         "catalog_category": "For sale",
         "color_1": "Green",
         "color_2": "Beige",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -10450,6 +11531,10 @@
         "catalog_category": "For sale",
         "color_1": "Blue",
         "color_2": "Beige",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -10496,6 +11581,10 @@
         "catalog_category": "For sale",
         "color_1": "Purple",
         "color_2": "Beige",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -10542,6 +11631,10 @@
         "catalog_category": "For sale",
         "color_1": "Black",
         "color_2": "Beige",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -10588,6 +11681,10 @@
         "catalog_category": "For sale",
         "color_1": "Red",
         "color_2": "Beige",
+        "content_events": null,
+        "content_locations": [
+            "Group Stretching"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -10634,6 +11731,10 @@
         "catalog_category": "For sale",
         "color_1": "Blue",
         "color_2": "Beige",
+        "content_events": null,
+        "content_locations": [
+            "Group Stretching"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -10680,6 +11781,10 @@
         "catalog_category": "For sale",
         "color_1": "Green",
         "color_2": "Brown",
+        "content_events": null,
+        "content_locations": [
+            "Group Stretching"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -10726,6 +11831,10 @@
         "catalog_category": "For sale",
         "color_1": "Pink",
         "color_2": "Pink",
+        "content_events": null,
+        "content_locations": [
+            "Group Stretching"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -10772,6 +11881,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Colorful",
         "color_2": "Beige",
+        "content_events": null,
+        "content_locations": [
+            "Redd's Co-op Raffle"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": "Bells",
@@ -10818,6 +11931,16 @@
         "catalog_category": "Not for sale",
         "color_1": "Aqua",
         "color_2": "Beige",
+        "content_events": [
+            "Fireworks Show (1)",
+            "Fireworks Show (2)",
+            "Fireworks Show (3)",
+            "Fireworks Show (4)",
+            "Fireworks Show (5)"
+        ],
+        "content_locations": [
+            "Redd's Raffle"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": "Bells",
@@ -10864,6 +11987,16 @@
         "catalog_category": "Not for sale",
         "color_1": "Aqua",
         "color_2": "Beige",
+        "content_events": [
+            "Fireworks Show (1)",
+            "Fireworks Show (2)",
+            "Fireworks Show (3)",
+            "Fireworks Show (4)",
+            "Fireworks Show (5)"
+        ],
+        "content_locations": [
+            "Redd's Raffle"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": "Bells",
@@ -10910,6 +12043,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Aqua",
         "color_2": "Yellow",
+        "content_events": null,
+        "content_locations": [
+            "Redd's Co-op Raffle"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": "Bells",
@@ -10956,6 +12093,17 @@
         "catalog_category": "For sale",
         "color_1": "Red",
         "color_2": "Red",
+        "content_events": [
+            "Fireworks Show (1)",
+            "Fireworks Show (2)",
+            "Fireworks Show (3)",
+            "Fireworks Show (4)",
+            "Fireworks Show (5)"
+        ],
+        "content_locations": [
+            "Redd's Raffle",
+            "Nook's Cranny"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": "Bells",
@@ -11002,6 +12150,17 @@
         "catalog_category": "For sale",
         "color_1": "Red",
         "color_2": "Colorful",
+        "content_events": [
+            "Fireworks Show (1)",
+            "Fireworks Show (2)",
+            "Fireworks Show (3)",
+            "Fireworks Show (4)",
+            "Fireworks Show (5)"
+        ],
+        "content_locations": [
+            "Redd's Raffle",
+            "Nook's Cranny"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": "Bells",
@@ -11048,6 +12207,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Red",
         "color_2": "Green",
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": null,
@@ -11094,6 +12257,12 @@
         "catalog_category": "Seasonal",
         "color_1": "Green",
         "color_2": "White",
+        "content_events": [
+            "Shamrock Day"
+        ],
+        "content_locations": [
+            "Nook Shopping Seasonal"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": null,
@@ -11140,6 +12309,12 @@
         "catalog_category": "Not for sale",
         "color_1": "Green",
         "color_2": "Black",
+        "content_events": [
+            "Shamrock Day"
+        ],
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": null,
@@ -11186,6 +12361,12 @@
         "catalog_category": "Not for sale",
         "color_1": "Pink",
         "color_2": "Aqua",
+        "content_events": [
+            "summer shells"
+        ],
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": null,
@@ -11232,6 +12413,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Red",
         "color_2": "Black",
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -11278,6 +12463,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Yellow",
         "color_2": "Black",
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -11324,6 +12513,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Green",
         "color_2": "Black",
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -11370,6 +12563,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Blue",
         "color_2": "Black",
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -11416,6 +12613,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Purple",
         "color_2": "Black",
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -11462,6 +12663,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Pink",
         "color_2": "Black",
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -11508,6 +12713,10 @@
         "catalog_category": "Not for sale",
         "color_1": "White",
         "color_2": "Black",
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -11554,6 +12763,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Black",
         "color_2": "Black",
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -11600,6 +12813,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Aqua",
         "color_2": "White",
+        "content_events": null,
+        "content_locations": [
+            "Redd's Co-op Raffle"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": "Bells",
@@ -11646,6 +12863,11 @@
         "catalog_category": "For sale",
         "color_1": "Red",
         "color_2": "Beige",
+        "content_events": null,
+        "content_locations": [
+            "Crafting",
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -11692,6 +12914,11 @@
         "catalog_category": "For sale",
         "color_1": "Yellow",
         "color_2": "Beige",
+        "content_events": null,
+        "content_locations": [
+            "Crafting",
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -11738,6 +12965,11 @@
         "catalog_category": "For sale",
         "color_1": "Green",
         "color_2": "Beige",
+        "content_events": null,
+        "content_locations": [
+            "Crafting",
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -11784,6 +13016,11 @@
         "catalog_category": "For sale",
         "color_1": "Blue",
         "color_2": "Beige",
+        "content_events": null,
+        "content_locations": [
+            "Crafting",
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -11830,6 +13067,11 @@
         "catalog_category": "For sale",
         "color_1": "Purple",
         "color_2": "Beige",
+        "content_events": null,
+        "content_locations": [
+            "Crafting",
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -11876,6 +13118,11 @@
         "catalog_category": "For sale",
         "color_1": "Pink",
         "color_2": "Beige",
+        "content_events": null,
+        "content_locations": [
+            "Crafting",
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -11922,6 +13169,11 @@
         "catalog_category": "For sale",
         "color_1": "White",
         "color_2": "Beige",
+        "content_events": null,
+        "content_locations": [
+            "Crafting",
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -11968,6 +13220,11 @@
         "catalog_category": "For sale",
         "color_1": "Gray",
         "color_2": "Beige",
+        "content_events": null,
+        "content_locations": [
+            "Crafting",
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -12014,6 +13271,12 @@
         "catalog_category": "Seasonal",
         "color_1": "Yellow",
         "color_2": "Aqua",
+        "content_events": [
+            "New Year's Eve"
+        ],
+        "content_locations": [
+            "Nook Shopping Seasonal"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": null,
@@ -12060,6 +13323,14 @@
         "catalog_category": "Not for sale",
         "color_1": "Orange",
         "color_2": "Black",
+        "content_events": [
+            "Halloween (days before)",
+            "Halloween"
+        ],
+        "content_locations": [
+            "Crafting",
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -12106,6 +13377,14 @@
         "catalog_category": "Not for sale",
         "color_1": "Yellow",
         "color_2": "Black",
+        "content_events": [
+            "Halloween (days before)",
+            "Halloween"
+        ],
+        "content_locations": [
+            "Crafting",
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -12152,6 +13431,14 @@
         "catalog_category": "Not for sale",
         "color_1": "Green",
         "color_2": "Black",
+        "content_events": [
+            "Halloween (days before)",
+            "Halloween"
+        ],
+        "content_locations": [
+            "Crafting",
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -12198,6 +13485,14 @@
         "catalog_category": "Not for sale",
         "color_1": "White",
         "color_2": "Black",
+        "content_events": [
+            "Halloween (days before)",
+            "Halloween"
+        ],
+        "content_locations": [
+            "Crafting",
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -12244,6 +13539,13 @@
         "catalog_category": "Not for sale",
         "color_1": "Orange",
         "color_2": "Black",
+        "content_events": [
+            "Halloween"
+        ],
+        "content_locations": [
+            "Crafting",
+            "Jack"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": null,
@@ -12290,6 +13592,10 @@
         "catalog_category": "For sale",
         "color_1": "Yellow",
         "color_2": "Yellow",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -12336,6 +13642,10 @@
         "catalog_category": "For sale",
         "color_1": "Red",
         "color_2": "Red",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -12382,6 +13692,10 @@
         "catalog_category": "For sale",
         "color_1": "Blue",
         "color_2": "Blue",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -12428,6 +13742,10 @@
         "catalog_category": "For sale",
         "color_1": "Green",
         "color_2": "Green",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -12474,6 +13792,10 @@
         "catalog_category": "For sale",
         "color_1": "Pink",
         "color_2": "Pink",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -12520,6 +13842,10 @@
         "catalog_category": "For sale",
         "color_1": "Purple",
         "color_2": "Purple",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -12566,6 +13892,10 @@
         "catalog_category": "For sale",
         "color_1": "Aqua",
         "color_2": "Aqua",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -12612,6 +13942,10 @@
         "catalog_category": "For sale",
         "color_1": "Green",
         "color_2": "Green",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -12658,6 +13992,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Yellow",
         "color_2": "Aqua",
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": null,
@@ -12704,6 +14042,12 @@
         "catalog_category": "Seasonal",
         "color_1": "Yellow",
         "color_2": "Colorful",
+        "content_events": [
+            "Big Game Celebration"
+        ],
+        "content_locations": [
+            "Nook Shopping Seasonal"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": null,
@@ -12750,6 +14094,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Beige",
         "color_2": "Gray",
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": null,
@@ -12796,6 +14144,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Pink",
         "color_2": "Beige",
+        "content_events": null,
+        "content_locations": [
+            "Redd's Co-op Raffle"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": "Bells",
@@ -12842,6 +14194,16 @@
         "catalog_category": "Not for sale",
         "color_1": "Pink",
         "color_2": "Beige",
+        "content_events": [
+            "Fireworks Show (1)",
+            "Fireworks Show (2)",
+            "Fireworks Show (3)",
+            "Fireworks Show (4)",
+            "Fireworks Show (5)"
+        ],
+        "content_locations": [
+            "Redd's Raffle"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": "Bells",
@@ -12888,6 +14250,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Pink",
         "color_2": "Pink",
+        "content_events": null,
+        "content_locations": [
+            "Redd's Co-op Raffle"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": "Bells",
@@ -12934,6 +14300,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Brown",
         "color_2": "White",
+        "content_events": null,
+        "content_locations": [
+            "Brewster"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": null,
@@ -12980,6 +14350,10 @@
         "catalog_category": "For sale",
         "color_1": "White",
         "color_2": "Beige",
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": null,
@@ -13026,6 +14400,10 @@
         "catalog_category": "Not in catalog",
         "color_1": null,
         "color_2": null,
+        "content_events": null,
+        "content_locations": [
+            "Nook's Cranny"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": null,
@@ -13072,6 +14450,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Brown",
         "color_2": "White",
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": null,
@@ -13118,6 +14500,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Red",
         "color_2": "Green",
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": null,
@@ -13164,6 +14550,17 @@
         "catalog_category": "For sale",
         "color_1": "Yellow",
         "color_2": "Aqua",
+        "content_events": [
+            "Fireworks Show (1)",
+            "Fireworks Show (2)",
+            "Fireworks Show (3)",
+            "Fireworks Show (4)",
+            "Fireworks Show (5)"
+        ],
+        "content_locations": [
+            "Redd's Raffle",
+            "Nook's Cranny"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": "Bells",
@@ -13210,6 +14607,17 @@
         "catalog_category": "For sale",
         "color_1": "Blue",
         "color_2": "Purple",
+        "content_events": [
+            "Fireworks Show (1)",
+            "Fireworks Show (2)",
+            "Fireworks Show (3)",
+            "Fireworks Show (4)",
+            "Fireworks Show (5)"
+        ],
+        "content_locations": [
+            "Redd's Raffle",
+            "Nook's Cranny"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": "Bells",
@@ -13256,6 +14664,10 @@
         "catalog_category": "Not for sale",
         "color_1": "White",
         "color_2": "Beige",
+        "content_events": null,
+        "content_locations": [
+            "Redd's Co-op Raffle"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": "Bells",
@@ -13302,6 +14714,10 @@
         "catalog_category": "Not for sale",
         "color_1": "White",
         "color_2": "Beige",
+        "content_events": null,
+        "content_locations": [
+            "Redd's Co-op Raffle"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": "Bells",
@@ -13348,6 +14764,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Beige",
         "color_2": "Red",
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": null,
@@ -13394,6 +14814,10 @@
         "catalog_category": "Not in catalog",
         "color_1": null,
         "color_2": null,
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -13440,6 +14864,10 @@
         "catalog_category": "Not in catalog",
         "color_1": null,
         "color_2": null,
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -13486,6 +14914,10 @@
         "catalog_category": "Not in catalog",
         "color_1": null,
         "color_2": null,
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -13532,6 +14964,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Brown",
         "color_2": "Brown",
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": null,
@@ -13578,6 +15014,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Blue",
         "color_2": "Blue",
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -13624,6 +15064,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Orange",
         "color_2": "Orange",
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -13670,6 +15114,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Green",
         "color_2": "Green",
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -13716,6 +15164,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Red",
         "color_2": "Red",
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -13762,6 +15214,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Purple",
         "color_2": "Purple",
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -13808,6 +15264,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Pink",
         "color_2": "Pink",
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -13854,6 +15314,10 @@
         "catalog_category": "Not for sale",
         "color_1": "White",
         "color_2": "White",
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -13900,6 +15364,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Black",
         "color_2": "Black",
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -13946,6 +15414,12 @@
         "catalog_category": "Not for sale",
         "color_1": "Pink",
         "color_2": "Aqua",
+        "content_events": [
+            "Wedding Season"
+        ],
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": null,
@@ -13992,6 +15466,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Brown",
         "color_2": "White",
+        "content_events": null,
+        "content_locations": [
+            "Redd's Co-op Raffle"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": "Bells",
@@ -14038,6 +15516,10 @@
         "catalog_category": "Not for sale",
         "color_1": "Orange",
         "color_2": "Green",
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": null,
@@ -14084,6 +15566,10 @@
         "catalog_category": "Not in catalog",
         "color_1": null,
         "color_2": null,
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -14130,6 +15616,10 @@
         "catalog_category": "Not in catalog",
         "color_1": null,
         "color_2": null,
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -14176,6 +15666,10 @@
         "catalog_category": "Not in catalog",
         "color_1": null,
         "color_2": null,
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -14222,6 +15716,10 @@
         "catalog_category": "Not in catalog",
         "color_1": null,
         "color_2": null,
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -14268,6 +15766,10 @@
         "catalog_category": "Not in catalog",
         "color_1": null,
         "color_2": null,
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -14314,6 +15816,10 @@
         "catalog_category": "Not in catalog",
         "color_1": null,
         "color_2": null,
+        "content_events": null,
+        "content_locations": [
+            "Crafting"
+        ],
         "cyrus_currency": "Bells",
         "cyrus_price": 1000,
         "exchange_currency": null,
@@ -14360,6 +15866,12 @@
         "catalog_category": "Not in catalog",
         "color_1": null,
         "color_2": null,
+        "content_events": [
+            "May Day"
+        ],
+        "content_locations": [
+            "May Day Tour"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": null,
@@ -14406,6 +15918,17 @@
         "catalog_category": "For sale",
         "color_1": "Yellow",
         "color_2": "Yellow",
+        "content_events": [
+            "Fireworks Show (1)",
+            "Fireworks Show (2)",
+            "Fireworks Show (3)",
+            "Fireworks Show (4)",
+            "Fireworks Show (5)"
+        ],
+        "content_locations": [
+            "Redd's Raffle",
+            "Nook's Cranny"
+        ],
         "cyrus_currency": null,
         "cyrus_price": null,
         "exchange_currency": "Bells",

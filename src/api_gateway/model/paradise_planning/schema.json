@@ -1,13 +1,45 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 6,
-    "minProperties": 6,
+    "maxProperties": 8,
+    "minProperties": 8,
     "properties": {
         "filename": {
             "maxLength": 5,
             "minLength": 5,
             "type": [
                 "string"
+            ]
+        },
+        "furniture_ids": {
+            "items": {
+                "exclusiveMaximum": false,
+                "exclusiveMinimum": false,
+                "maximum": 4412,
+                "minimum": 667,
+                "type": [
+                    "integer"
+                ]
+            },
+            "maxItems": 3,
+            "minItems": 1,
+            "type": [
+                "array",
+                "null"
+            ]
+        },
+        "furniture_names": {
+            "items": {
+                "maxLength": 18,
+                "minLength": 15,
+                "type": [
+                    "string"
+                ]
+            },
+            "maxItems": 3,
+            "minItems": 1,
+            "type": [
+                "array",
+                "null"
             ]
         },
         "name": {
@@ -48,6 +80,8 @@
     },
     "required": [
         "filename",
+        "furniture_ids",
+        "furniture_names",
         "name",
         "song_name",
         "unique_entry_id",

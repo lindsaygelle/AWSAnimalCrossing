@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 17,
-    "minProperties": 17,
+    "maxProperties": 18,
+    "minProperties": 18,
     "properties": {
         "back_color": {
             "maxLength": 7,
@@ -124,6 +124,13 @@
             "type": [
                 "string"
             ]
+        },
+        "version": {
+            "maxLength": 5,
+            "minLength": 5,
+            "type": [
+                "string"
+            ]
         }
     },
     "required": [
@@ -143,7 +150,8 @@
         "pen_color_2",
         "pen_color_3",
         "pen_color_4",
-        "unique_entry_id"
+        "unique_entry_id",
+        "version"
     ],
     "title": "Card",
     "type": "object"
