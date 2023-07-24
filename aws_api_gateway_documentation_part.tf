@@ -27,7 +27,7 @@ resource "aws_api_gateway_documentation_part" "achievement_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/achievement/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -83,7 +83,7 @@ resource "aws_api_gateway_documentation_part" "achievement_id_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/achievement/id/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -125,7 +125,7 @@ resource "aws_api_gateway_documentation_part" "card_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/card/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -181,7 +181,7 @@ resource "aws_api_gateway_documentation_part" "card_id_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/card/id/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -214,7 +214,7 @@ resource "aws_api_gateway_documentation_part" "clothing_accessory_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/clothing_accessory/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -270,7 +270,7 @@ resource "aws_api_gateway_documentation_part" "clothing_accessory_id_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/clothing_accessory/id/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -303,7 +303,7 @@ resource "aws_api_gateway_documentation_part" "clothing_bag_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/clothing_bag/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -359,7 +359,7 @@ resource "aws_api_gateway_documentation_part" "clothing_bag_id_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/clothing_bag/id/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -392,7 +392,7 @@ resource "aws_api_gateway_documentation_part" "clothing_bottom_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/clothing_bottom/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -448,7 +448,7 @@ resource "aws_api_gateway_documentation_part" "clothing_bottom_id_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/clothing_bottom/id/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -481,7 +481,7 @@ resource "aws_api_gateway_documentation_part" "clothing_dress_up_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/clothing_dress_up/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -537,7 +537,7 @@ resource "aws_api_gateway_documentation_part" "clothing_dress_up_id_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/clothing_dress_up/id/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -570,7 +570,7 @@ resource "aws_api_gateway_documentation_part" "clothing_headwear_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/clothing_headwear/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -626,7 +626,7 @@ resource "aws_api_gateway_documentation_part" "clothing_headwear_id_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/clothing_headwear/id/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -659,7 +659,7 @@ resource "aws_api_gateway_documentation_part" "clothing_other_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/clothing_other/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -715,7 +715,7 @@ resource "aws_api_gateway_documentation_part" "clothing_other_id_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/clothing_other/id/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -748,7 +748,7 @@ resource "aws_api_gateway_documentation_part" "clothing_shoe_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/clothing_shoe/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -804,7 +804,7 @@ resource "aws_api_gateway_documentation_part" "clothing_shoe_id_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/clothing_shoe/id/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -837,7 +837,7 @@ resource "aws_api_gateway_documentation_part" "clothing_sock_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/clothing_sock/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -893,7 +893,7 @@ resource "aws_api_gateway_documentation_part" "clothing_sock_id_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/clothing_sock/id/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -926,7 +926,7 @@ resource "aws_api_gateway_documentation_part" "clothing_top_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/clothing_top/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -982,7 +982,7 @@ resource "aws_api_gateway_documentation_part" "clothing_top_id_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/clothing_top/id/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1015,7 +1015,7 @@ resource "aws_api_gateway_documentation_part" "clothing_umbrella_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/clothing_umbrella/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1071,7 +1071,7 @@ resource "aws_api_gateway_documentation_part" "clothing_umbrella_id_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/clothing_umbrella/id/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1104,7 +1104,7 @@ resource "aws_api_gateway_documentation_part" "construction_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/construction/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1160,7 +1160,7 @@ resource "aws_api_gateway_documentation_part" "construction_id_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/construction/id/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1193,7 +1193,7 @@ resource "aws_api_gateway_documentation_part" "creature_fish_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/creature_fish/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1249,7 +1249,7 @@ resource "aws_api_gateway_documentation_part" "creature_fish_id_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/creature_fish/id/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1282,7 +1282,7 @@ resource "aws_api_gateway_documentation_part" "creature_insect_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/creature_insect/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1338,7 +1338,7 @@ resource "aws_api_gateway_documentation_part" "creature_insect_id_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/creature_insect/id/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1371,7 +1371,7 @@ resource "aws_api_gateway_documentation_part" "creature_sea_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/creature_sea/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1427,7 +1427,7 @@ resource "aws_api_gateway_documentation_part" "creature_sea_id_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/creature_sea/id/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1460,7 +1460,7 @@ resource "aws_api_gateway_documentation_part" "furniture_artwork_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/furniture_artwork/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1516,7 +1516,7 @@ resource "aws_api_gateway_documentation_part" "furniture_artwork_id_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/furniture_artwork/id/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1549,7 +1549,7 @@ resource "aws_api_gateway_documentation_part" "furniture_ceiling_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/furniture_ceiling/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1605,7 +1605,7 @@ resource "aws_api_gateway_documentation_part" "furniture_ceiling_id_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/furniture_ceiling/id/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1638,7 +1638,7 @@ resource "aws_api_gateway_documentation_part" "furniture_fencing_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/furniture_fencing/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1694,7 +1694,7 @@ resource "aws_api_gateway_documentation_part" "furniture_fencing_id_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/furniture_fencing/id/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1727,7 +1727,7 @@ resource "aws_api_gateway_documentation_part" "furniture_floor_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/furniture_floor/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1783,7 +1783,7 @@ resource "aws_api_gateway_documentation_part" "furniture_floor_id_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/furniture_floor/id/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1816,7 +1816,7 @@ resource "aws_api_gateway_documentation_part" "furniture_fossil_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/furniture_fossil/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1872,7 +1872,7 @@ resource "aws_api_gateway_documentation_part" "furniture_fossil_id_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/furniture_fossil/id/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1905,7 +1905,7 @@ resource "aws_api_gateway_documentation_part" "furniture_gyroid_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/furniture_gyroid/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1961,7 +1961,7 @@ resource "aws_api_gateway_documentation_part" "furniture_gyroid_id_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/furniture_gyroid/id/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -1994,7 +1994,7 @@ resource "aws_api_gateway_documentation_part" "furniture_housewear_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/furniture_housewear/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2050,7 +2050,7 @@ resource "aws_api_gateway_documentation_part" "furniture_housewear_id_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/furniture_housewear/id/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2083,7 +2083,7 @@ resource "aws_api_gateway_documentation_part" "furniture_interior_structure_GET_
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/furniture_interior_structure/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2139,7 +2139,7 @@ resource "aws_api_gateway_documentation_part" "furniture_interior_structure_id_G
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/furniture_interior_structure/id/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2172,7 +2172,7 @@ resource "aws_api_gateway_documentation_part" "furniture_miscellaneous_GET_200" 
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/furniture_miscellaneous/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2228,7 +2228,7 @@ resource "aws_api_gateway_documentation_part" "furniture_miscellaneous_id_GET_20
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/furniture_miscellaneous/id/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2261,7 +2261,7 @@ resource "aws_api_gateway_documentation_part" "furniture_music_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/furniture_music/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2317,7 +2317,7 @@ resource "aws_api_gateway_documentation_part" "furniture_music_id_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/furniture_music/id/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2350,7 +2350,7 @@ resource "aws_api_gateway_documentation_part" "furniture_photo_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/furniture_photo/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2406,7 +2406,7 @@ resource "aws_api_gateway_documentation_part" "furniture_photo_id_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/furniture_photo/id/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2439,7 +2439,7 @@ resource "aws_api_gateway_documentation_part" "furniture_poster_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/furniture_poster/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2495,7 +2495,7 @@ resource "aws_api_gateway_documentation_part" "furniture_poster_id_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/furniture_poster/id/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2528,7 +2528,7 @@ resource "aws_api_gateway_documentation_part" "furniture_rug_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/furniture_rug/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2584,7 +2584,7 @@ resource "aws_api_gateway_documentation_part" "furniture_rug_id_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/furniture_rug/id/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2617,7 +2617,7 @@ resource "aws_api_gateway_documentation_part" "furniture_wall_mounted_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/furniture_wall_mounted/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2673,7 +2673,7 @@ resource "aws_api_gateway_documentation_part" "furniture_wall_mounted_id_GET_200
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/furniture_wall_mounted/id/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2706,7 +2706,7 @@ resource "aws_api_gateway_documentation_part" "furniture_wallpaper_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/furniture_wallpaper/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2762,7 +2762,7 @@ resource "aws_api_gateway_documentation_part" "furniture_wallpaper_id_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/furniture_wallpaper/id/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2795,7 +2795,7 @@ resource "aws_api_gateway_documentation_part" "item_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/item/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2851,7 +2851,7 @@ resource "aws_api_gateway_documentation_part" "item_id_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/item/id/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2884,7 +2884,7 @@ resource "aws_api_gateway_documentation_part" "item_other_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/item_other/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2940,7 +2940,7 @@ resource "aws_api_gateway_documentation_part" "item_other_id_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/item_other/id/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -2973,7 +2973,7 @@ resource "aws_api_gateway_documentation_part" "occasion_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/occasion/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -3029,7 +3029,7 @@ resource "aws_api_gateway_documentation_part" "occasion_id_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/occasion/id/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -3062,7 +3062,7 @@ resource "aws_api_gateway_documentation_part" "paradise_planning_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/paradise_planning/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -3118,7 +3118,7 @@ resource "aws_api_gateway_documentation_part" "paradise_planning_id_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/paradise_planning/id/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -3151,7 +3151,7 @@ resource "aws_api_gateway_documentation_part" "reaction_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/reaction/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -3207,7 +3207,7 @@ resource "aws_api_gateway_documentation_part" "reaction_id_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/reaction/id/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -3240,7 +3240,7 @@ resource "aws_api_gateway_documentation_part" "recipe_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/recipe/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -3296,7 +3296,7 @@ resource "aws_api_gateway_documentation_part" "recipe_id_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/recipe/id/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -3329,7 +3329,7 @@ resource "aws_api_gateway_documentation_part" "villager_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/villager/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -3385,7 +3385,7 @@ resource "aws_api_gateway_documentation_part" "villager_id_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/villager/id/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -3418,7 +3418,7 @@ resource "aws_api_gateway_documentation_part" "villager_special_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/villager_special/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
 
@@ -3474,6 +3474,6 @@ resource "aws_api_gateway_documentation_part" "villager_special_id_GET_200" {
     status_code = "200"
     type        = "RESPONSE"
   }
-  properties  = jsonencode({})
+  properties  = file("./src/api_gateway/documentation_part/method_response/villager_special/id/200.json")
   rest_api_id = aws_api_gateway_rest_api.animal_crossing.id
 }
