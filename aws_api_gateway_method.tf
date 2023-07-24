@@ -59,6 +59,7 @@ resource "aws_api_gateway_method" "card_GET" {
     "method.request.querystring.internal_id"    = false
     "method.request.querystring.internal_label" = false
     "method.request.querystring.internal_name"  = false
+    "method.request.querystring.version"        = false
   }
   request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }
@@ -2472,6 +2473,8 @@ resource "aws_api_gateway_method" "villager_GET" {
     "method.request.querystring.floor_name"           = false
     "method.request.querystring.gender"               = false
     "method.request.querystring.hobby_name"           = false
+    "method.request.querystring.kitchen_id"           = false
+    "method.request.querystring.kitchen_variant_id"   = false
     "method.request.querystring.personality_category" = false
     "method.request.querystring.personality_name"     = false
     "method.request.querystring.song_name"            = false
@@ -2480,6 +2483,8 @@ resource "aws_api_gateway_method" "villager_GET" {
     "method.request.querystring.style_2"              = false
     "method.request.querystring.version_added"        = false
     "method.request.querystring.wallpaper_name"       = false
+    "method.request.querystring.workbench_id"         = false
+    "method.request.querystring.workbench_variant_id" = false
   }
   request_validator_id = aws_api_gateway_request_validator.request_parameters.id
 }

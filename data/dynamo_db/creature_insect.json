@@ -76,6 +76,9 @@
             "location_category": {
                 "S": "Flowers"
             },
+            "location_name": {
+                "S": "Flying near flowers"
+            },
             "name": {
                 "S": "Agrias Butterfly"
             },
@@ -185,6 +188,9 @@
             },
             "location_category": {
                 "S": "Trash"
+            },
+            "location_name": {
+                "S": "On rotten turnips or candy"
             },
             "name": {
                 "S": "Ant"
@@ -296,6 +302,9 @@
             "location_category": {
                 "S": "Trees"
             },
+            "location_name": {
+                "S": "On trees (any kind)"
+            },
             "name": {
                 "S": "Atlas moth"
             },
@@ -405,6 +414,9 @@
             },
             "location_category": {
                 "S": "Trees"
+            },
+            "location_name": {
+                "S": "Shaking trees (hardwood or cedar only)"
             },
             "name": {
                 "S": "Bagworm"
@@ -516,6 +528,9 @@
             "location_category": {
                 "S": "Water"
             },
+            "location_name": {
+                "S": "Flying near water"
+            },
             "name": {
                 "S": "Banded Dragonfly"
             },
@@ -625,6 +640,9 @@
             },
             "location_category": {
                 "S": "Ground"
+            },
+            "location_name": {
+                "S": "On the ground"
             },
             "name": {
                 "S": "Bell Cricket"
@@ -736,6 +754,9 @@
             "location_category": {
                 "S": "Trees"
             },
+            "location_name": {
+                "S": "On palm trees"
+            },
             "name": {
                 "S": "Blue Weevil Beetle"
             },
@@ -845,6 +866,9 @@
             },
             "location_category": {
                 "S": "Trees"
+            },
+            "location_name": {
+                "S": "On hardwood/cedar trees"
             },
             "name": {
                 "S": "Brown Cicada"
@@ -956,6 +980,9 @@
             "location_category": {
                 "S": "Rocks"
             },
+            "location_name": {
+                "S": "From hitting rocks"
+            },
             "name": {
                 "S": "Centipede"
             },
@@ -1065,6 +1092,9 @@
             },
             "location_category": {
                 "S": "Trees"
+            },
+            "location_name": {
+                "S": "On hardwood/cedar trees"
             },
             "name": {
                 "S": "Cicada Shell"
@@ -1176,6 +1206,9 @@
             "location_category": {
                 "S": "Tree Stumps"
             },
+            "location_name": {
+                "S": "On tree stumps"
+            },
             "name": {
                 "S": "Citrus Long-horned Beetle"
             },
@@ -1285,6 +1318,9 @@
             },
             "location_category": {
                 "S": "Air"
+            },
+            "location_name": {
+                "S": "Flying"
             },
             "name": {
                 "S": "Common Bluebottle"
@@ -1396,6 +1432,9 @@
             "location_category": {
                 "S": "Air"
             },
+            "location_name": {
+                "S": "Flying"
+            },
             "name": {
                 "S": "Common Butterfly"
             },
@@ -1505,6 +1544,9 @@
             },
             "location_category": {
                 "S": "Ground"
+            },
+            "location_name": {
+                "S": "On the ground"
             },
             "name": {
                 "S": "Cricket"
@@ -1616,6 +1658,9 @@
             "location_category": {
                 "S": "Trees"
             },
+            "location_name": {
+                "S": "On palm trees"
+            },
             "name": {
                 "S": "Cyclommatus Stag"
             },
@@ -1725,6 +1770,9 @@
             },
             "location_category": {
                 "S": "Water"
+            },
+            "location_name": {
+                "S": "Flying near water"
             },
             "name": {
                 "S": "Damselfly"
@@ -1836,6 +1884,9 @@
             "location_category": {
                 "S": "Water"
             },
+            "location_name": {
+                "S": "Flying near water"
+            },
             "name": {
                 "S": "Darner Dragonfly"
             },
@@ -1945,6 +1996,9 @@
             },
             "location_category": {
                 "S": "Water"
+            },
+            "location_name": {
+                "S": "On rivers/ponds"
             },
             "name": {
                 "S": "Diving Beetle"
@@ -2056,6 +2110,9 @@
             "location_category": {
                 "S": "Trees"
             },
+            "location_name": {
+                "S": "On trees (any kind)"
+            },
             "name": {
                 "S": "Drone Beetle"
             },
@@ -2165,6 +2222,9 @@
             },
             "location_category": {
                 "S": "Snowball"
+            },
+            "location_name": {
+                "S": "Pushing snowballs"
             },
             "name": {
                 "S": "Dung Beetle"
@@ -2276,6 +2336,9 @@
             "location_category": {
                 "S": "Ground"
             },
+            "location_name": {
+                "S": "On the ground"
+            },
             "name": {
                 "S": "Earth-boring Dung Beetle"
             },
@@ -2385,6 +2448,9 @@
             },
             "location_category": {
                 "S": "Flowers"
+            },
+            "location_name": {
+                "S": "Flying near flowers"
             },
             "name": {
                 "S": "Emperor Butterfly"
@@ -2496,6 +2562,9 @@
             "location_category": {
                 "S": "Trees"
             },
+            "location_name": {
+                "S": "On hardwood/cedar trees"
+            },
             "name": {
                 "S": "Evening Cicada"
             },
@@ -2605,6 +2674,9 @@
             },
             "location_category": {
                 "S": "Water"
+            },
+            "location_name": {
+                "S": "Flying near water"
             },
             "name": {
                 "S": "Firefly"
@@ -2716,6 +2788,9 @@
             "location_category": {
                 "S": "Villagers"
             },
+            "location_name": {
+                "S": "On villagers"
+            },
             "name": {
                 "S": "Flea"
             },
@@ -2825,6 +2900,9 @@
             },
             "location_category": {
                 "S": "Trash"
+            },
+            "location_name": {
+                "S": "Flying near trash (boots, tires, cans, used fountain fireworks) or rotten turnips"
             },
             "name": {
                 "S": "Fly"
@@ -2936,6 +3014,9 @@
             "location_category": {
                 "S": "Trees"
             },
+            "location_name": {
+                "S": "On hardwood/cedar trees"
+            },
             "name": {
                 "S": "Giant Cicada"
             },
@@ -3045,6 +3126,9 @@
             },
             "location_category": {
                 "S": "Trees"
+            },
+            "location_name": {
+                "S": "On trees (any kind)"
             },
             "name": {
                 "S": "Giant Stag"
@@ -3156,6 +3240,9 @@
             "location_category": {
                 "S": "Water"
             },
+            "location_name": {
+                "S": "On rivers/ponds"
+            },
             "name": {
                 "S": "Giant Water Bug"
             },
@@ -3265,6 +3352,9 @@
             },
             "location_category": {
                 "S": "Trees"
+            },
+            "location_name": {
+                "S": "On palm trees"
             },
             "name": {
                 "S": "Giraffe Stag"
@@ -3376,6 +3466,9 @@
             "location_category": {
                 "S": "Trees"
             },
+            "location_name": {
+                "S": "On palm trees"
+            },
             "name": {
                 "S": "Golden Stag"
             },
@@ -3485,6 +3578,9 @@
             },
             "location_category": {
                 "S": "Trees"
+            },
+            "location_name": {
+                "S": "On palm trees"
             },
             "name": {
                 "S": "Goliath Beetle"
@@ -3596,6 +3692,9 @@
             "location_category": {
                 "S": "Ground"
             },
+            "location_name": {
+                "S": "On the ground"
+            },
             "name": {
                 "S": "Grasshopper"
             },
@@ -3705,6 +3804,9 @@
             },
             "location_category": {
                 "S": "Flowers"
+            },
+            "location_name": {
+                "S": "Flying near flowers"
             },
             "name": {
                 "S": "Great Purple Emperor"
@@ -3816,6 +3918,9 @@
             "location_category": {
                 "S": "Beach"
             },
+            "location_name": {
+                "S": "Disguised on shoreline"
+            },
             "name": {
                 "S": "Hermit Crab"
             },
@@ -3925,6 +4030,9 @@
             },
             "location_category": {
                 "S": "Flowers"
+            },
+            "location_name": {
+                "S": "Flying near flowers"
             },
             "name": {
                 "S": "Honeybee"
@@ -4036,6 +4144,9 @@
             "location_category": {
                 "S": "Trees"
             },
+            "location_name": {
+                "S": "On palm trees"
+            },
             "name": {
                 "S": "Horned Atlas"
             },
@@ -4145,6 +4256,9 @@
             },
             "location_category": {
                 "S": "Trees"
+            },
+            "location_name": {
+                "S": "On trees (any kind)"
             },
             "name": {
                 "S": "Horned Dynastid"
@@ -4256,6 +4370,9 @@
             "location_category": {
                 "S": "Trees"
             },
+            "location_name": {
+                "S": "On palm trees"
+            },
             "name": {
                 "S": "Horned Elephant"
             },
@@ -4365,6 +4482,9 @@
             },
             "location_category": {
                 "S": "Trees"
+            },
+            "location_name": {
+                "S": "On palm trees"
             },
             "name": {
                 "S": "Horned Hercules"
@@ -4476,6 +4596,9 @@
             "location_category": {
                 "S": "Tree Stumps"
             },
+            "location_name": {
+                "S": "On tree stumps"
+            },
             "name": {
                 "S": "Jewel Beetle"
             },
@@ -4585,6 +4708,9 @@
             },
             "location_category": {
                 "S": "Flowers"
+            },
+            "location_name": {
+                "S": "On flowers"
             },
             "name": {
                 "S": "Ladybug"
@@ -4696,6 +4822,9 @@
             "location_category": {
                 "S": "Ground"
             },
+            "location_name": {
+                "S": "On the ground"
+            },
             "name": {
                 "S": "Long Locust"
             },
@@ -4805,6 +4934,9 @@
             },
             "location_category": {
                 "S": "Flowers"
+            },
+            "location_name": {
+                "S": "Flying near flowers"
             },
             "name": {
                 "S": "Madagascan sunset moth"
@@ -4916,6 +5048,9 @@
             "location_category": {
                 "S": "Flowers"
             },
+            "location_name": {
+                "S": "On flowers"
+            },
             "name": {
                 "S": "Man-faced Stink Bug"
             },
@@ -5025,6 +5160,9 @@
             },
             "location_category": {
                 "S": "Flowers"
+            },
+            "location_name": {
+                "S": "On flowers"
             },
             "name": {
                 "S": "Mantis"
@@ -5136,6 +5274,9 @@
             "location_category": {
                 "S": "Ground"
             },
+            "location_name": {
+                "S": "On the ground"
+            },
             "name": {
                 "S": "Migratory Locust"
             },
@@ -5245,6 +5386,9 @@
             },
             "location_category": {
                 "S": "Trees"
+            },
+            "location_name": {
+                "S": "On trees (any kind)"
             },
             "name": {
                 "S": "Miyama Stag"
@@ -5356,6 +5500,9 @@
             "location_category": {
                 "S": "Underground"
             },
+            "location_name": {
+                "S": "Underground (dig where noise is loudest)"
+            },
             "name": {
                 "S": "Mole Cricket"
             },
@@ -5465,6 +5612,9 @@
             },
             "location_category": {
                 "S": "Flowers"
+            },
+            "location_name": {
+                "S": "Flying near flowers"
             },
             "name": {
                 "S": "Monarch Butterfly"
@@ -5576,6 +5726,9 @@
             "location_category": {
                 "S": "Air"
             },
+            "location_name": {
+                "S": "Flying"
+            },
             "name": {
                 "S": "Mosquito"
             },
@@ -5685,6 +5838,9 @@
             },
             "location_category": {
                 "S": "Lights"
+            },
+            "location_name": {
+                "S": "Flying near light sources"
             },
             "name": {
                 "S": "Moth"
@@ -5796,6 +5952,9 @@
             "location_category": {
                 "S": "Flowers"
             },
+            "location_name": {
+                "S": "On white flowers"
+            },
             "name": {
                 "S": "Orchid Mantis"
             },
@@ -5905,6 +6064,9 @@
             },
             "location_category": {
                 "S": "Flowers"
+            },
+            "location_name": {
+                "S": "Flying near flowers"
             },
             "name": {
                 "S": "Paper Kite Butterfly"
@@ -6016,6 +6178,9 @@
             "location_category": {
                 "S": "Flowers"
             },
+            "location_name": {
+                "S": "Flying near blue/purple/black flowers"
+            },
             "name": {
                 "S": "Peacock Butterfly"
             },
@@ -6125,6 +6290,9 @@
             },
             "location_category": {
                 "S": "Rocks"
+            },
+            "location_name": {
+                "S": "From hitting rocks"
             },
             "name": {
                 "S": "Pill Bug"
@@ -6236,6 +6404,9 @@
             "location_category": {
                 "S": "Water"
             },
+            "location_name": {
+                "S": "On rivers/ponds"
+            },
             "name": {
                 "S": "Pondskater"
             },
@@ -6345,6 +6516,9 @@
             },
             "location_category": {
                 "S": "Flowers"
+            },
+            "location_name": {
+                "S": "Flying near flowers"
             },
             "name": {
                 "S": "Queen Alexandra's birdwing"
@@ -6456,6 +6630,9 @@
             "location_category": {
                 "S": "Trees"
             },
+            "location_name": {
+                "S": "On trees (any kind)"
+            },
             "name": {
                 "S": "Rainbow Stag"
             },
@@ -6565,6 +6742,9 @@
             },
             "location_category": {
                 "S": "Flowers"
+            },
+            "location_name": {
+                "S": "Flying near flowers"
             },
             "name": {
                 "S": "Rajah Brooke's birdwing"
@@ -6676,6 +6856,9 @@
             "location_category": {
                 "S": "Water"
             },
+            "location_name": {
+                "S": "Flying near water"
+            },
             "name": {
                 "S": "Red Dragonfly"
             },
@@ -6785,6 +6968,9 @@
             },
             "location_category": {
                 "S": "Ground"
+            },
+            "location_name": {
+                "S": "On the ground"
             },
             "name": {
                 "S": "Rice Grasshopper"
@@ -6896,6 +7082,9 @@
             "location_category": {
                 "S": "Trees"
             },
+            "location_name": {
+                "S": "On hardwood/cedar trees"
+            },
             "name": {
                 "S": "Robust Cicada"
             },
@@ -7005,6 +7194,9 @@
             },
             "location_category": {
                 "S": "Tree Stumps"
+            },
+            "location_name": {
+                "S": "On tree stumps"
             },
             "name": {
                 "S": "Rosalia Batesi Beetle"
@@ -7116,6 +7308,9 @@
             "location_category": {
                 "S": "Trees"
             },
+            "location_name": {
+                "S": "On trees (any kind)"
+            },
             "name": {
                 "S": "Saw Stag"
             },
@@ -7225,6 +7420,9 @@
             },
             "location_category": {
                 "S": "Trees"
+            },
+            "location_name": {
+                "S": "On trees (any kind)"
             },
             "name": {
                 "S": "Scarab Beetle"
@@ -7336,6 +7534,9 @@
             "location_category": {
                 "S": "Ground"
             },
+            "location_name": {
+                "S": "On the ground"
+            },
             "name": {
                 "S": "Scorpion"
             },
@@ -7445,6 +7646,9 @@
             },
             "location_category": {
                 "S": "Rocks"
+            },
+            "location_name": {
+                "S": "On rocks/bushes"
             },
             "name": {
                 "S": "Snail"
@@ -7556,6 +7760,9 @@
             "location_category": {
                 "S": "Trees"
             },
+            "location_name": {
+                "S": "Shaking trees (hardwood or cedar only)"
+            },
             "name": {
                 "S": "Spider"
             },
@@ -7665,6 +7872,9 @@
             },
             "location_category": {
                 "S": "Flowers"
+            },
+            "location_name": {
+                "S": "On flowers"
             },
             "name": {
                 "S": "Stinkbug"
@@ -7776,6 +7986,9 @@
             "location_category": {
                 "S": "Ground"
             },
+            "location_name": {
+                "S": "On the ground"
+            },
             "name": {
                 "S": "Tarantula"
             },
@@ -7885,6 +8098,9 @@
             },
             "location_category": {
                 "S": "Ground"
+            },
+            "location_name": {
+                "S": "On the ground"
             },
             "name": {
                 "S": "Tiger Beetle"
@@ -7996,6 +8212,9 @@
             "location_category": {
                 "S": "Air"
             },
+            "location_name": {
+                "S": "Flying"
+            },
             "name": {
                 "S": "Tiger Butterfly"
             },
@@ -8105,6 +8324,9 @@
             },
             "location_category": {
                 "S": "Tree Stumps"
+            },
+            "location_name": {
+                "S": "On tree stumps"
             },
             "name": {
                 "S": "Violin Beetle"
@@ -8216,6 +8438,9 @@
             "location_category": {
                 "S": "Trees"
             },
+            "location_name": {
+                "S": "On hardwood/cedar trees"
+            },
             "name": {
                 "S": "Walker Cicada"
             },
@@ -8325,6 +8550,9 @@
             },
             "location_category": {
                 "S": "Trees"
+            },
+            "location_name": {
+                "S": "Disguised under trees"
             },
             "name": {
                 "S": "Walking Leaf"
@@ -8436,6 +8664,9 @@
             "location_category": {
                 "S": "Trees"
             },
+            "location_name": {
+                "S": "On trees (any kind)"
+            },
             "name": {
                 "S": "Walking Stick"
             },
@@ -8545,6 +8776,9 @@
             },
             "location_category": {
                 "S": "Trees"
+            },
+            "location_name": {
+                "S": "Shaking trees"
             },
             "name": {
                 "S": "Wasp"
@@ -8656,6 +8890,9 @@
             "location_category": {
                 "S": "Beach"
             },
+            "location_name": {
+                "S": "On beach rocks"
+            },
             "name": {
                 "S": "Wharf Roach"
             },
@@ -8765,6 +9002,9 @@
             },
             "location_category": {
                 "S": "Air"
+            },
+            "location_name": {
+                "S": "Flying"
             },
             "name": {
                 "S": "Yellow Butterfly"

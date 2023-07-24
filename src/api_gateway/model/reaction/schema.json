@@ -1,8 +1,38 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 9,
-    "minProperties": 9,
+    "maxProperties": 11,
+    "minProperties": 11,
     "properties": {
+        "content_events": {
+            "items": {
+                "maxLength": 19,
+                "minLength": 19,
+                "type": [
+                    "string"
+                ]
+            },
+            "maxItems": 2,
+            "minItems": 1,
+            "type": [
+                "array",
+                "null"
+            ]
+        },
+        "content_locations": {
+            "items": {
+                "maxLength": 13,
+                "minLength": 13,
+                "type": [
+                    "string"
+                ]
+            },
+            "maxItems": 1,
+            "minItems": 1,
+            "type": [
+                "array",
+                "null"
+            ]
+        },
         "filename_image": {
             "maxLength": 20,
             "minLength": 3,
@@ -64,6 +94,8 @@
         }
     },
     "required": [
+        "content_events",
+        "content_locations",
         "filename_image",
         "image_url",
         "internal_id",

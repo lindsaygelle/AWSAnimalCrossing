@@ -25,6 +25,15 @@
             "color_2": {
                 "S": "Black"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting",
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -161,6 +170,16 @@
             },
             "color_2": {
                 "S": "Beige"
+            },
+            "content_events": {
+                "SS": [
+                    "young spring bamboo"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "NULL": true
@@ -299,6 +318,16 @@
             "color_2": {
                 "S": "Beige"
             },
+            "content_events": {
+                "SS": [
+                    "Setsubun"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook Shopping Seasonal"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -435,6 +464,14 @@
             },
             "color_2": {
                 "S": "Beige"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Redd's Co-op Raffle"
+                ]
             },
             "cyrus_currency": {
                 "NULL": true
@@ -573,6 +610,14 @@
             "color_2": {
                 "S": "White"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Redd's Co-op Raffle"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -709,6 +754,21 @@
             },
             "color_2": {
                 "S": "Blue"
+            },
+            "content_events": {
+                "SS": [
+                    "Fireworks Show (1)",
+                    "Fireworks Show (2)",
+                    "Fireworks Show (3)",
+                    "Fireworks Show (4)",
+                    "Fireworks Show (5)"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Redd's Raffle",
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "NULL": true
@@ -847,6 +907,21 @@
             "color_2": {
                 "S": "Colorful"
             },
+            "content_events": {
+                "SS": [
+                    "Fireworks Show (1)",
+                    "Fireworks Show (2)",
+                    "Fireworks Show (3)",
+                    "Fireworks Show (4)",
+                    "Fireworks Show (5)"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Redd's Raffle",
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -983,6 +1058,20 @@
             },
             "color_2": {
                 "S": "Black"
+            },
+            "content_events": {
+                "SS": [
+                    "Fireworks Show (1)",
+                    "Fireworks Show (2)",
+                    "Fireworks Show (3)",
+                    "Fireworks Show (4)",
+                    "Fireworks Show (5)"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Redd's Raffle"
+                ]
             },
             "cyrus_currency": {
                 "NULL": true
@@ -1121,6 +1210,20 @@
             "color_2": {
                 "S": "Orange"
             },
+            "content_events": {
+                "SS": [
+                    "Fireworks Show (1)",
+                    "Fireworks Show (2)",
+                    "Fireworks Show (3)",
+                    "Fireworks Show (4)",
+                    "Fireworks Show (5)"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Redd's Raffle"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -1257,6 +1360,20 @@
             },
             "color_2": {
                 "S": "Purple"
+            },
+            "content_events": {
+                "SS": [
+                    "Fireworks Show (1)",
+                    "Fireworks Show (2)",
+                    "Fireworks Show (3)",
+                    "Fireworks Show (4)",
+                    "Fireworks Show (5)"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Redd's Raffle"
+                ]
             },
             "cyrus_currency": {
                 "NULL": true
@@ -1395,6 +1512,20 @@
             "color_2": {
                 "S": "Green"
             },
+            "content_events": {
+                "SS": [
+                    "Fireworks Show (1)",
+                    "Fireworks Show (2)",
+                    "Fireworks Show (3)",
+                    "Fireworks Show (4)",
+                    "Fireworks Show (5)"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Redd's Raffle"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -1531,6 +1662,20 @@
             },
             "color_2": {
                 "S": "Blue"
+            },
+            "content_events": {
+                "SS": [
+                    "Fireworks Show (1)",
+                    "Fireworks Show (2)",
+                    "Fireworks Show (3)",
+                    "Fireworks Show (4)",
+                    "Fireworks Show (5)"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Redd's Raffle"
+                ]
             },
             "cyrus_currency": {
                 "NULL": true
@@ -1669,6 +1814,21 @@
             "color_2": {
                 "S": "Pink"
             },
+            "content_events": {
+                "SS": [
+                    "Fireworks Show (1)",
+                    "Fireworks Show (2)",
+                    "Fireworks Show (3)",
+                    "Fireworks Show (4)",
+                    "Fireworks Show (5)"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Redd's Raffle",
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -1805,6 +1965,19 @@
             },
             "color_2": {
                 "S": "Yellow"
+            },
+            "content_events": {
+                "SS": [
+                    "Bug-Off (1)",
+                    "Bug-Off (2)",
+                    "Bug-Off (3)",
+                    "Bug-Off (4)"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Flick"
+                ]
             },
             "cyrus_currency": {
                 "NULL": true
@@ -1943,6 +2116,16 @@
             "color_2": {
                 "S": "Yellow"
             },
+            "content_events": {
+                "SS": [
+                    "Bunny Day"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -2079,6 +2262,14 @@
             },
             "color_2": {
                 "S": "White"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Redd's Co-op Raffle"
+                ]
             },
             "cyrus_currency": {
                 "NULL": true
@@ -2217,6 +2408,14 @@
             "color_2": {
                 "S": "Beige"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Redd's Co-op Raffle"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -2353,6 +2552,14 @@
             },
             "color_2": {
                 "S": "White"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Redd's Co-op Raffle"
+                ]
             },
             "cyrus_currency": {
                 "NULL": true
@@ -2491,6 +2698,14 @@
             "color_2": {
                 "S": "Green"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Redd's Co-op Raffle"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -2627,6 +2842,14 @@
             },
             "color_2": {
                 "S": "White"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Redd's Co-op Raffle"
+                ]
             },
             "cyrus_currency": {
                 "NULL": true
@@ -2765,6 +2988,14 @@
             "color_2": {
                 "S": "Pink"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Redd's Co-op Raffle"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -2901,6 +3132,14 @@
             },
             "color_2": {
                 "S": "White"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Redd's Co-op Raffle"
+                ]
             },
             "cyrus_currency": {
                 "NULL": true
@@ -3039,6 +3278,14 @@
             "color_2": {
                 "S": "Beige"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Redd's Co-op Raffle"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -3175,6 +3422,16 @@
             },
             "color_2": {
                 "S": "Brown"
+            },
+            "content_events": {
+                "SS": [
+                    "cherry-blossom petals"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "NULL": true
@@ -3313,6 +3570,16 @@
             "color_2": {
                 "S": "Aqua"
             },
+            "content_events": {
+                "SS": [
+                    "Shichi-Go-San"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook Shopping Seasonal"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -3449,6 +3716,14 @@
             },
             "color_2": {
                 "S": "Beige"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Redd's Co-op Raffle"
+                ]
             },
             "cyrus_currency": {
                 "NULL": true
@@ -3587,6 +3862,14 @@
             "color_2": {
                 "S": "Brown"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Redd's Co-op Raffle"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -3723,6 +4006,20 @@
             },
             "color_2": {
                 "S": "Beige"
+            },
+            "content_events": {
+                "SS": [
+                    "Fireworks Show (1)",
+                    "Fireworks Show (2)",
+                    "Fireworks Show (3)",
+                    "Fireworks Show (4)",
+                    "Fireworks Show (5)"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Redd's Raffle"
+                ]
             },
             "cyrus_currency": {
                 "NULL": true
@@ -3861,6 +4158,14 @@
             "color_2": {
                 "S": "Beige"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Redd's Co-op Raffle"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -3997,6 +4302,14 @@
             },
             "color_2": {
                 "S": "Orange"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -4135,6 +4448,14 @@
             "color_2": {
                 "S": "Yellow"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -4271,6 +4592,14 @@
             },
             "color_2": {
                 "S": "Yellow"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -4409,6 +4738,14 @@
             "color_2": {
                 "S": "Yellow"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -4545,6 +4882,14 @@
             },
             "color_2": {
                 "S": "Blue"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -4683,6 +5028,14 @@
             "color_2": {
                 "S": "Pink"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -4819,6 +5172,14 @@
             },
             "color_2": {
                 "S": "Blue"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -4957,6 +5318,14 @@
             "color_2": {
                 "S": "Green"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -5093,6 +5462,14 @@
             },
             "color_2": {
                 "S": "Black"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Redd's Co-op Raffle"
+                ]
             },
             "cyrus_currency": {
                 "NULL": true
@@ -5231,6 +5608,14 @@
             "color_2": {
                 "S": "Orange"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -5367,6 +5752,14 @@
             },
             "color_2": {
                 "S": "Yellow"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -5505,6 +5898,14 @@
             "color_2": {
                 "S": "Blue"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -5641,6 +6042,14 @@
             },
             "color_2": {
                 "S": "Yellow"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -5779,6 +6188,14 @@
             "color_2": {
                 "S": "Blue"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -5915,6 +6332,14 @@
             },
             "color_2": {
                 "S": "Pink"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -6053,6 +6478,14 @@
             "color_2": {
                 "S": "Blue"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -6189,6 +6622,14 @@
             },
             "color_2": {
                 "S": "Green"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -6327,6 +6768,14 @@
             "color_2": {
                 "S": "Blue"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -6463,6 +6912,14 @@
             },
             "color_2": {
                 "S": "Green"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -6601,6 +7058,14 @@
             "color_2": {
                 "S": "Orange"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -6737,6 +7202,14 @@
             },
             "color_2": {
                 "S": "Aqua"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -6875,6 +7348,14 @@
             "color_2": {
                 "S": "Yellow"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -7011,6 +7492,14 @@
             },
             "color_2": {
                 "S": "Green"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -7149,6 +7638,14 @@
             "color_2": {
                 "S": "Orange"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -7285,6 +7782,14 @@
             },
             "color_2": {
                 "S": "Yellow"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -7423,6 +7928,14 @@
             "color_2": {
                 "S": "Orange"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -7559,6 +8072,14 @@
             },
             "color_2": {
                 "S": "Green"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -7697,6 +8218,14 @@
             "color_2": {
                 "S": "Yellow"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -7833,6 +8362,14 @@
             },
             "color_2": {
                 "S": "Aqua"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -7971,6 +8508,14 @@
             "color_2": {
                 "S": "Blue"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -8107,6 +8652,14 @@
             },
             "color_2": {
                 "S": "Pink"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -8245,6 +8798,14 @@
             "color_2": {
                 "S": "Red"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -8381,6 +8942,14 @@
             },
             "color_2": {
                 "S": "Green"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -8519,6 +9088,14 @@
             "color_2": {
                 "S": "Blue"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -8655,6 +9232,14 @@
             },
             "color_2": {
                 "S": "Green"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -8793,6 +9378,14 @@
             "color_2": {
                 "S": "Orange"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -8929,6 +9522,14 @@
             },
             "color_2": {
                 "S": "Aqua"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -9067,6 +9668,14 @@
             "color_2": {
                 "S": "Yellow"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -9203,6 +9812,14 @@
             },
             "color_2": {
                 "S": "Green"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -9341,6 +9958,14 @@
             "color_2": {
                 "S": "Orange"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -9477,6 +10102,14 @@
             },
             "color_2": {
                 "S": "Yellow"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -9615,6 +10248,14 @@
             "color_2": {
                 "S": "Green"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -9751,6 +10392,14 @@
             },
             "color_2": {
                 "S": "Gray"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Group Stretching"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -9889,6 +10538,14 @@
             "color_2": {
                 "S": "Gray"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Group Stretching"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -10025,6 +10682,14 @@
             },
             "color_2": {
                 "S": "Gray"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Group Stretching"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -10163,6 +10828,14 @@
             "color_2": {
                 "S": "Gray"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Group Stretching"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -10299,6 +10972,14 @@
             },
             "color_2": {
                 "S": "Yellow"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Group Stretching"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -10437,6 +11118,14 @@
             "color_2": {
                 "S": "Gray"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Group Stretching"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -10573,6 +11262,14 @@
             },
             "color_2": {
                 "S": "Brown"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "NULL": true
@@ -10711,6 +11408,14 @@
             "color_2": {
                 "S": "Gray"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -10847,6 +11552,14 @@
             },
             "color_2": {
                 "S": "Green"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -10985,6 +11698,14 @@
             "color_2": {
                 "S": "Blue"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -11121,6 +11842,14 @@
             },
             "color_2": {
                 "S": "Pink"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -11259,6 +11988,14 @@
             "color_2": {
                 "S": "Red"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -11395,6 +12132,14 @@
             },
             "color_2": {
                 "S": "Yellow"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -11533,6 +12278,14 @@
             "color_2": {
                 "S": "Aqua"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -11669,6 +12422,14 @@
             },
             "color_2": {
                 "S": "Black"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -11807,6 +12568,16 @@
             "color_2": {
                 "S": "Black"
             },
+            "content_events": {
+                "SS": [
+                    "Big Game Celebration"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook Shopping Seasonal"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -11943,6 +12714,14 @@
             },
             "color_2": {
                 "S": "Black"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -12081,6 +12860,14 @@
             "color_2": {
                 "S": "Black"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -12217,6 +13004,14 @@
             },
             "color_2": {
                 "S": "Black"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -12355,6 +13150,14 @@
             "color_2": {
                 "S": "Black"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -12491,6 +13294,14 @@
             },
             "color_2": {
                 "S": "Black"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -12629,6 +13440,14 @@
             "color_2": {
                 "S": "Black"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -12765,6 +13584,14 @@
             },
             "color_2": {
                 "S": "Black"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -12903,6 +13730,14 @@
             "color_2": {
                 "S": "Black"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -13039,6 +13874,19 @@
             },
             "color_2": {
                 "S": "Yellow"
+            },
+            "content_events": {
+                "SS": [
+                    "Fishing Tourney (Spring)",
+                    "Fishing Tourney (Summer)",
+                    "Fishing Tourney (Fall)",
+                    "Fishing Tourney (Winter)"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "C.J."
+                ]
             },
             "cyrus_currency": {
                 "NULL": true
@@ -13177,6 +14025,14 @@
             "color_2": {
                 "S": "Beige"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -13313,6 +14169,14 @@
             },
             "color_2": {
                 "S": "Beige"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -13451,6 +14315,14 @@
             "color_2": {
                 "S": "Beige"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -13587,6 +14459,14 @@
             },
             "color_2": {
                 "S": "Beige"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -13725,6 +14605,14 @@
             "color_2": {
                 "S": "Beige"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -13861,6 +14749,14 @@
             },
             "color_2": {
                 "S": "Beige"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -13999,6 +14895,14 @@
             "color_2": {
                 "S": "Beige"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -14135,6 +15039,14 @@
             },
             "color_2": {
                 "S": "Beige"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -14273,6 +15185,17 @@
             "color_2": {
                 "S": "Gray"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting",
+                    "Nook's Cranny",
+                    "Wilbur",
+                    "Kapp'n"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -14409,6 +15332,17 @@
             },
             "color_2": {
                 "S": "White"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting",
+                    "Nook's Cranny",
+                    "Wilbur",
+                    "Kapp'n"
+                ]
             },
             "cyrus_currency": {
                 "NULL": true
@@ -14547,6 +15481,17 @@
             "color_2": {
                 "S": "White"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting",
+                    "Nook's Cranny",
+                    "Wilbur",
+                    "Kapp'n"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -14683,6 +15628,17 @@
             },
             "color_2": {
                 "S": "Beige"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting",
+                    "Nook's Cranny",
+                    "Wilbur",
+                    "Kapp'n"
+                ]
             },
             "cyrus_currency": {
                 "NULL": true
@@ -14821,6 +15777,15 @@
             "color_2": {
                 "S": "Gray"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting",
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -14957,6 +15922,16 @@
             },
             "color_2": {
                 "S": "Pink"
+            },
+            "content_events": {
+                "SS": [
+                    "Wedding Season (Nook Shopping)"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook Shopping Seasonal"
+                ]
             },
             "cyrus_currency": {
                 "NULL": true
@@ -15095,6 +16070,16 @@
             "color_2": {
                 "S": "White"
             },
+            "content_events": {
+                "SS": [
+                    "Big Game Celebration"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook Shopping Seasonal"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -15231,6 +16216,14 @@
             },
             "color_2": {
                 "S": "Green"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "NULL": true
@@ -15369,6 +16362,16 @@
             "color_2": {
                 "S": "Aqua"
             },
+            "content_events": {
+                "SS": [
+                    "Big Game Celebration"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook Shopping Seasonal"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -15505,6 +16508,14 @@
             },
             "color_2": {
                 "S": "Orange"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "NULL": true
@@ -15643,6 +16654,14 @@
             "color_2": {
                 "NULL": true
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -15779,6 +16798,14 @@
             },
             "color_2": {
                 "S": "Purple"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "NULL": true
@@ -15917,6 +16944,14 @@
             "color_2": {
                 "S": "Orange"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -16053,6 +17088,14 @@
             },
             "color_2": {
                 "S": "Purple"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "NULL": true
@@ -16191,6 +17234,14 @@
             "color_2": {
                 "S": "Orange"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -16327,6 +17378,14 @@
             },
             "color_2": {
                 "S": "Brown"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "NULL": true
@@ -16465,6 +17524,14 @@
             "color_2": {
                 "S": "Purple"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -16601,6 +17668,14 @@
             },
             "color_2": {
                 "S": "White"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Redd's Co-op Raffle"
+                ]
             },
             "cyrus_currency": {
                 "NULL": true
@@ -16739,6 +17814,21 @@
             "color_2": {
                 "S": "Green"
             },
+            "content_events": {
+                "SS": [
+                    "Fireworks Show (1)",
+                    "Fireworks Show (2)",
+                    "Fireworks Show (3)",
+                    "Fireworks Show (4)",
+                    "Fireworks Show (5)"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Redd's Raffle",
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -16875,6 +17965,16 @@
             },
             "color_2": {
                 "S": "Yellow"
+            },
+            "content_events": {
+                "SS": [
+                    "Lantern Festival"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook Shopping Seasonal"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -17013,6 +18113,16 @@
             "color_2": {
                 "S": "Yellow"
             },
+            "content_events": {
+                "SS": [
+                    "Lantern Festival"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook Shopping Seasonal"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -17149,6 +18259,16 @@
             },
             "color_2": {
                 "S": "Orange"
+            },
+            "content_events": {
+                "SS": [
+                    "Lantern Festival"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook Shopping Seasonal"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -17287,6 +18407,16 @@
             "color_2": {
                 "S": "Orange"
             },
+            "content_events": {
+                "SS": [
+                    "Lantern Festival"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook Shopping Seasonal"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -17423,6 +18553,16 @@
             },
             "color_2": {
                 "S": "White"
+            },
+            "content_events": {
+                "SS": [
+                    "Lantern Festival"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook Shopping Seasonal"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -17561,6 +18701,16 @@
             "color_2": {
                 "S": "Green"
             },
+            "content_events": {
+                "SS": [
+                    "Lantern Festival"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook Shopping Seasonal"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -17697,6 +18847,14 @@
             },
             "color_2": {
                 "S": "Green"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "NULL": true
@@ -17835,6 +18993,16 @@
             "color_2": {
                 "S": "Blue"
             },
+            "content_events": {
+                "SS": [
+                    "snowflakes"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -17971,6 +19139,14 @@
             },
             "color_2": {
                 "NULL": true
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -18109,6 +19285,14 @@
             "color_2": {
                 "NULL": true
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -18245,6 +19429,14 @@
             },
             "color_2": {
                 "NULL": true
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -18383,6 +19575,14 @@
             "color_2": {
                 "S": "Gray"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -18519,6 +19719,14 @@
             },
             "color_2": {
                 "S": "White"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook Shopping Promotion"
+                ]
             },
             "cyrus_currency": {
                 "NULL": true
@@ -18657,6 +19865,14 @@
             "color_2": {
                 "S": "Brown"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -18793,6 +20009,17 @@
             },
             "color_2": {
                 "S": "White"
+            },
+            "content_events": {
+                "SS": [
+                    "Countdown"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Isabelle",
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "NULL": true
@@ -18931,6 +20158,14 @@
             "color_2": {
                 "S": "Green"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -19067,6 +20302,16 @@
             },
             "color_2": {
                 "NULL": true
+            },
+            "content_events": {
+                "SS": [
+                    "Toy Day"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Jingle"
+                ]
             },
             "cyrus_currency": {
                 "NULL": true
@@ -19205,6 +20450,15 @@
             "color_2": {
                 "S": "Yellow"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nintendo",
+                    "Nook Shopping Daily Selection"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -19341,6 +20595,14 @@
             },
             "color_2": {
                 "S": "Green"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Redd's Co-op Raffle"
+                ]
             },
             "cyrus_currency": {
                 "NULL": true
@@ -19479,6 +20741,14 @@
             "color_2": {
                 "S": "Beige"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Redd's Co-op Raffle"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -19615,6 +20885,20 @@
             },
             "color_2": {
                 "S": "Beige"
+            },
+            "content_events": {
+                "SS": [
+                    "Fireworks Show (1)",
+                    "Fireworks Show (2)",
+                    "Fireworks Show (3)",
+                    "Fireworks Show (4)",
+                    "Fireworks Show (5)"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Redd's Raffle"
+                ]
             },
             "cyrus_currency": {
                 "NULL": true
@@ -19753,6 +21037,14 @@
             "color_2": {
                 "S": "Yellow"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Redd's Co-op Raffle"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -19889,6 +21181,14 @@
             },
             "color_2": {
                 "S": "Green"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "NULL": true
@@ -20027,6 +21327,16 @@
             "color_2": {
                 "S": "Beige"
             },
+            "content_events": {
+                "SS": [
+                    "mushrooms"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -20163,6 +21473,16 @@
             },
             "color_2": {
                 "S": "White"
+            },
+            "content_events": {
+                "SS": [
+                    "mushrooms"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -20301,6 +21621,16 @@
             "color_2": {
                 "S": "Purple"
             },
+            "content_events": {
+                "SS": [
+                    "mushrooms"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -20437,6 +21767,16 @@
             },
             "color_2": {
                 "S": "White"
+            },
+            "content_events": {
+                "SS": [
+                    "mushrooms"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -20575,6 +21915,16 @@
             "color_2": {
                 "S": "Yellow"
             },
+            "content_events": {
+                "SS": [
+                    "mushrooms"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -20711,6 +22061,14 @@
             },
             "color_2": {
                 "S": "Beige"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -20849,6 +22207,14 @@
             "color_2": {
                 "S": "Beige"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -20985,6 +22351,14 @@
             },
             "color_2": {
                 "S": "Beige"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -21123,6 +22497,14 @@
             "color_2": {
                 "S": "Beige"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -21259,6 +22641,14 @@
             },
             "color_2": {
                 "S": "Beige"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -21397,6 +22787,14 @@
             "color_2": {
                 "S": "Beige"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -21533,6 +22931,14 @@
             },
             "color_2": {
                 "S": "Beige"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -21671,6 +23077,14 @@
             "color_2": {
                 "S": "Beige"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -21807,6 +23221,14 @@
             },
             "color_2": {
                 "S": "Green"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "NULL": true
@@ -21945,6 +23367,14 @@
             "color_2": {
                 "S": "White"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "NookLink"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -22081,6 +23511,14 @@
             },
             "color_2": {
                 "S": "Yellow"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook Miles Redemption"
+                ]
             },
             "cyrus_currency": {
                 "NULL": true
@@ -22219,6 +23657,14 @@
             "color_2": {
                 "S": "White"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook Miles Redemption"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -22355,6 +23801,14 @@
             },
             "color_2": {
                 "S": "Beige"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "NULL": true
@@ -22493,6 +23947,20 @@
             "color_2": {
                 "S": "Beige"
             },
+            "content_events": {
+                "SS": [
+                    "Fireworks Show (1)",
+                    "Fireworks Show (2)",
+                    "Fireworks Show (3)",
+                    "Fireworks Show (4)",
+                    "Fireworks Show (5)"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Redd's Raffle"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -22629,6 +24097,14 @@
             },
             "color_2": {
                 "S": "Green"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Redd's Co-op Raffle"
+                ]
             },
             "cyrus_currency": {
                 "NULL": true
@@ -22767,6 +24243,14 @@
             "color_2": {
                 "S": "Black"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -22903,6 +24387,14 @@
             },
             "color_2": {
                 "S": "Black"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -23041,6 +24533,14 @@
             "color_2": {
                 "S": "Black"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -23177,6 +24677,14 @@
             },
             "color_2": {
                 "S": "Black"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -23315,6 +24823,14 @@
             "color_2": {
                 "S": "Black"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -23451,6 +24967,14 @@
             },
             "color_2": {
                 "S": "Black"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -23589,6 +25113,14 @@
             "color_2": {
                 "S": "Black"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -23725,6 +25257,14 @@
             },
             "color_2": {
                 "S": "Black"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -23863,6 +25403,14 @@
             "color_2": {
                 "S": "Gray"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -23999,6 +25547,14 @@
             },
             "color_2": {
                 "S": "Gray"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -24137,6 +25693,14 @@
             "color_2": {
                 "S": "Gray"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -24273,6 +25837,14 @@
             },
             "color_2": {
                 "S": "Gray"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -24411,6 +25983,14 @@
             "color_2": {
                 "S": "Gray"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -24547,6 +26127,14 @@
             },
             "color_2": {
                 "S": "Gray"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -24685,6 +26273,14 @@
             "color_2": {
                 "S": "Gray"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -24821,6 +26417,14 @@
             },
             "color_2": {
                 "S": "Gray"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -24959,6 +26563,14 @@
             "color_2": {
                 "S": "Gray"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -25095,6 +26707,14 @@
             },
             "color_2": {
                 "S": "Gray"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -25233,6 +26853,14 @@
             "color_2": {
                 "S": "Gray"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -25369,6 +26997,14 @@
             },
             "color_2": {
                 "S": "Gray"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -25507,6 +27143,14 @@
             "color_2": {
                 "S": "Gray"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -25643,6 +27287,14 @@
             },
             "color_2": {
                 "S": "Gray"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -25781,6 +27433,14 @@
             "color_2": {
                 "S": "Gray"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -25917,6 +27577,14 @@
             },
             "color_2": {
                 "S": "Gray"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -26055,6 +27723,14 @@
             "color_2": {
                 "S": "Gray"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -26191,6 +27867,14 @@
             },
             "color_2": {
                 "S": "Gray"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -26329,6 +28013,14 @@
             "color_2": {
                 "S": "Gray"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -26465,6 +28157,14 @@
             },
             "color_2": {
                 "S": "Gray"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -26603,6 +28303,14 @@
             "color_2": {
                 "S": "Gray"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -26739,6 +28447,14 @@
             },
             "color_2": {
                 "S": "Gray"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -26877,6 +28593,14 @@
             "color_2": {
                 "S": "Gray"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -27013,6 +28737,14 @@
             },
             "color_2": {
                 "S": "Gray"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -27151,6 +28883,14 @@
             "color_2": {
                 "S": "Black"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -27287,6 +29027,14 @@
             },
             "color_2": {
                 "S": "Black"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -27425,6 +29173,14 @@
             "color_2": {
                 "S": "Black"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -27561,6 +29317,14 @@
             },
             "color_2": {
                 "S": "Black"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -27699,6 +29463,14 @@
             "color_2": {
                 "S": "Black"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -27835,6 +29607,14 @@
             },
             "color_2": {
                 "S": "Black"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -27973,6 +29753,14 @@
             "color_2": {
                 "S": "Black"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -28109,6 +29897,14 @@
             },
             "color_2": {
                 "S": "Black"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -28247,6 +30043,16 @@
             "color_2": {
                 "S": "Brown"
             },
+            "content_events": {
+                "SS": [
+                    "young spring bamboo"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -28383,6 +30189,14 @@
             },
             "color_2": {
                 "S": "Green"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "NULL": true
@@ -28521,6 +30335,17 @@
             "color_2": {
                 "S": "Yellow"
             },
+            "content_events": {
+                "SS": [
+                    "Countdown"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny",
+                    "Tom Nook"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -28657,6 +30482,14 @@
             },
             "color_2": {
                 "S": "White"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Redd's Co-op Raffle"
+                ]
             },
             "cyrus_currency": {
                 "NULL": true
@@ -28795,6 +30628,21 @@
             "color_2": {
                 "S": "Pink"
             },
+            "content_events": {
+                "SS": [
+                    "Fireworks Show (1)",
+                    "Fireworks Show (2)",
+                    "Fireworks Show (3)",
+                    "Fireworks Show (4)",
+                    "Fireworks Show (5)"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Redd's Raffle",
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -28931,6 +30779,21 @@
             },
             "color_2": {
                 "S": "Red"
+            },
+            "content_events": {
+                "SS": [
+                    "Fireworks Show (1)",
+                    "Fireworks Show (2)",
+                    "Fireworks Show (3)",
+                    "Fireworks Show (4)",
+                    "Fireworks Show (5)"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Redd's Raffle",
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "NULL": true
@@ -29069,6 +30932,20 @@
             "color_2": {
                 "S": "Beige"
             },
+            "content_events": {
+                "SS": [
+                    "Fireworks Show (1)",
+                    "Fireworks Show (2)",
+                    "Fireworks Show (3)",
+                    "Fireworks Show (4)",
+                    "Fireworks Show (5)"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Redd's Raffle"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -29205,6 +31082,14 @@
             },
             "color_2": {
                 "S": "Colorful"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Redd's Co-op Raffle"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -29343,6 +31228,14 @@
             "color_2": {
                 "S": "Colorful"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Redd's Co-op Raffle"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -29479,6 +31372,14 @@
             },
             "color_2": {
                 "S": "Colorful"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Redd's Co-op Raffle"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -29617,6 +31518,14 @@
             "color_2": {
                 "S": "Colorful"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Redd's Co-op Raffle"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -29753,6 +31662,14 @@
             },
             "color_2": {
                 "S": "White"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Redd's Co-op Raffle"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -29891,6 +31808,14 @@
             "color_2": {
                 "S": "Colorful"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Redd's Co-op Raffle"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -30027,6 +31952,14 @@
             },
             "color_2": {
                 "S": "Colorful"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Redd's Co-op Raffle"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -30165,6 +32098,14 @@
             "color_2": {
                 "S": "Colorful"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Redd's Co-op Raffle"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -30301,6 +32242,14 @@
             },
             "color_2": {
                 "S": "Beige"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Redd's Co-op Raffle"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -30439,6 +32388,14 @@
             "color_2": {
                 "S": "Beige"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -30575,6 +32532,14 @@
             },
             "color_2": {
                 "S": "Beige"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -30713,6 +32678,14 @@
             "color_2": {
                 "S": "Beige"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -30849,6 +32822,14 @@
             },
             "color_2": {
                 "S": "Beige"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -30987,6 +32968,14 @@
             "color_2": {
                 "S": "Beige"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -31123,6 +33112,14 @@
             },
             "color_2": {
                 "S": "Beige"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -31261,6 +33258,14 @@
             "color_2": {
                 "S": "Beige"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -31397,6 +33402,14 @@
             },
             "color_2": {
                 "S": "Beige"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -31535,6 +33548,14 @@
             "color_2": {
                 "S": "Beige"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Group Stretching"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -31671,6 +33692,14 @@
             },
             "color_2": {
                 "S": "Beige"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Group Stretching"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -31809,6 +33838,14 @@
             "color_2": {
                 "S": "Brown"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Group Stretching"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -31945,6 +33982,14 @@
             },
             "color_2": {
                 "S": "Pink"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Group Stretching"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -32083,6 +34128,14 @@
             "color_2": {
                 "S": "Beige"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Redd's Co-op Raffle"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -32219,6 +34272,20 @@
             },
             "color_2": {
                 "S": "Beige"
+            },
+            "content_events": {
+                "SS": [
+                    "Fireworks Show (1)",
+                    "Fireworks Show (2)",
+                    "Fireworks Show (3)",
+                    "Fireworks Show (4)",
+                    "Fireworks Show (5)"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Redd's Raffle"
+                ]
             },
             "cyrus_currency": {
                 "NULL": true
@@ -32357,6 +34424,20 @@
             "color_2": {
                 "S": "Beige"
             },
+            "content_events": {
+                "SS": [
+                    "Fireworks Show (1)",
+                    "Fireworks Show (2)",
+                    "Fireworks Show (3)",
+                    "Fireworks Show (4)",
+                    "Fireworks Show (5)"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Redd's Raffle"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -32493,6 +34574,14 @@
             },
             "color_2": {
                 "S": "Yellow"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Redd's Co-op Raffle"
+                ]
             },
             "cyrus_currency": {
                 "NULL": true
@@ -32631,6 +34720,21 @@
             "color_2": {
                 "S": "Red"
             },
+            "content_events": {
+                "SS": [
+                    "Fireworks Show (1)",
+                    "Fireworks Show (2)",
+                    "Fireworks Show (3)",
+                    "Fireworks Show (4)",
+                    "Fireworks Show (5)"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Redd's Raffle",
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -32767,6 +34871,21 @@
             },
             "color_2": {
                 "S": "Colorful"
+            },
+            "content_events": {
+                "SS": [
+                    "Fireworks Show (1)",
+                    "Fireworks Show (2)",
+                    "Fireworks Show (3)",
+                    "Fireworks Show (4)",
+                    "Fireworks Show (5)"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Redd's Raffle",
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "NULL": true
@@ -32905,6 +35024,14 @@
             "color_2": {
                 "S": "Green"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -33041,6 +35168,16 @@
             },
             "color_2": {
                 "S": "White"
+            },
+            "content_events": {
+                "SS": [
+                    "Shamrock Day"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook Shopping Seasonal"
+                ]
             },
             "cyrus_currency": {
                 "NULL": true
@@ -33179,6 +35316,16 @@
             "color_2": {
                 "S": "Black"
             },
+            "content_events": {
+                "SS": [
+                    "Shamrock Day"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -33315,6 +35462,16 @@
             },
             "color_2": {
                 "S": "Aqua"
+            },
+            "content_events": {
+                "SS": [
+                    "summer shells"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "NULL": true
@@ -33453,6 +35610,14 @@
             "color_2": {
                 "S": "Black"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -33589,6 +35754,14 @@
             },
             "color_2": {
                 "S": "Black"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -33727,6 +35900,14 @@
             "color_2": {
                 "S": "Black"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -33863,6 +36044,14 @@
             },
             "color_2": {
                 "S": "Black"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -34001,6 +36190,14 @@
             "color_2": {
                 "S": "Black"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -34137,6 +36334,14 @@
             },
             "color_2": {
                 "S": "Black"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -34275,6 +36480,14 @@
             "color_2": {
                 "S": "Black"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -34411,6 +36624,14 @@
             },
             "color_2": {
                 "S": "Black"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -34549,6 +36770,14 @@
             "color_2": {
                 "S": "White"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Redd's Co-op Raffle"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -34685,6 +36914,15 @@
             },
             "color_2": {
                 "S": "Beige"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting",
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -34823,6 +37061,15 @@
             "color_2": {
                 "S": "Beige"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting",
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -34959,6 +37206,15 @@
             },
             "color_2": {
                 "S": "Beige"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting",
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -35097,6 +37353,15 @@
             "color_2": {
                 "S": "Beige"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting",
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -35233,6 +37498,15 @@
             },
             "color_2": {
                 "S": "Beige"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting",
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -35371,6 +37645,15 @@
             "color_2": {
                 "S": "Beige"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting",
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -35507,6 +37790,15 @@
             },
             "color_2": {
                 "S": "Beige"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting",
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -35645,6 +37937,15 @@
             "color_2": {
                 "S": "Beige"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting",
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -35781,6 +38082,16 @@
             },
             "color_2": {
                 "S": "Aqua"
+            },
+            "content_events": {
+                "SS": [
+                    "New Year's Eve"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook Shopping Seasonal"
+                ]
             },
             "cyrus_currency": {
                 "NULL": true
@@ -35919,6 +38230,18 @@
             "color_2": {
                 "S": "Black"
             },
+            "content_events": {
+                "SS": [
+                    "Halloween (days before)",
+                    "Halloween"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting",
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -36055,6 +38378,18 @@
             },
             "color_2": {
                 "S": "Black"
+            },
+            "content_events": {
+                "SS": [
+                    "Halloween (days before)",
+                    "Halloween"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting",
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -36193,6 +38528,18 @@
             "color_2": {
                 "S": "Black"
             },
+            "content_events": {
+                "SS": [
+                    "Halloween (days before)",
+                    "Halloween"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting",
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -36329,6 +38676,18 @@
             },
             "color_2": {
                 "S": "Black"
+            },
+            "content_events": {
+                "SS": [
+                    "Halloween (days before)",
+                    "Halloween"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting",
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -36467,6 +38826,17 @@
             "color_2": {
                 "S": "Black"
             },
+            "content_events": {
+                "SS": [
+                    "Halloween"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting",
+                    "Jack"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -36603,6 +38973,14 @@
             },
             "color_2": {
                 "S": "Yellow"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -36741,6 +39119,14 @@
             "color_2": {
                 "S": "Red"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -36877,6 +39263,14 @@
             },
             "color_2": {
                 "S": "Blue"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -37015,6 +39409,14 @@
             "color_2": {
                 "S": "Green"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -37151,6 +39553,14 @@
             },
             "color_2": {
                 "S": "Pink"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -37289,6 +39699,14 @@
             "color_2": {
                 "S": "Purple"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -37425,6 +39843,14 @@
             },
             "color_2": {
                 "S": "Aqua"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -37563,6 +39989,14 @@
             "color_2": {
                 "S": "Green"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -37699,6 +40133,14 @@
             },
             "color_2": {
                 "S": "Aqua"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "NULL": true
@@ -37837,6 +40279,16 @@
             "color_2": {
                 "S": "Colorful"
             },
+            "content_events": {
+                "SS": [
+                    "Big Game Celebration"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook Shopping Seasonal"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -37973,6 +40425,14 @@
             },
             "color_2": {
                 "S": "Gray"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "NULL": true
@@ -38111,6 +40571,14 @@
             "color_2": {
                 "S": "Beige"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Redd's Co-op Raffle"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -38247,6 +40715,20 @@
             },
             "color_2": {
                 "S": "Beige"
+            },
+            "content_events": {
+                "SS": [
+                    "Fireworks Show (1)",
+                    "Fireworks Show (2)",
+                    "Fireworks Show (3)",
+                    "Fireworks Show (4)",
+                    "Fireworks Show (5)"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Redd's Raffle"
+                ]
             },
             "cyrus_currency": {
                 "NULL": true
@@ -38385,6 +40867,14 @@
             "color_2": {
                 "S": "Pink"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Redd's Co-op Raffle"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -38521,6 +41011,14 @@
             },
             "color_2": {
                 "S": "White"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Brewster"
+                ]
             },
             "cyrus_currency": {
                 "NULL": true
@@ -38659,6 +41157,14 @@
             "color_2": {
                 "S": "Beige"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -38795,6 +41301,14 @@
             },
             "color_2": {
                 "NULL": true
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "NULL": true
@@ -38933,6 +41447,14 @@
             "color_2": {
                 "S": "White"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -39069,6 +41591,14 @@
             },
             "color_2": {
                 "S": "Green"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "NULL": true
@@ -39207,6 +41737,21 @@
             "color_2": {
                 "S": "Aqua"
             },
+            "content_events": {
+                "SS": [
+                    "Fireworks Show (1)",
+                    "Fireworks Show (2)",
+                    "Fireworks Show (3)",
+                    "Fireworks Show (4)",
+                    "Fireworks Show (5)"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Redd's Raffle",
+                    "Nook's Cranny"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -39343,6 +41888,21 @@
             },
             "color_2": {
                 "S": "Purple"
+            },
+            "content_events": {
+                "SS": [
+                    "Fireworks Show (1)",
+                    "Fireworks Show (2)",
+                    "Fireworks Show (3)",
+                    "Fireworks Show (4)",
+                    "Fireworks Show (5)"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Redd's Raffle",
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "NULL": true
@@ -39481,6 +42041,14 @@
             "color_2": {
                 "S": "Beige"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Redd's Co-op Raffle"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -39617,6 +42185,14 @@
             },
             "color_2": {
                 "S": "Beige"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Redd's Co-op Raffle"
+                ]
             },
             "cyrus_currency": {
                 "NULL": true
@@ -39755,6 +42331,14 @@
             "color_2": {
                 "S": "Red"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -39891,6 +42475,14 @@
             },
             "color_2": {
                 "NULL": true
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -40029,6 +42621,14 @@
             "color_2": {
                 "NULL": true
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -40165,6 +42765,14 @@
             },
             "color_2": {
                 "NULL": true
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -40303,6 +42911,14 @@
             "color_2": {
                 "S": "Brown"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -40439,6 +43055,14 @@
             },
             "color_2": {
                 "S": "Blue"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -40577,6 +43201,14 @@
             "color_2": {
                 "S": "Orange"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -40713,6 +43345,14 @@
             },
             "color_2": {
                 "S": "Green"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -40851,6 +43491,14 @@
             "color_2": {
                 "S": "Red"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -40987,6 +43635,14 @@
             },
             "color_2": {
                 "S": "Purple"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -41125,6 +43781,14 @@
             "color_2": {
                 "S": "Pink"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -41261,6 +43925,14 @@
             },
             "color_2": {
                 "S": "White"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -41399,6 +44071,14 @@
             "color_2": {
                 "S": "Black"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -41535,6 +44215,16 @@
             },
             "color_2": {
                 "S": "Aqua"
+            },
+            "content_events": {
+                "SS": [
+                    "Wedding Season"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "NULL": true
@@ -41673,6 +44363,14 @@
             "color_2": {
                 "S": "White"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Redd's Co-op Raffle"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -41809,6 +44507,14 @@
             },
             "color_2": {
                 "S": "Green"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "NULL": true
@@ -41947,6 +44653,14 @@
             "color_2": {
                 "NULL": true
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -42083,6 +44797,14 @@
             },
             "color_2": {
                 "NULL": true
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -42221,6 +44943,14 @@
             "color_2": {
                 "NULL": true
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -42357,6 +45087,14 @@
             },
             "color_2": {
                 "NULL": true
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -42495,6 +45233,14 @@
             "color_2": {
                 "NULL": true
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -42631,6 +45377,14 @@
             },
             "color_2": {
                 "NULL": true
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -42769,6 +45523,16 @@
             "color_2": {
                 "NULL": true
             },
+            "content_events": {
+                "SS": [
+                    "May Day"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "May Day Tour"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -42905,6 +45669,21 @@
             },
             "color_2": {
                 "S": "Yellow"
+            },
+            "content_events": {
+                "SS": [
+                    "Fireworks Show (1)",
+                    "Fireworks Show (2)",
+                    "Fireworks Show (3)",
+                    "Fireworks Show (4)",
+                    "Fireworks Show (5)"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Redd's Raffle",
+                    "Nook's Cranny"
+                ]
             },
             "cyrus_currency": {
                 "NULL": true

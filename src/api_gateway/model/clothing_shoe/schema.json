@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 41,
-    "minProperties": 41,
+    "maxProperties": 44,
+    "minProperties": 44,
     "properties": {
         "buy_currency": {
             "maxLength": 5,
@@ -49,6 +49,36 @@
             "minLength": 3,
             "type": [
                 "string"
+            ]
+        },
+        "content_events": {
+            "items": {
+                "maxLength": 23,
+                "minLength": 9,
+                "type": [
+                    "string"
+                ]
+            },
+            "maxItems": 5,
+            "minItems": 1,
+            "type": [
+                "array",
+                "null"
+            ]
+        },
+        "content_locations": {
+            "items": {
+                "maxLength": 12,
+                "minLength": 12,
+                "type": [
+                    "string"
+                ]
+            },
+            "maxItems": 3,
+            "minItems": 1,
+            "type": [
+                "array",
+                "null"
             ]
         },
         "exchange_currency": {
@@ -184,6 +214,21 @@
                 "boolean"
             ]
         },
+        "label_themes": {
+            "items": {
+                "maxLength": 8,
+                "minLength": 5,
+                "type": [
+                    "string"
+                ]
+            },
+            "maxItems": 6,
+            "minItems": 1,
+            "type": [
+                "array",
+                "null"
+            ]
+        },
         "mannequin_season": {
             "maxLength": 14,
             "minLength": 6,
@@ -300,6 +345,8 @@
         "collection_id",
         "color_1",
         "color_2",
+        "content_events",
+        "content_locations",
         "exchange_currency",
         "exchange_price",
         "filename",
@@ -321,6 +368,7 @@
         "is_equippable",
         "is_seasonal",
         "is_unlocked",
+        "label_themes",
         "mannequin_season",
         "name",
         "order",

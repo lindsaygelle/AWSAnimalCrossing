@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 30,
-    "minProperties": 30,
+    "maxProperties": 32,
+    "minProperties": 32,
     "properties": {
         "buy_currency": {
             "maxLength": 5,
@@ -51,6 +51,36 @@
             "type": [
                 "null",
                 "string"
+            ]
+        },
+        "content_events": {
+            "items": {
+                "maxLength": 19,
+                "minLength": 19,
+                "type": [
+                    "string"
+                ]
+            },
+            "maxItems": 5,
+            "minItems": 1,
+            "type": [
+                "array",
+                "null"
+            ]
+        },
+        "content_locations": {
+            "items": {
+                "maxLength": 22,
+                "minLength": 22,
+                "type": [
+                    "string"
+                ]
+            },
+            "maxItems": 3,
+            "minItems": 1,
+            "type": [
+                "array",
+                "null"
             ]
         },
         "exchange_currency": {
@@ -228,6 +258,8 @@
         "category",
         "color_1",
         "color_2",
+        "content_events",
+        "content_locations",
         "exchange_currency",
         "exchange_price",
         "filename_inventory_image",

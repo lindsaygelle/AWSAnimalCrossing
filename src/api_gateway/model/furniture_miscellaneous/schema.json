@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "maxProperties": 49,
-    "minProperties": 49,
+    "maxProperties": 52,
+    "minProperties": 52,
     "properties": {
         "body_category": {
             "maxLength": 19,
@@ -35,6 +35,11 @@
             ]
         },
         "can_customize_pattern": {
+            "type": [
+                "boolean"
+            ]
+        },
+        "can_customize_sable": {
             "type": [
                 "boolean"
             ]
@@ -76,6 +81,36 @@
             "type": [
                 "null",
                 "string"
+            ]
+        },
+        "content_events": {
+            "items": {
+                "maxLength": 5,
+                "minLength": 5,
+                "type": [
+                    "string"
+                ]
+            },
+            "maxItems": 4,
+            "minItems": 1,
+            "type": [
+                "array",
+                "null"
+            ]
+        },
+        "content_locations": {
+            "items": {
+                "maxLength": 22,
+                "minLength": 22,
+                "type": [
+                    "string"
+                ]
+            },
+            "maxItems": 3,
+            "minItems": 1,
+            "type": [
+                "array",
+                "null"
             ]
         },
         "cyrus_currency": {
@@ -379,11 +414,14 @@
         "buy_price",
         "can_customize_body",
         "can_customize_pattern",
+        "can_customize_sable",
         "capacity",
         "catalog_category",
         "category",
         "color_1",
         "color_2",
+        "content_events",
+        "content_locations",
         "cyrus_currency",
         "cyrus_price",
         "exchange_currency",

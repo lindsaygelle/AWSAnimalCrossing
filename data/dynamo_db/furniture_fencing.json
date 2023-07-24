@@ -19,6 +19,14 @@
             "catalog_category": {
                 "S": "Not for sale"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -104,6 +112,14 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "NULL": true
@@ -191,6 +207,14 @@
             "catalog_category": {
                 "S": "Not for sale"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -276,6 +300,14 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "NULL": true
@@ -363,6 +395,14 @@
             "catalog_category": {
                 "S": "Not for sale"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -448,6 +488,17 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "content_events": {
+                "SS": [
+                    "Bunny Day (days before)",
+                    "Bunny Day"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "NULL": true
@@ -535,6 +586,14 @@
             "catalog_category": {
                 "S": "Not for sale"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -620,6 +679,14 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -707,6 +774,14 @@
             "catalog_category": {
                 "S": "Not for sale"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -792,6 +867,14 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -879,6 +962,14 @@
             "catalog_category": {
                 "S": "Not for sale"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -964,6 +1055,14 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -1051,6 +1150,14 @@
             "catalog_category": {
                 "S": "Not for sale"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -1136,6 +1243,14 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -1223,6 +1338,14 @@
             "catalog_category": {
                 "S": "Not for sale"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -1308,6 +1431,14 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "NULL": true
@@ -1395,6 +1526,16 @@
             "catalog_category": {
                 "S": "Not for sale"
             },
+            "content_events": {
+                "SS": [
+                    "snowflakes"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -1480,6 +1621,16 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "content_events": {
+                "SS": [
+                    "snowflakes"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -1567,6 +1718,16 @@
             "catalog_category": {
                 "S": "Not for sale"
             },
+            "content_events": {
+                "SS": [
+                    "snowflakes"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -1652,6 +1813,16 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "content_events": {
+                "SS": [
+                    "snowflakes"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -1739,6 +1910,16 @@
             "catalog_category": {
                 "S": "Not for sale"
             },
+            "content_events": {
+                "SS": [
+                    "snowflakes"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -1824,6 +2005,16 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "content_events": {
+                "SS": [
+                    "snowflakes"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -1911,6 +2102,16 @@
             "catalog_category": {
                 "S": "Not for sale"
             },
+            "content_events": {
+                "SS": [
+                    "snowflakes"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -1996,6 +2197,14 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "NULL": true
@@ -2083,6 +2292,14 @@
             "catalog_category": {
                 "S": "Not for sale"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -2168,6 +2385,14 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "NULL": true
@@ -2255,6 +2480,14 @@
             "catalog_category": {
                 "S": "Not for sale"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -2340,6 +2573,14 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -2427,6 +2668,14 @@
             "catalog_category": {
                 "S": "Not for sale"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -2512,6 +2761,14 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -2599,6 +2856,14 @@
             "catalog_category": {
                 "S": "Not for sale"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -2684,6 +2949,14 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -2771,6 +3044,14 @@
             "catalog_category": {
                 "S": "Not for sale"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -2856,6 +3137,14 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -2943,6 +3232,14 @@
             "catalog_category": {
                 "S": "Not for sale"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -3028,6 +3325,14 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -3115,6 +3420,14 @@
             "catalog_category": {
                 "S": "Not for sale"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -3200,6 +3513,14 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -3287,6 +3608,14 @@
             "catalog_category": {
                 "S": "Not for sale"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -3372,6 +3701,14 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -3459,6 +3796,14 @@
             "catalog_category": {
                 "S": "Not for sale"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -3544,6 +3889,14 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -3631,6 +3984,14 @@
             "catalog_category": {
                 "S": "Not for sale"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -3716,6 +4077,14 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -3803,6 +4172,14 @@
             "catalog_category": {
                 "S": "Not for sale"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -3888,6 +4265,14 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -3975,6 +4360,14 @@
             "catalog_category": {
                 "S": "Not for sale"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -4060,6 +4453,14 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -4147,6 +4548,14 @@
             "catalog_category": {
                 "S": "Not for sale"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -4232,6 +4641,14 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -4319,6 +4736,14 @@
             "catalog_category": {
                 "S": "Not for sale"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -4404,6 +4829,14 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "NULL": true
@@ -4491,6 +4924,14 @@
             "catalog_category": {
                 "S": "Not for sale"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -4576,6 +5017,14 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "NULL": true
@@ -4663,6 +5112,14 @@
             "catalog_category": {
                 "S": "Not for sale"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -4748,6 +5205,14 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -4835,6 +5300,14 @@
             "catalog_category": {
                 "S": "Not for sale"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -4920,6 +5393,14 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -5007,6 +5488,14 @@
             "catalog_category": {
                 "S": "Not for sale"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -5092,6 +5581,14 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -5179,6 +5676,14 @@
             "catalog_category": {
                 "S": "Not for sale"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -5264,6 +5769,14 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -5351,6 +5864,14 @@
             "catalog_category": {
                 "S": "Not for sale"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -5436,6 +5957,15 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting",
+                    "Tom Nook"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -5523,6 +6053,15 @@
             "catalog_category": {
                 "S": "Not for sale"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting",
+                    "Tom Nook"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -5608,6 +6147,15 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting",
+                    "Tom Nook"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -5695,6 +6243,15 @@
             "catalog_category": {
                 "S": "Not for sale"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting",
+                    "Tom Nook"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -5780,6 +6337,15 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting",
+                    "Tom Nook"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -5867,6 +6433,15 @@
             "catalog_category": {
                 "S": "Not for sale"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting",
+                    "Tom Nook"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -5952,6 +6527,15 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting",
+                    "Tom Nook"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -6039,6 +6623,15 @@
             "catalog_category": {
                 "S": "Not for sale"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting",
+                    "Tom Nook"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -6124,6 +6717,14 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "NULL": true
@@ -6211,6 +6812,17 @@
             "catalog_category": {
                 "S": "Not for sale"
             },
+            "content_events": {
+                "SS": [
+                    "Halloween (days before)",
+                    "Halloween"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -6296,6 +6908,14 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "NULL": true
@@ -6383,6 +7003,14 @@
             "catalog_category": {
                 "S": "Not for sale"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "NULL": true
             },
@@ -6468,6 +7096,14 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -6555,6 +7191,14 @@
             "catalog_category": {
                 "S": "Not for sale"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -6640,6 +7284,14 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -6727,6 +7379,14 @@
             "catalog_category": {
                 "S": "Not for sale"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -6812,6 +7472,14 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -6899,6 +7567,14 @@
             "catalog_category": {
                 "S": "Not for sale"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -6984,6 +7660,14 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -7071,6 +7755,14 @@
             "catalog_category": {
                 "S": "Not for sale"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -7156,6 +7848,16 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "content_events": {
+                "SS": [
+                    "Wedding Season"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -7243,6 +7945,16 @@
             "catalog_category": {
                 "S": "Not for sale"
             },
+            "content_events": {
+                "SS": [
+                    "Wedding Season"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -7328,6 +8040,16 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "content_events": {
+                "SS": [
+                    "Wedding Season"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -7415,6 +8137,16 @@
             "catalog_category": {
                 "S": "Not for sale"
             },
+            "content_events": {
+                "SS": [
+                    "Wedding Season"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -7500,6 +8232,16 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "content_events": {
+                "SS": [
+                    "Wedding Season"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -7587,6 +8329,16 @@
             "catalog_category": {
                 "S": "Not for sale"
             },
+            "content_events": {
+                "SS": [
+                    "Wedding Season"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -7672,6 +8424,16 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "content_events": {
+                "SS": [
+                    "Wedding Season"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -7759,6 +8521,16 @@
             "catalog_category": {
                 "S": "Not for sale"
             },
+            "content_events": {
+                "SS": [
+                    "Wedding Season"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -7844,6 +8616,14 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -7931,6 +8711,14 @@
             "catalog_category": {
                 "S": "Not for sale"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -8016,6 +8804,14 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -8103,6 +8899,14 @@
             "catalog_category": {
                 "S": "Not for sale"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -8188,6 +8992,14 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
@@ -8275,6 +9087,14 @@
             "catalog_category": {
                 "S": "Not for sale"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -8361,6 +9181,14 @@
             "catalog_category": {
                 "S": "Not for sale"
             },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
             "cyrus_currency": {
                 "S": "Bells"
             },
@@ -8446,6 +9274,14 @@
             },
             "catalog_category": {
                 "S": "Not for sale"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
             },
             "cyrus_currency": {
                 "S": "Bells"
