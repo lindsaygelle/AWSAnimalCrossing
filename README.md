@@ -1,20 +1,23 @@
 # AWSAnimalCrossing
 ![AWSAnimalCrossing](https://repository-images.githubusercontent.com/611549380/3e4600b2-a928-40d1-ba1d-4284c6d66196)
 
-AWSAnimalCrossing is a Terraform-based project that provides a REST API to access Animal Crossing: New Horizons data. It leverages various AWS services, including [API Gateway](https://aws.amazon.com/api-gateway/), [Cognito](https://aws.amazon.com/cognito/), [DynamoDB](https://aws.amazon.com/dynamodb/), [S3](https://aws.amazon.com/s3/), [Step Functions](https://aws.amazon.com/step-functions/), and [Lambda functions](https://aws.amazon.com/lambda/), to store and retrieve game [data](./data/raw/).
+
+AWSAnimalCrossing is a project that utilizes [Amazon Web Services](https://aws.amazon.com/) and [Terraform](https://www.terraform.io/) to offer access to [Animal Crossing: New Horizons](https://animal-crossing.com/new-horizons/) game [data](./data/raw). It effectively combines various Amazon services, such as [API Gateway](https://aws.amazon.com/api-gateway/), [Cognito](https://aws.amazon.com/cognito/), [DynamoDB](https://aws.amazon.com/dynamodb/), [Simple Storage Service (S3)](https://aws.amazon.com/s3/), [Step Functions](https://aws.amazon.com/step-functions/), and [Lambda functions](https://aws.amazon.com/lambda/), to facilitate the storage and retrieval of data. The integration of Terraform allows for the seamless creation of these AWS resources to support the project.
 
 # Introduction
-[Animal Crossing: New Horizons](https://animal-crossing.com/new-horizons/) is a popular life simulation game where players can build and customize their own virtual island, interact with anthropomorphic animal characters, and engage in various activities. AWSAnimalCrossing expands the game experience by providing a REST API that allows users to access and manage game data using AWS services.
+[Animal Crossing: New Horizons](https://animal-crossing.com/new-horizons/) is a popular life simulation game where players can build and customize their own virtual island, interact with anthropomorphic animal characters, and engage in various activities. AWSAnimalCrossing expands the experience by providing resources that allows users to access and manage related game data using AWS services.
 
-This repository serves as a starting point for developers who want to explore the integration of AWS services with Animal Crossing: New Horizons data. By leveraging Terraform, the project provides infrastructure-as-code for deploying and managing the necessary AWS resources needed to store and access the prepared data.
+# Purpose
+This repository serves as a starting point for developers who want to explore the integration of AWS services with Animal Crossing: New Horizons. By leveraging Terraform, the project provides infrastructure-as-code for deploying and managing the necessary AWS resources needed to store and access the prepared data.
 
 # Features
-- REST API: A RESTful API built with API Gateway, allowing users to access and interact with Animal Crossing: New Horizons data programmatically.
-- Data storage: Data is stored and accessed in DynamoDB, providing a scalable and reliable database solution with low latency.
-- File storage: Raw data, images, and sound files, are stored in Amazon S3, facilitating easy access and caching within the API.
-- State machine: AWS Step Functions is utilized to orchestrate and automate workflows, enabling seamless data processing and synchronization across API Gateway to DynamoDB.
-- Lambda functions: AWS Lambda functions are employed to handle API requests, perform API logic, and interact with other AWS services.
-- User management: Access to resources can be controlled using AWS Cognito, enabling granular permissions across the REST API.
+- Infrastructure as Code (IAC): The project is built on Terraform, enabling a smooth and automated creation of all the necessary resources required for its development.
+- REST API: To facilitate programmatic access and interaction with Animal Crossing: New Horizons data, the project incorporates API Gateway.
+- Data storage: The project leverages the robust DynamoDB as a scalable and dependable database solution, boasting low cost and latency.
+- Raw storage: For static content, including images, songs, and raw data, the project relies on S3, which acts as a reliable landing destination.
+- State machine: The project uses Step Functions to efficiently orchestrate and automate workflows, ensuring seamless data processing and synchronization across API Gateway and DynamoDB.
+- Lambda functions: Lambda functions play a key role in handling API requests, executing API logic, and facilitating smooth interactions with other AWS services.
+- User management: For comprehensive user management and granular permissions across the REST API, the project utilizes Cognito.
 
 # Requirements
 To use AWSAnimalCrossing, you need the following:
@@ -29,7 +32,7 @@ To use AWSAnimalCrossing, you need the following:
 git clone https://github.com/lindsaygelle/AWSAnimalCrossing.git
 ```
 
-2. Install Terraform by following the official installation instructions: Terraform Installation Guide
+2. Install Terraform by following the official installation instructions.
 
 3. Set up your AWS credentials on your local machine or the environment where you plan to run Terraform. Refer to the AWS documentation for instructions on setting up AWS credentials.
 
@@ -39,34 +42,28 @@ git clone https://github.com/lindsaygelle/AWSAnimalCrossing.git
 cd AWSAnimalCrossing
 ```
 
-5. Switch to the dev branch:
-
-```bash
-git checkout dev
-```
-
-6. Initialize Terraform by running:
+5. Initialize Terraform by running:
 
 ```bash
 terraform init
 ```
 
-7. Deploy the infrastructure by executing:
+6. Deploy the infrastructure by executing:
 
 ```bash
 terraform apply
 ```
 
-8. Review the planned changes and confirm the deployment when prompted.
+7. Review the planned changes and confirm the deployment when prompted.
 
 After the deployment is complete, Terraform will output the API Gateway endpoint URL. Make note of this URL as it will be used to access the REST API.
 
 # Usage
 The REST API provided by AWSAnimalCrossing allows you to interact with Animal Crossing: New Horizons data. The API supports various operations, such as retrieving information, querying villagers, furniture, clothing and inventory items.
 
-To use the API, send HTTP requests to the API Gateway endpoint using tools like cURL, Postman, or your preferred programming language. Refer to the API documentation for detailed information on available endpoints and request/response formats.
+To use the API, send HTTP requests to the API Gateway endpoint using tools like [cURL](https://curl.se/), [Postman](https://www.postman.com/), or your preferred programming language. Refer to the [API documentation](./src/api_gateway/documentation_part/) for information on available endpoints and request/response formats.
 
-Before making requests, ensure that you have the necessary authorization credentials and the required parameters for each API call. These details will be provided in the API documentation.
+Before making requests, ensure that you have the necessary authorization credentials and the required parameters for each API call. These details will be provided by [AWS Cognito](https://docs.aws.amazon.com/cognito/latest/developerguide/authentication.html).
 
 # Contributing
 Contributions to AWSAnimalCrossing are welcome! If you have any ideas, bug reports, or enhancements, please submit them as GitHub issues or create a pull request with your changes. For major contributions, it is recommended to discuss your ideas first by creating an issue to ensure alignment with the project's goals and direction. Please see the [CONTRIBUTION](./CONTRIBUTING.md) file fore more details.

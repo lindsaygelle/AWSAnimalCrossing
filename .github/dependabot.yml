@@ -1,0 +1,12 @@
+version: 2
+updates:
+  # Python dependency updates
+  - package-ecosystem: "python"
+    directory: "/src"
+    schedule:
+      interval: "daily"
+  # Terraform configuration updates
+  - package-ecosystem: "terraform"
+    directory: "/"
+    schedule:
+      interval: "daily"
