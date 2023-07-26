@@ -1,4 +1,6 @@
 # AWSAnimalCrossing
+![AWSAnimalCrossing](https://repository-images.githubusercontent.com/611549380/3e4600b2-a928-40d1-ba1d-4284c6d66196)
+
 AWSAnimalCrossing is a Terraform-based project that provides a REST API to access Animal Crossing: New Horizons data. It leverages various AWS services, including [API Gateway](https://aws.amazon.com/api-gateway/), [Cognito](https://aws.amazon.com/cognito/), [DynamoDB](https://aws.amazon.com/dynamodb/), [S3](https://aws.amazon.com/s3/), [Step Functions](https://aws.amazon.com/step-functions/), and [Lambda functions](https://aws.amazon.com/lambda/), to store and retrieve game [data](./data/raw/).
 
 # Introduction
