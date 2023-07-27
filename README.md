@@ -11,13 +11,54 @@ AWSAnimalCrossing is a project that utilizes [Amazon Web Services](https://aws.a
 This repository serves as a starting point for developers who want to explore the integration of AWS services with Animal Crossing: New Horizons. By leveraging Terraform, the project provides infrastructure-as-code for deploying and managing the necessary AWS resources needed to store and access the prepared data.
 
 # Features
-- Infrastructure as Code (IAC): The project is built on Terraform, enabling a smooth and automated creation of all the necessary resources required for its development.
-- REST API: To facilitate programmatic access and interaction with Animal Crossing: New Horizons data, the project incorporates API Gateway.
-- Data storage: The project leverages the robust DynamoDB as a scalable and dependable database solution, boasting low cost and latency.
-- Raw storage: For static content, including images, songs, and raw data, the project relies on S3, which acts as a reliable landing destination.
-- State machine: The project uses Step Functions to efficiently orchestrate and automate workflows, ensuring seamless data processing and synchronization across API Gateway and DynamoDB.
-- Lambda functions: Lambda functions play a key role in handling API requests, executing API logic, and facilitating smooth interactions with other AWS services.
-- User management: For comprehensive user management and granular permissions across the REST API, the project utilizes Cognito.
+<table>
+  <tr>
+    <td style="max-width:68px;min-width:68px;">
+      <img alt="Isabelle" src="./img/villager_special/icon/sza.png" style="display:block;width:100%;" />
+    </td>
+    <td>Infrastructure as Code (IAC): The project is built on Terraform, enabling a smooth and automated creation of all the necessary resources required for its development.</td>
+  </tr>
+  <tr>
+    <td>
+      <img alt="Tom" src="./img/villager_special/icon/rco.png" style="display:block;width:100%;" />
+    </td>
+    <td>
+      REST API: To facilitate programmatic access and interaction with Animal Crossing: New Horizons data, the project incorporates API Gateway.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img alt="Orville" src="./img/villager_special/icon/doc.png" style="display:block;width:100%;" />
+    </td>
+    <td>
+      Data storage: The project leverages the robust DynamoDB as a scalable and dependable database solution, boasting low cost and latency.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img alt="DaisyMae" src="./img/villager_special/icon/boc.png" style="display:block;width:100%;" />
+    </td>
+    <td>
+      State machine: The project uses Step Functions to efficiently orchestrate and automate workflows, ensuring seamless data processing and synchronization across API Gateway and DynamoDB.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img alt="KK" src="./img/villager_special/icon/tkkA.png" style="display:block;width:100%;" />
+    </td>
+    <td>
+      Lambda functions: Lambda functions play a key role in handling API requests, executing API logic, and facilitating smooth interactions with other AWS services.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img alt="Copper" src="./img/villager_special/icon/dga.png" style="display:block;width:100%;" />
+    </td>
+    <td>
+      User management: For comprehensive user management and granular permissions across the REST API, the project utilizes Cognito.
+    </td>
+  </tr>
+</table>
 
 # Requirements
 To use AWSAnimalCrossing, you need the following:
