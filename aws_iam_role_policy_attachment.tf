@@ -4,7 +4,7 @@ resource "aws_iam_role_policy_attachment" "api_gateway_dynamodb_full_access" {
 }
 
 resource "aws_iam_role_policy_attachment" "api_gateway_lambda_role" {
-  policy_arn = "arn:aws:iam::aws:policy/service-role/AWSLambdaRole"
+  policy_arn = aws_iam_policy.lambda_role.arn
   role       = aws_iam_role.api_gateway.name
 }
 
@@ -14,7 +14,7 @@ resource "aws_iam_role_policy_attachment" "api_gateway_cloud_watch_logs" {
 }
 
 resource "aws_iam_role_policy_attachment" "api_gateway_step_function_full_access" {
-  policy_arn = "arn:aws:iam::aws:policy/AWSStepFunctionsFullAccess"
+  policy_arn = aws_iam_policy.step_function_full_access.arn
   role       = aws_iam_role.api_gateway.name
 }
 
@@ -24,7 +24,7 @@ resource "aws_iam_role_policy_attachment" "lambda_s3_basic_execution_role" {
 }
 
 resource "aws_iam_role_policy_attachment" "lambda_s3_full_access" {
-  policy_arn = "arn:aws:iam::aws:policy/AmazonS3FullAccess"
+  policy_arn = aws_iam_policy.s3_full_access.arn
   role       = aws_iam_role.lambda.name
 }
 
@@ -34,7 +34,7 @@ resource "aws_iam_role_policy_attachment" "lambda_dynamodb_full_access" {
 }
 
 resource "aws_iam_role_policy_attachment" "step_function_full_access" {
-  policy_arn = "arn:aws:iam::aws:policy/AWSStepFunctionsFullAccess"
+  policy_arn = aws_iam_policy.step_function_full_access.arn
   role       = aws_iam_role.step_function.name
 }
 
@@ -44,11 +44,11 @@ resource "aws_iam_role_policy_attachment" "step_function_dynamodb_full_access" {
 }
 
 resource "aws_iam_role_policy_attachment" "step_function_s3_full_access" {
-  policy_arn = "arn:aws:iam::aws:policy/AmazonS3FullAccess"
+  policy_arn = aws_iam_policy.s3_full_access.arn
   role       = aws_iam_role.step_function.name
 }
 
 resource "aws_iam_role_policy_attachment" "step_function_lambda_role" {
-  policy_arn = "arn:aws:iam::aws:policy/service-role/AWSLambdaRole"
+  policy_arn = aws_iam_policy.lambda_role.arn
   role       = aws_iam_role.step_function.name
 }
